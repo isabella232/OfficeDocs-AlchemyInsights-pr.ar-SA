@@ -1,0 +1,2 @@
+## <a name="microsoft-open-source-code-of-conduct"></a>فتح Microsoft مصدر مدونة لقواعد السلوك
+وقد اعتمدت هذا المشروع [Microsoft المفتوحة المصدر مدونة قواعد السلوك](https://opensource.microsoft.com/codeofconduct/). لمزيد من المعلومات راجع [التعليمات البرمجية من الأسئلة المتداولة إجراء](https://opensource.microsoft.com/codeofconduct/faq/) أو اتصل [opencode@microsoft.com](mailto:opencode@microsoft.com) مع أي أسئلة إضافية أو تعليقات.

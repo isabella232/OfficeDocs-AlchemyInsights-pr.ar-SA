@@ -1,0 +1,29 @@
+---
+title: عندما يتم سداد بطاقة الائتمان الخاصة بي؟
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: mnirkhe
+ms.date: 3/20/2018
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom: Adm_O365
+ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
+ms.openlocfilehash: 2b59d78432c1ef62ba93c29965506cb1ec56c16b
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28272792"
+---
+# <a name="when-is-my-credit-card-charged"></a>عندما يتم سداد بطاقة الائتمان الخاصة بي؟
+
+بعملية شراء أولى، قد يستغرق مدة يومين للمسؤول عن حدوث.
+  
+التكاليف المتكررة تحدث خلال يوم واحد من إنشاء الفاتورة.
+  
+إذا لم ينجح هذا الاتهام، سيتم متابعة النظام لمحاولة تسوية الرصيد خلال الأسابيع القليلة القادمة. يمكنك إجراء تحديثات لمعلومات الدفع الخاصة بك في أي وقت للتأكد من محاولة التكاليف التالية بنجاح. لمزيد من المعلومات، راجع [إضافة أو تحديث أو إزالة بطاقة الائتمان أو رقم الحساب في Office 365 للعمل](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+  
+
