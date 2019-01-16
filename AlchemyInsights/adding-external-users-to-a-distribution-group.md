@@ -1,0 +1,46 @@
+---
+title: إضافة المستخدمين الخارجيين إلى مجموعة التوزيع؟
+ms.author: v-crytho
+author: CrystalThomasMS
+ms.date: 8/22/2017
+ms.audience: ITPro
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.assetid: caa0f310-0bb7-48e3-8ad2-cb358b53bbba
+ms.openlocfilehash: ed51d0e206469fce2a14c914c5cb1eff2052317b
+ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.translationtype: MT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 01/15/2019
+ms.locfileid: "28273955"
+---
+# <a name="adding-external-users-to-a-distribution-group"></a>إضافة المستخدمين الخارجيين إلى مجموعة التوزيع؟
+
+إضافة جهة اتصال خارجي لمجموعة التوزيع (DG) عملية من خطوتين:
+  
+1. إنشاء جهة "اتصال بريد" للمستخدمين الخارجيين:
+    
+1. انقر [هنا](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/Contact) للانتقال إلى الصفحة تحرير جهة الاتصال في مدخل مسؤول. 
+    
+2. انقر فوق **إضافة جهة اتصال**.
+    
+3. اكتب المعلومات الخاصة بجهة الاتصال، ثم انقر فوق **حفظ**.
+    
+2. إضافة جهة اتصال بريد إلى المديرية العامة الخاصة بك:
+    
+1. انقر [هنا](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/groups) للانتقال إلى صفحة المجموعات. 
+    
+2. البحث عن المدير العام الذي تريد إضافة مستخدم خارجي إلى، انقر فوقه لفتح مربع الحوار تحرير.
+    
+3. انقر فوق الزر **تحرير** في قائمة **الأعضاء** . 
+    
+4. انقر فوق **إضافة أعضاء**.
+    
+5. حدد "جهة اتصال بريد" قمت بإنشائه في الخطوة السابقة، ثم انقر فوق **حفظ**.
+    
+إذا حتى بعد اتباع هذه الخطوات لا يمكن إرسال رسائل البريد الإلكتروني إلى المدير العام الخاص بك المستخدمين الخارجيين أو عدم استلام رسائل البريد الإلكتروني منه، يمكن أن يتم تمييز المدير العام للسماح بالبريد الإلكتروني فقط من المستخدمين الداخليين. يمكنك التحقق من هذا التكوين وإصلاحها اتباع الإرشادات [هنا](https://support.office.com/article/https://support.office.com/article/Fix-email-delivery-issues-for-error-code-5-7-133-in-Office-365-991abc19-7756-438f-abcb-39f69b80f284.aspx)
+  
+ **ملاحظة:** لا تنطبق هذه التعليمات إذا كان نوع المجموعة الخاصة بك "جماعة Office 365" بدلاً من "مجموعة التوزيع". إذا كان الأمر كذلك، يمكنك إضافة المستخدم الخارجي مباشرة إلى المجموعة من Outlook أو Outlook على الويب. يمكن العثور على شرح مفصل على الضيوف مجموعات O365 وكذلك الإرشادات لإضافة ضيوف الخارجية في [هذه المقالة](https://support.office.com/article/https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx).
+  
+
