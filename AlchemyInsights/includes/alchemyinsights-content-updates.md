@@ -1,3 +1,11 @@
+---
+ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.translationtype: MT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 01/22/2019
+ms.locfileid: "29383129"
+---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
@@ -624,3 +632,14 @@
 | 11/1/2019 | [حذف حسابات المستخدمين](/AlchemyInsights/deleting-users) | تعديل |
 | 11/1/2019 | [نشر السلس تسجيل الدخول الأحادي](/AlchemyInsights/deploy-seamless-single-sign-on) | تعديل |
 | 11/1/2019 | [تعطيل الوصول إلى Yammer](/AlchemyInsights/disable-access-to-yammer) | تعديل |
+
+
+## <a name="week-of-january-14-2019"></a>الأسبوع من 14 كانون الثاني/يناير عام 2019
+
+
+| نشر في |عنوان الموضوع | تغيير |
+|------|------------|--------|
+| 14/1/2019 | نائب خيمياء | إزالة |
+| 14/1/2019 | إضافة مجال الكيمياء | إزالة |
+| 14/1/2019 | [خيمياء الأفكار الرئيسية](/AlchemyInsights/index) | تعديل |
+| 1/17/2019 | [مطابقة اسم الملف أفضل [# القاعدة-وصف]](/AlchemyInsights/1-alchemy-insight-template) | إضافة |
