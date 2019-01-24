@@ -1,10 +1,10 @@
 ---
-ms.openlocfilehash: 06c6f31405751acbe0477456685be44a43a37460
+ms.openlocfilehash: 213940d30877da1794b78f1d86bd2fa251bf4121
 ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/22/2019
-ms.locfileid: "29383129"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29454417"
 ---
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
@@ -14,7 +14,7 @@ ms.locfileid: "29383129"
 ## <a name="week-of-january-07-2019"></a>أسبوع 07 كانون الثاني/يناير عام 2019
 
 
-| نشر في |عنوان الموضوع | تغيير |
+| نشر في |عنوان الموضوع | تغيير. |
 |------|------------|--------|
 | 1/7/2019 | [تغيير كلمة المرور](/AlchemyInsights/change-your-password-in-outlook.com) | إضافة |
 | 1/7/2019 | [تغيير الأذونات على علبة بريد](/AlchemyInsights/changing-permissions-on-a-mailbox) | إضافة |
@@ -207,7 +207,7 @@ ms.locfileid: "29383129"
 | 1/10/2019 | [تظهر خلفية سوداء أو تنسيق الخلية لا تبدو صحيحة](/AlchemyInsights/a-black-background-appears-or-cell-formatting-doesn-t-look-right) | إضافة |
 | 1/10/2019 | [تم رفض الوصول عند تعيين محرك أقراص إلى SharePoint](/AlchemyInsights/access-denied-when-mapping-a-drive-to-sharepoint) | إضافة |
 | 1/10/2019 | [تم رفض الوصول عند عرض سير العمل](/AlchemyInsights/access-denied-when-viewing-a-workflow) | إضافة |
-| 1/10/2019 | [Access Services](/AlchemyInsights/access-services) | إضافة |
+| 1/10/2019 | Access Services | إضافة |
 | 1/10/2019 | [تنشيط اشتراك جديد مع مفتاح المنتج](/AlchemyInsights/activate-a-new-subscription-with-a-product-key) | إضافة |
 | 1/10/2019 | [تنشيط Office](/AlchemyInsights/activate-office) | إضافة |
 | 1/10/2019 | [تنشيط اشتراك Microsoft Office 365 ترخيص وحدة التخزين](/AlchemyInsights/activating-a-microsoft-office-365-volume-license-subscription) | إضافة |
@@ -302,7 +302,7 @@ ms.locfileid: "29383129"
 | 1/10/2019 | [إنشاء موقع اتصال](/AlchemyInsights/create-a-communication-site) | إضافة |
 | 1/10/2019 | [إنشاء تدفق](/AlchemyInsights/create-a-flow) | إضافة |
 | 1/10/2019 | [إنشاء موقع "فريق الحديثة"](/AlchemyInsights/create-a-modern-team-site) | إضافة |
-| 1/10/2019 | [إنشاء صندوق بريد مشترك](/AlchemyInsights/create-a-shared-mailbox) | إضافة |
+| 1/10/2019 | إنشاء علبة بريد مشتركة | إضافة |
 | 1/10/2019 | [إنشاء موقع SharePoint](/AlchemyInsights/create-a-sharepoint-site) | إضافة |
 | 1/10/2019 | [إنشاء موقع في SharePoint عبر إنترنت](/AlchemyInsights/create-a-site-in-sharepoint-online) | إضافة |
 | 1/10/2019 | [إنشاء واستخدام علبة بريد المشتركة](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | إضافة |
@@ -504,7 +504,7 @@ ms.locfileid: "29383129"
 | 11/1/2019 | [تظهر خلفية سوداء أو تنسيق الخلية لا تبدو صحيحة](/AlchemyInsights/a-black-background-appears-or-cell-formatting-doesn-t-look-right) | تعديل |
 | 11/1/2019 | [تم رفض الوصول عند تعيين محرك أقراص إلى SharePoint](/AlchemyInsights/access-denied-when-mapping-a-drive-to-sharepoint) | تعديل |
 | 11/1/2019 | [تم رفض الوصول عند عرض سير العمل](/AlchemyInsights/access-denied-when-viewing-a-workflow) | تعديل |
-| 11/1/2019 | [Access Services](/AlchemyInsights/access-services) | تعديل |
+| 11/1/2019 | Access Services | تعديل |
 | 11/1/2019 | [تنشيط اشتراك جديد مع مفتاح المنتج](/AlchemyInsights/activate-a-new-subscription-with-a-product-key) | تعديل |
 | 11/1/2019 | [تنشيط Office](/AlchemyInsights/activate-office) | تعديل |
 | 11/1/2019 | [تنشيط اشتراك Microsoft Office 365 ترخيص وحدة التخزين](/AlchemyInsights/activating-a-microsoft-office-365-volume-license-subscription) | تعديل |
@@ -599,7 +599,7 @@ ms.locfileid: "29383129"
 | 11/1/2019 | [إنشاء موقع اتصال](/AlchemyInsights/create-a-communication-site) | تعديل |
 | 11/1/2019 | [إنشاء تدفق](/AlchemyInsights/create-a-flow) | تعديل |
 | 11/1/2019 | [إنشاء موقع "فريق الحديثة"](/AlchemyInsights/create-a-modern-team-site) | تعديل |
-| 11/1/2019 | [إنشاء صندوق بريد مشترك](/AlchemyInsights/create-a-shared-mailbox) | تعديل |
+| 11/1/2019 | إنشاء علبة بريد مشتركة | تعديل |
 | 11/1/2019 | [إنشاء موقع SharePoint](/AlchemyInsights/create-a-sharepoint-site) | تعديل |
 | 11/1/2019 | [إنشاء موقع في SharePoint عبر إنترنت](/AlchemyInsights/create-a-site-in-sharepoint-online) | تعديل |
 | 11/1/2019 | [إنشاء واستخدام علبة بريد المشتركة](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | تعديل |
@@ -637,7 +637,7 @@ ms.locfileid: "29383129"
 ## <a name="week-of-january-14-2019"></a>الأسبوع من 14 كانون الثاني/يناير عام 2019
 
 
-| نشر في |عنوان الموضوع | تغيير |
+| نشر في |عنوان الموضوع | تغيير. |
 |------|------------|--------|
 | 14/1/2019 | نائب خيمياء | إزالة |
 | 14/1/2019 | إضافة مجال الكيمياء | إزالة |
