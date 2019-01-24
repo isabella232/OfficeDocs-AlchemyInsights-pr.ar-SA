@@ -9,17 +9,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
 ms.openlocfilehash: 44eafa916bf020254a06f7ffe95647ae70a314b1
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28274059"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29455617"
 ---
 # <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint أو أندريف بطيئة، غير قابلة للوصول أو غير متاحة للعديد من المستخدمين
 
 يمكن أن تكون هناك أسباب مختلفة ل SharePoint أو أندريف التي تظهر بطيئة أو غير قابلة للوصول أو غير متوفر. 
   
-1. إذا كان موقع SharePoint أو أونيدريفي بطيئة أو متأخرة لعدة مستخدمين، قد يكون هناك مشكلة في خدمة مؤقت حيث المستخدمين قد تواجه تأخيرات متقطعة أو أخطاء التنقل عند الوصول إلى مواقع SharePoint أو محتوى أونيدريفي. تحقق من [لوحة المعلومات الصحية الخدمة](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) لترى إذا تأثر المؤسسة الخاصة بك. 
+1. إذا كان موقع SharePoint أو أندريف بطيئة أو متأخرة لعدة مستخدمين، قد يكون هناك مشكلة في خدمة مؤقت حيث المستخدمين قد تواجه تأخيرات متقطعة أو أخطاء التنقل عند الوصول إلى مواقع SharePoint أو محتوى أندريف. تحقق من [لوحة المعلومات الصحية الخدمة](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) لترى إذا تأثر المؤسسة الخاصة بك. 
   
 2. في حالة مواجهة أداء بطيء بصفحة أو موقع SharePoint **الكلاسيكية** ، تستخدم [الصفحة أداة تشخيص](https://aka.ms/perftool) لتحليل الصفحات. 
   

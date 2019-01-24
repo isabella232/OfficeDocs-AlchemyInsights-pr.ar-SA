@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 69957735-7ae3-4622-b3cf-607c816f3651
 ms.openlocfilehash: 78e1efa7bbc31875759edaae5474b91e94faa141
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28273215"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29455723"
 ---
 # <a name="error-onedrive-cannot-connect-to-windows"></a>خطأ: لا يمكن الاتصال أندريف إلى Windows
 
 لحل رسالة الخطأ، ابحث عن الملف cldflt.sys لمعرفة ما إذا كان قيد التشغيل، وإذا لم يكن، تمكينها. 
   
-للحصول على معلومات إضافية حول كيفية تمكين الملف cldflt.sys، راجع [أندريف يتعذر على الاتصال Windows "خطأ عند محاولة الوصول إلى الملفات الموجودة في أندريف-](https://go.microsoft.com/fwlink/?Linkid=2031032)
+للحصول على معلومات إضافية حول كيفية تمكين الملف cldflt.sys، راجع [أونيدريفي يتعذر على الاتصال Windows "خطأ عند محاولة الوصول إلى الملفات الموجودة في أونيدريفي-](https://go.microsoft.com/fwlink/?Linkid=2031032)
   
 

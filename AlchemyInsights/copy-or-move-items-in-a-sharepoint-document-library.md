@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 592f502a-493f-4bf4-adc3-5bc8aea87bb5
 ms.openlocfilehash: d944b1d8a2c515dbe19bf34ed168a19b1e11e9ea
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28272810"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29455543"
 ---
 # <a name="copy-or-move-items-in-a-sharepoint-document-library"></a>نسخ أو نقل العناصر في مكتبة مستندات SharePoint
 
@@ -37,6 +37,6 @@ ms.locfileid: "28272810"
 3. انقر فوق **نسخ إلى هذا الموضع** أو **نقل هنا**.
     
 > [!NOTE]
->  يمكنك نسخ تصل إلى 500 ميغا بايت من الملفات والمجلدات في نفس الوقت. > عند نسخ المستندات التي لديها محفوظات الإصدار، يتم نسخ الإصدار الأحدث فقط. عند نقل المستندات، يتم أيضا نقل تاريخهم. 
+>  يمكنك نسخ تصل إلى 500 ميغا بايت من الملفات والمجلدات في نفس الوقت. يتم نسخ > عندما تقوم بنسخ المستندات التي لديها محفوظات الإصدار، أحدث إصدار. عند نقل المستندات، يتم أيضا نقل تاريخهم. 
   
 

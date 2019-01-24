@@ -1,5 +1,5 @@
 ---
-title: قم بالتبديل إلى Office 365 مختلفة "خطة الأعمال"
+title: التبديل إلى خطة مختلفة من Office 365 للأعمال
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 49d77463-d3da-4106-abcf-2d5209106ea2
 ms.openlocfilehash: 06ece0f33bc817aa9759cbc3487544ed5b48b946
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28273144"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29455415"
 ---
-# <a name="switch-to-a-different-office-365-for-business-plan"></a>قم بالتبديل إلى Office 365 مختلفة "خطة الأعمال"
+# <a name="switch-to-a-different-office-365-for-business-plan"></a>التبديل إلى خطة مختلفة من Office 365 للأعمال
 
 عند تغيير أعمالك، أو بحاجة إلى مزيد من ميزات Office 365، يمكنك التبديل خطط.
   

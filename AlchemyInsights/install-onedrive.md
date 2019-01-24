@@ -9,13 +9,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 89b29dd9-edfe-49a4-84eb-5dc270d64526
 ms.openlocfilehash: 8ce77ab9c63dcdc9f0e67ce15b05ca45495847b5
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28273388"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29455717"
 ---
-# <a name="install-onedrive"></a>تثبيت أونيدريفي
+# <a name="install-onedrive"></a>تثبيت أندريف
 
 عميل المزامنة أندريف المثبتة مع Windows 10. لتثبيت أندريف لنظام التشغيل Windows 7 أو Mac، أو للحصول على التطبيق المحمول للهاتف أو الكمبيوتر اللوحي الخاص بك، انتقل إلى [http://onedrive.com/download](http://onedrive.com/download).
   

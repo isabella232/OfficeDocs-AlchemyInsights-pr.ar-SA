@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
 ms.openlocfilehash: 29ad4d52d8879014cc9a06bc933d5dda136e6421
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28273238"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29455787"
 ---
 # <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>الملفات التي لا يمكن تحميلها إلى SharePoint على الإنترنت
 
@@ -28,6 +28,6 @@ ms.locfileid: "28273238"
     
 - لا يحتوي اسم الملف على الأحرف " \* : \< \> ؟ / \ | وليس في قائمة [الأسماء غير الصحيحة](https://go.microsoft.com/fwlink/?linkid=866430).
     
-إذا كنت تحاول تحميل الملف باستخدام التطبيق أونيدريفي سطح المكتب، راجع [القيود والحدود عند مزامنة الملفات والمجلدات](http://go.microsoft.com/fwlink/p/?LinkID=717734) أو ["أونيدريفي إصلاح" مشاكل المزامنة](https://go.microsoft.com/fwlink/?linkid=866431).
+إذا كنت تحاول تحميل الملف باستخدام التطبيق أندريف سطح المكتب، راجع [القيود والحدود عند مزامنة الملفات والمجلدات](http://go.microsoft.com/fwlink/p/?LinkID=717734) أو ["أندريف إصلاح" مشاكل المزامنة](https://go.microsoft.com/fwlink/?linkid=866431).
   
 

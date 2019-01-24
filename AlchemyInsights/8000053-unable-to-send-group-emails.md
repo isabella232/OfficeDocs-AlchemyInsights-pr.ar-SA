@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4c1d6987-a004-4611-9f4f-b129ab14706b
 ms.openlocfilehash: d5ffe2695c7a81380126e6ee58eae8fcbcb72832
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28273372"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29455792"
 ---
 # <a name="unable-to-send-group-emails"></a>غير قادر على إرسال مجموعة رسائل البريد الإلكتروني
 
@@ -26,7 +26,7 @@ ms.locfileid: "28273372"
     
 2. إذا كنت لا تزال تواجه مشكلة في إنشاء رسالة بريد إلكتروني إلى المجموعة الخاصة بك، انتقل إلى [الأشخاص](https://outlook.live.com/people/)، قائمة جهات الاتصال أو مجموعة، ثم حدد واختر **إرسال البريد الإلكتروني**.
     
- **ملاحظات:**
+ ملاحظات:
   
 1. تأكد من عدم وجود حظر الإطارات المنبثقة: إرسال البريد الإلكتروني من صفحة قائمة جهات الاتصال إلى فتح إطار جديد.
     
