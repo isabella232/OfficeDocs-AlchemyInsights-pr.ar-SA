@@ -12,51 +12,51 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 1cba32c4-37ce-4ec1-9e58-8d3440b53d57
 ms.openlocfilehash: c71fce8621057093d23891c26f7b0285fdc8b9ed
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28273651"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29455906"
 ---
-# <a name="troubleshoot-password-synchronization"></a><span data-ttu-id="6a9c5-102">استكشاف أخطاء مزامنة كلمات المرور</span><span class="sxs-lookup"><span data-stu-id="6a9c5-102">Troubleshoot password synchronization</span></span>
+# <a name="troubleshoot-password-synchronization"></a><span data-ttu-id="5c3c4-102">استكشاف أخطاء مزامنة كلمات المرور</span><span class="sxs-lookup"><span data-stu-id="5c3c4-102">Troubleshoot password synchronization</span></span>
 
-<span data-ttu-id="6a9c5-103">لاستكشاف مشكلات فيها لم كلمات مرور متزامنة مع إصدار الاتصال الإعلان Azure 1.1.614.0 أو أحدث:</span><span class="sxs-lookup"><span data-stu-id="6a9c5-103">To troubleshoot issues where no passwords are synchronized with Azure AD Connect version 1.1.614.0 or later:</span></span>
+<span data-ttu-id="5c3c4-103">لاستكشاف مشكلات فيها لم كلمات مرور متزامنة مع إصدار الاتصال الإعلان Azure 1.1.614.0 أو أحدث:</span><span class="sxs-lookup"><span data-stu-id="5c3c4-103">To troubleshoot issues where no passwords are synchronized with Azure AD Connect version 1.1.614.0 or later:</span></span>
   
-1. <span data-ttu-id="6a9c5-104">فتح جلسة عمل Windows PowerShell جديدة على ملقم الاتصال الإعلان Azure مع الخيار **تشغيل كمسؤول** .</span><span class="sxs-lookup"><span data-stu-id="6a9c5-104">Open a new Windows PowerShell session on your Azure AD Connect server with the **Run as Administrator** option.</span></span> 
+1. <span data-ttu-id="5c3c4-104">فتح جلسة عمل Windows PowerShell جديدة على ملقم الاتصال الإعلان Azure مع الخيار **تشغيل كمسؤول** .</span><span class="sxs-lookup"><span data-stu-id="5c3c4-104">Open a new Windows PowerShell session on your Azure AD Connect server with the **Run as Administrator** option.</span></span> 
     
-2. <span data-ttu-id="6a9c5-105">تشغيل **مجموعة ExecutionPolicy RemoteSigned** أو **مجموعة ExecutionPolicy غير مقيد**.</span><span class="sxs-lookup"><span data-stu-id="6a9c5-105">Run **Set-ExecutionPolicy RemoteSigned** or **Set-ExecutionPolicy Unrestricted**.</span></span> 
+2. <span data-ttu-id="5c3c4-105">تشغيل **مجموعة ExecutionPolicy RemoteSigned** أو **مجموعة ExecutionPolicy غير مقيد**.</span><span class="sxs-lookup"><span data-stu-id="5c3c4-105">Run **Set-ExecutionPolicy RemoteSigned** or **Set-ExecutionPolicy Unrestricted**.</span></span> 
     
-3. <span data-ttu-id="6a9c5-106">بدء تشغيل معالج اتصال AD Azure.</span><span class="sxs-lookup"><span data-stu-id="6a9c5-106">Start the Azure AD Connect wizard.</span></span>
+3. <span data-ttu-id="5c3c4-106">بدء تشغيل معالج اتصال AD Azure.</span><span class="sxs-lookup"><span data-stu-id="5c3c4-106">Start the Azure AD Connect wizard.</span></span>
     
-4. <span data-ttu-id="6a9c5-107">انتقل إلى \* \* "مهام إضافية" \* \* الصفحة، حدد \* \* استكشاف \* \*، ثم انقر فوق **التالي**.</span><span class="sxs-lookup"><span data-stu-id="6a9c5-107">Navigate to the \*\* Additional Tasks \*\* page, select \*\* Troubleshoot \*\*, and click **Next**.</span></span> 
+4. <span data-ttu-id="5c3c4-107">انتقل إلى \* \* "مهام إضافية" \* \* الصفحة، حدد \* \* استكشاف \* \*، ثم انقر فوق **التالي**.</span><span class="sxs-lookup"><span data-stu-id="5c3c4-107">Navigate to the \*\* Additional Tasks \*\* page, select \*\* Troubleshoot \*\*, and click **Next**.</span></span> 
     
-5. <span data-ttu-id="6a9c5-108">في الصفحة استكشاف الأخطاء وإصلاحها، انقر فوق قائمة **التشغيل لبدء استكشاف الأخطاء وإصلاحها** في PowerShell.</span><span class="sxs-lookup"><span data-stu-id="6a9c5-108">On the Troubleshooting page, click **Launch to start the troubleshooting** menu in PowerShell.</span></span> 
+5. <span data-ttu-id="5c3c4-108">في الصفحة استكشاف الأخطاء وإصلاحها، انقر فوق قائمة **التشغيل لبدء استكشاف الأخطاء وإصلاحها** في PowerShell.</span><span class="sxs-lookup"><span data-stu-id="5c3c4-108">On the Troubleshooting page, click **Launch to start the troubleshooting** menu in PowerShell.</span></span> 
     
-6. <span data-ttu-id="6a9c5-109">في القائمة الرئيسية، حدد **استكشاف أخطاء مزامنة كلمات المرور**.</span><span class="sxs-lookup"><span data-stu-id="6a9c5-109">In the main menu, select **Troubleshoot Password Synchronization**.</span></span> 
+6. <span data-ttu-id="5c3c4-109">في القائمة الرئيسية، حدد **استكشاف أخطاء مزامنة كلمات المرور**.</span><span class="sxs-lookup"><span data-stu-id="5c3c4-109">In the main menu, select **Troubleshoot Password Synchronization**.</span></span> 
     
-7. <span data-ttu-id="6a9c5-110">في القائمة الفرعية، حدد **"كلمة المرور المزامنة" لا تعمل على الإطلاق**.</span><span class="sxs-lookup"><span data-stu-id="6a9c5-110">In the sub menu, select **Password Synchronization does not work at all**.</span></span> 
+7. <span data-ttu-id="5c3c4-110">في القائمة الفرعية، حدد **"كلمة المرور المزامنة" لا تعمل على الإطلاق**.</span><span class="sxs-lookup"><span data-stu-id="5c3c4-110">In the sub menu, select **Password Synchronization does not work at all**.</span></span> 
     
- <span data-ttu-id="6a9c5-111">**فهم نتائج مهمة استكشاف الأخطاء وإصلاحها**</span><span class="sxs-lookup"><span data-stu-id="6a9c5-111">**Understand the results of the troubleshooting task**</span></span>
+ <span data-ttu-id="5c3c4-111">**فهم نتائج مهمة استكشاف الأخطاء وإصلاحها**</span><span class="sxs-lookup"><span data-stu-id="5c3c4-111">**Understand the results of the troubleshooting task**</span></span>
   
-<span data-ttu-id="6a9c5-112">مهمة استكشاف الأخطاء وإصلاحها يقوم بتنفيذ الاختبارات التالية:</span><span class="sxs-lookup"><span data-stu-id="6a9c5-112">The troubleshooting task performs the following checks:</span></span>
+<span data-ttu-id="5c3c4-112">مهمة استكشاف الأخطاء وإصلاحها يقوم بتنفيذ الاختبارات التالية:</span><span class="sxs-lookup"><span data-stu-id="5c3c4-112">The troubleshooting task performs the following checks:</span></span>
   
-- <span data-ttu-id="6a9c5-113">التحقق من تمكين ميزة مزامنة كلمة المرور للمستأجر Azure الإعلان الخاص بك.</span><span class="sxs-lookup"><span data-stu-id="6a9c5-113">Validates that the password synchronization feature is enabled for your Azure AD tenant.</span></span>
+- <span data-ttu-id="5c3c4-113">التحقق من تمكين ميزة مزامنة كلمة المرور للمستأجر Azure الإعلان الخاص بك.</span><span class="sxs-lookup"><span data-stu-id="5c3c4-113">Validates that the password synchronization feature is enabled for your Azure AD tenant.</span></span>
     
-- <span data-ttu-id="6a9c5-114">التحقق من أن الملقم الاتصال الإعلان Azure ليس في إعداد وضع.</span><span class="sxs-lookup"><span data-stu-id="6a9c5-114">Validates that the Azure AD Connect server is not in staging mode.</span></span>
+- <span data-ttu-id="5c3c4-114">التحقق من أن الملقم الاتصال الإعلان Azure ليس في إعداد وضع.</span><span class="sxs-lookup"><span data-stu-id="5c3c4-114">Validates that the Azure AD Connect server is not in staging mode.</span></span>
     
-- <span data-ttu-id="6a9c5-115">لكل القائمة الداخلية Active Directory الموصل (الذي يقابل إلى مجموعة تفرعات "Active Directory" موجودة):</span><span class="sxs-lookup"><span data-stu-id="6a9c5-115">For each existing on-premises Active Directory connector (which corresponds to an existing Active Directory forest):</span></span>
+- <span data-ttu-id="5c3c4-115">لكل القائمة الداخلية Active Directory الموصل (الذي يقابل إلى مجموعة تفرعات "Active Directory" موجودة):</span><span class="sxs-lookup"><span data-stu-id="5c3c4-115">For each existing on-premises Active Directory connector (which corresponds to an existing Active Directory forest):</span></span>
     
 - 
-  - <span data-ttu-id="6a9c5-116">التحقق من تمكين ميزة مزامنة كلمة المرور.</span><span class="sxs-lookup"><span data-stu-id="6a9c5-116">Validates that the password synchronization feature is enabled.</span></span>
+  - <span data-ttu-id="5c3c4-116">التحقق من تمكين ميزة مزامنة كلمة المرور.</span><span class="sxs-lookup"><span data-stu-id="5c3c4-116">Validates that the password synchronization feature is enabled.</span></span>
     
-  - <span data-ttu-id="6a9c5-117">البحث عن أحداث نبضات المزامنة كلمة المرور في سجلات Windows Application Event.</span><span class="sxs-lookup"><span data-stu-id="6a9c5-117">Searches for password synchronization heartbeat events in the Windows Application Event logs.</span></span>
+  - <span data-ttu-id="5c3c4-117">البحث عن أحداث نبضات المزامنة كلمة المرور في سجلات Windows Application Event.</span><span class="sxs-lookup"><span data-stu-id="5c3c4-117">Searches for password synchronization heartbeat events in the Windows Application Event logs.</span></span>
     
-  - <span data-ttu-id="6a9c5-118">لكل مجال Active Directory ضمن موصل "خدمة active Directory" الداخلي:</span><span class="sxs-lookup"><span data-stu-id="6a9c5-118">For each Active Directory domain under the on-premises Active Directory connector:</span></span>
+  - <span data-ttu-id="5c3c4-118">لكل مجال Active Directory ضمن موصل "خدمة active Directory" الداخلي:</span><span class="sxs-lookup"><span data-stu-id="5c3c4-118">For each Active Directory domain under the on-premises Active Directory connector:</span></span>
     
-  - <span data-ttu-id="6a9c5-119">التحقق من صحة المجال قابل من الملقم الاتصال الإعلان Azure.</span><span class="sxs-lookup"><span data-stu-id="6a9c5-119">Validates that the domain is reachable from the Azure AD Connect server.</span></span>
+  - <span data-ttu-id="5c3c4-119">التحقق من صحة المجال قابل من الملقم الاتصال الإعلان Azure.</span><span class="sxs-lookup"><span data-stu-id="5c3c4-119">Validates that the domain is reachable from the Azure AD Connect server.</span></span>
     
-  - <span data-ttu-id="6a9c5-120">التحقق من وجود حسابات "خدمات مجال خدمة active Directory" (AD DS) المستخدمة بواسطة موصل "خدمة active Directory" على أماكن العمل اسم المستخدم الصحيح وكلمة المرور والأذونات المطلوبة لمزامنة كلمات المرور.</span><span class="sxs-lookup"><span data-stu-id="6a9c5-120">Validates that the Active Directory Domain Services (AD DS) accounts used by the on-premises Active Directory connector has the correct username, password, and permissions required for password synchronization.</span></span>
+  - <span data-ttu-id="5c3c4-120">التحقق من وجود حسابات "خدمات مجال خدمة active Directory" (AD DS) المستخدمة بواسطة موصل "خدمة active Directory" على أماكن العمل اسم المستخدم الصحيح وكلمة المرور والأذونات المطلوبة لمزامنة كلمات المرور.</span><span class="sxs-lookup"><span data-stu-id="5c3c4-120">Validates that the Active Directory Domain Services (AD DS) accounts used by the on-premises Active Directory connector has the correct username, password, and permissions required for password synchronization.</span></span>
     
-<span data-ttu-id="6a9c5-121">لمزيد من استكشاف الأخطاء وإصلاحها مزامنة كلمة المرور، راجع [استكشاف الأخطاء وإصلاحها مزامنة كلمات المرور مع تزامن الاتصال الإعلان Azure](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).</span><span class="sxs-lookup"><span data-stu-id="6a9c5-121">For more help troubleshooting password sync, see [Troubleshoot password synchronization with Azure AD Connect sync](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).</span></span>
+<span data-ttu-id="5c3c4-121">لمزيد من استكشاف الأخطاء وإصلاحها مزامنة كلمة المرور، راجع [استكشاف الأخطاء وإصلاحها مزامنة كلمات المرور مع تزامن الاتصال الإعلان Azure](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).</span><span class="sxs-lookup"><span data-stu-id="5c3c4-121">For more help troubleshooting password sync, see [Troubleshoot password synchronization with Azure AD Connect sync](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnectsync-troubleshoot-password-synchronization).</span></span>
   
 

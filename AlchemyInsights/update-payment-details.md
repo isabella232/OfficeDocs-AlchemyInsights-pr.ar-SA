@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: f8d8b8d1-aed2-47df-b9bc-5f71b3c109dd
 ms.openlocfilehash: 366a29a2d3c0345ce857904bdceb8250ea88dc0f
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28273782"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29455883"
 ---
-# <a name="update-payment-details"></a><span data-ttu-id="470de-102">تحديث تفاصيل الدفع</span><span class="sxs-lookup"><span data-stu-id="470de-102">Update payment details</span></span>
+# <a name="update-payment-details"></a><span data-ttu-id="f666c-102">تحديث تفاصيل الدفع</span><span class="sxs-lookup"><span data-stu-id="f666c-102">Update payment details</span></span>
 
-1. <span data-ttu-id="470de-103">في مركز الإدارة، انتقل إلى صفحة [طرق الدفع](https://go.microsoft.com/fwlink/p/?linkid=2018806) ، أو اختر **الفواتير** \> **طرق الدفع**.</span><span class="sxs-lookup"><span data-stu-id="470de-103">In the Admin center, go to the [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page, or choose **Billing** \> **Payment methods**.</span></span>
+1. <span data-ttu-id="f666c-103">في مركز الإدارة، انتقل إلى صفحة [طرق الدفع](https://go.microsoft.com/fwlink/p/?linkid=2018806) ، أو اختر **الفواتير** \> **طرق الدفع**.</span><span class="sxs-lookup"><span data-stu-id="f666c-103">In the Admin center, go to the [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page, or choose **Billing** \> **Payment methods**.</span></span>
     
     > [!NOTE]
-    > <span data-ttu-id="470de-104">إذا واجهت حلقة إرسال إلى الصفحة الرئيسية المسؤول قبل اكتمال التحديثات الخاصة بك، حاول وضع التخفي أو Inprivate.</span><span class="sxs-lookup"><span data-stu-id="470de-104">If you experience a loop that sends you back to the Admin home page before your updates are complete, try Inprivate or Incognito mode.</span></span> 
+    > <span data-ttu-id="f666c-104">إذا واجهت حلقة إرسال إلى الصفحة الرئيسية المسؤول قبل اكتمال التحديثات الخاصة بك، حاول وضع التخفي أو Inprivate.</span><span class="sxs-lookup"><span data-stu-id="f666c-104">If you experience a loop that sends you back to the Admin home page before your updates are complete, try Inprivate or Incognito mode.</span></span> 
   
-2. <span data-ttu-id="470de-105">اختر بطاقة الائتمان المراد تحديثها.</span><span class="sxs-lookup"><span data-stu-id="470de-105">Choose the credit card you would like to update.</span></span>
+2. <span data-ttu-id="f666c-105">اختر بطاقة الائتمان المراد تحديثها.</span><span class="sxs-lookup"><span data-stu-id="f666c-105">Choose the credit card you would like to update.</span></span>
     
     > [!NOTE]
-    > <span data-ttu-id="470de-p101">إضافة مسؤول آخر طريقة الدفع، لن تتمكن من تحديث معلومات بطاقتك الائتمانية أو حسابك البنكي له. إذا كانت بطاقة الائتمان أوشكت على الانتهاء ومسؤول آخر غير قادرة على تحديثه، يمكنك منع انقطاع الخدمة عن طريق إضافة بطاقة ائتمان مختلفة أو حساب بنكي جديد للاشتراك باختيار **طريقة إضافة الدفع**.</span><span class="sxs-lookup"><span data-stu-id="470de-p101">If another admin added the payment method, you won't be able to update the credit card or bank account information for it. If the credit card is about to expire and the other administrator isn't able to update it, you can prevent service interruption by adding a different credit card or new bank account for the subscription by choosing **Add payment method**.</span></span> 
+    > <span data-ttu-id="f666c-p101">إضافة مسؤول آخر طريقة الدفع، لن تتمكن من تحديث معلومات بطاقتك الائتمانية أو حسابك البنكي له. إذا كانت بطاقة الائتمان أوشكت على الانتهاء ومسؤول آخر غير قادرة على تحديثه، يمكنك منع انقطاع الخدمة عن طريق إضافة بطاقة ائتمان مختلفة أو حساب بنكي جديد للاشتراك باختيار **طريقة إضافة الدفع**.</span><span class="sxs-lookup"><span data-stu-id="f666c-p101">If another admin added the payment method, you won't be able to update the credit card or bank account information for it. If the credit card is about to expire and the other administrator isn't able to update it, you can prevent service interruption by adding a different credit card or new bank account for the subscription by choosing **Add payment method**.</span></span> 
   
-3. <span data-ttu-id="470de-108">في صفحة **تفاصيل الدفع** ، اختر **تحرير تفاصيل الدفع**.</span><span class="sxs-lookup"><span data-stu-id="470de-108">On the **Payment details** page, choose **Edit payment details**.</span></span>
+3. <span data-ttu-id="f666c-108">في صفحة **تفاصيل الدفع** ، اختر **تحرير تفاصيل الدفع**.</span><span class="sxs-lookup"><span data-stu-id="f666c-108">On the **Payment details** page, choose **Edit payment details**.</span></span>
     
-4. <span data-ttu-id="470de-109">إجراء التحديثات ثم قم باختيار **حفظ**.</span><span class="sxs-lookup"><span data-stu-id="470de-109">Make the updates, and then choose **Save**.</span></span>
+4. <span data-ttu-id="f666c-109">إجراء التحديثات ثم قم باختيار **حفظ**.</span><span class="sxs-lookup"><span data-stu-id="f666c-109">Make the updates, and then choose **Save**.</span></span>
     
-5. <span data-ttu-id="470de-110">لإزالة طريقة الدفع هذه، اختر **حذف**.</span><span class="sxs-lookup"><span data-stu-id="470de-110">To remove this payment method, choose **Delete**.</span></span>
+5. <span data-ttu-id="f666c-110">لإزالة طريقة الدفع هذه، اختر **حذف**.</span><span class="sxs-lookup"><span data-stu-id="f666c-110">To remove this payment method, choose **Delete**.</span></span>
     
-<span data-ttu-id="470de-111">لمزيد من المعلومات، راجع [إضافة أو تحديث أو إزالة بطاقة الائتمان أو رقم الحساب في Office 365 للشركات](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) و [الحسابات المصرفية وبطاقات الائتمان استكشاف الأخطاء وإصلاحها](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).</span><span class="sxs-lookup"><span data-stu-id="470de-111">For more information, see [Add, update or remove a credit card or bank account in Office 365 for Business](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) and [Troubleshooting credit cards and bank accounts](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).</span></span>
+<span data-ttu-id="f666c-111">لمزيد من المعلومات، راجع [إضافة أو تحديث أو إزالة بطاقة الائتمان أو رقم الحساب في Office 365 للشركات](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) و [الحسابات المصرفية وبطاقات الائتمان استكشاف الأخطاء وإصلاحها](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).</span><span class="sxs-lookup"><span data-stu-id="f666c-111">For more information, see [Add, update or remove a credit card or bank account in Office 365 for Business](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) and [Troubleshooting credit cards and bank accounts](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).</span></span>
   
 
