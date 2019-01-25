@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: b65125f0-7d6a-42c8-a5d8-a1ce733dddf7
 ms.openlocfilehash: a5f5a31e946e4f916dc926ede32dbdafae2d0196
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28273522"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29498793"
 ---
-# <a name="delete-a-contact"></a><span data-ttu-id="9f0be-102">حذف جهة اتصال</span><span class="sxs-lookup"><span data-stu-id="9f0be-102">Delete a contact</span></span>
+# <a name="delete-a-contact"></a><span data-ttu-id="8618d-102">حذف جهة اتصال</span><span class="sxs-lookup"><span data-stu-id="8618d-102">Delete a contact</span></span>
 
-1. <span data-ttu-id="9f0be-p101">في أعلى الصفحة، حدد مشغل التطبيق !["تطبيق مشغل" الزر. ](media/9634bec0-78d1-4282-8aea-7c5e81f162d2.png) ثم حدد **الأشخاص**.</span><span class="sxs-lookup"><span data-stu-id="9f0be-p101">At the top of the page, select the app launcher ![The App Launcher button.](media/9634bec0-78d1-4282-8aea-7c5e81f162d2.png) and then select **People**.</span></span> 
+1. <span data-ttu-id="8618d-p101">في أعلى الصفحة، حدد مشغل التطبيق !["تطبيق مشغل" الزر. ](media/9634bec0-78d1-4282-8aea-7c5e81f162d2.png) ثم حدد **الأشخاص**.</span><span class="sxs-lookup"><span data-stu-id="8618d-p101">At the top of the page, select the app launcher ![The App Launcher button.](media/9634bec0-78d1-4282-8aea-7c5e81f162d2.png) and then select **People**.</span></span> 
     
-2. <span data-ttu-id="9f0be-105">حدد جهة الاتصال التي تريد حذفها، ثم حدد **حذف**![حذف](media/deb47846-8483-4f9d-813a-fc8fe288b583.png).</span><span class="sxs-lookup"><span data-stu-id="9f0be-105">Select the contact you want to delete and select **Delete**![Delete](media/deb47846-8483-4f9d-813a-fc8fe288b583.png).</span></span>
+2. <span data-ttu-id="8618d-105">حدد جهة الاتصال التي تريد حذفها، ثم حدد **حذف**![حذف](media/deb47846-8483-4f9d-813a-fc8fe288b583.png).</span><span class="sxs-lookup"><span data-stu-id="8618d-105">Select the contact you want to delete and select **Delete**![Delete](media/deb47846-8483-4f9d-813a-fc8fe288b583.png).</span></span>
     
-    <span data-ttu-id="9f0be-p102">إذا كان لا يمكنك تحديد **حذف**، قد تكون جهة الاتصال من Skype أو حساب شبكة اجتماعية متصلة. لحذف جهة الاتصال، انتقل إلى Skype أو الحساب فيه جهة الاتصال.</span><span class="sxs-lookup"><span data-stu-id="9f0be-p102">If you can't select **Delete**, the contact might be from Skype or a connected social network account. To delete the contact, go to Skype or the account where the contact is located.</span></span>
+    <span data-ttu-id="8618d-p102">إذا كان لا يمكنك تحديد **حذف**، قد تكون جهة الاتصال من Skype أو حساب شبكة اجتماعية متصلة. لحذف جهة الاتصال، انتقل إلى Skype أو الحساب فيه جهة الاتصال.</span><span class="sxs-lookup"><span data-stu-id="8618d-p102">If you can't select **Delete**, the contact might be from Skype or a connected social network account. To delete the contact, go to Skype or the account where the contact is located.</span></span>
     
-3. <span data-ttu-id="9f0be-108">انقر فوق **حذف** للتأكيد.</span><span class="sxs-lookup"><span data-stu-id="9f0be-108">Select **Delete** to confirm.</span></span> 
+3. <span data-ttu-id="8618d-108">انقر فوق **حذف** للتأكيد.</span><span class="sxs-lookup"><span data-stu-id="8618d-108">Select **Delete** to confirm.</span></span> 
     
 
