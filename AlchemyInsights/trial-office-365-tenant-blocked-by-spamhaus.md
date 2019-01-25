@@ -9,14 +9,14 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 5cba50a0-257f-45de-9f68-df9250838eba
 ms.openlocfilehash: 9b57b68c3ab7c3093642c8d21e1b538e1c6f98c2
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28273775"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29456024"
 ---
-# <a name="error-when-an-office-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a><span data-ttu-id="87da4-102">حدث خطأ عند قيام مستخدم Office 365 تجريبية بإرسال البريد الإلكتروني: حظر استخدام Spamhaus المضيف العميل</span><span class="sxs-lookup"><span data-stu-id="87da4-102">Error when an Office 365 trial user sends email: Client host blocked using Spamhaus</span></span>
+# <a name="error-when-an-office-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a><span data-ttu-id="83cfb-102">حدث خطأ عند قيام مستخدم Office 365 تجريبية بإرسال البريد الإلكتروني: حظر استخدام Spamhaus المضيف العميل</span><span class="sxs-lookup"><span data-stu-id="83cfb-102">Error when an Office 365 trial user sends email: Client host blocked using Spamhaus</span></span>
 
-<span data-ttu-id="87da4-p101">ويبدو أن تقوم بإرسال البريد الإلكتروني من مؤسسة Office 365 تجريبية جديدة. لمنع إساءة استخدام، نحن حظر عناوين IP التي تم اكتشافها مسبقاً. لم يعد يتم فرض هذا الاختيار محددة بعد بدء استخدام تراخيص دفع. قد تتمكن من الحصول على تخفيف مؤقت بطلب الحصول على عنوان IP جديد من موفر خدمة إنترنت (ISP)، أو عن طريق إزالة الكتلة من موقع [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) .</span><span class="sxs-lookup"><span data-stu-id="87da4-p101">It appears that you are sending email from a new Office 365 trial organization. To help prevent abuse, we block IP addresses that are known to have been previously compromised. This specific check is no longer enforced after you start using paid licenses. You might be able to get temporary relief by asking for a new IP address from your internet service provider (ISP), or by removing the block from the [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) website.</span></span> 
+<span data-ttu-id="83cfb-p101">ويبدو أن تقوم بإرسال البريد الإلكتروني من مؤسسة Office 365 تجريبية جديدة. لمنع إساءة استخدام، نحن حظر عناوين IP التي تم اكتشافها مسبقاً. لم يعد يتم فرض هذا الاختيار محددة بعد بدء استخدام تراخيص دفع. قد تتمكن من الحصول على تخفيف مؤقت بطلب الحصول على عنوان IP جديد من موفر خدمة إنترنت (ISP)، أو عن طريق إزالة الكتلة من موقع [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) .</span><span class="sxs-lookup"><span data-stu-id="83cfb-p101">It appears that you are sending email from a new Office 365 trial organization. To help prevent abuse, we block IP addresses that are known to have been previously compromised. This specific check is no longer enforced after you start using paid licenses. You might be able to get temporary relief by asking for a new IP address from your internet service provider (ISP), or by removing the block from the [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) website.</span></span> 
   
 

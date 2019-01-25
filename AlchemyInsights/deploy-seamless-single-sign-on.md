@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 998d9af8-91c6-4583-a752-dfbf21f7d9b8
 ms.openlocfilehash: 2ff47d6c32a1c9b1867e164073c98ee5f0420904
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28272795"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29456094"
 ---
-# <a name="enable-seamless-sso"></a><span data-ttu-id="75250-102">تمكين SSO السلس</span><span class="sxs-lookup"><span data-stu-id="75250-102">Enable Seamless SSO</span></span>
+# <a name="enable-seamless-sso"></a><span data-ttu-id="91e02-102">تمكين SSO السلس</span><span class="sxs-lookup"><span data-stu-id="91e02-102">Enable Seamless SSO</span></span>
 
-<span data-ttu-id="75250-103">Azure خدمة active Directory (Azure AD) السلس تسجيل الدخول الأحادي (SSO السلس) تلقائياً بتسجيل المستخدمين عندما تكون على أسطح المكتب الخاصة بهم الشركة المتصلة بشبكة اتصال الشركة.</span><span class="sxs-lookup"><span data-stu-id="75250-103">Azure Active Directory (Azure AD) Seamless Single Sign-On (Seamless SSO) automatically signs in users when they are on their corporate desktops that are connected to your corporate network.</span></span>
+<span data-ttu-id="91e02-103">Azure خدمة active Directory (Azure AD) السلس تسجيل الدخول الأحادي (SSO السلس) تلقائياً بتسجيل المستخدمين عندما تكون على أسطح المكتب الخاصة بهم الشركة المتصلة بشبكة اتصال الشركة.</span><span class="sxs-lookup"><span data-stu-id="91e02-103">Azure Active Directory (Azure AD) Seamless Single Sign-On (Seamless SSO) automatically signs in users when they are on their corporate desktops that are connected to your corporate network.</span></span>
   
-[<span data-ttu-id="75250-104">اتبع الخطوات الموجودة في هذه المقالة لتمكين SSO السلس</span><span class="sxs-lookup"><span data-stu-id="75250-104">Follow the steps in this article to enable Seamless SSO</span></span>](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)
+[<span data-ttu-id="91e02-104">اتبع الخطوات الموجودة في هذه المقالة لتمكين SSO السلس</span><span class="sxs-lookup"><span data-stu-id="91e02-104">Follow the steps in this article to enable Seamless SSO</span></span>](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)
   
 

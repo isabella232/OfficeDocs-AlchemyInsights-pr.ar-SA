@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: b1cc6839-6bda-4e63-9d3d-c5e3d7313042
 ms.openlocfilehash: 73bb943f9128e38de437cd0f4b38b6d5082fa3d3
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28274000"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29456301"
 ---
-# <a name="office-2013-is-no-longer-supported-in-office-365-subscriptions"></a><span data-ttu-id="3c754-102">Office 2013 لم تعد معتمدة في الاشتراكات Office 365</span><span class="sxs-lookup"><span data-stu-id="3c754-102">Office 2013 is no longer supported in Office 365 subscriptions</span></span>
+# <a name="office-2013-is-no-longer-supported-in-office-365-subscriptions"></a><span data-ttu-id="db328-102">Office 2013 لم تعد معتمدة في الاشتراكات Office 365</span><span class="sxs-lookup"><span data-stu-id="db328-102">Office 2013 is no longer supported in Office 365 subscriptions</span></span>
 
-<span data-ttu-id="3c754-103">منذ 28 شباط/فبراير 2017، Office 2013 لم تعد معتمدة في الاشتراكات Office 365.</span><span class="sxs-lookup"><span data-stu-id="3c754-103">Since February 28, 2017, Office 2013 is no longer supported in Office 365 subscriptions.</span></span>
+<span data-ttu-id="db328-103">منذ 28 شباط/فبراير 2017، Office 2013 لم تعد معتمدة في الاشتراكات Office 365.</span><span class="sxs-lookup"><span data-stu-id="db328-103">Since February 28, 2017, Office 2013 is no longer supported in Office 365 subscriptions.</span></span>
   
-<span data-ttu-id="3c754-p101">لضمان أمان مجموعة Office الخاصة بك والحصول على كافة الميزات الحديثة، تثبيت أحدث إصدار من Office مجاناً كجزء من اشتراك Office 365. راجع [ترقية المستخدمين لعميل Office آخر](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client).</span><span class="sxs-lookup"><span data-stu-id="3c754-p101">To ensure the security of your Office suite and to get all of the latest features, install the latest version of Office for free as part of your Office 365 subscription. See [Upgrade your users to the latest Office client](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client).</span></span>
+<span data-ttu-id="db328-p101">لضمان أمان مجموعة Office الخاصة بك والحصول على كافة الميزات الحديثة، تثبيت أحدث إصدار من Office مجاناً كجزء من اشتراك Office 365. راجع [ترقية المستخدمين لعميل Office آخر](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client).</span><span class="sxs-lookup"><span data-stu-id="db328-p101">To ensure the security of your Office suite and to get all of the latest features, install the latest version of Office for free as part of your Office 365 subscription. See [Upgrade your users to the latest Office client](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client).</span></span>
   
 
