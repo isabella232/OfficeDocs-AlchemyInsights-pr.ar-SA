@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
 ms.openlocfilehash: 2de3ea135b137253e025ff417235b81afbb109cf
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28273318"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29456215"
 ---
 # <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>مشاركة الملفات في أندريف مع أشخاص خارج المؤسسة
 
@@ -39,6 +39,6 @@ ms.locfileid: "28273318"
     
 6. عندما تكون جاهزاً لإرسال الارتباط، انقر فوق **إرسال**. 
     
-[معرفة المزيد](https://go.microsoft.com/fwlink/?linkid=871861)
+معرفة المزيد
   
 

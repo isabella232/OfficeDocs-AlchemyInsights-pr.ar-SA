@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
 ms.openlocfilehash: 81bb27d7e09a528e07162298ff4f98b75c2dd41a
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28273218"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29456407"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>كيف يمكنني تحديث معلومات بطاقة الائتمان الخاصة بي؟
 

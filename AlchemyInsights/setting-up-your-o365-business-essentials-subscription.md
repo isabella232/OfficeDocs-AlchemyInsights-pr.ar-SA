@@ -9,11 +9,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
 ms.openlocfilehash: f637accfbcf9e3f77ab75dd89bb618e4eb5c4cf0
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28273991"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29456282"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>إعداد الاشتراك أساسيات العمل O365
 
@@ -39,7 +39,7 @@ ms.locfileid: "28273991"
     
 تخزين الملفات على الإنترنت
   
-- لمعرفة أي مواقع التخزين هي الأفضل للعمل، راجع [حيث يمكنك تخزين الملفات في Office 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). يحصل الجميع على موقع تخزين سحابة **أندريف** تلقائياً عند إنشاء حسابات Office 365 لهم. مع أونيدريفي، يمكنك الوصول إلى الملفات عبر أجهزة الكمبيوتر، والهواتف، وأقراص. 
+- لمعرفة أي مواقع التخزين هي الأفضل للعمل، راجع [حيث يمكنك تخزين الملفات في Office 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). يحصل الجميع على موقع تخزين سحابة **أندريف** تلقائياً عند إنشاء حسابات Office 365 لهم. مع أندريف، يمكنك الوصول إلى الملفات عبر أجهزة الكمبيوتر، والهواتف، وأقراص. 
     
 يمكنك العثور على خطوات تفصيلية حول الإعداد في [هذه المقالة](https://support.office.com/en-US/Article/set-up-Office-365-for-business-6a3a29a0-e616-4713-99d1-15eda62d04fa#ID0EAAAABAAA=Business_Essentials).
   

@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: fcaafe9d-80ee-404b-9a70-00bc4aa5e28a
 ms.openlocfilehash: 05346ac6e4d5eac40ff0d728b5be36f846460fc9
-ms.sourcegitcommit: d6ea5e9458a2b8ceaab3ac4bd483e1130b9a398a
+ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/15/2019
-ms.locfileid: "28272793"
+ms.lasthandoff: 01/24/2019
+ms.locfileid: "29456213"
 ---
 كمسؤول، لديك القدرة على منع الوصول إلى PowerShell Exchange عبر إنترنت للمستخدمين. لمزيد من المعلومات، راجع هذه المواضيع:
   
