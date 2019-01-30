@@ -1,11 +1,3 @@
----
-ms.openlocfilehash: 213940d30877da1794b78f1d86bd2fa251bf4121
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
-ms.contentlocale: ar-SA
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29454417"
----
 <!-- This file is generated automatically each week. Changes made to this file will be overwritten.-->
 
 
@@ -14,7 +6,7 @@ ms.locfileid: "29454417"
 ## <a name="week-of-january-07-2019"></a>أسبوع 07 كانون الثاني/يناير عام 2019
 
 
-| نشر في |عنوان الموضوع | تغيير. |
+| نشر في |عنوان الموضوع | تغيير |
 |------|------------|--------|
 | 1/7/2019 | [تغيير كلمة المرور](/AlchemyInsights/change-your-password-in-outlook.com) | إضافة |
 | 1/7/2019 | [تغيير الأذونات على علبة بريد](/AlchemyInsights/changing-permissions-on-a-mailbox) | إضافة |
@@ -207,7 +199,7 @@ ms.locfileid: "29454417"
 | 1/10/2019 | [تظهر خلفية سوداء أو تنسيق الخلية لا تبدو صحيحة](/AlchemyInsights/a-black-background-appears-or-cell-formatting-doesn-t-look-right) | إضافة |
 | 1/10/2019 | [تم رفض الوصول عند تعيين محرك أقراص إلى SharePoint](/AlchemyInsights/access-denied-when-mapping-a-drive-to-sharepoint) | إضافة |
 | 1/10/2019 | [تم رفض الوصول عند عرض سير العمل](/AlchemyInsights/access-denied-when-viewing-a-workflow) | إضافة |
-| 1/10/2019 | Access Services | إضافة |
+| 1/10/2019 | [Access Services](/AlchemyInsights/access-services) | إضافة |
 | 1/10/2019 | [تنشيط اشتراك جديد مع مفتاح المنتج](/AlchemyInsights/activate-a-new-subscription-with-a-product-key) | إضافة |
 | 1/10/2019 | [تنشيط Office](/AlchemyInsights/activate-office) | إضافة |
 | 1/10/2019 | [تنشيط اشتراك Microsoft Office 365 ترخيص وحدة التخزين](/AlchemyInsights/activating-a-microsoft-office-365-volume-license-subscription) | إضافة |
@@ -273,7 +265,7 @@ ms.locfileid: "29454417"
 | 1/10/2019 | [تغيير عدد مرات الدفع](/AlchemyInsights/change-how-often-you-pay) | إضافة |
 | 1/10/2019 | [تغيير هيئة أطباء العالم](/AlchemyInsights/change-mdm-authority) | إضافة |
 | 1/10/2019 | [تغيير الأسماء](/AlchemyInsights/change-nameservers) | إضافة |
-| 1/10/2019 | [تغيير أندريف للحصة النسبية للتخزين العمل](/AlchemyInsights/change-onedrive-for-business-storage-quota) | إضافة |
+| 1/10/2019 | [تغيير أونيدريفي للحصة النسبية للتخزين العمل](/AlchemyInsights/change-onedrive-for-business-storage-quota) | إضافة |
 | 1/10/2019 | [تغيير طريقة الدفع](/AlchemyInsights/change-payment-method) | إضافة |
 | 1/10/2019 | [تغيير الأذونات لمكتبة أو قائمة SharePoint](/AlchemyInsights/change-permissions-for-a-sharepoint-list-or-library) | إضافة |
 | 1/10/2019 | [تغيير عنوان البريد الإلكتروني البديل للفوترة الإعلام](/AlchemyInsights/change-the-alternate-email-address-for-billing-notification) | إضافة |
@@ -302,7 +294,7 @@ ms.locfileid: "29454417"
 | 1/10/2019 | [إنشاء موقع اتصال](/AlchemyInsights/create-a-communication-site) | إضافة |
 | 1/10/2019 | [إنشاء تدفق](/AlchemyInsights/create-a-flow) | إضافة |
 | 1/10/2019 | [إنشاء موقع "فريق الحديثة"](/AlchemyInsights/create-a-modern-team-site) | إضافة |
-| 1/10/2019 | إنشاء علبة بريد مشتركة | إضافة |
+| 1/10/2019 | [إنشاء صندوق بريد مشترك](/AlchemyInsights/create-a-shared-mailbox) | إضافة |
 | 1/10/2019 | [إنشاء موقع SharePoint](/AlchemyInsights/create-a-sharepoint-site) | إضافة |
 | 1/10/2019 | [إنشاء موقع في SharePoint عبر إنترنت](/AlchemyInsights/create-a-site-in-sharepoint-online) | إضافة |
 | 1/10/2019 | [إنشاء واستخدام علبة بريد المشتركة](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | إضافة |
@@ -504,7 +496,7 @@ ms.locfileid: "29454417"
 | 11/1/2019 | [تظهر خلفية سوداء أو تنسيق الخلية لا تبدو صحيحة](/AlchemyInsights/a-black-background-appears-or-cell-formatting-doesn-t-look-right) | تعديل |
 | 11/1/2019 | [تم رفض الوصول عند تعيين محرك أقراص إلى SharePoint](/AlchemyInsights/access-denied-when-mapping-a-drive-to-sharepoint) | تعديل |
 | 11/1/2019 | [تم رفض الوصول عند عرض سير العمل](/AlchemyInsights/access-denied-when-viewing-a-workflow) | تعديل |
-| 11/1/2019 | Access Services | تعديل |
+| 11/1/2019 | [Access Services](/AlchemyInsights/access-services) | تعديل |
 | 11/1/2019 | [تنشيط اشتراك جديد مع مفتاح المنتج](/AlchemyInsights/activate-a-new-subscription-with-a-product-key) | تعديل |
 | 11/1/2019 | [تنشيط Office](/AlchemyInsights/activate-office) | تعديل |
 | 11/1/2019 | [تنشيط اشتراك Microsoft Office 365 ترخيص وحدة التخزين](/AlchemyInsights/activating-a-microsoft-office-365-volume-license-subscription) | تعديل |
@@ -570,7 +562,7 @@ ms.locfileid: "29454417"
 | 11/1/2019 | [تغيير عدد مرات الدفع](/AlchemyInsights/change-how-often-you-pay) | تعديل |
 | 11/1/2019 | [تغيير هيئة أطباء العالم](/AlchemyInsights/change-mdm-authority) | تعديل |
 | 11/1/2019 | [تغيير الأسماء](/AlchemyInsights/change-nameservers) | تعديل |
-| 11/1/2019 | [تغيير أندريف للحصة النسبية للتخزين العمل](/AlchemyInsights/change-onedrive-for-business-storage-quota) | تعديل |
+| 11/1/2019 | [تغيير أونيدريفي للحصة النسبية للتخزين العمل](/AlchemyInsights/change-onedrive-for-business-storage-quota) | تعديل |
 | 11/1/2019 | [تغيير طريقة الدفع](/AlchemyInsights/change-payment-method) | تعديل |
 | 11/1/2019 | [تغيير الأذونات لمكتبة أو قائمة SharePoint](/AlchemyInsights/change-permissions-for-a-sharepoint-list-or-library) | تعديل |
 | 11/1/2019 | [تغيير عنوان البريد الإلكتروني البديل للفوترة الإعلام](/AlchemyInsights/change-the-alternate-email-address-for-billing-notification) | تعديل |
@@ -599,7 +591,7 @@ ms.locfileid: "29454417"
 | 11/1/2019 | [إنشاء موقع اتصال](/AlchemyInsights/create-a-communication-site) | تعديل |
 | 11/1/2019 | [إنشاء تدفق](/AlchemyInsights/create-a-flow) | تعديل |
 | 11/1/2019 | [إنشاء موقع "فريق الحديثة"](/AlchemyInsights/create-a-modern-team-site) | تعديل |
-| 11/1/2019 | إنشاء علبة بريد مشتركة | تعديل |
+| 11/1/2019 | [إنشاء صندوق بريد مشترك](/AlchemyInsights/create-a-shared-mailbox) | تعديل |
 | 11/1/2019 | [إنشاء موقع SharePoint](/AlchemyInsights/create-a-sharepoint-site) | تعديل |
 | 11/1/2019 | [إنشاء موقع في SharePoint عبر إنترنت](/AlchemyInsights/create-a-site-in-sharepoint-online) | تعديل |
 | 11/1/2019 | [إنشاء واستخدام علبة بريد المشتركة](/AlchemyInsights/create-and-use-a-shared-mailbox-0) | تعديل |
@@ -637,9 +629,25 @@ ms.locfileid: "29454417"
 ## <a name="week-of-january-14-2019"></a>الأسبوع من 14 كانون الثاني/يناير عام 2019
 
 
-| نشر في |عنوان الموضوع | تغيير. |
+| نشر في |عنوان الموضوع | تغيير |
 |------|------------|--------|
 | 14/1/2019 | نائب خيمياء | إزالة |
 | 14/1/2019 | إضافة مجال الكيمياء | إزالة |
 | 14/1/2019 | [خيمياء الأفكار الرئيسية](/AlchemyInsights/index) | تعديل |
 | 1/17/2019 | [مطابقة اسم الملف أفضل [# القاعدة-وصف]](/AlchemyInsights/1-alchemy-insight-template) | إضافة |
+
+
+## <a name="week-of-january-21-2019"></a>الأسبوع من 21 كانون الثاني/يناير عام 2019
+
+
+| نشر في |عنوان الموضوع | تغيير |
+|------|------------|--------|
+| 22/1/2019 | [البريد التطفلي 1047 550 5.7.708 خدمة غير متوفرة. تم رفض الوصول، لم يقبل من عنوان IP هذا المرور](/AlchemyInsights/1047-antispam-550-5-7-708-service-unavailable-access-denied-traffic-not-accepted) | تعديل |
+| 22/1/2019 | [1049 المستخدمة على مستوى 4.5.3 جداً العديد من المستلمين (AS780090)](/AlchemyInsights/1049-antispam-4-5-3-too-many-recipients-as780090) | تعديل |
+| 22/1/2019 | [ملقم البريد التطفلي 4.7.500 1050 مشغول. الرجاء المحاولة مرة أخرى لاحقاً من [XXX.XXX.XXX.XXX]](/AlchemyInsights/1050-antispam-4-7-500-server-busy-please-try-again-later-from-xxx-xxx-xxx-xxx) | تعديل |
+| 22/1/2019 | [1051 المستخدمة على مستوى 4.7.500 رفض الوصول، الرجاء المحاولة مرة أخرى لاحقاً](/AlchemyInsights/1051-antispam-4-7-500-access-denied-please-try-again-later) | تعديل |
+| 22/1/2019 | [ترحيل البريد الإلكتروني من خلال Office 365](/AlchemyInsights/relay-email-through-office-365) | تعديل |
+| 24/1/2019 | [إنشاء مجموعات التحكم](/AlchemyInsights/control-creation-of-groups) | تعديل |
+| 24/1/2019 | [مشاكل outlook مع Exchange 2007](/AlchemyInsights/outlook-issues-with-exchange-2007) | إضافة |
+| 24/1/2019 | [استعادة مجموعة 365 Office استخدام مركز مسؤول Exchange](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | إعادة تسمية |
+| 24/1/2019 | [استكشاف مشكلات Microsoft إينتوني](/AlchemyInsights/troubleshoot-issues-with-microsoft-intune) | إعادة تسمية |
