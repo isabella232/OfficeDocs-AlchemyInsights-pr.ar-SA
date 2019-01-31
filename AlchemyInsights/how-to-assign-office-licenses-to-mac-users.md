@@ -3,31 +3,32 @@ title: كيفية تعيين مكتب التراخيص لمستخدمي Mac
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/26/2018
+ms.date: 1/17/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 22777888-c472-437c-87cf-e3c52f3b310c
-ms.openlocfilehash: 23e680603bb120a3daadd0f5e912cae570d3b915
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: d95601e868d7c31d99f8a151677d4a9acf7dd15e
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29456310"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646298"
 ---
-# <a name="how-to-assign-office-licenses-to-mac-users"></a><span data-ttu-id="b3dad-102">كيفية تعيين مكتب التراخيص لمستخدمي Mac</span><span class="sxs-lookup"><span data-stu-id="b3dad-102">How to assign Office licenses to Mac users</span></span>
+# <a name="how-to-assign-office-licenses-to-mac-users"></a><span data-ttu-id="1be27-102">كيفية تعيين مكتب التراخيص لمستخدمي Mac</span><span class="sxs-lookup"><span data-stu-id="1be27-102">How to assign Office licenses to Mac users</span></span>
 
-- <span data-ttu-id="b3dad-103">في مركز مسؤول Office 365، انتقل إلى الصفحة [النشطة للمستخدمين](https://go.microsoft.com/fwlink/p/?linkid=834822) ، أو اختر **المستخدمين** \> **المستخدمين النشطين**.</span><span class="sxs-lookup"><span data-stu-id="b3dad-103">In the Office 365 admin center, go to the [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, or choose **Users** \> **Active users**.</span></span>
+- <span data-ttu-id="1be27-103">في مركز مسؤول Office 365، انتقل إلى الصفحة [النشطة للمستخدمين](https://go.microsoft.com/fwlink/p/?linkid=834822) ، أو اختر **المستخدمين** \> **المستخدمين النشطين**.</span><span class="sxs-lookup"><span data-stu-id="1be27-103">In the Office 365 admin center, go to the [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, or choose **Users** \> **Active users**.</span></span>
     
-- <span data-ttu-id="b3dad-104">حدد المربع الموجود بجانب الاسم المستخدم الذي تريد تعيين ترخيص.</span><span class="sxs-lookup"><span data-stu-id="b3dad-104">Select the box next to the name of the user to whom you want to assign a license.</span></span>
+- <span data-ttu-id="1be27-104">حدد المربع الموجود بجانب الاسم المستخدم الذي تريد تعيين ترخيص.</span><span class="sxs-lookup"><span data-stu-id="1be27-104">Select the box next to the name of the user to whom you want to assign a license.</span></span>
     
-- <span data-ttu-id="b3dad-105">على اليمين، في صف **تراخيص المنتجات** ، اختر **تحرير**.</span><span class="sxs-lookup"><span data-stu-id="b3dad-105">On the right, in the **Product licenses** row, choose **Edit**.</span></span>
+- <span data-ttu-id="1be27-105">على اليمين، في صف **تراخيص المنتجات** ، اختر **تحرير**.</span><span class="sxs-lookup"><span data-stu-id="1be27-105">On the right, in the **Product licenses** row, choose **Edit**.</span></span>
     
-- <span data-ttu-id="b3dad-106">في الجزء s **ترخيص المنتج**، قم بالتبديل التبديل إلى الموضع **على** الترخيص التي تريد تعيينها لهذا المستخدم.</span><span class="sxs-lookup"><span data-stu-id="b3dad-106">In the **Product license**s pane, switch the toggle to the **On** position for the license that you want to assign to this user.</span></span> 
+- <span data-ttu-id="1be27-106">في الجزء s **ترخيص المنتج**، قم بالتبديل التبديل إلى الموضع **على** الترخيص التي تريد تعيينها لهذا المستخدم.</span><span class="sxs-lookup"><span data-stu-id="1be27-106">In the **Product license**s pane, switch the toggle to the **On** position for the license that you want to assign to this user.</span></span> 
     
-- <span data-ttu-id="b3dad-107">في أسفل جزء **تراخيص المنتجات** ، اختر **حفظ** \> **إغلاق** \> **إغلاق**.</span><span class="sxs-lookup"><span data-stu-id="b3dad-107">At the bottom of the **Product licenses** pane, choose **Save** \> **Close** \> **Close**.</span></span>
+- <span data-ttu-id="1be27-107">في أسفل جزء **تراخيص المنتجات** ، اختر **حفظ** \> **إغلاق** \> **إغلاق**.</span><span class="sxs-lookup"><span data-stu-id="1be27-107">At the bottom of the **Product licenses** pane, choose **Save** \> **Close** \> **Close**.</span></span>
     
-<span data-ttu-id="b3dad-108">لمزيد من المعلومات: [تعيين التراخيص للمستخدمين في Office 365 للشركات](.md)</span><span class="sxs-lookup"><span data-stu-id="b3dad-108">For more information: [Assign licenses to users in Office 365 for business](.md)</span></span>
+<span data-ttu-id="1be27-108">لمزيد من المعلومات: [تعيين التراخيص للمستخدمين في Office 365 للشركات](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)</span><span class="sxs-lookup"><span data-stu-id="1be27-108">For more information: [Assign licenses to users in Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)</span></span>
   
 
