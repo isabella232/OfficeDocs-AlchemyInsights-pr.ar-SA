@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
 description: استهدف أكثر من 500 عبارة عن مقالة.
-ms.openlocfilehash: 001833aeec5e8f6783aaa68c45406d43aba752fb
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: ba06121faec69ab80805be9f1507a1dd5e9649d8
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498145"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29662170"
 ---
 استهدف أكثر من 500 عبارة عن مقالة.
   
@@ -33,6 +33,6 @@ ms.locfileid: "29498145"
     
 4. اختر **منع المستخدم من تسجيل الدخول** \> **حفظ**. 
     
- **ملاحظة**: تسجيل الخروج لبعض التطبيقات قد لا تكون فورية. متابعة المزيد من الإجراءات في هذه المقالة: [إزالة موظف سابق من Office 365](https://support.office.com/article/https://support.office.com/en-us/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx)
+ **ملاحظة**: تسجيل الخروج لبعض التطبيقات قد لا تكون فورية. متابعة المزيد من الإجراءات في هذه المقالة: [إزالة موظف سابق من Office 365](https://support.office.com/article/https://support.office.com/article/Remove-a-former-employee-from-Office-365-44d96212-4d90-4027-9aa9-a95eddb367d1.aspx)
   
 
