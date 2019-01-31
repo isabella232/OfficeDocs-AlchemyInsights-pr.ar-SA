@@ -9,22 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 2331b2a599da3bb05d6ae89dd80ef09739d5525a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 46f868dba0f5e99ed1d2df7cf9bed7e5ebb350c9
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29456364"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660118"
 ---
-- لتطبيق دعوى قضائية موضعية أو الاحتجاز اضغط لعلبة بريد، على [ترخيص Exchange عبر الإنترنت خطة 2](https://docs.microsoft.com/en-us/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) مطلوب. إذا كان لديك أية خطة أخرى، تعيين ترخيص منفصل [Exchange للأرشفة على الإنترنت](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) للحساب. 
+- لتطبيق دعوى قضائية موضعية أو الاحتجاز اضغط لعلبة بريد، على [ترخيص Exchange عبر الإنترنت خطة 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) مطلوب. إذا كان لديك أية خطة أخرى، تعيين ترخيص منفصل [Exchange للأرشفة على الإنترنت](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) للحساب. 
     
-- **لتمكين قائمة احتجاز دعوى قضائية** لمستخدم واحد، اتبع الخطوات المذكورة [هنا](https://docs.microsoft.com/en-us/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). عند تمكين الاحتجاز دعوى قضائية، يتم وضع كافة المحتويات الموجودة في علبة البريد قيد الاحتجاز.
+- **لتمكين قائمة احتجاز دعوى قضائية** لمستخدم واحد، اتبع الخطوات المذكورة [هنا](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). عند تمكين الاحتجاز دعوى قضائية، يتم وضع كافة المحتويات الموجودة في علبة البريد قيد الاحتجاز.
     
-- لتطبيق **عقد في نفس المكان على المستخدمين واحد** أو قائمة احتجاز **كافة علب البريد الموجودة في المؤسسة بأكملها**، يمكنك استخدام "نهج الاستبقاء" في مركز Office 365 الأمان والتوافق باتباع الخطوات المفصلة [هنا](https://docs.microsoft.com/en-us/Office365/securitycompliance/retention-policies ).
+- لتطبيق **عقد في نفس المكان على المستخدمين واحد** أو قائمة احتجاز **كافة علب البريد الموجودة في المؤسسة بأكملها**، يمكنك استخدام "نهج الاستبقاء" في مركز Office 365 الأمان والتوافق باتباع الخطوات المفصلة [هنا](https://docs.microsoft.com/Office365/securitycompliance/retention-policies ).
     
     > [!NOTE]
     > نهج الاستبقاء على نطاق المنظمة، مستخدمين جدد تلقائياً ستضاف إلى قائمة الاحتجاز. 
   
-- لعرض أو استكشاف المحتوى علبة البريد التي وضعها قيد الانتظار، استخدم **eDiscovery البحث والتصدير**. لمزيد من المعلومات حول استخدام **eDiscovery البحث والتصدير**، اتبع خطوات مفصلة [هنا](https://docs.microsoft.com/en-us/office365/securitycompliance/export-search-results).
+- لعرض أو استكشاف المحتوى علبة البريد التي وضعها قيد الانتظار، استخدم **eDiscovery البحث والتصدير**. لمزيد من المعلومات حول استخدام **eDiscovery البحث والتصدير**، اتبع خطوات مفصلة [هنا](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
     
 

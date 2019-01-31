@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 1aebfdf0e330fa12b481dad9cfaea9cbac39604a
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: baf55ea91d12e274140f2e56160d6c73336ac707
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29456172"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646370"
 ---
 # <a name="delete-sites-that-belong-to-an-office-365-group"></a>حذف المواقع التي تنتمي إلى مجموعة Office 365:
 
@@ -30,7 +30,7 @@ ms.locfileid: "29456172"
     
 ملاحظة: عندما تقوم بحذف مجموعة، يمكن أن يكون هناك تأخير قبل إزالة الموقع من SharePoint.
   
-## <a name="delete-communication-sites-or-classic-sites"></a>حذف مواقع الاتصال أو المواقع التقليدية:
+**حذف مواقع الاتصال أو المواقع التقليدية:**
 
 1. انتقل إلى الموقع.
   
@@ -38,7 +38,7 @@ ms.locfileid: "29456172"
   
 3. انقر فوق **إعدادات الموقع**. تحت **معلومات الموقع** أو **إجراءات الموقع**، انقر فوق **حذف هذا الموقع**، ومن ثم انقر فوق **حذف**.
   
-## <a name="delete-a-sharepoint-site-collection"></a>حذف مجموعة موقع SharePoint:
+**حذف مجموعة موقع SharePoint:**
 
 لحذف مجموعة مواقع التقليدية:
   
@@ -46,7 +46,7 @@ ms.locfileid: "29456172"
     
 2. في علامة التبويب "مجموعات الموقع"، حدد **حذف.**
     
-## <a name="deleted-a-site-by-accident"></a>حذف موقع عن طريق الصدفة؟
+**حذف موقع عن طريق الصدفة؟**
 
 راجع [استعادة مجموعة موقع حذف](https://go.microsoft.com/fwlink/?linkid=867660).
   

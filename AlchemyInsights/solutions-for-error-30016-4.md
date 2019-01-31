@@ -3,39 +3,35 @@ title: حلول لخطأ 30016 4
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 12/19/2018
+ms.date: 1/11/2019
 ms.audience: ITPro
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 21644564-4ba5-4537-abd3-9ac2dfe2ee47
-ms.openlocfilehash: 38079f76eb410592e48d93409e705faa9788fe19
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 03babc485f773dc7b3de2684ea3452904e1f32b1
+ms.sourcegitcommit: 7db628dc4bd6aa5e3edc1197a53402332273f885
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29455530"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29646262"
 ---
 # <a name="solutions-for-error-30016-4"></a>حلول لخطأ 30016 4
 
-عند محاولة إزالة تثبيت Office 365 ProPlus من جهاز كمبيوتر، قد تتلقى رسالة الخطأ التالية:
+
+عند محاولة إزالة تثبيت Office 365 ProPlus من كمبيوتر، ستظهر لك رسالة خطأ، **قد حدث خطأ 30016-4**، يعني أنه يتم تعيين محرك الأقراص **% temp %** إلى محرك أقراص مختلف **% ProgramFiles %**.
   
-> "حدث خطأ 30016-4"
-    
-تحدث هذه المشكلة إذا تم تعيين محرك الأقراص **% temp %** إلى محرك أقراص مختلف **% ProgramFiles %**. 
+لحل المشكلة، تنزيل وتثبيت [الدعم والاسترداد مساعد](https://aka.ms/SARA-OfficeUninstall-Alchemy)
   
-لحل المشكلة، إزالة Office من جهاز الكمبيوتر.
-  
-1. تنزيل وتثبيت [الدعم والاسترداد مساعد](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+1. عند فتحه، حدد من **منتجات Office إزالة تثبيت** الإصدار الذي ترغب في إلغاء تثبيتها وحدد **التالي**. 
     
-2. عند فتحه، حدد من **منتجات Office إزالة تثبيت** الإصدار الذي ترغب في إلغاء تثبيتها وحدد **التالي**. 
-    
-3. متابعة الانتقال عبر الشاشات وإعادة تشغيل جهاز الكمبيوتر عند مطالبتك بذلك.
+2. متابعة الانتقال عبر الشاشات وإعادة تشغيل جهاز الكمبيوتر عند مطالبتك بذلك.
     
     بعد إعادة التشغيل، الدعم والاسترداد مساعد إعادة فتح تلقائياً لإكمال عملية إزالة التثبيت.
     
-4. اتبع المطالبات المتبقية، وإعادة تثبيت Office أو إغلاق المساعد.
+3. اتبع المتبقية المطالبات، و [قم بإعادة تثبيت Office](https://portal.office.com/OLS/MySoftware.aspx) أو إغلاق المساعد. 
     
 

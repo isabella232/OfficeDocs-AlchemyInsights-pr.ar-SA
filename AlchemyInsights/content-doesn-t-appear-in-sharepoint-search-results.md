@@ -8,27 +8,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 693db84f-2737-4c21-b027-4ab3d121b4a8
-ms.openlocfilehash: d1834674b7f36c94dda5629c0a3263c0eec721cf
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 3871e2eed2e321e0df72fe3578a14ddd45ed8565
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29455590"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660514"
 ---
 # <a name="content-doesnt-appear-in-sharepoint-search-results"></a>لا يظهر المحتوى في نتائج البحث SharePoint
 
 اتبع خطوات استكشاف الأخطاء وإصلاحها عندما لا يظهر المحتوى المتوقع في نتائج البحث:
   
-1. تحقق من أن يتم تعيين **الموقع** الذي يحتوي على المحتوى المتوقع السماح بالمحتوى التي تظهر في نتائج البحث. اتبع الخطوات الموجودة في [إظهار المحتوى على موقع في نتائج البحث](https://docs.microsoft.com/en-us/sharepoint/make-site-content-searchable#show-content-on-a-site-in-search-results).
+1. تحقق من أن يتم تعيين **الموقع** الذي يحتوي على المحتوى المتوقع السماح بالمحتوى التي تظهر في نتائج البحث. اتبع الخطوات الموجودة في [إظهار المحتوى على موقع في نتائج البحث](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-on-a-site-in-search-results).
     
-2. تحقق من تعيين **القائمة** أو **المكتبة** التي تحتوي على المحتوى المتوقع السماح بالمحتوى التي تظهر في نتائج البحث. اتبع الخطوات الموجودة في [إظهار المحتوى من القوائم أو المكتبات الموجودة في نتائج البحث](https://docs.microsoft.com/en-us/sharepoint/make-site-content-searchable#show-content-from-lists-or-libraries-in-search-results). 
+2. تحقق من تعيين **القائمة** أو **المكتبة** التي تحتوي على المحتوى المتوقع السماح بالمحتوى التي تظهر في نتائج البحث. اتبع الخطوات الموجودة في [إظهار المحتوى من القوائم أو المكتبات الموجودة في نتائج البحث](https://docs.microsoft.com/sharepoint/make-site-content-searchable#show-content-from-lists-or-libraries-in-search-results). 
     
 3. التحقق من نشر الصفحة أو المستند، أو تخطيط الصفحة المخصصة **الإصدار الرئيسي.** اتبع الخطوة رقم 3 في [البحث لا ترجع كافة النتائج في SharePoint على الإنترنت](https://go.microsoft.com/fwlink/?linkid=874525).
     
 4. تحقق من أن المستخدم لديه **أذونات** لعرض المحتوى. اتبع الخطوات الموجودة في [فهم "مستويات الإذن" في SharePoint](https://go.microsoft.com/fwlink/?linkid=867071).
     
-5. **إعادة فهرسة** المحتوى باتباع الخطوات المذكورة في [طلب يدوياً تتبع الارتباطات وإعادة فهرسة موقع أو قائمة أو مكتبة](https://docs.microsoft.com/en-us/sharepoint/crawl-site-content). وهذا قد يستغرق بعض الوقت، الانتظار 24 ساعة قبل التحقق من النتائج.
+5. **إعادة فهرسة** المحتوى باتباع الخطوات المذكورة في [طلب يدوياً تتبع الارتباطات وإعادة فهرسة موقع أو قائمة أو مكتبة](https://docs.microsoft.com/sharepoint/crawl-site-content). وهذا قد يستغرق بعض الوقت، الانتظار 24 ساعة قبل التحقق من النتائج.
     
-لمزيد من المعلومات، راجع [تمكين المحتوى على موقع يمكن البحث فيها](https://docs.microsoft.com/en-us/sharepoint/make-site-content-searchable). 
+لمزيد من المعلومات، راجع [تمكين المحتوى على موقع يمكن البحث فيها](https://docs.microsoft.com/sharepoint/make-site-content-searchable). 
   
 

@@ -9,29 +9,29 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 59cd8630-6196-4680-ad92-1ce0e479f924
-ms.openlocfilehash: 41d6825b568263fb7b09066b65235aa348415bae
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 2147c70f64087bf95fc4e39c193caeac3b2c5361
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29455941"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660360"
 ---
 مشاكل أرشفة العناصر إلى أرشيف علبة البريد. تأكد من قيامك بتنفيذ الخطوات التالية:
   
-1. تأكد من أن **أرشفة علبة البريد** تم تمكينه. إذا لم يكن الأمر كذلك، استخدم الخطوات في [هذه المقالة](https://docs.microsoft.com/en-us/office365/securitycompliance/enable-archive-mailboxes) لتمكين علبة البريد الأرشيف. 
+1. تأكد من أن **أرشفة علبة البريد** تم تمكينه. إذا لم يكن الأمر كذلك، استخدم الخطوات في [هذه المقالة](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes) لتمكين علبة البريد الأرشيف. 
     
 2. في مركز مسؤول Exchange، حدد **علامات الاستبقاء** تحت **إدارة التوافق**، إنشاء **علامة استبقاء** مع عمل **نقل أرشيف** يتضمن المطلوب **الاستبقاء**.
     
 3. في مركز مسؤول Exchange، حدد **نهج الاستبقاء**وإنشاء **نهج الاستبقاء** وإضافة علامة استبقاء **نقل أرشيف** لذلك النهج. 
     
-4. [تعيين "نهج الاستبقاء"](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) لعلبة البريد لمستخدم معين. سيتم تطبيق نفس النهج **الأساسي** و **أرشيف** علبة البريد. 
+4. [تعيين "نهج الاستبقاء"](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) لعلبة البريد لمستخدم معين. سيتم تطبيق نفس النهج **الأساسي** و **أرشيف** علبة البريد. 
     
-علبة بريد المستخدم يجب الآن نهج أرشيف لنقل العناصر إلى أرشيف علبة البريد. قد يكون من الضروري فرض إدارة مجلد مساعد (وزارة الخارجية) لتشغيل وتطبيق الإعدادات الجديدة بعلبة بريد مستخدم. تشغيل الأمر التالي أثناء [الاتصال ب PowerShell أكسو](https://docs.microsoft.com/en-us/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) لبدء إدارة "مساعد المجلدات" لعلبة بريد محددة: 
+علبة بريد المستخدم يجب الآن نهج أرشيف لنقل العناصر إلى أرشيف علبة البريد. قد يكون من الضروري فرض إدارة مجلد مساعد (وزارة الخارجية) لتشغيل وتطبيق الإعدادات الجديدة بعلبة بريد مستخدم. تشغيل الأمر التالي أثناء [الاتصال ب PowerShell أكسو](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps) لبدء إدارة "مساعد المجلدات" لعلبة بريد محددة: 
   
 ```
 Start-ManagedFolderAssistant -Identity <name of the mailbox>
 ```
 
-للمزيد من المعلومات حول إعداد نهج أرشيف، راجع [إعداد نهج الأرشيف والحذف لعلب البريد](https://docs.microsoft.com/en-us/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users).
+للمزيد من المعلومات حول إعداد نهج أرشيف، راجع [إعداد نهج الأرشيف والحذف لعلب البريد](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes#step-1-enable-archive-mailboxes-for-users).
   
 

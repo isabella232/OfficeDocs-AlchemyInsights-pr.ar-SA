@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 9bef81ad-7514-49c8-b149-24d8fec90486
-ms.openlocfilehash: b603f5347313b914d2b2a79ce585ca535d164e8d
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: e1b3df0aef535bb79531c12d80032ed85f084fb5
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29455418"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657382"
 ---
 # <a name="troubleshoot-issues-with-enrollment-options-microsoft-intune"></a>استكشاف أخطاء وإصلاحها باستخدام خيارات التسجيل Microsoft إينتوني
 
 مراجعة الموارد المذكورة أدناه لحل المشكلة التي تواجهها الآن. إذا لم تساعد هذه الموارد، اتصل بالدعم عن طريق النقر [هنا](https://portal.azure.com/#blade/Microsoft_Intune_DeviceSettings/ExtensionLandingBlade/help) واختيار "خلق طلب دعم". 
   
-- [مراجعة إينتوني TechNet للعثور على الإجابات والحلول للمشاكل الشائعة](https://social.technet.microsoft.com/Forums/en-US/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
+- [مراجعة إينتوني TechNet للعثور على الإجابات والحلول للمشاكل الشائعة](https://social.technet.microsoft.com/Forums/home?category=microsoftintune&amp;filter=alltypes&amp;sort=lastpostdesc).
     
-- استخدام [إينتوني مدخل استكشاف الأخطاء وإصلاحها](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) لتشخيص وحل فشل التسجيل الشائعة. مراجعة [هذا المستند](https://docs.microsoft.com/en-us/intune/help-desk-operators) للحصول على مزيد من التفاصيل. 
+- استخدام [إينتوني مدخل استكشاف الأخطاء وإصلاحها](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) لتشخيص وحل فشل التسجيل الشائعة. مراجعة [هذا المستند](https://docs.microsoft.com/intune/help-desk-operators) للحصول على مزيد من التفاصيل. 
     
-- مراجعة [هذا المستند](https://docs.microsoft.com/en-us/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) للحصول على قائمة أخطاء الشائعة التي تمنع التسجيل والحلول لكل. 
+- مراجعة [هذا المستند](https://docs.microsoft.com/intune-classic/Troubleshoot/troubleshoot-device-enrollment-in-intune) للحصول على قائمة أخطاء الشائعة التي تمنع التسجيل والحلول لكل. 
     
-- [تعلم المزيد حول خيارات التسجيل في Microsoft إينتوني](https://docs.microsoft.com/en-us/intune/enrollment-options).
+- [تعلم المزيد حول خيارات التسجيل في Microsoft إينتوني](https://docs.microsoft.com/intune/enrollment-options).
     
 

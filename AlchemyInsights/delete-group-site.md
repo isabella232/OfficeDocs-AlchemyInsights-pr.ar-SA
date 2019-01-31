@@ -3,31 +3,30 @@ title: حذف مجموعة الموقع
 ms.author: kaarins
 author: kaarins
 manager: scotv
-ms.date: 6/8/2018
+ms.date: 1/24/2019
 ms.audience: Admin
 ms.topic: article
+ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: 521e61b64be253be1eee3d7d41f930d55e1492a3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: b0541ae0fadd4bad34476fa80bd501bdde739c23
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29456444"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660658"
 ---
 # <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>حذف موقع SharePoint الذي ينتمي إلى مجموعة Office 365
 
-عند إنشاء مستخدمين موقع فريق جديد من الصفحة الرئيسية SharePoint (أو إنشاء موقع فريق جديد من معاينة مركز مسؤول SharePoint جديدة)، يتم إنشاء مجموعة Office 365 المطابق تلقائياً. تم إنشاء office 365 الفريق المتصلة بمجموعة المواقع عند إنشاء فريق أو مجموعة Office 365 في فرق Microsoft. لحذف موقع SharePoint الذي ينتمي إلى مجموعة Office 365، تحتاج لحذف مجموعة Office 365 نفسها. 
+المسؤولين العمومية وإدارة SharePoint الآن حذف المواقع التي تنتمي إلى مجموعة Office 365. سيؤدي حذف هذه المواقع إلى حذف المجموعة وكافة مواردها، بما في ذلك صندوق بريد Outlook والتقويم وأي قنوات الفرق.
   
-1. انتقل إلى [صفحة مجموعات مركز مسؤول Office 365](https://portal.office.com/adminportal/home#/groups).
-    
-2. حدد خانة الاختيار الموجودة بجانب المجموعة.
-    
-3. انقر فوق **حذف**.
-    
-ملاحظة: عندما تقوم بحذف مجموعة، يمكن أن يكون هناك تأخير قبل إزالة الموقع من SharePoint.
+هام:
+- يمكنك استعادة المواقع المحذوفة لأيام 93. لمزيد من المعلومات، راجع عرض واستعادة المواقع المحذوفة. لاحظ أنه يجب استعادة المجموعات المحذوفة في غضون 30 يوما. 
+- إذا كان الموقع جزءا من نهج الاستبقاء، فقد يتعذر حذفها حتى تتم إزالة الموقع من [الأمان &amp; مركز مسؤولي الامتثال](https://protection.office.com/?rfr=AdminCenter#/retention). راجع [نظرة عامة حول نهج استبقاء](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) لمزيد من المعلومات. 
+  
+[حذف طريقة العرض واستعادة المواقع في مركز مسؤول SharePoint جديد](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)، حدد **حذف المواقع**. تحديد الموقع الذي تم حذفه واختر حذف (التي ستحذف الموقع) أو الاستعادة. لحذف موقع نشط، حدد مواقع **نشطة** ، حدد الموقع وحدد **حذف**. لمزيد من المعلومات، راجع [إدارة المواقع في مركز مسؤول SharePoint جديدة](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
   
 

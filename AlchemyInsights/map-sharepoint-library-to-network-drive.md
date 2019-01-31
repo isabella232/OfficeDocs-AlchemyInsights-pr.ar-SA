@@ -11,16 +11,16 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: b249dddd-87fb-4e07-a4f8-05a0dc521a47
-ms.openlocfilehash: d04740c019f0d755e15cf7e564bf8ba9398278f9
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 2bae2b1bb20d1ff63c5fedbf0a9a096a67473848
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29456192"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29658066"
 ---
 # <a name="map-a-sharepoint-library-to-a-network-drive"></a>تعيين مكتبة SharePoint إلى محرك أقراص شبكة الاتصال
 
-للعمل مع مكتبات الموقع في "مستكشف الملفات"، نوصي باستخدام عميل المزامنة أندريف بدلاً من تعيين المكتبات إلى محركات أقراص الشبكة. تعيين محرك الأقراص مجرد حل مؤقت. استخدام عميل المزامنة يجعل الملفات متوفرة للمستخدمين حتى عندما كنت غير متصل. عميل المزامنة أيضا يوفر أداء أفضل ويسمح بالوصول إلى الملفات دون الحاجة إلى تحميل هذه [الملفات عند](https://support.office.com/en-us/article/Learn-about-OneDrive-Files-On-Demand-0E6860D3-D9F3-4971-B321-7092438FB38E) استخدام ولا يتطلب برنامج الإعداد باستخدام برنامج Internet Explorer. 
+للعمل مع مكتبات الموقع في "مستكشف الملفات"، نوصي باستخدام عميل المزامنة أندريف بدلاً من تعيين المكتبات إلى محركات أقراص الشبكة. تعيين محرك الأقراص مجرد حل مؤقت. استخدام عميل المزامنة يجعل الملفات متوفرة للمستخدمين حتى عندما كنت غير متصل. عميل المزامنة أيضا يوفر أداء أفضل ويسمح بالوصول إلى الملفات دون الحاجة إلى تحميل هذه [الملفات عند](https://support.office.com/article/Learn-about-OneDrive-Files-On-Demand-0E6860D3-D9F3-4971-B321-7092438FB38E) استخدام ولا يتطلب برنامج الإعداد باستخدام برنامج Internet Explorer. 
   
 - [مزامنة الملفات باستخدام عميل المزامنة أندريف جديدة في Windows](https://go.microsoft.com/fwlink/?linkid=866427)
     

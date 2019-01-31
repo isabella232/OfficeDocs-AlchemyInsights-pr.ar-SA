@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 2a3489fe-c2a8-4e43-96c2-be4b3c5e978c
-ms.openlocfilehash: d00f10688ec775c22d60a9089e291c265ada46f1
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 027782bb2a6b892df6201f3c3bf55151ef7b9db7
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29455910"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29657958"
 ---
 # <a name="upn-sync-disabled"></a>تعطيل المزامنة UPN
 
@@ -26,6 +26,6 @@ ms.locfileid: "29455910"
   
 مطابقة ناعمة UPN قيد التشغيل تلقائياً للمؤسسات بدء المزامنة لإعلان الﻻزوردية في أو بعد 30 مارس عام 2016.
   
-لمعرفة المزيد حول تمكين مطابقة الناعمة على UPN وميزات المزامنة، راجع [ميزات خدمة المزامنة الاتصال الإعلان Azure](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnectsyncservice-features).
+لمعرفة المزيد حول تمكين مطابقة الناعمة على UPN وميزات المزامنة، راجع [ميزات خدمة المزامنة الاتصال الإعلان Azure](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features).
   
 

@@ -11,18 +11,18 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 80c88b2d-adb1-4e45-8eff-aaa80403b5b6
-ms.openlocfilehash: 9ee9fe3a5cb9f1c40a1141a9abe241c4f7fdc360
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: abadf8e1fdba18a4c31f349498bc2abb75d66a43
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29456290"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29661126"
 ---
 # <a name="how-to-enable-seamless-sso"></a>كيفية تمكين SSO السلس
 
-تمكين SSO السلس من خلال [الاتصال الإعلان Azure](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect).
+تمكين SSO السلس من خلال [الاتصال الإعلان Azure](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).
   
-إذا كنت تفعل تثبيت حديثة ل Azure الاتصال الإعلان، اختر [مسار التثبيت المخصص](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). في صفحة **تسجيل دخول المستخدم** ، حدد الخيار **تمكين تسجيل الدخول الأحادي** . 
+إذا كنت تفعل تثبيت حديثة ل Azure الاتصال الإعلان، اختر [مسار التثبيت المخصص](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). في صفحة **تسجيل دخول المستخدم** ، حدد الخيار **تمكين تسجيل الدخول الأحادي** . 
   
 للتحقق من تمكين SSO السلس بشكل صحيح:
   
@@ -32,6 +32,6 @@ ms.locfileid: "29456290"
     
 3. تحقق من ذلك السلس تسجيل الدخول الأحادي **ممكن**.
     
-لمزيد من المعلومات، راجع [أزور نشط الدليل السلس تسجيل الدخول الأحادي: البدء السريع](https://docs.microsoft.com/en-us/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
+لمزيد من المعلومات، راجع [أزور نشط الدليل السلس تسجيل الدخول الأحادي: البدء السريع](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
   
 

@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6e536c7d-ab36-413e-9702-63e51adb3452
-ms.openlocfilehash: dd7166257f2bc17c9b483a95a97a45abd5e99874
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: f3e333c752e00e0e8c37d76a3aede09ea47f36e9
+ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29456127"
+ms.lasthandoff: 01/30/2019
+ms.locfileid: "29660766"
 ---
 # <a name="migrate-public-folder-data-to-office-365"></a>ترحيل بيانات المجلد العمومي إلى Office 365
 
@@ -22,7 +22,7 @@ ms.locfileid: "29456127"
   
 للمؤسسات الكبيرة الذين يتم نقل المجلدات العمومية إلى Office 365، لدينا العديد من الأدلة المتوفرة:
   
-- [ترحيل المجلدات العمومية القديمة](https://technet.microsoft.com/en-us/library/dn874017%28v=exchg.150%29.aspx) (تبادل 2010 والإصدارات السابقة) 
+- [ترحيل المجلدات العمومية القديمة](https://technet.microsoft.com/library/dn874017%28v=exchg.150%29.aspx) (تبادل 2010 والإصدارات السابقة) 
     
 - [ترحيل المجلدات العامة في Exchange 2013](https://technet.microsoft.com/library/mt798260%28v=exchg.150%29.aspx)
     
