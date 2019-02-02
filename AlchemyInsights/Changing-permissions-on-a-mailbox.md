@@ -9,13 +9,15 @@ ms.service: o365-administration
 localization_priority: Priority
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: 0bae85bc-2a1f-436b-af07-82d0eb79cb8b
-ms.openlocfilehash: ec22ba79980779e7f218607e3b4ca7012eb8d35f
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 49f7849f780de3348a73c8530ee99682dbbe354f
+ms.sourcegitcommit: 32355b76d45b730a069575efeec708149d4aeaa3
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29657922"
+ms.lasthandoff: 02/01/2019
+ms.locfileid: "29697153"
 ---
+# <a name="changing-permissions-on-a-mailbox"></a>تغيير الأذونات على علبة بريد
+
 إذا أحتاج المستخدمون الوصول إلى علب البريد غير بلدانهم، فإنه يتعين منح الأذونات للعمل مع صناديق البريد هذه. كيفية تعيين هذه الأذونات يعتمد على نوع علبة البريد. إذا أحتاج المستخدمون الوصول إلى:
   
 - الرجاء مراجعة علب بريد مستخدم آخر- [منح أذونات علبة البريد لمستخدم آخر في Office 365](https://support.office.com/article/give-mailbox-permissions-to-another-user-in-office-365-admin-help-1dbcf12f-a9de-4d1d-b0b3-a227f8a736d8).
