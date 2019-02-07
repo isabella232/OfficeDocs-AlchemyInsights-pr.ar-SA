@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 446b22df-807d-4778-a54f-767c2cc83fba
-ms.openlocfilehash: bd535218ec01f4b234e46bba9fe405f072dbf6ed
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 88c8f93980d5a42d9efcfde0298df1abb4f9ad6f
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29661810"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29758907"
 ---
 # <a name="outlook-search-not-indexing"></a>لا يتم فهرسة البحث outlook
 
@@ -24,12 +24,12 @@ ms.locfileid: "29661810"
   
 عند البحث في برنامج Outlook، قد تحصل على هذا الخطأ: * * حدث خطأ وتعذر إكمال البحث * *، أو **قد تكون نتائج البحث غير كاملة لأن العناصر تزال قيد الفهرسة**. تم إصدار الإصلاح كتحديث Windows اختيارية. الرجاء تثبيت الإصدار المقابل لإصدار Windows الذي يتم مشاهدة هذه المشكلة على: 
   
-> [ويندوز 7-27 حزيران/يونيه عام 2017 تحديث](https://support.office.com/article/https://support.microsoft.com/kb/4022168.aspx)
+> [ويندوز 7-27 حزيران/يونيه عام 2017 تحديث](https://support.microsoft.com/kb/4022168.aspx)
     
-> [تحديث Windows 8.1-27 حزيران/يونيه عام 2017](https://support.office.com/article/https://support.microsoft.com/kb/4022720.aspx)
+> [تحديث Windows 8.1-27 حزيران/يونيه عام 2017](https://support.microsoft.com/kb/4022720.aspx)
     
-> [إصدار Windows 10 1703-27 حزيران/يونيه عام 2017 التحديث](https://support.office.com/article/https://support.microsoft.com/kb/4022716.aspx)
+> [إصدار Windows 10 1703-27 حزيران/يونيه عام 2017 التحديث](https://support.microsoft.com/kb/4022716.aspx)
     
-للحصول على أحدث المعلومات، الرجاء مراجعة المقالة: [Outlook المشاكل المعروفة في يونيو عام 2017 تحديثات الأمان](https://support.office.com/article/https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) رقم الإصدار 5. 
+للحصول على أحدث المعلومات، الرجاء مراجعة المقالة: [Outlook المشاكل المعروفة في يونيو عام 2017 تحديثات الأمان](https://support.office.com/article/Outlook-known-issues-in-the-June-2017-security-updates-3F6DBFFD-8505-492D-B19F-B3B89369ED9B.aspx) رقم الإصدار 5. 
   
 
