@@ -11,25 +11,25 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: 3c1fc65a08816403b453c3159b2ae3573e741a1a
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: fdd7df1bfebf0bf109bc40129d76dc1e8575aa16
+ms.sourcegitcommit: 5dee2fcb492bd922092a6de8045a95febe57b97e
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29657886"
+ms.lasthandoff: 02/06/2019
+ms.locfileid: "29759267"
 ---
-# <a name="restore-a-user-in-office-365"></a><span data-ttu-id="f09bd-102">استعادة مستخدم في Office 365</span><span class="sxs-lookup"><span data-stu-id="f09bd-102">Restore a user in Office 365</span></span>
+# <a name="restore-a-user-in-office-365"></a><span data-ttu-id="a5ccb-102">استعادة مستخدم في Office 365</span><span class="sxs-lookup"><span data-stu-id="a5ccb-102">Restore a user in Office 365</span></span>
 
-<span data-ttu-id="f09bd-103">استعادة مستخدم في Office 365 استخدام الخطوات التالية:</span><span class="sxs-lookup"><span data-stu-id="f09bd-103">Restore a user in Office 365 using these steps:</span></span>
+<span data-ttu-id="a5ccb-103">استعادة مستخدم في Office 365 استخدام الخطوات التالية:</span><span class="sxs-lookup"><span data-stu-id="a5ccb-103">Restore a user in Office 365 using these steps:</span></span>
   
-1. <span data-ttu-id="f09bd-104">اذهب إلى [المستخدمين \> حذف المستخدمين](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/deletedusers).</span><span class="sxs-lookup"><span data-stu-id="f09bd-104">Go to [Users \> Deleted users](https://support.office.com/article/https://portal.office.com/adminportal/home.aspx#/deletedusers).</span></span>
+1. <span data-ttu-id="a5ccb-104">اذهب إلى [المستخدمين \> حذف المستخدمين](https://admin.microsoft.com/adminportal/home#/deletedusers).</span><span class="sxs-lookup"><span data-stu-id="a5ccb-104">Go to [Users \> Deleted users](https://admin.microsoft.com/adminportal/home#/deletedusers).</span></span>
     
-2. <span data-ttu-id="f09bd-105">اختر المستخدم، ثم حدد **استعادة**.</span><span class="sxs-lookup"><span data-stu-id="f09bd-105">Choose the user, then select **Restore**.</span></span>
+2. <span data-ttu-id="a5ccb-105">اختر المستخدم، ثم حدد **استعادة**.</span><span class="sxs-lookup"><span data-stu-id="a5ccb-105">Choose the user, then select **Restore**.</span></span>
     
-3. <span data-ttu-id="f09bd-106">اتبع المطالبات لتعيين كلمة المرور.</span><span class="sxs-lookup"><span data-stu-id="f09bd-106">Follow the prompts to set the password.</span></span>
+3. <span data-ttu-id="a5ccb-106">اتبع المطالبات لتعيين كلمة المرور.</span><span class="sxs-lookup"><span data-stu-id="a5ccb-106">Follow the prompts to set the password.</span></span>
     
-4. <span data-ttu-id="f09bd-107">انقر فوق **إرسال بريد إلكتروني وإغلاق**، والانتهاء من ذلك!</span><span class="sxs-lookup"><span data-stu-id="f09bd-107">Click **Send email and close**, and you're done!</span></span>
+4. <span data-ttu-id="a5ccb-107">انقر فوق **إرسال بريد إلكتروني وإغلاق**، والانتهاء من ذلك!</span><span class="sxs-lookup"><span data-stu-id="a5ccb-107">Click **Send email and close**, and you're done!</span></span>
     
-<span data-ttu-id="f09bd-p101">لم يكن من السهل؟ للحصول على مزيد من التفاصيل وخطوات مع قطات الشاشة، اقرأ هذا المقال: [استعادة مستخدم في Office 365](https://support.office.com/article/https://support.office.com/article/Restore-a-user-in-Office-365-2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx)</span><span class="sxs-lookup"><span data-stu-id="f09bd-p101">Wasn't that easy? For more details and steps with screen shots, check out this article: [Restore a user in Office 365](https://support.office.com/article/https://support.office.com/article/Restore-a-user-in-Office-365-2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx)</span></span>
+<span data-ttu-id="a5ccb-p101">لم يكن من السهل؟ للحصول على مزيد من التفاصيل وخطوات مع قطات الشاشة، اقرأ هذا المقال: [استعادة مستخدم في Office 365](https://support.office.com/article/Restore-a-user-in-Office-365-2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx)</span><span class="sxs-lookup"><span data-stu-id="a5ccb-p101">Wasn't that easy? For more details and steps with screen shots, check out this article: [Restore a user in Office 365](https://support.office.com/article/Restore-a-user-in-Office-365-2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx)</span></span>
   
 
