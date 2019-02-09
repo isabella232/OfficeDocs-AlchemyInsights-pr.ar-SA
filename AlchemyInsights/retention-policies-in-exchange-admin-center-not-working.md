@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 6c69511f6bcdad5793cd2473a20a2d168d2ac260
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: 73e8db432afccb73b872ec7a3ce84c25f1ba7f25
+ms.sourcegitcommit: ca06ef831226d629de3057a0df85e017b80f3356
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29660694"
+ms.lasthandoff: 02/08/2019
+ms.locfileid: "29786757"
 ---
+# <a name="retention-policies-in-exchange-admin-center"></a>نهج الاستبقاء في مركز مسؤول Exchange
+
  **المشكلة:** المنشأة حديثا أو لا تطبق نهج الاستبقاء حدثت في مركز مسؤول Exchange إلى علب البريد أو عناصر نقل أرشيف علبة البريد أو حذفه لا. 
   
  **الأسباب الأساسية:**

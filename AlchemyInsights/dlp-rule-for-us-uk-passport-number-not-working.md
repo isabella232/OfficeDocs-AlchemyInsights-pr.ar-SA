@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: fc178b8b-943b-4346-a2bd-a75c6af6f80f
-ms.openlocfilehash: 5722f7b6c9a2f905fed2ef4164787e020260edf7
-ms.sourcegitcommit: 0ae6cbb8cf2836da98300767ed81b411d6551bee
+ms.openlocfilehash: ec7f11676982b56a46c83bf276c2212ce765ba6f
+ms.sourcegitcommit: ca06ef831226d629de3057a0df85e017b80f3356
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/30/2019
-ms.locfileid: "29656410"
+ms.lasthandoff: 02/08/2019
+ms.locfileid: "29786685"
 ---
+# <a name="problems-with-dlp---usuk-passport-numbers"></a>مشاكل تقنية DLP-الولايات المتحدة/المملكة المتحدة رقم جواز السفر
+
 هل تواجه مشاكل **منع فقدان البيانات (DLP)** لا يعمل لاحتواء المحتوى **الولايات المتحدة/"المملكة المتحدة رقم جواز السفر"** عند استخدام نوع معلومات حساسة DLP في O365؟ إذا كان الأمر كذلك، تأكد من أن المحتوى الخاص بك يحتوي على المعلومات المطلوبة لما نهج DLP تبحث عنه عندما يتم تقييم. 
   
 على سبيل المثال، **الولايات المتحدة/"المملكة المتحدة رقم جواز السفر"** النهج المكون بمستوى ثقة 75%، التالية يتم تقييمها ويجب الكشف عن لتشغيل القاعدة 
