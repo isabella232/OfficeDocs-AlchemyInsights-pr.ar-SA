@@ -6,15 +6,15 @@ manager: mnirkhe
 ms.audience: Admin
 ms.topic: reference
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 description: ''
-ms.openlocfilehash: 22ad1b3fb818b40bcd77974031735f931e986968
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 4da54121763fd33aa111f3bb3c26963cd271dc51
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29455694"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29906719"
 ---
 يمكنك تحويل علبة بريد مستخدم إلى علبة بريد مشتركة فقط إذا كان المستخدم لديه ترخيص Exchange. بعد تحويل علبة البريد، فيقوم بالظهور في قائمة المستخدمين النشطين لعلب البريد المشتركة تتضمن تلك القائمة. ومع ذلك، علبة البريد المحول كما ستظهر في قائمة علب البريد المشتركة. 
   
