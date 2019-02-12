@@ -6,7 +6,7 @@ ms.date: 12/5/2017
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Priority
+localization_priority: Normal
 search.appverid:
 - MET150
 - MOE150
@@ -14,25 +14,25 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
-ms.openlocfilehash: 61bae5b7e4bf68a7d01c166bf5fdb8e340de829f
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 735604a097b6b86bd39207de230f8cef3163e96b
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29456128"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29929363"
 ---
-# <a name="enable-password-sync"></a><span data-ttu-id="11170-102">تمكين مزامنة كلمة المرور</span><span class="sxs-lookup"><span data-stu-id="11170-102">Enable Password Sync</span></span>
+# <a name="enable-password-sync"></a><span data-ttu-id="9c188-102">تمكين مزامنة كلمة المرور</span><span class="sxs-lookup"><span data-stu-id="9c188-102">Enable Password Sync</span></span>
 
-1.  <span data-ttu-id="11170-103">اختر **حالة DirSync** الصفحة الرئيسية مركز الإدارة O365.</span><span class="sxs-lookup"><span data-stu-id="11170-103">Choose **DirSync Status** on the O365 Admin Center home page.</span></span> 
+1.  <span data-ttu-id="9c188-103">اختر **حالة DirSync** الصفحة الرئيسية مركز الإدارة O365.</span><span class="sxs-lookup"><span data-stu-id="9c188-103">Choose **DirSync Status** on the O365 Admin Center home page.</span></span> 
     
-     <span data-ttu-id="11170-104">\* بدلاً من ذلك، يمكنك الانتقال إلى **المستخدمين** \> \* \* المتواجدين \*\*، في صفحة المستخدمين النشطين، اختر **أكثر** \> **مزامنة الدليل.** \*</span><span class="sxs-lookup"><span data-stu-id="11170-104">\*Alternately, you can go to **Users** \> \*\* Active users \**, and on the Active users page, choose **More** \> **Directory synchronization.***</span></span> 
+     <span data-ttu-id="9c188-104">\* بدلاً من ذلك، يمكنك الانتقال إلى **المستخدمين** \> \* \* المتواجدين \*\*، في صفحة المستخدمين النشطين، اختر **أكثر** \> **مزامنة الدليل.** \*</span><span class="sxs-lookup"><span data-stu-id="9c188-104">\*Alternately, you can go to **Users** \> \*\* Active users \**, and on the Active users page, choose **More** \> **Directory synchronization.***</span></span> 
     
-2. <span data-ttu-id="11170-105">جزء "تزامن الدليل"، اختر **الانتقال إلى إدارة DirSync**.</span><span class="sxs-lookup"><span data-stu-id="11170-105">On the Directory Synchronization pane, choose **Go to DirSync management**.</span></span> 
+2. <span data-ttu-id="9c188-105">جزء "تزامن الدليل"، اختر **الانتقال إلى إدارة DirSync**.</span><span class="sxs-lookup"><span data-stu-id="9c188-105">On the Directory Synchronization pane, choose **Go to DirSync management**.</span></span> 
     
-3. <span data-ttu-id="11170-106">الآن سترى الحالة الخاصة بك، وإجراء التغييرات:</span><span class="sxs-lookup"><span data-stu-id="11170-106">Now you'll see your status, and make changes:</span></span>
+3. <span data-ttu-id="9c188-106">الآن سترى الحالة الخاصة بك، وإجراء التغييرات:</span><span class="sxs-lookup"><span data-stu-id="9c188-106">Now you'll see your status, and make changes:</span></span>
     
-    <span data-ttu-id="11170-p101">**تمكين مزامنة كلمة المرور:** (True أو False). تحديد ما إذا كان ممكن بين المحلي والمستأجر Office 365 الخاص بك مزامنة كلمة المرور.</span><span class="sxs-lookup"><span data-stu-id="11170-p101">**Password sync enabled:** (True or False). Specifies whether you have password sync enabled between on-premises and your Office 365 tenant.</span></span> 
+    <span data-ttu-id="9c188-p101">**تمكين مزامنة كلمة المرور:** (True أو False). تحديد ما إذا كان ممكن بين المحلي والمستأجر Office 365 الخاص بك مزامنة كلمة المرور.</span><span class="sxs-lookup"><span data-stu-id="9c188-p101">**Password sync enabled:** (True or False). Specifies whether you have password sync enabled between on-premises and your Office 365 tenant.</span></span> 
     
-    <span data-ttu-id="11170-p102">**آخر عملية مزامنة كلمة المرور:** (آخر مرة تشغيل مزامنة كلمة المرور). هذا يعرض تحذير وارتباط إلى أداة لاستكشاف الأخطاء وإصلاحها إذا كانت المزامنة الأخيرة منذ أكثر من ثلاثة أيام.</span><span class="sxs-lookup"><span data-stu-id="11170-p102">**Last Password Sync:** (Last time password sync ran). This will display a warning and a link to a troubleshooting tool if the last sync was more than three days ago.</span></span> 
+    <span data-ttu-id="9c188-p102">**آخر عملية مزامنة كلمة المرور:** (آخر مرة تشغيل مزامنة كلمة المرور). هذا يعرض تحذير وارتباط إلى أداة لاستكشاف الأخطاء وإصلاحها إذا كانت المزامنة الأخيرة منذ أكثر من ثلاثة أيام.</span><span class="sxs-lookup"><span data-stu-id="9c188-p102">**Last Password Sync:** (Last time password sync ran). This will display a warning and a link to a troubleshooting tool if the last sync was more than three days ago.</span></span> 
     
 
