@@ -1,19 +1,19 @@
 ---
-title: كيفية زيادة التخزين في أونيدريفي للعمل
+title: كيفية زيادة التخزين في أندريف للعمل
 ms.author: kirks
 author: Techwriter40
 ms.date: 12/14/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: b15b365d243d5a632c9bb32f6cee5bc391d6c1b3
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 4633f13dd9dfefbdce4864268c08c4c84d6bd8d2
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29499801"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29906395"
 ---
 # <a name="how-to-increase-storage-in-onedrive-for-business"></a>كيفية زيادة التخزين في أندريف للعمل
 
