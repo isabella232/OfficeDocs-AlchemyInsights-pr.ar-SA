@@ -7,21 +7,21 @@ ms.date: 4/26/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Priority
+localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 9b0b89e3-d1d7-4e4d-93de-bb4cd00904d8
-ms.openlocfilehash: 406e664187c8b0a8aacc70d913a3347c0cade4e4
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
+ms.openlocfilehash: 58774bf8995c41d4a6cd48d85d9efd50ba621bce
+ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29498397"
+ms.lasthandoff: 02/12/2019
+ms.locfileid: "29936383"
 ---
-# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a><span data-ttu-id="d7e4c-102">تتصل PowerShell Exchange عبر إنترنت عند تمكين وزارة الخارجية</span><span class="sxs-lookup"><span data-stu-id="d7e4c-102">Connect to Exchange Online PowerShell when MFA is enabled</span></span>
+# <a name="connect-to-exchange-online-powershell-when-mfa-is-enabled"></a><span data-ttu-id="0cecc-102">تتصل PowerShell Exchange عبر إنترنت عند تمكين وزارة الخارجية</span><span class="sxs-lookup"><span data-stu-id="0cecc-102">Connect to Exchange Online PowerShell when MFA is enabled</span></span>
 
-<span data-ttu-id="d7e4c-103">إذا كان الحساب الخاص بك لمصادقة متعددة العوامل (وزارة الخارجية) ممكنة، تحتاج لاتباع هذه الإرشادات للاتصال PowerShell Exchange الفورية: [الاتصال إلى PowerShell Exchange عبر إنترنت باستخدام مصادقة متعددة العوامل](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell).</span><span class="sxs-lookup"><span data-stu-id="d7e4c-103">If your account has multi-factor authentication (MFA) enabled, you need to follow these instructions to connect to Exchange Online PowerShell: [Connect to Exchange Online PowerShell using multi-factor authentication](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell).</span></span>
+<span data-ttu-id="0cecc-103">إذا كان الحساب الخاص بك لمصادقة متعددة العوامل (وزارة الخارجية) ممكنة، تحتاج لاتباع هذه الإرشادات للاتصال PowerShell Exchange الفورية: [الاتصال إلى PowerShell Exchange عبر إنترنت باستخدام مصادقة متعددة العوامل](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell).</span><span class="sxs-lookup"><span data-stu-id="0cecc-103">If your account has multi-factor authentication (MFA) enabled, you need to follow these instructions to connect to Exchange Online PowerShell: [Connect to Exchange Online PowerShell using multi-factor authentication](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell).</span></span>
   
- <span data-ttu-id="d7e4c-104">**ملاحظة**: حتى إذا قمت بالاتصال بها PowerShell Exchange عبر إنترنت في الماضي باستخدام [تعليمات الاتصال العادي](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell)، تحتاج إلى استخدام تعليمات الاتصال وزارة الخارجية بعد أن تم تمكين وزارة الخارجية للحساب الخاص بك.</span><span class="sxs-lookup"><span data-stu-id="d7e4c-104">**Note**: Even if you've connected to Exchange Online PowerShell in the past using [the regular connection instructions](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell), you need to use the MFA connection instructions after MFA has been enabled for your account.</span></span>
+ <span data-ttu-id="0cecc-104">**ملاحظة**: حتى إذا قمت بالاتصال بها PowerShell Exchange عبر إنترنت في الماضي باستخدام [تعليمات الاتصال العادي](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell)، تحتاج إلى استخدام تعليمات الاتصال وزارة الخارجية بعد أن تم تمكين وزارة الخارجية للحساب الخاص بك.</span><span class="sxs-lookup"><span data-stu-id="0cecc-104">**Note**: Even if you've connected to Exchange Online PowerShell in the past using [the regular connection instructions](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell), you need to use the MFA connection instructions after MFA has been enabled for your account.</span></span>
   
 
