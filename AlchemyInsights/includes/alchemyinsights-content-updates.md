@@ -29,7 +29,7 @@
 | 1/10/2019 | [125 رسالة خطأ ترخيص غير صالح في Outlook على الويب؟](/AlchemyInsights/125-getting-an-invalid-license-error-in-outlook-on-the-web) | إضافة |
 | 1/10/2019 | [لا يمكن إيجاد 126 الحصول على علبة بريد الخطأ في OWA؟](/AlchemyInsights/126-getting-a-mailbox-cannot-be-found-error-in-owa) | إضافة |
 | 1/10/2019 | [IP 1264 حظر إرسال بريد إلكتروني عشوائي كبيرة جداً (550 5.7.51)](/AlchemyInsights/1264-ip-blocked-for-sending-too-much-spam-550-5-7-51) | إضافة |
-| 1/10/2019 | [127 الحصول على خطأ تينانتاكسيسبلوكيديكسسيبشن عند الوصول إلى البريد الإلكتروني؟](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | إضافة |
+| 1/10/2019 | [127 الحصول على خطأ تينانتاكسيسبلوكيديكسسيبتيون عند الوصول إلى البريد الإلكتروني؟](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | إضافة |
 | 1/10/2019 | [128 الحصول على خطأ تينانتاكسيسبلوكيديكسسيبتيون عند الوصول إلى البريد الإلكتروني؟](/AlchemyInsights/128-getting-a-tenantaccessblockedexception-error-when-accessing-email) | إضافة |
 | 1/10/2019 | [1314 "الكائن تكرار" التحديث](/AlchemyInsights/1314-duplicate-object-remediation) | إضافة |
 | 1/10/2019 | [1332 OWA-قواعد علبة الوارد لا تنفذ لعلبة بريد](/AlchemyInsights/1332-owainbox-rule-s-are-not-executing-for-a-mailbox) | إضافة |
@@ -90,7 +90,7 @@
 | 1/10/2019 | [التعرف على خيارات المشاركة الخارجية 617](/AlchemyInsights/617-learn-about-external-sharing-options) | إضافة |
 | 1/10/2019 | [618 نهج مشاركة التقويم](/AlchemyInsights/618-calendar-sharing-policy) | إضافة |
 | 1/10/2019 | [المنطقة "الزمنية ضبط" 620 ولغة إعداد في Outlook على ويب](/AlchemyInsights/620-adjust-time-zone-and-language-setting-in-outlook-on-the-web) | إضافة |
-| 1/10/2019 | [646 كيفية تكوين آدكونيكت](/AlchemyInsights/646-how-to-configure-aadconnect) | إضافة |
+| 1/10/2019 | [646 كيفية تكوين آدكوننيكت](/AlchemyInsights/646-how-to-configure-aadconnect) | إضافة |
 | 1/10/2019 | [إنشاء قائمة توزيع أو مجموعة 711](/AlchemyInsights/711-creating-a-distribution-list-or-group) | إضافة |
 | 1/10/2019 | [712 تحويل قائمة توزيع لمجموعة Office 365](/AlchemyInsights/712-converting-a-distribution-list-to-an-office-365-group) | إضافة |
 | 1/10/2019 | [إضافة عنوان بريد إلكتروني آخر إلى قائمة توزيع 713](/AlchemyInsights/713-adding-an-additional-email-address-to-a-distribution-list) | إضافة |
@@ -184,7 +184,7 @@
 | 1/10/2019 | [922 قواعد علبة الوارد](/AlchemyInsights/922-inbox-rules) | إضافة |
 | 1/10/2019 | [حدود قواعد 924](/AlchemyInsights/924-rule-limits) | إضافة |
 | 1/10/2019 | [929 قواعد علبة الوارد إلى قواعد ديفليكترانسبورت](/AlchemyInsights/929-inbox-rules-to-deflecttransport-rules) | إضافة |
-| 1/10/2019 | [932 آدكونيكت الترقية](/AlchemyInsights/932-upgrading-aadconnect) | إضافة |
+| 1/10/2019 | [932 آدكوننيكت الترقية](/AlchemyInsights/932-upgrading-aadconnect) | إضافة |
 | 1/10/2019 | [934 حسابات IMAP وتمكين الإطارات المنبثقة](/AlchemyInsights/934-enable-pop-and-imap-accounts) | إضافة |
 | 1/10/2019 | [955 كيفية تكوين وزارة الخارجية](/AlchemyInsights/955-how-to-configure-mfa) | إضافة |
 | 1/10/2019 | [956 كيفية إنشاء وإدارة صناديق بريد الغرف](/AlchemyInsights/956-how-to-create-and-manage-room-mailboxes) | إضافة |
@@ -327,8 +327,8 @@
 | 11/1/2019 | [125 رسالة خطأ ترخيص غير صالح في Outlook على الويب؟](/AlchemyInsights/125-getting-an-invalid-license-error-in-outlook-on-the-web) | تعديل |
 | 11/1/2019 | [لا يمكن إيجاد 126 الحصول على علبة بريد الخطأ في OWA؟](/AlchemyInsights/126-getting-a-mailbox-cannot-be-found-error-in-owa) | تعديل |
 | 11/1/2019 | [IP 1264 حظر إرسال بريد إلكتروني عشوائي كبيرة جداً (550 5.7.51)](/AlchemyInsights/1264-ip-blocked-for-sending-too-much-spam-550-5-7-51) | تعديل |
-| 11/1/2019 | [127 الحصول على خطأ تينانتاكسيسبلوكيديكسسيبشن عند الوصول إلى البريد الإلكتروني؟](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | تعديل |
-| 11/1/2019 | [128 الحصول على خطأ تينانتاكسيسبلوكيديكسسيبشن عند الوصول إلى البريد الإلكتروني؟](/AlchemyInsights/128-getting-a-tenantaccessblockedexception-error-when-accessing-email) | تعديل |
+| 11/1/2019 | [127 الحصول على خطأ تينانتاكسيسبلوكيديكسسيبتيون عند الوصول إلى البريد الإلكتروني؟](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | تعديل |
+| 11/1/2019 | [128 الحصول على خطأ تينانتاكسيسبلوكيديكسسيبتيون عند الوصول إلى البريد الإلكتروني؟](/AlchemyInsights/128-getting-a-tenantaccessblockedexception-error-when-accessing-email) | تعديل |
 | 11/1/2019 | [1314 "الكائن تكرار" التحديث](/AlchemyInsights/1314-duplicate-object-remediation) | تعديل |
 | 11/1/2019 | [1332 OWA-قواعد علبة الوارد لا تنفذ لعلبة بريد](/AlchemyInsights/1332-owainbox-rule-s-are-not-executing-for-a-mailbox) | تعديل |
 | 11/1/2019 | [1336 ريكوفيرابليتيمس المجلد ممتلئ](/AlchemyInsights/1336-recoverableitems-folder-is-full) | تعديل |
@@ -388,7 +388,7 @@
 | 11/1/2019 | [التعرف على خيارات المشاركة الخارجية 617](/AlchemyInsights/617-learn-about-external-sharing-options) | تعديل |
 | 11/1/2019 | [618 نهج مشاركة التقويم](/AlchemyInsights/618-calendar-sharing-policy) | تعديل |
 | 11/1/2019 | [المنطقة "الزمنية ضبط" 620 ولغة إعداد في Outlook على ويب](/AlchemyInsights/620-adjust-time-zone-and-language-setting-in-outlook-on-the-web) | تعديل |
-| 11/1/2019 | [646 كيفية تكوين آدكونيكت](/AlchemyInsights/646-how-to-configure-aadconnect) | تعديل |
+| 11/1/2019 | [646 كيفية تكوين آدكوننيكت](/AlchemyInsights/646-how-to-configure-aadconnect) | تعديل |
 | 11/1/2019 | [إنشاء قائمة توزيع أو مجموعة 711](/AlchemyInsights/711-creating-a-distribution-list-or-group) | تعديل |
 | 11/1/2019 | [712 تحويل قائمة توزيع لمجموعة Office 365](/AlchemyInsights/712-converting-a-distribution-list-to-an-office-365-group) | تعديل |
 | 11/1/2019 | [إضافة عنوان بريد إلكتروني آخر إلى قائمة توزيع 713](/AlchemyInsights/713-adding-an-additional-email-address-to-a-distribution-list) | تعديل |
@@ -482,7 +482,7 @@
 | 11/1/2019 | [922 قواعد علبة الوارد](/AlchemyInsights/922-inbox-rules) | تعديل |
 | 11/1/2019 | [حدود قواعد 924](/AlchemyInsights/924-rule-limits) | تعديل |
 | 11/1/2019 | [929 قواعد علبة الوارد إلى قواعد ديفليكترانسبورت](/AlchemyInsights/929-inbox-rules-to-deflecttransport-rules) | تعديل |
-| 11/1/2019 | [932 آدكونيكت الترقية](/AlchemyInsights/932-upgrading-aadconnect) | تعديل |
+| 11/1/2019 | [932 آدكوننيكت الترقية](/AlchemyInsights/932-upgrading-aadconnect) | تعديل |
 | 11/1/2019 | [934 حسابات IMAP وتمكين الإطارات المنبثقة](/AlchemyInsights/934-enable-pop-and-imap-accounts) | تعديل |
 | 11/1/2019 | [955 كيفية تكوين وزارة الخارجية](/AlchemyInsights/955-how-to-configure-mfa) | تعديل |
 | 11/1/2019 | [956 كيفية إنشاء وإدارة صناديق بريد الغرف](/AlchemyInsights/956-how-to-create-and-manage-room-mailboxes) | تعديل |
@@ -838,3 +838,57 @@
 | 30/1/2019 | [تعطيل 123 الحصول على حساب خطأ في OWA؟](/AlchemyInsights/123-getting-an-account-disabled-error-in-owa) | تعديل |
 | 2/1/2019 | [مطابقة اسم الملف أفضل [# القاعدة-وصف]](/AlchemyInsights/1-alchemy-insight-template) | تعديل |
 | 2/1/2019 | [تغيير الأذونات على علبة بريد](/AlchemyInsights/changing-permissions-on-a-mailbox) | تعديل |
+
+
+## <a name="week-of-february-04-2019"></a>أسبوع 04 فبراير عام 2019
+
+
+| نشر في |عنوان الموضوع | تغيير |
+|------|------------|--------|
+| 2/4/2019 | [إضافة مستخدمين إلى Office 365](/AlchemyInsights/add-users-to-office-365) | تعديل |
+| 2/6/2019 | [ترك الموظف](/AlchemyInsights/employee-leaving) | تعديل |
+| 2/6/2019 | [تولي الإدارة](/AlchemyInsights/admin-takeover) | تعديل |
+| 2/6/2019 | [127 الحصول على خطأ تينانتاكسيسبلوكيديكسسيبتيون عند الوصول إلى البريد الإلكتروني؟](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | تعديل |
+| 2/6/2019 | [959 تغيير اسم العرض](/AlchemyInsights/959-change-display-name) | تعديل |
+| 2/6/2019 | [إضافة أو إزالة مستعار للبريد إلكتروني للمستخدم](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | تعديل |
+| 2/6/2019 | إضافة مقاعد للاشتراكات المدفوعة مسبقاً | إزالة |
+| 2/6/2019 | [إضافة مستخدمين إلى Office 365](/AlchemyInsights/add-users-to-office-365) | تعديل |
+| 2/6/2019 | [إضافة المستخدمين الخارجيين إلى مجموعة التوزيع؟](/AlchemyInsights/adding-external-users-to-a-distribution-group) | تعديل |
+| 2/6/2019 | الإدارة-إدارة وإعداد عمومي Office 365 | إزالة |
+| 2/6/2019 | الإدارة-إدارة المستخدمين والمجموعات والموارد الخاصة بي | إزالة |
+| 2/6/2019 | إدارة-إعداد المجال وإعدادات DNS | إزالة |
+| 2/6/2019 | إدارة-تسجيل الدخول ومشكلات كلمة المرور | إزالة |
+| 2/6/2019 | [إلغاء اشتراك Office 365](/AlchemyInsights/cancel-office-365-subscription) | تعديل |
+| 2/6/2019 | [تغيير عنوان البريد الإلكتروني واسم المستخدم](/AlchemyInsights/change-a-user-s-name-and-email-address) | تعديل |
+| 2/6/2019 | التجارة-إدارة فواتير ومدفوعات الاشتراكات والتراخيص | إزالة |
+| 2/6/2019 | [الحصول على خطأ تينانتاكسيسبلوكيديكسسيبشن عند الوصول إلى البريد الإلكتروني؟](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | تعديل |
+| 2/6/2019 | [تواجه مشاكل تسليم البريد الإلكتروني؟](/AlchemyInsights/having-email-delivery-issues-0) | تعديل |
+| 2/6/2019 | [تواجه مشاكل تسليم البريد الإلكتروني؟](/AlchemyInsights/having-email-delivery-issues) | تعديل |
+| 2/6/2019 | [تواجه مشاكل في الحصول على Outlook الاتصال؟](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | تعديل |
+| 2/6/2019 | [تواجه مشاكل في الحصول على Outlook الاتصال؟](/AlchemyInsights/having-issues-getting-outlook-to-connect) | تعديل |
+| 2/6/2019 | إينتوني-تحميل وإعداد واستخدام إينتوني | إزالة |
+| 2/6/2019 | [المشكلة مع Skype للعمل؟](/AlchemyInsights/issue-with-skype-for-business) | تعديل |
+| 2/6/2019 | يدخرها | إزالة |
+| 2/6/2019 | عميل office-Excel | إزالة |
+| 2/6/2019 | [استعادة حذف المستخدم](/AlchemyInsights/restore-deleted-user) | تعديل |
+| 2/6/2019 | [خدمة الحادث قيد التقدم](/AlchemyInsights/service-incident-in-progress-0) | تعديل |
+| 2/6/2019 | [خدمة الحادث قيد التقدم](/AlchemyInsights/service-incident-in-progress-1) | تعديل |
+| 2/6/2019 | [خدمة الحادث قيد التقدم](/AlchemyInsights/service-incident-in-progress-2) | تعديل |
+| 2/6/2019 | [خدمة الحادث قيد التقدم](/AlchemyInsights/service-incident-in-progress-3) | تعديل |
+| 2/6/2019 | [خدمة الحادث قيد التقدم](/AlchemyInsights/service-incident-in-progress-4) | تعديل |
+| 2/6/2019 | [خدمة الحادث قيد التقدم](/AlchemyInsights/service-incident-in-progress-5) | تعديل |
+| 2/6/2019 | [خدمة الحادث قيد التقدم](/AlchemyInsights/service-incident-in-progress) | تعديل |
+| 2/6/2019 | [إعداد المشروع](/AlchemyInsights/setting-up-project) | تعديل |
+| 2/6/2019 | إعداد التوافق ميزات مثل الأرشيف والاحتفاظ بهم، دعوى قضائية، eDiscovery وأطباء العالم | إزالة |
+| 2/6/2019 | استخدام اتصال المثبت ل Office | إزالة |
+| 2/6/2019 | Yammer-إعداد واستخدام خدمات Yammer | إزالة |
+| 2/7/2019 | [تعطل Excel؟](/AlchemyInsights/excel-crashing) | تعديل |
+| 2/7/2019 | [كيفية إضافة أو تحرير فاتيد](/AlchemyInsights/how-to-add-or-edit-a-vatid) | تعديل |
+| 2/7/2019 | [مجانية التعليم لإصدار Minecraft مع Office 365](/AlchemyInsights/minecraft-edition-with-office-365-education-for-free) | تعديل |
+| 2/7/2019 | [606 المعلومات المتعلقة بالتفويض](/AlchemyInsights/606-information-on-delegation) | تعديل |
+| 2/7/2019 | [المجموعة لا تظهر في قائمة المجموعات](/AlchemyInsights/your-groupaimkiobjectnot-showing-in-groups-list) | تعديل |
+| 2/8/2019 | [تلميحات نهج DLP لا يعمل](/AlchemyInsights/dlp-policy-tips-not-working) | تعديل |
+| 2/8/2019 | [دلب قاعدة للولايات المتحدة/"المملكة المتحدة رقم جواز السفر" لا يعمل](/AlchemyInsights/dlp-rule-for-us-uk-passport-number-not-working) | تعديل |
+| 2/8/2019 | [تحرير التعليم من أجل office 365](/AlchemyInsights/office-365-education-for-free) | تعديل |
+| 2/8/2019 | [التراخيص المطلوبة للقيام Microsoft](/AlchemyInsights/required-licences-for-microsoft-todo) | تعديل |
+| 2/8/2019 | [نهج الاستبقاء في مركز مسؤول Exchange لا يعمل](/AlchemyInsights/retention-policies-in-exchange-admin-center-not-working) | تعديل |
