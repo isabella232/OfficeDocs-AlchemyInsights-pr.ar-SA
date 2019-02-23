@@ -8,18 +8,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: f1ecdafdf21fa3cd026108738432c942d2c1ad45
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 6fc7e4211691e0f29b9a65db2d33540804ea7b4a
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941099"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209832"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>أذونات المستخدم في SharePoint وأندريف
 
 لم يكن قادراً على الوصول إلى SharePoint أو أونيدريفي مستخدم في المؤسسة الخاصة بك، تأكد من أن لديهم ترخيص يتضمن SharePoint وأونيدريفي. 
   
-1. انتقل إلى [صفحة المتواجدين في مركز مسؤول Office 365](https://portal.office.com/adminportal/home#/users) وحدد المستخدم. 
+1. انتقل إلى [صفحة المتواجدين في مركز مسؤول Microsoft 365](https://portal.office.com/adminportal/home#/users) وحدد المستخدم. 
     
 2. تأكد من أن ضمن **تراخيص المنتجات**، يتم تعيين ترخيص وتحديد **SharePoint على الإنترنت** . 
     

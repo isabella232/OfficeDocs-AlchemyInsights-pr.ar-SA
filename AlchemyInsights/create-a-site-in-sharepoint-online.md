@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: e1c4cd224e75fadfc1b5d3afb643f5ed854258d0
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 41af5e51743623f108cb614911ff88308809c4b5
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29920471"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207888"
 ---
 # <a name="create-a-site"></a>إنشاء موقع
 
@@ -30,7 +30,7 @@ ms.locfileid: "29920471"
   
 لإنشاء موقع التقليدية، قم بأحد الإجراءات التالية:
   
-- انتقل إلى [صفحة المواقع في مركز مسؤول Office 365](https://portal.office.com/adminportal/home#/SitesList)، وحدد **إضافة موقع**.
+- انتقل إلى [صفحة المواقع في مركز مسؤول Microsoft 365](https://portal.office.com/adminportal/home#/SitesList)، وحدد **إضافة موقع**.
     
 - في مركز مسؤول SharePoint التقليدية، على الصفحة مجموعات الموقع، حدد ' **جديد** ' \> **مجموعة الموقع الخاصة**.
     

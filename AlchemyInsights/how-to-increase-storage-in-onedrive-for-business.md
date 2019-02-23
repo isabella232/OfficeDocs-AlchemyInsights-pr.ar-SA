@@ -1,5 +1,5 @@
 ---
-title: كيفية زيادة التخزين في أندريف للعمل
+title: كيفية زيادة التخزين في أونيدريفي للعمل
 ms.author: kirks
 author: Techwriter40
 ms.date: 12/14/2018
@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: 4633f13dd9dfefbdce4864268c08c4c84d6bd8d2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 693e7607f557f2586bf3debda8e4b7fdb04cf143
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29906395"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30207744"
 ---
 # <a name="how-to-increase-storage-in-onedrive-for-business"></a>كيفية زيادة التخزين في أندريف للعمل
 
@@ -25,9 +25,9 @@ ms.locfileid: "29906395"
   
  **ملاحظة**: يبدو أن لم يكن لديك خطة تتضمن تخزين غير محدودة. للحصول على مزيد من المعلومات حول التخزين الذي يأتي مع كل خطة، راجع [أندريف لوصف الخدمات التجارية](https://go.microsoft.com/fwlink/p/?LinkID=826071).
   
-لزيادة وحدات التخزين لديك في أندريف للعمل، اختر خطة Office 365 يتضمن أما **أندريف 2 خطة العمل** أو **E3 المؤسسة Office 365**. 
+لزيادة وحدات التخزين لديك في أونيدريفي للعمل، اختر خطة Office 365 يتضمن أما **أونيدريفي 2 خطة العمل** أو **E3 المؤسسة Office 365**. 
   
-لتغيير الخطط في مركز مسؤول Office 365، انتقل إلى **الدفع** \> **الاشتراكات**، ثم اختر **التبديل خطط.**
+لتغيير الخطط في مركز مسؤول Microsoft 365، انتقل إلى **الدفع** \> **الاشتراكات**، ثم اختر **التبديل خطط.**
   
 لمزيد من المعلومات حول التبديل أندريف وخطط للعمل التخزين، راجع [أندريف "وصف الخدمات التجارية"](https://go.microsoft.com/fwlink/?LinkId-2031122)و [التبديل إلى Office 365 مختلفة لخطة العمل](https://go.microsoft.com/fwlink/?LinkId=2031117) .
   

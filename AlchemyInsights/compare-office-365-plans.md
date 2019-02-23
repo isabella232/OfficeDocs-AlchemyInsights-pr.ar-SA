@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: 8fe5e7ca24f8d3ddeb9c38090ad098eed1dbb32b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 5434c0e01c65687269c8f3fa37bbe903f15dd3f0
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29919427"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30208070"
 ---
 # <a name="compare-office-365-plans"></a>مقارنة خطط Office 365
 
@@ -26,7 +26,7 @@ ms.locfileid: "29919427"
   
 إذا كانت مؤسستك مهتمة بمقارنة كافة الخطط والتسعير، قم بمراجعة [مقارنة كافة خطط Office 365](https://products.office.com/business/compare-more-office-365-for-business-plans).
   
-إذا اشترت خطة Office 365 المؤسسة وهي مهتمة بالتبديل إلى خطة مختلفة يمكنك ذلك من مركز مسؤول Office 365، انتقل إلى [الاشتراكات](https://go.microsoft.com/fwlink/p/?linkid=842054)، أو اختيار **الدفع** \> **الاشتراكات**. اختيار **خطط التبديل** عرض قائمة بالخطط الجديدة المتاحة. 
+إذا اشترت خطة Office 365 المؤسسة وهي مهتمة بالتبديل إلى خطة مختلفة يمكنك ذلك من مركز إدارة Microsoft 365، انتقل إلى [الاشتراكات](https://go.microsoft.com/fwlink/p/?linkid=842054)، أو اختيار **الدفع** \> **الاشتراكات**. اختيار **خطط التبديل** عرض قائمة بالخطط الجديدة المتاحة. 
   
 المؤسسة أيضا مزيج المباراة وخطط Office 365 لتلبية احتياجات ومتطلبات المستخدمين الميزة. من مسؤول Office 365، انتقل إلى صفحة [خدمات الشراء](https://go.microsoft.com/fwlink/p/?linkid=868433) ، أو اختر **الفواتير** \> **خدمات الشراء**.
   
