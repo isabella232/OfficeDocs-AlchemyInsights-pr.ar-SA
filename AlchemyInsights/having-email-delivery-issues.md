@@ -8,23 +8,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6a7bc2f3-7d03-4c6f-b15f-cc7e89d92102
-ms.openlocfilehash: 2f96c6ee5d2f58265057641694c0536a42a5faa3
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 89e9507141a28422de16455d95b052df77c6545a
+ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905027"
+ms.lasthandoff: 02/22/2019
+ms.locfileid: "30209976"
 ---
-# <a name="having-email-delivery-issues"></a><span data-ttu-id="d18fd-102">تواجه مشاكل تسليم البريد الإلكتروني؟</span><span class="sxs-lookup"><span data-stu-id="d18fd-102">Having email delivery issues?</span></span>
+# <a name="having-email-delivery-issues"></a><span data-ttu-id="f77f8-102">تواجه مشاكل تسليم البريد الإلكتروني؟</span><span class="sxs-lookup"><span data-stu-id="f77f8-102">Having email delivery issues?</span></span>
 
-<span data-ttu-id="d18fd-103">لقد اكتشفنا أن المستخدمين لا تلقي رسائل البريد الإلكتروني المرسلة إلى المجال المنسوخ ما يلي:</span><span class="sxs-lookup"><span data-stu-id="d18fd-103">We've detected that your users can't receive emails sent to the following domain(s):</span></span>
+<span data-ttu-id="f77f8-103">لقد اكتشفنا أن المستخدمين لا تلقي رسائل البريد الإلكتروني المرسلة إلى المجال المنسوخ ما يلي:</span><span class="sxs-lookup"><span data-stu-id="f77f8-103">We've detected that your users can't receive emails sent to the following domain(s):</span></span>
   
-<span data-ttu-id="d18fd-104">{هيلثتشيكسترينج}</span><span class="sxs-lookup"><span data-stu-id="d18fd-104">{HealthCheckString}</span></span>
+<span data-ttu-id="f77f8-104">{هيلثتشيكسترينج}</span><span class="sxs-lookup"><span data-stu-id="f77f8-104">{HealthCheckString}</span></span>
   
-<span data-ttu-id="d18fd-p101">لا يتم تكوين سجلات NS أو الحد الأقصى لإعدادات المجال (DNS) بشكل صحيح لتسليم البريد الإلكتروني إلى خدمة Office 365. يمكنك الرجوع إلى [سجلات DNS لتحديث في Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) للحصول على إرشادات مفصلة.</span><span class="sxs-lookup"><span data-stu-id="d18fd-p101">The NS or MX records of the domain (DNS) settings aren't configured correctly for email delivery to your Office 365 service. You can refer to [Updating DNS records in Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) for detailed instructions.</span></span> 
+<span data-ttu-id="f77f8-p101">لا يتم تكوين سجلات NS أو الحد الأقصى لإعدادات المجال (DNS) بشكل صحيح لتسليم البريد الإلكتروني إلى خدمة Office 365. يمكنك الرجوع إلى [سجلات DNS لتحديث في Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) للحصول على إرشادات مفصلة.</span><span class="sxs-lookup"><span data-stu-id="f77f8-p101">The NS or MX records of the domain (DNS) settings aren't configured correctly for email delivery to your Office 365 service. You can refer to [Updating DNS records in Office 365](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx) for detailed instructions.</span></span> 
   
-<span data-ttu-id="d18fd-107">لإصلاح المشكلة، الرجاء الانتقال إلى الصفحة " [مجالات](https://admin.microsoft.com/adminportal/home#/Domains) " في مركز لمسؤول Office 365، وسوف نساعدك معه.</span><span class="sxs-lookup"><span data-stu-id="d18fd-107">To fix it, please go to the [Domains](https://admin.microsoft.com/adminportal/home#/Domains) page in the Office 365 Admin Center, and we'll help you with it.</span></span> 
+<span data-ttu-id="f77f8-107">لإصلاح المشكلة، الرجاء الانتقال إلى الصفحة " [مجالات](https://admin.microsoft.com/adminportal/home#/Domains) " في مركز مسؤول Microsoft 365 وسوف نساعدك معه.</span><span class="sxs-lookup"><span data-stu-id="f77f8-107">To fix it, please go to the [Domains](https://admin.microsoft.com/adminportal/home#/Domains) page in the Microsoft 365 admin center, and we'll help you with it.</span></span> 
   
-<span data-ttu-id="d18fd-108">["الأسئلة المتداولة حول مجالات" التحقق](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) لآخر إيجاد حلول مشتركة.</span><span class="sxs-lookup"><span data-stu-id="d18fd-108">[Check the Domains FAQ](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) for other common solutions.</span></span> 
+<span data-ttu-id="f77f8-108">["الأسئلة المتداولة حول مجالات" التحقق](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) لآخر إيجاد حلول مشتركة.</span><span class="sxs-lookup"><span data-stu-id="f77f8-108">[Check the Domains FAQ](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) for other common solutions.</span></span> 
   
 
