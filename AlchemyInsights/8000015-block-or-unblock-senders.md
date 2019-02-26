@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: 49750888b92a62058efe8f09ccb03930afae43f5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: e4932e5d5cedcd98917ee6578a818284b8a93926
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941495"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30243812"
 ---
 # <a name="block-or-unblock-senders"></a>إلغاء المرسلين الموثوق بهم
 
@@ -28,7 +28,7 @@ ms.locfileid: "29941495"
     
 3. لحظر مرسل، أدخل عنوان البريد الإلكتروني أو المجال الذي تريد منعه أو اختر **إضافة**. 
     
-    لإلغاء حظر مرسل، حدد العنصر في القائمة وحدد **إزالة**![حذف](media/deb47846-8483-4f9d-813a-fc8fe288b583.png).
+    لإلغاء حظر مرسل، حدد العنصر في القائمة وحدد **إزالة**.
     
 4. حدد **حفظ**. 
     

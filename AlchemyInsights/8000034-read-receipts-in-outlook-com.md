@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8cae0e22-0dfc-4575-9f62-041aacbd9da9
-ms.openlocfilehash: 9f3a47f27099c5e53e251ed9d80a18dd643069f2
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 251ffb13eb2c0042b9c077acc8845f89c06ab2d7
+ms.sourcegitcommit: d1fb75d8359a248a03ddb1af50bab31ec3de6e2d
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29898511"
+ms.lasthandoff: 02/25/2019
+ms.locfileid: "30243956"
 ---
 # <a name="read-receipts-in-outlookcom"></a>إعلام بالقراءة في Outlook.com
 
 لا يمكنك طلب إعلام بقراءة في Outlook.com، ولكن يمكنك طلب إيصالات بالقراءة للرسائل Outlook.com التي تم إرسالها باستخدام Outlook ل Windows. لمعرفة كيفية إجراء ذلك، راجع [إضافة وطلب قراءة الإيصالات وتسليم رسائل الإعلام](https://go.microsoft.com/fwlink/p/?linkid=874355).
   
-لاختيار كيفية Outlook.com استجابة لطلبات إيصال بالقراءة، انتقل إلى **إعدادات**![الإعدادات](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) \> **خيارات** \> **البريد** \> **المعالجة التلقائية** \> **إعلام بالقراءة**. 
+لاختيار كيفية Outlook.com استجابة لطلبات إيصال بالقراءة، انتقل إلى **إعدادات** \> **خيارات** \> **البريد** \> **المعالجة التلقائية** \> **إعلام بالقراءة**. 
   
-في الإصدار بيتا Outlook.com، حدد **إعدادات**![إعدادات](media/f4b2e798-fff1-4a14-931f-5677a4543b58.png) وابحث عن **إعلام بالقراءة**. 
+بيتا Outlook.com، حدد **إعدادات** وابحث عن **إعلام بالقراءة**. 
   
 
