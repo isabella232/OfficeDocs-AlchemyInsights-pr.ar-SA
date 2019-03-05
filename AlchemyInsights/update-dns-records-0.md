@@ -6,23 +6,23 @@ ms.date: 1/12/2018
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
-localization_priority: Normal
+localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: fb7a525e-3527-4b4f-84a7-8d969e97abf7
-ms.openlocfilehash: e6b58e70ecc302c94718d35bc8d840d2963cf69e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 3deb5f1ac8ec663c43848beb9d0a815198206e19
+ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29940811"
+ms.lasthandoff: 03/05/2019
+ms.locfileid: "30405058"
 ---
-# <a name="update-dns-records"></a><span data-ttu-id="4afae-102">تحديث سجلات DNS</span><span class="sxs-lookup"><span data-stu-id="4afae-102">Update DNS Records</span></span>
+# <a name="update-dns-records"></a><span data-ttu-id="01744-102">تحديث سجلات DNS</span><span class="sxs-lookup"><span data-stu-id="01744-102">Update DNS Records</span></span>
 
-<span data-ttu-id="4afae-p101">إعداد سجلات DNS من المهم الحصول على اشتراك Office 365 العمل مع اسم المجال المخصص الخاص بك. استخدم الارتباطات الموجودة أدناه لإضافة أو تحديث سجلات DNS الخاصة بك.</span><span class="sxs-lookup"><span data-stu-id="4afae-p101">Setting up your DNS records is important to getting your Office 365 subscription working with your custom domain name. Use the links below to add or update your DNS records.</span></span>
+<span data-ttu-id="01744-p101">إعداد سجلات DNS من المهم الحصول على اشتراك Office 365 العمل مع اسم المجال المخصص الخاص بك. استخدم الارتباطات الموجودة أدناه لإضافة أو تحديث سجلات DNS الخاصة بك.</span><span class="sxs-lookup"><span data-stu-id="01744-p101">Setting up your DNS records is important to getting your Office 365 subscription working with your custom domain name. Use the links below to add or update your DNS records.</span></span>
   
-- [<span data-ttu-id="4afae-105">تحديث سجلات DNS في Office 365</span><span class="sxs-lookup"><span data-stu-id="4afae-105">Updating DNS records in Office 365</span></span>](https://support.office.com/article/B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23)
+- [<span data-ttu-id="01744-105">تحديث سجلات DNS في Office 365</span><span class="sxs-lookup"><span data-stu-id="01744-105">Updating DNS records in Office 365</span></span>](https://support.office.com/article/B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23)
     
-- [<span data-ttu-id="4afae-106">إضافة أو تحرير سجلات DNS مخصص</span><span class="sxs-lookup"><span data-stu-id="4afae-106">Add or edit custom DNS records</span></span>](https://support.office.com/article/AF00A516-DD39-4EDA-AF3E-1EAF686C8DC9)
+- [<span data-ttu-id="01744-106">إضافة أو تحرير سجلات DNS مخصص</span><span class="sxs-lookup"><span data-stu-id="01744-106">Add or edit custom DNS records</span></span>](https://support.office.com/article/AF00A516-DD39-4EDA-AF3E-1EAF686C8DC9)
     
 
