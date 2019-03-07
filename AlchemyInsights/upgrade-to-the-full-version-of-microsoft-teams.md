@@ -8,19 +8,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 86e9b860-d4b2-495c-a135-5c7ecb8e6192
-ms.openlocfilehash: a48883d8c6471d7830723cf0ff3d2a063246aefe
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: d70ed9689ed08b66b4b5171920bac02769009b44
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29904847"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468974"
 ---
-# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a><span data-ttu-id="bd627-102">الترقية إلى الإصدار الكامل من فرق Microsoft</span><span class="sxs-lookup"><span data-stu-id="bd627-102">Upgrade to the full version of Microsoft Teams</span></span>
+# <a name="upgrade-to-the-full-version-of-microsoft-teams"></a><span data-ttu-id="aa9bc-102">الترقية إلى الإصدار الكامل من فرق Microsoft</span><span class="sxs-lookup"><span data-stu-id="aa9bc-102">Upgrade to the full version of Microsoft Teams</span></span>
 
-<span data-ttu-id="bd627-103">يمكنك الترقية من Microsoft الفرق (مجاناً) إلى الإصدار الكامل من فرق Microsoft عندما تكون جاهزاً.</span><span class="sxs-lookup"><span data-stu-id="bd627-103">You can upgrade from Microsoft Teams (free) to the full version of Microsoft Teams whenever you're ready.</span></span>
-  
-<span data-ttu-id="bd627-104">أفضل طريقة لبدء عملية الترقية انقر فوق **الاتصال** أدناه.</span><span class="sxs-lookup"><span data-stu-id="bd627-104">The best way to start the upgrade process is to click **Let us call you** below.</span></span> 
-  
-<span data-ttu-id="bd627-105">سوف اتصل بوكيل دعم ويساعدك على تحديد خطة Office 365، أدخل معلومات جهة الاتصال والدفع، حدد اسم المجال المنظمة، والترقية الخاص بك قائمة بأسماء الأعضاء.</span><span class="sxs-lookup"><span data-stu-id="bd627-105">A support agent will contact you and help you select an Office 365 plan, enter your contact and payment info, select your org domain name, and upgrade your member roster.</span></span>
-  
+<span data-ttu-id="aa9bc-103">تحتاج إلى ترقية من الحر إلى الإصدار الكامل من فرق Microsoft؟</span><span class="sxs-lookup"><span data-stu-id="aa9bc-103">Need to upgrade from the free to the full version of Microsoft Teams?</span></span> <span data-ttu-id="aa9bc-104">راجع [ترقية Microsoft فرق العمل الحر لإصدار الاشتراك Office 365](https://docs.microsoft.com/en-us/microsoftteams/upgrade-freemium)</span><span class="sxs-lookup"><span data-stu-id="aa9bc-104">See [Upgrade Microsoft Teams free to Office 365 subscription version](https://docs.microsoft.com/en-us/microsoftteams/upgrade-freemium)</span></span>
+
+<span data-ttu-id="aa9bc-105">ستحتاج إلى هذه المتطلبات:</span><span class="sxs-lookup"><span data-stu-id="aa9bc-105">You’ll need to meet these requirements:</span></span>
+- <span data-ttu-id="aa9bc-106">أنت الشخص الذي قام بتسجيل الدخول الحالي نسخة مجانية من الفرق.</span><span class="sxs-lookup"><span data-stu-id="aa9bc-106">You’re the person who signed up for the current free version of Teams.</span></span>
+- <span data-ttu-id="aa9bc-107">إذا كان النطاق الخاص بك، لا مسبقاً يمكن ربطها مع Active Directory Azure.</span><span class="sxs-lookup"><span data-stu-id="aa9bc-107">If you have your own domain, it can’t already be associated with Azure Active Directory.</span></span>
+- <span data-ttu-id="aa9bc-108">لنقل البيانات عند الترقية، يجب أن تشترك في أثناء عملية الترقية.</span><span class="sxs-lookup"><span data-stu-id="aa9bc-108">To transfer data when you upgrade, you must subscribe during the upgrade process.</span></span> <span data-ttu-id="aa9bc-109">إذا قمت بشراء Office 365 خارج عملية الترقية، لا يمكنك نقل البيانات.</span><span class="sxs-lookup"><span data-stu-id="aa9bc-109">If you bought Office 365 outside of the upgrade process, you can’t transfer data.</span></span>
+
 
