@@ -9,16 +9,16 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3899a788-feaa-4ea4-a40b-09542f4cc148
-ms.openlocfilehash: 457bf53f2817b1e0a68b0647c84cb6b66ef0a43a
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 73ff9c5cb09cd4209912ef459e8c7df2560c2d27
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29927743"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468542"
 ---
 # <a name="have-you-enabled-teams-for-your-students"></a>يمكنك تمكين فرق العمل للطلاب؟
 
 
-هيئة التدريس والموظفين قادراً على الوصول إلى فرق العمل، ولكن لا يمكن الطلاب؟ الفرق يجب أن يكون بوضوح ممكن للطلاب، فضلا عن أعضاء هيئة التدريس والموظفين. للقيام بذلك، انظر الشكل رقم 2 من الخطوة 5 في العثور على المقالة [هنا](https://docs.microsoft.com/education/get-started/enable-microsoft-teams).
+هيئة التدريس والموظفين قادراً على الوصول إلى فرق العمل، ولكن لا يمكن الطلاب؟ الفرق يجب أن يكون بوضوح ممكن للطلاب، فضلا عن أعضاء هيئة التدريس والموظفين. للقيام بذلك، راجع [تمكين فرق Microsoft للمدرسة](https://docs.microsoft.com/education/get-started/enable-microsoft-teams).
   
 

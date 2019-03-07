@@ -8,17 +8,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b26be13f-7b8f-4393-9083-2b4d97b6cd80
-ms.openlocfilehash: 1382cb840a768afac42ac5a521ee44ef380341a5
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: fb1b75df37b38635ba101b1f2cd9f678e631a7f9
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29930703"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468501"
 ---
 # <a name="restoring-a-deleted-team-site"></a>استعادة موقع فريق المحذوف
 
-هل قمت، كمالك للفريق، بطريق الخطأ بحذف فريق؟ يحدث ذلك، ولكن يمكن الحصول عليه لا يزال مرة أخرى.
-  
-لاستعادة فريق محذوف لفرق العمل Microsoft، اتبع الخطوات الموجودة هنا: [استعادة فريق محذوف](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams/)
+هل قمت بطريق الخطأ حذف فريق؟ إذا كان أقل من 30 يوما منذ أن قمت بحذف الفريق، أنت محظوظ؛ يمكنك استعادتها. للقيام بذلك، اتبع الخطوات هنا: [استعادة فريق محذوف](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams/)
   
 

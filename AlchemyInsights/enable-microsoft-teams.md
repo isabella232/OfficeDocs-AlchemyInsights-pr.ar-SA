@@ -11,19 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: c35b64bd-537d-4a33-98df-ad02de8fb71b
-ms.openlocfilehash: e00c589059b2f02ce9d6a77ca2a2ffb9d90771dc
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 98a7a07a85506f8f94b5a55ebf0e797443a0260a
+ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29917195"
+ms.lasthandoff: 03/07/2019
+ms.locfileid: "30468902"
 ---
 # <a name="enable-and-use-microsoft-teams"></a>تمكين واستخدام فرق Microsoft
 
-يمكنك استخدام هذه المواد لتمكين واستخدام فرق Microsoft:
-  
-- [كيف يمكنني الوصول إلى فرق Microsoft؟](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)
-    
-- [إعدادات المسؤول لفرق العمل من Microsoft](https://support.office.com/article/Administrator-settings-for-Microsoft-Teams-3966a3f5-7e0f-4ea9-a402-41888f455ba2.aspx)
-    
+
+إذا لم يكن لديك حق الوصول إلى Microsoft فرق على الإطلاق، راجع [كيف يمكنني الوصول إلى Microsoft الفرق](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx)
+
+إذا كان لديك Microsoft الفرق وتحتاج إلى معرفة كيفية تكوين وإدارتها، راجع [إعدادات المسؤول لفرق العمل من Microsoft](https://support.office.com/article/Administrator-settings-for-Microsoft-Teams-3966a3f5-7e0f-4ea9-a402-41888f455ba2.aspx)
 
