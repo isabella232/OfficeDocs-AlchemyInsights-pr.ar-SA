@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: Adm_O365
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 01d8b03209e734f1218de61d964524b1b9e1d044
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: e248c2ee3cbb9a86f21c1f36be10c893df76ff52
+ms.sourcegitcommit: 3070905131e6d8449981231a3551c0bb4ca38ae6
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29939263"
+ms.lasthandoff: 03/14/2019
+ms.locfileid: "30634491"
 ---
 # <a name="required-alchemy-header-h1-h2s-dont-work"></a>لا تعمل المطلوبة خيمياء رأس H1، H2 الخاصة.
 أفضل الممارسات والمبادئ التوجيهية لكتابة "الكيمياء":
 
 1. **عدم تداخل الأفكار "الكيمياء" في المجلدات**-سيؤدي هذا إلى قطع بنية عنوان url. نحن نبحث في إصلاح ذلك.
 1. يجب أن تحتوي ملفات في المجلد **التشيميينسايتس** قاعدة معرف واسم القاعدة من [بوابة الشركاء "الكيمياء"](https://alchemyportal.azurewebsites.net) في اسم الملف.
-    1. مثلاً: ***976-How-to-enable-litigation-hold***
+    1. السابقين. ***976-How-to-enable-litigation-hold***
 1. استخدام بيانات التعريف في الجزء العلوي من هذا الملف كالقالب. لا شيء غير مطلوب.
 1. في [بوابة الشركاء "الكيمياء"](https://alchemyportal.azurewebsites.net)، انتقل إلى المقطع **"عنوان رؤية العميل":** واستخدام هذه النقطة كمنطلق للعنوان H1 للفكرة. 
     > [!NOTE]

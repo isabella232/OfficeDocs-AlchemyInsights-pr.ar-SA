@@ -3,191 +3,84 @@
 
 
 
-## <a name="week-of-january-28-2019"></a>الأسبوع من 28 كانون الثاني/يناير سنة 2019
+## <a name="week-of-march-04-2019"></a>أسبوع 04 مارس عام 2019
 
 
 | نشر في |عنوان الموضوع | تغيير |
 |------|------------|--------|
-| 1/29/2019 | [خيمياء الأفكار الرئيسية](/AlchemyInsights/index) | تعديل |
-| 1/29/2019 | [استكشاف أخطاء التنشيط وإصلاحها](/AlchemyInsights/activation-troubleshooting) | تعديل |
-| 1/29/2019 | [هل تحصل على الكثير من البريد الإلكتروني العشوائي أو بالتصيد في علبة البريد الخاصة بك؟](/AlchemyInsights/are-you-getting-too-much-spam-or-phish-in-your-mailbox) | تعديل |
-| 1/29/2019 | [لا يمكن إضافة الافتراضي 2010 "سير عمل الموافقة"](/AlchemyInsights/can-t-add-default-2010-approval-workflow) | تعديل |
-| 1/29/2019 | [إنشاء موقع SharePoint](/AlchemyInsights/create-a-sharepoint-site) | تعديل |
-| 1/29/2019 | [حذف موقع SharePoint](/AlchemyInsights/delete-a-sharepoint-site-0) | تعديل |
-| 1/29/2019 | [حذف موقع SharePoint](/AlchemyInsights/delete-a-sharepoint-site) | تعديل |
-| 1/29/2019 | [لا يعمل كما هو متوقع DLP](/AlchemyInsights/dlp-not-working-as-expected) | تعديل |
-| 1/29/2019 | [هل لديك رسائل شرعية وضع علامة بريد عشوائي؟](/AlchemyInsights/do-you-have-legitimate-messages-being-marked-as-spam) | تعديل |
-| 1/29/2019 | [رمز الخطأ 30125/1011 عند تثبيت Office أو 30125-4](/AlchemyInsights/error-code-30125-4-or-30125-1011-when-installing-office) | تعديل |
-| 1/29/2019 | [يمكنك تمكين فرق العمل للطلاب؟](/AlchemyInsights/have-you-enabled-teams-for-your-students) | تعديل |
-| 1/29/2019 | [كيفية تنشيط Office](/AlchemyInsights/how-to-activate-office) | تعديل |
-| 1/29/2019 | [كيفية تثبيت Mac Office من المدخل](/AlchemyInsights/how-to-install-mac-office-from-the-portal) | تعديل |
-| 1/29/2019 | [كيفية تثبيت Office على باد](/AlchemyInsights/how-to-install-office-on-an-ipad) | تعديل |
-| 1/29/2019 | [كيفية تثبيت Office على أي فون](/AlchemyInsights/how-to-install-office-on-an-iphone) | تعديل |
-| 1/29/2019 | [كيفية التحقق من المجال الخاص بك باستخدام Office 365](/AlchemyInsights/how-to-verify-your-domain-with-office-365) | تعديل |
-| 1/29/2019 | [تثبيت توقف أو يعلق](/AlchemyInsights/installation-hangs-or-gets-stuck) | تعديل |
-| 1/29/2019 | [الفرق Microsoft-وصول الضيف](/AlchemyInsights/microsoft-teamsguest-access) | تعديل |
-| 1/29/2019 | [خيارات الدفع](/AlchemyInsights/payment-options) | تعديل |
-| 1/29/2019 | [نشر البنية التحتية بموقع اتصال](/AlchemyInsights/publishing-infrastructure-with-a-communication-site) | تعديل |
-| 1/29/2019 | [المسائل المتصلة بسنة 2019 Office](/AlchemyInsights/questions-related-to-office-2019) | تعديل |
-| 1/29/2019 | [حلول لخطأ 30015 4](/AlchemyInsights/solutions-for-error-30015-4) | تعديل |
-| 1/29/2019 | [حلول لخطأ 30016 4](/AlchemyInsights/solutions-for-error-30016-4) | تعديل |
-| 1/29/2019 | [حلول لخطأ 30174 4](/AlchemyInsights/solutions-for-error-30174-4) | تعديل |
-| 1/29/2019 | [حلول لمشكلات أثناء تثبيت Office](/AlchemyInsights/solutions-for-issues-while-installing-office) | تعديل |
-| 1/29/2019 | [حلول ل ' لا يمكن أن يتم تثبيت Office (64-بت أو 32-بت)](/AlchemyInsights/solutions-for-office-64-bit-or-32-bit-couldn-t-be-installed) | تعديل |
-| 1/29/2019 | [حلول ل "نظام التشغيل غير معتمدة"](/AlchemyInsights/solutions-for-unsupported-operating-system) | تعديل |
-| 1/29/2019 | [خطوات لحل office التنشيط خطأ 0x80070005](/AlchemyInsights/steps-to-resolve-office-activation-error-0x80070005) | إضافة |
-| 1/29/2019 | [خطوات لحل خطأ تنشيط Office 0xc004b100](/AlchemyInsights/steps-to-resolve-office-activation-error-0xc004b100) | إضافة |
-| 1/29/2019 | [اقتراحات لحل أخطاء "المنتج غير مرخص"](/AlchemyInsights/suggestions-for-solving-unlicensed-product-errors) | تعديل |
-| 1/29/2019 | [إصدار معتمد من أداة الترحيل في SharePoint](/AlchemyInsights/supported-version-of-the-sharepoint-migration-tool) | تعديل |
-| 1/29/2019 | [التحقق من استكشاف الأخطاء وإصلاحها في رأس الأمان للكشف عن حالات الغش](/AlchemyInsights/troubleshooting-the-safety-tip-for-fraud-detection-checks) | تعديل |
-| 1/29/2019 | [إزالة تثبيت Office](/AlchemyInsights/uninstall-office) | تعديل |
-| 1/29/2019 | [تحديث سجلات DNS](/AlchemyInsights/update-dns-records) | تعديل |
-| 1/29/2019 | [سيتم تثبيت Office من](/AlchemyInsights/where-to-install-office-from) | تعديل |
-| 30/1/2019 | [1336 ريكوفيرابليتيمس المجلد ممتلئ](/AlchemyInsights/1336-recoverableitems-folder-is-full) | تعديل |
-| 30/1/2019 | [1800014 "استكشاف الأخطاء وإصلاحها" المحمول برنامج إعداد Outlook لعلبة بريد المشتركة](/AlchemyInsights/1800014-troubleshooting-outlook-mobile-setup-for-a-shared-mailbox) | تعديل |
-| 30/1/2019 | [1800014 استخدام صندوق بريد مشترك على جهاز محمول](/AlchemyInsights/1800014-using-a-shared-mailbox-on-a-mobile-device) | تعديل |
-| 30/1/2019 | [1800018 إضافة/إعداد حسابات البريد الإلكتروني](/AlchemyInsights/1800018-add-set-up-email-accounts) | تعديل |
-| 30/1/2019 | [1800018 البحث عن إعدادات الملقم IMAP و POP](/AlchemyInsights/1800018-find-your-pop-and-imap-server-settings) | تعديل |
-| 30/1/2019 | [الحسابات المتصلة 1800029 غير معتمد في Outlook على ويب](/AlchemyInsights/1800029-connected-accounts-not-supported-in-outlook-on-the-web) | تعديل |
-| 30/1/2019 | [204 كيفية البحث عن المفقودين أو استرداد مفقود بريد Outlook "أو" التقويم "أو" جهات الاتصال](/AlchemyInsights/204-how-to-find-missing-or-recover-missing-outlook-mail-calendar-or-contacts) | تعديل |
-| 30/1/2019 | [تطبيق الحجوزات Microsoft 597](/AlchemyInsights/597-microsoft-bookings-app) | تعديل |
-| 30/1/2019 | [تغيير الأذونات على علبة بريد](/AlchemyInsights/changing-permissions-on-a-mailbox) | تعديل |
-| 30/1/2019 | [تعطل Excel؟](/AlchemyInsights/excel-crashing) | تعديل |
-| 30/1/2019 | [إزالة المجال](/AlchemyInsights/remove-domain) | تعديل |
-| 30/1/2019 | [تنشيط Office](/AlchemyInsights/activate-office) | تعديل |
-| 30/1/2019 | [إضافة آخر الاسم المستعار للبريد الإلكتروني](/AlchemyInsights/add-another-email-alias) | تعديل |
-| 30/1/2019 | [إضافة المستخدمين الخارجيين](/AlchemyInsights/adding-external-users) | تعديل |
-| 30/1/2019 | [الاتحاد ADFS انتهاء مدة صلاحية الشهادة](/AlchemyInsights/adfs-federation-certificate-expiring) | تعديل |
-| 30/1/2019 | [دور الإدارة وكيفية تعيين](/AlchemyInsights/admin-role-and-how-to-assign) | تعديل |
-| 30/1/2019 | [تولي الإدارة](/AlchemyInsights/admin-takeover) | تعديل |
-| 30/1/2019 | [الكيمياء-تعطل Outlook خطوات استكشاف الأخطاء وإصلاحها](/AlchemyInsights/alchemyoutlook-crash-troubleshooting-steps) | تعديل |
-| 30/1/2019 | [الكيمياء-توقعات خطأ 'لا يمكن بدء تشغيل Microsoft Outlook"](/AlchemyInsights/alchemyoutlook-errorcannot-start-microsoft-outlook) | تعديل |
-| 30/1/2019 | [الكيمياء-بحث Outlook لا إيديكسينج](/AlchemyInsights/alchemyoutlook-search-not-idexing) | تعديل |
-| 30/1/2019 | [تعيين أو إزالة تراخيص المستخدمين](/AlchemyInsights/assign-or-remove-users-licenses) | تعديل |
-| 30/1/2019 | [إلغاء اشتراك Office 365](/AlchemyInsights/cancel-office-365-subscription) | تعديل |
-| 30/1/2019 | [إلغاء اشتراك Office 365؟](/AlchemyInsights/canceling-your-office-365-subscription-0) | تعديل |
-| 30/1/2019 | [إلغاء اشتراك Office 365؟](/AlchemyInsights/canceling-your-office-365-subscription-2) | تعديل |
-| 30/1/2019 | [تغيير عنوان البريد الإلكتروني واسم المستخدم](/AlchemyInsights/change-a-user-s-name-and-email-address) | تعديل |
-| 30/1/2019 | [تغيير الأسماء](/AlchemyInsights/change-nameservers) | تعديل |
-| 30/1/2019 | [تغيير عنوان البريد الإلكتروني البديل للفوترة الإعلام](/AlchemyInsights/change-the-alternate-email-address-for-billing-notification) | تعديل |
-| 30/1/2019 | [تغيير UPN](/AlchemyInsights/change-upn) | تعديل |
-| 30/1/2019 | [تغيير حجم الرسائل أو المرفقات](/AlchemyInsights/changing-message-or-attachment-size) | تعديل |
-| 30/1/2019 | [تغيير أذونات المجلد العمومي](/AlchemyInsights/changing-public-folder-permissions) | تعديل |
-| 30/1/2019 | [تغيير علبة البريد المشتركة Send As السلوك](/AlchemyInsights/changing-shared-mailbox-send-as-behavior) | تعديل |
-| 30/1/2019 | [مقارنة خطط Office 365](/AlchemyInsights/compare-office-365-plans) | تعديل |
-| 30/1/2019 | [الوصول المشروط مع إينتوني](/AlchemyInsights/conditional-access-with-intune) | تعديل |
-| 30/1/2019 | [كونسيستينسيجويد/سورسينتشور السلوك](/AlchemyInsights/consistencyguidsourceanchor-behavior) | تعديل |
-| 30/1/2019 | [لا يظهر المحتوى في نتائج البحث SharePoint](/AlchemyInsights/content-doesn-t-appear-in-sharepoint-search-results) | تعديل |
-| 30/1/2019 | [إنشاء موقع SharePoint](/AlchemyInsights/create-a-sharepoint-site) | تعديل |
-| 30/1/2019 | [إنشاء واستخدام "علبة البريد المشتركة"](/AlchemyInsights/create-and-use-a-shared-mailbox) | تعديل |
-| 30/1/2019 | [إنشاء علب البريد المشتركة](/AlchemyInsights/create-shared-mailbox) | تعديل |
-| 30/1/2019 | [إنشاء المجلدات العمومية](/AlchemyInsights/creating-public-folders) | تعديل |
-| 30/1/2019 | [أذونات علب البريد المفوضة في بيئة مختلطة](/AlchemyInsights/delegated-mailbox-permissions-in-a-hybrid-environment) | تعديل |
-| 30/1/2019 | [حذف موقع SharePoint](/AlchemyInsights/delete-a-sharepoint-site) | تعديل |
-| 30/1/2019 | [حذف مجموعة الموقع](/AlchemyInsights/delete-group-site) | تعديل |
-| 30/1/2019 | [لا يعمل كما هو متوقع DLP](/AlchemyInsights/dlp-not-working-as-expected) | تعديل |
-| 30/1/2019 | [تلميحات نهج DLP لا يعمل](/AlchemyInsights/dlp-policy-tips-not-working) | تعديل |
-| 30/1/2019 | [رقم بطاقة الائتمان لا تعمل قاعدة DLP](/AlchemyInsights/dlp-rule-for-credit-card-number-not-working) | تعديل |
-| 30/1/2019 | [دلب قاعدة للتأمين الاجتماعي لا يعمل](/AlchemyInsights/dlp-rule-for-ssn-not-working) | تعديل |
-| 30/1/2019 | [قاعدة DLP "لنا رقم الحساب البنكي" لا يعمل](/AlchemyInsights/dlp-rule-for-us-bank-account-number-not-working) | تعديل |
-| 30/1/2019 | [دلب قاعدة للولايات المتحدة/"المملكة المتحدة رقم جواز السفر" لا يعمل](/AlchemyInsights/dlp-rule-for-us-uk-passport-number-not-working) | تعديل |
-| 30/1/2019 | [هل لديك رسائل شرعية وضع علامة بريد عشوائي؟](/AlchemyInsights/do-you-have-legitimate-messages-being-marked-as-spam) | تعديل |
-| 30/1/2019 | [تنزيل وتثبيت Office](/AlchemyInsights/download-and-install-office) | تعديل |
-| 30/1/2019 | [ترك الموظف](/AlchemyInsights/employee-leaving) | تعديل |
-| 30/1/2019 | [تمكين الفرق Microsoft](/AlchemyInsights/enable-microsoft-teams) | تعديل |
-| 30/1/2019 | [تعاني من تكرار طلب كلمة المرور في Outlook لنظام التشغيل Mac؟](/AlchemyInsights/experiencing-repeated-password-prompts-in-outlook-for-mac) | تعديل |
-| 30/1/2019 | [فتح الملف للقراءة فقط](/AlchemyInsights/file-open-read-only-0) | تعديل |
-| 30/1/2019 | [فتح الملف للقراءة فقط](/AlchemyInsights/file-open-read-only-1) | تعديل |
-| 30/1/2019 | [فتح الملف للقراءة فقط](/AlchemyInsights/file-open-read-only) | تعديل |
-| 30/1/2019 | [يمكنك تمكين فرق العمل للطلاب؟](/AlchemyInsights/have-you-enabled-teams-for-your-students) | تعديل |
-| 30/1/2019 | [تواجه مشاكل تسليم البريد الإلكتروني؟](/AlchemyInsights/having-email-delivery-issues-0) | تعديل |
-| 30/1/2019 | [تواجه مشاكل تسليم البريد الإلكتروني؟](/AlchemyInsights/having-email-delivery-issues) | تعديل |
-| 30/1/2019 | [تواجه مشاكل في الحصول على Outlook الاتصال؟](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | تعديل |
-| 30/1/2019 | [تواجه مشاكل في الحصول على Outlook الاتصال؟](/AlchemyInsights/having-issues-getting-outlook-to-connect) | تعديل |
-| 30/1/2019 | [كيف يمكنني تغيير من مدفوعات بطاقة الائتمان للفاتورة؟](/AlchemyInsights/how-do-i-change-from-credit-card-payments-to-invoice) | تعديل |
-| 30/1/2019 | [كيفية تعطيل "المجموعات الخارجية"](/AlchemyInsights/how-to-disable-external-groups-0) | تعديل |
-| 30/1/2019 | [كيفية تعطيل "المجموعات الخارجية"](/AlchemyInsights/how-to-disable-external-groups) | تعديل |
-| 30/1/2019 | [كيفية تمكين SSO السلس](/AlchemyInsights/how-to-enable-seamless-sso) | تعديل |
-| 30/1/2019 | [كيفية تثبيت Mac Office من المدخل](/AlchemyInsights/how-to-install-mac-office-from-the-portal) | تعديل |
-| 30/1/2019 | [كيفية التحقق من المجال الخاص بك باستخدام Office 365](/AlchemyInsights/how-to-verify-your-domain-with-office-365) | تعديل |
-| 30/1/2019 | [معالج التكوين المختلط](/AlchemyInsights/hybrid-configuration-wizard) | تعديل |
-| 30/1/2019 | [تحديد الاحتجاز الموضوعة في علب البريد](/AlchemyInsights/identifying-holds-placed-on-mailboxes) | تعديل |
-| 30/1/2019 | [زيادة حجم علبة البريد "وحدات Sku المؤسسة"](/AlchemyInsights/increase-mailbox-size-for-enterprise-skus) | تعديل |
-| 30/1/2019 | [زيادة حجم علبة البريد لوحدات Sku SMB](/AlchemyInsights/increase-mailbox-size-for-smb-skus) | تعديل |
-| 30/1/2019 | [زيادة حجم علبة البريد](/AlchemyInsights/increase-mailbox-size) | تعديل |
-| 30/1/2019 | [معلومات حول جدبر](/AlchemyInsights/information-about-gdpr) | تعديل |
-| 30/1/2019 | [معلومات عن احتجاز دعوى قضائية أو في مكان الاستمرار](/AlchemyInsights/information-on-litigation-hold-or-in-place-hold) | تعديل |
-| 30/1/2019 | [تثبيت 2013 مكتب الإعلام](/AlchemyInsights/install-office-2013-notification) | تعديل |
-| 30/1/2019 | [تثبيت Skype للعمل](/AlchemyInsights/install-skype-for-business) | تعديل |
-| 30/1/2019 | [المشكلة مع Skype للعمل؟](/AlchemyInsights/issue-with-skype-for-business) | تعديل |
-| 30/1/2019 | [إدارة مجموعات في Yammer](/AlchemyInsights/manage-groups-in-yammer) | تعديل |
-| 30/1/2019 | [إدارة حسابات المستخدمين المتزامنة](/AlchemyInsights/manage-synchronized-user-accounts) | تعديل |
-| 30/1/2019 | [تعيين مكتبة SharePoint إلى محرك أقراص شبكة الاتصال](/AlchemyInsights/map-sharepoint-library-to-network-drive) | تعديل |
-| 30/1/2019 | [الفرق Microsoft-وصول الضيف](/AlchemyInsights/microsoft-teamsguest-access) | تعديل |
-| 30/1/2019 | [ترحيل البريد الإلكتروني من مجموعة G إلى Office 365](/AlchemyInsights/migrate-email-from-g-suite-to-office-365) | تعديل |
-| 30/1/2019 | [ترحيل صناديق البريد بين اثنين من المستأجرين مختلفة](/AlchemyInsights/migrate-mailboxes-between-two-different-tenants) | تعديل |
-| 30/1/2019 | [ترحيل بيانات المجلد العمومي إلى Office 365](/AlchemyInsights/migrate-public-folder-data-to-office-365-0) | تعديل |
-| 30/1/2019 | [ترحيل بيانات المجلد العمومي إلى Office 365](/AlchemyInsights/migrate-public-folder-data-to-office-365) | تعديل |
-| 30/1/2019 | [مجانية التعليم لإصدار Minecraft مع Office 365](/AlchemyInsights/minecraft-edition-with-office-365-education-for-free) | تعديل |
-| 30/1/2019 | [مراقبة الوصول المشروط](/AlchemyInsights/monitoring-conditional-access) | تعديل |
-| 30/1/2019 | [مراقبة الوصول الشرطي إينتوني](/AlchemyInsights/monitoring-intune-conditional-access) | تعديل |
-| 30/1/2019 | [نقل رسائل البريد الإلكتروني إلى أرشيف علبة البريد](/AlchemyInsights/move-email-messages-to-the-archive-mailbox) | تعديل |
-| 30/1/2019 | [تحرير التعليم من أجل office 365](/AlchemyInsights/office-365-education-for-free) | تعديل |
-| 30/1/2019 | [Office 365 لخطط الأعمال والتسعير](/AlchemyInsights/office-365-for-business-plans-and-pricing) | تعديل |
-| 30/1/2019 | [Office 365 لخطط التعليم والتسعير](/AlchemyInsights/office-365-for-education-plans-and-pricing) | تعديل |
-| 30/1/2019 | [Office 365 لخطة المؤسسة](/AlchemyInsights/office-365-for-enterprise-plan) | تعديل |
-| 30/1/2019 | [Office 365 لخطط الحكومة والتسعير](/AlchemyInsights/office-365-for-government-plans-and-pricing) | تعديل |
-| 30/1/2019 | [Office 365 لخطط غير ربحية والتسعير](/AlchemyInsights/office-365-for-nonprofit-plans-and-pricing) | تعديل |
-| 30/1/2019 | [عناوين IP وعناوين office 365](/AlchemyInsights/office-365-urls-and-ip-addresses) | تعديل |
-| 30/1/2019 | [تنتهي إحدى "شهادات خدمة الاتحاد" المحلي الخاص بك](/AlchemyInsights/one-of-your-on-premises-federation-service-certificates-is-expiring) | تعديل |
-| 30/1/2019 | [خيارات الدفع](/AlchemyInsights/payment-options) | تعديل |
-| 30/1/2019 | [مشاكل الأذونات أثناء ترحيل](/AlchemyInsights/permissions-issues-while-migrating) | تعديل |
-| 30/1/2019 | [مشاكل Skype Microsoft للشركات عند تسجيل الدخول إلى خدمة Office 365](/AlchemyInsights/problems-with-microsoft-skype-for-business-when-signing-in-to-the-office-365-ser) | تعديل |
-| 30/1/2019 | [ProxyAddress غير صحيحة](/AlchemyInsights/proxyaddress-incorrect) | تعديل |
-| 30/1/2019 | [الوصول إلى المجلد العمومي من الأجهزة المحمولة](/AlchemyInsights/public-folder-access-from-mobile-devices-0) | تعديل |
-| 30/1/2019 | [نشر البنية التحتية بموقع اتصال](/AlchemyInsights/publishing-infrastructure-with-a-communication-site) | تعديل |
-| 30/1/2019 | [إزالة موقع لوحة الوصل](/AlchemyInsights/remove-a-hub-site) | تعديل |
-| 30/1/2019 | [إزالة ملقم Exchange الداخلي الأخير](/AlchemyInsights/removing-the-last-on-premises-exchange-server) | تعديل |
-| 30/1/2019 | [التراخيص المطلوبة للقيام Microsoft](/AlchemyInsights/required-licences-for-microsoft-todo) | تعديل |
-| 30/1/2019 | [إعادة تعيين أو تغيير كلمات المرور](/AlchemyInsights/reset-or-change-passwords) | تعديل |
-| 30/1/2019 | [استعادة حذف المستخدم](/AlchemyInsights/restore-deleted-user) | تعديل |
-| 30/1/2019 | [نهج الاستبقاء في مركز مسؤول Exchange لا يعمل](/AlchemyInsights/retention-policies-in-exchange-admin-center-not-working) | تعديل |
-| 30/1/2019 | [البحث عن بريد إلكتروني في علبة البريد أرشيف](/AlchemyInsights/search-for-email-in-archive-mailbox) | تعديل |
-| 30/1/2019 | [إرسال رسالة بريد إلكتروني كعلبة البريد المشتركة](/AlchemyInsights/sending-email-as-the-shared-mailbox) | تعديل |
-| 30/1/2019 | [عدم انتهاء صلاحية كلمة المرور مجموعة](/AlchemyInsights/set-passwords-to-never-expire) | تعديل |
-| 30/1/2019 | [إعداد إعادة توجيه البريد الإلكتروني](/AlchemyInsights/set-up-email-forwarding) | تعديل |
-| 30/1/2019 | [إعداد منتدى جنوب المحيط الهادئ](/AlchemyInsights/set-up-spf) | تعديل |
-| 30/1/2019 | [إعداد الاشتراك أساسيات العمل O365](/AlchemyInsights/setting-up-your-o365-business-essentials-subscription) | تعديل |
-| 30/1/2019 | [إعداد الاشتراك O365 الأعمال الأولية](/AlchemyInsights/setting-up-your-o365-business-premium-subscription) | تعديل |
-| 30/1/2019 | [المشتركة المشكلة علبة البريد أو التقويم في Outlook لنظام التشغيل Mac؟](/AlchemyInsights/shared-mailbox-or-calendar-issue-in-outlook-for-mac) | تعديل |
-| 30/1/2019 | [إشعار الاشتراك على عميل Office](/AlchemyInsights/subscription-notice-on-office-client) | تعديل |
-| 30/1/2019 | [إرشادات ترقية الفرق](/AlchemyInsights/teams-upgrade-guidance) | تعديل |
-| 30/1/2019 | [المجال قيد الاستخدام بالفعل](/AlchemyInsights/the-domain-is-already-in-use) | تعديل |
-| 30/1/2019 | [استكشاف أخطاء وإصلاحها باستخدام فتح باستخدام مستكشف](/AlchemyInsights/troubleshoot-issues-using-open-with-explorer) | تعديل |
-| 30/1/2019 | [استكشاف أخطاء وإصلاحها باستخدام "شهادة دفع أطباء العالم التفاح" في Microsoft إينتوني](/AlchemyInsights/troubleshoot-issues-with-apple-mdm-push-certificate-in-microsoft-intune) | تعديل |
-| 30/1/2019 | [استكشاف مشكلات تسجيل ميزة في Microsoft إينتوني](/AlchemyInsights/troubleshoot-issues-with-dep-enrollment-in-microsoft-intune) | تعديل |
-| 30/1/2019 | [استكشاف مشكلات تسجيل أجهزة الروبوت في Microsoft إينتوني](/AlchemyInsights/troubleshoot-issues-with-enrolling-android-devices-in-microsoft-intune) | تعديل |
-| 30/1/2019 | [استكشاف مشكلات تسجيل أجهزة دائرة الرقابة الداخلية في Microsoft إينتوني](/AlchemyInsights/troubleshoot-issues-with-enrolling-ios-devices-in-microsoft-intune) | تعديل |
-| 30/1/2019 | [استكشاف مشكلات تسجيل أجهزة ماك في Microsoft إينتوني](/AlchemyInsights/troubleshoot-issues-with-enrolling-macos-devices-in-microsoft-intune) | تعديل |
-| 30/1/2019 | [استكشاف مشكلات تسجيل أجهزة Windows في Microsoft إينتوني](/AlchemyInsights/troubleshoot-issues-with-enrolling-windows-devices-in-microsoft-intune) | تعديل |
-| 30/1/2019 | [استكشاف أخطاء وإصلاحها باستخدام خيارات التسجيل Microsoft إينتوني](/AlchemyInsights/troubleshoot-issues-with-enrollment-options-microsoft-intune-0) | تعديل |
-| 30/1/2019 | [استكشاف أخطاء وإصلاحها باستخدام خيارات التسجيل Microsoft إينتوني](/AlchemyInsights/troubleshoot-issues-with-enrollment-options-microsoft-intune) | تعديل |
-| 30/1/2019 | [استكشاف مشكلات Microsoft إينتوني](/AlchemyInsights/troubleshoot-issues-with-microsoft-intune) | تعديل |
-| 30/1/2019 | [استكشاف أخطاء مزامنة كلمات المرور](/AlchemyInsights/troubleshoot-password-synchronization) | تعديل |
-| 30/1/2019 | [التحقق من استكشاف الأخطاء وإصلاحها في رأس الأمان للكشف عن حالات الغش](/AlchemyInsights/troubleshooting-the-safety-tip-for-fraud-detection-checks) | تعديل |
-| 30/1/2019 | [محاولة إزالة المجال الخاص بك؟](/AlchemyInsights/trying-to-remove-your-domain) | تعديل |
-| 30/1/2019 | [محاولة التحقق من المجال الخاص بك؟](/AlchemyInsights/trying-to-verify-your-domain) | تعديل |
-| 30/1/2019 | [إلغاء تثبيت عميل Office](/AlchemyInsights/uninstall-office-client) | تعديل |
-| 30/1/2019 | [تحديث سجلات DNS للحفاظ على موقع الويب الخاص بك باستخدام موفر الاستضافة الحالية](/AlchemyInsights/update-dns-records-to-keep-your-website-with-your-current-hosting-provider) | تعديل |
-| 30/1/2019 | [تحديث سجلات DNS](/AlchemyInsights/update-dns-records) | تعديل |
-| 30/1/2019 | [تحديث أسماء المجال الخاص بك إلى Office 365](/AlchemyInsights/update-your-domain-nameservers-to-office-365) | تعديل |
-| 30/1/2019 | [تعطيل المزامنة UPN](/AlchemyInsights/upn-sync-disabled) | تعديل |
-| 30/1/2019 | [تحقق من المجال](/AlchemyInsights/verify-domain) | تعديل |
-| 30/1/2019 | [عرض الفاتورة](/AlchemyInsights/view-my-bill) | تعديل |
-| 30/1/2019 | [122 بحاجة لإنشاء توقيع في Outlook على الويب؟](/AlchemyInsights/122-need-to-create-a-signature-in-outlook-on-the-web) | تعديل |
-| 30/1/2019 | [تعطيل 123 الحصول على حساب خطأ في OWA؟](/AlchemyInsights/123-getting-an-account-disabled-error-in-owa) | تعديل |
-| 2/1/2019 | [مطابقة اسم الملف أفضل [# القاعدة-وصف]](/AlchemyInsights/1-alchemy-insight-template) | تعديل |
-| 2/1/2019 | [تغيير الأذونات على علبة بريد](/AlchemyInsights/changing-permissions-on-a-mailbox) | تعديل |
+| 3/4/2019 | استرداد Outlook.com 8000011 حذف البريد الإلكتروني | إضافة |
+| 3/4/2019 | [إعلام بالقراءة 8000034 في Outlook.com](/AlchemyInsights/8000034-read-receipts-in-outlook-com) | تعديل |
+| 3/4/2019 | [8000047 كيفية إنشاء توقيع بريد إلكتروني في Outlook.com](/AlchemyInsights/8000047-how-to-create-an-email-signature-in-outlook-com) | تعديل |
+| 3/4/2019 | [صورة إدراج Outlook.com 8000086](/AlchemyInsights/80000860-outlook-com-insert-image) | إضافة |
+| 3/4/2019 | [اختصارات لوحة المفاتيح Outlook.com 8000087](/AlchemyInsights/8000087-outlook-com-keyboard-shortcuts) | إضافة |
+| 3/4/2019 | [8000088 حفظ البريد الإلكتروني في Outlook.com](/AlchemyInsights/8000088-outlook-com-save-emails) | تعديل |
+| 3/4/2019 | [المرسلون الأمن Outlook.com 8000089](/AlchemyInsights/8000089-outlook-com-safe-senders) | إضافة |
+| 3/4/2019 | استرداد Outlook.com 8000011 حذف البريد الإلكتروني | إزالة |
+| 3/4/2019 | بوويرابس 1575 وتدفق Microsoft تخطيط ملحق | إضافة |
+| 3/4/2019 | [تغيير المجال لمجموعة Office 365](/AlchemyInsights/change-domain-for-group) | إعادة تسمية |
+| 3/4/2019 | [بوويرابس 1575 وتدفق Microsoft تخطيط ملحق](/AlchemyInsights/1575-powerapps-and-microsoft-flow-plan-extension) | إعادة تسمية |
+| 3/4/2019 | [تمكين مصادقة متعددة العوامل](/AlchemyInsights/enable-multifactor-authentication) | تعديل |
+| 3/4/2019 | [تم تجاوز حد التخزين Outlook.com 8000054](/AlchemyInsights/8000054-2-outlook-com-usage-limit-exceeded) | إضافة |
+| 3/4/2019 | [أمان المنظمة 423-امايلاككونتكومبروميسيد](/AlchemyInsights/423-org-securityemailaccountcompromised) | تعديل |
+| 3/4/2019 | [التعامل مع البريد الإلكتروني العشوائي أو الاحتيال في Outlook.com 8000029](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | تعديل |
+| 3/4/2019 | [إزالة المجال](/AlchemyInsights/remove-domain) | تعديل |
+| 3/4/2019 | [إضافة مستخدمين إلى Office 365](/AlchemyInsights/add-users-to-office-365) | تعديل |
+| 3/4/2019 | [هل تحصل على الكثير من البريد الإلكتروني العشوائي أو بالتصيد في علبة البريد الخاصة بك؟](/AlchemyInsights/are-you-getting-too-much-spam-or-phish-in-your-mailbox) | تعديل |
+| 3/4/2019 | [تغيير الأسماء](/AlchemyInsights/change-nameservers) | تعديل |
+| 3/4/2019 | [إنشاء تطبيقات في بوويرابس](/AlchemyInsights/create-apps-in-powerapps) | تعديل |
+| 3/4/2019 | [عمليات الترحيل المرحلي إلى Office 365](/AlchemyInsights/cutover-migrations-to-office-365) | تعديل |
+| 3/4/2019 | [تواجه مشاكل تسليم البريد الإلكتروني؟](/AlchemyInsights/having-email-delivery-issues-0) | تعديل |
+| 3/4/2019 | [تواجه مشاكل تسليم البريد الإلكتروني؟](/AlchemyInsights/having-email-delivery-issues) | تعديل |
+| 3/4/2019 | [كيف يمكنني إضافة بطاقة ائتمان؟](/AlchemyInsights/how-do-i-add-a-credit-card) | تعديل |
+| 3/4/2019 | [كيف يمكنني تحديث معلومات بطاقة الائتمان الخاصة بي؟](/AlchemyInsights/how-do-i-update-my-credit-card-information) | تعديل |
+| 3/4/2019 | [كيفية تثبيت Office](/AlchemyInsights/how-to-install-office) | تعديل |
+| 3/4/2019 | [ترحيل البريد الإلكتروني من IMAP](/AlchemyInsights/migrate-email-from-imap) | تعديل |
+| 3/4/2019 | [خيارات الدفع](/AlchemyInsights/payment-options) | تعديل |
+| 3/4/2019 | [الخطوات الموصى بها حتى إذا تم اختراق حساب](/AlchemyInsights/recommended-steps-to-take-if-an-account-is-compromised) | تعديل |
+| 3/4/2019 | [مرسل تم حظره لإرسال بريد إلكتروني عشوائي كبيرة جداً](/AlchemyInsights/sender-blocked-for-sending-too-much-spam) | تعديل |
+| 3/4/2019 | [إرسال طلبات الدعم Dynamics 365](/AlchemyInsights/submit-dynamics-365-support-requests) | تعديل |
+| 3/4/2019 | [المجال قيد الاستخدام بالفعل](/AlchemyInsights/the-domain-is-already-in-use) | تعديل |
+| 3/4/2019 | [مشكلة إكمال شراء في موقع Office 365](/AlchemyInsights/trouble-completing-a-purchase-in-the-office-365-portal) | تعديل |
+| 3/4/2019 | [تحديث سجلات DNS](/AlchemyInsights/update-dns-records-0) | تعديل |
+| 3/4/2019 | [تحديث سجلات DNS](/AlchemyInsights/update-dns-records) | تعديل |
+| 3/4/2019 | [تحديث تفاصيل الدفع](/AlchemyInsights/update-payment-details) | تعديل |
+| 3/4/2019 | [تحقق من المجال](/AlchemyInsights/verify-domain) | تعديل |
+| 3/4/2019 | [إعداد إعادة توجيه إلى عناوين بريد إلكتروني متعددة](/AlchemyInsights/setting-up-forwarding-to-multiple-email-addresses) | تعديل |
+| 3/4/2019 | [حل 'لا مجال مقبول' خطأ](/AlchemyInsights/solving-the-not-an-accepted-domain-error) | تعديل |
+| 3/6/2019 | [فتح 1581 واستخدام علبة بريد مشتركة في Outlook على ويب](/AlchemyInsights/1581-open-and-use-a-shared-mailbox-in-owa) | تعديل |
+| 3/6/2019 | [التحولات الفرق](/AlchemyInsights/1686-teams-shifts) | إضافة |
+| 3/6/2019 | [1703 بحاجة إلى معلومات عن الفرق وهواتف بوليكوم](/AlchemyInsights/1703-need-information-on-teams-and-polycom-phones) | إضافة |
+| 3/6/2019 | [تثبيت الوحدة النمطية فرق PS ومرجع](/AlchemyInsights/1787-teams-ps-module-install-ref) | إضافة |
+| 3/6/2019 | [615 "أنواع من المشاركة" وكيفية إعدادها.](/AlchemyInsights/615-types-of-sharing-and-how-to-set-them-up) | تعديل |
+| 3/6/2019 | [الفرق Freemium](/AlchemyInsights/997-teams-freemium) | إضافة |
+| 3/6/2019 | [هل لديك رسائل شرعية وضع علامة بريد عشوائي؟](/AlchemyInsights/do-you-have-legitimate-messages-being-marked-as-spam) | تعديل |
+| 3/6/2019 | [تمكين الفرق Microsoft](/AlchemyInsights/enable-microsoft-teams) | تعديل |
+| 3/6/2019 | [يمكنك تمكين فرق العمل للطلاب؟](/AlchemyInsights/have-you-enabled-teams-for-your-students) | تعديل |
+| 3/6/2019 | [كيفية إعادة تنشيط الاشتراك](/AlchemyInsights/how-to-reactivate-a-subscription) | تعديل |
+| 3/6/2019 | نشر التطبيق إينتوني-991 معرف القاعدة | إزالة |
+| 3/6/2019 | [المشكلة مع Skype للعمل؟](/AlchemyInsights/issue-with-skype-for-business) | تعديل |
+| 3/6/2019 | [الفرق Microsoft-وصول الضيف](/AlchemyInsights/microsoft-teamsguest-access) | تعديل |
+| 3/6/2019 | [الفرق Microsoft-استعادة موقع فريق المحذوف](/AlchemyInsights/microsoft-teamsrestoring-a-deleted-team-site) | تعديل |
+| 3/6/2019 | [ترحيل البريد الإلكتروني من خلال Office 365](/AlchemyInsights/relay-email-through-office-365) | تعديل |
+| 3/6/2019 | [مزامنة الملفات SharePoint باستخدام عميل المزامنة أندريف الجديدة](/AlchemyInsights/sync-sharepoint-files-with-the-new-onedrive-sync-client) | تعديل |
+| 3/6/2019 | [الترقية إلى الإصدار الكامل من فرق Microsoft](/AlchemyInsights/upgrade-to-the-full-version-of-microsoft-teams) | تعديل |
+| 3/7/2019 | [لا يمكن مزامنة البريد الإلكتروني Outlook.com 8000064-الإسبانية](/AlchemyInsights/8000064-outlook-com-fix-email-sync-spanish) | إضافة |
+| 3/7/2019 | [8000065 Outlook.com عشوائي بريد عشوائي-الإسبانية](/AlchemyInsights/8000065-outlook-com-junk-spam-spanish) | إضافة |
+| 3/7/2019 | [8000066-تسلل القاعدة 1-Outlook.com-الإسبانية](/AlchemyInsights/8000066-1-outlook-com-hacked-spanish) | إضافة |
+| 3/7/2019 | [8000066-القاعدة 2-Outlook.com اخترق-الإسبانية](/AlchemyInsights/8000066-2-outlook-com-hacked-spanish) | إضافة |
+| 3/7/2019 | [8000067-حساب إغلاق Outlook.com-الإسبانية](/AlchemyInsights/8000067-outlook-com-close-account-spanish) | إضافة |
+| 3/7/2019 | [8000068-Outlook.com إضافة حساب-الإسبانية](/AlchemyInsights/8000068-outlook-com-add-account-spanish) | إضافة |
+| 3/7/2019 | [8000069-حظر المرسل Outlook.com-الإسبانية](/AlchemyInsights/8000069-outlook-com-block-sender-spanish) | إضافة |
+| 3/7/2019 | [8000070-Outlook.com لا يمكن تسجيل الدخول-الإسبانية](/AlchemyInsights/8000070-outlook-com-cant-sign-in-spanish) | إضافة |
+| 3/7/2019 | [استعادة حذف المستخدم](/AlchemyInsights/restore-deleted-user) | تعديل |
+| 3/8/2019 | إعدادات الإطارات المنبثقة و IMAP و SMTP 8000043 ل Outlook.com | إزالة |
+| 3/8/2019 | [إعدادات الإطارات المنبثقة و IMAP و SMTP 8000043 ل Outlook.com](/AlchemyInsights/8000043-outlook-com-pop-imap-and-smtp-settings) | إعادة تسمية |
+| 3/8/2019 | [8000071 Outlook.com إصلاح البريد الإلكتروني المزامنة-الفرنسية](/AlchemyInsights/8000071-outlook-com-fix-email-sync-french) | إضافة |
+| 3/8/2019 | [البريد الإلكتروني العشوائي Outlook.com 8000072-الفرنسية](/AlchemyInsights/8000072-outlook-com-junk-mail-french) | إضافة |
+| 3/8/2019 | [اخترق حساب Outlook.com 8000073-الفرنسية](/AlchemyInsights/8000073-outlook-com-account-hacked-french) | إضافة |
+| 3/8/2019 | [8000074 Outlook.com إغلاق الحساب-الفرنسية](/AlchemyInsights/8000074-outlook-com-close-account-french) | إضافة |
+| 3/8/2019 | [8000075 Outlook.com تغيير كلمة المرور-الفرنسية](/AlchemyInsights/8000075-outlook-com-change-password-french) | إضافة |
+| 3/8/2019 | [8000076 Outlook.com حظر المرسل-الفرنسية](/AlchemyInsights/8000076-outlook-com-block-sender-french) | إضافة |
 
 
 ## <a name="week-of-february-04-2019"></a>أسبوع 04 فبراير عام 2019
@@ -198,7 +91,7 @@
 | 2/4/2019 | [إضافة مستخدمين إلى Office 365](/AlchemyInsights/add-users-to-office-365) | تعديل |
 | 2/6/2019 | [ترك الموظف](/AlchemyInsights/employee-leaving) | تعديل |
 | 2/6/2019 | [تولي الإدارة](/AlchemyInsights/admin-takeover) | تعديل |
-| 2/6/2019 | [127 الحصول على خطأ تينانتاكسيسبلوكيديكسسيبشن عند الوصول إلى البريد الإلكتروني؟](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | تعديل |
+| 2/6/2019 | [127 الحصول على خطأ تينانتاكسيسبلوكيديكسسيبتيون عند الوصول إلى البريد الإلكتروني؟](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | تعديل |
 | 2/6/2019 | [959 تغيير اسم العرض](/AlchemyInsights/959-change-display-name) | تعديل |
 | 2/6/2019 | [إضافة أو إزالة مستعار للبريد إلكتروني للمستخدم](/AlchemyInsights/add-or-remove-an-email-alias-for-a-user) | تعديل |
 | 2/6/2019 | إضافة مقاعد للاشتراكات المدفوعة مسبقاً | إزالة |
@@ -211,7 +104,7 @@
 | 2/6/2019 | [إلغاء اشتراك Office 365](/AlchemyInsights/cancel-office-365-subscription) | تعديل |
 | 2/6/2019 | [تغيير عنوان البريد الإلكتروني واسم المستخدم](/AlchemyInsights/change-a-user-s-name-and-email-address) | تعديل |
 | 2/6/2019 | التجارة-إدارة فواتير ومدفوعات الاشتراكات والتراخيص | إزالة |
-| 2/6/2019 | [الحصول على خطأ تينانتاكسيسبلوكيديكسسيبشن عند الوصول إلى البريد الإلكتروني؟](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | تعديل |
+| 2/6/2019 | [الحصول على خطأ تينانتاكسيسبلوكيديكسسيبتيون عند الوصول إلى البريد الإلكتروني؟](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | تعديل |
 | 2/6/2019 | [تواجه مشاكل تسليم البريد الإلكتروني؟](/AlchemyInsights/having-email-delivery-issues-0) | تعديل |
 | 2/6/2019 | [تواجه مشاكل تسليم البريد الإلكتروني؟](/AlchemyInsights/having-email-delivery-issues) | تعديل |
 | 2/6/2019 | [تواجه مشاكل في الحصول على Outlook الاتصال؟](/AlchemyInsights/having-issues-getting-outlook-to-connect-0) | تعديل |
@@ -265,7 +158,7 @@
 | 11/2/2019 | [125 رسالة خطأ ترخيص غير صالح في Outlook على الويب؟](/AlchemyInsights/125-getting-an-invalid-license-error-in-outlook-on-the-web) | تعديل |
 | 11/2/2019 | [لا يمكن إيجاد 126 الحصول على علبة بريد الخطأ في OWA؟](/AlchemyInsights/126-getting-a-mailbox-cannot-be-found-error-in-owa) | تعديل |
 | 11/2/2019 | [IP 1264 حظر إرسال بريد إلكتروني عشوائي كبيرة جداً (550 5.7.51)](/AlchemyInsights/1264-ip-blocked-for-sending-too-much-spam-550-5-7-51) | تعديل |
-| 11/2/2019 | [127 الحصول على خطأ تينانتاكسيسبلوكيديكسسيبشن عند الوصول إلى البريد الإلكتروني؟](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | تعديل |
+| 11/2/2019 | [127 الحصول على خطأ تينانتاكسيسبلوكيديكسسيبتيون عند الوصول إلى البريد الإلكتروني؟](/AlchemyInsights/127-getting-a-tenantaccessblockedexception-error-when-accessing-email) | تعديل |
 | 11/2/2019 | [128 الحصول على خطأ تينانتاكسيسبلوكيديكسسيبشن عند الوصول إلى البريد الإلكتروني؟](/AlchemyInsights/128-getting-a-tenantaccessblockedexception-error-when-accessing-email) | تعديل |
 | 11/2/2019 | [1314 "الكائن تكرار" التحديث](/AlchemyInsights/1314-duplicate-object-remediation) | تعديل |
 | 11/2/2019 | [1332 OWA-قواعد علبة الوارد لا تنفذ لعلبة بريد](/AlchemyInsights/1332-owainbox-rule-s-are-not-executing-for-a-mailbox) | تعديل |
@@ -326,7 +219,7 @@
 | 11/2/2019 | [التعرف على خيارات المشاركة الخارجية 617](/AlchemyInsights/617-learn-about-external-sharing-options) | تعديل |
 | 11/2/2019 | [618 نهج مشاركة التقويم](/AlchemyInsights/618-calendar-sharing-policy) | تعديل |
 | 11/2/2019 | [المنطقة "الزمنية ضبط" 620 ولغة إعداد في Outlook على ويب](/AlchemyInsights/620-adjust-time-zone-and-language-setting-in-outlook-on-the-web) | تعديل |
-| 11/2/2019 | [646 كيفية تكوين آدكوننيكت](/AlchemyInsights/646-how-to-configure-aadconnect) | تعديل |
+| 11/2/2019 | [646 كيفية تكوين آدكونيكت](/AlchemyInsights/646-how-to-configure-aadconnect) | تعديل |
 | 11/2/2019 | [إنشاء قائمة توزيع أو مجموعة 711](/AlchemyInsights/711-creating-a-distribution-list-or-group) | تعديل |
 | 11/2/2019 | [712 تحويل قائمة توزيع لمجموعة Office 365](/AlchemyInsights/712-converting-a-distribution-list-to-an-office-365-group) | تعديل |
 | 11/2/2019 | [إضافة عنوان بريد إلكتروني آخر إلى قائمة توزيع 713](/AlchemyInsights/713-adding-an-additional-email-address-to-a-distribution-list) | تعديل |
@@ -420,7 +313,7 @@
 | 11/2/2019 | [922 قواعد علبة الوارد](/AlchemyInsights/922-inbox-rules) | تعديل |
 | 11/2/2019 | [حدود قواعد 924](/AlchemyInsights/924-rule-limits) | تعديل |
 | 11/2/2019 | [929 قواعد علبة الوارد إلى قواعد ديفليكترانسبورت](/AlchemyInsights/929-inbox-rules-to-deflecttransport-rules) | تعديل |
-| 11/2/2019 | [932 آدكوننيكت الترقية](/AlchemyInsights/932-upgrading-aadconnect) | تعديل |
+| 11/2/2019 | [932 آدكونيكت الترقية](/AlchemyInsights/932-upgrading-aadconnect) | تعديل |
 | 11/2/2019 | [934 حسابات IMAP وتمكين الإطارات المنبثقة](/AlchemyInsights/934-enable-pop-and-imap-accounts) | تعديل |
 | 11/2/2019 | [955 كيفية تكوين وزارة الخارجية](/AlchemyInsights/955-how-to-configure-mfa) | تعديل |
 | 11/2/2019 | [956 كيفية إنشاء وإدارة صناديق بريد الغرف](/AlchemyInsights/956-how-to-create-and-manage-room-mailboxes) | تعديل |
@@ -485,7 +378,7 @@
 | 11/2/2019 | [تغيير عدد مرات الدفع](/AlchemyInsights/change-how-often-you-pay) | تعديل |
 | 11/2/2019 | [تغيير هيئة أطباء العالم](/AlchemyInsights/change-mdm-authority) | تعديل |
 | 11/2/2019 | [تغيير الأسماء](/AlchemyInsights/change-nameservers) | تعديل |
-| 11/2/2019 | [تغيير أونيدريفي للحصة النسبية للتخزين العمل](/AlchemyInsights/change-onedrive-for-business-storage-quota) | تعديل |
+| 11/2/2019 | [تغيير أندريف للحصة النسبية للتخزين العمل](/AlchemyInsights/change-onedrive-for-business-storage-quota) | تعديل |
 | 11/2/2019 | [تغيير طريقة الدفع](/AlchemyInsights/change-payment-method) | تعديل |
 | 11/2/2019 | [تغيير الأذونات لمكتبة أو قائمة SharePoint](/AlchemyInsights/change-permissions-for-a-sharepoint-list-or-library) | تعديل |
 | 11/2/2019 | [تغيير عنوان البريد الإلكتروني البديل للفوترة الإعلام](/AlchemyInsights/change-the-alternate-email-address-for-billing-notification) | تعديل |
@@ -501,7 +394,7 @@
 | 11/2/2019 | [الوصول المشروط مع إينتوني](/AlchemyInsights/conditional-access-with-intune) | تعديل |
 | 11/2/2019 | [تكوين إعدادات التدقيق](/AlchemyInsights/configure-audit-settings) | تعديل |
 | 11/2/2019 | [تتصل مجموعة موقع فريق SharePoint الكلاسيكية](/AlchemyInsights/connect-a-classic-sharepoint-team-site-to-a-group) | تعديل |
-| 11/2/2019 | [كونسيستينسيجويد/سورسينتشور السلوك](/AlchemyInsights/consistencyguidsourceanchor-behavior) | تعديل |
+| 11/2/2019 | [كونسيستينسيجويد/سورسيانتشور السلوك](/AlchemyInsights/consistencyguidsourceanchor-behavior) | تعديل |
 | 11/2/2019 | [لا يظهر المحتوى في نتائج البحث SharePoint](/AlchemyInsights/content-doesn-t-appear-in-sharepoint-search-results) | تعديل |
 | 11/2/2019 | [إنشاء مجموعات التحكم](/AlchemyInsights/control-creation-of-groups) | تعديل |
 | 11/2/2019 | [تحويل موقع إلى موقع لوحة الوصل](/AlchemyInsights/convert-a-site-to-a-hub-site) | تعديل |
@@ -579,7 +472,7 @@
 | 11/2/2019 | [رمز الخطأ 550 5.7.705 رفض الوصول، تجاوز عتبة المستأجر](/AlchemyInsights/error-code-550-5-7-705-access-denied-tenant-has-exceeded-threshold) | تعديل |
 | 11/2/2019 | [ظهور رسالة خطأ عند مشاركة الملفات من "مستكشف Windows"](/AlchemyInsights/error-message-when-sharing-files-from-windows-explorer) | تعديل |
 | 11/2/2019 | [ظهور رسالة خطأ عند مشاركة الملفات](/AlchemyInsights/error-message-when-sharing-files) | تعديل |
-| 11/2/2019 | [أندريف خطأ يتعذر الاتصال ب Windows](/AlchemyInsights/error-onedrive-cannot-connect-to-windows) | تعديل |
+| 11/2/2019 | [أونيدريفي خطأ يتعذر الاتصال ب Windows](/AlchemyInsights/error-onedrive-cannot-connect-to-windows) | تعديل |
 | 11/2/2019 | [خطأ في إرسال رسالة بريد إلكتروني يتم حظره بواسطة SpamHaus](/AlchemyInsights/error-sending-email-blocked-by-spamhaus) | تعديل |
 | 11/2/2019 | [إصدار Excel "تصفية تلقائية"](/AlchemyInsights/excel-autofilter-issue) | تعديل |
 | 11/2/2019 | [تعاني من تكرار طلب كلمة المرور في Outlook لنظام التشغيل Mac؟](/AlchemyInsights/experiencing-repeated-password-prompts-in-outlook-for-mac) | تعديل |
@@ -592,15 +485,15 @@
 | 11/2/2019 | [فتح الملف للقراءة فقط](/AlchemyInsights/file-open-read-only) | تعديل |
 | 11/2/2019 | [البحث عن الملفات المفقودة أو المفقودة في SharePoint أو أندريف](/AlchemyInsights/find-lost-or-missing-files-in-onedrive-or-sharepoint) | تعديل |
 | 11/2/2019 | [إصلاح تدفق الفاشلة](/AlchemyInsights/fix-a-failed-flow) | تعديل |
-| 11/2/2019 | [إصلاح مشاكل مزامنة OneDrive](/AlchemyInsights/fix-onedrive-sync-issues) | تعديل |
-| 11/2/2019 | [إصلاح مشاكل المزامنة أونيدريفي](/AlchemyInsights/fix-onedrive-sync-problems) | تعديل |
+| 11/2/2019 | [إصلاح مشكلات المزامنة أندريف](/AlchemyInsights/fix-onedrive-sync-issues) | تعديل |
+| 11/2/2019 | [إصلاح مشاكل المزامنة أندريف](/AlchemyInsights/fix-onedrive-sync-problems) | تعديل |
 | 11/2/2019 | [إصلاح مشاكل تحميل ملفات إلى أندريف](/AlchemyInsights/fix-problems-uploading-files-to-onedrive) | تعديل |
 | 11/2/2019 | [مشاكل تنسيق الخط عام Excel 2016](/AlchemyInsights/font-formatting-problems-in-excel-2016) | تعديل |
 | 11/2/2019 | [الشروع في استخدام التدفق](/AlchemyInsights/get-started-with-flow) | تعديل |
 | 11/2/2019 | [الشروع في استخدام SharePoint على الإنترنت](/AlchemyInsights/get-started-with-sharepoint-online) | تعديل |
 | 11/2/2019 | [الحصول على مفتاح المختلط](/AlchemyInsights/getting-a-hybrid-key) | تعديل |
-| 11/2/2019 | [الحصول على خطأ تينانتاكسيسبلوكيديكسسيبشن عند الوصول إلى البريد الإلكتروني؟](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | تعديل |
-| 11/2/2019 | [منح المستخدمين حق الوصول إلى SharePoint وأندريف](/AlchemyInsights/give-users-access-to-sharepoint-and-onedrive) | تعديل |
+| 11/2/2019 | [الحصول على خطأ تينانتاكسيسبلوكيديكسسيبتيون عند الوصول إلى البريد الإلكتروني؟](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | تعديل |
+| 11/2/2019 | [منح المستخدمين حق الوصول إلى SharePoint وأونيدريفي](/AlchemyInsights/give-users-access-to-sharepoint-and-onedrive) | تعديل |
 | 11/2/2019 | [حصلت على خطأ 'تعذر العثور على المعلمة'؟](/AlchemyInsights/got-a-parameter-cannot-be-found-error) | تعديل |
 | 11/2/2019 | [يمكنك تمكين فرق العمل للطلاب؟](/AlchemyInsights/have-you-enabled-teams-for-your-students) | تعديل |
 | 11/2/2019 | [تواجه مشاكل تسليم البريد الإلكتروني؟](/AlchemyInsights/having-email-delivery-issues-0) | تعديل |
@@ -638,15 +531,15 @@
 | 2/12/2019 | [الكيمياء-بحث Outlook لا إيديكسينج](/AlchemyInsights/alchemyoutlook-search-not-idexing) | تعديل |
 | 2/12/2019 | [الكيمياء-إعادة إنشاء ملف تعريف Outlook الخاص بك](/AlchemyInsights/alchemyrecreate-your-outlook-profile) | تعديل |
 | 2/12/2019 | [البحث عن الملفات المفقودة أو المفقودة في SharePoint أو أندريف](/AlchemyInsights/find-lost-or-missing-files-in-onedrive-or-sharepoint) | تعديل |
-| 2/12/2019 | [إصلاح مشاكل مزامنة OneDrive](/AlchemyInsights/fix-onedrive-sync-issues) | تعديل |
-| 2/12/2019 | [إصلاح مشاكل المزامنة أونيدريفي](/AlchemyInsights/fix-onedrive-sync-problems) | تعديل |
+| 2/12/2019 | [إصلاح مشكلات المزامنة أندريف](/AlchemyInsights/fix-onedrive-sync-issues) | تعديل |
+| 2/12/2019 | [إصلاح مشاكل المزامنة أندريف](/AlchemyInsights/fix-onedrive-sync-problems) | تعديل |
 | 2/12/2019 | [إصلاح مشاكل تحميل ملفات إلى أندريف](/AlchemyInsights/fix-problems-uploading-files-to-onedrive) | تعديل |
 | 2/12/2019 | [تثبيت وتكوين أندريف](/AlchemyInsights/install-and-configure-onedrive) | تعديل |
-| 2/12/2019 | [تثبيت أندريف](/AlchemyInsights/install-onedrive) | تعديل |
-| 2/12/2019 | [أسماء الملفات غير صالح في أندريف](/AlchemyInsights/invalid-file-names-in-onedrive) | تعديل |
+| 2/12/2019 | [تثبيت أونيدريفي](/AlchemyInsights/install-onedrive) | تعديل |
+| 2/12/2019 | [أسماء الملفات غير صالح في أونيدريفي](/AlchemyInsights/invalid-file-names-in-onedrive) | تعديل |
 | 2/12/2019 | [إدارة ملفات تعريف المستخدمين في أحفر](/AlchemyInsights/manage-user-profiles-in-delve) | تعديل |
-| 2/12/2019 | [استعادة الخاص بك أندريف](/AlchemyInsights/restore-your-onedrive) | تعديل |
-| 2/12/2019 | [إعداد أونيدريفي](/AlchemyInsights/set-up-onedrive) | تعديل |
+| 2/12/2019 | [استعادة الخاص بك أونيدريفي](/AlchemyInsights/restore-your-onedrive) | تعديل |
+| 2/12/2019 | [إعداد أندريف](/AlchemyInsights/set-up-onedrive) | تعديل |
 | 2/12/2019 | [مزامنة صورة ملف تعريف مستخدم](/AlchemyInsights/sync-a-user-s-profile-picture) | تعديل |
 | 2/12/2019 | [مزامنة الملفات SharePoint باستخدام عميل المزامنة أندريف الجديدة](/AlchemyInsights/sync-sharepoint-files-with-the-new-onedrive-sync-client) | تعديل |
 | 2/12/2019 | [تحميل ملفات إلى SharePoint أو أندريف](/AlchemyInsights/upload-files-to-onedrive-or-sharepoint) | تعديل |
@@ -708,7 +601,7 @@
 | 22/2/2019 | [إدارة حسابات المستخدمين المتزامنة](/AlchemyInsights/manage-synchronized-user-accounts) | تعديل |
 | 22/2/2019 | [مراقبة استخدام أندريف و SharePoint ونشاط](/AlchemyInsights/monitor-onedrive-and-sharepoint-usage-and-activity) | تعديل |
 | 22/2/2019 | [إعادة تنشيط الاشتراك](/AlchemyInsights/reactivate-a-subscription) | تعديل |
-| 22/2/2019 | [استعادة أندريف المحذوفة](/AlchemyInsights/restore-a-deleted-onedrive) | تعديل |
+| 22/2/2019 | [استعادة أونيدريفي المحذوفة](/AlchemyInsights/restore-a-deleted-onedrive) | تعديل |
 | 22/2/2019 | [استعادة مجموعة 365 Office استخدام مركز مسؤول Exchange](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | تعديل |
 | 22/2/2019 | [إعداد الاشتراك أساسيات العمل O365](/AlchemyInsights/setting-up-your-o365-business-essentials-subscription) | تعديل |
 | 22/2/2019 | [المشاركة مع المستخدمين الخارجيين لا يعمل](/AlchemyInsights/sharing-with-external-users-isn-t-working) | تعديل |
