@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 3ecff82230295ca161dc83efcede3d989bb7cb5a
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: c2fa0a3489def709ed4f1823237ba98e3dd52cc2
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30208284"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30752117"
 ---
 # <a name="switch-plans-to-increase-mailbox-size"></a>تبديل تخطط لزيادة حجم علبة البريد
 
@@ -34,4 +34,4 @@ ms.locfileid: "30208284"
     
 للحصول على مزيد من التفاصيل، راجع [المفتاح إلى Office 365 خطة مختلفة](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a).
   
-
+إذا كان لديك وضع [خطة O365 الذي يدعم أرشيف الموضعي](https://docs.microsoft.com/en-us/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)، يمكن أيضا الحصول على مخزن البريد الإلكتروني الإضافية عن طريق تمكين علبة بريد أرشيف.  علبة بريد أرشيف يوفر سعة تخزين إضافية ويسمح لك بنقل، نسخة والبحث عن الرسائل في المرحلتين الابتدائية وأرشيف علبة البريد. لمعرفة خطوات تمكين علبة بريد أرشيف، راجع [تمكين علبة بريد أرشيف](https://docs.microsoft.com/en-us/office365/securitycompliance/enable-archive-mailboxes).
