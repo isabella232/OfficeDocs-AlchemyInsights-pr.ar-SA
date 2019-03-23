@@ -1,28 +1,33 @@
 ---
-title: الحصول على خطأ تينانتاكسيسبلوكيديكسسيبشن عند الوصول إلى البريد الإلكتروني؟
-ms.author: v-crytho
-author: CrystalThomasMS
-ms.date: 8/21/2017
-ms.audience: ITPro
+title: 127 الحصول على خطأ تينانتاكسيسبلوكيديكسسيبشن عند الوصول إلى البريد الإلكتروني؟
+ms.author: chrisda
+author: chrisda
+manager: serdars
+ms.date: 4/9/2018
+ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.assetid: 7fdd37c9-540f-4689-812b-55303a90dd50
-ms.openlocfilehash: e473a74523c927fca2ab3087d382543890766981
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.collection: Adm_O365
+ms.custom:
+- "127"
+- "128"
+ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
+ms.openlocfilehash: a14de964ac77b586c49543dd0916a4afe344c05b
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29912011"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754241"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a><span data-ttu-id="6166c-102">الحصول على خطأ تينانتاكسيسبلوكيديكسسيبشن عند الوصول إلى البريد الإلكتروني؟</span><span class="sxs-lookup"><span data-stu-id="6166c-102">Getting a TenantAccessBlockedException error when accessing email?</span></span>
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a><span data-ttu-id="ef040-102">الحصول على خطأ تينانتاكسيسبلوكيديكسسيبشن عند الوصول إلى البريد الإلكتروني؟</span><span class="sxs-lookup"><span data-stu-id="ef040-102">Getting a TenantAccessBlockedException error when accessing email?</span></span>
 
-<span data-ttu-id="6166c-p101">هناك عدة أسباب مختلفة لماذا قد تتلقى خطأ تفيد بأنه يتم حظر الوصول إلى المستأجر الخاصة بك. لحل هذه المشكلة، يمكنك محاولة الخطوات التالية:</span><span class="sxs-lookup"><span data-stu-id="6166c-p101">There are a few different reasons why you may get an error saying that access to your tenant is blocked. To fix the problem, you can try the following steps:</span></span>
+<span data-ttu-id="ef040-103">هناك عدة أسباب مختلفة لماذا قد تتلقى هذا الخطأ.</span><span class="sxs-lookup"><span data-stu-id="ef040-103">There are a few different reasons why you might receive this error.</span></span> <span data-ttu-id="ef040-104">على سبيل المثال:</span><span class="sxs-lookup"><span data-stu-id="ef040-104">For example:</span></span>
   
-- <span data-ttu-id="6166c-105">تحقق من الاشتراك صالح في صفحة [الاشتراكات](https://admin.microsoft.com/adminportal/home#/subscriptions) .</span><span class="sxs-lookup"><span data-stu-id="6166c-105">Check that your subscription is valid on the [Subscriptions](https://admin.microsoft.com/adminportal/home#/subscriptions) page.</span></span> 
+- <span data-ttu-id="ef040-105">التحقق من صحة في **فوترة** الاشتراك \> صفحة **الاشتراكات** في مركز مسؤول Microsoft 365 ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions).</span><span class="sxs-lookup"><span data-stu-id="ef040-105">Verify that your subscription is valid in the **Billing** \> **Subscriptions** page in the Microsoft 365 admin center ( [https://portal.office.com/adminportal/home#/subscriptions](https://portal.office.com/adminportal/home#/subscriptions).</span></span>
     
-- <span data-ttu-id="6166c-106">التحقق من صفحة [الفوترة](https://admin.microsoft.com/adminportal/home#/billoverview) لأي استحقاق في الماضي على الحساب الخاص بك.</span><span class="sxs-lookup"><span data-stu-id="6166c-106">Check the [Billing](https://admin.microsoft.com/adminportal/home#/billoverview) page for any past dues on your account.</span></span> 
+- <span data-ttu-id="ef040-106">التحقق من وجود أي متجاوزة الاستحقاق الإعلامات في **الفواتير** \> صفحة **شجرة** في مركز مسؤول Microsoft 365 ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview).</span><span class="sxs-lookup"><span data-stu-id="ef040-106">Check for any past due notifications in the **Billing** \> **Bills** page in the Microsoft 365 admin center ( [https://portal.office.com/adminportal/home#/billoverview](https://portal.office.com/adminportal/home#/billoverview).</span></span>
     
-- <span data-ttu-id="6166c-p102">إذا كان الحساب الخاص بك الآن بترتيب ولكن تم تغييره مؤخرا، قد يستغرق بعض الوقت لكي تنتشر إلى كافة ملقمات التغييرات. حاول مرة أخرى بعد بضع دقائق، وإذا استمرت المشكلة، اتصل بنا.</span><span class="sxs-lookup"><span data-stu-id="6166c-p102">If your account is in order now, but has been changed recently, it might take some time for the changes to propagate to all servers. Give it another try in a few minutes, and if the issue persists, contact us.</span></span>
+- <span data-ttu-id="ef040-107">الفوترة والاشتراكات للحساب الخاص بك قد تم مؤخرا تحديث، قد يستغرق وقت لنشر التغييرات.</span><span class="sxs-lookup"><span data-stu-id="ef040-107">If the billing and subscriptions for your account have been recently updated, it might take time for the changes to propagate.</span></span> <span data-ttu-id="ef040-108">حاول مرة أخرى في بضع دقائق، وإذا استمرت المشكلة، اتصل بنا.</span><span class="sxs-lookup"><span data-stu-id="ef040-108">Try again in a few minutes, and if the issue persists, contact us.</span></span>
     
 
