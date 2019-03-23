@@ -9,18 +9,18 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: ed852342-e33f-4450-8400-63d30df09476
-ms.openlocfilehash: 9b2abe01a47d39812988d62b6f010a8933fad33e
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 03bb3ad01a716390ec50845b29ddf6cc81a83116
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29929155"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30759281"
 ---
 # <a name="fix-problems-with-open-with-explorer"></a>إصلاح المشاكل المتعلقة بفتح باستخدام مستكشف
 
-إصلاح المشاكل الشائعة المتعلقة بفتح مكتبة مستندات SharePoint أو أندريف باستخدام الأمر **فتح بواسطة المستعرض** : 
+إصلاح المشاكل الشائعة المتعلقة بفتح مكتبة مستندات SharePoint أو أونيدريفي باستخدام الأمر **فتح بواسطة المستعرض** : 
   
 - استخدام Internet Explorer 10 أو 11 من برنامج Internet Explorer. **فتح باستخدام مستكشف** غير متوافق مع Microsoft الحافة، جوجل كروم، فايرفوكس وغيرها. **فتح باستخدام "مستكشف"** معطل في كافة المستعرضات استثناء Internet Explorer. 
     
@@ -29,7 +29,7 @@ ms.locfileid: "29929155"
 - تأكد من تشغيل خدمة WebClient. في المربع بحث Windows، نوع التشغيل، حدد سطح المكتب تشغيل التطبيق ثم اكتب services.msc وثم اضغط Enter. قم بالتمرير لأسفل إلى خدمة WebClient وتأكد من أن يعرض عمود **الحالة** "قيد التشغيل". إذا لم يكن كذلك، انقر نقراً مزدوجاً فوق الخدمة، انقر فوق **ابدأ**، وثم انقر فوق **موافق**. (قد تحتاج إلى تمكين الخدمة أولاً بتحديد أما **يدوياً** أو **تلقائياً** في المربع **نوع بدء التشغيل** ). 
     
 > [!NOTE]
-> فتح مكتبة في "مستكشف الملفات" مفيد إذا كنت تريد نسخ أو نقل ملفات ومجلدات متعددة مرة واحدة، ولكن إذا كنت تريد أن تعمل بشكل منتظم في المكتبة، نوصي بمزامنته. استكشاف أخطاء مشاكل فتح "مستكشف الملفات"، راجع [فتح في مستكشف](https://go.microsoft.com/fwlink/?linkid=871665). للحصول على مزيد من المعلومات حول إعداد المزامنة، راجع [الملفات SharePoint متزامنة مع عميل المزامنة أندريف الجديد](https://go.microsoft.com/fwlink/?linkid=871666).
+> فتح مكتبة في "مستكشف الملفات" مفيد إذا كنت تريد نسخ أو نقل ملفات ومجلدات متعددة مرة واحدة، ولكن إذا كنت تريد أن تعمل بشكل منتظم في المكتبة، نوصي بمزامنته. استكشاف أخطاء مشاكل فتح "مستكشف الملفات"، راجع [فتح في مستكشف](https://go.microsoft.com/fwlink/?linkid=871665). للحصول على مزيد من المعلومات حول إعداد المزامنة، راجع [الملفات SharePoint متزامنة مع عميل المزامنة أونيدريفي الجديد](https://go.microsoft.com/fwlink/?linkid=871666).
   
 الرجاء مراجعة المقالة [كيفية استخدام الأمر "فتح باستخدام" مستكشف "" لاستكشاف مشاكل في SharePoint عبر إنترنت](https://support.office.com/article/How-to-use-the-Open-with-Explorer-command-to-troubleshoot-issues-in-SharePoint-Online-87155331-0c92-4224-a4c1-da5c21c4ade4) للحصول على مزيد من المعلومات. 
   

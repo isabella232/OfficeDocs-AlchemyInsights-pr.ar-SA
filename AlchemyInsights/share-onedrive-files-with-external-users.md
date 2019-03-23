@@ -9,14 +9,14 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: cd031153-5db6-4cf4-92b7-eb562e7b9568
-ms.openlocfilehash: 3bc62deb513c809a25277295642394c5cab9436c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: 9b920dff8facdec51f005489e7433db738447e5e
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29917843"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30754421"
 ---
 # <a name="share-files-in-onedrive-with-people-outside-your-organization"></a>مشاركة الملفات في أندريف مع أشخاص خارج المؤسسة
 
@@ -31,7 +31,7 @@ ms.locfileid: "29917843"
   - وصولاً **أشخاص معينين** فقط للأشخاص الذين قمت بتحديد، على الرغم من أن الآخرين قد يحصلون حاليا. إذا كان الأشخاص توجيه دعوة المشاركة، سيكون قادراً على استخدام الارتباط الأشخاص الذين لديهم حق الوصول إلى العنصر بالفعل. 
     
     > [!NOTE]
-    > إذا كان أحد هذه الخيارات غير متوفر، أو إذا أردت نوع ارتباط آخر لتظهر بشكل افتراضي، يمكنك تغيير إعدادات المؤسسة قبل الانتقال إلى مركز الإدارة أندريف والنقر فوق **مشاركة** في الجزء الأيمن. [تعلم المزيد](https://go.microsoft.com/fwlink/?linkid=871961)
+    > إذا كان أحد هذه الخيارات غير متوفر، أو إذا أردت نوع ارتباط آخر لتظهر بشكل افتراضي، يمكنك تغيير إعدادات المؤسسة قبل الانتقال إلى مركز الإدارة أندريف والنقر فوق **مشاركة** في الجزء الأيمن. [التعرف على المزيد](https://go.microsoft.com/fwlink/?linkid=871961)
   
 4. بشكل افتراضي، **سماح بتحرير** قيد التشغيل. إذا أردت أن يقوم الأشخاص بعرض الملفات فقط، قم بإلغاء تحديد خانة الاختيار. 
     
@@ -39,6 +39,6 @@ ms.locfileid: "29917843"
     
 6. عندما تكون جاهزاً لإرسال الارتباط، انقر فوق **إرسال**. 
     
-[معرفة المزيد](https://go.microsoft.com/fwlink/?linkid=871861)
+[التعرف على المزيد](https://go.microsoft.com/fwlink/?linkid=871861)
   
 

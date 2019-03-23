@@ -9,16 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: d29764266f44aee5f8f8e2c93ad67b2a33c6f417
-ms.sourcegitcommit: c003a5db7edc3a44fb5b31b46cd45f12b62d172a
+ms.openlocfilehash: ebb9037362d261b81b9b1dcafcbe461aac7f4963
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/22/2019
-ms.locfileid: "30209724"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30759605"
 ---
-# <a name="give-users-access-to-sharepoint-and-onedrive"></a>منح المستخدمين حق الوصول إلى SharePoint وأندريف
+# <a name="give-users-access-to-sharepoint-and-onedrive"></a>منح المستخدمين حق الوصول إلى SharePoint وأونيدريفي
 
 > [!NOTE]
 > في حالة عدم توفر للعديد من المستخدمين الذين تم الوصول إلى موقع SharePoint أو أندريف، قد يكون هناك مشكلة في خدمة مؤقت. [تحقق من لوحة المعلومات الصحية الخدمة](https://portal.office.com/adminportal/home#/servicehealth)
