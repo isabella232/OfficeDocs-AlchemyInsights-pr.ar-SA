@@ -9,17 +9,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
-ms.openlocfilehash: a39f9859b71213bd149b3bd9195f5c0439b2de3b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.openlocfilehash: af0c53ff35ea4d6f9fdf99503c26f5d7f0050dfb
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925583"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766587"
 ---
 # <a name="change-how-often-you-pay"></a>تغيير عدد مرات الدفع
 
- **لتغيير معدل تكرار الدفع الخاص بك؟** إذا كنت تريد تغيير عدد مرات الدفع للخاص بك Office 365 لاشتراك الأعمال، أما من السنوي لشهرية أو شهرية السنوية، يمكننا مساعدتك بذلك. سوف تحتاج إلى شراء اشتراك نفس مع تكرار الدفع الجديدة وإلغاء الاشتراك القديم. الرجاء استخدام خيار "أدعوك" لإجراء محادثات مع مهندس دعم. 
+ **هل تريد تغيير تكرار الدفع الخاص بك؟** إذا كنت تريد تغيير عدد مرات الدفع للخاص بك Office 365 لاشتراك الأعمال، أما من السنوي لشهرية أو شهرية السنوية، يمكننا مساعدتك بذلك. سوف تحتاج إلى شراء اشتراك نفس مع تكرار الدفع الجديدة وإلغاء الاشتراك القديم. الرجاء استخدام خيار "أدعوك" لإجراء محادثات مع مهندس دعم. 
   
 
