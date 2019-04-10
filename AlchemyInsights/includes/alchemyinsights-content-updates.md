@@ -110,8 +110,8 @@
 | 3/21/2019 | [كيفية الحصول على دعم Outlook.com](/AlchemyInsights/outlook-com-how-to-get-support-rule-1) | إضافة |
 | 3/21/2019 | [كيفية الحصول على دعم Outlook.com](/AlchemyInsights/outlook-com-how-to-get-support-rule-2) | إضافة |
 | 3/21/2019 | [نفس اسم الملف الأفضل](/AlchemyInsights/alchemy-insight-template) | إعادة تسمية |
-| 22/3/2019 | 127 الحصول على خطأ تينانتاكسيسبلوكيديكسسيبشن عند الوصول إلى البريد الإلكتروني؟ | إزالة |
-| 22/3/2019 | 128 الحصول على خطأ تينانتاكسيسبلوكيديكسسيبشن عند الوصول إلى البريد الإلكتروني؟ | إزالة |
+| 22/3/2019 | 127 الحصول على خطأ تينانتاكسيسبلوكيديكسسيبتيون عند الوصول إلى البريد الإلكتروني؟ | إزالة |
+| 22/3/2019 | 128 الحصول على خطأ تينانتاكسيسبلوكيديكسسيبتيون عند الوصول إلى البريد الإلكتروني؟ | إزالة |
 | 22/3/2019 | 415 الخبرة تحديث | إزالة |
 | 22/3/2019 | [1048 5.7.750 خدمة غير متوفرة. عميل حظر إرسال من مجالات غير مسجلة](/AlchemyInsights/5-7-750-service-unavailable-client-blocked-from-sending-from-unregistered-d) | إعادة تسمية |
 | 22/3/2019 | كلمات المرور التطبيق 500 | إزالة |
@@ -222,7 +222,7 @@
 | 22/3/2019 | [الحسابات المتصلة 1800029 غير معتمد في Outlook على ويب](/AlchemyInsights/connected-accounts-not-supported-in-outlook-on-the-web) | إعادة تسمية |
 | 22/3/2019 | [761 الاتصال ب Exchange PowerShell عبر الإنترنت عند تمكين وزارة الخارجية](/AlchemyInsights/connecting-to-exchange-online-powershell-when-mfa-is-enabled) | إعادة تسمية |
 | 22/3/2019 | [760 الاتصال تبادل PowerShell عبر الإنترنت](/AlchemyInsights/connecting-to-exchange-online-powershell) | إعادة تسمية |
-| 22/3/2019 | [كونسيستينسيجويد/سورسيانتشور السلوك](/AlchemyInsights/consistencyguidsourceanchor-behavior) | تعديل |
+| 22/3/2019 | [كونسيستينسيجويد/سورسينتشور السلوك](/AlchemyInsights/consistencyguidsourceanchor-behavior) | تعديل |
 | 22/3/2019 | [إنشاء مجموعات التحكم](/AlchemyInsights/control-creation-of-groups) | تعديل |
 | 22/3/2019 | [تحويل علبة بريد مستخدمين إلى علبة بريد المشتركة](/AlchemyInsights/convert-a-users-mailbox-to-a-shared-mailbox) | تعديل |
 | 22/3/2019 | [تحويل علبة بريد المستخدم إلى علب البريد المشتركة](/AlchemyInsights/convert-user-mailbox-to-shared-mailbox) | تعديل |
@@ -293,7 +293,7 @@
 | 22/3/2019 | [الشروع في استخدام SharePoint على الإنترنت](/AlchemyInsights/get-started-with-sharepoint-online) | تعديل |
 | 22/3/2019 | [لا يمكن إيجاد 126 الحصول على علبة بريد الخطأ في OWA؟](/AlchemyInsights/getting-a-mailbox-cannot-be-found-error-in-owa) | إعادة تسمية |
 | 22/3/2019 | [الحصول على خطأ في إذن الوصول عند الوصول إلى علب بريد مشتركة في OWA 124؟](/AlchemyInsights/getting-a-permission-error-when-accessing-a-shared-mailbox-in-owa) | إعادة تسمية |
-| 22/3/2019 | [127 الحصول على خطأ تينانتاكسيسبلوكيديكسسيبشن عند الوصول إلى البريد الإلكتروني؟](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | تعديل |
+| 22/3/2019 | [127 الحصول على خطأ تينانتاكسيسبلوكيديكسسيبتيون عند الوصول إلى البريد الإلكتروني؟](/AlchemyInsights/getting-a-tenantaccessblockedexception-error-when-accessing-email) | تعديل |
 | 22/3/2019 | [تعطيل 123 الحصول على حساب خطأ في OWA؟](/AlchemyInsights/getting-an-account-disabled-error-in-owa) | إعادة تسمية |
 | 22/3/2019 | [125 رسالة خطأ ترخيص غير صالح في Outlook على الويب؟](/AlchemyInsights/getting-an-invalid-license-error-in-outlook-on-the-web) | إعادة تسمية |
 | 22/3/2019 | [منح المستخدمين حق الوصول إلى SharePoint وأندريف](/AlchemyInsights/give-users-access-to-sharepoint-and-onedrive) | تعديل |
@@ -371,7 +371,7 @@
 | 22/3/2019 | [إدارة الفاتورة](/AlchemyInsights/manage-my-bill) | تعديل |
 | 22/3/2019 | [إدارة حسابات المستخدمين المتزامنة](/AlchemyInsights/manage-synchronized-user-accounts) | تعديل |
 | 22/3/2019 | [إدارة الذي قام بإنشاء مجموعات 365 Office](/AlchemyInsights/manage-who-can-create-office-365-groups) | تعديل |
-| 22/3/2019 | [إدارة وحدة التخزين الخاصة بك SharePoint أو أونيدريفي](/AlchemyInsights/manage-your-sharepoint-or-onedrive-storage) | تعديل |
+| 22/3/2019 | [إدارة وحدة التخزين الخاصة بك SharePoint أو أندريف](/AlchemyInsights/manage-your-sharepoint-or-onedrive-storage) | تعديل |
 | 22/3/2019 | [تعيين مكتبة SharePoint إلى محرك أقراص شبكة الاتصال](/AlchemyInsights/map-a-sharepoint-library-to-a-network-drive) | تعديل |
 | 22/3/2019 | [تعيين مكتبة SharePoint إلى محرك أقراص شبكة الاتصال](/AlchemyInsights/map-sharepoint-library-to-network-drive) | تعديل |
 | 22/3/2019 | [قطع اتصال محرك الأقراص المعين](/AlchemyInsights/mapped-drive-disconnected) | تعديل |
@@ -484,55 +484,23 @@
 | 28/3/2019 | [تقييد SharePoint على الإنترنت إلى الوضع الكلاسيكي](/AlchemyInsights/restrict-sharepoint-online-to-classic-mode) | إعادة تسمية |
 
 
-## <a name="week-of-february-25-2019"></a>الأسبوع من 25 شباط/فبراير عام 2019
+## <a name="week-of-april-01-2019"></a>الأسبوع من 01 نيسان/أبريل سنة 2019
 
 
 | نشر في |عنوان الموضوع | تغيير |
 |------|------------|--------|
-| 25/2/2019 | [1800014 الحصول على الدعم في التطبيق للتطبيق المحمول Outlook](/AlchemyInsights/1800014-get-in-app-support-for-the-outlook-mobile-app) | تعديل |
-| 25/2/2019 | [إعداد بريد إلكتروني في Outlook التطبيق المحمول 1800014](/AlchemyInsights/1800014-set-up-email-in-the-outlook-mobile-app) | تعديل |
-| 25/2/2019 | [8000001 إيقاف "تركز علبة الوارد"](/AlchemyInsights/8000001-turn-off-focused-inbox) | تعديل |
-| 25/2/2019 | [8000009 بإنشاء مجلد في Outlook.com](/AlchemyInsights/8000009-create-a-folder-in-outlook-com) | تعديل |
-| 25/2/2019 | [8000012 حذف جهة اتصال في Outlook.com](/AlchemyInsights/8000012-delete-a-contact-in-outlook-com) | تعديل |
-| 25/2/2019 | [تغيير خط 8000013 في Outlook.com](/AlchemyInsights/8000013-change-font-in-outlook-com) | تعديل |
-| 25/2/2019 | [8000014 كيفية تغيير اللغة في Outlook.com](/AlchemyInsights/8000014-how-to-change-language-in-outlook-com) | تعديل |
-| 25/2/2019 | [كتلة 8000015 أو إلغاء حظر المرسلين الموثوق بهم](/AlchemyInsights/8000015-block-or-unblock-senders) | تعديل |
-| 25/2/2019 | [8000015 تلقي بريد إلكتروني من حظر المرسلين في Outlook.com](/AlchemyInsights/8000015-receiving-email-from-blocked-senders-in-outlook-com) | تعديل |
-| 25/2/2019 | [التعامل مع الاحتيال في Outlook.com 8000029](/AlchemyInsights/8000029-deal-with-phishing-in-outlook-com) | تعديل |
-| 25/2/2019 | [التعامل مع البريد الإلكتروني العشوائي في Outlook.com 8000029](/AlchemyInsights/8000029-deal-with-spam-in-outlook-com) | تعديل |
-| 25/2/2019 | [التعامل مع البريد الإلكتروني العشوائي أو الاحتيال في Outlook.com 8000029](/AlchemyInsights/8000029-deal-with-spam-or-phishing-in-outlook-com) | تعديل |
-| 25/2/2019 | [8000033 كيفية الرد عليها أو إعادة توجيه الرسائل في بيتا Outlook.com](/AlchemyInsights/8000033-how-to-reply-to-or-forward-messages-in-the-outlook-com-beta) | تعديل |
-| 25/2/2019 | [إعلام بالقراءة 8000034 في Outlook.com](/AlchemyInsights/8000034-read-receipts-in-outlook-com) | تعديل |
-| 25/2/2019 | [8000036 تغيير اسم البريد الإلكتروني الخاص بك في Outlook.com](/AlchemyInsights/8000036-change-your-email-name-in-outlook-com) | تعديل |
-| 25/2/2019 | [طباعة البريد الإلكتروني والتقويمات في Outlook.com 8000046](/AlchemyInsights/8000046-print-email-and-calendars-in-outlook-com) | تعديل |
-| 25/2/2019 | [8000047 كيفية إنشاء توقيع بريد إلكتروني في Outlook.com](/AlchemyInsights/8000047-how-to-create-an-email-signature-in-outlook-com) | تعديل |
-| 25/2/2019 | [إرفاق الملفات 8000052 في Outlook.com](/AlchemyInsights/8000052-attach-files-in-outlook-com) | تعديل |
-| 25/2/2019 | [8000059 كيفية تغيير السمة الإجراء (وزراء الخارجية)](/AlchemyInsights/8000059-how-to-change-theme-action-fms) | تعديل |
-| 25/2/2019 | [الخطوات الموصى بها حتى إذا تم اختراق حساب](/AlchemyInsights/recommended-steps-to-take-if-an-account-is-compromised) | تعديل |
-| 2/26/2019 | [لاستعادة مجموعة Office 365 المحذوفة](/AlchemyInsights/restore-a-deleted-office-365-group) | تعديل |
-| 2/26/2019 | [الاشتراكات Outlook.com 9000215](/AlchemyInsights/9000215-outlook-com-subscriptions) | إضافة |
-| 2/27/2019 | [ملفات PST 9000199 في Outlook.com](/AlchemyInsights/9000199-outlook-com-read-pst-files) | إضافة |
-| 2/27/2019 | [خيارات Outlook.com 9000202](/AlchemyInsights/9000202-outlook-com-options) | إضافة |
-| 2/27/2019 | [عوامل تصفية Outlook.com 9000203](/AlchemyInsights/9000203-outlook-com-filters) | إضافة |
-| 2/28/2019 | [تغيير 8000036 pic/اسم التشكيل الجانبي في Outlook.com](/AlchemyInsights/8000036-6-outlook-com-update-profile) | إضافة |
-| 2/28/2019 | [رمز Skype 8000049 في Outlook.com](/AlchemyInsights/8000049-2-outlook-com-skype-button) | إضافة |
-| 2/28/2019 | [8000088 حفظ البريد الإلكتروني في Outlook.com](/AlchemyInsights/8000088-outlook-com-save-emails) | إضافة |
-| 2/28/2019 | [9000071 لا كتابة الرمز على Mac @](/AlchemyInsights/9000071-outlook-com-cant-type-@-on-mac) | إضافة |
-| 2/28/2019 | [9000193 التراجع عن نقل أو حذف في Outlook.com](/AlchemyInsights/9000193-outlook-com-undo-move-delete) | إضافة |
-| 2/28/2019 | [تقويم Outlook.com 9000198 بيتا](/AlchemyInsights/9000198-outlook-com-calendar-beta) | إضافة |
-| 3/1/2019 | [طلب 8000035 للعودة من بيتا Outlook.com إلى Outlook.com التقليدية](/AlchemyInsights/8000035-5-outlook-com-roll-back-from-beta-to-classic) | إضافة |
-| 3/1/2019 | [8000035 كيفية جعل نظرة Outlook.com جديدة مثل القديم](/AlchemyInsights/8000035-7-make-new-outlook-com-like-old-version) | إضافة |
-| 3/1/2019 | [إعدادات الإطارات المنبثقة و IMAP و SMTP 8000043 ل Outlook.com](/AlchemyInsights/8000043-2-outlook-com-pop-imap-smtp-settings) | إضافة |
-| 3/1/2019 | [تحديد Outlook.com 8000090 كافة](/AlchemyInsights/8000090-outlook-com-select-all) | إضافة |
-| 3/1/2019 | [8000091 Outlook.com التصرف منبثقة](/AlchemyInsights/8000091-outlook-com-react-pop-up) | إضافة |
-| 3/1/2019 | [مصدر الرسالة عرض Outlook.com 8000092](/AlchemyInsights/8000092-outlook-com-view-message-source) | إضافة |
-| 3/1/2019 | [أذونات الحساب المتصلة Outlook.com 8000093](/AlchemyInsights/8000093-outlook-com-connected-account-permissions) | إضافة |
-| 3/1/2019 | [1800009Outlook للحصول على الدعم في التطبيق Mac](/AlchemyInsights/1800009-outlook-for-mac-in-app-support) | تعديل |
-| 3/1/2019 | [الارتباطات 8000057 الأمن في Outlook.com](/AlchemyInsights/8000057-safe-links-in-outlook-com-0) | تعديل |
-| 3/1/2019 | [دفتر العناوين Outlook.com 9000232](/AlchemyInsights/9000232-outlook-com-address-book) | إضافة |
-| 3/1/2019 | [Outlook.com 9000233 رقم التعريف الشخصي](/AlchemyInsights/9000233-outlook-com-pin) | إضافة |
-| 3/1/2019 | [خطأ داخلي في الملقم Outlook.com 9000234](/AlchemyInsights/9000234-outlook-com-internal-server-error) | إضافة |
-| 3/1/2019 | [إضافة 9000236 Outlook.com حساب](/AlchemyInsights/9000236-outlook-com-add-account) | إضافة |
-| 3/1/2019 | [إضافة 9000238 Outlook.com المعروف باسم](/AlchemyInsights/9000238-outlook-com-add-alias) | إضافة |
-| 3/1/2019 | [إعادة توجيه Outlook.com 9000239](/AlchemyInsights/9000239-outlook-com-forwarding) | إضافة |
-| 3/1/2019 | [الردود Outlook.com 9000240](/AlchemyInsights/9000240-outlook-com-replies) | إضافة |
+| 4/1/2019 | [تمكين Office 365 ATP SharePoint وأندريف وفرق Microsoft](/AlchemyInsights/enable-office-365-atp-spo-odb-teams) | إضافة |
+| 4/1/2019 | [إعداد الحماية المتقدمة التهديد (ATP) office 365](/AlchemyInsights/office-365-atp-setup) | إضافة |
+| 4/1/2019 | [9000071 لا كتابة الرمز على Mac @](/AlchemyInsights/outlook-com-cant-type-chars-on-mac) | إعادة تسمية |
+| 4/1/2019 | [استعادة مجموعة 365 Office استخدام مركز مسؤول Exchange](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | تعديل |
+| 4/1/2019 | [استكشاف أخطاء وإصلاحها مع Office 365 المتقدمة تهديد الحماية (ATP)](/AlchemyInsights/troubleshoot-issues-office-365-atp) | إضافة |
+| 4/2/2019 | تسميات التصنيف في Office 365 | إضافة |
+| 4/2/2019 | نظرة عامة حول منع الخسائر (DLP) البيانات | إضافة |
+| 4/2/2019 | تطبيق سطح المكتب ل SharePoint | إضافة |
+| 4/2/2019 | قيود وحدود موقع لوحة الوصل | إضافة |
+| 4/2/2019 | أندريف: فقدان الملفات أو المجلدات | إضافة |
+| 4/2/2019 | حفظ موقع أو قائمة موجودة كقالب | إضافة |
+| 4/2/2019 | نظرة عامة حول مواقع لوحة وصل SharePoint | إضافة |
+| 4/2/2019 | إزالة بنية المحتوى وموقع | إضافة |
+| 4/2/2019 | استكشاف الخطأ 404 لم يتم العثور على الملف | إضافة |
+| 4/3/2019 | [رمز الخطأ 550 5.7.705 رفض الوصول، تجاوز عتبة المستأجر](/AlchemyInsights/error-code-550-5-7-705-access-denied-tenant-has-exceeded-threshold) | تعديل |

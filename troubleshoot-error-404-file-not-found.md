@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1b15444c-367b-4523-8e08-1c77bbea7524
-ms.openlocfilehash: 2b0f6d84c53b812fe0552fc05473eebdfcc8d71a
-ms.sourcegitcommit: 56c52c73e752414d66785f175c3a0e2925ad41c1
+ms.openlocfilehash: 467feb3cb436a2e0135162657876e5c45d8d56bd
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/02/2019
-ms.locfileid: "31044027"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747226"
 ---
 # <a name="troubleshoot-error-404-file-not-found"></a>استكشاف الخطأ 404 لم يتم العثور على الملف
 
@@ -23,7 +23,7 @@ ms.locfileid: "31044027"
 للمواقع التقليدية الموجودة في مركز الإدارة التقليدية، راجع [استعادة مجموعة موقع حذف](https://docs.microsoft.com/en-us/sharepoint/restore-deleted-site-collection).
 
 
-للمواقع الحديثة (الاتصالات المتصلة بالمجموعة، أو مواقع أخرى) الموجودة في معاينة مركز الإدارة الجديدة، راجع [حذف طريقة العرض واستعادة المواقع في مركز مسؤول SharePoint جديدة](https://docs.microsoft.com/en-us/sharepoint/restore-deleted-site-collection).
+للمواقع الحديثة (الاتصالات المتصلة بالمجموعة، أو مواقع أخرى) الموجودة في مركز مسؤول SharePoint جديد، راجع [حذف طريقة العرض واستعادة المواقع في مركز مسؤول SharePoint جديدة](https://docs.microsoft.com/en-us/sharepoint/restore-deleted-site-collection).
 
 لحل الخطأ 404 لملف (أو عنصر آخر) الذي تم إعادة تسميته، نقله أو حذفه:
 
