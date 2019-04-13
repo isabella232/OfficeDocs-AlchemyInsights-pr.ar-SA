@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9e6df5ee-ede8-421d-ba25-a3a3d0ca0a5d
-ms.openlocfilehash: 06c8c3e3686dbb1567551c8a727af669593285c6
-ms.sourcegitcommit: 26774fd0e24a02cc6ee2433eccbbfc27ebc9f850
+ms.openlocfilehash: af84ef9cb3c9ed425b35d884ffaf4dcb94bff565
+ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/03/2019
-ms.locfileid: "31396993"
+ms.lasthandoff: 04/13/2019
+ms.locfileid: "31858911"
 ---
 # <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a>رفض الوصول 550 5.7.705، تجاوز عتبة المستأجر
 
@@ -22,4 +22,3 @@ ms.locfileid: "31396993"
 
 لإزالة هذه الكتلة، تحتاج إلى فهم وشرح السبب عامل دعم، بالإضافة إلى حل المشكلة الأساسية.
 انقر فوق **الاتصال بنا** أدناه عندما تكون مستعدا.
-
