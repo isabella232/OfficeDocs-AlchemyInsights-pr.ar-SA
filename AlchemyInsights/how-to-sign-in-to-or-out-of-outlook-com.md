@@ -10,16 +10,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000055
 ms.assetid: a4a4c974-7a8b-46c7-92d9-f17084d89677
-ms.openlocfilehash: 210fe6b8893e8f2896e994d0d8853b485338efd2
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.openlocfilehash: 4b39951da279f67d4ece472277cc39c667fb0041
+ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30788039"
+ms.lasthandoff: 04/17/2019
+ms.locfileid: "31903400"
 ---
 # <a name="how-to-sign-in-to-or-out-of-outlookcom"></a>كيفية تسجيل الدخول إلى أو من Outlook.com
 
-إذا كان لا يمكن تسجيل الدخول في لجهاز Outlook.com Hotmail أو Live MSN حساب بريد إلكتروني، أو لم تكن متأكداً من كيفية تسجيل الدخول أو تسجيل الخروج، [فيما يلي بعض الحلول](https://go.microsoft.com/fwlink/p/?linkid=2005840).
+إذا كان لا يمكنك تسجيل الدخول إلى Outlook.com الخاصة بك، حساب بريد إلكتروني Hotmail أو Live MSN، أو لم تكن متأكداً من كيفية تسجيل الدخول أو تسجيل الخروج، [فيما يلي بعض الحلول](https://go.microsoft.com/fwlink/p/?linkid=2005840).
   
 إذا كنت لا تزال تواجه مشكلات تسجيل الدخول، راجع [عندما لا يمكنك تسجيل الدخول إلى حساب Microsoft الخاص بك](https://go.microsoft.com/fwlink/p/?linkid=837479).
   
