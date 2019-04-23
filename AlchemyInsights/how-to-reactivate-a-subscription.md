@@ -1,5 +1,5 @@
 ---
-title: كيفية إعادة تنشيط الاشتراك
+title: كيفية إعادة تنشيط اشتراك
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,31 +9,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 614bdcc4fa2bf6904e054417541f487d04cb6e0c
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.openlocfilehash: 643c1778ea080442fbd9d0c33258938af52b150c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468866"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30766839"
 ---
-# <a name="how-to-reactivate-a-subscription"></a><span data-ttu-id="62f0e-102">كيفية إعادة تنشيط الاشتراك</span><span class="sxs-lookup"><span data-stu-id="62f0e-102">How to reactivate a subscription</span></span>
+# <a name="how-to-reactivate-a-subscription"></a><span data-ttu-id="2c1b2-102">كيفية إعادة تنشيط اشتراك</span><span class="sxs-lookup"><span data-stu-id="2c1b2-102">How to reactivate a subscription</span></span>
 
-<span data-ttu-id="62f0e-103">في حالة اشتراكك صلاحية قد تم إلغاء أو تعطيل من قبل Microsoft، يمكنك إعادة تنشيطه في مركز مسؤول Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="62f0e-103">If your subscription expired, has been cancelled, or disabled by Microsoft, you can reactivate it in the Microsoft 365 admin center.</span></span>
+<span data-ttu-id="2c1b2-103">إذا انتهت صلاحية اشتراكك أو تم إلغاؤه أو تعطيله بواسطة Microsoft، يمكنك إعادة تنشيطه في مركز إدارة Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="2c1b2-103">If your subscription expired, has been cancelled, or disabled by Microsoft, you can reactivate it in the Microsoft 365 admin center.</span></span>
   
-1. <span data-ttu-id="62f0e-104">في مركز الإدارة، انتقل إلى صفحة [الاشتراك](https://go.microsoft.com/fwlink/p/?linkid=842054) ، أو اختر **الفواتير** \> **الاشتراكات**.</span><span class="sxs-lookup"><span data-stu-id="62f0e-104">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+1. <span data-ttu-id="2c1b2-104">في مركز الإدارة، انتقل إلى [الاشتراكات](https://go.microsoft.com/fwlink/p/?linkid=842054) أو اختر **فوترة** \> **الاشتراكات**.</span><span class="sxs-lookup"><span data-stu-id="2c1b2-104">In the Admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
     
-2. <span data-ttu-id="62f0e-105">حدد الاشتراك الذي ترغب في إعادة تنشيط.</span><span class="sxs-lookup"><span data-stu-id="62f0e-105">Choose the subscription that you would like to reactivate.</span></span>
+2. <span data-ttu-id="2c1b2-105">اختر الاشتراك الذي تريد إعادة تنشيطه.</span><span class="sxs-lookup"><span data-stu-id="2c1b2-105">Choose the subscription that you would like to reactivate.</span></span>
     
-3. <span data-ttu-id="62f0e-106">اختر زر **إعادة تنشيط** على اليمين.</span><span class="sxs-lookup"><span data-stu-id="62f0e-106">Choose the **Reactivate** button on the right.</span></span> 
+3. <span data-ttu-id="2c1b2-106">اختر الزر **إعادة تنشيط** على الجانب الأيسر.</span><span class="sxs-lookup"><span data-stu-id="2c1b2-106">Choose the **Reactivate** button on the right.</span></span> 
     
-4. <span data-ttu-id="62f0e-107">سوف يطلب منك تحديث تفاصيل الدفع.</span><span class="sxs-lookup"><span data-stu-id="62f0e-107">You will be asked to update the payment details.</span></span> <span data-ttu-id="62f0e-108">في حالة صحة جميع المعلومات، اختر **الإرسال**.</span><span class="sxs-lookup"><span data-stu-id="62f0e-108">When all information is correct, choose **Submit**.</span></span>
+4. <span data-ttu-id="2c1b2-107">ستتم مطالبتك بتحديث تفاصيل الدفع.</span><span class="sxs-lookup"><span data-stu-id="2c1b2-107">You will be asked to update the payment details.</span></span> <span data-ttu-id="2c1b2-108">عندما تكون كل المعلومات صحيحة، اختر **إرسال**.</span><span class="sxs-lookup"><span data-stu-id="2c1b2-108">When all information is correct, choose **Submit**.</span></span>
     
-5. <span data-ttu-id="62f0e-109">ستظهر رسالة تأكيد في الجزء السفلي من الشاشة.</span><span class="sxs-lookup"><span data-stu-id="62f0e-109">A confirmation will show on the bottom of the screen.</span></span> <span data-ttu-id="62f0e-110">اختر **إغلاق** للعودة إلى صفحة **الاشتراك** .</span><span class="sxs-lookup"><span data-stu-id="62f0e-110">Choose **Close** to return to the **Subscriptions** page.</span></span> 
+5. <span data-ttu-id="2c1b2-109">يظهر تأكيداً في أسفل الشاشة.</span><span class="sxs-lookup"><span data-stu-id="2c1b2-109">A confirmation will show on the bottom of the screen.</span></span> <span data-ttu-id="2c1b2-110">اختر **إغلاق** للعودة إلى الصفحة **الاشتراكات**.</span><span class="sxs-lookup"><span data-stu-id="2c1b2-110">Choose **Close** to return to the **Subscriptions** page.</span></span> 
     
-6. <span data-ttu-id="62f0e-111">إذا لم يظهر الاشتراك النشط بعد بضع دقائق، قم بتحديث الصفحة.</span><span class="sxs-lookup"><span data-stu-id="62f0e-111">If the subscription does not appear Active after a few minutes, refresh the page.</span></span>
+6. <span data-ttu-id="2c1b2-111">إذا لم يتم تنشيط الاشتراك في غضون دقائق، قم بتحديث الصفحة.</span><span class="sxs-lookup"><span data-stu-id="2c1b2-111">If the subscription does not appear Active after a few minutes, refresh the page.</span></span>
     
-<span data-ttu-id="62f0e-112">لمزيد من المعلومات، راجع: [تجديد Office 365 للشركات](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)</span><span class="sxs-lookup"><span data-stu-id="62f0e-112">For more information, see: [Renew Office 365 for business](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)</span></span>
+<span data-ttu-id="2c1b2-112">للحصول على مزيد من المعلومات، اطلع على: [تجديد اشتراك Office 365 للأعمال](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)</span><span class="sxs-lookup"><span data-stu-id="2c1b2-112">For more information, see: [Renew Office 365 for business](https://support.office.com/article/8d83b530-f4ca-47f6-a666-e5791cbacc7e)</span></span>
   
 
