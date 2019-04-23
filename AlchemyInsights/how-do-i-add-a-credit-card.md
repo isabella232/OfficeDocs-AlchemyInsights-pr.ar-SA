@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: ffc0d6b0c23857180517e19e2ee2b05375c4c366
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: e7d9941af1379a3b0025835ed5c378ad1d5b3cbc
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404590"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762843"
 ---
 # <a name="how-do-i-add-a-credit-card"></a>كيف يمكنني إضافة بطاقة ائتمان؟
 
-1. في مركز الإدارة، انتقل إلى صفحة [الاشتراك](https://go.microsoft.com/fwlink/p/?linkid=842054) ، أو اختر **الفواتير** \> **الاشتراكات**.
+1. في مركز الإدارة، انتقل إلى [الاشتراكات](https://go.microsoft.com/fwlink/p/?linkid=842054) أو اختر **فوترة** \> **الاشتراكات**.
     
-2. اختيار الاشتراك الذي تريد دفع ثمن بطاقة ائتمان جديدة أو الحساب البنكي، ثم اختر **تحديث تفاصيل الدفع**.
+2. اختر الاشتراك الذي تريد دفع قيمته باستخدام بطاقة الائتمان الجديدة أو الحساب المصرفي الجديد، ثم اختر **تحديث تفاصيل الدفع**.
     
-3. اختر من القائمة المنسدلة السهم الموجود تحت **إضافة أو تحديد طريقة دفع**، ثم اختر **بطاقة ائتمان جديدة** أو **حساب بنكي جديد**.
+3. اختر سهم القائمة المنسدلة ضمن **إضافة طريقة الدفع أو تحديدها**، ثم اختر **بطاقة ائتمان جديدة** أو **حساب بنكي جديد**.
     
-4. أدخل المعلومات الخاصة ببطاقة ائتمان جديدة أو حساب مصرفي، ثم اختر إرسال.
+4. أدخل معلومات بطاقة الائتمان الجديدة أو الحساب البنكي الجديد، ثم اختر "إرسال".
     
 

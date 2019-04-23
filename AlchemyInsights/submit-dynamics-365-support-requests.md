@@ -1,5 +1,5 @@
 ---
-title: إرسال طلبات الدعم Dynamics 365
+title: إرسال طلبات دعم Dynamics 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 81f4dca4-7ae7-4dc9-929e-7b91b1711118
-ms.openlocfilehash: bff8a8867cc73a54afcec43580868712b427e9c8
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: cfdfcb588f16f1871fa405b264be22a0bb1e074c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404698"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30767127"
 ---
-# <a name="submit-dynamics-365-support-requests"></a>إرسال طلبات الدعم Dynamics 365
+# <a name="submit-dynamics-365-support-requests"></a>إرسال طلبات دعم Dynamics 365
 
-إذا كنت أحد العملاء **مشاركة عميل Microsoft Dynamics** الرجاء تقديم تذكرة السفر الخاصة بك من خلال [منصة الطاقة مركز الإدارة](https://admin.powerplatform.microsoft.com/?ref=officemodern)الجديدة.
+إذا كنت أحد عملاء تطبيق **مشاركة العملاء في Dynamics Microsoft**، فالرجاء إرسال تذكرتك من خلال [مركز إدارة النظام الأساسي لـ Power](https://admin.powerplatform.microsoft.com/?ref=officemodern) الجديد.
   
-المدخل الجديد يوفر مسار مباشر للدعم المساعد هو الأمثل لمشاركة العميل Dynamics والمنتجات منصة الطاقة الأخرى.
+يوفر المدخل الجديد مساراً مباشراً للحصول على دعم مساعد مُحسّن لمشاركة العملاء في Dynamics وغيرها من منتجات النظام الأساسي لـ Power.
   
 

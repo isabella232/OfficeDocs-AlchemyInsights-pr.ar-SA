@@ -8,21 +8,21 @@ ms.topic: article
 ms.service: o365-administration
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: fb7a525e-3527-4b4f-84a7-8d969e97abf7
-ms.openlocfilehash: 3deb5f1ac8ec663c43848beb9d0a815198206e19
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: 7d254fe04d98e28cd88f010749a423aea1474fe1
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405058"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30758741"
 ---
 # <a name="update-dns-records"></a>تحديث سجلات DNS
 
-إعداد سجلات DNS من المهم الحصول على اشتراك Office 365 العمل مع اسم المجال المخصص الخاص بك. استخدم الارتباطات الموجودة أدناه لإضافة أو تحديث سجلات DNS الخاصة بك.
+من المهم إعداد سجلات نظام أسماء المجالات (DNS) لجعل اشتراك Office 365 يعمل باستخدام اسم المجال المخصص. استخدام الارتباطات الموجودة أدناه لإضافة سجلات DNS أو تحديثها.
   
 - [تحديث سجلات DNS في Office 365](https://support.office.com/article/B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23)
     
-- [إضافة أو تحرير سجلات DNS مخصص](https://support.office.com/article/AF00A516-DD39-4EDA-AF3E-1EAF686C8DC9)
+- [إضافة سجلات DNS المخصصة أو تحريرها](https://support.office.com/article/AF00A516-DD39-4EDA-AF3E-1EAF686C8DC9)
     
 

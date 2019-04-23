@@ -9,17 +9,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: fb7a525e-3527-4b4f-84a7-8d969e97abf7
-ms.openlocfilehash: 0e9b08f456483e7177190b1dc32454611bc0daf0
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.openlocfilehash: d2e3285d81aa1a630d668fea11382abd0d42265c
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30405346"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30762303"
 ---
 # <a name="update-dns-records"></a>تحديث سجلات DNS
-إعداد سجلات DNS من المهم الحصول على اشتراك Office 365 العمل مع اسم المجال المخصص الخاص بك. استخدم الارتباطات الموجودة أدناه لإضافة أو تحديث سجلات DNS الخاصة بك.
+من المهم إعداد سجلات نظام أسماء المجالات (DNS) لجعل اشتراك Office 365 يعمل باستخدام اسم المجال المخصص. استخدام الارتباطات الموجودة أدناه لإضافة سجلات DNS أو تحديثها.
   
-- [إنشاء سجلات DNS على أي موفر استضافة DNS Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)  
-- [إضافة أو تحرير سجلات DNS مخصص](https://support.office.com/article/AF00A516-DD39-4EDA-AF3E-1EAF686C8DC9)
+- [إنشاء سجلات DNS في أي موفر استضافة DNS لـ Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)  
+- [إضافة سجلات DNS المخصصة أو تحريرها](https://support.office.com/article/AF00A516-DD39-4EDA-AF3E-1EAF686C8DC9)

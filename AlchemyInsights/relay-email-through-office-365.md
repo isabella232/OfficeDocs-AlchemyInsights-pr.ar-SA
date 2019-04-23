@@ -9,19 +9,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 84191e23-496c-495a-a2ec-28c5ae0d4c0b
-ms.openlocfilehash: 1d3868457d87a0abf36223c33c96b01a57f5b8d7
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.openlocfilehash: db8523c19ed7f4ebdb475c1425fae4f6ea0b8219
+ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30468578"
+ms.lasthandoff: 03/22/2019
+ms.locfileid: "30752801"
 ---
-# <a name="set-up-a-multifunction-device-or-application-to-send-email-using-office-365"></a>إعداد جهاز متعدد الوظائف أو تطبيق لإرسال البريد الإلكتروني باستخدام Office 365
+# <a name="set-up-a-multifunction-device-or-application-to-send-email-using-office-365"></a>إعداد أي جهاز متعدد الوظائف أو تطبيق لإرسال البريد الإلكتروني باستخدام Office 365
 
-لمعرفة المزيد حول الخيارات والخطوات، راجع [كيفية إعداد جهاز متعدد الوظائف أو تطبيق لإرسال البريد الإلكتروني باستخدام Office 365](https://support.office.com/article/69f58e99-c550-4274-ad18-c805d654b4c4).
+للتعرّف على الخيارات والخطوات، اطلع على [كيفية إعداد أي جهاز متعدد الوظائف أو تطبيق لإرسال البريد الإلكتروني باستخدام Office 365](https://support.office.com/article/69f58e99-c550-4274-ad18-c805d654b4c4).
   
- ** *ملاحظة:* * * إذا كان لديك الأجهزة أو التطبيقات التي توقفت عن العمل، الرجاء [ملاحظة أننا قمنا مؤخرا بإجراء تحسينات](https://support.microsoft.com/help/4458479/) قد أثرت لك. ونحن الآن **حفظ الرسائل المرسلة المجلد** علبة البريد مما قد **يؤدي إلى رسائل المرفوضة في حالة امتلاء صندوق البريد هذا**. بالإضافة إلى ذلك، مطلوب الآن تنسيق الرسائل حسب مواصفات SMTP. على سبيل المثال، يجب أن تتضمن الجهاز المرسل معقوفة حول عنوان البريد الإلكتروني، كما هو الحال في *christine@contoso.com* . 
-  
+**ملاحظة: **إذا كان لديك جهاز أو تطبيق توقف عن العمل مؤخراً، فالرجاء ملاحظة أننا بدأنا مؤخراً [تعطيل تشفير 3DES كما هو مخطط](https://docs.microsoft.com/office365/securitycompliance/technical-reference-details-about-encryption).  **نظام التشغيل Windows Server 2003 IIS SMTP لم يعد يعمل ويتطلب إصدار أحدث من Windows.** 
 
+قد تكون الأخطاء الشائعة مشابهة لما يلي: خطأ/فشل المصادقة أو خطأ/فشل TLS أو خطأ خوارزمية التشفير أو عدم تطابق الخوارزمية أو انقطاع الاتصال.  الرجاء الاتصال بمورّد الجهاز أو التطبيق لمعرفة ما إذا كان التشفير الحديث مدعوماً أو إذا كان هناك تحديث.

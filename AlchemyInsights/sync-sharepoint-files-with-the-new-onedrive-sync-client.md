@@ -1,5 +1,5 @@
 ---
-title: مزامنة الملفات SharePoint باستخدام عميل المزامنة أندريف الجديدة
+title: مزامنة ملفات SharePoint باستخدام عميل المزامنة من OneDrive الجديد
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -9,28 +9,28 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
-ms.custom: Adm_O365
+ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: b11b8e56a64e87aabb0d188e5566a868bbe2fd6d
-ms.sourcegitcommit: 431f60d51f4203b22e655a37358667d844e3e576
-ms.translationtype: MT
+ms.openlocfilehash: 3e4219143a9418d886b1f5cf85f8bef9c412bbaf
+ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
+ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/07/2019
-ms.locfileid: "30469010"
+ms.lasthandoff: 04/09/2019
+ms.locfileid: "31747333"
 ---
-# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>مزامنة الملفات SharePoint باستخدام عميل المزامنة أونيدريفي الجديدة
+# <a name="sync-sharepoint-files-with-the-new-onedrive-sync-client"></a>مزامنة ملفات SharePoint باستخدام عميل المزامنة من OneDrive الجديد
 
-1. في مركز مسؤول SharePoint الكلاسيكية، حدد **الإعدادات**.
+1. في مركز إدارة SharePoint الجديد، حدد **إعدادات**.
     
-2. تأكد من تعيين "زر المزامنة أندريف" "إظهار زر المزامنة".
+2. تأكد من تعيين "زر المزامنة من OneDrive" على "إظهار زر المزامنة".
     
-3. ل "مزامنة عميل ل SharePoint"، حدد **بدء تشغيل عميل جديد**.
+3. للحصول على "عميل مزامنة لـ SharePoint"، حدد **بدء تشغيل العميل الجديد**.
     
     > [!NOTE]
-    > إذا لم يظهر هذا الخيار، المؤسسة الفعل معد لاستخدام عميل المزامنة أندريف جديدة لمزامنة الملفات SharePoint. 
+    > إذا لم يظهر هذا الخيار، فقد تم إعداد مؤسستك بالفعل لاستخدام عميل المزامنة من OneDrive الجديد لمزامنة ملفات SharePoint. 
   
 4. انقر فوق **موافق**.
     
-لمزيد من المعلومات، راجع [تمكين المستخدمين من مزامنة الملفات SharePoint مع عميل المزامنة أندريف الجديد](https://go.microsoft.com/fwlink/?linkid=866433). للحصول على إرشادات تعطي للمستخدمين، راجع [الملفات SharePoint المزامنة باستخدام عميل المزامنة أندريف الجديد](https://go.microsoft.com/fwlink/?linkid=866427).
+لمزيد من المعلومات، اطلع على [تمكين المستخدمين من مزامنة ملفات SharePoint باستخدام عميل المزامنة من OneDrive الجديد](https://go.microsoft.com/fwlink/?linkid=866433). للحصول على الإرشادات، اطلع على [مزامنة ملفات SharePoint باستخدام عميل المزامنة من OneDrive الجديد](https://go.microsoft.com/fwlink/?linkid=866427).
   
 
