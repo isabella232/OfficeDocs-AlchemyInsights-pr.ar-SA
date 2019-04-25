@@ -10,11 +10,11 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e88e0f3-c86d-4ab8-b076-59d0552318f9
 ms.openlocfilehash: e91d40f872dd401ee210ac05eb39d64b6fb88027
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29925331"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32371755"
 ---
 # <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a>أسئلة حول كيفية استخدام أداة نشر Office (ODT)
 
@@ -24,7 +24,7 @@ ms.locfileid: "29925331"
   
  **لاستبعاد أو إزالة منتجات Office 365 ProPlus من أجهزة الكمبيوتر العميلة:**
   
-عند تثبيت Office 365 ProPlus، يمكنك استبعاد منتجات معينة. للقيام بذلك، اتبع الخطوات لتثبيت Office مع ODT، بل تتضمن عنصر اكسكلوديب في ملف التكوين الخاص بك. على سبيل المثال، ملف التكوين هذا بتثبيت كافة منتجات Office 365 ProPlus استثناء الناشر:
+عند تثبيت Office 365 ProPlus، يمكنك استبعاد منتجات معينة. للقيام بذلك، اتبع الخطوات لتثبيت Office مع ODT، بل تتضمن عنصر اكسكلودياب في ملف التكوين الخاص بك. على سبيل المثال، ملف التكوين هذا بتثبيت كافة منتجات Office 365 ProPlus استثناء الناشر:
   
 ```
 <Add SourcePath="\\Server\share" Version="15.1.2.3" OfficeClientEdition="32">

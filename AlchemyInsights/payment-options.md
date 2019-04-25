@@ -11,36 +11,36 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 352a02d7-1368-4e3f-a8cf-bac207e414b0
 ms.openlocfilehash: 58781dd64bd99d2b709142aa090a30d1e8d4652a
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404734"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32372619"
 ---
 # <a name="payment-options"></a>خيارات الدفع
 
  **خيارات الدفع**
   
-بطاقة الائتمان والحساب البنكي (الخصم المباشر) والفاتورة (الدفع بالشيك أو التحويل الإلكتروني للأموال)
+بطاقة الائتمان والحساب البنكي (الدين المباشر) والفاتورة (دفع بواسطة شيك أو تحويل الأموال الإلكتروني)
   
- **الدفع بواسطة بطاقة الائتمان والحسابات المصرفية**
+ **الدفع من خلال بطاقة ائتمان أو حساب بنكي**
   
-عند الدفع ببطاقة الائتمان أو الحساب المصرفي، الذي سوف يتم تحصيل تلقائياً للاشتراك في اليوم التالي تاريخ الفاتورة، حتى نهاية فترة اشتراكك. يمكنك [تحديث معلومات الحساب البنكي أو بطاقة الائتمان الخاصة بك](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide) عند الحاجة إليها. يمكنك أيضا اختيار [تلقي نسخة بيان الفوترة الخاص بك في البريد الإلكتروني](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email).
+عند الدفع باستخدام بطاقة ائتمان أو حساب بنكي، سيتم تحصيل الرسوم المستحقة لاشتراكك تلقائياً في اليوم التالي لتاريخ الفاتورة، حتى نهاية فترة اشتراكك. يمكنك [تحديث معلومات بطاقة الائتمان أو الحساب البنكي الخاص بك](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide) كلما أردت ذلك. يمكنك أيضاً اختيار [تلقي نسخة من بيان الفوترة في رسالة بريد إلكتروني](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email).
   
-إذا تم رفض بطاقة الائتمان الخاصة بك أو متجاوز الاستحقاق يكون الرصيد يمكنك اختيار خيار **الدفع الآن** على **الفواتير** \> [اشتراكات](https://portal.office.com/adminportal/home#/subscriptions) صفحة. 
+إذا تم رفض بطاقة الائتمان الخاصة بك أو لديك رصيد متجاوز الاستحقاق يمكنك اختيار **الدفع الآن** على **الفوترة** \> [صفحة الاشتراكات](https://portal.office.com/adminportal/home#/subscriptions). 
   
- **الدفع بالفاتورة (شيك أو تحويل الأموال إلكترونيا)**
+ **الدفع من خلال الفاتورة (شيك أو تحويل الأموال الإلكتروني)**
   
-تكاليف الاشتراك على قدر معين من المال (يختلف هذا المبلغ حسب موقع خدمة)، سيكون لديك الخيار للدفع بالفاتورة باستخدام الاختيار أو تحويل الأموال الإلكتروني. قد يلزم فحص ائتمان لمدفوعات الفواتير أكبر. في حالة طلب فحص ائتمان، سوف يتم إعلامك عند شراء الاشتراك الخاص بك. وإذا وافقت على الاتصال، ستحصل على رسالة بريد إلكتروني يحتوي على مزيد من المعلومات حول التقدم بطلب للموافقة على الائتمان. وعادة ما تكتمل فحوص الائتمان خلال يومي عمل.
+إذا كانت تكلفة اشتراكك تزيد عن مبلغ معين من المال (يختلف هذا المبلغ حسب موقع الخدمة)، فسيتوفر لك خيار الدفع من خلال الفاتورة باستخدام شيك أو تحويل نقدي إلكتروني. قد تكون عملية فحص الائتمان مطلوبة لمبالغ الفواتير الكبيرة. إذا كان فحص الائتمان مطلوباً، فسيتم إعلامك عند شراء الاشتراك. وإذا وافقت على إمكانية الاتصال بك، فستتلقى بريداً إلكترونياً يتضمن المزيد من المعلومات حول إرسال طلب الحصول على الموافقة الائتمانية. يتم إكمال عمليات فحص الائتمان عادة خلال يومي عمل.
   
-إذا كان الدفع بالفاتورة لاشتراكك، ستحصل على بريد إلكتروني يقول بيان الفوترة الخاص بك جاهزاً للعرض. لا يحتوي هذا البريد الإلكتروني نسخة من كشف حساب الفوترة الخاص بك. ومع ذلك، يمكنك كذلك إلى [تلقي نسخة بيان الفوترة الخاص بك في البريد الإلكتروني](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email). كشف حساب الفوترة الخاص بك يتضمن تفاصيل حول خيارات لإجراء دفع. إذا قمت بإدخال رقم (PO) أمر شراء عند شراء اشتراك، يظهر الرقم على كشف حساب الفوترة الخاص بك. لمزيد من المعلومات حول الوصول إلى بيانات الفوترة، راجع [عرض الفاتورة أو الفاتورة الخاصة بك](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice?view=o365-worldwide).
+إذا كنت تدفع قيمة اشتراكك من خلال الفواتير، فستتلقى رسالة بريد إلكتروني تخبرك بأن بيان الفوترة جاهز للعرض. لا يحتوي هذا البريد الإلكتروني على نسخة من بيان الفوترة الخاص بك. على الرغم من ذلك، يمكنك أيضاً اختيار [تلقي نسخة من بيان الفوترة الخاص بك في رسالة بريد إلكتروني](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide#receive-a-copy-of-your-billing-statement-in-email). يتضمن بيان الفوترة الخاص بك تفاصيل حول الخيارات المتاحة لك للدفع. إذا قمت بإدخال رقم أمر شراء (PO) عند شراء اشتراك، فسيظهر الرقم ببيان الفوترة الخاص بك. للحصول على معلومات حول الوصول إلى بيانات الفوترة، راجع [عرض فاتورتك](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice?view=o365-worldwide).
   
  **تغيير طريقة الدفع**
   
-إذا كنت تريد تغيير طريقة الدفع لاشتراكك، اتبع الإرشادات الموجودة [هنا](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method?view=o365-worldwide).
+إذا كنت تريد تغيير طريقة الدفع لاشتراك حالي، فاتبع الإرشادات [هنا](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/change-payment-method?view=o365-worldwide).
   
  **معلومات إضافية**
   
-[الدفع مقابل الخاص بك Office 365 لاشتراك الأعمال](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide)
+[دفع قيمة اشتراكك في Office 365 for Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription?view=o365-worldwide)
   
 

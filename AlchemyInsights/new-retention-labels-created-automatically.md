@@ -10,11 +10,11 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.openlocfilehash: 950b20b9982bbac8620a153315598a2b6ea08c6f
-ms.sourcegitcommit: ffe2f489b1ac3aae62aa784c959da6a41c3261eb
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/17/2019
-ms.locfileid: "31908996"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32418097"
 ---
 # <a name="new-retention-labels-created-automatically"></a>التسميات استبقاء الجديدة التي تم إنشاؤها تلقائياً
 
