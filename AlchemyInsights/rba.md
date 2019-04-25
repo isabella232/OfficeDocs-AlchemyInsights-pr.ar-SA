@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom: 408
 ms.assetid: 99553a9f-3713-4d57-a243-add33813f360
 ms.openlocfilehash: ab392a174358fc9c3da7a3c7272973743a6c4002
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31857723"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32371105"
 ---
-# <a name="issues-with-room-mailboxes"></a><span data-ttu-id="ae996-102">مشكلات صناديق بريد الغرف</span><span class="sxs-lookup"><span data-stu-id="ae996-102">Issues with room mailboxes</span></span>
+# <a name="issues-with-room-mailboxes"></a><span data-ttu-id="676e3-102">مشكلات صناديق بريد الغرف</span><span class="sxs-lookup"><span data-stu-id="676e3-102">Issues with room mailboxes</span></span>
 
-<span data-ttu-id="ae996-103">لمزيد من المعلومات حول مساحة علب البريد، راجع [إنشاء وإدارة صناديق بريد الغرفة](https://go.microsoft.com/fwlink/p/?linkid=717533).</span><span class="sxs-lookup"><span data-stu-id="ae996-103">For more information about room mailboxes, see [Create and manage room mailboxes](https://go.microsoft.com/fwlink/p/?linkid=717533).</span></span>
+<span data-ttu-id="676e3-103">لمزيد من المعلومات حول مساحة علب البريد، راجع [إنشاء وإدارة صناديق بريد الغرفة](https://go.microsoft.com/fwlink/p/?linkid=717533).</span><span class="sxs-lookup"><span data-stu-id="676e3-103">For more information about room mailboxes, see [Create and manage room mailboxes](https://go.microsoft.com/fwlink/p/?linkid=717533).</span></span>
