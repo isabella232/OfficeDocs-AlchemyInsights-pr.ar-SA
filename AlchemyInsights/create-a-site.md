@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9f8e385b-dd2c-4d4e-b5f0-e28a24db4d83
 ms.openlocfilehash: db019b36019fc4e31516b8871a9b683a53ad192d
-ms.sourcegitcommit: 228c986911ecf73217116a5d1fdcd2e89362774e
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/09/2019
-ms.locfileid: "31751330"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32407051"
 ---
-# <a name="create-a-site"></a><span data-ttu-id="6482d-102">إنشاء موقع</span><span class="sxs-lookup"><span data-stu-id="6482d-102">Create a site</span></span>
+# <a name="create-a-site"></a><span data-ttu-id="7f3a8-102">إنشاء موقع</span><span class="sxs-lookup"><span data-stu-id="7f3a8-102">Create a site</span></span>
 
-- <span data-ttu-id="6482d-103">انتقل إلى [صفحة المواقع في مركز مسؤول Microsoft 365](https://portal.office.com/adminportal/home#/SitesList)، وحدد **إضافة موقع**.</span><span class="sxs-lookup"><span data-stu-id="6482d-103">Go to the [Sites page in the Microsoft 365 admin center](https://portal.office.com/adminportal/home#/SitesList), and then select **Add a site**.</span></span> 
+- <span data-ttu-id="7f3a8-103">انتقل إلى [صفحة المواقع في مركز مسؤول Microsoft 365](https://portal.office.com/adminportal/home#/SitesList)، وحدد **إضافة موقع**.</span><span class="sxs-lookup"><span data-stu-id="7f3a8-103">Go to the [Sites page in the Microsoft 365 admin center](https://portal.office.com/adminportal/home#/SitesList), and then select **Add a site**.</span></span> 
     
-- <span data-ttu-id="6482d-104">في مركز مسؤول SharePoint جديد، في الصفحة "مواقع"، انقر فوق **إنشاء**.</span><span class="sxs-lookup"><span data-stu-id="6482d-104">In the new SharePoint admin center, on the Sites page, click **Create**.</span></span> 
+- <span data-ttu-id="7f3a8-104">في مركز مسؤول SharePoint جديد، في الصفحة "مواقع"، انقر فوق **إنشاء**.</span><span class="sxs-lookup"><span data-stu-id="7f3a8-104">In the new SharePoint admin center, on the Sites page, click **Create**.</span></span> 
     
- <span data-ttu-id="6482d-105">**ملاحظة:** لا يمكنك إنشاء موقع جديد بنفس عنوان URL بموقع موجود.</span><span class="sxs-lookup"><span data-stu-id="6482d-105">**Note:** You cannot create a new site that has the same URL with an existing site.</span></span> 
+ <span data-ttu-id="7f3a8-105">**ملاحظة:** لا يمكنك إنشاء موقع جديد بنفس عنوان URL بموقع موجود.</span><span class="sxs-lookup"><span data-stu-id="7f3a8-105">**Note:** You cannot create a new site that has the same URL with an existing site.</span></span> 
   
-<span data-ttu-id="6482d-106">لمزيد من المعلومات حول إنشاء موقع، راجع [إنشاء موقع](https://go.microsoft.com/fwlink/?linkid=866295).</span><span class="sxs-lookup"><span data-stu-id="6482d-106">For more info about creating a site, see [Create a site](https://go.microsoft.com/fwlink/?linkid=866295).</span></span>
+<span data-ttu-id="7f3a8-106">لمزيد من المعلومات حول إنشاء موقع، راجع [إنشاء موقع](https://go.microsoft.com/fwlink/?linkid=866295).</span><span class="sxs-lookup"><span data-stu-id="7f3a8-106">For more info about creating a site, see [Create a site](https://go.microsoft.com/fwlink/?linkid=866295).</span></span>
   
-<span data-ttu-id="6482d-107">لمزيد من المعلومات حول السماح للمستخدمين بإنشاء مواقع خاصة بهم، راجع [إنشاء موقع إدارة في SharePoint على الإنترنت](https://go.microsoft.com/fwlink/?linkid=866296).</span><span class="sxs-lookup"><span data-stu-id="6482d-107">For info about allowing users to create their own sites, see [Manage site creation in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).</span></span>
+<span data-ttu-id="7f3a8-107">لمزيد من المعلومات حول السماح للمستخدمين بإنشاء مواقع خاصة بهم، راجع [إنشاء موقع إدارة في SharePoint على الإنترنت](https://go.microsoft.com/fwlink/?linkid=866296).</span><span class="sxs-lookup"><span data-stu-id="7f3a8-107">For info about allowing users to create their own sites, see [Manage site creation in SharePoint Online](https://go.microsoft.com/fwlink/?linkid=866296).</span></span>
   
 
