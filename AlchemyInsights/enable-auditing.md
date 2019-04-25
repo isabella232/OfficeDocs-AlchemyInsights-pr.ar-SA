@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: 286
 ms.assetid: ''
 ms.openlocfilehash: 4f5829ac1ecc7d01575df360929d1a775e626e2a
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30787304"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32398913"
 ---
 # <a name="search-the-audit-log"></a>البحث في سجل التدقيق
 
@@ -32,7 +32,7 @@ ms.locfileid: "30787304"
 
 **SharePoint وأندريف**
 
-- لا توجد أي تكوين إضافي مطلوب لتمكين تدقيق SharePoint وأونيدريفي.
+- لا توجد أي تكوين إضافي مطلوب لتمكين تدقيق SharePoint وأندريف.
 
 - تدعم SharePoint وأندريف التدوين الأنواع التالية من الأنشطة: 
 
