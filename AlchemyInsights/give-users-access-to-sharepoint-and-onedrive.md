@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
 ms.openlocfilehash: ebb9037362d261b81b9b1dcafcbe461aac7f4963
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30759605"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32400596"
 ---
-# <a name="give-users-access-to-sharepoint-and-onedrive"></a>منح المستخدمين حق الوصول إلى SharePoint وأونيدريفي
+# <a name="give-users-access-to-sharepoint-and-onedrive"></a>منح المستخدمين حق الوصول إلى SharePoint وأندريف
 
 > [!NOTE]
 > في حالة عدم توفر للعديد من المستخدمين الذين تم الوصول إلى موقع SharePoint أو أندريف، قد يكون هناك مشكلة في خدمة مؤقت. [تحقق من لوحة المعلومات الصحية الخدمة](https://portal.office.com/adminportal/home#/servicehealth)
