@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
 ms.openlocfilehash: 93dc59ce44dab51281f0480fe0f401ca22e1f519
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30754877"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32371069"
 ---
 # <a name="restore-a-deleted-file-or-folder"></a>استعادة حذف ملف أو مجلد
 
-1. الانتقال إلى موقع SharePoint أو أندريف.
+1. الانتقال إلى موقع SharePoint أو أونيدريفي.
     
 2. انقر فوق **سلة المحذوفات** في الجزء الأيمن. إذا لم تر سلة المحذوفات، انقر فوق رمز إعدادات ومن ثم انقر فوق **محتويات الموقع**. "سلة المحذوفات" موجود في أقصى اليمين من شريط الأوامر في الأعلى.
     
