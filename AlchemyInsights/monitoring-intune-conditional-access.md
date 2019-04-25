@@ -10,22 +10,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bc1d971d-84b0-447f-971e-7dc37ebeb5af
 ms.openlocfilehash: c45341e8d006531b089e0fc0473704fbce740a8b
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29905603"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32418348"
 ---
-# <a name="troubleshoot-issues-with-microsoft-intune"></a><span data-ttu-id="c8e39-102">استكشاف مشكلات Microsoft إينتوني</span><span class="sxs-lookup"><span data-stu-id="c8e39-102">Troubleshoot issues with Microsoft Intune</span></span>
+# <a name="troubleshoot-issues-with-microsoft-intune"></a><span data-ttu-id="345a4-102">استكشاف مشكلات Microsoft إينتوني</span><span class="sxs-lookup"><span data-stu-id="345a4-102">Troubleshoot issues with Microsoft Intune</span></span>
 
-<span data-ttu-id="c8e39-103">مراجعة الموارد المذكورة أدناه لحل المشكلة التي تواجهها الآن.</span><span class="sxs-lookup"><span data-stu-id="c8e39-103">Review resources listed below to resolve your issue now.</span></span>
+<span data-ttu-id="345a4-103">مراجعة الموارد المذكورة أدناه لحل المشكلة التي تواجهها الآن.</span><span class="sxs-lookup"><span data-stu-id="345a4-103">Review resources listed below to resolve your issue now.</span></span>
   
-1. <span data-ttu-id="c8e39-p101">استخدام [إينتوني مدخل استكشاف الأخطاء وإصلاحها](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) لتشخيص وحل بعض حالات الفشل الشائعة. مراجعة [هذا المستند ](https://docs.microsoft.com/intune/help-desk-operators)للحصول على مزيد من التفاصيل.</span><span class="sxs-lookup"><span data-stu-id="c8e39-p101">Use [Intune Troubleshooting Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) to diagnose and resolve some common failures. Review [this document ](https://docs.microsoft.com/intune/help-desk-operators)for more details.</span></span>
+1. <span data-ttu-id="345a4-104">استخدام [إينتوني مدخل استكشاف الأخطاء وإصلاحها](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) لتشخيص وحل بعض حالات الفشل الشائعة.</span><span class="sxs-lookup"><span data-stu-id="345a4-104">Use [Intune Troubleshooting Portal](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) to diagnose and resolve some common failures.</span></span> <span data-ttu-id="345a4-105">مراجعة [هذا المستند ](https://docs.microsoft.com/intune/help-desk-operators)للحصول على مزيد من التفاصيل.</span><span class="sxs-lookup"><span data-stu-id="345a4-105">Review [this document ](https://docs.microsoft.com/intune/help-desk-operators)for more details.</span></span>
     
-2. <span data-ttu-id="c8e39-106">مراجعة [إينتوني TechNet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)للعثور على الإجابات والحلول للمشاكل الشائعة.</span><span class="sxs-lookup"><span data-stu-id="c8e39-106">Review [Intune TechNet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)to find answers and solutions to common issues.</span></span>
+2. <span data-ttu-id="345a4-106">مراجعة [إينتوني TechNet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)للعثور على الإجابات والحلول للمشاكل الشائعة.</span><span class="sxs-lookup"><span data-stu-id="345a4-106">Review [Intune TechNet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)to find answers and solutions to common issues.</span></span>
     
-3. <span data-ttu-id="c8e39-107">تحقق من [الصحة خدمة](https://portal.office.com/AdminPortal/Home#/servicehealth) لمعرفة حالة الخدمة.</span><span class="sxs-lookup"><span data-stu-id="c8e39-107">Check out [Service Health](https://portal.office.com/AdminPortal/Home#/servicehealth) to see status of the service.</span></span> 
+3. <span data-ttu-id="345a4-107">تحقق من [الصحة خدمة](https://portal.office.com/AdminPortal/Home#/servicehealth) لمعرفة حالة الخدمة.</span><span class="sxs-lookup"><span data-stu-id="345a4-107">Check out [Service Health](https://portal.office.com/AdminPortal/Home#/servicehealth) to see status of the service.</span></span> 
     
-4. <span data-ttu-id="c8e39-108">مراجعة [الوثائق إينتوني](https://docs.microsoft.com/intune/) للتخطيط والإجرائية، استكشاف الأخطاء وإصلاحها المقالات والمزيد.</span><span class="sxs-lookup"><span data-stu-id="c8e39-108">Review [Intune documentation](https://docs.microsoft.com/intune/) for planning, how-to, troubleshooting articles and more.</span></span> 
+4. <span data-ttu-id="345a4-108">مراجعة [الوثائق إينتوني](https://docs.microsoft.com/intune/) للتخطيط والإجرائية، استكشاف الأخطاء وإصلاحها المقالات والمزيد.</span><span class="sxs-lookup"><span data-stu-id="345a4-108">Review [Intune documentation](https://docs.microsoft.com/intune/) for planning, how-to, troubleshooting articles and more.</span></span> 
     
 
