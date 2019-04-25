@@ -9,15 +9,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c15fed9f-65c6-422e-9d32-87e889a44b51
 ms.openlocfilehash: e578149e37c86178b98cf6073f6ed6325f42c455
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29941063"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32393600"
 ---
 # <a name="troubleshoot-flow-authentication-errors"></a>استكشاف أخطاء مصادقة التدفق
 
-في كثير من الحالات، يفشل التدفقات بسبب خطأ في مصادقة. إذا كان لديك خطأ من هذا النوع، على رسالة الخطأ "أوناوثوريزيد"، أو يظهر رمز خطأ 401 أو 403. يمكنك عادة حل خطأ في مصادقة عن طريق تحديث الاتصال:
+في كثير من الحالات، يفشل التدفقات بسبب خطأ في مصادقة. إذا كان لديك خطأ من هذا النوع، على رسالة الخطأ "أونوثوريزيد"، أو يظهر رمز خطأ 401 أو 403. يمكنك عادة حل خطأ في مصادقة عن طريق تحديث الاتصال:
   
 1. أعلى موقع ويب، انقر فوق أو انقر فوق الرمز الرئيسي فتح القائمة "إعدادات"، ثم انقر فوق أو انقر فوق **اتصالات**.
     

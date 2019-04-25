@@ -12,11 +12,11 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
 ms.openlocfilehash: fb585c2aa6317ef89c939680246506d2c86bbf67
-ms.sourcegitcommit: 03a156a9c9740521155a30775492c7dff0982588
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/22/2019
-ms.locfileid: "30761584"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32396746"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>شراء اشتراك إلى Office 365 من الفترة التجريبية المجانية
 
@@ -24,7 +24,7 @@ ms.locfileid: "30761584"
   
  **يمكنك شراء نفس الخطة كالإصدار التجريبي**
   
-1. في مركز الإدارة، انتقل إلى صفحة [الاشتراك](https://go.microsoft.com/fwlink/p/?linkid=842054) ، أو اختر **الفواتير** \> **الاشتراكات**.
+1. في مركز الإدارة، انتقل إلى [الاشتراكات](https://go.microsoft.com/fwlink/p/?linkid=842054) أو اختر **فوترة** \> **الاشتراكات**.
     
 2. اختر **الآن شراء** الاشتراك التجريبي الذي تريده، واتبع الخطوات للتحقق. 
     
