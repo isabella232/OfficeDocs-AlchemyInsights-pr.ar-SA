@@ -1,5 +1,5 @@
 ---
-title: تحديث أسماء المجال الخاص بك إلى Office 365
+title: تحديث خوادم أسماء المجال إلى Office 365
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 5/3/2018
@@ -9,21 +9,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5d38b331-a0e8-4937-8bda-4f8f715e1976
 ms.openlocfilehash: 724e9f7501826dc238932ec08e8628d077e20e2c
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29918420"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32423616"
 ---
-# <a name="update-your-domain-nameservers-to-office-365"></a>تحديث أسماء المجال الخاص بك إلى Office 365
+# <a name="update-your-domain-nameservers-to-office-365"></a>تحديث خوادم أسماء المجال إلى Office 365
 
-ملاحظة: التغييرات خادم الأسماء في بعض الأحيان تستغرق 48 ساعة للنشر.
+ملاحظة: قد تستغرق تغييرات خادم الأسماء أحياناً ما يصل إلى 48 ساعة ليتم نشرها.
   
-لتعيين المجال في Office 365، خوادم الأسماء في المسجل الخاص بك تحتاج إلى تحديث. إنشاء أو تحرير السجلات الخاصة بك على خادم الأسماء في مسجل النطاق.
+لإعداد مجالك في Office 365، يجب تحديث خوادم الأسماء لدى جهة التسجيل. إنشاء سجلات خادم الأسماء أو تحريرها لدى جهة تسجيل المجالات.
   
-1. انتقل إلى موقع ويب مسجل النطاق والعثور على المنطقة حيث يمكنك تحرير خوادم الأسماء.
+1. انتقل إلى موقع جهة تسجيل المجالات على ويب وابحث عن المنطقة التي يمكنك فيها تحرير خوادم الأسماء.
     
-2. إنشاء أو تحرير سجلات خادم الأسماء اثنين لمطابقة هذه القيم:
+2. إنشاء اثنين من سجلات خادم الأسماء أو تحريرها لتتطابق مع هذه القيم:
     
   - ns1.bdm.microsoftonline.com
     
@@ -31,6 +31,6 @@ ms.locfileid: "29918420"
     
 3. حفظ التغييرات.
     
-يمكنك أيضا العثور على إرشادات مفصلة في هذه المقالة: [تغيير الأسماء لإعداد Office 365 المسجل أي مجال](https://support.office.com/article/Change-nameservers-at-any-domain-registrar-to-set-up-Office-365-a8b487a9-2a45-4581-9dc4-5d28a47010a2.aspx)
+يمكنك أيضاً العثور على إرشادات مفصلة في هذه المقالة: [تغيير أسماء الخوادم لإعداد Office 365 لدى أي جهة تسجيل مجالات](https://support.office.com/article/Change-nameservers-at-any-domain-registrar-to-set-up-Office-365-a8b487a9-2a45-4581-9dc4-5d28a47010a2.aspx)
   
 

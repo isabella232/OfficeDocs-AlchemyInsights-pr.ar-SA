@@ -9,13 +9,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 889f1e71-fc26-4753-9a2b-14508bc5d38f
 ms.openlocfilehash: 9c678a49c681a806102f5fd0d64a85d84bbbb66d
-ms.sourcegitcommit: dd43cc0a9470f98b8ef2a3787c823801d674c666
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/12/2019
-ms.locfileid: "29934115"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32388674"
 ---
-# <a name="onedrive-not-responding"></a>أندريف لا يستجيب
+# <a name="onedrive-not-responding"></a>أونيدريفي لا يستجيب
 
 للحسابات التي تم إنشاؤها حديثا، يحتاج المستخدمون إلى تسجيل الدخول إلى مدخل Office 365 بحساباتهم وانقر فوق أندريف لبدء توفير موقع أندريف يدوياً.
   
