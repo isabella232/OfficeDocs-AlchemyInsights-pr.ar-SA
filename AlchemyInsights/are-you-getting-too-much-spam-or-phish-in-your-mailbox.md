@@ -1,5 +1,5 @@
 ---
-title: هل تحصل على الكثير من البريد الإلكتروني العشوائي أو بالتصيد في علبة البريد الخاصة بك؟
+title: هل تحصل على كمية كبيرة من البريد العشوائي أو التصيد الاحتيالي في علبة البريد الخاصة بك ؟
 ms.author: pebaum
 author: pebaum
 ms.date: 1/9/2019
@@ -10,20 +10,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 75d912b3-f154-4219-9b8c-4e1d41aaa442
 ms.openlocfilehash: dc65d3d027f11fd6ccf328141d0f1d080c53a482
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/05/2019
-ms.locfileid: "30404914"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32397211"
 ---
-# <a name="are-you-getting-too-much-spam-or-phish-in-your-mailbox"></a><span data-ttu-id="1a733-102">هل تحصل على الكثير من البريد الإلكتروني العشوائي أو بالتصيد في علبة البريد الخاصة بك؟</span><span class="sxs-lookup"><span data-stu-id="1a733-102">Are you getting too much spam or phish in your mailbox?</span></span>
+# <a name="are-you-getting-too-much-spam-or-phish-in-your-mailbox"></a><span data-ttu-id="cd111-102">هل تحصل على كمية كبيرة من البريد العشوائي أو التصيد الاحتيالي في علبة البريد الخاصة بك ؟</span><span class="sxs-lookup"><span data-stu-id="cd111-102">Are you getting too much spam or phish in your mailbox?</span></span>
 
-<span data-ttu-id="1a733-103">راجع [كيفية تقليل البريد الإلكتروني العشوائي في Office 365](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) لاستكشاف أخطاء البريد الإلكتروني العشوائي.</span><span class="sxs-lookup"><span data-stu-id="1a733-103">See [How to reduce spam email in Office 365](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) for troubleshooting spam.</span></span> 
+<span data-ttu-id="cd111-103">راجع [كيفية تقليل البريد الإلكتروني العشوائي في Office 365](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) لاستكشاف أخطاء البريد العشوائي وإصلاحها.</span><span class="sxs-lookup"><span data-stu-id="cd111-103">See [How to reduce spam email in Office 365](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) for troubleshooting spam.</span></span> 
   
-<span data-ttu-id="1a733-104">أفضل طريقة للإبلاغ عن هذه الأنواع من القضايا:</span><span class="sxs-lookup"><span data-stu-id="1a733-104">The best way to report these types of issues is to:</span></span> 
+<span data-ttu-id="cd111-104">أفضل طريقة للإبلاغ عن هذه الأنواع من المشاكل هي عن طريق:</span><span class="sxs-lookup"><span data-stu-id="cd111-104">The best way to report these types of issues is to:</span></span> 
   
-1. <span data-ttu-id="1a733-105">[تمكين الوظيفة الإضافية التقارير](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) الخاصة بالمستخدم.</span><span class="sxs-lookup"><span data-stu-id="1a733-105">[Enable the reporting add-in](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) for the user.</span></span> 
+1. <span data-ttu-id="cd111-105">[تمكين الوظائف الإضافية للإبلاغ](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) للمستخدم.</span><span class="sxs-lookup"><span data-stu-id="cd111-105">[Enable the reporting add-in](https://docs.microsoft.com/office365/securitycompliance/enable-the-report-message-add-in) for the user.</span></span> 
     
-2. <span data-ttu-id="1a733-106">يوجد [مستخدم تقرير الرسالة](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) العشوائي.</span><span class="sxs-lookup"><span data-stu-id="1a733-106">Have the [user report the message](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) as Junk.</span></span> 
+2. <span data-ttu-id="cd111-106">اطلب من [المستخدم الإبلاغ عن الرسالة ](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2)كبريد غير هام.</span><span class="sxs-lookup"><span data-stu-id="cd111-106">Have the [user report the message](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) as Junk.</span></span> 
     
 
