@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9e6df5ee-ede8-421d-ba25-a3a3d0ca0a5d
 ms.openlocfilehash: af84ef9cb3c9ed425b35d884ffaf4dcb94bff565
-ms.sourcegitcommit: 1a4b8fa9e38a95ca811085af516edb81caf2018c
+ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/13/2019
-ms.locfileid: "31858911"
+ms.lasthandoff: 04/23/2019
+ms.locfileid: "32402426"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a><span data-ttu-id="01c4e-102">رفض الوصول 550 5.7.705، تجاوز عتبة المستأجر</span><span class="sxs-lookup"><span data-stu-id="01c4e-102">550 5.7.705 Access denied, tenant has exceeded threshold</span></span>
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a><span data-ttu-id="91d75-102">رفض الوصول 550 5.7.705، تجاوز عتبة المستأجر</span><span class="sxs-lookup"><span data-stu-id="91d75-102">550 5.7.705 Access denied, tenant has exceeded threshold</span></span>
 
-<span data-ttu-id="01c4e-103">تحدث هذه الرسالة عندما تم إرسال البريد العشوائي أو المجمع كثيرا بمؤسستك ونضعها كتلة البريد الصادر.</span><span class="sxs-lookup"><span data-stu-id="01c4e-103">This message occurs when too much spam or bulk mail has been sent by your organization and we place a block on outgoing mail.</span></span>
-<span data-ttu-id="01c4e-104">الأسباب شيوعاً هي حسابات المسؤول المكسور التي تم استخدامها لإنشاء روابط أو خوادم الداخلية المكسور.</span><span class="sxs-lookup"><span data-stu-id="01c4e-104">Common causes are compromised on-premises servers or compromised admin accounts that have been used to create connectors.</span></span> <span data-ttu-id="01c4e-105">أما شرط السماح للبريد الإلكتروني العشوائي بالمرور عبر المؤسسة.</span><span class="sxs-lookup"><span data-stu-id="01c4e-105">Either condition can allow spam to pass through your organization.</span></span>
+<span data-ttu-id="91d75-103">تحدث هذه الرسالة عندما تم إرسال البريد العشوائي أو المجمع كثيرا بمؤسستك ونضعها كتلة البريد الصادر.</span><span class="sxs-lookup"><span data-stu-id="91d75-103">This message occurs when too much spam or bulk mail has been sent by your organization and we place a block on outgoing mail.</span></span>
+<span data-ttu-id="91d75-104">الأسباب شيوعاً هي حسابات المسؤول المكسور التي تم استخدامها لإنشاء روابط أو خوادم الداخلية المكسور.</span><span class="sxs-lookup"><span data-stu-id="91d75-104">Common causes are compromised on-premises servers or compromised admin accounts that have been used to create connectors.</span></span> <span data-ttu-id="91d75-105">أما شرط السماح للبريد الإلكتروني العشوائي بالمرور عبر المؤسسة.</span><span class="sxs-lookup"><span data-stu-id="91d75-105">Either condition can allow spam to pass through your organization.</span></span>
 
-<span data-ttu-id="01c4e-106">لإزالة هذه الكتلة، تحتاج إلى فهم وشرح السبب عامل دعم، بالإضافة إلى حل المشكلة الأساسية.</span><span class="sxs-lookup"><span data-stu-id="01c4e-106">To remove this block, you need to understand and explain the cause to a support agent, as well as correct the underlying problem.</span></span>
-<span data-ttu-id="01c4e-107">انقر فوق **الاتصال بنا** أدناه عندما تكون مستعدا.</span><span class="sxs-lookup"><span data-stu-id="01c4e-107">Click **Contact us** below once you're ready.</span></span>
+<span data-ttu-id="91d75-106">لإزالة هذه الكتلة، تحتاج إلى فهم وشرح السبب عامل دعم، بالإضافة إلى حل المشكلة الأساسية.</span><span class="sxs-lookup"><span data-stu-id="91d75-106">To remove this block, you need to understand and explain the cause to a support agent, as well as correct the underlying problem.</span></span>
+<span data-ttu-id="91d75-107">انقر فوق **الاتصال بنا** أدناه عندما تكون مستعدا.</span><span class="sxs-lookup"><span data-stu-id="91d75-107">Click **Contact us** below once you're ready.</span></span>
