@@ -128,7 +128,7 @@
 | 22/3/2019 | [الحسابات المتصلة 1800029 غير معتمد في Outlook على ويب](/AlchemyInsights/connected-accounts-not-supported-in-outlook-on-the-web) | إعادة تسمية |
 | 22/3/2019 | [761 الاتصال ب Exchange PowerShell عبر الإنترنت عند تمكين وزارة الخارجية](/AlchemyInsights/connecting-to-exchange-online-powershell-when-mfa-is-enabled) | إعادة تسمية |
 | 22/3/2019 | [760 الاتصال تبادل PowerShell عبر الإنترنت](/AlchemyInsights/connecting-to-exchange-online-powershell) | إعادة تسمية |
-| 22/3/2019 | [كونسيستينسيجويد/سورسيانتشور السلوك](/AlchemyInsights/consistencyguidsourceanchor-behavior) | تعديل |
+| 22/3/2019 | [كونسيستينسيجويد/سورسينتشور السلوك](/AlchemyInsights/consistencyguidsourceanchor-behavior) | تعديل |
 | 22/3/2019 | [إنشاء مجموعات التحكم](/AlchemyInsights/control-creation-of-groups) | تعديل |
 | 22/3/2019 | [تحويل علبة بريد مستخدمين إلى علبة بريد المشتركة](/AlchemyInsights/convert-a-users-mailbox-to-a-shared-mailbox) | تعديل |
 | 22/3/2019 | [تحويل علبة بريد المستخدم إلى علب البريد المشتركة](/AlchemyInsights/convert-user-mailbox-to-shared-mailbox) | تعديل |
@@ -254,7 +254,7 @@
 | 22/3/2019 | [609 المعلومات المتعلقة باستيراد وتصدير التقويمات](/AlchemyInsights/information-on-importing-and-exporting-calendars) | إعادة تسمية |
 | 22/3/2019 | [تثبيت 2013 مكتب الإعلام](/AlchemyInsights/install-office-2013-notification) | تعديل |
 | 22/3/2019 | [تثبيت Skype للعمل](/AlchemyInsights/install-skype-for-business) | تعديل |
-| 22/3/2019 | [أسماء الملفات غير صالح في أونيدريفي](/AlchemyInsights/invalid-file-names-in-onedrive) | تعديل |
+| 22/3/2019 | [أسماء الملفات غير صالح في أندريف](/AlchemyInsights/invalid-file-names-in-onedrive) | تعديل |
 | 22/3/2019 | [IP 1264 حظر إرسال بريد إلكتروني عشوائي كبيرة جداً (550 5.7.51)](/AlchemyInsights/ip-blocked-for-sending-too-much-spam-550-5-7-51) | إعادة تسمية |
 | 22/3/2019 | [مشكلات 322 عندما واجهت مشاكل إرسال مستخدم](/AlchemyInsights/issues-when-a-user-is-having-issues-sending) | إعادة تسمية |
 | 22/3/2019 | [321 المشكلات عند مستخدم لم يتم تلقي البريد الإلكتروني](/AlchemyInsights/issues-when-a-user-isn-t-receiving-email) | إعادة تسمية |
@@ -300,7 +300,7 @@
 | 22/3/2019 | [Office 365 لخطط غير ربحية والتسعير](/AlchemyInsights/office-365-for-nonprofit-plans-and-pricing) | تعديل |
 | 22/3/2019 | [عناوين IP وعناوين office 365](/AlchemyInsights/office-365-urls-and-ip-addresses) | تعديل |
 | 22/3/2019 | [تنتهي إحدى "شهادات خدمة الاتحاد" المحلي الخاص بك](/AlchemyInsights/one-of-your-on-premises-federation-service-certificates-is-expiring) | تعديل |
-| 22/3/2019 | [التخزين أونيدريفي](/AlchemyInsights/onedrive-storage) | تعديل |
+| 22/3/2019 | [التخزين أندريف](/AlchemyInsights/onedrive-storage) | تعديل |
 | 22/3/2019 | [فتح مكتبة SharePoint في "مستكشف الملفات"](/AlchemyInsights/open-a-sharepoint-library-in-file-explorer) | تعديل |
 | 22/3/2019 | [1581 فتح علبة بريد مشتركة واستخدامها في Outlook على الويب](/AlchemyInsights/open-and-use-a-shared-mailbox-in-owa) | إعادة تسمية |
 | 22/3/2019 | [فتح باستخدام زر مستكشف معطل](/AlchemyInsights/open-with-explorer-button-is-disabled) | تعديل |
@@ -395,7 +395,7 @@
 
 | نشر في |عنوان الموضوع | تغيير |
 |------|------------|--------|
-| 4/1/2019 | [تمكين Office 365 ATP SharePoint وأونيدريفي وفرق Microsoft](/AlchemyInsights/enable-office-365-atp-spo-odb-teams) | إضافة |
+| 4/1/2019 | [تمكين Office 365 ATP SharePoint وأندريف وفرق Microsoft](/AlchemyInsights/enable-office-365-atp-spo-odb-teams) | إضافة |
 | 4/1/2019 | [إعداد الحماية المتقدمة التهديد (ATP) office 365](/AlchemyInsights/office-365-atp-setup) | إضافة |
 | 4/1/2019 | [9000071 لا كتابة الرمز على Mac @](/AlchemyInsights/outlook-com-cant-type-chars-on-mac) | إعادة تسمية |
 | 4/1/2019 | [استعادة مجموعة 365 Office استخدام مركز مسؤول Exchange](/AlchemyInsights/restore-an-office-365-group-using-eac%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8B) | تعديل |
@@ -546,7 +546,7 @@
 | 16/4/2019 | [تطبيق التسميات حساسية تلقائي](/AlchemyInsights/auto-apply-sensitivity-labels) | إضافة |
 | 16/4/2019 | [لا تظهر تسميات الحساسية](/AlchemyInsights/sensitivity-labels-not-appearing) | إضافة |
 | 16/4/2019 | [التسميات استبقاء الجديدة التي تم إنشاؤها تلقائياً](/AlchemyInsights/new-retention-labels-created-automatically) | إضافة |
-| 16/4/2019 | [SharePoint وسجلات التدقيق أندريف](/AlchemyInsights/classic-sharepoint-audit-log-reports) | إضافة |
+| 16/4/2019 | [SharePoint وسجلات التدقيق أونيدريفي](/AlchemyInsights/classic-sharepoint-audit-log-reports) | إضافة |
 | 16/4/2019 | [تعريف الأحداث رسالة حذف سجلات التدقيق](/AlchemyInsights/identify-delete-message-events-in-audit-logs) | إضافة |
 | 16/4/2019 | [تحديد إعادة توجيه بريد إلكتروني خارجي على علب البريد الموجودة في سجلات التدقيق](/AlchemyInsights/identify-external-email-forwarding-on-mailboxes-in-audit-logs) | إضافة |
 | 16/4/2019 | [تعريف نشاط القاعدة الوارد في سجلات التدقيق](/AlchemyInsights/identify-inbox-rule-activity-in-audit-logs) | إضافة |
