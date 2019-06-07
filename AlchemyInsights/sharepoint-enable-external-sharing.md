@@ -7,18 +7,43 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: 48259de7b605f667ce424d3c8be00362b08ea716
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: 2432b84a06dbf3e5efd69945516174a1f70e0a9f
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34719854"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34760645"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>تمكين مشاركة خارجية في SharePoint عبر إنترنت
 
-إذا المؤسسة تنفيذ العمل الذي ينطوي على مشاركة المستندات أو التعاون مباشرة مع الموردين أو العملاء أو العملاء، فيمكنك استخدام <a href="https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview">الخارجية مشاركة ميزات SharePoint على الإنترنت</a> لتبادل المحتوى مع أشخاص خارج الخاص بك المؤسسة.
+إذا المؤسسة تنفيذ العمل الذي ينطوي على مشاركة المستندات أو التعاون مباشرة مع الموردين أو العملاء أو العملاء، فيمكنك استخدام [الخارجية مشاركة ميزات SharePoint على الإنترنت](https://docs.microsoft.com/sharepoint/external-sharing-overview) لتبادل المحتوى مع أشخاص خارج الخاص بك المؤسسة.
 
-لمزيد من المعلومات حول "مشاركة خارجية" (الضيوف) الرجاء زيارة الارتباطات أدناه.</span></u></strong></p> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview#what-is-an-external-user">ما هو مستخدم خارجي؟</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document">ماذا يحدث عند مشاركتي لموقع أو المستند؟</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/turn-external-sharing-on-or-off">تشغيل مشاركة أو إيقاف تشغيله للإنترنت SharePoint الخارجية</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/change-external-sharing-site">تشغيل مشاركة أو إيقاف تشغيله لموقع خارجي</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://docs.microsoft.com/en-us/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide">إدارة الوصول إلى guest في Office 365 مجموعات</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/create-b2b-extranet">استخدام Sharepoint على الإنترنت كحل إكسترانت أعمال (B2B)</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://support.office.com/en-us/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c">مشاركة المجلد أو الملفات SharePoint</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://support.office.com/en-us/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US">إيقاف مشاركة الملفات SharePoint أو أندريف أو المجلدات، أو تغيير الأذونات</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://docs.microsoft.com/en-us/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center"><span style="color: #0066cc; background: #BFE6FF;">حذف مستخدم خارجي
+لمزيد من المعلومات حول "مشاركة خارجية" (الضيوف) الرجاء زيارة الارتباطات أدناه.
 
-تلقي خطأ بواسطة مستخدم خارجي (guest)؟ &nbsp;التحقق من الارتباطات أدناه. </span></u></strong></p> <ul> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><a href="https://docs.microsoft.com/en-us/sharepoint/sharepoint-onedrive-error-message">مشاركة OSE أخطاء في Sharepoint أو أندريف</a></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://support.office.com/en-us/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0">ظهور رسالة خطأ عند قبول مستخدم خارجي دعوة SharePoint على الإنترنت باستخدام حساب آخر</a></span></li> <li style="mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;"><span style="font-size: 10.5pt; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin; color: black;"><a href="https://support.office.com/client/d678b57a-53ad-4414-9423-d8726a0c532f">تم رفض الوصول إلى مجلد المشترك</a>&nbsp;</span></li> </ul>
+[ما هو مستخدم خارجي؟](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
 
+[ماذا يحدث عند مشاركتي لموقع أو المستند؟](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
+
+[تشغيل مشاركة أو إيقاف تشغيله للإنترنت SharePoint الخارجية](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
+
+[تشغيل مشاركة أو إيقاف تشغيله لموقع خارجي](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+
+[إدارة الوصول إلى guest في Office 365 مجموعات](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
+
+[استخدام Sharepoint على الإنترنت كحل إكسترانت أعمال (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+
+[مشاركة المجلد أو الملفات SharePoint](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+
+[إيقاف مشاركة الملفات SharePoint أو أونيدريفي أو المجلدات، أو تغيير الأذونات](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+
+[حذف مستخدم خارجي](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
+
+تلقي خطأ بواسطة مستخدم خارجي (guest)؟
+
+التحقق من الارتباطات أدناه. 
+
+- [مشاركة OSE أخطاء في Sharepoint أو أندريف](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+
+- [ظهور رسالة خطأ عند قبول مستخدم خارجي دعوة SharePoint على الإنترنت باستخدام حساب آخر](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0)
+
+- [تم رفض الوصول إلى مجلد المشترك](https://support.office.com/client/d678b57a-53ad-4414-9423-d8726a0c532f)

@@ -10,23 +10,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: 17e37fb00bf5a749a8f068c679323f82f51212c5
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: 4c2191befa04d4fad41f84843acd5ae48a1b5bb7
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34717649"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34752189"
 ---
 # <a name="recover-missing-or-deleted-site-collections"></a>استرداد مفقود أو حذف مجموعات المواقع
 
 كيفية استرداد مجموعات الموقع مفقود أو حذفها.
 
-[استعادة حذف المواقع](https://docs.microsoft.com/en-us/sharepoint/restore-deleted-site-collection)
+[استعادة حذف المواقع](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
 
-[استعادة باستخدام الوحدة النمطية PowerShell مكتب التخطيط الاستراتيجي](https://support.office.com/en-us/article/Introduction-to-the-SharePoint-Online-Management-Shell-C16941C3-19B4-4710-8056-34C034493429)
+[استعادة باستخدام الوحدة النمطية PowerShell مكتب التخطيط الاستراتيجي](https://support.office.com/article/Introduction-to-the-SharePoint-Online-Management-Shell-C16941C3-19B4-4710-8056-34C034493429)
 
-إذا لم تعثر على الموقع قد تحتاج إلى [للبحث في سجل التدقيق في أمان Office 365 &amp; مركز التوافق](https://docs.microsoft.com/en-us/office365/securitycompliance/search-the-audit-log-in-security-and-compliance).
+إذا لم تعثر على الموقع قد تحتاج إلى [للبحث في سجل التدقيق في أمان Office 365 &amp; مركز التوافق](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance).
 
-**ملاحظة**: تكون غير مرئية في إدارة SharePoint **الكلاسيكية** واجهة المستخدم مواقع الفريق "الحديث". يمكن الوصول إلى قائمة المواقع "الحديثة" من [مركز مسؤول Sharepoint جديدة](https://docs.microsoft.com/en-us/sharepoint/get-started-new-admin-center).
+**ملاحظة**: تكون غير مرئية في إدارة SharePoint **الكلاسيكية** واجهة المستخدم مواقع الفريق "الحديث". يمكن الوصول إلى قائمة المواقع "الحديثة" من [مركز مسؤول Sharepoint جديدة](https://docs.microsoft.com/sharepoint/get-started-new-admin-center).
 
 
