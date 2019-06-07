@@ -1,5 +1,5 @@
 ---
-title: مشاكل الأداء SharePoint أو أندريف
+title: مشاكل الأداء SharePoint أو أونيدريفي
 ms.author: kirks
 author: Techwriter40
 ms.date: 1/3/2019
@@ -8,14 +8,29 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 8276f5f29ef931e944759cfff82b2f311a73972a
-ms.sourcegitcommit: 6d341637dbb14e90726a1ce1d68f077ace9bb765
+ms.openlocfilehash: 03612e481d6f7adde5d0d9654d269ce1050f2cd8
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/04/2019
-ms.locfileid: "34717509"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34751797"
 ---
-# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a><span data-ttu-id="eefec-102">خطأ داخلي في الملقم عند التنقل إلى مواقع Sharepoint أو أندريف</span><span class="sxs-lookup"><span data-stu-id="eefec-102">Internal server error when navigating to Sharepoint or OneDrive sites</span></span>
+# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a><span data-ttu-id="8ec22-102">خطأ داخلي في الملقم عند التنقل إلى مواقع Sharepoint أو أندريف</span><span class="sxs-lookup"><span data-stu-id="8ec22-102">Internal server error when navigating to Sharepoint or OneDrive sites</span></span>
 
-<p><span data-ttu-id="eefec-103"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">قد يتلقى المستخدمون خطأ خادم داخلي 500 عند محاولة الانتقال إلى موقع Sharepoint أو أندريف.</span></span><span class="sxs-lookup"><span data-stu-id="eefec-103"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Users may receive a 500 internal server error when attempting to navigate to Sharepoint or OneDrive sites. </span></span></span></p> <p><span data-ttu-id="eefec-104"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">الرجاء محاولة مسح التخزين المؤقت للمستعرض قبل الانتقال إلى الموقع.</span></span><span class="sxs-lookup"><span data-stu-id="eefec-104"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Please attempt to clear the browser cache before navigating to the site.</span></span></span></p> <ol> <li><span data-ttu-id="eefec-105"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">حافة Microsoft من المستعرض، انتقل إلى <strong>مزيد من</strong> &hellip; &gt; <strong>إعدادات</strong>.</span></span><span class="sxs-lookup"><span data-stu-id="eefec-105"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">In the Microsoft Edge browser, go to <strong>More</strong> &hellip;&gt;<strong> Settings</strong>.</span></span></span></li> <li><span data-ttu-id="eefec-106"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">ضمن مسح بيانات الاستعراض، حدد <strong>اختر ما تريد مسح</strong>.</span></span><span class="sxs-lookup"><span data-stu-id="eefec-106"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Under Clear browsing data, select <strong>Choose what to clear</strong>.</span></span></span></li> <li><span data-ttu-id="eefec-107"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">حدد خانة الاختيار البيانات المحفوظة في موقع ويب وملفات تعريف الارتباط وحدد <strong>مسح</strong>.</span></span><span class="sxs-lookup"><span data-stu-id="eefec-107"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Select the Cookies and saved website data check box and select <strong>Clear</strong>.</span></span></span></li> </ol> <p><span data-ttu-id="eefec-108"><em style="mso-bidi-font-style: normal;"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">ملاحظة: قد تختلف الخطوات التالية عند استخدام المستعرضات الأخرى مثل فايرفوكس أو الكروم.</span></em></span><span class="sxs-lookup"><span data-stu-id="eefec-108"><em style="mso-bidi-font-style: normal;"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">Note: These steps may differ when using other browsers such as Firefox or Chrome. </span></em></span></span></p> <p><span data-ttu-id="eefec-109"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">إذا لم يتم تحليل المشكلة، يمكنك التحقق من ما إذا كان هناك الصيانة الفعالة التي تحدث على المستأجر الخاص بك عن طريق الانتقال إلى <a href="https://portal.office.com/adminportal/home#/MessageCenter">مركز الرسائل</a>. أخيرا، تحقق من أن تقوم بزيارة صفحة <a href="https://portal.office.com/adminportal/home#/servicehealth">الحماية خدمة</a> للتحقق من وجود أية نصائح/الحوادث التي قد تحدث.</span></span><span class="sxs-lookup"><span data-stu-id="eefec-109"><span style="mso-bidi-font-family: Calibri; mso-bidi-theme-font: minor-latin;">If this does not resolve the issue, you can check if there is active maintenance occurring on your tenant by navigating to the <a href="https://portal.office.com/adminportal/home#/MessageCenter">Message center</a>. Finally , ensure you visit the <a href="https://portal.office.com/adminportal/home#/servicehealth">Service Health</a> page to check for any advisories/incidents that may be occurring.</span></span></span></p>
+<span data-ttu-id="8ec22-103">قد يتلقى المستخدمون خطأ خادم داخلي 500 عند محاولة الانتقال إلى موقع SharePoint أو أندريف.</span><span class="sxs-lookup"><span data-stu-id="8ec22-103">Users may receive a 500 internal server error when attempting to navigate to SharePoint or OneDrive sites.</span></span> 
+
+<span data-ttu-id="8ec22-104">الرجاء محاولة مسح التخزين المؤقت للمستعرض قبل الانتقال إلى الموقع.</span><span class="sxs-lookup"><span data-stu-id="8ec22-104">Please attempt to clear the browser cache before navigating to the site.</span></span>
+
+
+1. <span data-ttu-id="8ec22-105">حافة Microsoft من المستعرض، انتقل إلى المزيد... إعدادات ></span><span class="sxs-lookup"><span data-stu-id="8ec22-105">In the Microsoft Edge browser, go to More...> Settings</span></span>
+
+2. <span data-ttu-id="8ec22-106">ضمن مسح بيانات الاستعراض، حدد **اختر ما تريد مسح**</span><span class="sxs-lookup"><span data-stu-id="8ec22-106">Under Clear browsing data, select **Choose what to clear**</span></span>
+
+3. <span data-ttu-id="8ec22-107">حدد خانة الاختيار البيانات المحفوظة في موقع ويب وملفات تعريف الارتباط وحدد **مسح**.</span><span class="sxs-lookup"><span data-stu-id="8ec22-107">Select the Cookies and saved website data check box and select **Clear**.</span></span>
+
+<span data-ttu-id="8ec22-108">ملاحظة: قد تختلف الخطوات التالية عند استخدام المستعرضات الأخرى مثل فايرفوكس أو الكروم.</span><span class="sxs-lookup"><span data-stu-id="8ec22-108">Note: These steps may differ when using other browsers such as Firefox or Chrome.</span></span>
+
+<span data-ttu-id="8ec22-109">إذا لم يتم تحليل المشكلة، يمكنك التحقق من ما إذا كان هناك الصيانة الفعالة التي تحدث على المستأجر الخاص بك عن طريق الانتقال إلى [مركز الرسائل](https://portal.office.com/adminportal/home#/MessageCenter).</span><span class="sxs-lookup"><span data-stu-id="8ec22-109">If this does not resolve the issue, you can check if there is active maintenance occurring on your tenant by navigating to the [Message center](https://portal.office.com/adminportal/home#/MessageCenter).</span></span>
+
+<span data-ttu-id="8ec22-110">أخيرا، تحقق من أن تقوم بزيارة صفحة [الحماية خدمة](https://portal.office.com/adminportal/home#/servicehealth) للتحقق من وجود أية نصائح/الحوادث التي قد تحدث.</span><span class="sxs-lookup"><span data-stu-id="8ec22-110">Finally , ensure you visit the [Service Health](https://portal.office.com/adminportal/home#/servicehealth) page to check for any advisories/incidents that may be occurring.</span></span>
 

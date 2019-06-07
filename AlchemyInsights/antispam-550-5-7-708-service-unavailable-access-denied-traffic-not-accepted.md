@@ -2,7 +2,7 @@
 title: البريد التطفلي 1047 550 5.7.708 خدمة غير متوفرة. تم رفض الوصول، لم يقبل من عنوان IP هذا المرور
 ms.author: chrisda
 author: chrisda
-manager: serdars
+manager: dansimp
 ms.date: 9/28/2018
 ms.audience: ITPro
 ms.topic: article
@@ -10,15 +10,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1047
 ms.assetid: f502f794-03c5-4e08-9095-b801528f67c4
-ms.openlocfilehash: 907f74c5a20a45ef8bf111de5f7671485e189e91
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7a8d277a80a55c0ebe7a343395c01512c586d2a3
+ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32397103"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34755586"
 ---
-# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a><span data-ttu-id="d317c-103">رفض الوصول 5.7.708 550، حركة مرور لم تقبل من عنوان IP هذا</span><span class="sxs-lookup"><span data-stu-id="d317c-103">550 5.7.708 Access denied, traffic not accepted from this IP</span></span>
+# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a><span data-ttu-id="ec33b-103">رفض الوصول 5.7.708 550، حركة مرور لم تقبل من عنوان IP هذا</span><span class="sxs-lookup"><span data-stu-id="ec33b-103">550 5.7.708 Access denied, traffic not accepted from this IP</span></span>
 
-<span data-ttu-id="d317c-104">يحدث هذا الخطأ عند إرسال بريد إلكتروني من السمعة المعروفة، وانخفاض عناوين IP المستخدمة عادة من قبل عملاء جدد.</span><span class="sxs-lookup"><span data-stu-id="d317c-104">This error occurs when sending email from known, low reputation IP addresses that are typically used by new customers.</span></span>
+<span data-ttu-id="ec33b-104">يحدث هذا الخطأ عند إرسال بريد إلكتروني من السمعة المعروفة، وانخفاض عناوين IP المستخدمة عادة من قبل عملاء جدد.</span><span class="sxs-lookup"><span data-stu-id="ec33b-104">This error occurs when sending email from known, low reputation IP addresses that are typically used by new customers.</span></span>
 
-<span data-ttu-id="d317c-105">إذا كان يجب إرسال البريد الإلكتروني من عناوين IP هذه قبل أن يمكنك شراء التراخيص، اتصل بالدعم لطلب استثناء حتى تكون قادرة على شراء التراخيص.</span><span class="sxs-lookup"><span data-stu-id="d317c-105">If you must send email from these IP addresses before you can purchase licenses, contact support to request an exception until you're able to purchase licenses.</span></span>
+<span data-ttu-id="ec33b-105">إذا كان يجب إرسال البريد الإلكتروني من عناوين IP هذه قبل أن يمكنك شراء التراخيص، اتصل بالدعم لطلب استثناء حتى تكون قادرة على شراء التراخيص.</span><span class="sxs-lookup"><span data-stu-id="ec33b-105">If you must send email from these IP addresses before you can purchase licenses, contact support to request an exception until you're able to purchase licenses.</span></span>
