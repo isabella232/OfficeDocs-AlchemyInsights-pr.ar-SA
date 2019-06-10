@@ -9,12 +9,12 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 65d359f9826e689963cfe5e83b37227cbadd526b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: ac2542f9d1990c5a76773f36bde03d0b31728bdd
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32408706"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34769530"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>تطبيق التسميات حساسية تلقائي
 
@@ -25,7 +25,7 @@ ms.locfileid: "32408706"
 لتطبيق تسميات تلقائياً، التالي مطلوب:
 
 - اشتراك P2 حماية المعلومات azure
-- [تنزيل وتثبيت عميل معنونة موحدة حماية المعلومات Azure](https://docs.microsoft.com/en-us/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- [تنزيل وتثبيت عميل معنونة موحدة حماية المعلومات Azure](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
 نحن نعمل على دعم أصلي لا يتطلب من العميل معنونة موحدة Azure حماية المعلومات في المستقبل.
 
@@ -33,5 +33,5 @@ ms.locfileid: "32408706"
 
 لمزيد من المعلومات حول التسميات حساسية وتطبيقها تلقائياً على المحتوى، راجع:
 
-- [نظرة عامة حول التسميات الحساسية](https://docs.microsoft.com/en-us/office365/securitycompliance/sensitivity-labels)
-- [تطبيق تسمية حساسية للمحتوى تلقائياً](https://docs.microsoft.com/en-us/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [نظرة عامة حول التسميات الحساسية](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+- [تطبيق تسمية حساسية للمحتوى تلقائياً](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)

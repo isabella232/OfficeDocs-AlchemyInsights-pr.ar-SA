@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1860
 ms.assetid: ''
-ms.openlocfilehash: 6e66b5d60fe9ac66c2f2f8f7e99e753652c3a59e
-ms.sourcegitcommit: bcb2612ab8ba2aee5165e3912dca95cc1bdd09f4
+ms.openlocfilehash: 461969bee3b871fd2c4a8418406ea2b6de791191
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/16/2019
-ms.locfileid: "34096406"
+ms.lasthandoff: 06/07/2019
+ms.locfileid: "34770796"
 ---
 # <a name="recall-or-replace-an-email-message"></a>استرداد أو استبدال رسالة بريد إلكتروني
 
@@ -36,7 +36,7 @@ ms.locfileid: "34096406"
 
 ***البحث عن وحذف رسائل البريد الإلكتروني في مؤسستك*** للبحث عن وحذف رسائل البريد الإلكتروني في مؤسستك، فمن الأسهل إذا كنت مسؤول. عمومية إذا لم تكن إدارة عمومية، يجب إضافة الحساب إلى مجموعة دور مدير eDiscovery، أو لدور إدارة "البحث التوافق". لحذف الرسائل، سوف تحتاج إلى الانضمام إلى مجموعة "إدارة المؤسسة" دور أو أدوار إدارة البحث وإزالة. يتم تعيين الأذونات لهذه الأدوار في [مركز التوافق & الأمان](https://protection.office.com/).
 
-1. [إنشاء محتوى البحث](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) للعثور على الرسالة لحذف.
-2. [الاتصال بأمان PowerShell مركز التوافق &](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
+1. [إنشاء محتوى البحث](https://docs.microsoft.com/office365/securitycompliance/content-search) للعثور على الرسالة لحذف.
+2. [الاتصال بأمان PowerShell مركز التوافق &](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
 
-إذا كنت تستخدم ترتيب المنسوجات المتعددة الألياف، راجع [الاتصال بمكتب الأمن 365 & PowerShell مركز التوافق باستخدام مصادقة متعددة العوامل](https://docs.microsoft.com/en-us/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
+إذا كنت تستخدم ترتيب المنسوجات المتعددة الألياف، راجع [الاتصال بمكتب الأمن 365 & PowerShell مركز التوافق باستخدام مصادقة متعددة العوامل](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 

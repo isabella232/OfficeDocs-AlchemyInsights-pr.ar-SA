@@ -1,5 +1,5 @@
 ---
-title: تقييد الوصول في SharePoint أو أونيدريفي
+title: تقييد الوصول في SharePoint أو أندريف
 ms.author: kirks
 author: Techwriter40
 ms.audience: ITPro
@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: c3d058c22d88eb9625dbdaecba7edd270977f351
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 3916e6cf6424b644e90621f21aa09b37140d5288
+ms.sourcegitcommit: 136b8209c52c2a05d0f2fdaab93b2cd92253fa2c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
 ms.lasthandoff: 06/07/2019
-ms.locfileid: "34760857"
+ms.locfileid: "34770585"
 ---
 # <a name="irm-protection-to-sharepoint-files"></a>حماية IRM على الملفات SharePoint
 
@@ -21,7 +21,7 @@ ms.locfileid: "34760857"
 
 لمعرفة المزيد، اقرأ [خدمات وتطبيقات Office كيف تعتمد إدارة الحقوق Azure](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support).
 
-قم [تعيين إعداد إدارة حقوق المعلومات (IRM) في مركز مسؤول SharePoint](https://docs.microsoft.com/en-us/office365/securitycompliance/set-up-irm-in-sp-admin-center).
+قم [تعيين إعداد إدارة حقوق المعلومات (IRM) في مركز مسؤول SharePoint](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center).
 
 [قوائم ومكتبات مستندات SharePoint تمكين IRM](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists).
 
