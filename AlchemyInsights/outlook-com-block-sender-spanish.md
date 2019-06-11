@@ -1,23 +1,25 @@
 ---
-title: 8000069-حظر المرسل Outlook.com-الإسبانية
+title: حظر المرسلين في Outlook.com-الإسبانية
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/7/2019
+ms.date: 6/10/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000069
-ms.openlocfilehash: af036c7f1f7b62696d31be23b67a8711ac510cf8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "8000069"
+- "1142"
+ms.openlocfilehash: 7ce49d7348001f45b09e6a3cefa5329b9912e9ca
+ms.sourcegitcommit: 65e270e6aaa58294d1e866a66cac787da22e8d13
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32388480"
+ms.lasthandoff: 06/11/2019
+ms.locfileid: "34820207"
 ---
 # <a name="bloquear-o-desbloquear-remitentes-en-outlookcom"></a>بلوكوير س ديسبلوكوير ريميتينتيس en Outlook.com
 
-يمكن بلوكويار لوس رسائل دي لاس ديريكسيونيس de correo الإلكترونية específica س التقاليد ليجوي على غرار انترادا de بانديجا. كواندو مضيفاً أونا المديرية de correo الإلكترونية س الأمم المتحدة التقاليد على غرار بلوكويدوس ريميتينتيس de Outlook.com موفي automáticamente لوس رسائل دي الموسع ريميتينتي على غرار الإلكترونية correo كاربيتا لا ديسيدو.
+يمكن بلوكوير لوس رسائل دي لاس ديريكسيونيس دي correo الإلكترونية específica o التقاليد ليجو على غرار بانديا دي انترادا. كواندو مضيفاً أونا المديرية de correo الإلكترونية س الأمم المتحدة التقاليد على غرار بلوكويدوس ريميتينتيس de Outlook.com موفي automáticamente لوس رسائل دي الموسع ريميتينتي على غرار الإلكترونية correo كاربيتا لا ديسيدو.
 
-لاس إينستروكسيونيس ابن ليجيرامينتي مختلفة ديبينديندو دي سي تهت أوتيليزاندو la بين بيتا Outlook.com دي. الولايات المتحدة الأمريكية Outlook.com دي بين المجتمعات فير الفقرة [لوس كونسيرنين لي كيو بسوس](https://support.office.com/es-es/article/remitentes-de-bloquear-o-desbloquear-remitentes-en-outlook-com-afba1c94-77bb-4f50-8b85-057cf52f4d5e?ui=es-ES&rs=es-ES&ad=ES).
+لير أكثر أبريندير الفقرة [أيودار correo el مانتينير لا correo ش ص ديسيدو لم ديسيدو سواء بانديا دي انترادا de Outlook.com](https://support.office.com/es-es/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).
