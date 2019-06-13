@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: caa0f310-0bb7-48e3-8ad2-cb358b53bbba
-ms.openlocfilehash: ce67797a1838630ab3a42e1eeeefc401a0e3f753
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: a5def36fbb662037851158722db60494f00ce850
+ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32398445"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34895192"
 ---
 # <a name="adding-external-users-to-a-distribution-group"></a>إضافة المستخدمين الخارجيين إلى مجموعة التوزيع؟
 
@@ -43,4 +43,3 @@ ms.locfileid: "32398445"
   
  **ملاحظة:** لا تنطبق هذه التعليمات إذا كان نوع المجموعة الخاصة بك "جماعة Office 365" بدلاً من "مجموعة التوزيع". إذا كان الأمر كذلك، يمكنك إضافة المستخدم الخارجي مباشرة إلى المجموعة من Outlook أو Outlook على الويب. يمكن العثور على شرح مفصل على الضيوف مجموعات O365 وكذلك الإرشادات لإضافة ضيوف الخارجية في [هذه المقالة](https://support.office.com/article/Guest-access-in-Office-365-Groups-bfc7a840-868f-4fd6-a390-f347bf51aff6.aspx).
   
-
