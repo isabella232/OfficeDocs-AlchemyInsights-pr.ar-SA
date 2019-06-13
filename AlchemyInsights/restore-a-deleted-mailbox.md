@@ -9,12 +9,13 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7b5b4e06-6943-4b2f-b8e4-cdaf13e65c77
-ms.openlocfilehash: ed76b06d20bdaa74708ac6d95902f4c726838071
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.custom: ''
+ms.openlocfilehash: 3fa5fe283ebc89faff984e85731cdd3d70f5a7e6
+ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34761782"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34899506"
 ---
 # <a name="restore-a-deleted-mailbox"></a>استعادة حذف علبة البريد
 
@@ -23,11 +24,10 @@ ms.locfileid: "34761782"
 في مدخل مسؤول:
   
 - انتقل إلى **المستخدمين** \> **المستخدمين النشطين**. حدد المستخدم المطلوب.
-    
-- حدد * * تحرير * * لتعديل تراخيص منتجات. 
-    
+
+- حدد **تحرير** لتعديل تراخيص منتجات.
+
 - تعيين ترخيص Exchange عبر إنترنت للمستخدم، وحدد **حفظ**.
-    
+
 علب البريد المشتركة أيضا قابلة للاسترداد في غضون 30 يوما. يمكنك العثور على علب البريد المشتركة ضمن **المستخدمين** \> **المستخدمين المحذوفة**. علب البريد المشتركة لا تحتاج إلى ترخيص Exchange عبر إنترنت.
   
-
