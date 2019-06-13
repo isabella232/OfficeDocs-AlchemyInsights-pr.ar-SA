@@ -12,20 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: 0ddafabd1896040fc93d4ad49bc306bea3104492
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 9a516f6ca1fa351f8484271da0bdc47ba7f12447
+ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34764795"
+ms.lasthandoff: 06/12/2019
+ms.locfileid: "34883148"
 ---
 # <a name="activate-visio"></a>تنشيط Visio
 
-يحتاج المسؤول إلى تعيين [Visio ترخيص](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800) مستخدم قبل Visio سطح المكتب تطبيق سطح المكتب المضمنة مع Visio على الإنترنت خطة 2 يمكن تثبيت وتنشيط. (لا يحتوي Visio على الإنترنت خطة 1 إصدار سطح مكتب ل Visio).
+قبل أن يمكن لمستخدم تثبيت وتنشيط تطبيق Visio سطح سطح المكتب المتضمنة بها Visio على الإنترنت خطة 2، المستخدم يجب أن تم تعيين [ترخيص Visio](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
+
+**ملاحظة** لا يحتوي Visio على الإنترنت خطة 1 إصدار سطح مكتب ل Visio.
+
+لتنشيط Visio:
 
 1. [تثبيت Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800) إذا لم يكن مثبتاً بالفعل.
-2. عند اكتمال التثبيت، يمكنك فتح التطبيق. في كثير من الحالات سيتم تنشيط التطبيق تلقائياً ويمكن المستخدم من بدء استخدام Visio مباشرة.
-    إذا تمت مطالبتك بتسجيل الدخول، يجب تسجيل الدخول المستخدم باستخدام نفس العمل أو المدرسة الحساب الذي تم تعيين الترخيص Visio. 
+2. عند اكتمال التثبيت، يمكنك فتح Visio. في كثير من الحالات التطبيق ينشط تلقائياً ويمكنك البدء في استخدام Visio على الفور. إذا تمت مطالبتك بتسجيل الدخول، تأكد من تسجيل الدخول باستخدام نفس العمل أو المدرسة الحساب الذي تم تعيين ترخيص Visio. 
+
+للمشاكل المتعلقة بالتنشيط، تشغيل [مستكشف أخطاء التنشيط](https://aka.ms/SARA-OfficeActivation-Alchemy) على الكمبيوتر المتأثر.
 
 للحصول على معلومات مفصلة، راجع:<br>
 [تنشيط Office على جهاز كمبيوتر](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800)<br>
