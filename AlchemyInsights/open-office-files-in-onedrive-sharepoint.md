@@ -11,14 +11,15 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: a67fdd7e44ed5651135443b68998a3c61886d133
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 0f72136d788167472be3b77e83034f5147bbc92c
+ms.sourcegitcommit: ed30ec6cae5e52b54aa1ac7248a847579ad16062
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34762175"
+ms.lasthandoff: 06/19/2019
+ms.locfileid: "35079300"
 ---
-# <a name="open-office-files-and-documents-from-sharepoint--onedrive"></a>فتح ملفات Office والمستندات من SharePoint & أندريف
+# <a name="open-office-files-and-documents-from-sharepoint-and-onedrive"></a>فتح ملفات Office والمستندات من SharePoint وأندريف
+
 
 إذا كان لديك مشاكل في فتح ملفات Office ومستندات من مكتبة مستندات SharePoint أو أندريف، فيما يلي بعض الاقتراحات لمساعدتك في إصلاح هذه المشكلات.
 

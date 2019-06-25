@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
-ms.openlocfilehash: 30e2dce5f327836f728fcd9aa4acc7ebaf52f054
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 52b93516e47fcc6b221e2cc24993d0cd81413b55
+ms.sourcegitcommit: f856d46a325c517fc29d935c27f21b77c4219e66
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34760892"
+ms.lasthandoff: 06/24/2019
+ms.locfileid: "35199296"
 ---
 # <a name="restore-deleted-items-from-sharepoint"></a>استعادة حذف العناصر من SharePoint
 
@@ -31,7 +31,7 @@ ms.locfileid: "34760892"
 
 [الشرطة الوطنية الفلبينية على الإنترنت SharePoint](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps)
 
-ميزة استعادة الملفات.
+**ميزة "استعادة الملفات"**
 
 إذا كان الكثير من الملفات Sharepoint أو أندريف الحصول على حذف أو استبدال، تالفة أو الإصابة بالبرامج الضارة، يمكنك استعادة مكتبة Sharepoint أو أندريف بالكامل إلى استخدام ميزة "استعادة الملفات" في وقت سابق.
 
