@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 99927bf4f17ff7fac1e4c61d17ab4ee706c4d891
-ms.sourcegitcommit: 01ead85a22e62931db4cc73604b65ae4d923f974
+ms.openlocfilehash: 81a0ef4df7b64878d2611c7d31256b9f3babd85e
+ms.sourcegitcommit: 20a3cfa10114176f8997fd151e83d167a81945e4
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/06/2019
-ms.locfileid: "33643232"
+ms.lasthandoff: 05/20/2019
+ms.locfileid: "34273580"
 ---
-# <a name="how-to-sign-out-of-outlook-on-the-web"></a><span data-ttu-id="23506-102">كيفية تسجيل الخروج من Outlook على ويب</span><span class="sxs-lookup"><span data-stu-id="23506-102">How to sign out of Outlook on the web</span></span>
+# <a name="how-to-sign-out-of-outlook-on-the-web"></a><span data-ttu-id="9c242-102">كيفية تسجيل الخروج من Outlook على ويب</span><span class="sxs-lookup"><span data-stu-id="9c242-102">How to sign out of Outlook on the web</span></span>
 
-1. <span data-ttu-id="23506-103">حدد الاسم أو الصورة في الركن الأيمن العلوي.</span><span class="sxs-lookup"><span data-stu-id="23506-103">Select your name or picture at the top right corner.</span></span>
-    
-    <span data-ttu-id="23506-104">إذا لم تشاهد الصورة في الجزء العلوي من الشاشة، تحقق لمعرفة إذا كان حظر الإعلانات قيد التشغيل.</span><span class="sxs-lookup"><span data-stu-id="23506-104">If you don't see your picture at the top of screen, check to see if ad blocking is turned on.</span></span> <span data-ttu-id="23506-105">في بعض الأحيان هذا يمنع الصورة من الظهور.</span><span class="sxs-lookup"><span data-stu-id="23506-105">Sometimes this prevents the picture from showing.</span></span>
-    
-2. <span data-ttu-id="23506-106">حدد **تسجيل الخروج**.</span><span class="sxs-lookup"><span data-stu-id="23506-106">Select **Sign out**.</span></span> 
-    
-    <span data-ttu-id="23506-107">لإيقاف تسجيل الدخول تلقائياً إلى العمل أو المدرسة حساب إلغاء تحديد المربع **الاستمرار في** الصفحة حيث يمكنك إدخال كلمة المرور.</span><span class="sxs-lookup"><span data-stu-id="23506-107">To stop automatically signing in to your work or school account, uncheck the box for **Keep me signed in** on the page where you enter your password.</span></span> 
-    
-<span data-ttu-id="23506-108">لمزيد من المعلومات، راجع [كيفية تسجيل الدخول إلى أو خارج Outlook على الويب](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).</span><span class="sxs-lookup"><span data-stu-id="23506-108">To learn more, see [How to sign in to or out of Outlook on the web](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).</span></span>
+<span data-ttu-id="9c242-103">لتسجيل الخروج من Outlook على الويب، حدد الاسم أو الصورة في الركن الأيمن العلوي وحدد **تسجيل الخروج**.</span><span class="sxs-lookup"><span data-stu-id="9c242-103">To sign out of Outlook on the web, select your name or picture at the top right corner and select **Sign out**.</span></span>
+
+<span data-ttu-id="9c242-104">لإيقاف تسجيل الدخول تلقائياً إلى الحساب الخاص بك في العمل أو المدرسة:</span><span class="sxs-lookup"><span data-stu-id="9c242-104">To stop automatically signing in to your work or school account:</span></span>
+
+1. <span data-ttu-id="9c242-105">حدد اسمك أو صورة وحدد **تسجيل الخروج**.</span><span class="sxs-lookup"><span data-stu-id="9c242-105">Select your name or picture and select **Sign out**.</span></span>
+1. <span data-ttu-id="9c242-106">الانتقال إلى [Outlook.office.com](https://outlook.office.com/) وتحديد **استخدام حساب آخر**.</span><span class="sxs-lookup"><span data-stu-id="9c242-106">Go to [Outlook.office.com](https://outlook.office.com/) and select **Use another account**.</span></span>
+1. <span data-ttu-id="9c242-107">تسجيل الدخول باستخدام عنوان البريد الإلكتروني الذي تريد استخدامه.</span><span class="sxs-lookup"><span data-stu-id="9c242-107">Sign in with the email address you want to use.</span></span>
+
+<span data-ttu-id="9c242-108">لمزيد من المعلومات، راجع [كيفية تسجيل الدخول إلى أو خارج Outlook على الويب](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).</span><span class="sxs-lookup"><span data-stu-id="9c242-108">To learn more, see [How to sign in to or out of Outlook on the web](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).</span></span>
