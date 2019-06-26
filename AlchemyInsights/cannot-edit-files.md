@@ -1,5 +1,5 @@
 ---
-title: فتح الملف للقراءة فقط
+title: ملفات مؤمنة ضد التحرير
 ms.author: kirks
 author: Techwriter40
 manager: pamgreen
@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 39748581-d319-403c-8501-9b785e4a0ed8
-ms.openlocfilehash: de45b05aa3c8e8c3fd7b9d75b01a26f791135b51
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 149bf3f8d261c2c2945ec47c47cf9ca694f7aec9
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34756330"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35222943"
 ---
 # <a name="why-you-might-not-be-able-to-edit-files"></a>لماذا قد لا تتمكن من تحرير الملفات؟
 
@@ -21,7 +21,7 @@ ms.locfileid: "34756330"
 
 ملاحظة: المكتبة بالسحب أو أعمدة/البيانات الوصفية، المطلوبة أو عندما يتم تعيين "أمان عنصر المسودة" إلى فقط المستخدمين الذين يمكنهم تحرير أو المستخدمين الذين يمكنهم الموافقة على العناصر الموجودة في "إعدادات الإصدار" للمكتبة.
 
-لمكتبات أونيدريفي، أونيدريفي سيظهر رمز قفل الموجود بجانب حالة المزامنة ولن المستخدم قادراً على مزامنة المكتبة حتى إزالة الإعدادات المذكورة.
+لمكتبات أندريف، أندريف سيظهر رمز قفل الموجود بجانب حالة المزامنة ولن المستخدم قادراً على مزامنة المكتبة حتى إزالة الإعدادات المذكورة.
 
 لمزيد من المعلومات فيما يتعلق بتأمين ملفات Word/Excel، الرجاء مراجعة المقالات التالية.
 

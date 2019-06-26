@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: a79bc2557feccc3ceb5b02a4c1c79093ddf31233
-ms.sourcegitcommit: 2bc5a3a7cfdc2b43ea22dd41fea1a13e312d5de2
+ms.openlocfilehash: 7701ddd79f81a2988d6fcfbcbbc18d6b9302f03a
+ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/20/2019
-ms.locfileid: "35119746"
+ms.lasthandoff: 06/25/2019
+ms.locfileid: "35222727"
 ---
 # <a name="follow-or-un-follow-a-sharepoint-site"></a>اتبع أو المتابعة الأمم المتحدة موقع SharePoint
 
@@ -23,4 +23,4 @@ ms.locfileid: "35119746"
 
 إذا كنت غير قادر على المتابعة أو المتابعة موقع الأمم المتحدة وتشعر بأن النتائج ليست ما هو متوقع، راجع إذا المشكلة المرتبطة بمستخدم واحد أو كافة المستخدمين في المؤسسة الخاصة بك. في حالة مواجهة هذه المشكلة بكافة المستخدمين، قد تكون هناك مشكلة خدمة مؤقت. 
 
-تحقق من [لوحة المعلومات الصحية الخدمة](https://admin.microsoft.com/AdminPortal/Home#/servicehealth)لترى إذا تأثر المؤسسة الخاصة بك.
+تحقق من [لوحة المعلومات الصحية الخدمة](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) لترى إذا تأثر المؤسسة الخاصة بك.
