@@ -7,20 +7,22 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "865"
+- "5300020"
 ms.assetid: 2987a5c9-063a-4fa1-af03-951f7f1750a8
-ms.openlocfilehash: 66188c1065ea9b844673af1214995be2da7fd810
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 20f40841feae8962a2fbdaadad4f89c95f32acf4
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418350"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35379556"
 ---
-# <a name="view-reports-on-onedrive-and-sharepoint-activity-and-usage"></a><span data-ttu-id="41317-102">عرض تقارير حول نشاط أونيدريفي و SharePoint والاستخدام</span><span class="sxs-lookup"><span data-stu-id="41317-102">View reports on OneDrive and SharePoint activity and usage</span></span>
+# <a name="view-reports-on-onedrive-and-sharepoint-activity-and-usage"></a><span data-ttu-id="eaf95-102">عرض تقارير حول نشاط أندريف و SharePoint والاستخدام</span><span class="sxs-lookup"><span data-stu-id="eaf95-102">View reports on OneDrive and SharePoint activity and usage</span></span>
 
-<span data-ttu-id="41317-103">انتقل إلى [الصفحة تقارير الاستخدام في مركز مسؤول Microsoft 365](https://admin.microsoft.com/AdminPortal/Home).</span><span class="sxs-lookup"><span data-stu-id="41317-103">Go to the [Usage reports page in the Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home).</span></span> <span data-ttu-id="41317-104">ضمن **حدد تقرير**، اختر تقرير نشاط أو استخدام أندريف أو SharePoint.</span><span class="sxs-lookup"><span data-stu-id="41317-104">Under **Select a report**, choose the OneDrive or SharePoint activity or usage report.</span></span> 
+<span data-ttu-id="eaf95-103">انتقل إلى [الصفحة تقارير الاستخدام في مركز مسؤول Microsoft 365](https://admin.microsoft.com/AdminPortal/Home).</span><span class="sxs-lookup"><span data-stu-id="eaf95-103">Go to the [Usage reports page in the Microsoft 365 admin center](https://admin.microsoft.com/AdminPortal/Home).</span></span> <span data-ttu-id="eaf95-104">ضمن **حدد تقرير**، اختر تقرير نشاط أو استخدام أندريف أو SharePoint.</span><span class="sxs-lookup"><span data-stu-id="eaf95-104">Under **Select a report**, choose the OneDrive or SharePoint activity or usage report.</span></span>
   
-[<span data-ttu-id="41317-105">مزيد من المعلومات حول تقارير أندريف</span><span class="sxs-lookup"><span data-stu-id="41317-105">More info about OneDrive reports</span></span>](https://go.microsoft.com/fwlink/?linkid=875239)
+[<span data-ttu-id="eaf95-105">مزيد من المعلومات حول تقارير أندريف</span><span class="sxs-lookup"><span data-stu-id="eaf95-105">More info about OneDrive reports</span></span>](https://go.microsoft.com/fwlink/?linkid=875239)
   
-[<span data-ttu-id="41317-106">مزيد من المعلومات حول تقارير SharePoint</span><span class="sxs-lookup"><span data-stu-id="41317-106">More info about SharePoint reports</span></span>](https://go.microsoft.com/fwlink/?linkid=875240)
+[<span data-ttu-id="eaf95-106">مزيد من المعلومات حول تقارير SharePoint</span><span class="sxs-lookup"><span data-stu-id="eaf95-106">More info about SharePoint reports</span></span>](https://go.microsoft.com/fwlink/?linkid=875240)
   
-
