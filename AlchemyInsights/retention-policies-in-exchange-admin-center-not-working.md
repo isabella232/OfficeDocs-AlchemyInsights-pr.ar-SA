@@ -8,13 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "308"
+- "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 56c2bea5e205358d0ef29fa937e36a88ffc46a1e
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 9f4a175239bc20aaf489615da63ef35002030a70
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34761569"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35369652"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>نهج الاستبقاء في مركز مسؤول Exchange
 
@@ -24,7 +27,7 @@ ms.locfileid: "34761569"
   
 - قد يرجع هذا **مساعد المجلد المدار** غير عالجت علبة بريد المستخدم. مساعد المجلد المدار يحاول معالجة كل علبة البريد في المؤسسة الخاصة بك إلى مجموعة النظراء مرة كل سبعة أيام. إذا غيرت علامة استبقاء أو تطبيق نهج استبقاء مختلفة لعلبة بريد، يمكنك الانتظار حتى "إدارة مجلد مساعدة" العمليات علبة البريد، أو يمكنك تشغيل الأمر cmdlet ماناجيدفولديراسيستانت ابدأ لبدء إدارة "مساعد المجلدات" لمعالجة معينة علبة البريد. تشغيل cmdlet هذا مفيداً لاستكشاف نهج استبقاء أو إعدادات علامة استبقاء أو الاختبار. لمزيد من المعلومات، قم بزيارة [تشغيل إدارة "مساعد المجلدات"](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
     
-  - **الحل:** قم بتشغيل الأمر التالي لتشغيل إدارة "مساعد المجلدات" لعلبة بريد محددة: 
+  - **الحل:** قم بتشغيل الأمر التالي لتشغيل إدارة "مساعد المجلدات" لعلبة بريد محددة:
     
   ```
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
@@ -40,7 +43,7 @@ ms.locfileid: "34761569"
   Get-Mailbox -Identity <name of the mailbox> |fl *retentionHold*
   ```
 
-  - تشغيل الأمر التالي **تعطيل** ريتينتيونهولد على علبة بريد معينة: 
+  - تشغيل الأمر التالي **تعطيل** ريتينتيونهولد على علبة بريد معينة:
     
   ```
   Set-Mailbox -RetentionHoldEnabled $false
@@ -52,6 +55,5 @@ ms.locfileid: "34761569"
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
   ```
 
- **ملاحظة:** إذا كانت علبة بريد أصغر من 10 ميغابايت، "مساعد المجلد المدار" سوف لا تلقائياً معالجة علبة البريد. 
+ **ملاحظة:** إذا كانت علبة بريد أصغر من 10 ميغابايت، "مساعد المجلد المدار" سوف لا تلقائياً معالجة علبة البريد.
   
-
