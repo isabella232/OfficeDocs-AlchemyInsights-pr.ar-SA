@@ -9,30 +9,32 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 6700005
-ms.openlocfilehash: 3fecad7d02b8e3148a3dd774d666fc4ed317204c
-ms.sourcegitcommit: 7e2122a7e08525f628986978f396b3a138d2326d
+ms.custom:
+- "1064"
+- "6700005"
+ms.openlocfilehash: 580903fd89dca8a2ecbf635fa2157f31c93b85f4
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33661722"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35363748"
 ---
 # <a name="creating-intune-policy-and-profiles"></a>إنشاء نهج إينتوني وملفات التعريف
 
 في إينتوني، يمكنك إنشاء نهج وملفات التعريف بأشياء مختلفة.
 
-- **ملفات التسجيل**: التكوين المسبق للأجهزة بالنظام الأساسي وتمكين تقارب المستخدم استخدام مصادقة متعددة العوامل والمزيد. 
+- **ملفات التسجيل**: التكوين المسبق للأجهزة بالنظام الأساسي وتمكين تقارب المستخدم استخدام مصادقة متعددة العوامل والمزيد.
 
   [ما هو جهاز تسجيل](https://docs.microsoft.com/intune/device-enrollment)، وإنشاء ملفات التسجيل [الروبوت](https://docs.microsoft.com/intune/android-enroll)، [دائرة الرقابة الداخلية](https://docs.microsoft.com/intune/ios-enroll)، [ماك](https://docs.microsoft.com/intune/macos-enroll)، و [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) موارد جيدة.
 
-- **نهج التوافق**: تعريف القواعد والإعدادات التي يجب أن تتبع الأجهزة ليكون متوافقاً. يمكنك أيضا استخدام نهج التوافق لمراقبة الأجهزة وإعلام المستخدمين عدم الامتثال. 
+- **نهج التوافق**: تعريف القواعد والإعدادات التي يجب أن تتبع الأجهزة ليكون متوافقاً. يمكنك أيضا استخدام نهج التوافق لمراقبة الأجهزة وإعلام المستخدمين عدم الامتثال.
 
   الشروع في استخدام [نهج توافق الأجهزة](https://docs.microsoft.com/intune/device-compliance-get-started).
 - **نهج الوصول الشرطي**: المساعدة في تأمين موارد تنظيمية، تبعاً للظروف التي تقوم بإدخالها. على سبيل المثال، للأجهزة غير المتوافقة مع استخدام الوصول المشروط لتقييد الوصول إلى البريد الإلكتروني و SharePoint.
 
   [ما هو الوصول المشروط](https://docs.microsoft.com/intune/conditional-access) و [الطرق الشائعة لاستخدام الوصول الشرطي](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) موارد جيدة للبدء.
 
-- **ملفات التكوين**: إدارة الميزات والإعدادات الموجودة على الأجهزة، بما في ذلك إعدادات البريد الإلكتروني، إضافة شبكة وأي فأي، واستخدام القوالب المضمنة والتحكم ميزات الجهاز iOS وماك والمزيد. 
+- **ملفات التكوين**: إدارة الميزات والإعدادات الموجودة على الأجهزة، بما في ذلك إعدادات البريد الإلكتروني، إضافة شبكة وأي فأي، واستخدام القوالب المضمنة والتحكم ميزات الجهاز iOS وماك والمزيد.
 
   الشروع في [تكوين التشكيلات الجانبية للجهاز](https://docs.microsoft.com/intune/device-profiles).
 

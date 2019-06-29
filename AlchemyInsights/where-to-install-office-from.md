@@ -8,13 +8,16 @@ ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "913"
+- "2000023"
 ms.assetid: caf090c7-4270-4a75-a873-cb8d094dcd82
-ms.openlocfilehash: 4b3bfb9cf38dddf9b6f6482950c752e7c54497f7
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: c77b00bbfba784087c7d35fe45050ba24f6670a1
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422738"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35365152"
 ---
 # <a name="install-office"></a>تثبيت Office
 
@@ -23,12 +26,11 @@ ms.locfileid: "32422738"
 يمكنك ثم تثبيت office اتباع الخطوات التالية:
   
 1. الانتقال إلى [portal.office.com/OLS/MySoftware.aspx](https://portal.office.com/OLS/MySoftware.aspx)
-    
+
 2. في الصفحة الرئيسية ل Office، حدد اللغة التي تريدها ثم حدد خيارات متقدمة لاختيار بين الإصدار 32 بت أو 64 بت
-    
+
 3. تحديد **تثبيت Office**.
-    
+
 للحصول على مزيد من التفاصيل، راجع [تحميل وتثبيت أو إعادة تثبيت Office على جهاز كمبيوتر أو Mac](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)
   
 للحصول على إرشادات معينة حول مشروع أو Visio، راجع [تثبيت Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) أو [مشروع](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)
-
