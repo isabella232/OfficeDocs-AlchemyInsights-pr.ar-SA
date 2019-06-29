@@ -1,34 +1,37 @@
 ---
-title: إعدادات الإطارات المنبثقة و IMAP و SMTP 8000043 ل Outlook.com
+title: إعدادات الإطارات المنبثقة و IMAP و SMTP ل Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/8/2019
+ms.date: 6/19/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000043
+ms.custom:
+- "780"
+- "1415"
+- "8000043"
 ms.assetid: 16b5fbc6-6f45-4707-97bb-49a9b610ac56
-ms.openlocfilehash: 0fb770a3dc34da662410d8992ce53fba32006cd1
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 4098e453deb081c8ac9dd7ee76938bbdfe2432c8
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392272"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373364"
 ---
 # <a name="pop-imap-and-smtp-settings-for-outlookcom"></a>إعدادات الإطارات المنبثقة و IMAP و SMTP ل Outlook.com
 
-إذا كنت تريد إضافة الحساب Outlook.com إلى آخر من تطبيق البريد الإلكتروني الذي يدعم POP أو IMAP، فيما يلي إعدادات الخادم يدوياً المطلوبة:
+إذا كنت تريد إضافة الحساب Outlook.com إلى تطبيق البريد الإلكتروني الذي يدعم POP أو IMAP، فيما يلي إعدادات الخادم المطلوبة:
   
-- **اسم ملقم IMAP:** outlook.office365.com 
-- **المنفذ IMAP:** 993   
-- **أسلوب التشفير IMAP:** TLS   
+- **اسم ملقم IMAP:** outlook.office365.com
+- **المنفذ IMAP:** 993
+- **أسلوب التشفير IMAP:** TLS
 - **اسم خادم POP:** outlook.office365.com  
 - **المنفذ POP:** 995  
 - **POP أسلوب التشفير:** TLS  
-- **اسم خادم SMTP:** smtp.office365.com 
-- **منفذ SMTP:** 587 
-- **أسلوب التشفير SMTP:** STARTTLS 
+- **اسم خادم SMTP:** smtp.office365.com
+- **منفذ SMTP:** 587
+- **أسلوب التشفير SMTP:** STARTTLS
 
-اقرأ المزيد حول [إعدادات POP و IMAP، و SMTP ل Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001402&amp;clcid=0x409).
+مزيد من المعلومات حول [إضافة حسابك Outlook.com إلى آخر البريد التطبيق أو جهاز ذكي](https://support.office.com/article/73f3b178-0009-41ae-aab1-87b80fa94970).

@@ -8,25 +8,27 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000240
-ms.openlocfilehash: b9bac51c32cecf6f4c5f86a4dd1be55225f8ef1d
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1825"
+- "9000240"
+ms.openlocfilehash: b485432de902929685fec85a64951599bbbeff20
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392332"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35372536"
 ---
 # <a name="replying-in-outlookcom"></a>الرد في Outlook.com
 
 للرد على رسالة واحدة في كل مرة:
 
-1. في قائمة الرسائل الخاصة بك، اختر الرسالة التي تريد إعادة توجيهها.
+1. في قائمة الرسائل الخاصة بك، اختر الرسالة التي تريد الرد عليها.
 2. في الجزء العلوي الأيسر من جزء الرسالة، حدد السهم **الرد** أو **الرد كافة** الأسهم.
 3. اكتب الرسالة، ثم حدد **إرسال**.
 
 للرد على كافة الرسائل تلقائياً:
 
-1. فتح [إعدادات الردود التلقائية](https://outlook.live.com/mail/options/mail/automaticReplies/automaticRepliesOption).
+1. اذهب إلى **الإعدادات** > **عرض كافة إعدادات Outlook** > **البريد** > **الردود التلقائية** لفتح [إعدادات الردود التلقائية](https://outlook.live.com/mail/options/mail/automaticReplies).
 2. حدد تبديل **تشغيل الردود التلقائية** .
 3. يمكنك تحديد خانة الاختيار **إرسال الردود فقط خلال فترة زمنية** من:
     - إرسال ردود فقط عندما تختار. في حالة عدم تعيين فترة زمنية، يبقى الرد التلقائي على حتى يمكنك إيقاف تشغيله.

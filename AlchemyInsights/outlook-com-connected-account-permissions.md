@@ -8,19 +8,21 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 8000093
-ms.openlocfilehash: 9bd711a5780129ac643ec9bf0000adf69ae2153b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1431"
+- "8000093"
+ms.openlocfilehash: da2e08be499afff97fd0f0cf3cf4f1993cb6dba4
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417916"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35375776"
 ---
 # <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>كيفية إصلاح "يبدو أنه ليس لدينا إذن"
 
 إذا رأيت رسالة الإعلام بالخطأ "يبدو أنه ليس لدينا إذن للحصول على البريد الإلكتروني ل..." الرجاء قم بما يلي:
 
-1. فتح [إعدادات "الحساب متصل"](https://outlook.live.com/mail/options/mail/accounts) وإزالة أو حذف الحساب المتصل المدرجة في الخطأ. 
+1. فتح [إعدادات "الحساب متصل"](https://outlook.live.com/mail/options/mail/accounts) وإزالة أو حذف الحساب المتصل المدرجة في الخطأ.
 2. إضافة حساب متصل مرة أخرى.
 3. انتقل [إلى علبة البريد الخاصة بك](https://outlook.live.com/mail/inbox).
 
