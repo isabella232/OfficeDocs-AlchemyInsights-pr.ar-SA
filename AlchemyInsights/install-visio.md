@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: ed36ddd74a4d8a92b1743fe75574993e7de2e193
-ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.openlocfilehash: 5d4ee6859fef7cd91630e12eab5a5c7206c13dde
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34914094"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35381860"
 ---
 # <a name="install-visio"></a>تثبيت Visio
 
 يتم بيع Visio كتطبيق مستقل حتى إذا لم يتم ذلك حتى الآن، و [شراء أو محاولة Visio](https://products.office.com/visio). 
 
-إذا كان لديك اشتراك في Visio 2 التخطيط عبر الإنترنت، لن يشاهد المستخدمون خيار تثبيت Visio من **التثبيتات الخاصة بي** في [موقع الحساب الخاص بي](https://portal.office.com/account#installs) إلا إذا كان لديك [تعيين ترخيص لك](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764).
-
 **ملاحظة**: لا تتضمن الخطة عبر الإنترنت Visio 1 إصدار سطح مكتب ل Visio، حيث يتوفر أي تثبيت.
 
-للحصول على إرشادات معينة حول تحميل وتثبيت Visio، راجع [تثبيت Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764). 
+إذا كان لديك اشتراك في Visio 2 التخطيط عبر الإنترنت، يجب عليك [تعيين ترخيص](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) إلى مستخدم أو لن يكون خيار تثبيت Visio من **التثبيتات الخاصة بي** في [موقع الحساب الخاص بي](https://portal.office.com/account#installs). 
 
-إذا كان لديك ترخيص صالح لاستخدام اشتراك/ووقوع مشاكل أثناء الإعداد، حاول تثبيت Visio استخدام [مساعد الاسترداد والدعم](https://aka.ms/SaRA-VisioSetupScenario).
+عدم ترخيص إصدارات Visio القياسية أو Visio Professional مقترنة بحسابات Microsoft ولا يمكن أن تدار في مركز الإدارة. لتثبيت هذه الإصدارات، يجب تسجيل المستخدمين الدخول إلى [account.microsoft.com](https://account.microsoft.com) باستخدام حساب Microsoft المقترنة بهذا الإصدار من Visio.
+
+للحصول على تعليمات أكثر تفصيلاً راجع [تثبيت Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) ، ثم اتبع الخطوات للإصدار الخاص بك من Visio.
 
 لمزيد من المعلومات، راجع:<br>
 [دليل النشر ل Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
