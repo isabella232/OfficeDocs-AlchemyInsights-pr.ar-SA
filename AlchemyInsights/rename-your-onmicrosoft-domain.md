@@ -9,19 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "16"
+- "1000015"
 ms.assetid: ae399389-f176-4a0c-8b9d-4d6605059914
-ms.openlocfilehash: 2b4a48dd7bc813484f3377b9fccc86d6690191d6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: d3f055387c81ecce3ed5a6e4dc45cd85f5a80824
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32371141"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35370121"
 ---
-# <a name="rename-your-onmicrosoftcom-domain"></a><span data-ttu-id="70321-102">إعادة تسمية المجال onmicrosoft.com</span><span class="sxs-lookup"><span data-stu-id="70321-102">Rename your onmicrosoft.com domain</span></span>
+# <a name="rename-your-onmicrosoftcom-domain"></a><span data-ttu-id="ee369-102">إعادة تسمية المجال onmicrosoft.com</span><span class="sxs-lookup"><span data-stu-id="ee369-102">Rename your onmicrosoft.com domain</span></span>
 
- <span data-ttu-id="70321-103">**لا يمكنك إعادة تسمية المجال أونميكروسوفت بعد التسجيل.**</span><span class="sxs-lookup"><span data-stu-id="70321-103">**You can't rename the onmicrosoft domain after sign-up.**</span></span> <span data-ttu-id="70321-104">على سبيل المثال، إذا كان المجال الأولى التي اخترتها *fourthcoffee.onmicrosoft.com* ، لا يمكنك تغيير أن يكون *fabrikam.onmicrosoft.com* .</span><span class="sxs-lookup"><span data-stu-id="70321-104">For example, if the initial domain you chose was  *fourthcoffee.onmicrosoft.com*  , you can't change it to be  *fabrikam.onmicrosoft.com*  .</span></span> <span data-ttu-id="70321-105">لاستخدام مجال onmicrosoft.com مختلفة، يجب عليك بدء تشغيل اشتراك جديد مع Office 365.</span><span class="sxs-lookup"><span data-stu-id="70321-105">To use a different onmicrosoft.com domain, you'd have to start a new subscription with Office 365.</span></span> 
+ <span data-ttu-id="ee369-103">**لا يمكنك إعادة تسمية المجال أونميكروسوفت بعد التسجيل.**</span><span class="sxs-lookup"><span data-stu-id="ee369-103">**You can't rename the onmicrosoft domain after sign-up.**</span></span> <span data-ttu-id="ee369-104">على سبيل المثال، إذا كان المجال الأولى التي اخترتها *fourthcoffee.onmicrosoft.com* ، لا يمكنك تغيير أن يكون *fabrikam.onmicrosoft.com* .</span><span class="sxs-lookup"><span data-stu-id="ee369-104">For example, if the initial domain you chose was  *fourthcoffee.onmicrosoft.com*  , you can't change it to be  *fabrikam.onmicrosoft.com*  .</span></span> <span data-ttu-id="ee369-105">لاستخدام مجال onmicrosoft.com مختلفة، يجب عليك بدء تشغيل اشتراك جديد مع Office 365.</span><span class="sxs-lookup"><span data-stu-id="ee369-105">To use a different onmicrosoft.com domain, you'd have to start a new subscription with Office 365.</span></span>
   
-<span data-ttu-id="70321-106">إذا كنت تريد استخدام مجال مخصص مثل *contoso.com* ، يمكنك [إضافة](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611) واحدة تملكها أو [شرائه من Microsoft](https://support.office.com/article/1561140a-16a9-4a02-822d-a989250e479d).</span><span class="sxs-lookup"><span data-stu-id="70321-106">If you want to use a custom domain like  *contoso.com*  , you can [add one you own](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611) or [buy one from Microsoft](https://support.office.com/article/1561140a-16a9-4a02-822d-a989250e479d).</span></span>
+<span data-ttu-id="ee369-106">إذا كنت تريد استخدام مجال مخصص مثل *contoso.com* ، يمكنك [إضافة](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611) واحدة تملكها أو [شرائه من Microsoft](https://support.office.com/article/1561140a-16a9-4a02-822d-a989250e479d).</span><span class="sxs-lookup"><span data-stu-id="ee369-106">If you want to use a custom domain like  *contoso.com*  , you can [add one you own](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611) or [buy one from Microsoft](https://support.office.com/article/1561140a-16a9-4a02-822d-a989250e479d).</span></span>
   
-
