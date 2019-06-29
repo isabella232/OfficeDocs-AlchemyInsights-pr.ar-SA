@@ -6,18 +6,21 @@ manager: joallard
 ms.date: 4/15/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 8000081
+ms.custom:
+- "1328"
+- "8000081"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: d3e94779ebbc6d7e6b1ba1d3f445e6f34f2274e1
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7f2ee8a5b8a027433d3ecf150ab9f7bd8bdcba47
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32418996"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35375236"
 ---
 # <a name="error-550553-in-outlookcom"></a>خطأ 550/553 في Outlook.com
 
 عندما تكون بعيداً عن المنزل وإرسال رسالة بريد إلكتروني من الحساب المتصل باستخدام Outlook.com، قد يتم إرجاع رسالة البريد الإلكتروني مع رسالة الخطأ يحظر ترحيل أو 553 550.
-1. تحقق من [إعدادات مزامنة البريد الإلكتروني](https://go.microsoft.com/fwlink/?linkid=2031283) الخاص بك للتأكد من العنوان الافتراضي هو نفس اسم مجال البريد الإلكتروني الخاص بك. إذا كان لديك مجال البريد الإلكتروني الخاص بك تضمين، تغيير عنوان outlook.com/live.com/hotmail.com الخاص بك.
-2. التحقق الخاص بك [متصل إعدادات الحساب](https://go.microsoft.com/fwlink/?linkid=875264&clcid=0x409) للتأكد من توفر تمكين المصادقة.
+
+1. التحقق من [إعدادات المزامنة البريد الإلكتروني](https://go.microsoft.com/fwlink/?linkid=2031283) في **إعدادات** > **عرض كافة إعدادات Outlook** > **البريد** > **البريد الإلكتروني المزامنة**.
+1. تأكد من العنوان الافتراضي هو نفس اسم مجال البريد الإلكتروني الخاص بك. إذا كان لديك مجال البريد الإلكتروني الخاص بك تضمين، تغيير على outlook.com أو live.com، أو عنوان hotmail.com.

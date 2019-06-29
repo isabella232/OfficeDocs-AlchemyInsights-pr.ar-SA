@@ -8,19 +8,21 @@ ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 9000233
-ms.openlocfilehash: af81ead91c865d2b36ea20476b91c51e36452690
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1817"
+- "9000233"
+ms.openlocfilehash: 4a3813c9c926e7a6b9106703204dae644b06b84a
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32392328"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35373436"
 ---
 # <a name="change-your-pin"></a>تغيير رقم التعريف الشخصي
 
 Outlook.com لا تستخدم PIN، ولكن قد يمكنك تسجيل الدخول إلى جهاز الكمبيوتر الخاص بك مع طرف أو Windows مرحبا. لتغيير رقم PIN الخاص بك في Windows 10:
 
-1. الانتقال إلى البدء، ثم حدد **إعدادات** > **حسابات** > **خيارات تسجيل الدخول**.
+1. حدد الزر ابدأ أو اضغط على مفتاح Windows على لوحة المفاتيح، ثم حدد **إعدادات** > **حسابات** > **خيارات تسجيل الدخول**.
 2. حدد الزر " **تغيير** " تحت **رقم PIN**.
 3. أدخل رقم التعريف الشخصي الحالي، ثم أدخل وتأكيد PIN الجديد تحته.
 

@@ -9,23 +9,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 8000001
+ms.custom:
+- "989"
+- "8000001"
+- "8000059"
 ms.assetid: 7d169f0f-828b-4d2a-b60b-ec9297df2c59
-ms.openlocfilehash: b508cc597219789965f7ece26e55b0c1149a02dc
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 0dfc14e382705c4960b565313112c14d45e5a29c
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389635"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35366628"
 ---
 # <a name="turn-off-focused-inbox"></a>إيقاف "تركز علبة الوارد"
 
 1. حدد **إعدادات** \> **تركز علبة الوارد**.  
-    
-2. ضمن **عند تلقي البريد الإلكتروني**، حدد **عدم فرز الرسائل**.
-    
-3. حدد **"موافق"**.
-    
-لمزيد من المعلومات، راجع [تركز الوارد ل Outlook](https://go.microsoft.com/fwlink/p/?linkid=873108).
-  
 
+2. ضمن **عند تلقي البريد الإلكتروني**، حدد **عدم فرز الرسائل**.
+
+3. حدد **"موافق"**.
+
+لمزيد من المعلومات، راجع [تركز الوارد ل Outlook](https://go.microsoft.com/fwlink/p/?linkid=873108).
