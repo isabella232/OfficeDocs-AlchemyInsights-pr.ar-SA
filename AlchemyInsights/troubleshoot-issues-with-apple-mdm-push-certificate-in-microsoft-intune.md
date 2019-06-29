@@ -9,21 +9,22 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 2259d916-4d6d-40cf-83d0-c4b81eb3ab35
-ms.openlocfilehash: b11feec336371a19c09217d1ee88dc1cef01f9d8
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "782"
+- "6200002"
+ms.openlocfilehash: 211069337b8fb671d2da6d1bf364bd4b8a02cf36
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420327"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35353776"
 ---
 # <a name="troubleshoot-issues-with-apple-mdm-push-certificate-in-microsoft-intune"></a>استكشاف أخطاء وإصلاحها باستخدام "شهادة دفع أطباء العالم التفاح" في Microsoft إينتوني
 
-مراجعة الموارد المذكورة أدناه لحل المشكلة التي تواجهها الآن. 
+مراجعة الموارد المذكورة أدناه لحل المشكلة التي تواجهها الآن.
   
-1. مراجعة [هذا المستند](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) لتكوين أو تجديد شهادة دفع "أبل أطباء العالم". 
-    
-2. استخدام [إينتوني مدخل استكشاف الأخطاء وإصلاحها](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) لتشخيص وحل فشل التسجيل الشائعة. مراجعة [هذا المستند](https://docs.microsoft.com/intune/help-desk-operators) للحصول على مزيد من التفاصيل. 
-    
-3. مراجعة هذه الوثائق للحصول على قائمة أخطاء الشائعة التي تمنع التسجيل والحلول لكل: [دليل استكشاف الأخطاء وإصلاحها](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) و [مستند استكشاف الأخطاء وإصلاحها](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).
-    
+1. مراجعة [هذا المستند](https://docs.microsoft.com/intune/apple-mdm-push-certificate-get) لتكوين أو تجديد شهادة دفع "أبل أطباء العالم".
 
+2. استخدام [إينتوني مدخل استكشاف الأخطاء وإصلاحها](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) لتشخيص وحل فشل التسجيل الشائعة. مراجعة [هذا المستند](https://docs.microsoft.com/intune/help-desk-operators) للحصول على مزيد من التفاصيل.
+
+3. مراجعة هذه الوثائق للحصول على قائمة أخطاء الشائعة التي تمنع التسجيل والحلول لكل: [دليل استكشاف الأخطاء وإصلاحها](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) و [مستند استكشاف الأخطاء وإصلاحها](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune).

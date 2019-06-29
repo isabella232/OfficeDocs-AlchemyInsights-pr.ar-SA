@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1800"
 - "9000201"
-ms.openlocfilehash: 9a516f6ca1fa351f8484271da0bdc47ba7f12447
-ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.openlocfilehash: f74846f805789731305fa321799007c151309033
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34883148"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35358888"
 ---
 # <a name="activate-visio"></a>تنشيط Visio
 
@@ -27,8 +27,8 @@ ms.locfileid: "34883148"
 
 لتنشيط Visio:
 
-1. [تثبيت Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800) إذا لم يكن مثبتاً بالفعل.
-2. عند اكتمال التثبيت، يمكنك فتح Visio. في كثير من الحالات التطبيق ينشط تلقائياً ويمكنك البدء في استخدام Visio على الفور. إذا تمت مطالبتك بتسجيل الدخول، تأكد من تسجيل الدخول باستخدام نفس العمل أو المدرسة الحساب الذي تم تعيين ترخيص Visio. 
+1. تثبيت Visio من [بلادي بوابة الحساب](https://portal.office.com/account#installs) الخاص بك إذا لم يكن مثبتاً بالفعل. للحصول على تعليمات راجع [تثبيت Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1800).
+2. عند اكتمال التثبيت، يمكنك فتح التطبيق Visio. من المحتمل أن تنشيط Visio تلقائياً وبدء استخدامه بطريقة صحيحة. إذا لم يكن كذلك، قد يتم مطالبتك بتسجيل الدخول. تأكد من تسجيل الدخول باستخدام نفس العمل أو المدرسة الحساب الذي تم تعيين ترخيص Visio. اتبع المطالبات لمتابعة عملية التنشيط. 
 
 للمشاكل المتعلقة بالتنشيط، تشغيل [مستكشف أخطاء التنشيط](https://aka.ms/SARA-OfficeActivation-Alchemy) على الكمبيوتر المتأثر.
 

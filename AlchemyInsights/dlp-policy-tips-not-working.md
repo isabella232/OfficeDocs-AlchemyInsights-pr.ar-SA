@@ -1,33 +1,35 @@
 ---
 title: تلميحات نهج DLP لا يعمل
-ms.author: cmcatee
-author: cmcatee-MSFT
-manager: mnirkhe
+ms.author: deniseb
+author: denisebmsft
+manager: laurawims
 ms.date: 11/7/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
-ms.openlocfilehash: cddc790c7ad64cb917fb91df9fcdb60fd22bb306
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "1428"
+- "3200001"
+ms.openlocfilehash: 9b3981964b66eb1c8083a3acf5ca31be3c8157fe
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32399164"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35389492"
 ---
 # <a name="dlp-policy-tip-issues"></a>مشكلات تلميح نهج DLP
 
-عند استخدام **نهج DLP**، يمكنك إعلام المستخدمين انتهاك النهج مع **نهج نصائح**. إدارة تكوين نهج تلميحات لعرض أثناء اختبار نهج DLP بها أو عندما يكون النهج في وضع الإنفاذ الكامل. 
+عند استخدام **نهج DLP**، يمكنك إعلام المستخدمين انتهاك النهج مع **نهج نصائح**. إدارة تكوين نهج تلميحات لعرض أثناء اختبار نهج DLP بها أو عندما يكون النهج في وضع الإنفاذ الكامل.
   
 لتكوين نهج نصائح حول النهج DLP في مركز الأمان والتوافق في وضع الإنفاذ الكامل، قم بما يلي:
   
 - ضمان تلميحات نهج تم **تمكين** على القاعدة DLP استخدام الخطوات [هنا](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
-    
+
 - ضمان الخاص بك **يطابق محتوى** ما هو **مطلوب** لتشغيل القاعدة الموضحة في هذه المقالة [هنا](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
-    
+
 - عرض تلميحات النهج في كل من OWA و Outlook. على الرغم من ذلك، عند استخدام **Outlook 2013 أو الإصدار الأحدث**، يتم عرض تلميحات نهج فقط تحت شروط معينة. يتم هنا سرد هذه الشروط: [الشروط المعتمدة ل Outlook 2013 أو أحدث لعرض "تلميحات نهج"](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips#outlook-2013-and-later-supports-showing-policy-tips-for-only-some-conditions)
-    
+
 لمزيد من المعلومات حول نصائح نهج DLP، راجع: [إظهار تلميحات نهج لسياسات DLP](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
   
-
