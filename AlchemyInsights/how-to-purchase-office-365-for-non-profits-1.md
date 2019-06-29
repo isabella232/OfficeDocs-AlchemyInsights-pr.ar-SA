@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "340"
+- "1500010"
 ms.assetid: 870f4834-a10c-49cd-ac5f-ccb1f0a9215f
-ms.openlocfilehash: d1207f4fa2917f5d3dde3dea850fdd7ee0f05e50
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 21e5ff7bc5d4a8d88c1d99a52e89998867c20374
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32417127"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35383732"
 ---
 # <a name="how-to-purchase-office-365-for-non-profits"></a>كيفية شراء Office 365 لعدم الربحية
 
 تمت الموافقة على وضعك كمنظمة غير ربحية مؤهل Microsoft. شراء:
   
 1. في مركز الإدارة، انتقل إلى صفحة [خدمات الشراء](https://go.microsoft.com/fwlink/p/?linkid=868433) ، أو اختر **الفواتير** \> **خدمات الشراء**.
-    
-2. اختر من القائمة ضمن **خطط دون الأرباح**.
-    
-3. قف فوق الاشتراك الذي تريد شراء، واختيار **شراء الآن**.
-    
 
+2. اختر من القائمة ضمن **خطط دون الأرباح**.
+
+3. قف فوق الاشتراك الذي تريد شراء، واختيار **شراء الآن**.

@@ -3,23 +3,25 @@ title: لا يمكن تلقي Outlook.com رموز التحقق
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/24/2019
+ms.date: 6/5/2019
 ms.audience: Admin
 ms.topic: article
-ms.custom: 8000060
+ms.custom:
+- "1005"
+- "8000060"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 0528d95d00eeed816fee15c6b1e8c791a7e76a2d
-ms.sourcegitcommit: 70551369a9799b25f042f20a4de88a8d33666037
+ms.openlocfilehash: 9ade368e32f89493d922b9a7285726f9d249d53b
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/25/2019
-ms.locfileid: "33299311"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35376676"
 ---
-# <a name="if-you-cant-get-verification-codes"></a>إذا كان لا يمكنك الحصول على رموز التحقق
+# <a name="cant-get-verification-codes"></a>لا يمكن الحصول على رموز التحقق
 
-إذا كان لا يمكنك الوصول إلى البريد الإلكتروني البديل الخاص بك أو رقم الهاتف، انتقل [أساسيات الأمان](https://account.microsoft.com/security)، حدد **ليس لدى أي منها**، ثم اتبع الإرشادات لاستبدال معلومات الأمان الخاصة بك.
+إذا كان لا يمكنك الوصول إلى البريد الإلكتروني البديل الخاص بك أو رقم الهاتف، انتقل إلى صفحة [أساسيات أمان](https://account.microsoft.com/security) Microsoft الحساب، حدد **ليس لدى أي منها** على صفحة تسجيل الدخول واتبع الإرشادات لاستبدال معلومات الأمان الخاصة بك.
 
-لاحظ أن [التطبيق Microsoft مصدق](https://go.microsoft.com/fwlink/?linkid=2016117) لا تتطلب اتصال بإنترنت تزويدك برمز تحقق.
+*ملاحظة:* لا يتطلب [التطبيق Microsoft المصادق](https://go.microsoft.com/fwlink/?linkid=2016117) لتزويدك برمز تحقق من اتصال بإنترنت.
 
-اقرأ المزيد حول [رموز الأمان & معلومات الأمان](https://support.microsoft.com/help/12428/).
+لمعرفة المزيد، اقرأ [Microsoft أمان المعلومات والتحقق من صحة أرقام الحسابات](https://support.microsoft.com/help/12428/).

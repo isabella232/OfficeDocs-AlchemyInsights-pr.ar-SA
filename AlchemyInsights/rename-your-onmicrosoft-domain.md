@@ -9,19 +9,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: ''
+ms.custom:
+- "16"
+- "1000015"
 ms.assetid: ae399389-f176-4a0c-8b9d-4d6605059914
-ms.openlocfilehash: 2b4a48dd7bc813484f3377b9fccc86d6690191d6
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: d3f055387c81ecce3ed5a6e4dc45cd85f5a80824
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32371141"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35370121"
 ---
 # <a name="rename-your-onmicrosoftcom-domain"></a>إعادة تسمية المجال onmicrosoft.com
 
- **لا يمكنك إعادة تسمية المجال أونميكروسوفت بعد التسجيل.** على سبيل المثال، إذا كان المجال الأولى التي اخترتها *fourthcoffee.onmicrosoft.com* ، لا يمكنك تغيير أن يكون *fabrikam.onmicrosoft.com* . لاستخدام مجال onmicrosoft.com مختلفة، يجب عليك بدء تشغيل اشتراك جديد مع Office 365. 
+ **لا يمكنك إعادة تسمية المجال أونميكروسوفت بعد التسجيل.** على سبيل المثال، إذا كان المجال الأولى التي اخترتها *fourthcoffee.onmicrosoft.com* ، لا يمكنك تغيير أن يكون *fabrikam.onmicrosoft.com* . لاستخدام مجال onmicrosoft.com مختلفة، يجب عليك بدء تشغيل اشتراك جديد مع Office 365.
   
 إذا كنت تريد استخدام مجال مخصص مثل *contoso.com* ، يمكنك [إضافة](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611) واحدة تملكها أو [شرائه من Microsoft](https://support.office.com/article/1561140a-16a9-4a02-822d-a989250e479d).
   
-
