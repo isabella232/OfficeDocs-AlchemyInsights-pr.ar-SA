@@ -9,23 +9,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 5d32afde-47ab-4b1e-a669-662e5dbdc213
-ms.openlocfilehash: cfbf75b5278e04a3063d97210dee4497e4499421
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.custom:
+- "783"
+- "6200002"
+ms.openlocfilehash: 3df961859cc1e3394ed0e8d779718823ae446d37
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32391317"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35353632"
 ---
 # <a name="troubleshoot-issues-with-dep-enrollment-in-microsoft-intune"></a>استكشاف مشكلات تسجيل ميزة في Microsoft إينتوني
 
-مراجعة الموارد المذكورة أدناه لحل المشكلة التي تواجهها الآن. 
+مراجعة الموارد المذكورة أدناه لحل المشكلة التي تواجهها الآن.
   
 1. إذا كان الجهاز ميزة غير قادر على تسجيل وترتيب المنسوجات المتعددة الألياف (مصادقة متعددة العوامل) ممكناً، الرجاء تعطيل وزارة الخارجية. لا يتم حاليا دعم وزارة الخارجية للتسجيل DEP
-    
-2. استخدام [إينتوني مدخل استكشاف الأخطاء وإصلاحها](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) لتشخيص وحل فشل التسجيل الشائعة. مراجعة [هذا المستند](https://docs.microsoft.com/intune/help-desk-operators) للحصول على مزيد من التفاصيل. 
-    
-3. مراجعة هذه الوثائق للحصول على قائمة أخطاء الشائعة التي تمنع التسجيل والحلول لكل: [دليل استكشاف الأخطاء وإصلاحها](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) و [مستند استكشاف الأخطاء وإصلاحها](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)
-    
-4. [تعلم المزيد حول برنامج تسجيل الجهاز](https://docs.microsoft.com/intune/device-enrollment-program-enroll-ios).
-    
 
+2. استخدام [إينتوني مدخل استكشاف الأخطاء وإصلاحها](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) لتشخيص وحل فشل التسجيل الشائعة. مراجعة [هذا المستند](https://docs.microsoft.com/intune/help-desk-operators) للحصول على مزيد من التفاصيل.
+
+3. مراجعة هذه الوثائق للحصول على قائمة أخطاء الشائعة التي تمنع التسجيل والحلول لكل: [دليل استكشاف الأخطاء وإصلاحها](https://support.microsoft.com/help/4039809/troubleshooting-ios-device-enrollment-in-intune) و [مستند استكشاف الأخطاء وإصلاحها](https://docs.microsoft.com/intune-classic/troubleshoot/troubleshoot-device-enrollment-in-intune)
+
+4. [تعلم المزيد حول برنامج تسجيل الجهاز](https://docs.microsoft.com/intune/device-enrollment-program-enroll-ios).

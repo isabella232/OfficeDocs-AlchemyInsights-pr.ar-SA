@@ -8,14 +8,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 929
+ms.custom:
+- "929"
+- "1800021"
 ms.assetid: 9733ef4e-db8d-4345-a072-c251480875a1
-ms.openlocfilehash: e016a502a8e23ec8beff4b448a454c66eda6969c
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 6cf996e6d0a2698a5ce2bb57251de7c61d248d2a
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34751940"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35382652"
 ---
 # <a name="mail-flow-rules-also-known-as-transport-rules"></a>قواعد تدفق البريد (تعرف أيضا باسم قواعد النقل)
 
@@ -27,4 +29,4 @@ ms.locfileid: "34751940"
 
 يمكنك أيضا إدارة قواعد تدفق البريد في Exchange PowerShell عبر الإنترنت. لمزيد من المعلومات، راجع [الحصول على ترانسبورترولي](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrule) (عرض)، [ترانسبورترولي جديد](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/new-transportrule) (إنشاء)، [إزالة ترانسبورترولي](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/remove-transportrule) (حذف)، و [مجموعة ترانسبورترولي](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/set-transportrule) (تعديل القائمة)، [ترانسبورترولي تعطيل](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/disable-transportrule) (تعطيل القائمة)، و [تمكين ترانسبورترولي](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/enable-transportrule) (تمكين القائمة).
 
-Cmdlets القاعدة تدفق بريد إضافية: [الحصول على ترانسبورتروليكشن](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportruleaction) (قائمة الإجراءات المتاحة) و [الحصول على ترانسبورتروليبريديكاتي](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrulepredicate) (قائمة الشروط المتاحة والاستثناءات)، [ترانسبورتروليكولكشن التصدير](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/export-transportrulecollection) (قواعد التصدير) و [ استيراد ترانسبورتروليكولكتيون](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/import-transportrulecollection) (استيراد القواعد).
+Cmdlets القاعدة تدفق بريد إضافية: [الحصول على ترانسبورتروليكشن](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportruleaction) (قائمة الإجراءات المتاحة) و [الحصول على ترانسبورتروليبريديكاتي](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/get-transportrulepredicate) (قائمة الشروط المتاحة والاستثناءات)، [ترانسبورتروليكولكشن التصدير](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/export-transportrulecollection) (قواعد التصدير) و [ استيراد ترانسبورتروليكولكشن](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance/import-transportrulecollection) (استيراد القواعد).

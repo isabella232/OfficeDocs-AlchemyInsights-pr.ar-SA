@@ -3,22 +3,22 @@ title: استرداد حذف البريد الإلكتروني في Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/20/2019
+ms.date: 6/20/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
-- "8000011"
 - "261"
+- "8000011"
 ms.assetid: 650b8923-48de-494a-88e4-aa3a4be8e4bc
-ms.openlocfilehash: 0358076426c535ab373f6907eb775e6d69ae3ea4
-ms.sourcegitcommit: 20a3cfa10114176f8997fd151e83d167a81945e4
+ms.openlocfilehash: 116ba085b87c75eab3235a66e33aefdd93896f60
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/20/2019
-ms.locfileid: "34325549"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35372860"
 ---
 # <a name="recover-deleted-email"></a>استرداد حذف البريد الإلكتروني
 
@@ -32,4 +32,4 @@ ms.locfileid: "34325549"
 - إذا لم يتم تسجيل الدخول إلى الحساب الخاص بك لمدة 365 يوما، سيتم حذف البريد الإلكتروني الخاص بك ولا يمكن استردادها.
 - من غير المحتمل لاسترداد البريد الإلكتروني المحذوفة من الحسابات التابعة.
 
-لمزيد من المعلومات، راجع [استعادة حذف رسائل البريد الإلكتروني في Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873117).
+لمزيد من المعلومات، راجع [استعادة حذف رسائل البريد الإلكتروني في Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).

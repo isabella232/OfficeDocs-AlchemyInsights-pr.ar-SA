@@ -9,16 +9,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
-- "8000069"
 - "1142"
-ms.openlocfilehash: 7ce49d7348001f45b09e6a3cefa5329b9912e9ca
-ms.sourcegitcommit: 65e270e6aaa58294d1e866a66cac787da22e8d13
+- "8000069"
+ms.openlocfilehash: 4651b6ad5cb551c86692ba338bcf5d6d018b20b5
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/11/2019
-ms.locfileid: "34820207"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35376964"
 ---
-# <a name="bloquear-o-desbloquear-remitentes-en-outlookcom"></a>بلوكوير س ديسبلوكوير ريميتينتيس en Outlook.com
+# <a name="bloquear-o-desbloquear-remitentes-en-outlookcom"></a>بلوكويار س ديسبلوكويار ريميتينتيس en Outlook.com
 
 يمكن بلوكوير لوس رسائل دي لاس ديريكسيونيس دي correo الإلكترونية específica o التقاليد ليجو على غرار بانديا دي انترادا. كواندو مضيفاً أونا المديرية de correo الإلكترونية س الأمم المتحدة التقاليد على غرار بلوكويدوس ريميتينتيس de Outlook.com موفي automáticamente لوس رسائل دي الموسع ريميتينتي على غرار الإلكترونية correo كاربيتا لا ديسيدو.
 

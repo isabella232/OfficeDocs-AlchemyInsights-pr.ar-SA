@@ -7,13 +7,16 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
+ms.custom:
+- "322"
+- "3100011"
 ms.assetid: 14d30092-8cf5-4fe6-a2a3-8a337e96cb1c
-ms.openlocfilehash: 590dd3d603cfe6581b7dac752ea82df1eab2a141
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: a13f24e9f9a984eb6c45a84e6f46176413f08f5c
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32409795"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35381536"
 ---
 # <a name="ios-provisioning-profiles"></a>دائرة الرقابة الداخلية "في توفير ملفات تعريف"
 
@@ -21,4 +24,3 @@ ms.locfileid: "32409795"
   
 المقالة التالية توضح كيفية إنشاء اقتران الجديدة توفير ملف التعريف مع دائرة الرقابة الداخلية التطبيق LOB موزعين على إينتوني: [استخدام دائرة الرقابة الداخلية التطبيق توفير ملفات تعريف لمنع التطبيقات صلاحية](https://docs.microsoft.com/intune/app-provisioning-profile-ios)
   
-

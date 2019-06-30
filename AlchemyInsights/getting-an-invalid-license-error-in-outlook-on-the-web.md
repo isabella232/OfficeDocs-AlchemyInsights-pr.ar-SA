@@ -9,23 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 125
+ms.custom:
+- "125"
+- "1600021"
 ms.assetid: 6d9947d9-6c92-4ada-b655-8ab2a0c2b66d
-ms.openlocfilehash: 87b682599fcedb1fb35a3c612de968c5aca9630b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 62ddd64bf9e12c0b2acd35dfb09d301ab99cfa8a
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32400668"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35386612"
 ---
 # <a name="getting-an-invalid-license-error-in-outlook-on-the-web"></a>رسالة خطأ ترخيص غير صالح في Outlook على الويب؟
 
 إذا كنت تستخدم Outlook على الويب وتحصل خطأ **حدث خطأ** يحتوي على **س OWA خطأ: Microsoft.Exchange.Data.Storage.InvalidLicenseException**، ترخيص Exchange عبر الإنترنت الخاص بك لم يتم تعيينها بشكل صحيح أو مؤخرا انتهت مدة صلاحية. مسئول تعيين ترخيص لك باتباع الخطوات التالية:
   
 1. فتح [مركز مسؤول Microsoft 365](https://portal.office.com/adminportal/home#/homepage) وتحت **مستخدم نشط**، حدد **تحرير مستخدم**.
-    
-2. في الصفحة **تحرير مستخدم** الذي يفتح، حدد المستخدم. في صفحة خصائص المستخدم الذي يتم فتحه، انقر فوق **تحرير** **تراخيص منتجات**.
-    
-3. في الصفحة **تراخيص المنتجات** التي تفتح، حدد قيمة **الموقع** المناسب وتعيين ترخيص يحتوي على Exchange عبر الإنترنت (توسيع الترخيص لمشاهدة التفاصيل الخاصة به). عند الانتهاء، انقر فوق **حفظ**.
-    
 
+2. في الصفحة **تحرير مستخدم** الذي يفتح، حدد المستخدم. في صفحة خصائص المستخدم الذي يتم فتحه، انقر فوق **تحرير** **تراخيص منتجات**.
+
+3. في الصفحة **تراخيص المنتجات** التي تفتح، حدد قيمة **الموقع** المناسب وتعيين ترخيص يحتوي على Exchange عبر الإنترنت (توسيع الترخيص لمشاهدة التفاصيل الخاصة به). عند الانتهاء، انقر فوق **حفظ**.
