@@ -1,5 +1,5 @@
 ---
-title: تقرير إرسال البريد الإلكتروني
+title: تقرير إعادة توجيه البريد الإلكتروني
 ms.author: pebaum
 author: pebaum
 ms.date: 9/13/2018
@@ -7,18 +7,20 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Once
+ms.custom:
+- "1195"
+- "1200004"
 ms.assetid: b8308c24-029f-43ab-af84-0ac97e6ff9d7
-ms.openlocfilehash: 0d685fa21f6d82e7a08f32bf0a8c1f6911e7782c
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.openlocfilehash: 2d78103fcf05d23e3ba966b74bbedc411264eac3
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29456437"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35388808"
 ---
-# <a name="email-forwarding-report"></a>تقرير إرسال البريد الإلكتروني
+# <a name="email-forwarding-report"></a>تقرير إعادة توجيه البريد الإلكتروني
 
-لمشاهدة تقرير على عدد رسائل إعادة التوجيه تلقائياً في المؤسسة الخاصة بك، تحقق [رؤى تدفق البريد](https://support.office.com/article/beb6acaa-6016-4d54-ba7e-3d6d035e2b46) [Office 365 الأمان &amp; مركز التوافق](https://protection.office.com/#/homepage).
+للاطلاع علي تقرير حول عدد الرسائل التي تمت إعادة توجيهها تلقائياً في مؤسستك، تحقق من [رؤى تدفق البريد الإلكتروني](https://support.office.com/article/beb6acaa-6016-4d54-ba7e-3d6d035e2b46) في [مركز توافق &amp; أمان Office 365](https://protection.office.com/#/homepage).
   
-يرجى ملاحظة: إذا كان هذا هو أول مرة تقوم بتسجيل في الأمان &amp; مركز التوافق، قد تحتاج إلى تحديث المستعرض بعد بضع دقائق لمشاهدة كافة الخيارات المتوفرة.
+ملاحظة مهمة: إذا كانت هذه هي المرة الأولى التي تقوم فيها بتسجيل الدخول إلى &amp; مركز توافق الأمان، فقد تحتاج إلى تحديث المُستعرض بعد بضع دقائق للاطلاع على كل الخيارات المتوفرة.
   
-

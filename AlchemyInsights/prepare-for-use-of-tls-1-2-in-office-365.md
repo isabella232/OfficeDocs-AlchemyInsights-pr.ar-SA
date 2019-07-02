@@ -7,20 +7,22 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Critical
+ms.custom:
+- "1266"
+- "1600052"
 ms.assetid: d5c84f5c-a3ca-4abd-8633-7e9ff01328a9
-ms.openlocfilehash: 5ce5d5b1ab7f35249d0a5f92c5a0e62f5cd72a7c
-ms.sourcegitcommit: e2864efcfb493b6e46b662b746661a61232bdba7
-ms.translationtype: MT
+ms.openlocfilehash: aade668a3eb8d99598deee86ed4fe8f402dcc35c
+ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/24/2019
-ms.locfileid: "29456081"
+ms.lasthandoff: 06/28/2019
+ms.locfileid: "35370914"
 ---
 # <a name="prepare-for-use-of-tls-12-in-office-365"></a>التحضير لاستخدام TLS 1.2 في Office 365
 
-اعتبارا من 31 تشرين الأول/أكتوبر 2018، سيستمر Office 365 الانتقال إلى TLS 1.2. وهذا يعني أن Microsoft سوف لا يحل المشاكل الجديدة التي تم العثور عليها في عملاء أو أجهزة أو خدمات الاتصال Office 365 باستخدام TLS 1.0 و 1.1. **لا يعني سيمنع Office 365 TLS 1.0 و 1.1 اتصالات.** سيتم تحديد تاريخ الإهمال في نهاية المطاف عن طريق استخدام العملاء والحالة الراهنة للأمن TLS القديمة. بعد اتخاذ قرار، سيكون هناك إعلان ستة أشهر مقدما إلا إذا أصبحنا على علم بحل وسط المعروفة، في هذه الحالة قد يتعين علينا العمل في أقل من ستة أشهر لحماية العملاء الذين يستخدمون الخدمات. 
+اعتباراً من 31 أكتوبر 2018،سيستمر Office 365 في النقل إلى TLS 1.2. يشير هذا إلى أن Microsoft لن تعمل على حل المشاكل الجديدة التي تواجه العملاء أو الأجهزة أو الخدمات المتصلة بـ Office 365 باستخدام TLS 1.0 و1.1. **لا يعني ذلك أن Office 365 ستحظر اتصالات 1.1 وTLS 1.0.** سيتم تحديد تاريخ الإهمال النهائي بناءً على استخدام العميل وحالة القدم الحالية لأمان TLS. بعد اتخاذ القرار، سيكون هناك إعلان سابق لذلك بستة أشهر إلا إذا تبين لنا وجود اختراق، في هذه الحالة قد نحتاج إلى اتخاذ إجراء في فترة أقل من ستة أشهر لحماية العملاء المستخدمين للخدمات.
   
-ينصح بشدة تحتاج أية ملقمات وعملاء الاتصال مع Office 365 لتمكين TLS 1.2 بأسرع وقت ممكن.
+يوصى بشدة لكل الخوادم والعملاء المتصلين بـ Office 365 بضرورة تمكين TLS 1.2 في أسرع وقت ممكن.
   
-لمزيد من المعلومات راجع [التحضير ل TLS 1.2 في Office 365.](https://support.microsoft.com/help/4057306/preparing-for-tls-1-2-in-office-365)
+لمزيد من المعلومات اطلع على [التحضير لاستخدام TLS 1.2 في Office 365.](https://support.microsoft.com/help/4057306/preparing-for-tls-1-2-in-office-365)
   
-
