@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1819"
 - "9000236"
-ms.openlocfilehash: e9cd0cffaae247ee2442713434c9d8bb256dba19
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 7620537310b48b34124d815d112c9544d91f5283
+ms.sourcegitcommit: 017ab30091ab205b31e62e611443e3ac5feac658
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377756"
+ms.lasthandoff: 07/10/2019
+ms.locfileid: "35614121"
 ---
 # <a name="add-your-other-email-accounts-to-outlookcom"></a>إضافة حسابات البريد الإلكتروني الأخرى إلى Outlook.com
 
@@ -32,6 +32,6 @@ ms.locfileid: "35377756"
 
 يمكنك إرسال البريد الإلكتروني من أي حساب قمت بالاتصال بالحساب الخاص بك Outlook.com. عند إنشاء رسالة بريد إلكتروني، حدد **من** ثم اختر أي عنوان البريد الإلكتروني الذي تريد استخدامه، أو [تحديث الافتراضي من عنوان](https://go.microsoft.com/fwlink/?linkid=875264).
 
-لمزيد من المعلومات، اقرأ [إضافة أخرى حسابات البريد الإلكتروني إلى Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba).
+لمزيد من المعلومات، اقرأ [إضافة أخرى حسابات البريد الإلكتروني إلى Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
 
-إذا كنت تريد إنشاء عنوان بريد إلكتروني جديد يستخدم نفس حساب Outlook.com، اقرأ [إضافة أو إزالة مستعار للبريد إلكتروني](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2).
+إذا كنت تريد إنشاء عنوان بريد إلكتروني جديد يستخدم نفس حساب Outlook.com، اقرأ [إضافة أو إزالة مستعار للبريد إلكتروني](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).
