@@ -13,17 +13,17 @@ ms.custom:
 - "154"
 - "3000003"
 ms.assetid: 84191e23-496c-495a-a2ec-28c5ae0d4c0b
-ms.openlocfilehash: b34e1b3d5e45fcebb8c2e3b8b8e37cf4a5a0ec8b
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 3c056f5c78935adcf0b64779f9632f9336080a40
+ms.sourcegitcommit: dce9cf9bb05d29f0f9bab61fe3fc25e99f0cebf1
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35370410"
+ms.lasthandoff: 07/11/2019
+ms.locfileid: "35630728"
 ---
 # <a name="set-up-a-multifunction-device-or-application-to-send-email-using-office-365"></a>إعداد أي جهاز متعدد الوظائف أو تطبيق لإرسال البريد الإلكتروني باستخدام Office 365
 
 للتعرّف على الخيارات والخطوات، اطلع على [كيفية إعداد أي جهاز متعدد الوظائف أو تطبيق لإرسال البريد الإلكتروني باستخدام Office 365](https://support.office.com/article/69f58e99-c550-4274-ad18-c805d654b4c4).
   
-**ملاحظة: **إذا كان لديك جهاز أو تطبيق توقف عن العمل مؤخراً، فالرجاء ملاحظة أننا بدأنا مؤخراً [تعطيل تشفير 3DES كما هو مخطط](https://docs.microsoft.com/office365/securitycompliance/technical-reference-details-about-encryption).  **نظام التشغيل Windows Server 2003 IIS SMTP لم يعد يعمل ويتطلب إصدار أحدث من Windows.**
-
-قد تكون الأخطاء الشائعة مشابهة لما يلي: خطأ/فشل المصادقة أو خطأ/فشل TLS أو خطأ خوارزمية التشفير أو عدم تطابق الخوارزمية أو انقطاع الاتصال.  الرجاء الاتصال بمورّد الجهاز أو التطبيق لمعرفة ما إذا كان التشفير الحديث مدعوماً أو إذا كان هناك تحديث.
+**ملاحظة: **إذا كان لديك جهاز أو تطبيق توقف عن العمل مؤخراً، فالرجاء ملاحظة أننا بدأنا مؤخراً [تعطيل تشفير 3DES كما هو مخطط](https://docs.microsoft.com/office365/securitycompliance/technical-reference-details-about-encryption). للاطلاع على الأجهزة المتأثرة، انتقل إلى [تقرير عملاء مصادقة SMTP](https://protection.office.com/mailflow/dashboard). قد تكون الأخطاء الشائعة مشابهة لما يلي: خطأ/فشل المصادقة أو خطأ/فشل TLS أو خطأ خوارزمية التشفير أو عدم تطابق الخوارزمية أو انقطاع الاتصال. لحل هذه المشكلة:
+ - **نظام التشغيل Windows Server 2003 IIS SMTP لم يعد يعمل ويتطلب إصدار أحدث من Windows.**  
+ - الرجاء الاتصال بمورّد الجهاز أو التطبيق لمعرفة ما إذا كان التشفير الحديث مدعوماً أو إذا كان هناك تحديث.
