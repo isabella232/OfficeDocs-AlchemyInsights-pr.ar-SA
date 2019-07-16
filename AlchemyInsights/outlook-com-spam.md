@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.custom:
 - "1896"
 - "9000290"
-ms.openlocfilehash: 37e37c7c810ef23182d6d31eec14b0dfa01b615e
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: ac3f7a268d69959ed1d0feb06bc0e9434ef1d2ce
+ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371996"
+ms.lasthandoff: 07/15/2019
+ms.locfileid: "35697106"
 ---
-# <a name="mark-email-messages-as-junk"></a><span data-ttu-id="46dac-102">وضع علامة للرسائل بريد إلكتروني عشوائي</span><span class="sxs-lookup"><span data-stu-id="46dac-102">Mark email messages as junk</span></span>
+# <a name="mark-email-messages-as-junk"></a><span data-ttu-id="3ec06-102">وضع علامة للرسائل بريد إلكتروني عشوائي</span><span class="sxs-lookup"><span data-stu-id="3ec06-102">Mark email messages as junk</span></span>
 
-<span data-ttu-id="46dac-103">لوضع علامة على رسالة البريد الإلكتروني العشوائي والعشوائي، حدد الرسالة في قائمة الرسائل الخاصة بك وحدد **العشوائي** > **غير المرغوب فيه**.</span><span class="sxs-lookup"><span data-stu-id="46dac-103">To mark a message as junk or spam, select the message in your message list and select **Junk** > **Junk**.</span></span>
+<span data-ttu-id="3ec06-103">لوضع علامة على رسالة البريد الإلكتروني العشوائي والعشوائي، حدد الرسالة في قائمة الرسائل الخاصة بك وحدد **العشوائي** > **غير المرغوب فيه**.</span><span class="sxs-lookup"><span data-stu-id="3ec06-103">To mark a message as junk or spam, select the message in your message list and select **Junk** > **Junk**.</span></span>
 
-<span data-ttu-id="46dac-104">لحظر كافة الرسائل المرسلة من عنوان بريد إلكتروني معين، حدد الرسالة أو الرسائل في قائمة الرسائل، ثم حدد **العشوائي** > **كتلة**.</span><span class="sxs-lookup"><span data-stu-id="46dac-104">To block all messages from a specific email address, select the message or messages in your message list and then select **Junk** > **Block**.</span></span>
+<span data-ttu-id="3ec06-104">لحظر كافة الرسائل المرسلة من عنوان بريد إلكتروني معين، حدد الرسالة أو الرسائل في قائمة الرسائل، ثم حدد **العشوائي** > **كتلة**.</span><span class="sxs-lookup"><span data-stu-id="3ec06-104">To block all messages from a specific email address, select the message or messages in your message list and then select **Junk** > **Block**.</span></span>
 
-<span data-ttu-id="46dac-105">إذا قمت بطريق الخطأ وضع علامة على رسالة كعشوائي، حدد الرسالة في [مجلد "البريد الإلكتروني غير الهام"](https://outlook.live.com/mail/junkemail) الخاص بك وحدد **لاتنتمى** > **غير عشوائي**.</span><span class="sxs-lookup"><span data-stu-id="46dac-105">If you accidentally mark a message as junk, select the message in your [Junk Email folder](https://outlook.live.com/mail/junkemail) and select **Not junk** > **Not junk**.</span></span> <span data-ttu-id="46dac-106">(*ملاحظة:* يتم حذف العناصر في مجلد "البريد الإلكتروني العشوائي" بعد 30 يوما.)</span><span class="sxs-lookup"><span data-stu-id="46dac-106">(*Note:* Items in your Junk Email folder are deleted after 30 days.)</span></span>
+<span data-ttu-id="3ec06-105">إذا قمت بطريق الخطأ وضع علامة على رسالة كعشوائي، حدد الرسالة في [مجلد "البريد الإلكتروني غير الهام"](https://outlook.live.com/mail/junkemail) الخاص بك وحدد **لاتنتمى** > **غير عشوائي**.</span><span class="sxs-lookup"><span data-stu-id="3ec06-105">If you accidentally mark a message as junk, select the message in your [Junk Email folder](https://outlook.live.com/mail/junkemail) and select **Not junk** > **Not junk**.</span></span> <span data-ttu-id="3ec06-106">(*ملاحظة:* يتم حذف العناصر في مجلد "البريد الإلكتروني العشوائي" بعد 30 يوما.)</span><span class="sxs-lookup"><span data-stu-id="3ec06-106">(*Note:* Items in your Junk Email folder are deleted after 30 days.)</span></span>
 
-<span data-ttu-id="46dac-107">لمعرفة المزيد، اقرأ [وضع علامة بريد إلكتروني كخردة أو حظر المرسلين في Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).</span><span class="sxs-lookup"><span data-stu-id="46dac-107">To learn more, read [Mark email as junk or block senders in Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4).</span></span>
+<span data-ttu-id="3ec06-107">لمعرفة المزيد، اقرأ [وضع علامة بريد إلكتروني كخردة أو حظر المرسلين في Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="3ec06-107">To learn more, read [Mark email as junk or block senders in Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
