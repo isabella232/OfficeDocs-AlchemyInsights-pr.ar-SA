@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "771"
 - "8000037"
-ms.openlocfilehash: c1338e5de55edc1f656a643718ccf8de87d4abf1
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 4b007c66a20bd923f41f9767aead82f613097358
+ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35360976"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35701310"
 ---
 # <a name="see-your-own-email-address"></a>راجع عنوان البريد الإلكتروني الخاص بك
 
@@ -28,4 +28,4 @@ ms.locfileid: "35360976"
 1. حدد ثلاث نقاط في أسفل نافذة الإنشاء وحدد **إظهار من** لمشاهدة السطر من.
 2. أعلى السطر إلى، حدد **من** واختيار عنوان البريد الإلكتروني الذي تريد استخدامه.
 
-معرفة المزيد حول [إرسال رسالة بريد إلكتروني من عنوان مختلف في Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e).
+معرفة المزيد حول [إرسال رسالة بريد إلكتروني من عنوان مختلف في Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).

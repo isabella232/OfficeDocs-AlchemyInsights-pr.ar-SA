@@ -12,12 +12,12 @@ ms.assetid: f0b69874-8a7b-480c-8329-01872c6c21df
 ms.custom:
 - "8000036"
 - "838"
-ms.openlocfilehash: af9f343caaeba65c0f86606a048af3b39f3b1e00
-ms.sourcegitcommit: 87153fec6f6468b57893abf4aac073ba4068e67b
+ms.openlocfilehash: 353703d159072cc8daa7f52d02f7fc1afd72d1df
+ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/19/2019
-ms.locfileid: "35062049"
+ms.lasthandoff: 07/16/2019
+ms.locfileid: "35701418"
 ---
 # <a name="change-your-email-name"></a>تغيير عنوان البريد الإلكتروني
 
@@ -35,4 +35,4 @@ ms.locfileid: "35062049"
 1. حدد **إظهار من** رؤية من الخط.
 1. أعلى السطر إلى، حدد **من** ثم حدد عنوان البريد الإلكتروني الذي تريد استخدامه.
 
-لمزيد من المعلومات، راجع [إرسال البريد الإلكتروني من عناوين مختلفة في Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001701&amp;clcid=0x409).
+لمزيد من المعلومات، راجع [إرسال البريد الإلكتروني من عناوين مختلفة في Outlook.com](https://support.office.com/article/ccba89cb-141c-4a36-8c56-6d16a8556d2e?wt.mc_id=Office_Outlook_com_Alchemy).
