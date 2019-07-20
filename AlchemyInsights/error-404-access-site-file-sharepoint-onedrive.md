@@ -8,25 +8,26 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 51ad61e5-a1b8-483b-b6a3-ec13ed09dd68
-ms.openlocfilehash: 794d12c281e963774c694fc0fd21d9e03beec105
-ms.sourcegitcommit: 8b200a117fa8932f11fc649560496ffb308909da
+ms.openlocfilehash: 4900dc4751d5c030a9cef41ec220a336ce144fe3
+ms.sourcegitcommit: f81c56dd4ae7cb2eedc383dd671b9012f3089286
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/21/2019
-ms.locfileid: "35132115"
+ms.lasthandoff: 07/19/2019
+ms.locfileid: "35802881"
 ---
 # <a name="error-404-when-accessing-files-in-sharepoint-or-onedrive"></a>خطأ 404 عند الوصول إلى الملفات في SharePoint أو أندريف
 
-يتم تلقي **خطأ 404** عند المستخدمين تحاول الوصول إلى موقع أو ملف SharePoint أو أونيدريفي. وهذا غالباً ما يعود موقع أو ملف أو مجموعة الحصول على إعادة تسميتها، أو نقلها أو حذفها.
+يتم تلقي **خطأ 404** عند المستخدمين تحاول الوصول إلى موقع أو ملف SharePoint أو أونيدريفي. وهذا غالباً ما يعود موقع أو ملف أو الحصول على مجموعة إعادة تسميته أو نقله أو حذفه.
 سوف يتعرض المستخدمون خطأ 404 محاولة الوصول إلى "مجموعة موقع الجذر" وتم حذفه.
 
-لحل الخطأ 404 لموقع الذي تم إعادة تسميته، نقل أو حذف: المواقع التقليدية الموجودة في مركز الإدارة التقليدية، انظر [استعادة مجموعة موقع حذف](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).
+التالية سوف تساعدك على حل الخطأ 404 لموقع الذي تم إعادة تسميته، نقله أو حذفه:
 
-للمواقع الحديثة (الاتصالات المتصلة بالمجموعة، أو مواقع أخرى) الموجودة في معاينة مركز الإدارة الجديدة، راجع [حذف طريقة العرض واستعادة المواقع في مركز مسؤول SharePoint جديدة](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center).
+- [استعادة مجموعة موقع حذف](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection): المواقع التقليدية الموجودة في مركز الإدارة التقليدية.
+- [حذف طريقة العرض واستعادة المواقع في مركز مسؤول SharePoint جديدة](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center): للمواقع الحديثة (الاتصالات المتصلة بالمجموعة، أو مواقع أخرى) الموجودة في معاينة مركز الإدارة الجديدة.
+- [استعادة العناصر الموجودة في "سلة المحذوفات" لموقع SharePoint](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be): لحل ملف (أو عنصر آخر) الذي تمت إعادة تسميته، المنقولة أو المحذوفة الانتقال إلى موقع SharePoint أو أندريف وعرض بن سلة المحذوفات من محتويات الموقع.
+- [للبحث في سجل التدقيق في أمان Office 365 &amp; مركز التوافق](https://support.office.com/client/search-the-audit-log-in-the-office-365-security-compliance-center-0d4d0f35-390b-4518-800e-0c7ec95e946c): البحث في سجل التدقيق (إذا تم تمكين التسجيل) إذا كنت لا تزال غير قادر على العثور على العنصر.
 
-لحل ملف (أو عنصر آخر) الذي تم إعادة تسميته، نقل أو حذف الانتقال إلى موقع SharePoint أو أندريف وعرض "سلة المحذوفات" من محتويات الموقع، راجع [استعادة العناصر الموجودة في "سلة المحذوفات" لموقع SharePoint](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be).
 
- إذا كنت لا تزال غير قادر على العثور على عنصر يمكنك البحث سجل التدقيق إذا كان التسجيل ممكناً، راجع [للبحث في سجل التدقيق في أمان Office 365 &amp; مركز التوافق](https://support.office.com/client/search-the-audit-log-in-the-office-365-security-compliance-center-0d4d0f35-390b-4518-800e-0c7ec95e946c).
 
 
     
