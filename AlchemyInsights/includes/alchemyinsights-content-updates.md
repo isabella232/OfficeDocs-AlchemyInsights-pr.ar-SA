@@ -302,7 +302,7 @@
 | 6/12/2019 | [منتجات office غير متوفر لمنصة ماك-الوصول](/AlchemyInsights/office-products-not-available-for-the-mac-platformaccess) | تعديل |
 | 6/12/2019 | [منتجات office غير متوفر لمنصة ماك-المشروع](/AlchemyInsights/office-products-not-available-for-the-mac-platformproject) | تعديل |
 | 6/12/2019 | [منتجات office غير متوفر لمنصة ماك-الناشر](/AlchemyInsights/office-products-not-available-for-the-mac-platformpublisher) | تعديل |
-| 6/12/2019 | [التخزين أونيدريفي](/AlchemyInsights/onedrive-storage) | تعديل |
+| 6/12/2019 | [التخزين أندريف](/AlchemyInsights/onedrive-storage) | تعديل |
 | 6/12/2019 | [1581 فتح علبة بريد مشتركة واستخدامها في Outlook على الويب](/AlchemyInsights/open-and-use-a-shared-mailbox-in-owa) | تعديل |
 | 6/12/2019 | [مشاركة OSE الأخطاء في SharePoint وأندريف](/AlchemyInsights/ose-sharing-errors-in-sharepoint-and-onedrive) | تعديل |
 | 6/12/2019 | [اخترق حساب Outlook.com 8000073-الفرنسية](/AlchemyInsights/outlook-com-account-hacked-french) | تعديل |
@@ -450,10 +450,10 @@
 | 25/6/2019 | ["استكشاف أخطاء المجلدات أو الملفات المفقودة](/AlchemyInsights/sharepoint-onedrive-restore-deleted-items-from-recycle-bin) | تعديل |
 | 25/6/2019 | [استكشاف أخطاء الوصول مرفوض رسائل إلى أندريف لمواقع العمل](/AlchemyInsights/sharepoint-onedrive-restore-users-admin%20rights) | تعديل |
 | 25/6/2019 | [تقييد الوصول في SharePoint أو أندريف](/AlchemyInsights/sharepoint-onedrive-restrict-access) | تعديل |
-| 25/6/2019 | [مشاكل الأداء SharePoint أو أونيدريفي](/AlchemyInsights/sharepoint-onedrive-user-access-temporary-service-issue) | تعديل |
+| 25/6/2019 | [مشاكل الأداء SharePoint أو أندريف](/AlchemyInsights/sharepoint-onedrive-user-access-temporary-service-issue) | تعديل |
 | 25/6/2019 | [الشروع في استخدام SharePoint على الإنترنت](/AlchemyInsights/sharepoint-workflow) | تعديل |
 | 25/6/2019 | [استكشاف أخطاء وإصلاحها "فتح باستخدام" مستكشف "" في SharePoint عبر إنترنت](/AlchemyInsights/sync-sharepoint-files-with-onedrive) | تعديل |
-| 25/6/2019 | [تحميل ملفات إلى SharePoint أو أونيدريفي](/AlchemyInsights/upload-files-to-document-library-in-sharepoint-online) | تعديل |
+| 25/6/2019 | [تحميل ملفات إلى SharePoint أو أندريف](/AlchemyInsights/upload-files-to-document-library-in-sharepoint-online) | تعديل |
 | 25/6/2019 | [ملفات مؤمنة ضد التحرير](/AlchemyInsights/why-you-cannot-edit-files) | تعديل |
 | 6/26/2019 | [الكيمياء-توقعات خطأ 'لا يمكن بدء تشغيل Microsoft Outlook"](/AlchemyInsights/alchemyoutlook-errorcannot-start-microsoft-outlook) | تعديل |
 | 6/26/2019 | [763 الوصول حظر PowerShell Exchange عبر إنترنت للمستخدمين](/AlchemyInsights/blocking-exchange-online-powershell-access-for-users) | تعديل |
@@ -608,7 +608,7 @@
 | 6/28/2019 | [توسيع النسخة التجريبية ل Office 365 للشركات](/AlchemyInsights/extend-your-trial-for-office-365-for-business) | تعديل |
 | 6/28/2019 | [1800018 البحث عن إعدادات الملقم IMAP و POP](/AlchemyInsights/find-your-pop-and-imap-server-settings) | تعديل |
 | 6/28/2019 | [إصلاح مشاكل التسليم الإلكتروني للمجلدات العمومية التي تعتمد البريد](/AlchemyInsights/fix-email-delivery-issues-to-public-folders) | تعديل |
-| 6/28/2019 | [إصلاح مشكلات المزامنة أونيدريفي](/AlchemyInsights/fix-onedrive-sync-issues) | تعديل |
+| 6/28/2019 | [إصلاح مشكلات المزامنة أندريف](/AlchemyInsights/fix-onedrive-sync-issues) | تعديل |
 | 6/28/2019 | [1800005 تحديد القضايا البحث بإعادة إنشاء كتالوج "البحث الفوري"](/AlchemyInsights/fix-search-issues-by-rebuilding-your-instant-search-catalog) | تعديل |
 | 6/28/2019 | [1800019 "علبة الوارد تركز" في Outlook الجوال](/AlchemyInsights/focused-inbox-in-outlook-mobile) | تعديل |
 | 6/28/2019 | [تركز 1800019 علبة الوارد في Outlook](/AlchemyInsights/focused-inbox-in-outlook) | تعديل |
@@ -718,7 +718,7 @@
 | 6/28/2019 | [973 قاعدة الترحيل ستاليدويتو *](/AlchemyInsights/migration-stalleddueto-rule) | تعديل |
 | 6/28/2019 | [مجانية التعليم لإصدار Minecraft مع Office 365](/AlchemyInsights/minecraft-edition-with-office-365-education-for-free) | تعديل |
 | 6/28/2019 | [حديث الموقع الجذر](/AlchemyInsights/modern-site-as-the-root-site) | تعديل |
-| 6/28/2019 | [مراقبة استخدام أونيدريفي و SharePoint ونشاط](/AlchemyInsights/monitor-onedrive-and-sharepoint-usage-and-activity) | تعديل |
+| 6/28/2019 | [مراقبة استخدام أندريف و SharePoint ونشاط](/AlchemyInsights/monitor-onedrive-and-sharepoint-usage-and-activity) | تعديل |
 | 6/28/2019 | [نقل رسائل البريد الإلكتروني إلى أرشيف علبة البريد](/AlchemyInsights/move-email-messages-to-the-archive-mailbox) | تعديل |
 | 6/28/2019 | [نقل البريد الإلكتروني إلى Office 365](/AlchemyInsights/move-email-to-office-365) | تعديل |
 | 6/28/2019 | [نقل العناصر في مكتبة مستندات SharePoint](/AlchemyInsights/move-items-in-a-sharepoint-document-library) | تعديل |
