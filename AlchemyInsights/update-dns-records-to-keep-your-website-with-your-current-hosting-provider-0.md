@@ -14,16 +14,16 @@ ms.custom:
 - "43"
 - "100002"
 ms.assetid: 48251355-7383-4fdc-a1e1-9dc2c85a8d29
-ms.openlocfilehash: 62f49038cf541c2185ed6a60c6cb58fe2889342d
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: e437015d476c1417fa37e1b1c250e2205e9ce4d9
+ms.sourcegitcommit: b825ced7b66d452b0f3874a57e033e690ec41c93
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35353164"
+ms.lasthandoff: 07/29/2019
+ms.locfileid: "35925272"
 ---
 # <a name="update-dns-records-to-keep-your-website-with-your-current-hosting-provider"></a>تحديث سجلات DNS للحفاظ على موقع الويب الخاص بك باستخدام موفر الاستضافة الحالية
 
-1. على الصفحة " [مجالات](https://portal.office.com/adminportal/home#/Domains) "، في قائمة المجالات، حدد المجال الذي تستخدمه لموقع الويب الخاص بك، وثم حدد **إعدادات DNS** في جزء "إدارة".
+1. على الصفحة " [مجالات](https://portal.office.com/adminportal/home#/Domains) "، في قائمة المجالات، حدد المجال الذي تستخدمه لموقع الويب الخاص بك.
 
 2. حدد **+ سجل مخصص جديد** وأدخل ما يلي:
 
