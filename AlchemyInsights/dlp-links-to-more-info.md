@@ -12,20 +12,23 @@ localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: cf18afc7c2ab07b3318a9c79ad657a83810e5a42
-ms.sourcegitcommit: 0a11493406c51ed1481586b4c35f1bd2441c4d40
+ms.openlocfilehash: 7687f6cb4a2e71a68edc762e69ccee2994e60c6f
+ms.sourcegitcommit: d6ea6f4456a582559f27b34c0b9455a86a8e61f1
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/02/2019
-ms.locfileid: "35475423"
+ms.lasthandoff: 07/31/2019
+ms.locfileid: "35941091"
 ---
 # <a name="more-info-about-dlp-issues"></a>مزيد من المعلومات حول مشكلات تقنية DLP
 
-باستخدام نهج DLP، يمكنك تحديد ومراقبة وتلقائياً حماية المعلومات الحساسة عبر Office 365. 
+باستخدام نهج DLP، يمكنك تحديد ومراقبة وتلقائياً حماية المعلومات الحساسة عبر Office 365.
 
 الرجاء زيارة هذه الارتباطات لمزيد من المعلومات:
 
 - [نظرة عامة على منع فقدان البيانات](https://docs.microsoft.com/en-us/office365/securitycompliance/data-loss-prevention-policies)
+- [ما هي أنواع المعلومات الهامة البحث عن](https://docs.microsoft.com/en-us/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+- [إنشاء نوع مخصص معلومات الحساسة](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-custom-sensitive-information-type)
+- [إرسال إعلامات البريد الإلكتروني وإظهار تلميحات نهج](https://docs.microsoft.com/en-us/office365/securitycompliance/use-notifications-and-policy-tips)
 - [حماية الملفات SharePoint على الإنترنت باستخدام تسميات الاستبقاء و DLP](https://docs.microsoft.com/en-us/office365/securitycompliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
 - [تقنية DLP والفرق Microsoft](https://docs.microsoft.com/en-us/office365/securitycompliance/dlp-microsoft-teams)
 
