@@ -12,15 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1770"
 - "9000202"
-ms.openlocfilehash: 16ca62f924b9f253e30d90f1f147570151cdf787
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 25d48e964d2669243eb4d44c773606d7142f2853
+ms.sourcegitcommit: 6be59c8adfbe651833959d251f829496be1a1331
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35373724"
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36048983"
 ---
 # <a name="how-to-find-options-in-outlookcom-settings"></a>كيفية البحث عن خيارات في إعدادات Outlook.com
 
-في أعلى الصفحة، حدد الرمز الرئيسي فتح "إعدادات". في أسفل لوحة الإعدادات، حدد [**عرض كافة إعدادات Outlook**](https://outlook.live.com/mail/options/general/timeAndLanguage).
+في أعلى الصفحة، حدد الرمز الرئيسي <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ لفتح "إعدادات". في أسفل لوحة الإعدادات، حدد [**عرض كافة إعدادات Outlook**](https://outlook.live.com/mail/options/general/timeAndLanguage).
 
 يظهر هذا العام والبريد الإلكتروني والتقويم، و (أن أمكن) الإعدادات الأولية والخيارات.

@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.custom:
 - "1816"
 - "9000232"
-ms.openlocfilehash: 28e5d90f6c6ae6dde2754a05c8651d50672499c8
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 8900b934f5d011b35610baf8e889d8c6072b20ec
+ms.sourcegitcommit: a53157190ed2c4bdade088afa45dd942a559fb95
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35377288"
+ms.lasthandoff: 07/31/2019
+ms.locfileid: "36044515"
 ---
 # <a name="address-book-in-outlookcom"></a>دفتر العناوين في Outlook.com
 
 دفتر العناوين Outlook.com يسمى الأشخاص.
 
-للانتقال إلى صفحة [الأشخاص](https://outlook.live.com/people/) ، حدد **الأشخاص** في الجانب السفلي من الصفحة، أو من تطبيق محدد في الزاوية العليا من الصفحة.
+للانتقال إلى صفحة [الأشخاص](https://outlook.live.com/people/) ، حدد **الأشخاص** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gEKEisVwYq3YQAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAClklEQVRIieWVX0iTYRTGz2aazW3f0nItTD7n/kCUf8q0QVnCChNGISpWoN1EF6WWNeoiwYtQClZUSEgphlBkCV4oKCsjEZcaQo5glW2oyyZafOosc86ny6Z+U7/Eq87l857n/Hjf88ArAgBaxxKv5/A1AcZHBsnpdNGUb4VGCC3OCcuFbKiVckgkEUhIN6G+/XPQdmGAuQlUnknDFrURDe19cDj6cacoC5HRCXhh/752wKitBvpt8XjumA1Q/SjPSca+girM8XgE7eDbgIvC/YmUpg8NUMVkSEqjmXcfycvjEQSI3bWTfKE91NrNBahT1Nr5mpiMZJLxmYQ8EeDDk/J8xMalwlLXBKu1BddOp0OTaILN/YvXsSzgh8eNoaFh/PT/1Wy1ZoQRIVzKQKFQQEyEmIwiuLz8M/gBnBO3S3KhVsogkUix15iPlu4BdD2+iEgpi9J7jRga98Lr9eJDZxNyDVrsOHgWrsnVAOYmUFGQiii1EU+tvbDbe1F5LgvKSAVkTBSu1vXwXLUfxjg5cm81rwzwdFZDp9Kg8ZMvQJ3F9WM6MNo8jPC/BF5aTkHCnsTI/EJ9w+Klux1faJNoDxm0gUehtD8lndrGthITJGEpJ0qpSjxIISAi0TIpGuuuhV7Fov79dIA6iZIjOhwursf8YsMKxbPkGTwyHwerP4QHDW3o6LCirDADmiQTur7yR1EgALDVXEYIEcIi5GAYOYgIbKYZ7hnB85cC3lSfx2YZi0t3G+Aa5cBxHPran8GUwiL+aDHc03xjVgn4PWjFbhWDkodvl3Z6enEgRoqC+9Z/B7yqyINKk4nhIM3NN7Ih1RViTABgQUyjk/PoZpmStgeJoiHnClk2uokWR3GZEgH/66e/2voDxKbBpBHmq6QAAAAASUVORK5CYII=' /> في الركن السفلي للصفحة، أو من تطبيق محدد في الزاوية العليا من الصفحة.
 
-التعرف على كيفية [إنشاء طريقة عرض، وتحرير جهات الاتصال في Outlook.com](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01).
+التعرف على كيفية [إنشاء طريقة عرض، وتحرير جهات الاتصال في Outlook.com](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01?wt.mc_id=Office_Outlook_com_Alchemy).
