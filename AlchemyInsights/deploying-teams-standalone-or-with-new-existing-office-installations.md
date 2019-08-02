@@ -1,0 +1,40 @@
+---
+title: نشر أفرقة مستقلة أو مع عمليات تثبيت Office جديد أو موجود
+ms.author: danbrown
+author: DHB-MSFT
+manager: laurawi
+ms.date: 08/01/2019
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9000660"
+- "2509"
+ms.openlocfilehash: 3318e1b17cc99e927e1011f7ca9eca8dec616d59
+ms.sourcegitcommit: 4600dd4fb577bf5f5482a24616c2d9a6b81e8052
+ms.translationtype: MT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 08/01/2019
+ms.locfileid: "36054218"
+---
+# <a name="deploying-teams-as-standalone-or-with-new-or-existing-office-installations"></a><span data-ttu-id="af64a-102">نشر أفرقة مستقلة أو مع عمليات تثبيت Office جديد أو موجود</span><span class="sxs-lookup"><span data-stu-id="af64a-102">Deploying Teams as standalone or with new or existing Office installations</span></span>
+
+<span data-ttu-id="af64a-103">الفرق Microsoft الآن مدرجة كجزء من ***عمليات التثبيت الجديدة*** من Office 365 ProPlus Office 365 الأعمال ومكتب لجنة الهدنة العسكرية.</span><span class="sxs-lookup"><span data-stu-id="af64a-103">Microsoft Teams is now included as part of ***new installations*** of Office 365 ProPlus, Office 365 Business, and Office for Mac.</span></span> <span data-ttu-id="af64a-104">لمزيد من المعلومات، راجع [عندما فرق Microsoft ستبدأ يتم تضمينها مع عمليات تثبيت جديد ل Office؟](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)</span><span class="sxs-lookup"><span data-stu-id="af64a-104">For more information, see [When will Microsoft Teams start being included with new installations of Office?](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)</span></span>
+
+<span data-ttu-id="af64a-105">بالإضافة إلى ذلك، بدءاً من الإصدار 1906 في القناة شهريا، الفرق سيكون ***إضافة إلى المنشآت القائمة*** Office 365 ProPlus (ومكتب الأعمال 365) على أجهزة تشغيل Windows عند تحديث تثبيت موجود للإصدار الأحدث.</span><span class="sxs-lookup"><span data-stu-id="af64a-105">Additionally, starting with Version 1906 in Monthly Channel, Teams will be ***added to existing installations*** of Office 365 ProPlus (and Office 365 Business) on devices running Windows when you update your existing installation to the latest version.</span></span> <span data-ttu-id="af64a-106">لمزيد من المعلومات، راجع [ما حول المنشآت القائمة من Office؟](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)</span><span class="sxs-lookup"><span data-stu-id="af64a-106">For more information, see [What about existing installations of Office?](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)</span></span>
+
+> [!NOTE]
+> <span data-ttu-id="af64a-107">إذا لم ترغب في الانتظار لجدولة هذه العملية التمهيدية، يمكنك نشر فرق كمستقل للمستخدمين [اتباع هذه الإرشادات](https://docs.microsoft.com/MicrosoftTeams/msi-deployment) أو يمكنك جعل المستخدمين تثبيت الفرق لأنفسهم من [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads).</span><span class="sxs-lookup"><span data-stu-id="af64a-107">If you don't want to wait for this rollout schedule, you can deploy Teams as standalone for your users by [following these instructions](https://docs.microsoft.com/MicrosoftTeams/msi-deployment) or you can have your users install Teams for themselves from [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads).</span></span>
+
+<span data-ttu-id="af64a-108">إذا لم يكن مؤسستك جاهزة لنشر أفرقة، لدينا على الخطوات التي يمكنك اتخاذها ***استبعاد الفرق*** من منشآت [جديدة](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-office-365-proplus) أو [موجودة](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) من Office.</span><span class="sxs-lookup"><span data-stu-id="af64a-108">If your organization isn't ready to deploy Teams, we have the steps you can take to ***exclude Teams*** from [new](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-office-365-proplus) or [existing](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) installations of Office.</span></span> <span data-ttu-id="af64a-109">إذا كنت تريد الفرق بتثبيت، ولكن لا تريد الفرق ليتم تشغيله تلقائياً للمستخدم بعد تثبيته، راجع [منع Microsoft فرق من بدء التشغيل تلقائياً بعد التثبيت](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).</span><span class="sxs-lookup"><span data-stu-id="af64a-109">If you want Teams to be installed, but don't want Teams to start automatically for the user after it's installed, see [Prevent Microsoft Teams from starting automatically after installation](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).</span></span>
+
+<span data-ttu-id="af64a-110">***إلغاء تثبيت فرق*** من جهاز يقوم بتشغيل Windows، راجع [إزالة تثبيت Microsoft الفرق](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81).</span><span class="sxs-lookup"><span data-stu-id="af64a-110">To ***uninstall Teams*** from a device running Windows, see [Uninstall Microsoft Teams](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81).</span></span> <span data-ttu-id="af64a-111">لتنظيف فرق Microsoft من المستخدمين أو الأجهزة الهدف متعددة، راجع [مسح نشر فرق Microsoft](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).</span><span class="sxs-lookup"><span data-stu-id="af64a-111">To cleanup Microsoft Teams from multiple target machines or users, see [Microsoft Teams deployment clean up](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).</span></span>
+
+<span data-ttu-id="af64a-112">إذا كنت تستخدم أجهزة الكمبيوتر المشتركة أو خدمات سطح المكتب البعيد (RDS) "البنية التحتية" سطح المكتب الظاهري (VDI)، راجع [الكمبيوتر المشتركة وبيئات VDI مع فرق Microsoft](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams).</span><span class="sxs-lookup"><span data-stu-id="af64a-112">If you're using shared computers, Remote Desktop Services (RDS), or Virtual Desktop Infrastructure (VDI), see [Shared computer and VDI environments with Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams).</span></span>
+
+<span data-ttu-id="af64a-113">إذا كنت تستخدم Macلنظام التشغيل Office، راجع [تثبيت Microsoft الفرق في نظام التشغيل Mac](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).</span><span class="sxs-lookup"><span data-stu-id="af64a-113">If you're using Office for Mac, see [Microsoft Teams installations on a Mac](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).</span></span>
+
+> [!NOTE]
+> <span data-ttu-id="af64a-114">بعد تثبيت الفرق من [تحديثه تلقائياً](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) كل أسبوعين تقريبا مع الميزات الجديدة والتحديثات الجودة.</span><span class="sxs-lookup"><span data-stu-id="af64a-114">After Teams is installed, it's [automatically updated](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) approximately every two weeks with new features and quality updates.</span></span> 
