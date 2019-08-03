@@ -1,25 +1,24 @@
 ---
-title: التسميات استبقاء الجديدة التي تم إنشاؤها تلقائياً
-ms.author: kirks
-author: Techwriter40
-manager: pamgreen
+title: مزيد من المعلومات حول نهج الاستبقاء
+ms.author: stephow
+author: msft-stephow
+manager: laurawi
 ms.audience: admin
 ms.topic: article
-ms.prod: office-online-server
+ms.prod: ''
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 0b52b56da0f23ca410f930eb7f719f6933e6135b
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.openlocfilehash: 7f7417a73e95d96a1b105d904bf926c363d4bcff
+ms.sourcegitcommit: 0a11493406c51ed1481586b4c35f1bd2441c4d40
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35222979"
+ms.lasthandoff: 07/02/2019
+ms.locfileid: "35448822"
 ---
-# <a name="new-retention-labels-created-automatically"></a>التسميات استبقاء الجديدة التي تم إنشاؤها تلقائياً
+# <a name="more-info-about-retention-policies"></a>مزيد من المعلومات حول نهج الاستبقاء
 
 لمعظم المؤسسات حجم وتعقيد البيانات الخاصة بهم ويتزايد يوميا-البريد الإلكتروني، المستندات، الرسائل الفورية، والمزيد.
-
-فعالية إدارة أو تحكم هذه المعلومات الهامة، نهج استبقاء تساعدك في تحقيق هذه الأهداف. لمزيد من المعلومات حول نهج الاستبقاء، الرجاء زيارة الارتباطات أدناه.
+كفاءة إدارة أو تحكم هذه المعلومات الهامة، ونهج استبقاء تساعدك في تحقيق هذه الأهداف. لمزيد من المعلومات حول نهج الاستبقاء، الرجاء زيارة هذه الارتباطات:
 
 - [نظرة عامة حول نهج الاستبقاء](https://docs.microsoft.com/office365/securitycompliance/retention-policies)
 

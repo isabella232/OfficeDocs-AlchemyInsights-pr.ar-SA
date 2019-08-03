@@ -11,17 +11,19 @@ localization_priority: Normal
 ms.custom:
 - "8000003"
 - "1991"
-ms.openlocfilehash: b909735859e7e7f5d7970daea700c1a952108214
-ms.sourcegitcommit: 20a3cfa10114176f8997fd151e83d167a81945e4
+ms.openlocfilehash: 41d31bef53077ede8440733807671a78c0914030
+ms.sourcegitcommit: 204be4a6ae03700b75eae6b09b4e9ab283089fbf
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/20/2019
-ms.locfileid: "34273476"
+ms.lasthandoff: 08/03/2019
+ms.locfileid: "36171132"
 ---
 # <a name="find-and-recover-missing-or-deleted-email-calendar-events-or-contacts"></a>البحث عن واسترداد البريد الإلكتروني مفقودة أو حذفها أو أحداث التقويم أو جهات الاتصال
 
-- في البريد، استخدم شريط **البحث** في أعلى الصفحة [البحث عن الرسائل أو جهات الاتصال](https://support.office.com/article/b27e5eb7-3255-4c61-bf16-1c6a16bc2e6b).
+- في البريد، استخدم <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
+ شريط **البحث** في أعلى الصفحة [البحث عن الرسائل أو جهات الاتصال](https://support.office.com/article/b27e5eb7-3255-4c61-bf16-1c6a16bc2e6b).
 
-- في التقويم، استخدم شريط **البحث** في أعلى الصفحة [البحث عن أحداث باستخدام الكلمة أو الاسم، أو عبارة](https://support.office.com/article/d587aaec-fb2c-4f6f-aee1-0df1fc591477). إذا كان لديك أكثر من تقويم فتح، سوف يركز البحث على التقويم المحدد حاليا.
+- في التقويم، استخدم <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />
+ شريط **البحث** في أعلى الصفحة [البحث عن أحداث باستخدام الكلمة أو الاسم، أو عبارة](https://support.office.com/article/d587aaec-fb2c-4f6f-aee1-0df1fc591477). إذا كان لديك أكثر من تقويم فتح، سوف يركز البحث على التقويم المحدد حاليا.
 
 - إذا قمت بطريق الخطأ بحذف رسالة أو أحداث التقويم أو جهات الاتصال، يمكنك [استرداد هذه العناصر إذا كنت لا تزال في "العناصر المحذوفة" أو مجلد "البريد الإلكتروني العشوائي"](https://support.office.com/article/a8ca78ac-4721-4066-95dd-571842e9fb11).
