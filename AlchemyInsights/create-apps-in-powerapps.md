@@ -1,5 +1,5 @@
 ---
-title: إنشاء تطبيقات في بوويرابس
+title: إنشاء تطبيقات في PowerApps
 ms.author: toresing
 author: tomresing
 ms.date: 5/21/2018
@@ -9,22 +9,22 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 0095e6a2-884c-4733-aa4b-783f574ad4b7
 ms.openlocfilehash: 7637f90b0358eb6435884faa860473622d3d72c7
-ms.sourcegitcommit: f1c96fd3890d4e211f7d6bf73b9105fdaab2e11c
-ms.translationtype: MT
+ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
+ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/05/2019
+ms.lasthandoff: 08/06/2019
 ms.locfileid: "30404950"
 ---
-# <a name="create-apps-with-powerapps"></a><span data-ttu-id="c73e3-102">إنشاء تطبيقات باستخدام بوويرابس</span><span class="sxs-lookup"><span data-stu-id="c73e3-102">Create apps with PowerApps</span></span>
+# <a name="create-apps-with-powerapps"></a><span data-ttu-id="095af-102">إنشاء تطبيقات باستخدام PowerApps</span><span class="sxs-lookup"><span data-stu-id="095af-102">Create apps with PowerApps</span></span>
 
-<span data-ttu-id="c73e3-p101">بوويرابس برنامج تطوير تطبيقات الأعمال. أنه يحتوي على ثلاثة عناصر رئيسية:</span><span class="sxs-lookup"><span data-stu-id="c73e3-p101">PowerApps is a development platform for business apps. It has three major components:</span></span> 
+<span data-ttu-id="095af-103">PowerApps هي منصة تطوير لتطبيقات الأعمال.</span><span class="sxs-lookup"><span data-stu-id="095af-103">PowerApps is a development platform for business apps.</span></span> <span data-ttu-id="095af-104">تحتوي علي ثلاثة مكونات رئيسية:</span><span class="sxs-lookup"><span data-stu-id="095af-104">It has three major components:</span></span> 
   
-- <span data-ttu-id="c73e3-p102">[لوحة قماشية تطبيقات](https://go.microsoft.com/fwlink/?linkid=874495) ابدأ مع خبرة المستخدم، أو رسم واجهة شدة مصممة مع طاقة لوحة قماشية فارغة والاتصال باختيارك لمصادر البيانات 200. يمكنك إنشاء حقل العمل تطبيقات ويب المحمول وتطبيقات الكمبيوتر اللوحي.</span><span class="sxs-lookup"><span data-stu-id="c73e3-p102">[Canvas apps](https://go.microsoft.com/fwlink/?linkid=874495) start with your user experience, crafting a highly tailored interface with the power of a blank canvas and connecting it to your choice of 200 data sources. You can build canvas apps for web, mobile, and tablet applications.</span></span> 
+- <span data-ttu-id="095af-105">تبدأ [تطبيقات Canvas](https://go.microsoft.com/fwlink/?linkid=874495) بتجربة المستخدم الخاصة بك، حيث تصمِّم ببراعة واجهة مستخدم مخصصة للغاية بقوة canvas فارغ وتربطها بما تختاره من بين 200 مصدر للبيانات.</span><span class="sxs-lookup"><span data-stu-id="095af-105">[Canvas apps](https://go.microsoft.com/fwlink/?linkid=874495) start with your user experience, crafting a highly tailored interface with the power of a blank canvas and connecting it to your choice of 200 data sources.</span></span> <span data-ttu-id="095af-106">يمكنك إنشاء تطبيقات canvas لتطبيقات للويب، والهواتف المحمولة، والكمبيوتر اللوحي.</span><span class="sxs-lookup"><span data-stu-id="095af-106">You can build canvas apps for web, mobile, and tablet applications.</span></span> 
     
-- <span data-ttu-id="c73e3-p103">بدء [تطبيقات تستند إلى طراز](https://go.microsoft.com/fwlink/?linkid=874496) باستخدام نموذج البيانات الخاصة بك-بناء من الشكل بيانات العمل الأساسية والعمليات في "خدمة البيانات الشائعة" لنماذج وطرق عرض والمكونات الأخرى. إنشاء تطبيقات تستند إلى طراز واجهة كبيرة استجابة عبر الأجهزة تلقائياً.</span><span class="sxs-lookup"><span data-stu-id="c73e3-p103">[Model-driven apps](https://go.microsoft.com/fwlink/?linkid=874496) start with your data model - building up from the shape of your core business data and processes in the Common Data Service to model forms, views, and other components. Model-driven apps automatically generate great UI that is responsive across devices.</span></span> 
+- <span data-ttu-id="095af-107">تبدأ [التطبيقات المستندة إلى نماذج](https://go.microsoft.com/fwlink/?linkid=874496) بنموذج البيانات الخاص بك-فتبدأ من شكل بيانات الأعمال والعمليات الأساسية في Common Data Service وتنتهي بأشكال النماذج وطرق العرض والمكونات الأخرى.</span><span class="sxs-lookup"><span data-stu-id="095af-107">[Model-driven apps](https://go.microsoft.com/fwlink/?linkid=874496) start with your data model - building up from the shape of your core business data and processes in the Common Data Service to model forms, views, and other components.</span></span> <span data-ttu-id="095af-108">تُنشئ التطبيقات المستندة إلى نماذج واجهة مستخدم رائعة تتميز بسرعة استجابتها عبر الأجهزة.</span><span class="sxs-lookup"><span data-stu-id="095af-108">Model-driven apps automatically generate great UI that is responsive across devices.</span></span> 
     
-- <span data-ttu-id="c73e3-p104">[خدمة البيانات شيوعاً](https://go.microsoft.com/fwlink/?linkid=874497) هو منصة البيانات التي تأتي مع بوويرابس ويسمح لك بتخزين ونموذج بيانات العمل. يعد النظام الأساسي الذي تبني عليه تطبيقات Dynamics 365. إذا كنت أحد العملاء Dynamics، كانت البيانات بالفعل في "خدمة البيانات العامة".</span><span class="sxs-lookup"><span data-stu-id="c73e3-p104">[Common Data Service](https://go.microsoft.com/fwlink/?linkid=874497) is the data platform that comes with PowerApps and allows you to store and model business data. It's the platform on which Dynamics 365 applications are built. If you're a Dynamics customer, your data is already in the Common Data Service.</span></span> 
+- <span data-ttu-id="095af-109">[Common Data Service](https://go.microsoft.com/fwlink/?linkid=874497) هو منصة البيانات التي تحتوي علي PowerApps وتتيح لك تخزين بيانات الأعمال وتشكيلها.</span><span class="sxs-lookup"><span data-stu-id="095af-109">[Common Data Service](https://go.microsoft.com/fwlink/?linkid=874497) is the data platform that comes with PowerApps and allows you to store and model business data.</span></span> <span data-ttu-id="095af-110">إنها المنصة التي يتم عليها إنشاء تطبيقات Dynamics 365.</span><span class="sxs-lookup"><span data-stu-id="095af-110">It's the platform on which Dynamics 365 applications are built.</span></span> <span data-ttu-id="095af-111">إذا كنت أحد عملاء Dynamics، فان بياناتك موجودة بالفعل في Common Data Service.</span><span class="sxs-lookup"><span data-stu-id="095af-111">If you're a Dynamics customer, your data is already in the Common Data Service.</span></span> 
     
-[<span data-ttu-id="c73e3-112">مزيد من المعلومات حول بوويرابس</span><span class="sxs-lookup"><span data-stu-id="c73e3-112">More info about PowerApps</span></span>](https://go.microsoft.com/fwlink/?linkid=874498)
+[<span data-ttu-id="095af-112">المزيد من المعلومات حول PowerApps</span><span class="sxs-lookup"><span data-stu-id="095af-112">More info about PowerApps</span></span>](https://go.microsoft.com/fwlink/?linkid=874498)
   
 

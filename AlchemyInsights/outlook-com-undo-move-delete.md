@@ -12,17 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1752"
 - "9000193"
-ms.openlocfilehash: 37134a58dc11f9004c4303fade3c684627a793bb
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 5058b261f72d0a5493260ff025d5a1c7464d0b78
+ms.sourcegitcommit: 327a2c77afc2ff3d67d3aaaea1a92068a3c4bb1f
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35361048"
+ms.lasthandoff: 08/06/2019
+ms.locfileid: "36166103"
 ---
-# <a name="action-confirmations"></a><span data-ttu-id="91f92-102">إجراء تأكيدات</span><span class="sxs-lookup"><span data-stu-id="91f92-102">Action confirmations</span></span>
+# <a name="action-confirmations"></a><span data-ttu-id="4165e-102">إجراء تأكيدات</span><span class="sxs-lookup"><span data-stu-id="4165e-102">Action confirmations</span></span>
 
-<span data-ttu-id="91f92-103">إذا قمت بطريق الخطأ نقل أو حذف رسالة، يمكنك التراجع عن هذا الإجراء.</span><span class="sxs-lookup"><span data-stu-id="91f92-103">If you accidentally moved or deleted a message, you can undo that action.</span></span> <span data-ttu-id="91f92-104">يظهر مربع الحوار "تراجع" في أسفل الشاشة لمدة 5 ثوان.</span><span class="sxs-lookup"><span data-stu-id="91f92-104">The undo dialog appears at the bottom of the screen for about 5 seconds.</span></span> <span data-ttu-id="91f92-105">حدد **التراجع عن** إلغاء النقل أو حذف الإجراء.</span><span class="sxs-lookup"><span data-stu-id="91f92-105">Select **Undo** to cancel the move or delete action.</span></span>
+<span data-ttu-id="4165e-103">إذا قمت بطريق الخطأ نقل أو حذف رسالة، يمكنك التراجع عن هذا الإجراء.</span><span class="sxs-lookup"><span data-stu-id="4165e-103">If you accidentally moved or deleted a message, you can undo that action.</span></span> <span data-ttu-id="4165e-104">يظهر مربع الحوار "تراجع" في أسفل الشاشة لمدة 5 ثوان.</span><span class="sxs-lookup"><span data-stu-id="4165e-104">The undo dialog appears at the bottom of the screen for about 5 seconds.</span></span> <span data-ttu-id="4165e-105">حدد **التراجع عن** إلغاء النقل أو حذف الإجراء.</span><span class="sxs-lookup"><span data-stu-id="4165e-105">Select **Undo** to cancel the move or delete action.</span></span>
 
-<span data-ttu-id="91f92-106">يمكنك إيقاف تشغيل هذه الميزة في [إجراء تأكيدات](https://outlook.live.com/mail/options/general/notifications) (**إعدادات** > **عرض كافة إعدادات Outlook** > **العام** > **الإخطارات**).</span><span class="sxs-lookup"><span data-stu-id="91f92-106">You can switch off this feature in [Action confirmations](https://outlook.live.com/mail/options/general/notifications) (**Settings** > **View all Outlook settings** > **General** > **Notifications**).</span></span>
+<span data-ttu-id="4165e-106">يمكنك إيقاف تشغيل هذه الميزة في [إجراء تأكيدات](https://outlook.live.com/mail/options/general/notifications) (</span><span class="sxs-lookup"><span data-stu-id="4165e-106">You can switch off this feature in [Action confirmations](https://outlook.live.com/mail/options/general/notifications) (</span></span><img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' />
+ <span data-ttu-id="4165e-107">**إعدادات** > **عرض كافة إعدادات Outlook** > **العام** > **الإخطارات**).</span><span class="sxs-lookup"><span data-stu-id="4165e-107">**Settings** > **View all Outlook settings** > **General** > **Notifications**).</span></span>
 
-<span data-ttu-id="91f92-107">ملاحظة: بمجرد إرسال رسالة، لا يمكنك التراجع عن هذا الإجراء.</span><span class="sxs-lookup"><span data-stu-id="91f92-107">Note: Once a message has been sent, you can't undo that action.</span></span> <span data-ttu-id="91f92-108">لمزيد من المعلومات، راجع [أرغب استدعاء رسالة في Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a).</span><span class="sxs-lookup"><span data-stu-id="91f92-108">For more information, see [I want to recall a message in Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a).</span></span>
+<span data-ttu-id="4165e-108">ملاحظة: بمجرد إرسال رسالة، لا يمكنك التراجع عن هذا الإجراء.</span><span class="sxs-lookup"><span data-stu-id="4165e-108">Note: Once a message has been sent, you can't undo that action.</span></span> <span data-ttu-id="4165e-109">لمزيد من المعلومات، راجع [أرغب استدعاء رسالة في Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="4165e-109">For more information, see [I want to recall a message in Outlook.com](https://support.office.com/article/c069ddde-5282-4085-8f4c-d7b133324f8a?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
