@@ -1,5 +1,5 @@
 ---
-title: 286 تمكين التدقيق
+title: البحث وتمكين سجل التدقيق
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,14 +13,14 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 84794755f7756838393f11d617fcc8a5e3748e9f
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 8c965cb1c2b6a4cb46b5c1b0145932c4c54ba97d
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35388448"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36270515"
 ---
-# <a name="search-the-audit-log"></a>البحث في سجل التدقيق
+# <a name="enable-and-search-audit-log"></a>البحث وتمكين سجل التدقيق
 
 للبحث في سجل التدقيق Office 365، اتبع [هذه الخطوات](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
 
@@ -32,11 +32,11 @@ ms.locfileid: "35388448"
 
 - لا تعتمد المجلدات العمومية علب بريد في Exchange عبر إنترنت وعلب بريد مجموعة office 365 تسجيل التدقيق.
 
-**SharePoint وأونيدريفي**
+**SharePoint وأندريف**
 
-- لا توجد أي تكوين إضافي مطلوب لتمكين تدقيق SharePoint وأندريف.
+- لا توجد أي تكوين إضافي مطلوب لتمكين تدقيق SharePoint وأونيدريفي.
 
-- تدعم SharePoint وأونيدريفي التدوين الأنواع التالية من الأنشطة:
+- تدعم SharePoint وأندريف التدوين الأنواع التالية من الأنشطة:
 
     - الملف والمجلد وأنشطة الصفحة
     - أنشطة طلب الوصول والمشاركة

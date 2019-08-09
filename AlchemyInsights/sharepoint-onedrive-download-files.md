@@ -1,8 +1,9 @@
 ---
-title: منع تنزيل ملفات من SharePoint أو أونيدريفي أو التحميل
+title: منع تنزيل ملفات من SharePoint أو أندريف أو التحميل
 ms.author: efrene
 author: efrene
 manager: pamgreen
+ms.date: 8/07/2019
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -10,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
 ms.custom:
-- "1788"
 - "9000213"
-ms.openlocfilehash: a89d887448e2692e63b555f56428e119b11a72c7
-ms.sourcegitcommit: 8a83b508785c96c19648ed574f442bbef2c2dff9
+- "1788"
+ms.openlocfilehash: 6e9287d10b4ac436ecd7a2ab3a014d8f9216fb33
+ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/07/2019
-ms.locfileid: "36232555"
+ms.lasthandoff: 08/09/2019
+ms.locfileid: "36269255"
 ---
 # <a name="download-or-prevent-download-of-files-from-onedrive-or-sharepoint"></a>منع تنزيل ملفات من SharePoint أو أندريف أو التحميل
 
@@ -29,7 +30,7 @@ ms.locfileid: "36232555"
 
 - [زيادة التحميل وسرعة التحميل](https://support.office.com/article/Maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)
 
-- [إصلاح مشاكل المزامنة أندريف](https://support.office.com/article/Fix-OneDrive-sync-problems-83ab0d8a-8400-45b0-8dcf-dc8aa8a6bcf8)
+- [إصلاح مشاكل المزامنة أونيدريفي](https://support.office.com/article/Fix-OneDrive-sync-problems-83ab0d8a-8400-45b0-8dcf-dc8aa8a6bcf8)
 
-- [تنزيل أندريف للعمل](https://onedrive.live.com/about/download/)
+- [تنزيل أونيدريفي للعمل](https://onedrive.live.com/about/download/)
 
