@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 76415c71ecfe81e38dbcbd55d2aca38dfeeaa38b
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: a97f7ce806013e3454c2c89621acddf571e940ac
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903673"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387724"
 ---
 # <a name="update-payment-details"></a>تحديث تفاصيل الدفع
 
-1. في مركز الإدارة، انتقل إلى [طرق الدفع](https://go.microsoft.com/fwlink/p/?linkid=2018806) أو اختر **فوترة** \> **طرق الدفع**.
+1. في مركز الإدارة، انتقل إلى صفحة **الفوترة** \> [طرق الدفع](https://go.microsoft.com/fwlink/p/?linkid=2018806).
 
     > [!NOTE]
     > إذا واجهت تكرار حلقي ينقلك مجدداً إلى الصفحة الرئيسية للمسؤول قبل إكمال التحديثات، فجرّب وضع Inprivate أو Incognito.
@@ -37,4 +37,4 @@ ms.locfileid: "35903673"
 
 5. لإزالة طريقة الدفع هذه، اختر **حذف**.
 
-للحصول على مزيد من المعلومات، اطلع على [إضافة بطاقة ائتمان أو حساب مصرفي أو تحديثه أو إزالته في Office 365 for Business](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724) و[استكشاف أخطاء بطاقات الائتمان والحسابات المصرفية وإصلاحها](https://support.office.com/article/30ba9c83-50d8-4020-90ed-830a5b8c8724).
+للحصول على مزيد من المعلومات، اطلع على [إضافة بطاقة ائتمان أو حساب مصرفي أو تحديثه أو إزالته في Office 365 for Business](https://docs.microsoft.com/ar-SA/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) و[استكشاف أخطاء بطاقات الائتمان والحسابات المصرفية وإصلاحها](https://docs.microsoft.com/ar-SA/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
