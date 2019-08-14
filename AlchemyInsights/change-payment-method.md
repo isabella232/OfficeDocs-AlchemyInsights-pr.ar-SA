@@ -13,22 +13,21 @@ ms.custom:
 - "277"
 - "1500001"
 ms.assetid: a67d2fcf-0faa-4796-a6a4-f7ffefd89e9c
-ms.openlocfilehash: 69c3732f226556152bb2bcf51840a61235dd1e80
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 261936877f149670ace8c70fd2be68d6b4fc0273
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35362992"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386835"
 ---
 # <a name="change-payment-method"></a>تغيير طريقة الدفع
 
 يمكنك التحقق من طريقة الدفع التي تم تكوينها بالانتقال إلى **الدفع** \> **الاشتراكات**. حدد الاشتراك الذي تريد التحقق. تظهر طريقة الدفع التي تم تكوينها للاشتراك ضمن **طريقة الدفع**. لتحديث تفاصيل طريقة الدفع الموجودة، اختر **تحديث تفاصيل الدفع**.
   
-1. في مركز الإدارة، انتقل إلى [الاشتراكات](https://go.microsoft.com/fwlink/p/?linkid=842054) أو اختر **فوترة** \> **الاشتراكات**.
+1. في مركز الإدارة، انتقل إلى **الدفع** \> صفحة [الاشتراكات](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. حدد الاشتراك الذي تريد تغيير أسلوب الدفع، ثم اختر **تغيير طريقة الدفع**.
 
 3. اتبع الخطوات الموجودة على الشاشة لإتمام التغيير.
 
-للحصول على إرشادات خطوة بخطوة، راجع: [تغيير طريقة الدفع ل Office 365 للشركات](https://support.office.com/article/8652f539-3123-4a8f-b9bd-6aa2f0e0372d)
-  
+للحصول على إرشادات خطوة بخطوة، راجع: [تغيير طريقة الدفع ل Office 365 للشركات](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/change-payment-method)

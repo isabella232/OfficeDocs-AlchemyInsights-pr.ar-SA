@@ -13,19 +13,19 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: bfee2039e20f69ceffec5946fdbf3f7ec15c8396
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bd058a965dfc0f014ab8efca1f330ec7180f8696
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35365440"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36387723"
 ---
 # <a name="view-my-bill"></a>عرض الفاتورة
 
-1. في مركز الإدارة، انتقل إلى الصفحة [فواتير](https://go.microsoft.com/fwlink/p/?linkid=848039) ، أو اختر **الفواتير** \> **شجرة**.
+1. في مركز الإدارة، انتقل إلى **الدفع** \> صفحة [شجرة](https://go.microsoft.com/fwlink/p/?linkid=848039) .
 
 2. الشهر وتاريخ الفاتورة الذي تريده، ثم اختر و **العرض**.
 
 3. أمر، ثم اختر و **عرض التفاصيل**.
 
-لمزيد من المعلومات راجع [عرض الفاتورة أو الفاتورة الخاصة بك](https://support.office.com/article/view-your-bill-or-invoice-2ae3ea58-4fce-4592-91d6-46e9ae3ec218?wt.mc_id=o365_portal_mmaven&amp;ui=en-US&amp;rs=en-US&amp;ad=US#bkmk_viewmybill).
+لمزيد من المعلومات راجع [عرض الفاتورة أو الفاتورة الخاصة بك](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).

@@ -13,12 +13,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: c4771f8a66d131d08a558a216c1d75869fbc13a3
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 1e1e6f115a1314f824ce69f03ee23a3e21ba3cf0
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359320"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386823"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>شراء اشتراك إلى Office 365 من الفترة التجريبية المجانية
 
@@ -26,18 +26,16 @@ ms.locfileid: "35359320"
   
  **يمكنك شراء نفس الخطة كالإصدار التجريبي**
   
-1. في مركز الإدارة، انتقل إلى [الاشتراكات](https://go.microsoft.com/fwlink/p/?linkid=842054) أو اختر **فوترة** \> **الاشتراكات**.
+1. في مركز الإدارة، انتقل إلى **الدفع** \> صفحة [الاشتراكات](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. اختر **الآن شراء** الاشتراك التجريبي الذي تريده، واتبع الخطوات للتحقق.
 
 أو **يمكنك شراء اشتراك مختلف**
   
-1. تسجيل الدخول إلى Office 365 بحساب العمل أو المدرسة كمسؤول. العالمية [التعرف على كيفية تسجيل الدخول](https://support.office.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4).
+1. في مركز الإدارة، انتقل إلى **الدفع** \> صفحة [الاشتراكات](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. اختر **Office 365** على الصفحة ابدأ.
+2. على الصفحة " **الاشتراك** "، حدد **إضافة اشتراكات**.
 
-3. في الركن الأيمن العلوي من الصفحة، ضمن شريط "التنقل"، اختر **الشراء**.
+3. ابحث عن الاشتراك الذي تريد شراء وحدد **اشتر الآن**واتبع الخطوات للتحقق.
 
-4. الصفحة **الشراء الاشتراكات** ، على الخطة تحاول شعار **في محاكمة** .
-
-5. اختر **الآن شراء** الاشتراك التجريبي الذي تريده، واتبع الخطوات للتحقق.
+يتم استخدام مركز الإدارة الجديد؟ للحصول على خطوات جديدة، راجع [شراء اشتراك في Office 365 للشركات من الفترة التجريبية المجانية](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).

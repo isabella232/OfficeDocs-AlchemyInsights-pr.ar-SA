@@ -13,20 +13,20 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: e84f1102a5862bf76bbb24a99fa13835dedd6a79
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 807fab7199a6f5d4e3c79be22451069def82a358
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35367384"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36388011"
 ---
 # <a name="too-many-licenses"></a>عدد كبير جداً من تراخيص؟
 
 إذا كنت تعتقد أن كنت يتم فوترة لعدد كبير جداً من التراخيص، يعود ذلك عادة بعد شراء المزيد من التراخيص فتحتاج.
   
- **تقليل عدد التراخيص التي تم شراؤها**
+**تقليل عدد التراخيص التي تم شراؤها**
   
-1. في مركز الإدارة، انتقل إلى [الاشتراكات](https://go.microsoft.com/fwlink/p/?linkid=842054) أو اختر **فوترة** \> **الاشتراكات**.
+1. في مركز الإدارة، انتقل إلى **الدفع** \> صفحة [الاشتراكات](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 2. على اليمين، اختر الاشتراك الذي تريد إزالة التراخيص.
 
@@ -35,3 +35,5 @@ ms.locfileid: "35367384"
 4. أدخل العدد الإجمالي للمستخدمين المطلوبة. على سبيل المثال، إذا كان لديك حاليا 25 التراخيص وتريد إزالة 5، أدخل 20 في هذا الحقل.
 
 5. اختيار **إرسال**.
+
+يتم استخدام مركز الإدارة الجديد؟ لاتخاذ خطوات جديدة، راجع [إزالة التراخيص من 365 Office الخاص بك للاشتراك في العمل](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).

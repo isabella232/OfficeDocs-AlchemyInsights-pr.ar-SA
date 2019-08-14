@@ -13,18 +13,18 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: 91b2ddf5a121595ecec8790ae625849894b01875
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9592c217a8ea994314f1c1f75ce5928bb8020bac
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35358528"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36385599"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>إضافة مقاعد للاشتراكات المدفوعة مسبقاً
 
-1. في مركز الإدارة، انتقل إلى [الاشتراكات](https://go.microsoft.com/fwlink/p/?linkid=842054) أو اختر **فوترة** \> **الاشتراكات**.
+1. في مركز الإدارة، انتقل إلى **الدفع** \> صفحة [الاشتراكات](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. اختر الاشتراك المدفوع مسبقاً بإضافة مستخدمين.
+2. اختر الاشتراك المدفوع مسبقاً بإضافة مستخدمين إلى.
 
 3. في القائمة **إجراءات إضافية** ، اختر **تجديد أو إضافة ترخيص برمز**.
 
@@ -35,3 +35,5 @@ ms.locfileid: "35358528"
 6. إدخال مفتاح المنتج، ثم اختر **التالي**.
 
 7. حدد الخيار لإضافة مزيد من المستخدمين، واختيار **التالي**، ثم اختر **ترويجي**.
+
+يتم استخدام مركز الإدارة الجديد؟ للحصول على خطوات جديدة، راجع [إضافة تراخيص أو توسيع اشتراك المدفوع لاستخدام مفتاح منتج](https://docs.microsoft.com/en-us/office365/admin/misc/add-licenses-using-product-key).

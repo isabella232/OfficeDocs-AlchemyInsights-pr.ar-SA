@@ -3,15 +3,6 @@
 
 
 
-## <a name="week-of-july-01-2019"></a>الأسبوع من 01 تموز/يوليه عام 2019
-
-
-| نشر في |عنوان الموضوع | تغيير |
-|------|------------|--------|
-| 7/1/2019 | [تقارير سجل التدقيق SharePoint الكلاسيكية](/AlchemyInsights/sharepoint-and-onedrive-audit-logs) | تعديل |
-| 7/2/2019 | [مزيد من المعلومات حول نهج الاستبقاء](/AlchemyInsights/office-security-compliance-retention-policy) | تعديل |
-
-
 ## <a name="week-of-july-08-2019"></a>أسبوع 08 يوليو عام 2019
 
 
@@ -131,7 +122,7 @@
 | 7/23/2019 | [خطأ 404: لم يتم العثور على ملف](/AlchemyInsights/error-404-access-site-file-sharepoint-onedrive) | تعديل |
 | 7/23/2019 | [إعلامات التنبيه SharePoint التي لم يتم تسليمها](/AlchemyInsights/sharepoint-alert-notifications-not-delivered) | تعديل |
 | 7/23/2019 | [مشكلات الاتصال مصمم SharePoint](/AlchemyInsights/sharepoint-designer-connection-issues-sharepoint-site) | تعديل |
-| 7/23/2019 | [القراءة فقط لصيانة رسالة عند محاولة استخدام SharePoint أو أونيدريفي](/AlchemyInsights/sharepoint-onedrive-read-only-maintenance-message) | تعديل |
+| 7/23/2019 | [القراءة فقط لصيانة رسالة عند محاولة استخدام SharePoint أو أندريف](/AlchemyInsights/sharepoint-onedrive-read-only-maintenance-message) | تعديل |
 | 7/25/2019 | [تنشيط نماذج Microsoft](/AlchemyInsights/activate-microsoft-forms) | تعديل |
 | 7/25/2019 | [إضافة مستخدمين إلى Office 365](/AlchemyInsights/add-users-to-office-365) | تعديل |
 | 7/25/2019 | [هل تحصل على كمية كبيرة من البريد العشوائي أو التصيد الاحتيالي في علبة البريد الخاصة بك ؟](/AlchemyInsights/are-you-getting-too-much-spam-or-phish-in-your-mailbox) | تعديل |
@@ -220,3 +211,69 @@
 | 8/2/2019 | [تنظيم البريد الإلكتروني الخاص بك في Outlook على ويب](/AlchemyInsights/owa-organize-email) | تعديل |
 | 8/2/2019 | [طباعة البريد الإلكتروني والتقويمات والمرفقات في برنامج Outlook على ويب](/AlchemyInsights/owa-print-email-calendars-attachments) | تعديل |
 | 8/2/2019 | [إعلام بالقراءة في Outlook على ويب](/AlchemyInsights/owa-read-receipts) | تعديل |
+
+
+## <a name="week-of-august-05-2019"></a>أسبوع 05 أغسطس عام 2019
+
+
+| نشر في |عنوان الموضوع | تغيير |
+|------|------------|--------|
+| 8/5/2019 | [كيفية الرد عليها أو إعادة توجيه الرسائل في Outlook على ويب](/AlchemyInsights/owa-reply-forward-messages) | تعديل |
+| 8/5/2019 | [البحث عن بريد 8000003 والأشخاص في Outlook على ويب](/AlchemyInsights/owa-search-mail-and-people) | تعديل |
+| 8/5/2019 | [إنشاء توقيع في Outlook على ويب](/AlchemyInsights/owa-signature) | تعديل |
+| 8/5/2019 | [S/MIME في Outlook على ويب](/AlchemyInsights/owa-smime) | تعديل |
+| 8/5/2019 | [إيقاف الرسائل من الانتقال إلى مجلد "البريد الإلكتروني العشوائي" في برنامج Outlook على ويب](/AlchemyInsights/owa-stop-email-from-going-to-junk-folder) | تعديل |
+| 8/5/2019 | [إيقاف "تركز علبة الوارد"](/AlchemyInsights/owa-turn-off-focused-inbox) | تعديل |
+| 8/5/2019 | [1332 OWA-قواعد علبة الوارد لا تنفذ لعلبة بريد](/AlchemyInsights/owainbox-rule-s-are-not-executing-for-a-mailbox) | تعديل |
+| 8/6/2019 | [اختبار صور مضمنة خيمياء](/AlchemyInsights/testing-alchemy-inline-images) | تعديل |
+| 8/6/2019 | [الحماية من التهديدات المتقدمة في SharePoint وأندريف](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | تعديل |
+| 8/6/2019 | [هجوم رانسومواري في SharePoint أو أندريف](/AlchemyInsights/ransomware-attack-in-sharepoint) | تعديل |
+| 8/6/2019 | [حديث الموقع الجذر](/AlchemyInsights/modern-site-as-the-root-site) | تعديل |
+| 8/6/2019 | [مشاكل أثناء ترحيل البيانات إلى SharePoint على الإنترنت](/AlchemyInsights/sharepoint-data-size-migration-issues) | تعديل |
+| 8/6/2019 | [منع تنزيل ملفات من SharePoint أو أندريف أو التحميل](/AlchemyInsights/sharepoint-onedrive-download-files) | تعديل |
+| 8/6/2019 | [استكشاف أخطاء الوصول مرفوض رسائل إلى أونيدريفي لمواقع العمل](/AlchemyInsights/sharepoint-onedrive-restore-users-admin%20rights) | تعديل |
+| 8/6/2019 | [استعادة حذف ملف أو مجلد](/AlchemyInsights/sharepoint-deleted-items-restore) | تعديل |
+| 8/6/2019 | [تعيين الإصدار في SharePoint وأندريف](/AlchemyInsights/sharepoint-enable-versioning-list-library) | تعديل |
+| 8/6/2019 | [أندريف معلومات استبقاء والحذف](/AlchemyInsights/one-drive-retention-and-deletion) | تعديل |
+| 8/7/2019 | [منع ملفات يتم تحميلها من SharePoint أو أندريف](/AlchemyInsights/prevent-download) | تعديل |
+| 8/7/2019 | [استعادة حذف ملف أو مجلد](/AlchemyInsights/sharepoint-deleted-items-restore) | تعديل |
+| 8/7/2019 | [تمكين مشاركة خارجية في SharePoint عبر إنترنت](/AlchemyInsights/sharepoint-enable-external-sharing) | تعديل |
+| 8/7/2019 | [إصلاح مشكلات المزامنة أندريف](/AlchemyInsights/fix-onedrive-sync-issues) | تعديل |
+| 8/7/2019 | [إصلاح مشاكل المزامنة أندريف](/AlchemyInsights/fix-onedrive-sync-problems) | تعديل |
+| 8/7/2019 | [لم يتم إرسال البريد الإلكتروني سير العمل](/AlchemyInsights/workflow-email-not-being-sent) | تعديل |
+| 8/7/2019 | [لا يتم الآن بدء تشغيل سير العمل](/AlchemyInsights/workflow-is-not-starting) | تعديل |
+| 8/7/2019 | [الحماية من التهديدات المتقدمة في SharePoint وأندريف](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | تعديل |
+| 8/7/2019 | [ربط موقع لوحة الوصل](/AlchemyInsights/associate-a-hub-site) | تعديل |
+| 8/7/2019 | [إنشاء موقع SharePoint](/AlchemyInsights/create-a-sharepoint-site) | تعديل |
+| 8/7/2019 | [حديث الموقع الجذر](/AlchemyInsights/modern-site-as-the-root-site) | تعديل |
+| 8/7/2019 | [استبقاء أندريف والحذف](/AlchemyInsights/one-drive-retention-and-deletion) | تعديل |
+| 8/7/2019 | [أندريف المشاكل الشائعة والحلول](/AlchemyInsights/onedrive-common-issues-and-resolutions) | تعديل |
+| 8/7/2019 | [هجوم رانسومواري في SharePoint أو أندريف](/AlchemyInsights/ransomware-attack-in-sharepoint) | تعديل |
+| 8/7/2019 | [الخارجية المشاركة في SharePoint على الإنترنت](/AlchemyInsights/sharepoint-enable-external-sharing-to-share-documents) | تعديل |
+| 8/7/2019 | [تعيين الإصدار في SharePoint وأندريف](/AlchemyInsights/sharepoint-enable-versioning-list-library) | تعديل |
+| 8/7/2019 | [غير قادر على قبول دعوة مشاركة جهة اتصال خارجي](/AlchemyInsights/sharepoint-external-contact-cannot-accept-invite) | تعديل |
+| 8/7/2019 | [المشكلات الشائعة على الإنترنت SharePoint والحلول](/AlchemyInsights/sharepoint-get-started-faq) | تعديل |
+| 8/7/2019 | [حديث الموقع الجذر](/AlchemyInsights/sharepoint-modernize-classic-site) | تعديل |
+| 8/7/2019 | [منع تنزيل ملفات من SharePoint أو أندريف أو التحميل](/AlchemyInsights/sharepoint-onedrive-download-files) | تعديل |
+| 8/7/2019 | [تثبيت برنامج الإعداد، ومزامنة الملفات SharePoint أو أندريف على Mac](/AlchemyInsights/sharepoint-onedrive-sync-files-mac) | تعديل |
+| 8/7/2019 | [استكشاف أخطاء وإصلاحها "فتح باستخدام" مستكشف "" في SharePoint عبر إنترنت](/AlchemyInsights/sync-sharepoint-files-with-onedrive) | تعديل |
+| 8/8/2019 | [الحماية من التهديدات المتقدمة في SharePoint وأندريف](/AlchemyInsights/advanced-threat-protection-in-sharepoint) | تعديل |
+| 8/8/2019 | [ربط موقع لوحة الوصل](/AlchemyInsights/associate-a-hub-site) | تعديل |
+| 8/8/2019 | [إنشاء موقع SharePoint](/AlchemyInsights/create-a-sharepoint-site) | تعديل |
+| 8/8/2019 | [خطأ 404: لم يتم العثور على ملف](/AlchemyInsights/error-404-access-site-file-sharepoint-onedrive) | تعديل |
+| 8/8/2019 | [إصلاح مشاكل المزامنة أونيدريفي في نظام التشغيل Mac](/AlchemyInsights/fix-onedrive-sync-issues-on-a-mac) | تعديل |
+| 8/8/2019 | [تعيين مكتبة SharePoint إلى محرك أقراص شبكة الاتصال](/AlchemyInsights/map-sharepoint-library-to-network-drive-new) | تعديل |
+| 8/8/2019 | [حديث الموقع الجذر](/AlchemyInsights/modern-site-as-the-root-site) | تعديل |
+| 8/8/2019 | [استبقاء أندريف والحذف](/AlchemyInsights/one-drive-retention-and-deletion) | تعديل |
+| 8/8/2019 | [هجوم رانسومواري في SharePoint أو أندريف](/AlchemyInsights/ransomware-attack-in-sharepoint) | تعديل |
+| 8/8/2019 | [استعادة حذف ملف أو مجلد](/AlchemyInsights/sharepoint-deleted-items-restore) | تعديل |
+| 8/8/2019 | [المستخدم الخارجي غير قادر على الوصول إلى المحتوى في SharePoint عبر إنترنت](/AlchemyInsights/sharepoint-external-sharing-issues) | تعديل |
+| 8/8/2019 | [نظرة عامة حول مواقع لوحة وصل SharePoint](/AlchemyInsights/sharepoint-hub-sites) | تعديل |
+| 8/8/2019 | [منع تنزيل ملفات من SharePoint أو أندريف أو التحميل](/AlchemyInsights/sharepoint-onedrive-download-files) | تعديل |
+| 8/8/2019 | [إدارة مخطط البحث في SharePoint عبر إنترنت](/AlchemyInsights/sharepoint-search-schema) | تعديل |
+| 8/8/2019 | [خطوات إنشاء سير عمل SharePoint](/AlchemyInsights/steps-to-create-a-sharepoint-workflow) | تعديل |
+| 8/8/2019 | [تبديل الموقع الجذر التقليدية مع موقع الحديثة](/AlchemyInsights/swap-your-classic-root-site-with-a-modern-site) | تعديل |
+| 8/8/2019 | [استكشاف أخطاء وإصلاحها "فتح باستخدام" مستكشف "" في SharePoint عبر إنترنت](/AlchemyInsights/sync-sharepoint-files-with-onedrive) | تعديل |
+| 8/8/2019 | [استكشاف الأخطاء وإصلاحها في سير العمل](/AlchemyInsights/workflow-troubleshooting) | تعديل |
+| 8/8/2019 | [سجل التدقيق البحث وتمكين](/AlchemyInsights/enable-auditing) | تعديل |
+| 8/8/2019 | [البحث وتمكين سجل التدقيق](/AlchemyInsights/enable-auditing) | تعديل |

@@ -13,18 +13,17 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: 5365cef480f22523e8410acf24f4845026f52a02
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 84538224f9f00f5807489449f3d5e75b99656313
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359752"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386931"
 ---
 # <a name="canceling-your-office-365-subscription"></a>إلغاء اشتراك Office 365؟
 
 نأسف لرؤية تذهب!
   
-استناداً إلى بيانات المؤسسة، نعتقد أن أقل من 25 مقعدا على كافة الاشتراكات الحالية. لإلغاء اشتراكك على الإنترنت، انتقل إلى صفحة [الاشتراك](https://go.microsoft.com/fwlink/p/?linkid=842054) ، أو انتقل إلى **الفوترة** \> **الاشتراكات**، ثم اختر **أكثر** \> **إلغاء الاشتراك**.
+استناداً إلى بيانات المؤسسة، نعتقد أن أقل من 25 مقعدا على كافة الاشتراكات الحالية. لإلغاء اشتراكك على الإنترنت، انتقل إلى **الدفع** \> [الاشتراكات](https://go.microsoft.com/fwlink/p/?linkid=842054) الصفحة، ثم اختر **أكثر** \> **إلغاء الاشتراك**.
   
-لمزيد من المعلومات حول إلغاء اشتراك أو للحصول على إرشادات خطوة بخطوة، راجع هذا المقال: [إلغاء Office 365 للشركات](https://support.office.com/article/b1bc0bef-4608-4601-813a-cdd9f746709a)
-  
+لمزيد من المعلومات حول إلغاء اشتراك أو للحصول على إرشادات خطوة بخطوة، راجع هذا المقال: [إلغاء الاشتراك](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)

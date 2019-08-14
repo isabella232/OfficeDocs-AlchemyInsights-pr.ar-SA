@@ -12,16 +12,16 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: f817836f7329e596a075361d9f9e8dc47374d48d
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: cd75ad71fc731047011627cabe24b74d8f342892
+ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385748"
+ms.lasthandoff: 08/13/2019
+ms.locfileid: "36386391"
 ---
 # <a name="how-to-add-or-edit-a-vatid"></a>كيفية إضافة أو تحرير فاتيد
 
-- انتقل إلى صفحة [اشتراكات](https://go.microsoft.com/fwlink/p/?linkid=842054) ، أو اختر **الاشتراكات** \> **الفوترة**.
+- في مركز الإدارة، انتقل إلى **الدفع** \> صفحة [الاشتراكات](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
 - اختر الاشتراك الذي ترغب في تحريره، ثم اختر **المزيد من الإجراءات** من صفحة **الاشتراكات** ، \> **رقم "تحرير ضريبة القيمة المضافة"**.
 
@@ -29,5 +29,6 @@ ms.locfileid: "35385748"
 
     عند الانتهاء، ضريبة القيمة المضافة لم يتم احتساب الفاتورة التالية.
 
-لمزيد من المعلومات، راجع [الضريبية التي ستكون تكلفة ل Office 365؟](https://support.office.com/article/7e77382b-b966-4ad5-a515-9e629a777a22.aspx)
-  
+لمزيد من المعلومات، راجع [الضريبية التي ستكون تكلفة ل Office 365؟](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
+
+يتم استخدام مركز الإدارة الجديد؟ للحصول على خطوات جديدة، راجع [إضافة "معرف ضريبة القيمة المضافة" الخاص بك](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged?view=o365-worldwide#add-your-vat-id-eu-countries-only).
