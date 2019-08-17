@@ -13,33 +13,25 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: d2187cffc8b6c29785b2c5151d1f608f1efbbd15
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 992037e999b94ceb470470151a69f5455e12ce3f
+ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35371420"
+ms.lasthandoff: 08/16/2019
+ms.locfileid: "36444759"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>كيفية إجراء "عمليات البحث المحتوى" والبحث eDiscovery
 
-**البحث عن المحتوى**
+استخدم أداة "البحث عن المحتوى" في & أمان مركز التوافق العثور بسرعة على البريد الإلكتروني في صندوق بريد Exchange أو المستندات الموجودة في مواقع SharePoint وحساب أندريف والمحادثات في Skype لأعمال المراسلة الفورية. يمكنك أيضا استخدام "أداة البحث المحتوى" للبحث عن البريد الإلكتروني والمستندات ومحادثات المراسلة الفورية في Office 365 أدوات التعاون مثل Office 365 المجموعات والفرق Microsoft.
+
+**للقيام ببحث محتوى**
 
 1. انتقل إلى [& أمان مركز التوافق](https://protection.office.com) وتسجيل الدخول.
-2. انقر فوق **البحث & التحقيق > البحث في المحتوى**.
+2. انقر فوق **البحث في المحتوى > البحث**.
 3. انقر فوق **بحث جديد** لإنشاء بحث جديد.
 4. أدخل شروط البحث المطلوبة بما في ذلك مواقع المحتوى والكلمات الأساسية.  
 5. انقر فوق **حفظ تشغيل &** اسم البحث، بدء تشغيله، ثم قم بمعاينة النتائج.
 
-للحصول على إرشادات مفصلة حول إنشاء عمليات بحث وتصدير النتائج، راجع [هذا المقال](https://docs.microsoft.com/office365/securitycompliance/content-search).
+للحصول على إرشادات مفصلة حول محتوى البحث، تصدير النتائج وإنشاء حالات eDiscovery للاحتفاظ بالبيانات، راجع [البحث في المحتوى](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) و [حالات eDiscovery](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases).
 
-**البحث eDiscovery**
-
-1. انتقل إلى [& أمان مركز التوافق](https://protection.office.com) وتسجيل الدخول.
-2. انقر فوق **البحث & التحقيق > eDiscovery**.
-3. افتح حالة موجودة أو إنشاء واحدة جديدة.
-4. في حالة الصفحة الرئيسية، انقر فوق علامة التبويب **عمليات البحث** .  
-5. انقر فوق **بحث جديد** لإنشاء بحث جديد.
-6. أدخل شروط البحث المطلوبة بما في ذلك مواقع المحتوى والكلمات الأساسية.  
-7. انقر فوق **حفظ تشغيل &** اسم البحث، بدء تشغيله، ثم قم بمعاينة النتائج.
-
-للحصول على إرشادات مفصلة حول إنشاء عمليات البحث المرتبطة بحالة eDiscovery وتصدير النتائج، راجع [هذا المقال](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
+فهم النتائج المزيد عن "البحث في المحتوى" بمراجعة [شروط وحدود](https://docs.microsoft.com/en-us/office365/securitycompliance/limits-for-content-search) و [تحقق جزئيا فهرسة العناصر](https://docs.microsoft.com/en-us/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) وغيرها أن تكون على علم بها.
