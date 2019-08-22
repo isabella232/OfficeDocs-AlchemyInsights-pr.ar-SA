@@ -13,40 +13,38 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: f2d9896f10f122e3d1e6b24de441144134d03570
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: b6a8e6dc08941bf18c3ef8f36a14d63a41b34d4d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388803"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522418"
 ---
 # <a name="how-to-add-or-reduce-licenses"></a>كيفية إضافة أو تقليل التراخيص
 
-وإليك كيفية إزالة أو شراء المزيد من التراخيص.
+وإليك كيفية إزالة أو شراء المزيد من التراخيص Office 365.
   
-1. في مركز الإدارة، انتقل إلى **الدفع** \> صفحة [الاشتراكات](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. في مركز الإدارة، انتقل إلى **الدفع** \> صفحة [& المنتجات أو الخدمات](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. على اليمين، اختر الاشتراك الذي تريد إضافة/إزالة التراخيص
+2. حدد الاشتراك الذي تريد إضافة/إزالة التراخيص.
 
-3. اختر **إضافة/إزالة التراخيص**.
+3. حدد **إضافة/إزالة التراخيص**.
 
 4. أدخل العدد الإجمالي للمستخدمين المطلوبة.
 
     على سبيل المثال، إذا كان لديك حاليا 25 التراخيص وتريد إزالة 5، أدخل 20 في هذا الحقل.
 
-5. اختيار **إرسال**.
+5. اختر **تغيير الإرسال**.
 
 > [!NOTE]
 > سوف تظهر أي تهمة جديدة (زيادة الترخيص) أو الائتمان (ترخيص النقصان) على الفاتورة التالية.
 
-يتم استخدام مركز الإدارة الجديد؟ للحصول على خطوات جديدة، راجع [شراء التراخيص الخاصة بك Office 365 للاشتراك في الأعمال](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-licenses).
+لمزيد من المعلومات، راجع [شراء التراخيص الخاصة بك Office 365 للاشتراك في العمل](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
 
- **الموارد**
+ **موارد إضافية**
   
-- [إزالة التراخيص من اشتراك Office 365 للأعمال](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)
+- [إزالة التراخيص من اشتراك Office 365 للأعمال](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)
 
-- [شراء التراخيص الخاصة بك Office 365 لاشتراك الأعمال](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-licenses)
+- [إلغاء Office 365 للشركات](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
 
-- [إلغاء Office 365 للشركات](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription)
-
-- [شراء Office 365 آخر لاشتراك الأعمال](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-another-subscription)
+- [شراء Office 365 آخر لاشتراك الأعمال](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription)

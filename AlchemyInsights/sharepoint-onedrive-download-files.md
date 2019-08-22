@@ -13,12 +13,12 @@ ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
 ms.custom:
 - "9000213"
 - "1788"
-ms.openlocfilehash: 6e9287d10b4ac436ecd7a2ab3a014d8f9216fb33
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 409845a2e62aaeb6027a4c9120f5fc84d9c9722a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36269255"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36503298"
 ---
 # <a name="download-or-prevent-download-of-files-from-onedrive-or-sharepoint"></a>منع تنزيل ملفات من SharePoint أو أندريف أو التحميل
 
@@ -30,7 +30,7 @@ ms.locfileid: "36269255"
 
 - [زيادة التحميل وسرعة التحميل](https://support.office.com/article/Maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)
 
-- [إصلاح مشاكل المزامنة أونيدريفي](https://support.office.com/article/Fix-OneDrive-sync-problems-83ab0d8a-8400-45b0-8dcf-dc8aa8a6bcf8)
+- [إصلاح مشاكل المزامنة أندريف](https://support.office.com/article/Fix-OneDrive-sync-problems-83ab0d8a-8400-45b0-8dcf-dc8aa8a6bcf8)
 
-- [تنزيل أونيدريفي للعمل](https://onedrive.live.com/about/download/)
+- [تنزيل أندريف للعمل](https://onedrive.live.com/about/download/)
 

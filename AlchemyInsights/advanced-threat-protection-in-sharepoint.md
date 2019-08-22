@@ -1,5 +1,5 @@
 ---
-title: الحماية من التهديدات المتقدمة في SharePoint وأونيدريفي
+title: الحماية من التهديدات المتقدمة في SharePoint وأندريف
 ms.author: efrene
 author: efrene
 ms.date: 8/07/2019
@@ -12,12 +12,12 @@ ms.custom:
 - "9000650"
 - "2489"
 ms.assetid: ''
-ms.openlocfilehash: 295097b12716d666b70dce94186c61bc77d6710b
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 74ab1bc37c43bdb48ff44f3073c3df4adf8c4f3d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36270479"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36493866"
 ---
 # <a name="advanced-threat-protection-atp-in-sharepoint-and-onedrive"></a>الحماية من التهديدات المتقدمة (ATP) في SharePoint وأندريف
 

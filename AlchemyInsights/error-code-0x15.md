@@ -12,13 +12,15 @@ ms.custom:
 - "2000022"
 ms.assetid: 0d566afe-b21f-4f1b-8ca9-4b4d3b0f5435
 description: إذا كنت تتلقى خطأ أثناء تنشيط Office 2013 على عمليات نشر خدمات سطح المكتب البعيد (RDS)، خذ بعين الاعتبار تمكين إنبات عن طريق تحرير التسجيل.
-ms.openlocfilehash: e2249d8ebbd2313c64dda5656a3243fa76d97a9a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 4ef2943e5a529368fa2c614e4431cf180924fbb8
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35388232"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36526955"
 ---
+# <a name="error-while-activation-office-2013-on-remote-desktop-services"></a>حدث خطأ أثناء تنشيط Office 2013 على "خدمات سطح المكتب البعيد"
+
 إذا كنت تتلقى خطأ أثناء تنشيط Office 2013 على عمليات نشر خدمات سطح المكتب البعيد (RDS)، خذ بعين الاعتبار تمكين إنبات عن طريق تحرير التسجيل.
   
 |**مفتاح التسجيل**|**نوع**|**القيمة**|
@@ -28,5 +30,5 @@ ms.locfileid: "35388232"
 لمزيد من المعلومات، راجع [تمكين مصادقة الحديثة ل 2013 Office على أجهزة Windows](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication).
   
 > [!NOTE]
->  يتم تمكين إنبات افتراضياً في Office 365 ProPlus ومكتب عام 2016. تم مسبقاً يسمى > خدمات سطح المكتب البعيد (RDS) "الخدمات الطرفية".
+>  يتم تمكين إنبات افتراضياً في Office 365 ProPlus ومكتب عام 2016. تم مسبقاً يسمى خدمات سطح المكتب البعيد (RDS) "الخدمات الطرفية".
   
