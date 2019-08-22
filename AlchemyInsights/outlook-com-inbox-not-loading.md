@@ -12,16 +12,16 @@ ms.custom:
 - "1271"
 - "1963"
 - "8000078"
-ms.openlocfilehash: 6b3b8d2136236abe7ca71c613f5c991a67bf4f99
-ms.sourcegitcommit: 6be59c8adfbe651833959d251f829496be1a1331
+ms.openlocfilehash: 0699b73e9df875f4fee2bb169540b43e48a72a95
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36049091"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36536422"
 ---
 # <a name="empty-inbox"></a>علبة الوارد فارغة
 
-**علبة الوارد فارغ**
+**علبة الوارد Outlook.com فارغ**
 
 - قد تمنع بعض الوظائف الإضافية في متصفح فايرفوكس علبة الوارد من التحميل. قم بزيارة دعم فايرفوكس للتعرف على كيفية [تعطيل أو إزالة الوظائف الإضافية](https://support.mozilla.org/kb/disable-or-remove-add-ons).
 

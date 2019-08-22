@@ -13,12 +13,12 @@ ms.custom:
 - "484"
 - "1500030"
 ms.assetid: d2a41ce0-207f-4f50-8a6a-2ec5b56b3ed6
-ms.openlocfilehash: 55243adda44931a78ca2a8af06565b8a48dd10b5
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 162b6b1d84b41a62b56a800a1b41fc47b305097a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36387546"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36531238"
 ---
 # <a name="what-happens-to-my-data-and-access-when-my-office-365-for-business-subscription-ends"></a>ماذا يحدث للوصول والبيانات الخاصة بي عند انتهاء بلدي Office 365 للاشتراك في العمل؟
 
@@ -26,6 +26,6 @@ ms.locfileid: "36387546"
   
 قبل وصول الاشتراك فعلياً إلى تاريخ انتهاء الصلاحية، لديك عدة خيارات **إدارة تكرار الفوترة للاشتراك**.
   
-- **موعد الدفع** قيد التشغيل، لا يلزم اتخاذ أي إجراء. ستتم فوترة الاشتراك في تاريخ **الفوترة المتكررة** ، وسوف يتحمل سنة إضافية أو الشهر، اعتماداً على تكرار الدفع الحالي الخاص بك. إذا كان لأي سبب أوقفت **تكرار الفوترة** ، يمكنك دوماً [تشغيل تكرار الدفع مرة أخرى](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+- **موعد الدفع** قيد التشغيل، لا يلزم اتخاذ أي إجراء. ستتم فوترة الاشتراك في تاريخ **الفوترة المتكررة** ، وسوف يتحمل سنة إضافية أو الشهر، اعتماداً على تكرار الدفع الحالي الخاص بك. إذا كان لأي سبب أوقفت **تكرار الفوترة** ، يمكنك دوماً [تشغيل تكرار الدفع مرة أخرى](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
 
-- إذا كنت أحد عملاء "فتح الترخيص" باشتراك مدفوع مقدما، سنة واحدة، اتصل بشريكك لشراء مفتاح منتج جديد. سوف تتلقى الإرشادات عبر البريد الإلكتروني لتنشيط المفتاح في [مركز خدمة ترخيص وحدة التخزين](https://go.microsoft.com/fwlink/p/?LinkID=282016). لمعرفة كيفية البحث عن شريك جديد أو الشريكة التي عملت بها في الماضي، راجع [البحث Office 365 الشريك أو بائع التجزئة](https://docs.microsoft.com/en-us/office365/admin/manage/find-your-partner-or-reseller).
+- إذا كنت أحد عملاء "فتح الترخيص" باشتراك مدفوع مقدما، سنة واحدة، اتصل بشريكك لشراء مفتاح منتج جديد. سوف تتلقى الإرشادات عبر البريد الإلكتروني لتنشيط المفتاح في [مركز خدمة ترخيص وحدة التخزين](https://go.microsoft.com/fwlink/p/?LinkID=282016). لمعرفة كيفية البحث عن شريك جديد أو الشريكة التي عملت بها في الماضي، راجع [البحث Office 365 الشريك أو بائع التجزئة](https://docs.microsoft.com/office365/admin/manage/find-your-partner-or-reseller).

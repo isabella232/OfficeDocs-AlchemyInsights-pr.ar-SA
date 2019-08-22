@@ -12,16 +12,16 @@ ms.assetid: f0b69874-8a7b-480c-8329-01872c6c21df
 ms.custom:
 - "8000036"
 - "838"
-ms.openlocfilehash: 353703d159072cc8daa7f52d02f7fc1afd72d1df
-ms.sourcegitcommit: a7e5ca472000dfec471950bafd12eee8d7144f74
+ms.openlocfilehash: c20b8c0919ebe89c473a1f7b9067cceecf13f2c6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35701418"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36537444"
 ---
 # <a name="change-your-email-name"></a>تغيير عنوان البريد الإلكتروني
 
-إذا كان لديك عنوان بريد إلكتروني وترغب في تغيير سيشاهده المستلمون اسم في الرسائل الخاصة بك:
+إذا كان لديك واحدة Outlook.com عنوان البريد الإلكتروني وتريد تغيير سيشاهده المستلمون اسم في الرسائل الخاصة بك:
   
 1. حدد صورة الحساب في الركن الأيمن العلوي من الصفحة.
 2. حدد **ملف التعريف الخاص بي**.
