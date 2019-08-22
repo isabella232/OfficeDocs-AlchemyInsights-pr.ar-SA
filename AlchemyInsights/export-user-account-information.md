@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000166"
 - "1700"
-ms.openlocfilehash: 682fa0950a0816fec0c3989dc92a10137e7e7b11
-ms.sourcegitcommit: 42f0dc9fdf5b93a68b048e8aee2eb9b6cf66a6eb
+ms.openlocfilehash: 7addbbe8aa0eea80d063601c8e2b0be73e2aded2
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/15/2019
-ms.locfileid: "35697427"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36526198"
 ---
-# <a name="export-user-account-information"></a><span data-ttu-id="07057-102">تصدير معلومات حساب المستخدم</span><span class="sxs-lookup"><span data-stu-id="07057-102">Export user account information</span></span>
+# <a name="export-user-account-information"></a><span data-ttu-id="0e7a5-102">تصدير معلومات حساب المستخدم</span><span class="sxs-lookup"><span data-stu-id="0e7a5-102">Export user account information</span></span>
 
-<span data-ttu-id="07057-103">تصدير حساب المستخدم المعلومات بما في ذلك المعلومات المتعلقة بالتراخيص ونهج كلمة المرور، الحسابات المحظورة، حالة "المزامنة عاد" ومزيد من المعلومات، انتقل إلى **المستخدمين** > [المتواجدين](https://go.microsoft.com/fwlink/p/?linkid=834822) الصفحة، ثم اختر **تصدير المستخدمين**.</span><span class="sxs-lookup"><span data-stu-id="07057-103">To export user account information including information on licenses, password policy, blocked accounts, AAD Sync status, and more, go to the **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, then choose **Export Users**.</span></span>
+<span data-ttu-id="0e7a5-103">لتصدير معلومات حساب المستخدم في مسؤول Microsoft 365 مركز، بما في ذلك المعلومات المتعلقة بالتراخيص ونهج كلمة المرور، الحسابات المحظورة، حالة "المزامنة عاد" ومزيد من المعلومات، انتقل إلى **المستخدمين** > صفحة[المستخدمين النشطين](https://go.microsoft.com/fwlink/p/?linkid=834822) ، وحدد ثم **التصدير المستخدمون**.</span><span class="sxs-lookup"><span data-stu-id="0e7a5-103">To export user account information in the Microsoft 365 admin center, including information on licenses, password policy, blocked accounts, AAD Sync status, and more, go to the **Users** > [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, and then select **Export Users**.</span></span>

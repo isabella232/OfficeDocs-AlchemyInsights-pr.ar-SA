@@ -16,25 +16,27 @@ search.appverid:
 - MOP150
 - MBS150
 ms.assetid: 785fc94f-fa62-461b-ba00-cf875e45d48f
-ms.openlocfilehash: 80295232bfd23979665755566e9fb45a440d0f85
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 7c49f63632f89696165136d823123c599acecc21
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32403662"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527458"
 ---
-# <a name="enable-multi-factor-authentication"></a><span data-ttu-id="d2e20-102">تمكين مصادقة متعددة العوامل</span><span class="sxs-lookup"><span data-stu-id="d2e20-102">Enable multi-factor authentication</span></span>
+# <a name="enable-multi-factor-authentication"></a><span data-ttu-id="826b7-102">تمكين مصادقة متعددة العوامل</span><span class="sxs-lookup"><span data-stu-id="826b7-102">Enable multi-factor authentication</span></span>
 
-1. <span data-ttu-id="d2e20-103">الانتقال إلى **المستخدمين** \> **النشطة للمستخدمين**</span><span class="sxs-lookup"><span data-stu-id="d2e20-103">Navigate to **Users** \> **Active users**</span></span>
+<span data-ttu-id="826b7-103">لتمكين مصادقة متعددة العوامل في مركز الإدارة Microsoft 365:</span><span class="sxs-lookup"><span data-stu-id="826b7-103">To enable multi-factor authentication in the Microsoft 365 admin center:</span></span>
+
+1. <span data-ttu-id="826b7-104">انتقل إلى **المستخدمين** \> صفحة **المستخدمين النشطين** .</span><span class="sxs-lookup"><span data-stu-id="826b7-104">Go to the **Users** \> **Active users** page.</span></span>
     
-2. <span data-ttu-id="d2e20-104">انقر فوق **مزيد من** \> **"أزور إعداد" مصادقة متعددة العوامل**.</span><span class="sxs-lookup"><span data-stu-id="d2e20-104">Click **More** \> **Setup Azure multi-factor auth**.</span></span> 
+2. <span data-ttu-id="826b7-105">في أعلى الصفحة، حدد **مصادقة متعددة العوامل**.</span><span class="sxs-lookup"><span data-stu-id="826b7-105">At the top of the page, select **Multi-factor authentication**.</span></span> 
     
-3. <span data-ttu-id="d2e20-105">العثور على المستخدم أو المستخدمين الذين تريد تمكين لوزارة الخارجية.</span><span class="sxs-lookup"><span data-stu-id="d2e20-105">Find the user or users who you want to enable for MFA.</span></span> <span data-ttu-id="d2e20-106">لمشاهدة كافة المستخدمين، قد تحتاج إلى تغيير طريقة عرض حالة "مصادقة" متعددة العوامل أعلى.</span><span class="sxs-lookup"><span data-stu-id="d2e20-106">In order to see all the users, you might need to change the Multi-Factor Auth status view at the top.</span></span>
+3. <span data-ttu-id="826b7-106">العثور على المستخدم أو المستخدمين الذين تريد تمكين مصادقة متعددة العوامل.</span><span class="sxs-lookup"><span data-stu-id="826b7-106">Find the user or users who you want to enable for multi-factor authentication.</span></span> <span data-ttu-id="826b7-107">لمشاهدة كافة المستخدمين، قد تحتاج إلى تغيير عامل التصفية **حالة "مصادقة" متعددة العوامل** أعلى.</span><span class="sxs-lookup"><span data-stu-id="826b7-107">To see all the users, you might need to change the **Multi-Factor Auth status** filter at the top.</span></span>
     
-4. <span data-ttu-id="d2e20-107">تحقق من خانة الاختيار بجانب المستخدمين التي تريد تمكينها.</span><span class="sxs-lookup"><span data-stu-id="d2e20-107">Check the check box next to the users you want to enable.</span></span>
+4. <span data-ttu-id="826b7-108">حدد خانة الاختيار المجاورة للمستخدمين التي تريد تمكينها.</span><span class="sxs-lookup"><span data-stu-id="826b7-108">Select the check box next to the users you want to enable.</span></span>
     
-5.  <span data-ttu-id="d2e20-108">في جزء المعلومات المستخدم الصحيح، ضمن **الخطوات السريعة** سترى تمكين وإدارة إعدادات المستخدم.</span><span class="sxs-lookup"><span data-stu-id="d2e20-108">On the right user info pane, under **quick steps** you'll see Enable and Manage user settings.</span></span> <span data-ttu-id="d2e20-109">اختر **تمكين**.</span><span class="sxs-lookup"><span data-stu-id="d2e20-109">Choose **Enable**.</span></span> 
+5.  <span data-ttu-id="826b7-109">في جزء المعلومات المستخدم الصحيح ضمن **الخطوات السريعة**، حدد " **تمكين**".</span><span class="sxs-lookup"><span data-stu-id="826b7-109">In the right user info pane, under **quick steps**, select **Enable**.</span></span> 
     
-6. <span data-ttu-id="d2e20-110">في مربع الحوار الذي يفتح، **انقر فوق تمكين مصادقة متعددة العوامل**.</span><span class="sxs-lookup"><span data-stu-id="d2e20-110">In the dialog box that opens, **click enable multi-factor auth**.</span></span> 
+6. <span data-ttu-id="826b7-110">في مربع الحوار فتح، حدد **تمكين مصادقة متعددة العوامل**.</span><span class="sxs-lookup"><span data-stu-id="826b7-110">In the dialog box that opens, select **enable multi-factor auth**.</span></span> 
     
 

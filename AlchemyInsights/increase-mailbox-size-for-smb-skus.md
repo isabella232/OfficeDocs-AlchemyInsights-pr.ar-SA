@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: 8d0d846c97bac885e0082670dbeec3f4fd8c1129
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3a054debbfa600c42480bb6e6bdd709ba041972a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32412558"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36499266"
 ---
-# <a name="switch-plans-to-increase-mailbox-size"></a><span data-ttu-id="fd147-102">تبديل تخطط لزيادة حجم علبة البريد</span><span class="sxs-lookup"><span data-stu-id="fd147-102">Switch plans to increase mailbox size</span></span>
+# <a name="switch-plans-to-increase-mailbox-size"></a><span data-ttu-id="67af4-102">تبديل تخطط لزيادة حجم علبة البريد</span><span class="sxs-lookup"><span data-stu-id="67af4-102">Switch plans to increase mailbox size</span></span>
 
-<span data-ttu-id="fd147-103">إذا كان حجم علبة البريد 50 جيجابايت، يمكنك زيادة حجم علبة البريد إلى 100 جيجابايت بالتبديل إلى [Office 365 المؤسسة E3](https://products.office.com/business/office-365-enterprise-e3-business-software) أو [E5 المؤسسة Office 365](https://products.office.com/business/office-365-enterprise-e5-business-software).</span><span class="sxs-lookup"><span data-stu-id="fd147-103">If the mailbox size is 50 GB, you can increase the mailbox size to 100 GB by switching to [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) or [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software).</span></span> <span data-ttu-id="fd147-104">فيما يلي الخطوات للتحويل إلى نظام Office 365 مختلفة:</span><span class="sxs-lookup"><span data-stu-id="fd147-104">Here are the steps to switch to a different Office 365 plan:</span></span>
+<span data-ttu-id="67af4-103">إذا كان حجم علبة البريد 50 جيجابايت، يمكنك زيادة حجم علبة البريد إلى 100 جيجابايت بالتبديل إلى [Office 365 المؤسسة E3](https://products.office.com/business/office-365-enterprise-e3-business-software) أو [E5 المؤسسة Office 365](https://products.office.com/business/office-365-enterprise-e5-business-software).</span><span class="sxs-lookup"><span data-stu-id="67af4-103">If the mailbox size is 50 GB, you can increase the mailbox size to 100 GB by switching to [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) or [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software).</span></span> <span data-ttu-id="67af4-104">فيما يلي الخطوات للتحويل إلى نظام Office 365 مختلفة:</span><span class="sxs-lookup"><span data-stu-id="67af4-104">Here are the steps to switch to a different Office 365 plan:</span></span>
   
-1. <span data-ttu-id="fd147-105">في مركز مسؤول Microsoft 365، انتقل إلى صفحة [الاشتراك](https://go.microsoft.com/fwlink/p/?linkid=842054) ، أو اختر **الفواتير** \> **الاشتراكات**.</span><span class="sxs-lookup"><span data-stu-id="fd147-105">In the Microsoft 365 admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
+1. <span data-ttu-id="67af4-105">في مركز مسؤول Microsoft 365، انتقل إلى صفحة [الاشتراك](https://go.microsoft.com/fwlink/p/?linkid=842054) ، أو اختر **الفواتير** \> **الاشتراكات**.</span><span class="sxs-lookup"><span data-stu-id="67af4-105">In the Microsoft 365 admin center, go to the [Subscriptions](https://go.microsoft.com/fwlink/p/?linkid=842054) page, or choose **Billing** \> **Subscriptions**.</span></span>
     
-2. <span data-ttu-id="fd147-106">اختيار **خطط التبديل** عرض قائمة بالخطط الجديدة المتاحة.</span><span class="sxs-lookup"><span data-stu-id="fd147-106">Choose **Switch plans** to view the list of new plans that are available.</span></span> 
+2. <span data-ttu-id="67af4-106">اختيار **خطط التبديل** عرض قائمة بالخطط الجديدة المتاحة.</span><span class="sxs-lookup"><span data-stu-id="67af4-106">Choose **Switch plans** to view the list of new plans that are available.</span></span> 
     
-3. <span data-ttu-id="fd147-107">اختر خطة لمعرفة التكلفة الإجمالية جديد كل شهر.</span><span class="sxs-lookup"><span data-stu-id="fd147-107">Choose a plan to see the new total cost per month.</span></span> <span data-ttu-id="fd147-108">تأكد من قراءة **المعلومات الأساسية**، ثم اختر **التالي** للتحقق.</span><span class="sxs-lookup"><span data-stu-id="fd147-108">Be sure to read the **key information**, then choose **Next** to check out.</span></span> 
+3. <span data-ttu-id="67af4-107">اختر خطة لمعرفة التكلفة الإجمالية جديد كل شهر.</span><span class="sxs-lookup"><span data-stu-id="67af4-107">Choose a plan to see the new total cost per month.</span></span> <span data-ttu-id="67af4-108">تأكد من قراءة **المعلومات الأساسية**، ثم اختر **التالي** للتحقق.</span><span class="sxs-lookup"><span data-stu-id="67af4-108">Be sure to read the **key information**, then choose **Next** to check out.</span></span> 
     
-4. <span data-ttu-id="fd147-109">عند الانتهاء من سحب، يأخذ Office 365 عدة دقائق لإتمام التحول.</span><span class="sxs-lookup"><span data-stu-id="fd147-109">When you finish checkout, Office 365 takes a few minutes to finalize the switch.</span></span> <span data-ttu-id="fd147-110">يمكنك البدء باستخدام الاشتراك الجديد الخاص بك مباشرة.</span><span class="sxs-lookup"><span data-stu-id="fd147-110">You can start using your new subscription right away.</span></span>
+4. <span data-ttu-id="67af4-109">عند الانتهاء من سحب، يأخذ Office 365 عدة دقائق لإتمام التحول.</span><span class="sxs-lookup"><span data-stu-id="67af4-109">When you finish checkout, Office 365 takes a few minutes to finalize the switch.</span></span> <span data-ttu-id="67af4-110">يمكنك البدء باستخدام الاشتراك الجديد الخاص بك مباشرة.</span><span class="sxs-lookup"><span data-stu-id="67af4-110">You can start using your new subscription right away.</span></span>
     
-<span data-ttu-id="fd147-111">للحصول على مزيد من التفاصيل، راجع [المفتاح إلى Office 365 خطة مختلفة](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a).</span><span class="sxs-lookup"><span data-stu-id="fd147-111">For more details, see [Switch to a different Office 365 plan](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a).</span></span>
+<span data-ttu-id="67af4-111">للحصول على مزيد من التفاصيل، راجع [المفتاح إلى Office 365 خطة مختلفة](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a).</span><span class="sxs-lookup"><span data-stu-id="67af4-111">For more details, see [Switch to a different Office 365 plan](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a).</span></span>
   
 

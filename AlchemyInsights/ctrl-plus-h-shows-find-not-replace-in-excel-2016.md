@@ -13,14 +13,14 @@ ms.custom:
 - "235"
 - "2200007"
 ms.assetid: bd398934-d6bf-43a7-ae1f-6921402c07ef
-ms.openlocfilehash: 3437582885556104ad4eea14845acb0fd1c431fb
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 0d2260163a837d5d2c2f0ad54e74a73ca204c635
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35362884"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36514498"
 ---
-# <a name="ctrlh-shows-find-not-replace-in-excel"></a><span data-ttu-id="65488-102">يعرض CTRL + H البحث، ولن يتم استبدالها في Excel</span><span class="sxs-lookup"><span data-stu-id="65488-102">CTRL+H shows Find, not Replace in Excel</span></span>
+# <a name="ctrlh-shows-find-not-replace-in-excel"></a><span data-ttu-id="b463c-102">يعرض CTRL + H البحث، ولن يتم استبدالها في Excel</span><span class="sxs-lookup"><span data-stu-id="b463c-102">CTRL+H shows Find, not Replace in Excel</span></span>
 
-<span data-ttu-id="65488-103">في عام 2016 Excel، الضغط على المفاتيح CTRL + H لفتح مربع حوار بحث واستبدال وإظهار علامة التبويب بحث، بدلاً من علامة التبويب "استبدال" ضمن علامة التبويب الصفحة الرئيسية "بالنقر فوق استبدال" يفعل الشيء نفسه.</span><span class="sxs-lookup"><span data-stu-id="65488-103">In Excel 2016, pressing CTRL+H opens the Find and Replace dialog and shows the Find tab, instead of the Replace tab. Clicking Replace on the Home tab does the same thing.</span></span> <span data-ttu-id="65488-104">تم إصلاح هذه المشكلة في الإصدار 1708 (8431.2094).</span><span class="sxs-lookup"><span data-stu-id="65488-104">This issue was fixed in version 1708 (8431.2094).</span></span> <span data-ttu-id="65488-105">لحل هذه المشكلة، تحديث لأحدث إصدار من Office.</span><span class="sxs-lookup"><span data-stu-id="65488-105">To fix this, update to the latest version of Office.</span></span> <span data-ttu-id="65488-106">حدد **ملف** \> **حساب** \> **تحديث خيارات** \> **التحديث الآن**.</span><span class="sxs-lookup"><span data-stu-id="65488-106">Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
+<span data-ttu-id="b463c-103">في عام 2016 Excel، الضغط على المفاتيح CTRL + H لفتح مربع حوار بحث واستبدال وإظهار علامة التبويب بحث، بدلاً من علامة التبويب "استبدال" ضمن علامة التبويب الصفحة الرئيسية "بالنقر فوق استبدال" يفعل الشيء نفسه.</span><span class="sxs-lookup"><span data-stu-id="b463c-103">In Excel 2016, pressing CTRL+H opens the Find and Replace dialog and shows the Find tab, instead of the Replace tab. Clicking Replace on the Home tab does the same thing.</span></span> <span data-ttu-id="b463c-104">تم إصلاح هذه المشكلة في الإصدار 1708 (8431.2094).</span><span class="sxs-lookup"><span data-stu-id="b463c-104">This issue was fixed in version 1708 (8431.2094).</span></span> <span data-ttu-id="b463c-105">لحل هذه المشكلة، تحديث لأحدث إصدار من Office.</span><span class="sxs-lookup"><span data-stu-id="b463c-105">To fix this, update to the latest version of Office.</span></span> <span data-ttu-id="b463c-106">حدد **ملف** \> **حساب** \> **تحديث خيارات** \> **التحديث الآن**.</span><span class="sxs-lookup"><span data-stu-id="b463c-106">Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
   

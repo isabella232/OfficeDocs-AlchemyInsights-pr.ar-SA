@@ -13,17 +13,17 @@ ms.custom:
 - "485"
 - "1500018"
 ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
-ms.openlocfilehash: caeab31fa69c743b4f3d2df3d1e265957b518ce8
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: c3d553d5ba7693a1bc2e8b74b5ba850b05167c53
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386787"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36517738"
 ---
-# <a name="billing-cycle-credit-card"></a><span data-ttu-id="482ab-102">بطاقة ائتمان دورة الفوترة</span><span class="sxs-lookup"><span data-stu-id="482ab-102">Billing cycle credit card</span></span>
+# <a name="billing-cycle-credit-card"></a><span data-ttu-id="97336-102">بطاقة ائتمان دورة الفوترة</span><span class="sxs-lookup"><span data-stu-id="97336-102">Billing cycle credit card</span></span>
 
-<span data-ttu-id="482ab-103">عند شراء Office 365 لاشتراك الأعمال مباشرة من Microsoft، يمكنك الدفع بواسطة بطاقة الائتمان أو.</span><span class="sxs-lookup"><span data-stu-id="482ab-103">When you buy an Office 365 for business subscription directly from Microsoft, you can pay with a credit or debit card.</span></span> <span data-ttu-id="482ab-104">وفي بعض البلدان أو المناطق، يمكن أيضا أن بحساب مصرفي.</span><span class="sxs-lookup"><span data-stu-id="482ab-104">In some countries or regions, you can also pay with a bank account.</span></span>
+<span data-ttu-id="97336-103">عند شراء Office 365 لاشتراك الأعمال مباشرة من Microsoft، يمكنك الدفع بواسطة بطاقة الائتمان أو.</span><span class="sxs-lookup"><span data-stu-id="97336-103">When you buy an Office 365 for business subscription directly from Microsoft, you can pay with a credit or debit card.</span></span> <span data-ttu-id="97336-104">وفي بعض البلدان أو المناطق، يمكن أيضا أن بحساب مصرفي.</span><span class="sxs-lookup"><span data-stu-id="97336-104">In some countries or regions, you can also pay with a bank account.</span></span>
   
-<span data-ttu-id="482ab-105">إذا اخترت استخدام بطاقة ائتمان كطريقة الدفع، يمكنك معرفة كيفية إدارة واستكشاف الأخطاء وإصلاحها من [إضافة، تحديث، أو إزالة بطاقة الائتمان أو رقم الحساب في Office 365 للعمل](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="482ab-105">If you choose to use a credit card as your payment method, you can learn how to manage and troubleshoot from [Add, update, or remove a credit card or bank account in Office 365 for business](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span></span>
+<span data-ttu-id="97336-105">إذا اخترت استخدام بطاقة ائتمان كطريقة الدفع، يمكنك معرفة كيفية إدارة واستكشاف الأخطاء وإصلاحها من [إضافة، تحديث، أو إزالة بطاقة الائتمان أو رقم الحساب في Office 365 للعمل](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="97336-105">If you choose to use a credit card as your payment method, you can learn how to manage and troubleshoot from [Add, update, or remove a credit card or bank account in Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span></span>
   
-<span data-ttu-id="482ab-106">ويتضمن ذلك حل مشكلات عندما تم رفض بطاقة الائتمان الخاصة بك، وتغيير معلومات بطاقة الائتمان بحيث يتم قبول البطاقة.</span><span class="sxs-lookup"><span data-stu-id="482ab-106">This includes resolving issues when your credit card is declined and changing credit card information so that the card is accepted.</span></span>
+<span data-ttu-id="97336-106">ويتضمن ذلك حل مشكلات عندما تم رفض بطاقة الائتمان الخاصة بك، وتغيير معلومات بطاقة الائتمان بحيث يتم قبول البطاقة.</span><span class="sxs-lookup"><span data-stu-id="97336-106">This includes resolving issues when your credit card is declined and changing credit card information so that the card is accepted.</span></span>
