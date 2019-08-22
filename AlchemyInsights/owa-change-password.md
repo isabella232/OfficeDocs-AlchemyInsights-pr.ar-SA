@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.custom:
 - "8000002"
 - "1990"
-ms.openlocfilehash: d350f2292f759cb5a0e4674110e92036160f8985
-ms.sourcegitcommit: 8e4126e64eca48be458242d744650878b8bb89e5
+ms.openlocfilehash: 18aef4096e936138c85f22f343500f5f233f903f
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/07/2019
-ms.locfileid: "33663661"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36510466"
 ---
-# <a name="change-your-password"></a><span data-ttu-id="4812a-102">تغيير كلمة المرور</span><span class="sxs-lookup"><span data-stu-id="4812a-102">Change your password</span></span>
+# <a name="change-your-office-365-password"></a><span data-ttu-id="ba821-102">تغيير كلمة المرور الخاصة بك Office 365</span><span class="sxs-lookup"><span data-stu-id="ba821-102">Change your Office 365 password</span></span>
 
-[<span data-ttu-id="4812a-103">إعادة تعيين كلمة المرور الخاصة بك Office 365</span><span class="sxs-lookup"><span data-stu-id="4812a-103">Reset your Office 365 password</span></span>](https://go.microsoft.com/fwlink/p/?linkid=841910)
+<span data-ttu-id="ba821-103">إذا كنت بحاجة إلى تغيير أو إعادة تعيين كلمة المرور الخاصة بك Office 365، يمكنك الانتقال مباشرة إلى هذه الصفحة: [إعادة تعيين كلمة المرور ل Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841910)</span><span class="sxs-lookup"><span data-stu-id="ba821-103">If you need to change or reset your Office 365 password, you can go directly to this page: [Reset your Microsoft password](https://go.microsoft.com/fwlink/p/?linkid=841910)</span></span>

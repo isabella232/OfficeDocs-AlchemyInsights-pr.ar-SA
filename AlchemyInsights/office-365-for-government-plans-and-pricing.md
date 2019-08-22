@@ -13,15 +13,17 @@ ms.custom:
 - "477"
 - "1500026"
 ms.assetid: 541063f0-181a-4d1a-895f-ea90ec3b29bb
-ms.openlocfilehash: 8d716ef3f79691971d04801731d2dd4b080b36f8
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 71436f099cc81f7fbce88c76fc62406fb9d0abbd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389347"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522106"
 ---
-<span data-ttu-id="dce45-102">خطط "حكومة الولايات المتحدة" office 365 مصممة للاحتياجات الخاصة بالمؤسسات الحكومية في الولايات المتحدة.</span><span class="sxs-lookup"><span data-stu-id="dce45-102">Office 365 U.S. Government plans are designed for the unique needs of U.S. government organizations.</span></span> <span data-ttu-id="dce45-103">أنها توفر ميزات وقدرات خدمات Office 365 في مجتمع سحابة حكومة مقسمة التي تمكن الشركات من الوفاء بمعايير الأمان والتوافق الولايات المتحدة.</span><span class="sxs-lookup"><span data-stu-id="dce45-103">They provide all the features and capabilities of Office 365 services in a segmented government cloud community that enables organizations to meet U.S. compliance and security standards.</span></span>
-  
-- [<span data-ttu-id="dce45-104">مراجعة خطط الحكومة</span><span class="sxs-lookup"><span data-stu-id="dce45-104">Review the Government plans</span></span>](https://products.office.com/government/compare-office-365-government-plans)
+# <a name="office-365-government-plans"></a><span data-ttu-id="2580d-102">وتخطط الحكومة office 365</span><span class="sxs-lookup"><span data-stu-id="2580d-102">Office 365 Government plans</span></span>
 
-- [<span data-ttu-id="dce45-105">مقارنة كافة خطط Office 365</span><span class="sxs-lookup"><span data-stu-id="dce45-105">Compare all Office 365 plans</span></span>](https://products.office.com/business/compare-more-office-365-for-business-plans)
+<span data-ttu-id="2580d-103">خطط "حكومة الولايات المتحدة" office 365 مصممة للاحتياجات الخاصة بالمؤسسات الحكومية في الولايات المتحدة.</span><span class="sxs-lookup"><span data-stu-id="2580d-103">Office 365 U.S. Government plans are designed for the unique needs of U.S. government organizations.</span></span> <span data-ttu-id="2580d-104">أنها توفر ميزات وقدرات خدمات Office 365 في مجتمع سحابة حكومة مقسمة التي تمكن الشركات من الوفاء بمعايير الأمان والتوافق الولايات المتحدة.</span><span class="sxs-lookup"><span data-stu-id="2580d-104">They provide all the features and capabilities of Office 365 services in a segmented government cloud community that enables organizations to meet U.S. compliance and security standards.</span></span>
+  
+- [<span data-ttu-id="2580d-105">مراجعة خطط الحكومة</span><span class="sxs-lookup"><span data-stu-id="2580d-105">Review the Government plans</span></span>](https://products.office.com/government/compare-office-365-government-plans)
+
+- [<span data-ttu-id="2580d-106">مقارنة كافة خطط Office 365</span><span class="sxs-lookup"><span data-stu-id="2580d-106">Compare all Office 365 plans</span></span>](https://products.office.com/business/compare-more-office-365-for-business-plans)
