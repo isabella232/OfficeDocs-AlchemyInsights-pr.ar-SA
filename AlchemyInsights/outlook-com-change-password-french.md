@@ -12,21 +12,21 @@ ms.custom:
 - "1153"
 - "1154"
 - "8000075"
-ms.openlocfilehash: 15cf9b4821161ef03503acafcc17f04899b11d8e
-ms.sourcegitcommit: a413a0e27ef4ab8c484fa9fccff8bbef381c8b96
+ms.openlocfilehash: b665e1385c77a59b8af96031ae3369d55bf0a737
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35746360"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36537406"
 ---
-# <a name="changer-votre-mot-de-passe-dans-outlookcom"></a><span data-ttu-id="cecf1-102">مغير طفلك يذكره دي عتيق dans Outlook.com</span><span class="sxs-lookup"><span data-stu-id="cecf1-102">Changer votre mot de passe dans Outlook.com</span></span>
+# <a name="changer-votre-mot-de-passe-dans-outlookcom"></a><span data-ttu-id="c73c0-102">مغير طفلك يذكره دي عتيق dans Outlook.com</span><span class="sxs-lookup"><span data-stu-id="c73c0-102">Changer votre mot de passe dans Outlook.com</span></span>
 
-<span data-ttu-id="cecf1-103">طفلك يذكره عتيق Outlook.com est لو أن كيو الخاص يذكره دي دي Microsoft محضر عتيق.</span><span class="sxs-lookup"><span data-stu-id="cecf1-103">Votre mot de passe Outlook.com est le même que votre mot de passe Compte Microsoft.</span></span>
+<span data-ttu-id="c73c0-103">طفلك يذكره عتيق Outlook.com est لو أن كيو الخاص يذكره دي دي Microsoft محضر عتيق.</span><span class="sxs-lookup"><span data-stu-id="c73c0-103">Votre mot de passe Outlook.com est le même que votre mot de passe Compte Microsoft.</span></span>
 
-1. <span data-ttu-id="cecf1-104">Accédez à [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) et sélectionnez **دي يذكره du الأمن عتيق**.</span><span class="sxs-lookup"><span data-stu-id="cecf1-104">Accédez à [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) et sélectionnez **Sécurité du mot de passe**.</span></span>
-2. <span data-ttu-id="cecf1-105">Par mesure الأمن، إذا يمكنك وجود دعوة انتقائي المثبت الخاص هويتها انتقائي المساعدة عن قانون الأمن.</span><span class="sxs-lookup"><span data-stu-id="cecf1-105">Par mesure de sécurité, vous pouvez être invité à confirmer votre identité à l’aide d’un code de sécurité.</span></span>
-3. <span data-ttu-id="cecf1-106">Entrez الخاص يذكره دي عتيق actuel، دي يذكره نوفو طفلك عتيق، ثم sélectionnez **انريجيسترير**.</span><span class="sxs-lookup"><span data-stu-id="cecf1-106">Entrez votre mot de passe actuel, votre nouveau mot de passe, puis sélectionnez **Enregistrer**.</span></span>
+1. <span data-ttu-id="c73c0-104">Accédez à [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) et sélectionnez **دي يذكره du الأمن عتيق**.</span><span class="sxs-lookup"><span data-stu-id="c73c0-104">Accédez à [https://account.microsoft.com/security](https://go.microsoft.com/fwlink/p/?linkid=842325&amp;clcid=0x409) et sélectionnez **Sécurité du mot de passe**.</span></span>
+2. <span data-ttu-id="c73c0-105">Par mesure الأمن، إذا يمكنك وجود دعوة انتقائي المثبت الخاص هويتها انتقائي المساعدة عن قانون الأمن.</span><span class="sxs-lookup"><span data-stu-id="c73c0-105">Par mesure de sécurité, vous pouvez être invité à confirmer votre identité à l’aide d’un code de sécurité.</span></span>
+3. <span data-ttu-id="c73c0-106">Entrez الخاص يذكره دي عتيق actuel، دي يذكره نوفو طفلك عتيق، ثم sélectionnez **انريجيسترير**.</span><span class="sxs-lookup"><span data-stu-id="c73c0-106">Entrez votre mot de passe actuel, votre nouveau mot de passe, puis sélectionnez **Enregistrer**.</span></span>
 
-<span data-ttu-id="cecf1-107">ح إذا لديك oublié الخاص يذكره دي عتيق، accédez à مش [الصفحة de réinitialisation de يذكره دي دي عتيق محضر Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841909)، تدعو ثم les سويفيز.</span><span class="sxs-lookup"><span data-stu-id="cecf1-107">Si vous avez oublié votre mot de passe, accédez à la [page de réinitialisation de mot de passe de compte Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841909), puis suivez les invites.</span></span>
+<span data-ttu-id="c73c0-107">ح إذا لديك oublié الخاص يذكره دي عتيق، accédez à مش [الصفحة de réinitialisation de يذكره دي دي عتيق محضر Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841909)، تدعو ثم les سويفيز.</span><span class="sxs-lookup"><span data-stu-id="c73c0-107">Si vous avez oublié votre mot de passe, accédez à la [page de réinitialisation de mot de passe de compte Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841909), puis suivez les invites.</span></span>
 
-<span data-ttu-id="cecf1-108">ح إذا كنت كيو الخاص Outlook.com piraté،، تمهيدي [محضر الاثنين Outlook.com piraté،](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="cecf1-108">Si vous pensez que votre Outlook.com a été piraté, voir [Mon compte Outlook.com a été piraté](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="c73c0-108">ح إذا كنت كيو الخاص Outlook.com piraté،، تمهيدي [محضر الاثنين Outlook.com piraté،](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="c73c0-108">Si vous pensez que votre Outlook.com a été piraté, voir [Mon compte Outlook.com a été piraté](https://support.office.com/fr-fr/article/mon-compte-outlook-com-a-été-piraté-35993ac5-ac2f-494e-aacb-5232dda453d8?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
