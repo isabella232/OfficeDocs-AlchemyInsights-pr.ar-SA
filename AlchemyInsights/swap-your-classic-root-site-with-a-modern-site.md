@@ -12,19 +12,19 @@ ms.assetid: ''
 ms.custom:
 - "9000687"
 - "2579"
-ms.openlocfilehash: 0f6f962314d9099bd21c281a23ad2e95742da4a8
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: ffb1466fe436d6cab7ae5fdd60c671f5dd2654dd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36270730"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501066"
 ---
 # <a name="swap-your-classic-root-site-with-a-modern-site"></a>تبديل الموقع الجذر التقليدية مع موقع الحديثة
 
 إذا تم إعداد البيئة الخاصة بك قبل نيسان/أبريل عام 2019، يمكنك تغيير الموقع الجذر الخاص بك إلى موقع حديثة باستخدام Microsoft PowerShell:
 
 - إذا كان لديك موقع آخر تريد استخدامه كالموقع الجذر الخاص بك، يمكنك استبدال (ترحيل) الجذر الموقع معها. 
-    - استخدام [استدعاء سبسيتيسواب](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) لتبديل موضع موقع بموقع آخر أثناء الأرشفة الموقع الأصلي. يتوفر لكل موقع الفريق (غير متصل بمجموعة) وموقع الاتصال. 
+    - استخدام [استدعاء سبوسيتيسواب](https://docs.microsoft.com/powershell/module/sharepoint-online/invoke-spositeswap?view=sharepoint-ps) لتبديل موضع موقع بموقع آخر أثناء الأرشفة الموقع الأصلي. يتوفر لكل موقع الفريق (غير متصل بمجموعة) وموقع الاتصال. 
 
 - تم توفير قدرات إضافية قريبا التي تسمح لك للاحتفاظ باستخدام المحتوى على الموقع، ولكن تحويل موقع موجود إلى موقع اتصال. 
 >[!Important]

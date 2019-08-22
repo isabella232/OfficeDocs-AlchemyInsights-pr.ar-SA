@@ -10,14 +10,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1fab9c5d-f6ca-461c-94f0-76e7cfb8a26d
-ms.openlocfilehash: bddee236cf045411ef0ba9d0739d5787172f623a
-ms.sourcegitcommit: 204c8fadd59a597a18ebde24b3c63fbb656ec1b6
+ms.openlocfilehash: 0105c6e6fa6e44371dc260edc438ebfaf6919bda
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/25/2019
-ms.locfileid: "35223771"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36559900"
 ---
-# <a name="troubleshooting-missing-files-or-folders"></a>استكشاف أخطاء المجلدات أو الملفات المفقودة
+# <a name="troubleshooting-missing-files-or-folders-in-onedrive-or-sharepoint"></a>استكشاف أخطاء المجلدات في SharePoint أو أندريف أو الملفات المفقودة
 
 - [تحقق من موقع سلة المحذوفات](https://support.office.com/article/restore-deleted-items-from-the-site-collection-recycle-bin-5fa924ee-16d7-487b-9a0a-021b9062d14b?ui=en-US&amp;rs=en-US&amp;ad=US)
 
@@ -27,7 +27,7 @@ ms.locfileid: "35223771"
 
 **ميزة "استعادة الملفات"**
 
-إذا كان الكثير من الملفات SharePoint أو أونيدريفي الحصول على حذف أو استبدال، تالفة أو الإصابة بالبرامج الضارة، يمكنك استعادة مكتبة Sharepoint أو أونيدريفي بالكامل إلى استخدام ميزة "استعادة الملفات" في وقت سابق.
+إذا كان الكثير من الملفات SharePoint أو أندريف الحصول على حذف أو استبدال، تالفة أو الإصابة بالبرامج الضارة، يمكنك استعادة مكتبة Sharepoint أو أندريف بالكامل إلى استخدام ميزة "استعادة الملفات" في وقت سابق.
 
 - [استعادة مكتبة أندريف](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
 

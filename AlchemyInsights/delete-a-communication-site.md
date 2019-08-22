@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cbf9ca67-56ff-4455-aa2d-30b39f883ddb
-ms.openlocfilehash: d9e92b484e36e3fcc6a84dd655385b6e8d21434b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 33bf81d01653f29369672819cfe8446809584ec1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32405795"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36514103"
 ---
 # <a name="delete-a-communication-site"></a>حذف موقع اتصال
 
@@ -25,14 +25,12 @@ ms.locfileid: "32405795"
   
 3. تحت **معلومات الموقع**، انقر فوق **حذف هذا الموقع**، ومن ثم انقر فوق **حذف**. 
   
-المسؤولون أيضا حذف موقع اتصال من مركز الإدارة الحديثة باتباع الخطوات التالية: 
+المسؤولون أيضا حذف موقع اتصال من مركز الإدارة الجديدة باتباع الخطوات التالية: 
   
-1. حاول مركز الإدارة الجديد بالنقر فوق الزر **جربة الآن** في الزاوية العلوية اليمنى. 
+1. حدد **مواقع نشطة** على اليسار. 
   
-2. حدد **مواقع نشطة**. 
+2. انقر فوق بجوار الموقع الذي تريد حذفه وسوف يظهر خيار **حذف** من القائمة العلوية. 
   
-3. انقر فوق بجوار الموقع الذي تريد حذفه وسوف يظهر خيار **حذف** من القائمة العلوية. 
-  
- **ملاحظة:** إذا كنت تريد بالتأكيد حذف موقع الاتصال (قبل إزالته من "سلة المحذوفات") حيث يمكنك إعادة استخدام محدد موقع معلومات الموقع، استخدم [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) لتقييم سلة المحذوفات و [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) لإزالة الموقع من "سلة المحذوفات". 
+ **ملاحظة:** إذا كنت تريد بالتأكيد حذف موقع الاتصال (قبل إزالته من "سلة المحذوفات") حيث يمكنك إعادة استخدام محدد موقع معلومات الموقع، استخدم [سبوديليتيدسيتي الحصول على](https://aka.ms/Get-SPODeletedSite) تقييم سلة المحذوفات و [إزالة سبوديليتيدسيتي](https://aka.ms/Remove-SPODeletedSite) لإزالة الموقع من "سلة المحذوفات". 
   
 

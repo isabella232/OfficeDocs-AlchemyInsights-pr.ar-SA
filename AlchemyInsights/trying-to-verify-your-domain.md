@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ebf00eb2-1205-4d5d-aae0-4581766234f5
-ms.openlocfilehash: 2f5323e6179bcce3dd25833d263dfe095f6c6d12
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 189eb0365e57bb872e1fb4ea400bff0f786e640b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32420111"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36533177"
 ---
 # <a name="trying-to-verify-your-domain"></a>هل تحاول التحقق من المجال؟
 
-سيتعين عليك إضافة سجل TXT إلى جهة تسجيل المجالات للتحقق من ملكيتك للمجال. اتبع المعالج "إضافة مجال" عن طريق النقر فوق **إعدادات** \> **مجال**، ثم **إضافة مجال**. 
+سيتعين عليك إضافة سجل TXT إلى جهة تسجيل المجالات للتحقق من ملكيتك للمجال. اتبع معالج "النطاق الجديد" في مركز مسؤول Microsoft 365 بالانتقال إلى **إعداد** \> **المجالات**، ثم **إضافة المجال**. 
   
 اتبع الإرشادات الواردة في المقالة أدناه لإضافة سجل TXT للتحقق من المجال. حدد جهة تسجيل المجالات للحصول على إرشادات محددة للمجال.
   
