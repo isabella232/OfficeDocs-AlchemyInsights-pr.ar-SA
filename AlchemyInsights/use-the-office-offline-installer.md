@@ -12,16 +12,16 @@ ms.custom:
 - "938"
 - "2000022"
 ms.assetid: 69ed12bf-c47a-4e08-bd52-2a90bec1ee91
-ms.openlocfilehash: 0aabd504ddc5d3bbea5e7d23a0315660721ebc8a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 2e1bbddf91c623cad2e53b7c0d137f4d7de45143
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35365944"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36532246"
 ---
-# <a name="use-the-office-offline-installer"></a><span data-ttu-id="bae92-102">استخدم مثبت Office دون اتصال</span><span class="sxs-lookup"><span data-stu-id="bae92-102">Use the Office offline installer</span></span>
+# <a name="use-the-office-offline-installer"></a><span data-ttu-id="79d5c-102">استخدم مثبت Office دون اتصال</span><span class="sxs-lookup"><span data-stu-id="79d5c-102">Use the Office offline installer</span></span>
 
-<span data-ttu-id="bae92-103">يجب أن تكون متصلاً بإنترنت لتنزيل ملفات المثبت، ولكن بمجرد أن يتم ذلك، ثم تثبيت Office دون اتصال على كمبيوتر حسب احتياجاتك باستخدام أداة نشر Office (ODT)</span><span class="sxs-lookup"><span data-stu-id="bae92-103">You need to be connected to the internet to download the installer files, but once that's done, you can then install Office offline on a PC at your convenience by using the Office Deployment Tool (ODT)</span></span>
+<span data-ttu-id="79d5c-103">يجب أن تكون متصلاً بإنترنت لتنزيل ملفات المثبت، ولكن بمجرد أن يتم ذلك، ثم تثبيت Office دون اتصال على كمبيوتر حسب احتياجاتك باستخدام أداة نشر Office (ODT)</span><span class="sxs-lookup"><span data-stu-id="79d5c-103">You need to be connected to the internet to download the installer files, but once that's done, you can then install Office offline on a PC at your convenience by using the Office Deployment Tool (ODT)</span></span>
 
-<span data-ttu-id="bae92-104">هو مصمم للبيئات المؤسسة ODT ويتم تشغيلها من سطر الأوامر، حيث توجد الخطوات أكثر تعقيداً – ولكن أنها سوف لا تزال تعمل من أجل التثبيت على جهاز واحد.</span><span class="sxs-lookup"><span data-stu-id="bae92-104">The ODT is designed for enterprise environments and runs from the command line, so the steps are more complicated--but they'll still work for installation on a single device.</span></span> <span data-ttu-id="bae92-105">راجع [استخدام Office المثبت حاليا](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="bae92-105">See [Use the Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).</span></span>
+<span data-ttu-id="79d5c-104">هو مصمم للبيئات المؤسسة ODT ويتم تشغيلها من سطر الأوامر، حيث توجد الخطوات أكثر تعقيداً – ولكن أنها سوف لا تزال تعمل من أجل التثبيت على جهاز واحد.</span><span class="sxs-lookup"><span data-stu-id="79d5c-104">The ODT is designed for enterprise environments and runs from the command line, so the steps are more complicated--but they'll still work for installation on a single device.</span></span> <span data-ttu-id="79d5c-105">راجع [استخدام Office المثبت حاليا](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).</span><span class="sxs-lookup"><span data-stu-id="79d5c-105">See [Use the Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).</span></span>
   
