@@ -13,24 +13,24 @@ ms.assetid: 22777888-c472-437c-87cf-e3c52f3b310c
 ms.custom:
 - "651"
 - "2000017"
-ms.openlocfilehash: a68e6a78f042a57f88c44e7b5cf62bdacebefba4
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bde7f68684003b551297f8befc52e438a6fa5e58
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35385323"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36522490"
 ---
-# <a name="how-to-assign-office-licenses-to-mac-users"></a><span data-ttu-id="7ba54-102">كيفية تعيين مكتب التراخيص لمستخدمي Mac</span><span class="sxs-lookup"><span data-stu-id="7ba54-102">How to assign Office licenses to Mac users</span></span>
+# <a name="how-to-assign-office-licenses-to-mac-users"></a><span data-ttu-id="080fa-102">كيفية تعيين مكتب التراخيص لمستخدمي Mac</span><span class="sxs-lookup"><span data-stu-id="080fa-102">How to assign Office licenses to Mac users</span></span>
 
-- <span data-ttu-id="7ba54-103">في مركز مسؤول Microsoft 365، انتقل إلى الصفحة [النشطة للمستخدمين](https://go.microsoft.com/fwlink/p/?linkid=834822) ، أو اختر **المستخدمين** \> **المستخدمين النشطين**.</span><span class="sxs-lookup"><span data-stu-id="7ba54-103">In the Microsoft 365 admin center, go to the [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page, or choose **Users** \> **Active users**.</span></span>
+1. <span data-ttu-id="080fa-103">في مركز الإدارة، انتقل إلى **المستخدمين** \> صفحة [المستخدمين النشطين](https://go.microsoft.com/fwlink/p/?linkid=834822) .</span><span class="sxs-lookup"><span data-stu-id="080fa-103">In the admin center, go to the **Users** \> [Active users](https://go.microsoft.com/fwlink/p/?linkid=834822) page.</span></span>
 
-- <span data-ttu-id="7ba54-104">حدد المربع الموجود بجانب الاسم المستخدم الذي تريد تعيين ترخيص.</span><span class="sxs-lookup"><span data-stu-id="7ba54-104">Select the box next to the name of the user to whom you want to assign a license.</span></span>
+2. <span data-ttu-id="080fa-104">حدد اسم المستخدم الذي تريد تعيين أو تغيير أو إزالة ترخيص.</span><span class="sxs-lookup"><span data-stu-id="080fa-104">Select the name of the user to whom you want to assign, change, or remove a license.</span></span>
 
-- <span data-ttu-id="7ba54-105">على اليمين، في صف **تراخيص المنتجات** ، اختر **تحرير**.</span><span class="sxs-lookup"><span data-stu-id="7ba54-105">On the right, in the **Product licenses** row, choose **Edit**.</span></span>
+3. <span data-ttu-id="080fa-105">من علامة التبويب **التراخيص والتطبيقات** ، حدد الترخيص التي تريد تعيينها لهذا المستخدم.</span><span class="sxs-lookup"><span data-stu-id="080fa-105">On the **Licenses and Apps** tab, select the license that you want to assign to this user.</span></span>
 
-- <span data-ttu-id="7ba54-106">في الجزء s **ترخيص المنتج**، قم بالتبديل التبديل إلى الموضع **على** الترخيص التي تريد تعيينها لهذا المستخدم.</span><span class="sxs-lookup"><span data-stu-id="7ba54-106">In the **Product license**s pane, switch the toggle to the **On** position for the license that you want to assign to this user.</span></span>
+    <span data-ttu-id="080fa-106">بشكل افتراضي، يتم تعيين كافة الخدمات المقترنة بهذا الترخيص تلقائياً للمستخدم.</span><span class="sxs-lookup"><span data-stu-id="080fa-106">By default, all services associated with that license are automatically assigned to the user.</span></span> <span data-ttu-id="080fa-107">لتحديد الخدمات التي تتوفر للمستخدم، قم بإلغاء تحديد خانة الاختيار للخدمات التي لا تريد أن يكون للمستخدم.</span><span class="sxs-lookup"><span data-stu-id="080fa-107">To limit which services are available to the user, clear the check box for the services that you don't want that user to have.</span></span>
 
-- <span data-ttu-id="7ba54-107">في أسفل جزء **تراخيص المنتجات** ، اختر **حفظ** \> **إغلاق** \> **إغلاق**.</span><span class="sxs-lookup"><span data-stu-id="7ba54-107">At the bottom of the **Product licenses** pane, choose **Save** \> **Close** \> **Close**.</span></span>
+4. <span data-ttu-id="080fa-108">في أسفل جزء، اختر **حفظ التغييرات**.</span><span class="sxs-lookup"><span data-stu-id="080fa-108">At the bottom of the pane, choose **Save changes**.</span></span>
 
-<span data-ttu-id="7ba54-108">لمزيد من المعلومات: [تعيين التراخيص للمستخدمين في Office 365 للشركات](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)</span><span class="sxs-lookup"><span data-stu-id="7ba54-108">For more information: [Assign licenses to users in Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)</span></span>
+<span data-ttu-id="080fa-109">لمزيد من المعلومات: [تعيين التراخيص للمستخدمين في Office 365 للشركات](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)</span><span class="sxs-lookup"><span data-stu-id="080fa-109">For more information: [Assign licenses to users in Office 365 for business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)</span></span>
   
