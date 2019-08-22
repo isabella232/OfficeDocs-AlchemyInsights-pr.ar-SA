@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 71c41134a267cdd18c2168d4835078da103ad840
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 19033fe2f700e940432428e212a5956fcc06b0e6
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32406299"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36513995"
 ---
-# <a name="delete-sites-that-belong-to-an-office-365-group"></a>حذف المواقع التي تنتمي إلى مجموعة Office 365:
+# <a name="delete-sites-that-belong-to-an-office-365-group"></a>حذف المواقع التي تنتمي إلى مجموعة Office 365
 
 عند المستخدمين إنشاء موقع فريق جديد من الصفحة الرئيسية SharePoint أو إنشاء موقع فريق جديد من مركز إدارة SharePoint جديد، يتم إنشاء مجموعة Office 365 المطابق تلقائياً. تم إنشاء office 365 الفريق المتصلة بمجموعة المواقع عند إنشاء فريق أو مجموعة Office 365 في فرق Microsoft. لحذف موقع SharePoint الذي ينتمي إلى مجموعة Office 365، تحتاج لحذف مجموعة Office 365 نفسها. 
   
@@ -34,7 +34,7 @@ ms.locfileid: "32406299"
 
 1. انتقل إلى الموقع.
   
-2. انقر فوق * * إعدادات * * رمز في الجزء العلوي الأيمن. 
+2. انقر فوق الرمز " **إعدادات** " في الجزء العلوي الأيمن. 
   
 3. انقر فوق **إعدادات الموقع**. تحت **معلومات الموقع** أو **إجراءات الموقع**، انقر فوق **حذف هذا الموقع**، ومن ثم انقر فوق **حذف**.
   

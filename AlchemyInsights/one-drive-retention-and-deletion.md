@@ -12,20 +12,20 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: 66156ee3bb9c1368326ad557f5f042fc8444694b
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 50a75073339f1903f2f843e301441c90e795d2f1
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36269399"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36521554"
 ---
-# <a name="onedrive-retention-and-deletion"></a>استبقاء أندريف والحذف
+# <a name="onedrive-retention-and-deletion"></a>استبقاء أونيدريفي والحذف
 
-- يمكنك [استعادة أونيدريفي مستخدمين حذف](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) نفسك. ففي سلة المحذوفات لأيام 93. 
+- يمكنك [استعادة أندريف مستخدمين حذف](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) نفسك. ففي سلة المحذوفات لأيام 93. 
 
 - راجع [هذا المقال](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) لمعرفة:
     - كيفية منح آخر وصول المستخدم إلى أندريف المستخدم المحذوف.
-    - ماذا يحدث أونيدريفي المستخدم عند حذف حساب المستخدم Office 365 للمؤسسة الخاصة بك.
+    - ماذا يحدث أندريف المستخدم عند حذف حساب المستخدم Office 365 للمؤسسة الخاصة بك.
     - كيفية تكوين تفويض الوصول التلقائي.
     - كيفية عمل أندريف عملية الحذف.
 
