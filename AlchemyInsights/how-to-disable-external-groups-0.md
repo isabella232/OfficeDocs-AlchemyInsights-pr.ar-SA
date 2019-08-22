@@ -11,16 +11,16 @@ ms.custom:
 - "965"
 - "6000006"
 ms.assetid: 962c2a4f-7dac-4ccc-98a8-d0d283c95808
-ms.openlocfilehash: 111b558fc94d0305363097ba0e74078682c2802c
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 6c936c18a63f1f1938d8f3fdafbacfc87d804408
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35384884"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36541190"
 ---
 # <a name="how-to-disable-external-groups"></a>كيفية تعطيل "المجموعات الخارجية"
 
-هناك 4 خيارات للمستخدمين الخارجيين الوصول إلى الشبكة.
+هناك أربع طرق يمكن المستخدمين الخارجيين الوصول إلى شبكة الاتصال الخاصة بك في Yammer.
   
 1. **المستخدمين الضيوف** -Yammer المسؤولين دعوة جهات الاتصال من مجالات خارجية كمستخدمين على شبكة الاتصال الموحدة. لا يتم عرض الشركة كافة تغذية والانضمام إلى مجموعات أخرى في هذه الشبكات.
 

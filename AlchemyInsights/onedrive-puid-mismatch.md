@@ -12,15 +12,15 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: b4dd2e85084186ea86a433755f69e975734ca54b
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: cbf508a1a031b7dbe60d9b060df2f08211a3dc17
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36271463"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36521323"
 ---
 # <a name="onedrive-puid-mismatch"></a>عدم تطابق PUID أندريف
-يبدو أن تواجهها [PUID عدم تطابق](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) في أونيدريفي للعمل. الرجاء اتباع الخطوات أدناه حيث أننا قد يساعدك بأسرع وقت ممكن:
+يبدو أن تواجهها [PUID عدم تطابق](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) في أندريف للعمل. الرجاء اتباع الخطوات أدناه حيث أننا قد يساعدك بأسرع وقت ممكن:
 
 1. انقر فوق **الاتصال بالدعم**، ومن ثم **طلب خدمة جديدة**.
 2. اترك العنوان والوصف **عدم تطابق PUID على الموقع أندريف**.

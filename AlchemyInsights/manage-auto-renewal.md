@@ -13,21 +13,23 @@ ms.custom:
 - "350"
 - "1500012"
 ms.assetid: f1a3f310-a87f-4a42-a9c3-4ea894caf52e
-ms.openlocfilehash: eba0888fb2591ea36620dfff14fcf08356e1e91a
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: f5d809e247516cc9ed47b5091eb0cb7edd88a44d
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389779"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36542425"
 ---
 # <a name="manage-recurring-billing"></a>إدارة الفواتير المتكررة
 
-لإدارة تكرار الفوترة، يمكنك تبديل **متكررة الفوترة** أو إيقاف تشغيله.
+يمكنك تكرار الفوترة أو إيقاف تشغيله في مركز مسؤول Microsoft 365.
   
-1. في مركز الإدارة، انتقل إلى **الدفع** \> صفحة [الاشتراكات](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. انتقل إلى **الدفع** > صفحة[& المنتجات أو الخدمات](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. حدد الاشتراك الذي تريد إدارة الفواتير المتكررة.
+2. ضمن **الفوترة**، المجاورة **تجدد على** أو **اكسبيرينج على**، حدد **تحرير**.
 
-3. التبديل تبديل **الفوترة المتكررة** إلى **أو **إيقاف تشغيله**** .
+3. في لوحة **إعدادات الفوترة المتكررة** ، حدد **إيقاف الفوترة المتكررة** لإيقاف تشغيله. إذا تم مسبقاً إيقاف تشغيل **الفوترة المتكررة** ، حدد **شهريا** أو **مرة واحدة** لتشغيله.
 
-لمزيد من المعلومات، راجع [تشغيل تكرار الفوترة أو إيقاف تشغيله](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).
+4. حدد **تغيير الإرسال**.
+
+لمزيد من المعلومات، راجع [تشغيل تكرار الفوترة أو إيقاف تشغيله](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription?view=o365-worldwide#turn-recurring-billing-off-or-on).

@@ -13,12 +13,12 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: 5d88e5bf12d244943e1d985522deb2443f6bb844
-ms.sourcegitcommit: 699ac3b0d66e0640f8e933eba3c2a4ba1cfcf3c7
+ms.openlocfilehash: faca9675b6bd7383684ff728380e1e25c03c227e
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/30/2019
-ms.locfileid: "35937845"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36540744"
 ---
 # <a name="place-a-mailbox-on-legal-hold"></a>وضع علبة بريد قيد الاحتجاز القانوني
 
@@ -26,4 +26,4 @@ ms.locfileid: "35937845"
 
 - لتمكين "إجراء التقاضي" لمستخدم واحد، [اتبع الخطوات التالية](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). عندما يتم تمكين "إجراء التقاضي"، يتم الاحتفاظ بكافة المحتويات الموجودة في علبة البريد.
 
-- لوضع قائمة احتجاز على كافة علب البريد الموجودة في المؤسسة الخاصة بك، يمكنك استخدام نهج استبقاء Office 365 [اتباع الخطوات التالية](https://docs.microsoft.com/en-us/office365/securitycompliance/create-a-litigation-hold). لاحظ أن لنهج الاستبقاء على نطاق المنظمة، مستخدمين جدد سيتم تلقائياً تعيين نهج.
+- لوضع قائمة احتجاز على كافة علب البريد الموجودة في المؤسسة الخاصة بك، يمكنك استخدام نهج استبقاء Office 365 [اتباع الخطوات التالية](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold). لاحظ أن لنهج الاستبقاء على نطاق المنظمة، مستخدمين جدد سيتم تلقائياً تعيين نهج.

@@ -7,24 +7,20 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1930b62d-7035-4b68-9b4f-3e4f7b31000d
-ms.openlocfilehash: b5f8df9e1f34c38d8dc1c42575a09badaad7b74a
-ms.sourcegitcommit: 03258ec4f5476a1ea6dd3a31d17bda815bc5a18a
+ms.openlocfilehash: be714787d426164e9e0d03050c8fe3fc8d858124
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/24/2019
-ms.locfileid: "33243079"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36539268"
 ---
-# <a name="hub-site-limits-and-restrictions"></a>قيود وحدود موقع لوحة الوصل
-
+# <a name="sharepoint-hub-site-limits-and-restrictions"></a>قيود وحدود موقع SharePoint لوحة الوصل
 
 - من المستحسن تحديد موقع اتصال أو موقع فريق يستخدم القالب الجديد الحديثة. إذا كنت تستخدم موقع فريق التقليدية، تنقل لوحة الوصل ستظهر فقط في الصفحات الحديثة، وإعدادات الموقع لوحة الوصل ستظهر فقط على الصفحات الحديثة.
 
-
 - المواقع التي تكون مقترنة مسبقاً مع آخر لوحة الوصل **لا يمكن** تحويله إلى موقع لوحة وصل.
 
-
 - يمكنك إنشاء حتى 100 موقع لوحة الوصل للمؤسسة الخاصة بك. ليس هناك حد لعدد المواقع التي يمكن أن تكون مقترنة بموقع لوحة وصل.
-
 
 - عند ربط المستخدمين مواقعهم بموقع لوحة وصل، لا تؤثر على الأذونات الخاصة بموقع لوحة الوصل أو المواقع المرتبطة بها. من المهم التأكد من أن كافة المستخدمين المسموح لهم بربط المواقع بلوحة وصل الإذن بلوحة وصل.
 
