@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1b15444c-367b-4523-8e08-1c77bbea7524
-ms.openlocfilehash: 045c29520ec60f9f093d3c9f129213213826466e
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: 3c5de2f9dc75b4da4db888c53be21710423b35df
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34757665"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36507258"
 ---
 # <a name="troubleshoot-error-404-file-not-found"></a>استكشاف الخطأ 404 لم يتم العثور على الملف
 
@@ -27,6 +27,6 @@ ms.locfileid: "34757665"
 
 لحل الخطأ 404 لملف (أو عنصر آخر) الذي تم إعادة تسميته، نقله أو حذفه:
 
-الانتقال إلى موقع SharePoint أو أندريف وعرض "سلة المحذوفات" من محتويات الموقع. راجع [استعادة العناصر الموجودة في "سلة المحذوفات" لموقع SharePoint](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be#ID0EAADAAA=Online).
+الانتقال إلى موقع SharePoint أو أونيدريفي وعرض "سلة المحذوفات" من محتويات الموقع. راجع [استعادة العناصر الموجودة في "سلة المحذوفات" لموقع SharePoint](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be#ID0EAADAAA=Online).
 
 إذا كنت لا تزال غير قادر على العثور على عنصر يمكنك البحث سجل التدقيق إذا كان التسجيل ممكناً انظر [البحث تسجيل التدقيق في & Office 365 أمان مركز التوافق](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance?redirectSourcePath=%252fclient%252fsearch-the-audit-log-in-the-office-365-security-compliance-center-0d4d0f35-390b-4518-800e-0c7ec95e946c).

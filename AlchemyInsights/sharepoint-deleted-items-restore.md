@@ -13,12 +13,12 @@ ms.assetid: ba1573a5-9f44-482b-8082-6f648f169449
 ms.custom:
 - "9000210"
 - "1782"
-ms.openlocfilehash: e6c16b7bf94ded492ef54c00b4967f78ee4bcf1c
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: b618c662a8a23f5a62ef01b328252ea198c4d831
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36270623"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36504270"
 ---
 # <a name="restore-deleted-items-from-sharepoint"></a>استعادة حذف العناصر من SharePoint
 
@@ -38,7 +38,7 @@ ms.locfileid: "36270623"
 
 **ميزة "استعادة الملفات"**
 
-إذا كان الكثير من الملفات Sharepoint أو أندريف الحصول على حذف أو استبدال، تالفة أو الإصابة بالبرامج الضارة، يمكنك استعادة مكتبة Sharepoint أو أندريف بالكامل إلى استخدام ميزة "استعادة الملفات" في وقت سابق.
+إذا كان الكثير من الملفات Sharepoint أو أونيدريفي الحصول على حذف أو استبدال، تالفة أو الإصابة بالبرامج الضارة، يمكنك استعادة مكتبة Sharepoint أو أونيدريفي بالكامل إلى استخدام ميزة "استعادة الملفات" في وقت سابق.
 
 - [استعادة مكتبة أندريف](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
 

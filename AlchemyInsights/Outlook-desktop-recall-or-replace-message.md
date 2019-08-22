@@ -9,14 +9,14 @@ ms.topic: article
 ms.custom: 9000260
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: aced684777ef82860b969aea8825699b78b04c5a
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3d3a6c253317137b7069a978b907c97d61bf7313
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32389643"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36496098"
 ---
-# <a name="recall-or-replace-an-email-message"></a>استرداد أو استبدال رسالة بريد إلكتروني
+# <a name="recall-or-replace-an-outlook-email-message"></a>استرداد أو استبدال رسالة بريد إلكتروني في Outlook
 
 - كالمسؤول، يمكنك **استدعاء الرسائل بالنيابة عن المستخدمين استخدام PowerShell**. لا يمكن استدعاء الرسائل من مركز الإدارة.
 - يمكنك **فقط استدعاء الرسائل التي يتم إرسالها إلى الأشخاص الموجودين في مؤسستك**. إذا تم إرسال الرسالة إلى عنوان Gmail، على سبيل المثال، تتمكن من استرداده.

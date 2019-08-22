@@ -11,12 +11,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 6fc4bd5f6971ca833084a6a8ad6c25b3fdafb8dc
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: edac051840594f13b22ccd83f5cd6e3da5f84cbc
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35381716"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36498402"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>تثبيت Office على ملقم المحطة الطرفية
 
@@ -26,7 +26,7 @@ ms.locfileid: "35381716"
 
 - تحتاج إلى تمكين [تنشيط الكمبيوتر المشتركة](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
 
-إذا أردت تثبيت Office 365 ProPlus على RDS من المدخل Office 365، * * *التي تستخدم إعدادات التثبيت الافتراضي* * *، اتبع الخطوات التالية:
+إذا أردت تثبيت Office 365 ProPlus على RDS من المدخل Office 365، ***التي تستخدم إعدادات التثبيت الافتراضي***، اتبع الخطوات التالية:
   
 1. تحقق من خطة Office 365 ما لديك. [التعرف على كيفية](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have)
 
@@ -36,7 +36,7 @@ ms.locfileid: "35381716"
 
 4. على RDS server، تسجيل الدخول إلى موقع Office 365 باستخدام حساب المسؤول و [تثبيت Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).
 
-5. بعد تثبيت Office، * * *عدم فتح أو تسجيل الدخول* * * لأي من تطبيقات Office.
+5. بعد تثبيت Office، ***عدم فتح أو تسجيل الدخول*** إلى أي من تطبيقات Office.
 
 6. على RDS server تمكين تنشيط الكمبيوتر المشترك بتحرير التسجيل باتباع الخطوات التالية:
 
@@ -46,7 +46,7 @@ ms.locfileid: "35381716"
 
 3. في "محرر التسجيل"، إضافة قيمة سلسلة من **شاريدكومبوتيرليسينسينج** بإعداد 1 تحت HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
 
-7. على RDS server * * *تسجيل الدخول كمستخدم نهائي* * * و [تحقق من أنه تم تمكين تنشيط الكمبيوتر المشتركة ل Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+7. في RDS server و ***تسجيل الدخول كمستخدم نهائي*** و [تحقق من أنه تم تمكين تنشيط الكمبيوتر المشتركة ل Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
 
 لمزيد من التفاصيل حول المتطلبات المسبقة والإرشادات والتوجيهات بشأن عمليات التثبيت المخصص باستخدام أداة نشر Office، الرجاء مراجعة [توزيع Office 365 ProPlus باستخدام "خدمات سطح المكتب البعيد"](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
   

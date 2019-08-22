@@ -13,16 +13,16 @@ ms.custom:
 - "490"
 - "1500032"
 ms.assetid: 14d2d36a-37cd-4d72-8344-85447e27a38e
-ms.openlocfilehash: 3c455489f1daadee74eca909e1a974887227039f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 25d5379245e325eadf329a658f3718a17cd5937a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36388299"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36501175"
 ---
 # <a name="subscription-information"></a>معلومات الاشتراك
 
-لمزيد من المعلومات حول الاشتراكات التي تملكها، انتقل إلى **الفواتير** \> صفحة [الاشتراكات](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+لمزيد من المعلومات حول Office 365 الاشتراكات التي تملكها في مركز الإدارة، انتقل إلى **الدفع** \> صفحة [& المنتجات أو الخدمات](https://go.microsoft.com/fwlink/p/?linkid=842054) .
   
 المعلومات الأساسية حول الاشتراك:
   
