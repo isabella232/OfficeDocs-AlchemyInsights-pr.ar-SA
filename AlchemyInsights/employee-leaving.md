@@ -13,21 +13,23 @@ ms.custom:
 - "18"
 - "1200010"
 ms.assetid: ba665d35-f4af-4bd0-b52d-841df7454d4b
-ms.openlocfilehash: 3641fb38fa95173a6367c1c0754c26bd3ee3eb0f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: b5f86345ac9315b489c9cc19419d95437e0f4bbe
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386355"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36527812"
 ---
-# <a name="have-an-employee-leaving-and-need-to-block-access-to-data-and-email"></a>وقد ترك موظف وتحتاج إلى منع الوصول إلى البيانات والبريد الإلكتروني؟
+# <a name="block-access-to-a-former-employee"></a>حظر الوصول إلى موظف سابق
+
+وقد ترك موظف وتحتاج إلى منع الوصول إلى البريد الإلكتروني وبيانات Office 365؟ قم بما يلي.
   
 1. في مركز الإدارة، انتقل إلى **المستخدمين** \> صفحة [المستخدمين النشطين](https://go.microsoft.com/fwlink/p/?linkid=834822) .
 
-2. حدد المستخدم الذي تريد حظره.
+2. حدد اسم المستخدم الذي تريد حظره.
 
-3. إلى جانب حالة تسجيل الدخول، اختر **تحرير**.
+3. ضمن اسم المستخدم، حدد **كتلة هذا المستخدم**.
 
-4. اختر **منع المستخدم من تسجيل الدخول** \> **حفظ**.
+4. اختر **منع المستخدم من تسجيل الدخول** \> **حفظ التغييرات**.
 
-**ملاحظة**: تسجيل الخروج لبعض التطبيقات قد لا تكون فورية. متابعة المزيد من الإجراءات في هذه المقالة: [إزالة موظف سابق من Office 365](https://docs.microsoft.com/en-us/office365/admin/add-users/remove-former-employee)
+**ملاحظة**: تسجيل الخروج لبعض التطبيقات قد لا تكون فورية. متابعة المزيد من الإجراءات في هذه المقالة: [إزالة موظف سابق من Office 365](https://docs.microsoft.com/office365/admin/add-users/remove-former-employee)

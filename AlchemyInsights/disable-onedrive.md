@@ -12,23 +12,28 @@ ms.assetid: ''
 ms.custom:
 - "9000674"
 - "2552"
-ms.openlocfilehash: 2ef6ff1f67b8f04ed09b21568aaef4607950c2d8
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 9ca8190cd90bc199e6f18734bb6607e47b877edd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36271479"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36512854"
 ---
-# <a name="disable-onedrive"></a>تعطيل أونيدريفي
+# <a name="disable-onedrive"></a>تعطيل أندريف
 
 هناك عدة طرق يمكنك تعطيل الوصول إلى أندريف وخدماتها تبعاً لاحتياجات العمل الخاصة بك:
 
 [إلغاء ارتباط أو إخفاء أو إلغاء تثبيت "التطبيق أندريف"](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
-[فقط السماح بمزامنة للمؤسسات الخاصة](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
-["أندريف تعطيل" إنشاء موقع لبعض المستخدمين](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
-[عنصر تحكم الوصول إلى البيانات عبر الإنترنت SharePoint وأندريف بناء على موقع الشبكة](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
-[تعطيل المزامنة أونيدريفي الشخصية](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
-[إدارة الاتصالات من أجهزة Windows إلى أونيدريفي وخدمات أخرى](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
+
+[السماح بمزامنة لمؤسسات محددة فقط](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
+
+[تعطيل إنشاء موقع أندريف لبعض المستخدمين](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
+
+[التحكم في الوصول إلى البيانات SharePoint على الإنترنت وأندريف استناداً إلى موقع شبكة الاتصال](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+
+[تعطيل المزامنة أندريف الشخصية](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
+
+[إدارة اتصالات من أجهزة Windows إلى أندريف وخدمات أخرى](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
 
 
 

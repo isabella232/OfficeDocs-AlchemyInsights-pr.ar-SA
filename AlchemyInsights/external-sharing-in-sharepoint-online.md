@@ -12,12 +12,12 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "1749"
-ms.openlocfilehash: 69b48e614fe55912699a7b943dbd2b132ee1c17d
-ms.sourcegitcommit: 631e527967f4d641bc9227642ffe38967ae87a00
+ms.openlocfilehash: 9b19d15bcca10ff6e2dadf02e0a6092fae144292
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/09/2019
-ms.locfileid: "36271476"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36525948"
 ---
 # <a name="external-sharing-in-sharepoint-online"></a>الخارجية المشاركة في SharePoint عبر إنترنت
 
@@ -36,8 +36,8 @@ ms.locfileid: "36271476"
 
 تلقي خطأ بواسطة مستخدم خارجي؟التحقق من الارتباطات التالية:
 
-- ["تم رفض الوصول"، "تحتاج إلى إذن الوصول إلى هذا الموقع"، أو "المستخدم غير موجود في الدليل" أخطاء في SharePoint على الإنترنت وأونيدريفي للعمل](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- ["سياسات المؤسسة الخاصة بك لا تسمح لك إشراك هؤلاء المستخدمين" خطأ عند مشاركة عنصر أو موقع SharePoint على الإنترنت أو أونيدريفي للعمل](https://docs.microsoft.com/en-us/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- ["تم رفض الوصول"، "تحتاج إلى إذن الوصول إلى هذا الموقع"، أو "المستخدم غير موجود في الدليل" أخطاء في SharePoint على الإنترنت وأندريف للعمل](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- ["سياسات المؤسسة الخاصة بك لا تسمح لك إشراك هؤلاء المستخدمين" خطأ عند مشاركة عنصر أو موقع SharePoint على الإنترنت أو أندريف للعمل](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
 - [خيارات المشاركة الرمادي خارج عند مشاركة من SharePoint على الإنترنت أو أندريف](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
 - [ظهور رسالة خطأ عند قبول مستخدم خارجي دعوة SharePoint على الإنترنت باستخدام حساب آخر](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0-)
 - [أخطاء في SharePoint وأونيدريفي مشاركة OSE](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)

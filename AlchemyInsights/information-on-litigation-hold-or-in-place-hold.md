@@ -9,13 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 7d300bd006c3e7fae68da1245037819396122fc9
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: c3f47e3230270e69b8a5bb7ee4167b0b534460dd
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34754917"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36498942"
 ---
+# <a name="about-litigation-holds-and-in-place-holds"></a>حول الاحتجاز المقاضاة والاحتجاز في المكان
+
 - لتطبيق دعوى قضائية موضعية أو الاحتجاز اضغط لعلبة بريد، على [ترخيص Exchange عبر الإنترنت خطة 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) مطلوب. إذا كان لديك أية خطة أخرى، تعيين ترخيص منفصل [Exchange للأرشفة على الإنترنت](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) للحساب. 
     
 - **لتمكين قائمة احتجاز دعوى قضائية** لمستخدم واحد، اتبع الخطوات المذكورة [هنا](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). عند تمكين الاحتجاز دعوى قضائية، يتم وضع كافة المحتويات الموجودة في علبة البريد قيد الاحتجاز.

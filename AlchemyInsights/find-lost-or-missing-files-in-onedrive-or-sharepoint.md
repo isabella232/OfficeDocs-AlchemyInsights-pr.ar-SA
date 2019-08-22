@@ -1,5 +1,5 @@
 ---
-title: البحث عن الملفات المفقودة أو المفقودة في SharePoint أو أندريف
+title: البحث عن الملفات المفقودة أو المفقودة في SharePoint أو أونيدريفي
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d4de6b5e-5102-4e2c-af92-1f8b049c3a02
-ms.openlocfilehash: 3da4aab8de8ac36d87a51f101d6da304e1b383f5
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 911b8fffa673e578a7afb83cfff305e4f1806013
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401343"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36525406"
 ---
 # <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>البحث عن الملفات المفقودة أو المفقودة في SharePoint أو أندريف
 
@@ -26,6 +26,6 @@ ms.locfileid: "32401343"
     
 - إذا لم تشاهد العنصر الذي تبحث عنه، وحذفها مؤخرا، مسؤول مجموعة موقع قد تتمكن من استعادته من سلة محذوفات مجموعة الموقع. إذا كنت مسؤول مجموعة موقع، راجع [استعادة العناصر المحذوفة من سلة محذوفات مجموعة الموقع](https://go.microsoft.com/fwlink/?linkid=866439).
     
-[الحصول على تعليمات إضافية استعادة حذف الملفات والمجلدات في أونيدريفي](https://go.microsoft.com/fwlink/?linkid=872872)
+[الحصول على تعليمات إضافية استعادة حذف الملفات والمجلدات في أندريف](https://go.microsoft.com/fwlink/?linkid=872872)
   
 

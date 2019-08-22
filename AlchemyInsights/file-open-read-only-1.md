@@ -9,12 +9,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 69705825-723a-4c1e-ae85-d16b5051d2fe
-ms.openlocfilehash: 117b1e24d6250a1d5eb092a01a0d5146d09ea2e5
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 06c052383a6462288270d2e062930352883a199a
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32401624"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36525694"
 ---
 # <a name="file-open-read-only"></a>فتح الملف للقراءة فقط
 
@@ -34,7 +34,7 @@ ms.locfileid: "32401624"
   
  **ممتلئ أندريف؟**
   
-إذا تم تخزين الملف على أندريف ومساحة التخزين أندريف كامل، لن تتمكن من حفظ المستند حتى تكون ضمن المساحة المخصصة الخاصة بك. يمكنك التحقق من المساحة الحرة على أونيدريفي عن طريق النقر فوق رمز أونيدريفي في مركز الإعلام واختيار إدارة التخزين، أو يمكنك الانتقال إلى [http://onedrive.live.com](http://onedrive.live.com)وتسجيل الدخول، ولاحظ مقدار المساحة المستخدمة في أسفل يمين الشاشة.
+إذا تم تخزين الملف على أونيدريفي ومساحة التخزين أونيدريفي كامل، لن تتمكن من حفظ المستند حتى تكون ضمن المساحة المخصصة الخاصة بك. يمكنك التحقق من المساحة الحرة على أندريف عن طريق النقر فوق رمز أندريف في مركز الإعلام واختيار إدارة التخزين، أو يمكنك الانتقال إلى [http://onedrive.live.com](http://onedrive.live.com)وتسجيل الدخول، ولاحظ مقدار المساحة المستخدمة في أسفل يمين الشاشة.
   
  **تنشيط برنامج Office**
   
