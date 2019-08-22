@@ -11,16 +11,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78916d8f-9549-4a21-b0df-626456b57382
-ms.openlocfilehash: acbdd1a85cc12c22178506c060bf13ed36dbcddf
-ms.sourcegitcommit: a9be2e396022382e92cf40c0d0d82f2f59c2e259
+ms.openlocfilehash: 2e645d3462d48227624e3d416d37d422c5d8baed
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/12/2019
-ms.locfileid: "34883363"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36495666"
 ---
-# <a name="access-services"></a><span data-ttu-id="5ca6b-102">Access Services</span><span class="sxs-lookup"><span data-stu-id="5ca6b-102">Access Services</span></span>
+# <a name="access-services"></a><span data-ttu-id="5af78-102">Access Services</span><span class="sxs-lookup"><span data-stu-id="5af78-102">Access Services</span></span>
 
-<span data-ttu-id="5ca6b-103">تقاعد ميزة "الحصول على الخدمات" في SharePoint على الإنترنت.</span><span class="sxs-lookup"><span data-stu-id="5ca6b-103">The Access Services feature in SharePoint Online is being retired.</span></span> <span data-ttu-id="5ca6b-104">قواعد بيانات ويب وتطبيقات ويب تستند إلى الوصول الجديدة لم يعد يمكن إنشاء، وقواعد بيانات ويب وتطبيقات ويب الموجودة سيتم إيقاف عام 2018، نيسان/أبريل.</span><span class="sxs-lookup"><span data-stu-id="5ca6b-104">New Access-based web apps and web databases can no longer be created, and existing web apps and web databases will be shut down by April, 2018.</span></span> <span data-ttu-id="5ca6b-105">الوصول إلى قواعد بيانات سطح المكتب (.accdb) لا تتأثر بهذا التغيير.</span><span class="sxs-lookup"><span data-stu-id="5ca6b-105">Access Desktop databases (.accdb) are not impacted by this change.</span></span> <span data-ttu-id="5ca6b-106">من المستحسن ويب Microsoft بوويرابس كبديل للوصول إلى التطبيقات وقواعد البيانات على ويب.</span><span class="sxs-lookup"><span data-stu-id="5ca6b-106">We recommend Microsoft PowerApps as an alternative to Access web apps and web databases.</span></span> 
+<span data-ttu-id="5af78-103">تقاعد ميزة "الحصول على الخدمات" في SharePoint على الإنترنت.</span><span class="sxs-lookup"><span data-stu-id="5af78-103">The Access Services feature in SharePoint Online is being retired.</span></span> <span data-ttu-id="5af78-104">قواعد بيانات ويب وتطبيقات ويب تستند إلى الوصول الجديدة لم يعد يمكن إنشاء، وقواعد بيانات ويب وتطبيقات ويب الموجودة سيتم إيقاف عام 2018، نيسان/أبريل.</span><span class="sxs-lookup"><span data-stu-id="5af78-104">New Access-based web apps and web databases can no longer be created, and existing web apps and web databases will be shut down by April, 2018.</span></span> <span data-ttu-id="5af78-105">الوصول إلى قواعد بيانات سطح المكتب (.accdb) لا تتأثر بهذا التغيير.</span><span class="sxs-lookup"><span data-stu-id="5af78-105">Access Desktop databases (.accdb) are not impacted by this change.</span></span> <span data-ttu-id="5af78-106">من المستحسن ويب Microsoft بوويرابس كبديل للوصول إلى التطبيقات وقواعد البيانات على ويب.</span><span class="sxs-lookup"><span data-stu-id="5af78-106">We recommend Microsoft PowerApps as an alternative to Access web apps and web databases.</span></span> 
   
-[<span data-ttu-id="5ca6b-107">معرفة المزيد حول Microsoft بوويرابس</span><span class="sxs-lookup"><span data-stu-id="5ca6b-107">Learn about Microsoft PowerApps</span></span>](https://powerapps.microsoft.com/)
+[<span data-ttu-id="5af78-107">معرفة المزيد حول Microsoft بوويرابس</span><span class="sxs-lookup"><span data-stu-id="5af78-107">Learn about Microsoft PowerApps</span></span>](https://powerapps.microsoft.com/)
   
