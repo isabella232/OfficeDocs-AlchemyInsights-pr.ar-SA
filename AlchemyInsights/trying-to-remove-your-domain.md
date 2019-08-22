@@ -11,18 +11,18 @@ ms.assetid: 01e4349d-4c16-4d93-9cbd-c5739d1c5762
 ms.custom:
 - "28"
 - "9"
-ms.openlocfilehash: 97a7aa7861e716879db8df65ea9bfb6c4e49064b
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9dffa6c2284e1960cadd851b197c7afaf66b2704
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35353128"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36533290"
 ---
-# <a name="trying-to-remove-your-domain"></a><span data-ttu-id="478a2-102">هل تحاول إزالة المجال الخاص بك ؟</span><span class="sxs-lookup"><span data-stu-id="478a2-102">Trying to remove your domain?</span></span>
+# <a name="trying-to-remove-your-domain"></a><span data-ttu-id="0319d-102">هل تحاول إزالة المجال الخاص بك ؟</span><span class="sxs-lookup"><span data-stu-id="0319d-102">Trying to remove your domain?</span></span>
 
-<span data-ttu-id="478a2-103">لإزالة المجال الخاص بك من Office 365، اتبع الخطوات الموجودة في هذه المقالة: [إزالة مجال من Office 365](https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx)</span><span class="sxs-lookup"><span data-stu-id="478a2-103">To remove your domain from Office 365, follow the steps in this article: [Remove a domain from Office 365](https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx)</span></span>
+<span data-ttu-id="0319d-103">لإزالة المجال الخاص بك من Office 365، اتبع الخطوات الموجودة في هذه المقالة: [إزالة مجال من Office 365](https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx)</span><span class="sxs-lookup"><span data-stu-id="0319d-103">To remove your domain from Office 365, follow the steps in this article: [Remove a domain from Office 365](https://support.office.com/article/Remove-a-domain-from-Office-365-f09696b2-8c29-4588-a08b-b333da19810c.aspx)</span></span>
   
-<span data-ttu-id="478a2-104">سوف تحتاج إلى تحديث أي المستخدمين أو المجموعات التي تم تعيينها إلى اسم المجال هذا قبل إزالة المجال.</span><span class="sxs-lookup"><span data-stu-id="478a2-104">You will need to update any users or groups that are assigned to that domain name before you remove the domain.</span></span>
+<span data-ttu-id="0319d-104">سوف تحتاج إلى تحديث أي المستخدمين أو المجموعات التي تم تعيينها إلى اسم المجال هذا قبل إزالة المجال.</span><span class="sxs-lookup"><span data-stu-id="0319d-104">You will need to update any users or groups that are assigned to that domain name before you remove the domain.</span></span>
   
-<span data-ttu-id="478a2-105">للبحث عن حلول عامة أخرى راجع، [تحقق من الأسئلة المتداولة حول المجالات](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx).</span><span class="sxs-lookup"><span data-stu-id="478a2-105">[Check the Domains FAQ](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) for other common solutions.</span></span>
+<span data-ttu-id="0319d-105">للبحث عن حلول عامة أخرى راجع، [تحقق من الأسئلة المتداولة حول المجالات](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx).</span><span class="sxs-lookup"><span data-stu-id="0319d-105">[Check the Domains FAQ](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx) for other common solutions.</span></span>
   
