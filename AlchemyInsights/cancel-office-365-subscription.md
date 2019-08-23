@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: 353e0b4bb3ac1e0ecd9b7436dde6860ba8950925
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 19f21e93419a208229c64c874748f5f94acfe8b4
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386139"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36494118"
 ---
 # <a name="cancelling-your-office-365-subscription"></a>إلغاء اشتراك Office 365؟
 
@@ -28,4 +28,4 @@ ms.locfileid: "36386139"
 
 - إذا كان لديك أكثر من 25 تراخيص معينة، يمكنك أما إزالة المستخدمين حتى أقل من 25، أو تقوم باستخدام الخيار "أدعوك" لإجراء محادثات مع مهندس دعم.
 
-- لمزيد من المعلومات حول إلغاء اشتراك، أو للحصول على إرشادات خطوة بخطوة، راجع [إلغاء الاشتراك](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+- لمزيد من المعلومات حول إلغاء اشتراك، أو للحصول على إرشادات خطوة بخطوة، راجع [إلغاء الاشتراك](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).

@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 12fbfc203d17d317da02aa0e027b1c4373869a17
-ms.sourcegitcommit: 4b7e478ce700c0b781efec3857ac4dce5bdf00c6
+ms.openlocfilehash: b0d9c7c5a21fe73f6611456018b33d6df89c11e8
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/07/2019
-ms.locfileid: "34759768"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36508014"
 ---
-# <a name="cannot-save-office-documents-to-sharepoint-or-onedrive-document-library"></a>لا يمكن حفظ مستندات Office إلى مكتبة مستندات SharePoint أو أندريف
+# <a name="cannot-save-office-documents-to-sharepoint-or-onedrive-document-library"></a>لا يمكن حفظ مستندات Office إلى مكتبة مستندات SharePoint أو أونيدريفي
 
-إذا كان لديك مشاكل في حفظ مستندات Office لمكتبات مستندات SharePoint أو أونيدريفي، إليك بعض المعلومات التي قد تساعد.
+إذا كان لديك مشاكل في حفظ مستندات Office لمكتبات مستندات SharePoint أو أندريف، إليك بعض المعلومات التي قد تساعد.
 
 
 - [حفظ ملف (نسخة)](https://support.office.com/article/save-a-file-in-microsoft-office-a7f0a209-ad22-4212-bb53-6cd8e801a6fb)

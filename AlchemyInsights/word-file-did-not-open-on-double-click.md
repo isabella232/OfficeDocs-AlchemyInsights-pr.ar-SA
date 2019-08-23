@@ -1,5 +1,5 @@
 ---
-title: لم يتم فتح ملف WD عند النقر المزدوج
+title: لم يتم فتح ملف Word عند النقر المزدوج
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "850"
 - "2100002"
-ms.openlocfilehash: 5eedc991d787c2e50d9f92eae3acf4fa367c08f1
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: aaf4cf8f22a81c601f41ef00080aeb1d8a7e2789
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35752749"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36558172"
 ---
-# <a name="solutions-for-files-opening-in-wrong-apps"></a>حلول لملفات فتح في تطبيقات غير صحيح
+# <a name="word-document-opened-in-the-wrong-app-or-didnt-open"></a>فتحه في التطبيق غير صحيح أو لم يتم فتح مستند Word
 
 حاول القيام بأحد هذه الاقتراحات:
 
 **اختر كلمة كافتراضي**
 
-* انقر بالزر الأيمن على المستند واختر **فتح باستخدام**ثم اختر **كلمة**
+- انقر بالزر الأيمن على المستند واختر **فتح باستخدام**ثم اختر **كلمة**
 
 **تشغيل إصلاح سريع**
 

@@ -1,5 +1,5 @@
 ---
-title: تقييد الوصول في SharePoint أو أونيدريفي
+title: تقييد الوصول في SharePoint أو أندريف
 ms.author: mikeplum
 author: MikePlumleyMSFT
 ms.date: 8/7/2018
@@ -8,16 +8,16 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: e0fbec6eb269a173664e2b9a1efe6eefb527b96f
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: e5458226fe33bd5cb3da1f608fb113b888fbfd16
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32383858"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36551438"
 ---
 # <a name="restrict-access-in-sharepoint-or-onedrive"></a>تقييد الوصول في SharePoint أو أندريف
 
-في SharePoint وأندريف، يمكنك تقييد الوصول إلى عناصر مثل الملفات والمجلدات وقوائم بمنح حق الوصول فقط إلى المجموعات أو الأفراد بحق. بشكل افتراضي، يتم توريث الأذونات في SharePoint من أعلى أعلى في التسلسل الهرمي. لذا ملف يرث أذوناته من المجلد يرث أذوناته من المكتبة، يرث أذوناته من الموقع.
+في SharePoint وأونيدريفي، يمكنك تقييد الوصول إلى عناصر مثل الملفات والمجلدات وقوائم بمنح حق الوصول فقط إلى المجموعات أو الأفراد بحق. بشكل افتراضي، يتم توريث الأذونات في SharePoint من أعلى أعلى في التسلسل الهرمي. لذا ملف يرث أذوناته من المجلد يرث أذوناته من المكتبة، يرث أذوناته من الموقع.
   
 يمكنك مشاركة على مستوى أعلى (مثل بمشاركة موقع بأكمله) وبعد ذلك قطع التوريث إذا لم ترغب في مشاركة كافة العناصر الموجودة في الموقع. ومع ذلك، لا نوصي هذا لأنه يجعل الحفاظ على الأذونات أكثر تعقيداً واضطراب في المستقبل. هنا ما الذي يمكن أن تفعله بدلاً من ذلك:
   

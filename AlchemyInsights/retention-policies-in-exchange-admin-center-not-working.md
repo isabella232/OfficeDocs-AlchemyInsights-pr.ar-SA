@@ -12,12 +12,12 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: d0af4c933f262fe1ec4c2a6ff16d5f6195398b0d
-ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
+ms.openlocfilehash: 5d7b62546397c13b37540e8797b31123b2880280
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/16/2019
-ms.locfileid: "36444795"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36551330"
 ---
 # <a name="retention-policies-in-exchange-admin-center"></a>نهج الاستبقاء في مركز مسؤول Exchange
 
@@ -58,7 +58,7 @@ ms.locfileid: "36444795"
  **ملاحظة:** إذا كانت علبة بريد أصغر من 10 ميغابايت، "مساعد المجلد المدار" سوف لا تلقائياً معالجة علبة البريد.
  
 لمزيد من المعلومات حول نهج الاستبقاء في مركز مسؤول Exchange، راجع:
-- [علامات الاستبقاء ونهج الاستبقاء](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
-- [تطبيق نهج استبقاء لعلب البريد](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
-- [إضافة أو إزالة علامات الاستبقاء](https://docs.microsoft.com/en-us/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
-- [كيفية تحديد نوع الاحتجاز الموضوعة في علبة بريد](https://docs.microsoft.com/en-us/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)
+- [علامات الاستبقاء ونهج الاستبقاء](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
+- [تطبيق نهج استبقاء لعلب البريد](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
+- [إضافة أو إزالة علامات الاستبقاء](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
+- [كيفية تحديد نوع الاحتجاز الموضوعة في علبة بريد](https://docs.microsoft.com/office365/securitycompliance/identify-a-hold-on-an-exchange-online-mailbox)
