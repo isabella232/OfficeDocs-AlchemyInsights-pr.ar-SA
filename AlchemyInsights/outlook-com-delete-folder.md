@@ -13,14 +13,14 @@ ms.custom:
 - "271"
 - "8000016"
 ms.assetid: 052172e6-bee2-4466-b674-75187f0225e5
-ms.openlocfilehash: 64bfa0c25969f98eca254d9fc41dd8132cbe335a
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 29720d7f8272afea488b807c76d268d67df8bbee
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35375344"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36546830"
 ---
-# <a name="delete-a-folder"></a>حذف مجلد
+# <a name="delete-a-folder-in-outlookcom"></a>حذف مجلد في Outlook.com
 
 1. في الجزء الأيسر، انقر نقراً مزدوجاً فوق المجلد أو المجلد الفرعي الذي ترغب في حذفه، ثم حدد **حذف المجلد**.
 2. حدد **موافق** للتأكيد.
