@@ -13,12 +13,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 992037e999b94ceb470470151a69f5455e12ce3f
-ms.sourcegitcommit: e98443a049108e0dc83d63895af66944bdb1f108
+ms.openlocfilehash: 15f5a26c34e32d1f77b73d57e9518b1bb1e68320
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/16/2019
-ms.locfileid: "36444759"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555220"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>كيفية إجراء "عمليات البحث المحتوى" والبحث eDiscovery
 
@@ -32,6 +32,6 @@ ms.locfileid: "36444759"
 4. أدخل شروط البحث المطلوبة بما في ذلك مواقع المحتوى والكلمات الأساسية.  
 5. انقر فوق **حفظ تشغيل &** اسم البحث، بدء تشغيله، ثم قم بمعاينة النتائج.
 
-للحصول على إرشادات مفصلة حول محتوى البحث، تصدير النتائج وإنشاء حالات eDiscovery للاحتفاظ بالبيانات، راجع [البحث في المحتوى](https://docs.microsoft.com/en-us/office365/securitycompliance/content-search) و [حالات eDiscovery](https://docs.microsoft.com/en-us/office365/securitycompliance/ediscovery-cases).
+للحصول على إرشادات مفصلة حول محتوى البحث، تصدير النتائج وإنشاء حالات eDiscovery للاحتفاظ بالبيانات، راجع [البحث في المحتوى](https://docs.microsoft.com/office365/securitycompliance/content-search) و [حالات eDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
 
-فهم النتائج المزيد عن "البحث في المحتوى" بمراجعة [شروط وحدود](https://docs.microsoft.com/en-us/office365/securitycompliance/limits-for-content-search) و [تحقق جزئيا فهرسة العناصر](https://docs.microsoft.com/en-us/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) وغيرها أن تكون على علم بها.
+فهم النتائج المزيد عن "البحث في المحتوى" بمراجعة [شروط وحدود](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) و [تحقق جزئيا فهرسة العناصر](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) وغيرها أن تكون على علم بها.

@@ -14,18 +14,18 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: 7aa9628f-c551-4d73-b966-29f47c2b3f43
-ms.openlocfilehash: 735604a097b6b86bd39207de230f8cef3163e96b
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 3354256cc70ffb256d65f18aa68ddd27588c5d4b
+ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372943"
+ms.lasthandoff: 08/22/2019
+ms.locfileid: "36555364"
 ---
 # <a name="enable-password-sync"></a>تمكين مزامنة كلمة المرور
 
-1.  اختر **حالة DirSync** الصفحة الرئيسية مركز الإدارة O365. 
+1.  اختر **حالة DirSync** على الصفحة الرئيسية مركز مسؤول Microsoft 365. 
     
-     * بدلاً من ذلك، يمكنك الانتقال إلى **المستخدمين** \> * * المتواجدين **، في صفحة المستخدمين النشطين، اختر **أكثر** \> **مزامنة الدليل.** * 
+     *بدلاً من ذلك، يمكنك الانتقال إلى **المستخدمين** \> **المتواجدين**في الصفحة النشطة للمستخدمين، اختر **أكثر** \> **مزامنة الدليل.*** 
     
 2. جزء "تزامن الدليل"، اختر **الانتقال إلى إدارة DirSync**. 
     
