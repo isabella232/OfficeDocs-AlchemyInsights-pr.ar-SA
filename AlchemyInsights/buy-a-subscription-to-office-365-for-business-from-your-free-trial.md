@@ -13,12 +13,12 @@ ms.custom:
 - "257"
 - "1400007"
 ms.assetid: ed072510-d4b6-44ad-b24a-f99b9892eaa8
-ms.openlocfilehash: e6681268c3932fd96cb05ffd41149c890f37c6c6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7d1624fdf71c33f8f04e2dc5e8f02f5ca74881e1
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517990"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575719"
 ---
 # <a name="buy-a-subscription-to-office-365-from-your-free-trial"></a>شراء اشتراك إلى Office 365 من الفترة التجريبية المجانية
 
@@ -36,4 +36,4 @@ ms.locfileid: "36517990"
 
 3. ابحث عن الاشتراك الذي تريد شراء وحدد **شراء**واتبع الخطوات للتحقق.
 
-لمزيد من المعلومات، راجع [شراء اشتراك في Office 365 للشركات من الفترة التجريبية المجانية](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).
+يتم استخدام مركز الإدارة القديمة؟ للخطوات القديمة، أو لمزيد من المعلومات، راجع [شراء اشتراك في Office 365 للشركات من الفترة التجريبية المجانية](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial).

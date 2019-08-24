@@ -13,12 +13,12 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: a9c2f53ff074d548659757cae9456c3c4633d4ec
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5cf6100e0affd23bc320df8acad7810e402bdb5f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36518026"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575935"
 ---
 # <a name="buy-additional-office-365-licenses"></a>شراء تراخيص إضافية في Office 365
 
@@ -32,9 +32,10 @@ ms.locfileid: "36518026"
 
     > [!NOTE]
     > إذا كنت تدفع مقابل الاشتراك ببطاقتك الائتمانية أو حسابك البنكي، تتوفر أي تراخيص جديدة تشتري مباشرة بعد أن تتلقى تأكيدا بترتيب. إذا كان الدفع بالفاتورة، قد تحتاج إلى الانتظار لفحص ائتمان قبل أن تتوفر لديك تراخيص جديدة لاستخدامها.
-  
+
+يتم استخدام مركز الإدارة القديمة؟ للخطوات القديمة، أو لمزيد من المعلومات، راجع [شراء التراخيص الخاصة بك Office 365 للاشتراك في العمل](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).  
+
 **موارد إضافية**
 
 - [تعيين التراخيص للمستخدمين في Office 365 للشركات](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-لمزيد من المعلومات، راجع [شراء التراخيص الخاصة بك Office 365 للاشتراك في العمل](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
