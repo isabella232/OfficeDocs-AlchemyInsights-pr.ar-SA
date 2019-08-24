@@ -13,12 +13,12 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: c1c18215a6746ac7ae22c869ffde1a9bd53efce6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 30bbc5006932a22e8247db69cd126c70a657b57f
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539916"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36574749"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>كيفية إعادة تنشيط اشتراك
 
@@ -26,10 +26,10 @@ ms.locfileid: "36539916"
   
 1. في مركز الإدارة، انتقل إلى صفحة **الفوترة** \> [المنتجات والخدمات](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. ضمن **الفوترة**، بجانب **إعادة التجديد** أو **انتهاء الصلاحية**، حدد **تحرير**.
+2. ابحث عن الاشتراك الذي تريد إعادة تنشيطه. في قسم **الفوترة**، اختر **إعادة تنشيط**.
 
-3. في الجزء **إعدادات الفوترة المتكررة**، حدد الخيار الذي تريده. إذا تم إيقاف تشغيل الفواتير المتكررة بالفعل، فحدد **شهرياً** أو **مرة واحدة** لتشغيله.
+    إذا لم يظهر الإجراء **إعادة تنشيط** كإجراء متوفر، يمكنك الاتصال بالدعم لإعادة تنشيط الاشتراك.
 
-4. حدد **إرسال التغيير**.
+3. قم بتأكيد تفاصيل الدفع. يمكنك تحديث معلومات الدفع الحالية هنا. عند الانتهاء من إدخال طريقة الدفع، اختر **إعادة تنشيط**.
 
-للحصول على مزيد من المعلومات، اطلع على: [تجديد اشتراك Office 365 للأعمال](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription)
+هل تستخدم مركز الإدارة القديم؟ لمعرفة الخطوات القديمة، أو للتعرّف على المزيد، اطلع على [إعادة تنشيط الاشتراك](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).

@@ -13,12 +13,12 @@ ms.custom:
 - "432"
 - "1500001"
 ms.assetid: fbce8401-1a2c-4372-af0b-d855c1cd5f31
-ms.openlocfilehash: 99e8ff13470058dfeeb27b682a0f214c940ca8bd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3135c72aefac97eb58cfa8e2deffebe318c20753
+ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523030"
+ms.lasthandoff: 08/23/2019
+ms.locfileid: "36575621"
 ---
 # <a name="how-do-i-add-a-credit-card"></a>كيف يمكنني إضافة بطاقة ائتمان؟
 
@@ -30,4 +30,4 @@ ms.locfileid: "36523030"
 
 4. أدخل معلومات بطاقة الائتمان الجديدة أو الحساب البنكي الجديد، ثم حدد **حفظ**.
 
-للحصول على مزيد من المعلومات، اطلع على [إضافة بطاقة ائتمان أو حساب بنكي أو تحديثهما أو إزالتهما في Office 365 للأعمال](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+هل تستخدم مركز الإدارة القديم؟ للاطلاع على الخطوات القديمة، أو للتعرّف على المزيد، اطلع على [إضافة بطاقة ائتمان أو حساب بنكي أو تحديثهما أو إزالتهما في Office 365 للأعمال](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
