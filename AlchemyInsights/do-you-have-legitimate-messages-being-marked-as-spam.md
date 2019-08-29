@@ -12,16 +12,16 @@ ms.custom:
 - "666"
 - "3100019"
 ms.assetid: 2a362fcd-b67a-41ef-b97c-7ddc193244dc
-ms.openlocfilehash: 3a1cc0b5cfed4a149641a1295898c8f0b77797dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fca4150c6dbeed2d83d7d6d6503b9f8742a1ff6b
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36529614"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36665100"
 ---
 # <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>هل لديك رسائل شرعية يتم وضع علامة عليها كبريد عشوائي ؟
 
-جرّب التشخيص أعلاه أو جرّب ما يلي [دليل خطوة بخطوة لاستكشاف وإصلاح أخطاء الرسائل الجيدة التي يتم وضع علامة عليها كبريد عشوائي](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).
+جرّب التشخيص أعلاه أو جرّب ما يلي [دليل خطوة بخطوة لاستكشاف وإصلاح أخطاء الرسائل الجيدة التي يتم وضع علامة عليها كبريد عشوائي في Office 365](https://docs.microsoft.com/office365/securitycompliance/prevent-email-from-being-marked-as-spam-0).
   
 أفضل طريقة للإبلاغ عن هذه الأنواع من المشاكل هي عن طريق:
   
