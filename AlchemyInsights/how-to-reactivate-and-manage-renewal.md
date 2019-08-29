@@ -13,12 +13,12 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 4a63466a307f5741b531a731b8436d1303376c33
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: d92f34b3c103f21c539c898c3f2b3224016c2754
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574529"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36663947"
 ---
 # <a name="how-to-reactivate-and-manage-recurring-billing"></a>كيفية إعادة تنشيط المتكررة الفواتير
 
@@ -32,7 +32,7 @@ ms.locfileid: "36574529"
 
 3. تأكيد تفاصيل الدفع. يمكنك تحديث معلومات الدفع الموجودة هنا. عندما تنتهي من إدخال أسلوب السداد الخاص بك، حدد **إعادة تنشيط**.
 
-يتم استخدام مركز الإدارة القديمة؟ للخطوات القديمة، أو لمزيد من المعلومات، راجع [إعادة تنشيط الاشتراك الخاص بك](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
+لمزيد من المعلومات، راجع [إعادة تنشيط الاشتراك الخاص بك](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/reactivate-your-subscription). 
 
 لإدارة الفوترة شهريا أو سنوياً يمكنك تبديل **الفوترة المتكررة** أو إيقاف تشغيله.
   
@@ -46,4 +46,4 @@ ms.locfileid: "36574529"
 
 5. حدد **تغيير الإرسال**.
 
-يتم استخدام مركز الإدارة القديمة؟ للخطوات القديمة، أو لمعرفة المزيد، راجع [تشغيل تكرار الفوترة أو إيقاف تشغيله](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+لمعرفة المزيد، راجع [تشغيل تكرار الفوترة أو إيقاف تشغيله](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).

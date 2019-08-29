@@ -1,21 +1,20 @@
 ---
 title: إضافة المستخدمين الخارجيين إلى مجموعة التوزيع
-ms.author: v-crytho
-author: CrystalThomasMS
-ms.date: 8/22/2017
+ms.author: chrisda
+author: chrisda
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: caa0f310-0bb7-48e3-8ad2-cb358b53bbba
-ms.openlocfilehash: ce0c589e1661fb4607452fe2e8f897758b2718e8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 641636add2069fc395df9af156d8c011493a634a
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494514"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36660779"
 ---
-# <a name="add-external-users-to-a-distribution-group"></a>إضافة المستخدمين الخارجيين إلى مجموعة التوزيع؟
+# <a name="add-external-users-to-a-distribution-group"></a>إضافة المستخدمين الخارجيين إلى مجموعة التوزيع
 
 إضافة جهة اتصال خارجي لمجموعة التوزيع (DG) عملية من خطوتين:
   

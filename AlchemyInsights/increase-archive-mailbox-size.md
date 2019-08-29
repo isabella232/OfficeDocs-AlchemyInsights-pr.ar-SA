@@ -3,25 +3,24 @@ title: 305 زيادة حجم علبة البريد الأرشيف
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
-ms.openlocfilehash: 28086145d8769bd06ef6352257a820146c5f237d
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: a8c16d97040e9396d6cf9bd4a5da671a7da88e13
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391089"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661787"
 ---
 # <a name="increase-the-archive-mailbox-size"></a>زيادة حجم علبة البريد الأرشيف
 
 Office 365 [حدود](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) حجم الأرشيف علب البريد بناء على الترخيص التي يتم تعيينها إلى حساب المستخدم. عند أرشفة علبة البريد يصل إلى 90% الحجم المسموح به، يتلقى المستخدم إعلاماً بالبريد إلكتروني. عندما يصل علبة بريد أرشيف إلى الحد الأقصى للحجم، يتعذر نقل المستخدم المزيد من العناصر إلى أرشيف علبة البريد. لن office 365 زيادة حجم علبة بريد أرشيف عند الوصول إلى الحد الأقصى للحجم. بدلاً من ذلك، يمكن أن يتخذها المستخدمون الإجراءات التالية لتحرير مساحة في أرشيف علبة البريد:
 
-- تصدير العناصر إلى ملف.pst باستخدام Outlook
+- تصدير العناصر إلى ملف.pst باستخدام Outlook.
 
 - حذف العناصر من علبة البريد الأرشيف.
 

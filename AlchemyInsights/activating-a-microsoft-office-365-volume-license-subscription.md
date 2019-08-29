@@ -13,12 +13,12 @@ ms.custom:
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: bd83dc5bbab9fb39abb751246795cd7d7895ce2b
-ms.sourcegitcommit: ea64deba1eec3fb768a2f732cfe0ec79bb03694a
+ms.openlocfilehash: 4b654565b339c6cf557f9d3d1ec7736a58e7f28e
+ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/23/2019
-ms.locfileid: "36574457"
+ms.lasthandoff: 08/29/2019
+ms.locfileid: "36661175"
 ---
 # <a name="activating-a-microsoft-office-365-volume-license-subscription"></a>تنشيط اشتراك Microsoft Office 365 ترخيص وحدة التخزين
 
@@ -30,6 +30,6 @@ ms.locfileid: "36574457"
 
 4. البريد الإلكتروني التنشيط ستوفر لك خياران: **تسجيل الدخول**أو **تسجيل الدخول**. إذا قمت مسبقاً بإنشاء محاكمة، اختر **تسجيل الدخول**. إذا لم يكن لديك بعد المستأجرين Office 365، اختر **التسجيل**.
 
-5. تسجيل الدخول إلى Office 365 ([https://portal.office.com](https://portal.office.com)) باستخدام بيانات اعتماد مسؤول Office 365 الموجودة الخاصة بك. بعد أن تقوم بتسجيل الدخول بنجاح، سوف تتلقى رسالة بريد إلكتروني أخرى لتأكيد الشراء.
+5. تسجيل الدخول إلى مركز مسؤول Microsoft 365 ([https://admin.microsoft.com](https://admin.microsoft.com)) باستخدام بيانات اعتماد مسؤول Office 365 الموجودة الخاصة بك. بعد أن تقوم بتسجيل الدخول بنجاح، سوف تتلقى رسالة بريد إلكتروني أخرى لتأكيد الشراء.
 
 6. بعد تسجيل الدخول، يمكنك الانتقال إلى **الدفع** \> صفحة [المنتجات الخدمات &](https://go.microsoft.com/fwlink/p/?linkid=842054) للتحقق من تنشيط اشتراكاتك 365 Office التي تم شراؤها داخل المستأجر الخاصة بك. (يمكنك أيضا اختيار علامة التبويب **الاشتراك** في فلسك لعرض تفاصيل التحقق من أنه تم إيداع الاشتراك الخاص بك.)
