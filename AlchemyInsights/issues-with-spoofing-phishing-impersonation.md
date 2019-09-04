@@ -1,5 +1,5 @@
 ---
-title: مشاكل الغش أو الخداع التمثيل؟
+title: مشاكل في الانتحال أو التصيد الاحتيالي أو الانتحال؟
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -9,29 +9,29 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1755
 ms.assetid: ''
-ms.openlocfilehash: c4d6c9c28c146a098288fdd2d978cdca098e89af
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 73a960d76802ccfee5500b1816f34a15b960c3f2
+ms.sourcegitcommit: 7398c9d81f00328d1edc515a195d779dd28f1bea
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36661463"
+ms.lasthandoff: 09/03/2019
+ms.locfileid: "36716090"
 ---
-# <a name="issues-with-spoofing-phishing-or-impersonation"></a>مشاكل الغش أو الخداع التمثيل؟
+# <a name="issues-with-spoofing-phishing-or-impersonation"></a>مشاكل في الانتحال أو التصيد الاحتيالي أو الانتحال؟
 
-التعرف على كيفية حماية Office 365 من:
+تعرّف على كيفية حماية Office 365 لك من:
 
-- [الانتحال](https://docs.microsoft.com/office365/securitycompliance/anti-spoofing-protection)
+- [التحايل](https://docs.microsoft.com/office365/securitycompliance/anti-spoofing-protection)
 
-- [الخداع والانتحال](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)
+- [التصيد الاحتيالي والانتحال](https://docs.microsoft.com/office365/securitycompliance/atp-anti-phishing)
 
 توصيات إضافية:
 
-- للمرسلين المنتحلة تبدو وكأنها مرسلة من المجال الخاص بك، قد يساعد منتدى جنوب المحيط الهادئ و DKIM.
+- بالنسبة للمرسلين المخادعين الذين يبدو أنهم يأتون من نطاقك الخاص، يمكن أن يساعد [منتدى جنوب المحيط الهادئ](https://docs.microsoft.com/office365/securitycompliance/set-up-spf-in-office-365-to-help-prevent-spoofing) وDKIM. [](https://docs.microsoft.com/office365/securitycompliance/use-dkim-to-validate-outbound-email)
 
-- تحقق من المرسلين في المجال الخاص بك غير مكون لتجاوز تصفية مكافحة البريد الإلكتروني العشوائي باستخدام قواعد انسياب (تعرف أيضا باسم قواعد النقل) أو السماح بانتشار إدخالات القائمة.
+- تحقق من عدم تكوين المرسلين في المجال الخاص بك لتجاوز تصفية مكافحة البريد الإلكتروني العشوائي باستخدام قواعد تدفق البريد (المعروفة أيضًا باسم قواعد النقل) أو السماح بإدخالات القائمة. لمزيد من المعلومات، راجع [تحذيرات من تجاوز عوامل تصفية Office 365 غير المرغوب فيها](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
 
-- تحقق من عدم تكوين المستخدمين السماح بانتشار إدخالات القائمة مما قد يسمح بهجمات الخداع.
+- تحقق من أن المستخدمين لم يقوموا بتكوين إدخالات [قائمة المرسلين الموثوق بهم](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) التي قد تسمح بهجمات التصيد الاحتيالي.
 
-- خذ بعين الاعتبار تسليم رسائل البريد الإلكتروني العشوائي والاحتيال عالية الدقة العزل بدلاً من مجلد "البريد الإلكتروني العشوائي".
+- خذ بعين الاعتبار تسليم رسائل البريد المزعج والتصيد الاحتيالي عالية الثقة إلى العزل بدلاً من مجلد "البريد الإلكتروني غير الهام". لمزيد من المعلومات، راجع [عزل رسائل البريد الإلكتروني في Office 365](https://docs.microsoft.com/office365/securitycompliance/quarantine-email-messages).
 
-**[الإبلاغ عن الرسائل إلى Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) هو أفضل طريقة للسماح لنا أن نعرف كيف تقوم عوامل التصفية.**
+**[يعد الإبلاغ عن الرسائل إلى Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) أفضل طريقة لإخبارنا عن كيفية أداء عوامل التصفية.**
