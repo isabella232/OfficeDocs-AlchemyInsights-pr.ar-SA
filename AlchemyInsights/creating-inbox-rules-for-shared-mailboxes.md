@@ -13,16 +13,16 @@ ms.custom:
 - "1800021"
 - "3500003"
 ms.assetid: fd97c1c7-fc0a-466d-87d4-cbdaf6310ca1
-ms.openlocfilehash: d64e7441bb1a701144921b9b2345bfeea005d090
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9182ff22f183385cf6577f911bc37cd3d22c8f84
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514822"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740704"
 ---
-# <a name="creating-inbox-rules-for-shared-mailboxes"></a><span data-ttu-id="8c275-102">إنشاء قواعد علبة الوارد لعلب البريد المشتركة</span><span class="sxs-lookup"><span data-stu-id="8c275-102">Creating Inbox rules for shared mailboxes</span></span>
+# <a name="creating-inbox-rules-for-shared-mailboxes"></a><span data-ttu-id="75694-102">إنشاء قواعد علبة الوارد لعلب البريد المشتركة</span><span class="sxs-lookup"><span data-stu-id="75694-102">Creating Inbox rules for shared mailboxes</span></span>
 
-<span data-ttu-id="8c275-103">يمكنك إضافة قواعد علبة مشتركة لديك حق الوصول إلى بطريقة مشابهة لكيفية إضافة قواعد لحسابهم الخاص.</span><span class="sxs-lookup"><span data-stu-id="8c275-103">You can add rules on a shared mailbox you have access to in a similar way to how you add rules to their own account.</span></span>
+<span data-ttu-id="75694-103">يمكنك إضافة قواعد على علبة بريد مشتركة لديك حق الوصول إليها بطريقة مشابهة لكيفية إضافة قواعد إلى حسابهم الخاص.</span><span class="sxs-lookup"><span data-stu-id="75694-103">You can add rules on a shared mailbox you have access to in a similar way to how you add rules to their own account.</span></span>
   
-<span data-ttu-id="8c275-104">تأكد من أن كنت عضوا في علبة البريد المشتركة المعنية، واتبع الخطوات الموجودة في هذه المقالة: [إضافة قواعد إلى علبة بريد مشتركة](https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164)</span><span class="sxs-lookup"><span data-stu-id="8c275-104">Make sure you're a member of the shared mailbox in question, and then follow the steps in this article: [Add rules to a shared mailbox](https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164)</span></span>
+<span data-ttu-id="75694-104">تأكد من أنك عضو في علبة البريد المشتركة في السؤال، ومن ثم اتبع الخطوات المذكورة في هذه المقالة: [إضافة قواعد إلى علبة بريد مشتركة](https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164)</span><span class="sxs-lookup"><span data-stu-id="75694-104">Make sure you're a member of the shared mailbox in question, and then follow the steps in this article: [Add rules to a shared mailbox](https://support.office.com/article/b0963400-2a51-4c64-afc7-b816d737d164)</span></span>
   

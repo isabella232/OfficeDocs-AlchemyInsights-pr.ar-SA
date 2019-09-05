@@ -1,28 +1,28 @@
 ---
-title: قيود وحدود موقع لوحة الوصل
-ms.author: kirks
+title: حدود وقيود موقع لوحة الوصل
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1930b62d-7035-4b68-9b4f-3e4f7b31000d
-ms.openlocfilehash: c3a2bd02cd610e8fc6e5eb296817eb439a055af5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c63cbe96f95bf4d1ce279a7294069a7ab8f0f953
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539340"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36754575"
 ---
-# <a name="sharepoint-hub-site-limits-and-restrictions"></a><span data-ttu-id="b2d3c-102">قيود وحدود موقع SharePoint لوحة الوصل</span><span class="sxs-lookup"><span data-stu-id="b2d3c-102">SharePoint hub site limits and restrictions</span></span>
+# <a name="sharepoint-hub-site-limits-and-restrictions"></a><span data-ttu-id="e037c-102">حدود موقع لوحة وصل SharePoint وقيوده</span><span class="sxs-lookup"><span data-stu-id="e037c-102">SharePoint hub site limits and restrictions</span></span>
 
-- <span data-ttu-id="b2d3c-103">من المستحسن تحديد موقع اتصال أو موقع فريق يستخدم القالب الجديد الحديثة.</span><span class="sxs-lookup"><span data-stu-id="b2d3c-103">It is recommended to select a communication site, or a team site that uses the new modern template.</span></span> <span data-ttu-id="b2d3c-104">إذا كنت تستخدم موقع فريق التقليدية، تنقل لوحة الوصل ستظهر فقط في الصفحات الحديثة، وإعدادات الموقع لوحة الوصل ستظهر فقط على الصفحات الحديثة.</span><span class="sxs-lookup"><span data-stu-id="b2d3c-104">If you use a classic team site, the hub navigation will appear only on modern pages, and hub site settings will only appear on modern pages.</span></span>
+- <span data-ttu-id="e037c-103">من المستحسن تحديد موقع اتصال أو موقع فريق يستخدم القالب الحديث الجديد.</span><span class="sxs-lookup"><span data-stu-id="e037c-103">It is recommended to select a communication site, or a team site that uses the new modern template.</span></span> <span data-ttu-id="e037c-104">إذا كنت تستخدم موقع فريق كلاسيكي، فسيظهر التنقل لوحة الوصل فقط على الصفحات الحديثة، ولن تظهر إعدادات موقع لوحة الوصل إلا على الصفحات الحديثة.</span><span class="sxs-lookup"><span data-stu-id="e037c-104">If you use a classic team site, the hub navigation will appear only on modern pages, and hub site settings will only appear on modern pages.</span></span>
 
-- <span data-ttu-id="b2d3c-105">المواقع التي تكون مقترنة مسبقاً مع آخر لوحة الوصل **لا يمكن** تحويله إلى موقع لوحة وصل.</span><span class="sxs-lookup"><span data-stu-id="b2d3c-105">Sites that are already associated with another hub **can't** be converted to a hub site.</span></span> 
+- <span data-ttu-id="e037c-105">**لا يمكن** تحويل المواقع المقترنة بالفعل بلوحة وصل أخرى إلى موقع لوحة وصل.</span><span class="sxs-lookup"><span data-stu-id="e037c-105">Sites that are already associated with another hub **can't** be converted to a hub site.</span></span> 
 
-- <span data-ttu-id="b2d3c-106">يمكنك إنشاء حتى 100 موقع لوحة الوصل للمؤسسة الخاصة بك.</span><span class="sxs-lookup"><span data-stu-id="b2d3c-106">You can create up to 100 hub sites for your organization.</span></span> <span data-ttu-id="b2d3c-107">ليس هناك حد لعدد المواقع التي يمكن أن تكون مقترنة بموقع لوحة وصل.</span><span class="sxs-lookup"><span data-stu-id="b2d3c-107">There is no limit on the number of sites that can be associated with a hub site.</span></span>
+- <span data-ttu-id="e037c-106">يمكنك إنشاء ما يصل إلى 100 موقع لوحة وصل لمؤسستك.</span><span class="sxs-lookup"><span data-stu-id="e037c-106">You can create up to 100 hub sites for your organization.</span></span> <span data-ttu-id="e037c-107">لا يوجد حد لعدد المواقع التي يمكن إقرانها بموقع لوحة وصل.</span><span class="sxs-lookup"><span data-stu-id="e037c-107">There is no limit on the number of sites that can be associated with a hub site.</span></span>
 
-- <span data-ttu-id="b2d3c-108">عند ربط المستخدمين مواقعهم بموقع لوحة وصل، لا تؤثر على الأذونات الخاصة بموقع لوحة الوصل أو المواقع المرتبطة بها.</span><span class="sxs-lookup"><span data-stu-id="b2d3c-108">When users associate their sites with a hub site, it doesn't impact the permissions of either the hub site or the associated sites.</span></span> <span data-ttu-id="b2d3c-109">من المهم التأكد من أن كافة المستخدمين المسموح لهم بربط المواقع بلوحة وصل الإذن بلوحة وصل.</span><span class="sxs-lookup"><span data-stu-id="b2d3c-109">It's important to make sure all users you allow to associate sites to the hub have permission to the hub.</span></span>
+- <span data-ttu-id="e037c-108">عندما يقوم المستخدمون بربط مواقعهم بموقع لوحة وصل، فإنه لا يؤثر على أذونات موقع لوحة الوصل أو المواقع المقترنة.</span><span class="sxs-lookup"><span data-stu-id="e037c-108">When users associate their sites with a hub site, it doesn't impact the permissions of either the hub site or the associated sites.</span></span> <span data-ttu-id="e037c-109">من المهم التأكد من أن كافة المستخدمين الذين تسمح لهم بإقران المواقع بلوحة الوصل لديهم إذن إلى لوحة الوصل.</span><span class="sxs-lookup"><span data-stu-id="e037c-109">It's important to make sure all users you allow to associate sites to the hub have permission to the hub.</span></span>
 
 
 

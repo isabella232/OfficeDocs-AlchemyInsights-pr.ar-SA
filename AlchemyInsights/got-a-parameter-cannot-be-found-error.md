@@ -1,5 +1,5 @@
 ---
-title: حصلت على خطأ 'تعذر العثور على المعلمة'؟
+title: هل حصلت على خطأ 'لا يمكن العثور على معلمة'؟
 ms.author: pebaum
 author: pebaum
 ms.date: 5/8/2018
@@ -11,21 +11,21 @@ ms.custom:
 - "683"
 - "3500008"
 ms.assetid: 5070ca31-9ccf-4408-865c-d36912450196
-ms.openlocfilehash: a3e12e84d30dc3fed34142c5c60d8fa2ffd6ee56
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5549801bfd0fd84c232f483f8d9fbd250c389aec
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523462"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739840"
 ---
-# <a name="migrating-email-from-imap-email-system-to-office-365"></a><span data-ttu-id="58b5f-102">ترحيل البريد الإلكتروني من نظام البريد الإلكتروني IMAP إلى Office 365</span><span class="sxs-lookup"><span data-stu-id="58b5f-102">Migrating email from IMAP email system to Office 365</span></span>
+# <a name="migrating-email-from-imap-email-system-to-office-365"></a><span data-ttu-id="251a3-102">ترحيل البريد الإلكتروني من نظام البريد الإلكتروني IMAP إلى Office 365</span><span class="sxs-lookup"><span data-stu-id="251a3-102">Migrating email from IMAP email system to Office 365</span></span>
 
-<span data-ttu-id="58b5f-103">لترحيل البريد الإلكتروني من نظام بريد IMAP، الرجاء اتباع هذه العملية: [ترحيل IMAP في مركز مسؤول Microsoft 365](https://support.office.com/article/4682f2e4-f720-4868-91ab-207f5b0c325d)</span><span class="sxs-lookup"><span data-stu-id="58b5f-103">To migrate email from an IMAP mail system, please follow this process: [IMAP migration in the Microsoft 365 admin center](https://support.office.com/article/4682f2e4-f720-4868-91ab-207f5b0c325d)</span></span>
+<span data-ttu-id="251a3-103">لترحيل البريد الإلكتروني من نظام بريد IMAP، الرجاء اتباع هذه العملية: [ترحيل IMAP في مركز مسؤول Microsoft 365](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/imap-migration-in-the-admin-center)</span><span class="sxs-lookup"><span data-stu-id="251a3-103">To migrate email from an IMAP mail system, please follow this process: [IMAP migration in the Microsoft 365 admin center](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/imap-migration-in-the-admin-center)</span></span>
   
-<span data-ttu-id="58b5f-104">العديد من الشركات الكبيرة أن تخطط بعناية لإدارة توقعات المستخدم.</span><span class="sxs-lookup"><span data-stu-id="58b5f-104">Many large organizations will need to plan carefully to manage user expectations.</span></span> <span data-ttu-id="58b5f-105">المادة [ما تحتاج إلى معرفته حول ترحيل علب بريد IMAP الخاص بك إلى Office 365](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes) سوف تساعدك على إدارة التغيير.</span><span class="sxs-lookup"><span data-stu-id="58b5f-105">The [What you need to know about migrating your IMAP mailboxes to Office 365](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes) article will help you manage the change.</span></span>
+<span data-ttu-id="251a3-104">وسيتعين على العديد من المنظمات الكبيرة أن تخطط بعناية لإدارة توقعات المستعملين.</span><span class="sxs-lookup"><span data-stu-id="251a3-104">Many large organizations will need to plan carefully to manage user expectations.</span></span> <span data-ttu-id="251a3-105">ما [تحتاج إلى معرفته حول ترحيل علب بريد IMAP إلى مقالة Office 365](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes) سوف تساعدك على إدارة التغيير.</span><span class="sxs-lookup"><span data-stu-id="251a3-105">The [What you need to know about migrating your IMAP mailboxes to Office 365](https://docs.microsoft.com/Exchange/mailbox-migration/migrating-imap-mailboxes/migrating-imap-mailboxes) article will help you manage the change.</span></span>
 
-<span data-ttu-id="58b5f-106">الرجاء أيضا التحقق من [اعتماد Office 365 مع FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) الصفحة للحصول على تعليمات مساعدة الهجرة، إذا توافرت فيهم الشروط.</span><span class="sxs-lookup"><span data-stu-id="58b5f-106">Please also check the [Adopt Office 365 with FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) page for assisted help with migration, if eligible.</span></span>
+<span data-ttu-id="251a3-106">الرجاء أيضاً مراجعة صفحة [اعتماد Office 365 مع FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) للحصول على مساعدة في الترحيل، إذا كانت مؤهلة.</span><span class="sxs-lookup"><span data-stu-id="251a3-106">Please also check the [Adopt Office 365 with FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) page for assisted help with migration, if eligible.</span></span>
   
 
-<span data-ttu-id="58b5f-107">الرجاء أيضا التحقق من [اعتماد Office 365 مع FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) الصفحة للحصول على تعليمات مساعدة الهجرة، إذا توافرت فيهم الشروط.</span><span class="sxs-lookup"><span data-stu-id="58b5f-107">Please also check the [Adopt Office 365 with FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) page for assisted help with migration, if eligible.</span></span>
+<span data-ttu-id="251a3-107">الرجاء أيضاً مراجعة صفحة [اعتماد Office 365 مع FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) للحصول على مساعدة في الترحيل، إذا كانت مؤهلة.</span><span class="sxs-lookup"><span data-stu-id="251a3-107">Please also check the [Adopt Office 365 with FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) page for assisted help with migration, if eligible.</span></span>
   

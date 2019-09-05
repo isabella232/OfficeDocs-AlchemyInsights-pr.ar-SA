@@ -1,5 +1,5 @@
 ---
-title: استكشاف أخطاء إعداد دفق-إدارة الترخيص الدفق
+title: استكشاف أخطاء إعداد الدفق وإصلاحها - إدارة ترخيص الدفق
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1339"
 - "2800001"
-ms.openlocfilehash: 7c1a870c8dff53c937e98bc3f690b237762b1638
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9ec942641f04c1649aa3e6ba1e4485f4e4f95d4d
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559180"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36742612"
 ---
-# <a name="managing-microsoft-stream-licenses"></a><span data-ttu-id="0edfb-102">إدارة تراخيص Microsoft الدفق</span><span class="sxs-lookup"><span data-stu-id="0edfb-102">Managing Microsoft Stream licenses</span></span>
+# <a name="managing-microsoft-stream-licenses"></a><span data-ttu-id="a331d-102">إدارة تراخيص Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="a331d-102">Managing Microsoft Stream licenses</span></span>
 
-<span data-ttu-id="0edfb-103">**هامة:** عليك أن تكون في دور "إدارة المستأجرين" لتنفيذ العمليات الموضحة في هذا الموضوع.</span><span class="sxs-lookup"><span data-stu-id="0edfb-103">**Important:** You need to be in the Tenant Admin role to perform operations described in this topic.</span></span>
+<span data-ttu-id="a331d-103">**هام:** يجب أن تكون في دور "مسؤول المستأجر" لتنفيذ العمليات الموضحة في هذا الموضوع.</span><span class="sxs-lookup"><span data-stu-id="a331d-103">**Important:** You need to be in the Tenant Admin role to perform operations described in this topic.</span></span>
 
-<span data-ttu-id="0edfb-104">يجب أن تكون مسؤول عمومي أو مسؤول "إدارة المستخدمين". لمزيد من المعلومات، راجع [حول Office 365 إدارة الأدوار](https://support.office.com/article/About-Office-365-admin-roles-da585eea-f576-4f55-a1e0-87090b6aaa9d).</span><span class="sxs-lookup"><span data-stu-id="0edfb-104">You need to be either a Global admin or a User Management admin. For more information, see [About Office 365 admin roles](https://support.office.com/article/About-Office-365-admin-roles-da585eea-f576-4f55-a1e0-87090b6aaa9d).</span></span>
+<span data-ttu-id="a331d-104">يجب أن تكون إما مسؤول عمومي أو مسؤول "إدارة المستخدم". لمزيد من المعلومات، راجع [حول أدوار المسؤول](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles).</span><span class="sxs-lookup"><span data-stu-id="a331d-104">You need to be either a Global admin or a User Management admin. For more information, see [About admin roles](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles).</span></span>
 
-<span data-ttu-id="0edfb-105">يمكنك تعيين [تراخيص لحسابات المستخدمين بواسطة Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).</span><span class="sxs-lookup"><span data-stu-id="0edfb-105">You can assign [licenses to user accounts with Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).</span></span>
+<span data-ttu-id="a331d-105">يمكنك تعيين [تراخيص لحسابات المستخدمين باستخدام Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).</span><span class="sxs-lookup"><span data-stu-id="a331d-105">You can assign [licenses to user accounts with Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).</span></span>
