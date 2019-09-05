@@ -11,12 +11,12 @@ ms.custom:
 - "732"
 - "1200030"
 ms.assetid: 1d51fc10-cb67-4afa-a597-aef8dc90b9f8
-ms.openlocfilehash: 90c291dfbe9eb35dd878040806d5ea649e09097f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6e4e2430ff2fc9b493d93897ca3429bbee82e96e
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36544670"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738796"
 ---
 # <a name="when-you-get-a-not-an-accepted-domain-error"></a>عند حصولك على رسالة خطأ مفادها "ليس مجالاً مقبولاً"
 
@@ -24,5 +24,5 @@ ms.locfileid: "36544670"
   
 في معظم الحالات، يرجع سبب هذا الخطأ إلى عدم إعداد اسم المجال *(مثل contoso.com)* بشكل كامل لمؤسسك.
   
-يرجى التحقق من أن المجال قد تم إعداده بشكل كامل باتباع التعليمات الواردة في [إضافة مجال إلى Office 365](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611).
+يرجى التحقق من أن المجال قد تم إعداده بشكل كامل باتباع التعليمات الواردة في [إضافة مجال إلى Office 365](https://docs.microsoft.com/office365/admin/setup/add-domain).
   

@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.assetid: 6a7bc2f3-7d03-4c6f-b15f-cc7e89d92102
-ms.openlocfilehash: e9c073f63249af80c83f2957ba7bb3931325f6b0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 7aefc3606bd81d5ce8b9cf9443e3c5deaade11ac
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523390"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36735736"
 ---
 # <a name="having-email-delivery-issues"></a>هل تواجه مشاكل في تسليم البريد الإلكتروني ؟
 
@@ -21,10 +21,8 @@ ms.locfileid: "36523390"
   
 {HealthCheckString}
   
-لم يتم تكوين سجلات NS أو MX لإعدادات المجال (DNS) بشكل صحيح لتسليم البريد الإلكتروني لخدمة Office 365. للحصول على إرشادات مفصلة، يمكنك الرجوع إلى [تحديث سجلات DNS في Office 365‏](https://support.office.com/article/Create-DNS-records-for-Office-365-when-you-manage-your-DNS-records-B0F3FDCA-8A80-4E8E-9EF3-61E8A2A9AB23.aspx). 
+لم يتم تكوين سجلات NS أو MX لإعدادات المجال (DNS) بشكل صحيح لتسليم البريد الإلكتروني لخدمة Office 365. يمكنك أيضاً الرجوع إلى [إنشاء سجلات DNS على أي موفر استضافة DNS لـ Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) للحصول على الإرشادات. 
   
 لإصلاح ذلك، الرجاء الانتقال إلى صفحة [المجالات](https://admin.microsoft.com/adminportal/home#/Domains) في مركز مسؤولي Microsoft 365، وسوف نقدم لك المساعدة في ذلك. 
-  
-للبحث عن حلول عامة أخرى [تحقق من الأسئلة المتداولة حول المجالات](https://support.office.com/article/7b7b075d-79f9-4e37-8a9e-fb60c1d95166.aspx). 
-  
+
 
