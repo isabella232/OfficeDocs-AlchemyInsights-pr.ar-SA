@@ -14,25 +14,25 @@ ms.custom:
 - "369"
 - "1500009"
 ms.assetid: f7b8d5c5-2d9d-441e-91c7-0a042149ea0c
-ms.openlocfilehash: 8a93e783c590559b850c53841a61e2afb57f9eba
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 24d8d17a761ee1c6dc7efdd12e266aaab45f1715
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36663911"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739444"
 ---
 # <a name="how-to-purchase-education-offer"></a>كيفية شراء عرض التعليم
 
-وقد تمت الموافقة عليها لمكتب التربية 365. شراء:
+لقد تمت الموافقة على Office 365 Education. للشراء:
   
-1. في مركز الإدارة، انتقل إلى **الدفع** \> صفحة [& المنتجات أو الخدمات](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. في مركز المسؤول، انتقل إلى صفحة خدمات منتجات **الفوترة** \> [&](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. اختر الفترة التجريبية **الطلاب أو أعضاء هيئة التدريس**.
+2. اختر التجربة **للطلاب أو أعضاء هيئة التدريس**.
 
-3. في قسم **التراخيص** ، اختر **شراء الاشتراك**.
+3. في قسم **التراخيص،** اختر **اشتراك الشراء**.
 
-4. تابع تنفيذ الخطوات المتبقية للتحقق.
+4. اتبع الخطوات المتبقية للتحقق.
 
-إذا كنت تريد شراء اشتراك خلاف ما قيد المحاكمة، انتقل إلى **الفوترة** \> [خدمات الشراء](https://go.microsoft.com/fwlink/p/?linkid=868433) الصفحة، ثم اختر من القائمة ضمن **خطط التعليم**.
+إذا كنت ترغب في شراء اشتراك بخلاف ما هو قيد التجربة، فانتقل إلى صفحة [خدمات شراء](https://go.microsoft.com/fwlink/p/?linkid=868433) **الفوترة،** \> واختر من القائمة ضمن **خطط التعليم**.
 
-لمزيد من المعلومات، راجع [شراء نفس الخطة كالإصدار التجريبي](https://docs.microsoft.com/en-us/office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial#buy-the-same-plan-as-your-trial).
+لمعرفة المزيد، راجع [شراء نفس الخطة التي تم كإصدار تجريبي.](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/buy-a-subscription-from-your-free-trial#buy-the-same-plan-as-your-trial)

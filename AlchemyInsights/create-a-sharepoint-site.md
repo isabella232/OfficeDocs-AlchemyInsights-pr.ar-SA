@@ -14,27 +14,27 @@ ms.custom:
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 96780bd2f4182c1385406ec2a31cd62745137985
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 30c51d84005534cc1de9e8b8136da1a07be57b73
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36515794"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738184"
 ---
 # <a name="create-a-sharepoint-site"></a>إنشاء موقع SharePoint
 
-يمكنك أن ترى ما يلي للحصول على معلومات حول إنشاء موقع SharePoint:
-- [إدارة المواقع في مركز مسؤول SharePoint جديدة](https://docs.microsoft.com/sharepoint/manage-site-creation): التعرف على خيارات إنشاء الموقع، بما في ذلك كيفية إنشاء موقع التقليدية أو موقع فرق تتضمن مجموعة Office 365.
-- [إنشاء موقع فريق في SharePoint](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d?ui=en-US&amp;rs=en-US&amp;ad=US): تعلم كيفية إنشاء موقع فريق.
-- [إنشاء موقع اتصال في SharePoint على الإنترنت](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb): تعلم كيفية إنشاء موقع اتصالات.
-- [إدارة المواقع في مركز مسؤول SharePoint جديدة](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site): تعلم كيفية إنشاء موقع التقليدية أو موقع فريق تتضمن مجموعة Office 365.
+يمكنك مشاهدة ما يلي للحصول على معلومات حول إنشاء موقع SharePoint:
+- [إدارة المواقع في مركز مسؤول SharePoint الجديد:](https://docs.microsoft.com/sharepoint/manage-site-creation)التعرف على خيارات إنشاء الموقع، بما في ذلك كيفية إنشاء موقع كلاسيكي أو موقع فرق لا يتضمن مجموعة Office 365.
+- [إنشاء موقع فريق في SharePoint](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d): التعرّف على كيفية إنشاء موقع فريق.
+- [إنشاء موقع اتصال في SharePoint Online](https://support.office.com/article/7fb44b20-a72f-4d2c-9173-fc8f59ba50eb): التعرّف على كيفية إنشاء موقع اتصالات.
+- [إدارة المواقع في مركز مسؤول SharePoint الجديد:](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#create-a-site)تعرّف على كيفية إنشاء موقع كلاسيكي أو موقع فريق لا يتضمن مجموعة Office 365.
 
 
   
-> [! تلميحات]
-> - لا يمكنك إنشاء موقع باستخدام نفس عنوان URL لموقع موجود. إذا حذف موقع والتي ترغب في إعادة استخدام URL، من الممكن حذف الموقع لا يزال موجوداً ضمن **مواقع محذوف**. لإدارة حذف المواقع، راجع [حذف موقع](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). لإزالة موقع مع Powershell، راجع المثال cmdlet [إزالة SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .
-> - بعض المستخدمين قد لا تتمكن من إنشاء موقع. راجع [إنشاء موقع إدارة في SharePoint على الإنترنت](https://docs.microsoft.com/sharepoint/manage-site-creation).
-> - من الممكن ظهور الموقع عالقة في **إنشاء** وقتاً أطول من المتوقع. لقد مرت أكثر من 24 ساعة منذ أول مرة في هذه المسألة، الرجاء تسجيل دعم تذكرة. في كثير من الحالات، الفعل نعمل على إيجاد حل. الرجاء إعطاء لنا أربع وعشرين ساعة لإكمال حل.
-> - إذا كنت تريد إنشاء موقع فريق جديد لا يتضمن مجموعة Office 365 
+> [! نصائح]
+> - لا يمكنك إنشاء موقع بنفس عنوان URL لموقع موجود. إذا قمت بحذف موقع وترغب في إعادة استخدام عنوان URL، فمن المحتمل أن الموقع المحذوف لا يزال موجوداً ضمن **المواقع المحذوفة**. لإدارة المواقع [المحذوفة، راجع، حذف موقع](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). لإزالة موقع مع Powershell بشكل كامل، راجع المثال cmdlet [سبسايت إزالة.](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
+> - قد لا يتمكن بعض المستخدمين من إنشاء موقع. راجع [إدارة إنشاء الموقع في SharePoint عبر الإنترنت](https://docs.microsoft.com/sharepoint/manage-site-creation).
+> - من المحتمل أن يظهر الموقع عالقاً في **إنشاء** أطول من المتوقع. إذا مرت أكثر من 24 ساعة منذ أن رأيت هذه المشكلة لأول مرة، الرجاء تسجيل تذكرة دعم. في كثير من الحالات، نحن نعمل بالفعل على حل. يرجى تعطينا ما لا يقل عن 24 ساعة لاستكمال حل.
+> - إذا كنت بحاجة إلى إنشاء موقع فريق جديد لا يتضمن مجموعة Office 365، 
 
 

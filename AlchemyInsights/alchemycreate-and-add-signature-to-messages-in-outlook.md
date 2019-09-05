@@ -1,5 +1,5 @@
 ---
-title: الكيمياء-إنشاء وإضافة توقيع للرسائل في Outlook
+title: الخيمياء - إنشاء وإضافة توقيع إلى الرسائل في أوتلوك
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -12,24 +12,24 @@ ms.custom:
 - "24"
 - "1200009"
 ms.assetid: e1d1258b-6057-4ef9-ae67-f3e0e2bbe1c4
-ms.openlocfilehash: baefa04a536e71358f1a6cd143c4c727c290e28c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 3a32db7dfda23da343e7475c0ee6497b942a8492
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664631"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737356"
 ---
 # <a name="creating-email-signatures"></a>إنشاء تواقيع البريد الإلكتروني
 
-ينبغي أن تساعد هذه المواد على إنشاء تواقيع البريد الإلكتروني في Outlook.
+يجب أن تساعدك هذه المقالات على إنشاء توقيعات البريد الإلكتروني في Outlook.
   
-- أريد إنشاء توقيع البريد إلكتروني باستخدام Outlook في Windows: [إنشاء وإضافة توقيع إلى الرسائل](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)
+- أريد إنشاء توقيع بريد إلكتروني باستخدام Outlook على Windows: [إنشاء توقيع وإضافته إلى الرسائل](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx)
   
-- إنشاء توقيع بريد إلكتروني استخدام Outlook على شبكة الإنترنت: [إنشاء وإضافة توقيع البريد إلكتروني في Outlook على الويب](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx)
+- أريد إنشاء توقيع بريد إلكتروني باستخدام Outlook على الويب: [إنشاء وإضافة توقيع بريد إلكتروني في Outlook على الويب](https://support.office.com/article/5ff9dcfd-d3f1-447b-b2e9-39f91b074ea3.aspx)
 
-- إنشاء توقيع بريد إلكتروني استخدام Outlook.com: [إنشاء وإضافة توقيع البريد إلكتروني في Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)
+- أريد إنشاء توقيع بريد إلكتروني باستخدام Outlook.com: [إنشاء توقيع بريد إلكتروني وإضافته في Outlook.com](https://support.office.com/article/776d9006-abdf-444e-b5b7-a61821dff034.aspx)
 
-- إنشاء توقيع بريد إلكتروني عمومي لكافة رسائل البريد الإلكتروني المرسلة من شركتي: [إنشاء التواقيع على نطاق المنظمة وإخلاء المسئولية في Office 365](https://support.office.com/article/2d75860f-c527-4352-a7f6-73eba54c0c72.aspx)
+- أريد إنشاء توقيع بريد إلكتروني عالمي لجميع رسائل البريد الإلكتروني المرسلة من شركتي: [إنشاء توقيعات وإخلاء مسؤولية على مستوى المؤسسة](https://docs.microsoft.com/office365/admin/setup/create-signatures-and-disclaimers)
 
- **تلميح:** التواقيع على نطاق المنظمة يشار إلى "إخلاء المسؤولية".
+ **نصيحة:** ويشار إلى التوقيعات على نطاق المنظمة باسم "إخلاء المسؤولية".
   
