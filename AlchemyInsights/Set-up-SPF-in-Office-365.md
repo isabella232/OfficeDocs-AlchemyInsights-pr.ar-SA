@@ -1,5 +1,5 @@
 ---
-title: إعداد منتدى جنوب المحيط الهادئ في Office 365
+title: إعداد عامل حماية من الشمس في Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -9,18 +9,18 @@ ms.service: o365-administration
 localization_priority: Normal
 ROBOTS: NOINDEX, NOFOLLOW
 ms.custom: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: c2e43788d674942b14bec3aa7316e34e7126d1be
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ebb83c3cced55856963fa1784dd72760838366ca
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495990"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736348"
 ---
-# <a name="set-passwords-to-never-expire"></a>عدم انتهاء صلاحية كلمة المرور مجموعة 
+# <a name="set-passwords-to-never-expire"></a>تعيين كلمات المرور التي لا تنتهي صلاحيتها أبداً 
 
-لتعيين كافة كلمات المرور تنتهي ابدأ في مركز مسؤول Microsoft 365، انتقل إلى **الإعدادات** > [الأمان &amp; الخصوصية](https://portal.office.com/adminportal/home#/settings/security) الصفحة. حدد **تحرير** إلى جانب **نهج كلمة المرور**وتشغيل شريط التمرير إلى **تشغيل**.
+لتعيين كافة كلمات المرور التي لا تنتهي صلاحيتها، في مركز مسؤول Microsoft 365، انتقل إلى صفحة["خصوصية أمان &amp; ](https://portal.office.com/adminportal/home#/settings/security) **الإعدادات".** >  حدد **تحرير** بجوار **نهج كلمة المرور**، وقم بتشغيل شريط التمرير إلى **تشغيل**.
   
-لمزيد من المعلومات انظر: [تعيين نهج انتهاء صلاحية كلمة المرور لمؤسستك.](https://support.office.com/article/0f54736f-eb22-414c-8273-498a0918678f)
+لمزيد من المعلومات التفصيلية، راجع: [تعيين نهج انتهاء صلاحية كلمة المرور لمؤسستك.](https://docs.microsoft.com/office365/admin/manage/set-password-expiration-policy)
   
-[تعيين كلمة المرور لتنتهي ابدأ لمستخدمين محددين](https://support.office.com/article/f493e3af-e1d8-4668-9211-230c245a0466)
+[تعيين كلمة المرور التي لا تنتهي صلاحيتها أبداً لمستخدمين محددين](https://docs.microsoft.com/office365/admin/add-users/set-password-to-never-expire)
   

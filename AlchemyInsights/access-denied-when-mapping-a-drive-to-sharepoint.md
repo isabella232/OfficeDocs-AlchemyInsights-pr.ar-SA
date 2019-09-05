@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b7da3918-969f-40bb-acb3-fbc762605504
-ms.openlocfilehash: c73358ebfbdede5b4e43ca2c35146f6611958e23
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c41bfd9d25c8aa946a4ec5156be6d2424f4e2133
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495846"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737464"
 ---
-# <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>إصلاح مشاكل مكتبات SharePoint تعيين محركات أقراص الشبكة
+# <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>إصلاح المشاكل المتعلقة بمكتبات SharePoint المعينة إلى محركات أقراص الشبكة
 
-عند قيامك بالاستعراض إلى محرك أقراص شبكة معين، قد ترى إحدى الرسائل التالية:
+عند استعراض إلى محرك أقراص شبكة معين قد تشاهد إحدى الرسائل التالية:
   
-- **\\مسار غير قابل للوصول. قد لا يكون لديك إذن لاستخدام مورد شبكة الاتصال هذا. اتصل بمسؤول الملقم لمعرفة ما إذا كان لديك أذونات الوصول.**
+- **\\المسار غير قابل للوصول. قد لا يكون لديك الإذن لاستخدام مورد شبكة الاتصال هذا. اتصل بمسؤول هذا الملقم لمعرفة ما إذا كان لديك أذونات الوصول.**
 
-- **تم رفض الوصول. قبل فتح الملفات في هذا الموقع، الذي يجب أولاً إضافة موقع ويب إلى قائمة المواقع الموثوق بها الخاصة بك استعراض موقع ويب وتحديد خيار تسجيل الدخول تلقائياً.**
+- **تم رفض الوصول. قبل فتح الملفات في هذا الموقع، يجب أولاً إضافة موقع ويب إلى قائمة المواقع الموثوق بها، والاستعراض إلى موقع ويب، وتحديد خيار تسجيل الدخول تلقائيًا.**
 
-[محركات أقراص الشبكة المعينة الحصول على المساعدة في استكشاف الأخطاء وإصلاحها](https://support.office.com/article/ef399c67-4578-4c3a-adbe-0b489084eabe.aspx).
+[الحصول على تعليمات استكشاف أخطاء محركات أقراص الشبكة المعينة وإصلاحها](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
   
-تعيين مكتبة كمحرك أقراص شبكة اتصال تم المؤقتة والمعتمدة فقط في Internet Explorer. بدلاً من ذلك، [مزامنة الملفات SharePoint مع عميل المزامنة أندريف الجديد](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) الذي يتضمن [الملفات عند الطلب](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). الوصول إلى كافة الملفات في أندريف دون استخدام مساحة للتخزين المحلي.
+تعيين مكتبة كمحرك أقراص شبكة مؤقتة ومعتمدة فقط في Internet Explorer. بدلاً من ذلك، [قم بمزامنة ملفات SharePoint مع عميل المزامنة OneDrive الجديد](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) الذي يتضمن [الملفات عند الطلب](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). الوصول إلى كافة الملفات الخاصة بك في أندريف دون استخدام مساحة التخزين المحلية.
   

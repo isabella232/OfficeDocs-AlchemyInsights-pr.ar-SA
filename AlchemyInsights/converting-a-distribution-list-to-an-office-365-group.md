@@ -1,5 +1,5 @@
 ---
-title: 712 تحويل قائمة توزيع لمجموعة Office 365
+title: 712 تحويل قائمة توزيع إلى مجموعة Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,13 +13,13 @@ ms.custom:
 - "712"
 - "3"
 ms.assetid: a54600a0-e150-4a1a-8d67-ed77624bb928
-ms.openlocfilehash: 167c4e5fe0b1be2d4c0c3931db08c02feb8fa53d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9af4f8772be25c5d3de0489cd24b9cdbac199daa
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36516383"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36738328"
 ---
 # <a name="convert-a-distribution-group-to-an-office-365-group"></a>تحويل مجموعة توزيع إلى مجموعة Office 365
 
-يمكنك تحويل مجموعات التوزيع إلى مجموعات 365 Office إذا استوفت معايير معينة. لتحويل مجموعة أو استكشاف مشاكل التحويل، راجع [ترقية قوائم التوزيع إلى مجموعات 365 Office في Outlook](https://support.office.com/article/787D7A75-E201-46F3-A242-F698162FF09F).
+يمكنك تحويل مجموعات التوزيع إلى مجموعات Office 365 إذا كانت تفي بمعايير معينة. لتحويل مجموعة أو استكشاف مشكلات التحويل وإصلاحها، راجع [ترقية قوائم التوزيع إلى مجموعات Office 365 في Outlook](https://docs.microsoft.com/office365/admin/manage/upgrade-distribution-lists).

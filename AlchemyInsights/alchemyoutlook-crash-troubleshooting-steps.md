@@ -1,5 +1,5 @@
 ---
-title: الكيمياء-تعطل Outlook خطوات استكشاف الأخطاء وإصلاحها
+title: الخيمياء - خطوات استكشاف أخطاء تعطل Outlook وإصلاحها
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,22 +13,22 @@ ms.custom:
 - "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: bcc23c54e38c0e3f06c243c53a6cc7fd1f8e7c0e
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0d35793c5222c89828133e6ace98d8b53860107b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664559"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737090"
 ---
-# <a name="outlook-crash-troubleshooting-steps"></a>تعطل outlook خطوات استكشاف الأخطاء وإصلاحها
+# <a name="outlook-crash-troubleshooting-steps"></a>خطوات استكشاف أخطاء تعطل Outlook وإصلاحها
 
-إذا كنت تواجه مشكلات تحطم سطح المكتب Outlook، ابدأ باتباع الخطوات الثلاث أدناه، حيث يتم سرد كافة بالتفصيل في هذه المقالة: [كيفية استكشاف المشكلات التي تتسبب في Outlook إلى تعطل أو توقف عن الاستجابة عند استخدام Office 365.](https://support.microsoft.com/help/2413813/how-to-troubleshoot-issues-that-cause-outlook-to-crash-or-hang-when-us)
+إذا كنت تواجه مشكلات تعطل سطح المكتب Outlook، ابدأ باتباع الخطوات الثلاث أدناه، والتي يتم سرد كافة بالتفصيل في هذه المقالة: [كيفية استكشاف المشكلات التي تتسبب في تعطل Outlook أو التوقف عن الاستجابة عند استخدامها مع Office 365.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
   
-الخطوة 1: التحقيق في المشاكل المحتملة مع الوظائف الإضافية.
+الخطوة 1: التحقيق في المشكلات المحتملة مع الوظائف الإضافية.
   
-الخطوة 2: إصلاح التوقعات وتشغيل [أداة الدعم والاسترداد مساعد](https://aka.ms/SaRA-OutlookWontStart) لاستكشاف أخطاء بدء تشغيل Outlook في الجهاز المتأثر بالمشكلة.
+الخطوة 2: إصلاح Outlook وتشغيل [أداة مساعد الدعم والاسترداد](https://aka.ms/SaRA-OutlookWontStart) لاستكشاف أخطاء بدء تشغيل Outlook على الجهاز المتأثر.
   
-الخطوة 3: إنشاء ملف تعريف Outlook جديد أو تشغيل [أداة ملف تعريف Outlook](https://aka.ms/SaRA-OutlookSetupProfile) على جهاز متأثر.
+الخطوة ش3: إنشاء ملف تعريف Outlook جديد أو تشغيل [أداة ملف تعريف Outlook](https://aka.ms/SaRA-OutlookSetupProfile) على الجهاز المتأثر.
   
-إذا حدثت المشكلة بعد عملية تحديث ولم تعمل الخطوات أعلاه، قد تحتاج إلى الرجوع إلى الإصدار سابق. راجع [كيفية الرجوع إلى إصدار سابق من Office 2016 انقر لتشغيل](https://support.microsoft.com/help/2770432).
+إذا حدثت المشكلة بعد تحديث ولم تنجح الخطوات المذكورة أعلاه، فقد تحتاج إلى العودة إلى بنية سابقة. راجع [كيفية الرجوع إلى إصدار سابق من Office 2016 انقر لتشغيل](https://support.microsoft.com/help/2770432).
   

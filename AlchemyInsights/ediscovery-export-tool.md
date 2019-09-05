@@ -15,36 +15,36 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: d6ffd69cdc02331ecd1290fa3b0cb5a542c8bd58
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5a54344d43d16c77d440768aa1c87489edf10ca0
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36528250"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36736312"
 ---
-# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>لا يمكن تثبيت أو تشغيل eDiscovery "أداة تصدير"؟
+# <a name="cant-install-or-run-the-ediscovery-export-tool"></a>لا يمكن تثبيت أداة تصدير eDiscovery أو تشغيلها؟
 
-إذا كان لا يمكنك تثبيت أو تشغيل eDiscovery Office 365 أداة تصدير لتحميل نتائج البحث، تحقق من الأمور التالية:
+إذا لم تتمكن من تثبيت أو تشغيل أداة تصدير eDiscovery Office 365 لتنزيل نتائج البحث، تحقق من الأشياء التالية:
   
-- جهاز الكمبيوتر الذي تستخدمه يفي بهذه الشروط المسبقة:
+- يفي الكمبيوتر الذي تستخدمه بالمتطلبات المسبقة هذه:
 
-  - إصدارات 32 أو 64 بت من نظام التشغيل Windows 7 والإصدارات الأحدث
+  - إصدارات 32 أو 64 بت من Windows 7 والإصدارات الأحدث
 
-  - Microsoft.NET Framework 4، 7
+  - مايكروسوفت .NET Framework 4.7
 
-  - مستعرض معتمد:
+  - متصفح معتمد:
 
-  - حافة Microsoft
+  - مايكروسوفت إيدج
 
-    أو
+    او
 
-  - Internet Explorer 10 والإصدارات الأحدث
+  - إنترنت إكسبلورر 10 والإصدارات الأحدث
 
-    لا يتم دعم المستعرضات الأخرى، مثل جوجل كروم وموزيلا فايرفوكس.
+    لا يتم اعتماد المتصفحات الأخرى، مثل Google Chrome وموزيلا فايرفوكس.
 
-- الاتصال بنقطة النهاية في أزور، والمؤسسة ** \*. blob.core.windows.net** (حرف البدل يمثل معرفاً فريداً للمهمة التصدير).
+- يمكن للمؤسسة الاتصال بنقطة النهاية في ** \*Azure،** وهي .blob.core.windows.net (يمثل حرف البدل معرفًا فريدًا لمهمة التصدير الخاصة بك).
 
-- تم تعيينها في دور التصدير في أمان Office 365 &amp; مركز التوافق. بشكل افتراضي، يتم تعيين هذا الدور فقط إلى مجموعة دور إدارة eDiscovery. راجع [تعيين الأذونات eDiscovery](https://support.office.com/article/assign-ediscovery-permissions-in-the-office-365-security-compliance-center-5b9a067b-9d2e-4aa5-bb33-99d8c0d0b5d7#moreinfo).
+- يتم تعيين دور التصدير في مركز توافق &amp; أمان Office 365. بشكل افتراضي، يتم تعيين هذا الدور فقط إلى مجموعة دور eDiscovery Manager. راجع [تعيين أذونات eDiscovery](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions).
 
-لمزيد من المعلومات، راجع [نتائج "البحث في تصدير المحتوى"](https://support.office.com/article/Export-Content-Search-results-from-the-Office-365-Security-Compliance-Center-ed48d448-3714-4c42-85f5-10f75f6a4278).
+لمزيد من المعلومات، راجع [تصدير نتائج البحث عن المحتوى](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
   

@@ -1,5 +1,5 @@
 ---
-title: الاتحاد ADFS انتهاء مدة صلاحية الشهادة
+title: انتهاء صلاحية شهادة الاتحاد ADFS
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,21 +13,21 @@ ms.custom:
 - "645"
 - "1300012"
 ms.assetid: 26a7eebb-1424-4ddc-a123-af1cc94bc40f
-ms.openlocfilehash: c9922258c2d203cc07c1a1055ffa36c23a756115
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: eafd31e91340b41b7948fb1fe62889731b816d9a
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499878"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737176"
 ---
-# <a name="adfs-federation-certificate-expiring"></a>الاتحاد ADFS انتهاء مدة صلاحية الشهادة
+# <a name="adfs-federation-certificate-expiring"></a>انتهاء صلاحية شهادة الاتحاد ADFS
 
 لحل هذه المشكلة، اتبع الخطوات التالية:
   
-1. تثبيت في Microsoft Azure نشط الدليل الوحدة النمطية ل Windows PowerShell على الكمبيوتر (إذا لم يتم تثبيت الوحدة النمطية مسبقاً). للقيام بذلك، انتقل إلى [إدارة استخدام Windows PowerShell الإعلان Azure](https://aka.ms/aadposh).
+1. تثبيت الوحدة النمطية لـ Microsoft Azure Active Directory لـ Windows PowerShell على الكمبيوتر (إذا لم يتم تثبيت الوحدة النمطية بالفعل). للقيام بذلك، انتقل إلى [إدارة إعلان Azure باستخدام Windows PowerShell](https://aka.ms/aadposh).
 
-2. اتبع الخطوات الموجودة في "السيناريو 1: مدة صلاحية شهادة التوقيع الرمز المميز AD FS" المقطع ["كان هناك مشكلة في الوصول إلى الموقع" خطأ من خ الإعلان عند تسجيل مستخدم متحد Office 365، الأزرق السماوي، أو إينتوني](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).
+2. اتبع الخطوات الموجودة في "السيناريو 1: انتهت صلاحية شهادة توقيع الرمز المميز AD FS" من ["كان هناك مشكلة في الوصول إلى الموقع" خطأ من AD FS عند تسجيل دخول مستخدم متحد إلى Office 365 أو Azure إينتوني](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).
 
-3. اتبع الخطوات في [كيفية تحديث أو إصلاح إعدادات المجال المتحد في Office 365، الأزرق السماوي، أو إينتوني](https://support.microsoft.com/help/2647048/how-to-update-or-repair-the-settings-of-a-federated-domain-in-office-3).
+3. اتبع الخطوات الموجودة في [تحديث أو إصلاح إعدادات مجال متحد في Office 365 أو Azure أو إينتوني](https://docs.microsoft.com/office365/troubleshoot/security/update-federated-domain-office-365).
 
-    لمزيد من المعلومات حول تجديد الشهادات الاتحاد، راجع [تجديد شهادات الاتحاد Office 365 و Active Directory Azure](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).
+    لمزيد من المعلومات حول تجديد شهادات الاتحاد، راجع [تجديد شهادات الاتحاد لOffice 365 و Azure Active Directory](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).

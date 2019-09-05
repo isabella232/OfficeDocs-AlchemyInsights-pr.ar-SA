@@ -13,16 +13,16 @@ ms.custom:
 - "935"
 - "1800018"
 ms.assetid: 20ea6700-31b5-4491-aaf3-40ddd775e8a3
-ms.openlocfilehash: 26e4840f0feb38d8e12c593c00953c376d0817f8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 67420eb543762a42a93c7f727ea5bb5345e00bc8
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494946"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36737968"
 ---
-# <a name="problems-setting-up-an-exchange-email-account-in-outlook"></a>مشكلات إعداد حساب البريد إلكتروني Exchange في Outlook
+# <a name="problems-setting-up-an-exchange-email-account-in-outlook"></a>مشاكل في إعداد حساب بريد إلكتروني Exchange في Outlook
 
-إذا كنت تواجه مشاكل في إعداد حساب Exchange في Outlook، يمكنك تشغيل [أداة إعداد حساب Outlook](https://aka.ms/SaRA-OutlookSetupProfile) على الجهاز المتأثر. وسيتم إجراء عمليات فحص مختلف وتوفير الحلول الممكنة لمشكلة إعداد الحساب الخاص بك.
+إذا كنت تواجه مشاكل في إعداد حساب Exchange في Outlook، يمكنك تشغيل [أداة إعداد حساب Outlook](https://aka.ms/SaRA-OutlookSetupProfile) على الجهاز المتأثر. فإنه سيتم إجراء الشيكات المختلفة وتوفير الحلول الممكنة لمسألة إعداد الحساب الخاص بك.
   
-إذا كنت لا تزال تواجه مشاكل، راجع [Outlook لا إعداد تشكيل جانبي جديد باستخدام Exchange الاكتشاف التلقائي لعلبة بريد Exchange عبر إنترنت في Office 365](https://support.microsoft.com/help/2404385/outlook-can-t-set-up-a-new-profile-by-using-exchange-autodiscover-for).
+إذا كنت لا تزال تواجه مشكلات، راجع [Outlook لا يمكن إعداد ملف تعريف جديد باستخدام الاكتشاف التلقائي Exchange لعلبة بريد Exchange عبر الإنترنت في Office 365](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover).
   

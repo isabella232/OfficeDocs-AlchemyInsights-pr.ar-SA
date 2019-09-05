@@ -1,6 +1,6 @@
 ---
 title: كيفية زيادة التخزين في أندريف للعمل
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.date: 12/14/2018
 ms.audience: ITPro
@@ -8,27 +8,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ceaa6256-a9d9-4fef-a274-d7219365e07f
-ms.openlocfilehash: ab43df8415f84d2cb289d8f3f93fa002faf783c2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2cf4b8c4e2cd2e5e6b91d609b34fde700c408fba
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540708"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755799"
 ---
 # <a name="how-to-increase-storage-in-onedrive-for-business"></a>كيفية زيادة التخزين في أندريف للعمل
 
-لتغيير التخزين الافتراضي للمستخدمين أندريف الجديدة والموجودة:
+لتغيير التخزين الافتراضي لمستخدمي OneDrive الجدد والحاليين:
   
-- الانتقال إلى [صفحة التخزين مركز الإدارة أندريف](https://admin.onedrive.com/?v=StorageSettings)، وثم إدخال مقدار جديد في بريطانيا.
+- انتقل إلى [صفحة التخزين في مركز مسؤول OneDrive](https://admin.onedrive.com/?v=StorageSettings)، ثم أدخل مبلغًا جديدًا في GB.
     
-يطبق هذا الإعداد مساحة التخزين لكافة المستخدمين الذين لم يتم تعيين حدود التخزين المحددة. لتغيير مساحة التخزين لمستخدمين محددين، تحتاج إلى استخدام Microsoft PowerShell. للحصول على مزيد من المعلومات حول كيفية القيام بذلك، راجع [تغيير استخدام PowerShell مساحة التخزين أندريف الخاصة بالمستخدمين](https://go.microsoft.com/fwlink/?linkid=866402). 
+ينطبق إعداد مساحة التخزين هذا على كافة المستخدمين الذين لم تقم بتعيين حدود تخزين محددة لهم. لتغيير مساحة التخزين لمستخدمين معينين، تحتاج إلى استخدام Microsoft PowerShell. للحصول على معلومات حول كيفية القيام بذلك، راجع [تغيير مساحة تخزين OneDrive للمستخدمين باستخدام PowerShell](https://go.microsoft.com/fwlink/?linkid=866402). 
   
- **ملاحظة**: يبدو أن لم يكن لديك خطة تتضمن تخزين غير محدودة. للحصول على مزيد من المعلومات حول التخزين الذي يأتي مع كل خطة، راجع [أندريف لوصف الخدمات التجارية](https://go.microsoft.com/fwlink/p/?LinkID=826071).
+ **ملاحظة:** يبدو أنه ليس لديك خطة تتضمن تخزين غير محدود. للحصول على معلومات حول التخزين الذي يأتي مع كل خطة، راجع [أندريف لوصف خدمة الأعمال](https://go.microsoft.com/fwlink/p/?LinkID=826071).
   
-لزيادة وحدات التخزين لديك في أندريف للعمل، اختر خطة Office 365 يتضمن أما **أندريف 2 خطة العمل** أو **E3 المؤسسة Office 365**. 
+لزيادة سعة التخزين في أندريف للعمل، اختر خطة Office 365 التي تتضمن **أندريف لخطة الأعمال 2** أو **Office 365 المؤسسة E3**. 
   
-لتغيير الخطط في مركز مسؤول Microsoft 365، انتقل إلى **الدفع** \> **الاشتراكات**، ثم اختر **التبديل خطط.**
+لتغيير الخطط، في مركز مسؤول Microsoft 365، انتقل إلى **اشتراكات** **الفوترة** \> ، ثم اختر **تبديل الخطط.**
   
-لمزيد من المعلومات حول التبديل أندريف وخطط للعمل التخزين، راجع [أندريف "وصف الخدمات التجارية"](https://go.microsoft.com/fwlink/?LinkId-2031122)و [التبديل إلى Office 365 مختلفة لخطة العمل](https://go.microsoft.com/fwlink/?LinkId=2031117) .
+لمزيد من المعلومات حول خطط التبديل وOneDrive لتخزين الأعمال، راجع [التبديل إلى Office 365 مختلف لخطة العمل](https://go.microsoft.com/fwlink/?LinkId=2031117) و [أندريف لوصف خدمة الأعمال](https://go.microsoft.com/fwlink/?LinkId-2031122).
   
 
