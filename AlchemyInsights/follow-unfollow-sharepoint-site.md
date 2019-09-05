@@ -1,6 +1,6 @@
 ---
-title: اتبع أو المتابعة الأمم المتحدة موقع SharePoint
-ms.author: kirks
+title: متابعة موقع SharePoint أو إلغاء متابعته
+ms.author: pebaum
 author: Techwriter40
 ms.date: 6/20/2019
 ms.audience: ITPro
@@ -8,19 +8,19 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: ebbb69c987b331fb92e5149f972a4489288f8334
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ef2eaf323e24202117282ff6d9d09ba348bf9a62
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36524578"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755691"
 ---
-# <a name="follow-or-un-follow-a-sharepoint-site"></a>اتبع أو المتابعة الأمم المتحدة موقع SharePoint
+# <a name="follow-or-un-follow-a-sharepoint-site"></a>متابعة موقع SharePoint أو إلغاء متابعته
 
-هناك عدة طرق لتتبع موقع الذي تريده في SharePoint. هذا سوف يسمح لك العثور على الموقع بسهولة في القائمة ويسمح لك بعرض النشاط من الموقع. 
+هناك طرق متعددة لمتابعة موقع يثير اهتمامك في SharePoint. وهذا سوف يسمح لك للعثور على الموقع بسهولة في القائمة الخاصة بك، ويسمح لك لرؤية النشاط من الموقع. 
 
-شاهد الفيديو [تتبع موقع SharePoint](https://support.office.com/article/Video-Follow-a-SharePoint-site-33DB6FA5-9528-45D7-BCC7-F9C1FAAACAE0). 
+شاهد الفيديو [لمتابعة موقع SharePoint](https://support.office.com/article/Video-Follow-a-SharePoint-site-33DB6FA5-9528-45D7-BCC7-F9C1FAAACAE0). 
 
-إذا كنت غير قادر على المتابعة أو المتابعة موقع الأمم المتحدة وتشعر بأن النتائج ليست ما هو متوقع، راجع إذا المشكلة المرتبطة بمستخدم واحد أو كافة المستخدمين في المؤسسة الخاصة بك. في حالة مواجهة هذه المشكلة بكافة المستخدمين، قد تكون هناك مشكلة خدمة مؤقت. 
+إذا لم تتمكن من متابعة موقع أو إلغاء متابعته وكنت تشعر بأن النتائج ليست كما هو متوقع، فمعرفة ما إذا كانت المشكلة مرتبطة بمستخدم واحد أو بكافة المستخدمين داخل المؤسسة. إذا تمت مصادفة المشكلة من قبل كافة المستخدمين، قد يكون هناك مشكلة خدمة مؤقتة. 
 
-تحقق من [لوحة المعلومات الصحية الخدمة](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) لترى إذا تأثر المؤسسة الخاصة بك.
+تحقق من [لوحة معلومات صحة الخدمة](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) لمعرفة ما إذا كانت مؤسستك قد تأثرت.
