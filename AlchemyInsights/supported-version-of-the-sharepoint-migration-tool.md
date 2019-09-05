@@ -1,6 +1,6 @@
 ---
-title: إصدار معتمد من أداة الترحيل في SharePoint
-ms.author: kirks
+title: الإصدار المعتمد من أداة ترحيل SharePoint
+ms.author: pebaum
 author: Techwriter40
 ms.date: 1/9/2019
 ms.audience: ITPro
@@ -9,19 +9,19 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a1c1c035-87ad-4d7a-a347-98522429c7aa
-ms.openlocfilehash: d5d4024fb9fd77f913f92d280620161534a574e8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3d355a854b24bcd81e5017af0666481c633c6814
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36534226"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749319"
 ---
-# <a name="supported-version-of-the-sharepoint-migration-tool"></a>إصدار معتمد من أداة الترحيل في SharePoint
+# <a name="supported-version-of-the-sharepoint-migration-tool"></a>الإصدار المعتمد من أداة ترحيل SharePoint
 
 
 
-أداة الترحيل في SharePoint فقط تدعم حاليا عمليات الترحيل من SharePoint 2013. لا يتم اعتماد إصدارات 2010 و 2016 في هذا الوقت.
+حاليا أداة ترحيل SharePoint يدعم فقط الترحيلات من SharePoint 2013. إصدارات 2010 و 2016 غير معتمدة في هذا الوقت.
   
-لمزيد من المعلومات، راجع [إدخال أداة الترحيل في SharePoint](https://go.microsoft.com/fwlink/?linkid=2044765&amp;clcid=0x409).
+لمزيد من المعلومات، راجع [تقديم أداة ترحيل SharePoint](https://go.microsoft.com/fwlink/?linkid=2044765&amp;clcid=0x409).
   
 

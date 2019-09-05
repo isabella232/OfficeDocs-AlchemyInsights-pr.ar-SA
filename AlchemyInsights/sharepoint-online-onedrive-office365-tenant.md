@@ -1,24 +1,24 @@
 ---
 title: SharePoint على الإنترنت أو أندريف 'إعداد'
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
-ms.openlocfilehash: 814e2157147b192d9a23084ed6d9715777a4dc3d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f461759a8f9a1f98ea7c5937a9d79e8bc4ebbbda
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535126"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36750435"
 ---
-# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint على الإنترنت أو أندريف "الإعداد"
+# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint على الإنترنت أو أندريف "إعداد"
 
-عند إضافة مستخدم للمستأجرين Office 365 موجودة، قد يرون SharePoint على الإنترنت أو أندريف للأعمال الرموز في عداد "إعداد" حتى اكتمال عملية التوفير.
+عند إضافة مستخدم إلى مستأجر Office 365 موجود، قد يرون SharePoint عبر الإنترنت أو أندريف لرموز الأعمال المسرودة كـ "إعداد" حتى يتم إكمال عملية التوفير.
 
-لقد مرت أكثر من 24 ساعة منذ أول مرة في هذه المسألة، الرجاء تسجيل حالة دعم.
+إذا مرت أكثر من 24 ساعة منذ أن رأيت هذه المشكلة لأول مرة، الرجاء تسجيل حالة دعم.
 
-ونحن نفهم أن 24 ساعة قد يبدو وكأنه وقتاً طويلاً. في كثير من الحالات، الفعل نعمل على إيجاد حل. الرجاء إعطاء لنا أربع وعشرين ساعة لإكمال حل.
+نحن نفهم أن 24 ساعة قد تبدو وكأنها فترة طويلة. في كثير من الحالات، نحن نعمل بالفعل على حل. يرجى تعطينا ما لا يقل عن 24 ساعة لاستكمال حل.
 

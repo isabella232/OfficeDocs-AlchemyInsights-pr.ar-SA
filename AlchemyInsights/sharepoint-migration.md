@@ -1,34 +1,34 @@
 ---
-title: ترحيل خيارات إلى SharePoint على الإنترنت
-ms.author: kirks
+title: ترحيل الخيارات إلى SharePoint عبر الإنترنت
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c8c339c9-2e50-4daa-aa91-3eb5053e2bc6
-ms.openlocfilehash: 74641ba9dc7bfd2c89518c054b7bd09ede78f00a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5bff8e0d8b0869ea975772d944c3885a3a4cbad5
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508338"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751371"
 ---
-# <a name="migrate-options-to-sharepoint-online"></a>ترحيل خيارات إلى SharePoint على الإنترنت
+# <a name="migrate-options-to-sharepoint-online"></a>ترحيل الخيارات إلى SharePoint عبر الإنترنت
 
-هناك خيارات مختلفة متاحة لترحيل المحتوى إلى SharePoint على الإنترنت، وفقا لحجم وعدد الملفات التي تحتاج إليها للتحرك، الرجاء مراجعة قائمة من الخيارات [الموجودة هنا](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).
+هناك خيارات مختلفة متاحة لترحيل المحتوى إلى SharePoint على الإنترنت، اعتمادا على حجم وكمية الملفات التي تحتاج إلى نقلها، يرجى الاطلاع على قائمة من الخيارات [الموجودة هنا](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).
 
-لمزيد من المعلومات حول ترحيل المحتوى، يرجى زيارة الارتباطات الموجودة أدناه.
+لمزيد من المعلومات حول ترحيل المحتوى، يرجى زيارة الروابط أدناه.
 
-- [أداة الترحيل في Sharepoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
+- [أداة ترحيل Sharepoint](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
 
-- [Sharepoint على الإنترنت وسرعة الهجرة ODB](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+- [Sharepoint على الانترنت وODB سرعة الترحيل](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
-- [ترحيل البيانات والتحكم خدمة مكتب التخطيط الاستراتيجي](https://blogs.technet.microsoft.com/sposupport/2017/08/12/data-migration-and-spo-service-throttling/).
+- [ترحيل البيانات واختناق خدمة SPO](https://blogs.technet.microsoft.com/sposupport/2017/08/12/data-migration-and-spo-service-throttling/).
 
 
-- [تجنب الوقوع في التحكم أو حظر في SharePoint عبر إنترنت](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
+- [تجنب الحصول على خنق أو حظر في SharePoint على الإنترنت](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
 
-- [أداة التقييم الترحيل في SharePoint (سمارت)](https://www.microsoft.com/download/details.aspx?id=53598&amp;751be11f-ede8-5a0c-058c-2ee190a24fa6=True)
+- [أداة تقييم ترحيل SharePoint (SMAT)](https://www.microsoft.com/download/details.aspx?id=53598&amp;751be11f-ede8-5a0c-058c-2ee190a24fa6=True)
 
-**ملاحظة**: أداة الترحيل في SharePoint فقط تدعم حاليا عمليات الترحيل من SharePoint 2010 و 2013. إصدار 2016 أو 2019 غير معتمدة في هذا الوقت.
+**ملاحظة:** حالياً أداة ترحيل SharePoint تدعم عمليات الترحيل فقط من SharePoint 2010 و 2013. إصدار 2016 أو 2019 غير معتمد في هذا الوقت.

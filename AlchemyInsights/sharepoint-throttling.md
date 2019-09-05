@@ -1,30 +1,30 @@
 ---
-title: كبح SharePoint على الإنترنت
-ms.author: kirks
+title: تثبوت شيربوينت على الإنترنت
+ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: b376d8ea-50c4-47f0-9720-50d80aa3f7f1
-ms.openlocfilehash: 6c940f3277e39c955adc24f22d5d9ef1591561ba
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cbe6799e5b7f415e560449485ce09518c6ac2999
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36502687"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36749931"
 ---
-# <a name="sharepoint-online-throttling"></a>كبح SharePoint على الإنترنت
+# <a name="sharepoint-online-throttling"></a>تثبوت شيربوينت على الإنترنت
 
-SharePoint على الإنترنت يستخدم التحكم للمحافظة على أفضل أداء وموثوقية الخدمة SharePoint على الإنترنت. التحكم بحدود عدد إجراءات المستخدم أو المتزامنة يستدعي (بواسطة برنامج نصي أو تعليمات برمجية) لمنع الإفراط في استخدام الموارد. لمزيد من المعلومات، يرجى زيارة الارتباطات أدناه.
+يستخدم SharePoint Online اختناق للحفاظ على الأداء الأمثل والموثوقية لخدمة SharePoint عبر الإنترنت. يحدد التجلط عن عدد إجراءات المستخدم أو الاستدعاءات المتزامنة (حسب البرنامج النصي أو التعليمات البرمجية) لمنع الإفراط في استخدام الموارد. لمزيد من المعلومات، يرجى زيارة الروابط أدناه.
 
-- [تجنب الوقوع في التحكم أو حظر في SharePoint عبر إنترنت](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
+- [تجنب الحصول على خنق أو حظر في SharePoint على الإنترنت](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
 
-- [ترحيل البيانات والتحكم به مكتب التخطيط الاستراتيجي](https://blogs.technet.microsoft.com/sposupport/2017/08/12/data-migration-and-spo-service-throttling/)
+- [ترحيل البيانات واختناق SPO](https://blogs.technet.microsoft.com/sposupport/2017/08/12/data-migration-and-spo-service-throttling/)
 
-- [SharePoint على الإنترنت وسرعة الهجرة أندريف](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
+- [SharePoint على الانترنت وسرعة ترحيل أندريف](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
- - [معالجة عبر الإنترنت SharePoint التحكم باستخدام الأسى التراجع](https://docs.microsoft.com/sharepoint/dev/solution-guidance/handle-sharepoint-online-throttling-by-using-exponential-back-off)
+ - [معالجة اختناق SharePoint على الإنترنت باستخدام النسخ الخلفي الأسي](https://docs.microsoft.com/sharepoint/dev/solution-guidance/handle-sharepoint-online-throttling-by-using-exponential-back-off)
 
-- [تخطيط القدرة وتحمل اختبار SharePoint على الإنترنت](https://support.office.com/article/Capacity-planning-and-load-testing-SharePoint-Online-c932bd9b-fb9a-47ab-a330-6979d03688c0)
+- [تخطيط السعة واختبار التحميل SharePoint على الإنترنت](https://docs.microsoft.com/office365/enterprise/capacity-planning-and-load-testing-sharepoint-online)
 

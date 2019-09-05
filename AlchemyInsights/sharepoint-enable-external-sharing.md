@@ -1,5 +1,5 @@
 ---
-title: تمكين مشاركة خارجية في SharePoint عبر إنترنت
+title: تمكين المشاركة الخارجية في SharePoint على الإنترنت
 ms.author: efrene
 author: efrene
 ms.audience: ITPro
@@ -8,43 +8,43 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: b5e546329fa05620b927db4742c3023f45289efc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f4c74f11b2b74f2de4b7e1c831012b5f92600917
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503874"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744412"
 ---
-# <a name="enable-external-sharing-in-sharepoint-online"></a>تمكين مشاركة خارجية في SharePoint عبر إنترنت
+# <a name="enable-external-sharing-in-sharepoint-online"></a>تمكين المشاركة الخارجية في SharePoint على الإنترنت
 
-إذا المؤسسة تنفيذ العمل الذي ينطوي على مشاركة المستندات أو التعاون مباشرة مع الموردين أو العملاء أو العملاء، فيمكنك استخدام [الخارجية مشاركة ميزات SharePoint على الإنترنت](https://docs.microsoft.com/sharepoint/external-sharing-overview) لتبادل المحتوى مع أشخاص خارج الخاص بك المؤسسة.
+إذا كانت مؤسستك تقوم بعمل يتضمن مشاركة المستندات أو التعاون مباشرة مع الموردين أو العملاء أو العملاء، يمكنك استخدام [ميزات المشاركة الخارجية لـ SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) لمشاركة المحتوى مع أشخاص خارج المنظمه.
 
-لمزيد من المعلومات حول "مشاركة خارجية" (الضيوف) الرجاء زيارة الارتباطات أدناه.
+لمزيد من المعلومات حول المشاركة الخارجية (الضيوف) يرجى زيارة الروابط أدناه.
 
-- [ما هو مستخدم خارجي؟](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
+- [ما هو المستخدم الخارجي؟](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-is-an-external-user)
 
-- [ماذا يحدث عند مشاركتي لموقع أو المستند؟](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
+- [ماذا يحدث عندما أشارك موقعًا أو مستندًا؟](https://docs.microsoft.com/sharepoint/external-sharing-overview#what-happens-when-i-share-a-site-or-document)
 
-- [تشغيل مشاركة أو إيقاف تشغيله للإنترنت SharePoint الخارجية](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
+- [تشغيل المشاركة الخارجية أو إيقاف تشغيلها لـ SharePoint عبر الإنترنت](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off)
 
-- [تشغيل مشاركة أو إيقاف تشغيله لموقع خارجي](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
+- [تشغيل المشاركة الخارجية أو إيقاف تشغيلها لموقع ما](https://docs.microsoft.com/sharepoint/change-external-sharing-site)
 
-- [إدارة الوصول إلى guest في Office 365 مجموعات](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
+- [إدارة وصول الضيف في مجموعات Office 365](https://docs.microsoft.com/office365/admin/create-groups/manage-guest-access-in-groups?view=o365-worldwide)
 
-- [استخدام Sharepoint على الإنترنت كحل إكسترانت أعمال (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
+- [استخدام Sharepoint Online كحل إكسترانت بين الشركات (B2B)](https://docs.microsoft.com/sharepoint/create-b2b-extranet)
 
-- [مشاركة المجلد أو الملفات SharePoint](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
+- [مشاركة ملفات أو مجلدات SharePoint](https://support.office.com/article/share-sharepoint-files-or-folders-1fe37332-0f9a-4719-970e-d2578da4941c)
 
-- [إيقاف مشاركة الملفات SharePoint أو أندريف أو المجلدات، أو تغيير الأذونات](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323?ui=en-US&amp;rs=en-US&amp;ad=US)
+- [إيقاف مشاركة ملفات أو مجلدات أندريف أو SharePoint أو تغيير الأذونات](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
 
 - [حذف مستخدم خارجي](https://docs.microsoft.com/sharepoint/remove-users#delete-a-guest-from-the-microsoft-365-admin-center)
 
-**تلقي خطأ بواسطة مستخدم خارجي (guest)؟**
+**هل تتلقى خطأ مع مستخدم خارجي (ضيف)؟**
 
-التحقق من الارتباطات أدناه. 
+تحقق من الروابط أدناه. 
 
-- [مشاركة OSE أخطاء في Sharepoint أو أندريف](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- [أخطاء مشاركة OSE في Sharepoint أو أندريف](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
-- [ظهور رسالة خطأ عند قبول مستخدم خارجي دعوة SharePoint على الإنترنت باستخدام حساب آخر](https://support.office.com/article/Error-message-when-an-external-user-accepts-a-SharePoint-Online-invitation-by-using-another-account-f0d34413-ea7c-42c7-a485-c4e5d421e5f0)
+- [ظهور رسالة خطأ عند قبول مستخدم خارجي دعوة SharePoint عبر الإنترنت باستخدام حساب آخر](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
 
-- [تم رفض الوصول إلى مجلد المشترك](https://support.office.com/client/d678b57a-53ad-4414-9423-d8726a0c532f)
+- [تم رفض الوصول إلى مجلد مشترك](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/cannot-access-shared-folder)

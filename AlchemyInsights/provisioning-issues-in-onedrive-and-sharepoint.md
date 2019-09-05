@@ -1,24 +1,21 @@
 ---
-title: توفير مشكلات في أندريف و SharePoint
-ms.author: kirks
+title: مشكلات توفير في أندريف و SharePoint
+ms.author: pebaum
 author: Techwriter40
-ms.date: 9/21/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
 ms.assetid: f3a5720d-a030-40b7-832e-d7e7c6799bb1
-ms.openlocfilehash: b9b129996837f646c951f2d0b29c28dd1ecb0728
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 9dd38f3db7e74a82748e6db526f48b8e1c28c63d
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32422331"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36752451"
 ---
-# <a name="provisioning-issues-in-onedrive-and-sharepoint"></a>توفير مشكلات في أونيدريفي و SharePoint
+# <a name="provisioning-issues-in-onedrive-and-sharepoint"></a>مشكلات توفير في أندريف و SharePoint
 
-عند إضافة مستخدم للمستأجرين Office 365 موجودة، قد يرون SharePoint على الإنترنت أو أندريف للأعمال الرموز في عداد "إعداد" حتى اكتمال عملية التوفير. للحسابات التي تم إنشاؤها حديثا، حاجة المستخدمين لتسجيل الدخول إلى مدخل Office 365 بالحساب الخاص بهم، ثم انقر فوق أندريف لبدء توفير موقع أندريف يدوياً.
+عند إضافة مستخدم إلى مستأجر Office 365 موجود، قد يرون SharePoint عبر الإنترنت أو أندريف لرموز الأعمال المسرودة كـ "إعداد" حتى يتم إكمال عملية التوفير. للحسابات التي تم إنشاؤها حديثاً، يحتاج المستخدمون إلى تسجيل الدخول إلى مركز مسؤول Microsoft 365 مع حسابهم الخاص، ثم انقر فوق أندريف لبدء توفير موقع أندريف يدوياً.
   
-لقد مرت أكثر من 24 ساعة منذ أول مرة في هذه المسألة، الرجاء تسجيل حالة دعم. في كثير من الحالات، الفعل نعمل على إيجاد حل. الرجاء إعطاء لنا أربع وعشرين ساعة لإكمال حل.
+إذا مرت أكثر من 24 ساعة منذ أن رأيت هذه المشكلة لأول مرة، الرجاء تسجيل حالة دعم. في كثير من الحالات، نحن نعمل بالفعل على حل. يرجى تعطينا ما لا يقل عن 24 ساعة لاستكمال حل.
   
-

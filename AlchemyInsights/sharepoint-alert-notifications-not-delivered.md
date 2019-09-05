@@ -1,5 +1,5 @@
 ---
-title: إعلامات التنبيه SharePoint التي لم يتم تسليمها
+title: لم يتم تسليم إعلامات تنبيه SharePoint
 ms.author: efrene
 author: efrene
 manager: pamgreen
@@ -13,40 +13,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: f389785fcd1029ae5a47e07c723874f9f214109d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d01d985f34d782fe14b3e2e6e6696c0101002db1
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504450"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36744628"
 ---
-# <a name="sharepoint-alert-notifications-not-delivered"></a>إعلامات التنبيه SharePoint التي لم يتم تسليمها
+# <a name="sharepoint-alert-notifications-not-delivered"></a>لم يتم تسليم إعلامات تنبيه SharePoint
 
-الرجاء التحقق من مجلد العشوائي في البريد الإلكتروني الخاص بك، كما في بعض الأحيان قد انتقل تنبيهات هناك.
+الرجاء التحقق من مجلد JUNK في بريدك الإلكتروني، حيث قد تذهب التنبيهات إلى هناك في بعض الأحيان.
 
-تحديد ما إذا كان **لا يتم تسليم كافة التنبيهات** أو إذا لم يتم تسليم **تنبيه فردية** من ملف معين أو مكتبة.
+تحديد ما إذا **لم يتم تسليم كافة التنبيهات** أو إذا لم يتم تسليم تنبيه **فردي** من ملف معين أو مكتبة معينة.
 
-- **لا يتم تسليم التنبيهات الفردية**: إذا لم يتم تسليم تنبيه فردية من ملف معين أو مكتبة، يمكنك محاولة حذف وإعادة إنشائها. راجع [إدارة، أو عرض، أو حذف التنبيهات SharePoint](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=en-US&ad=US#ID0EAADAAA=Online) لإعادة إنشاء التنبيه.
-- **لا يتم تسليم كافة التنبيهات**: إذا لم يتم تسليم كافة التنبيهات من ملفات أو مكتبات متعددة، قم بزيارة [لوحة المعلومات "الصحية الخدمة"](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) للتحقق من وجود أية نصائح/الحوادث التي قد تحدث في SharePoint أو Exchange. قد تكون المشكلة بقدرة التنبيه SharePoint أو التأخير في رسائل البريد الإلكتروني من خلال تبادل. سيكون من المهم ملاحظة ما إذا كان يتم تسليم بريد إلكتروني أخرى، وإذا كان لا، المشكلة مع تأخير الصرف أيضا.
+- **لا يتم تسليم التنبيهات الفردية:** إذا لم يتم تسليم تنبيه فردي من ملف أو مكتبة معينة، يمكنك محاولة حذفه وإعادة إنشائه. راجع [إدارة تنبيهات SharePoint أو عرضها أو حذفها](https://support.office.com/article/manage-view-or-delete-sharepoint-alerts-99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2?ui=en-US&rs=&ad=US#ID0EAADAAA=Online) لإعادة إنشاء التنبيه.
+- **لا يتم تسليم كافة التنبيهات:** إذا لم يتم تسليم كافة التنبيهات من ملفات أو مكتبات متعددة، قم بزيارة [لوحة معلومات "صحة الخدمة"](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) للتحقق من وجود أية نصائح/حوادث قد تحدث مع SharePoint أو Exchange. قد تكون المشكلة مع إمكانية التنبيه SharePoint أو التأخير في رسائل البريد الإلكتروني من خلال Exchange. سيكون من المهم أيضًا ملاحظة ما إذا كان يتم تسليم بريد إلكتروني آخر، وإذا لم يكن الأمر كذلك، فمن المحتمل أن تكون المشكلة مع تأخيرات Exchange.
 
-الأسئلة المتداولة حول التنبيهات:
+الأسئلة الشائعة حول التنبيهات:
 
-- لا يمكن إرسال التنبيهات إلى مجموعة التوزيع، الأمان فقط واعتماد المجموعات O365.
-- لا يمكنك تخصيص قوالب تنبيه البريد الإلكتروني؛ تحتاج إلى استخدام تدفق Microsoft أو SharePoint مصمم سير العمل لتحقيق تلك.
+- من غير الممكن إرسال تنبيهات إلى مجموعة التوزيع، يتم دعم مجموعات الأمان وO365 فقط.
+- لا يمكنك تخصيص قوالب البريد الإلكتروني التنبيه; تحتاج إلى استخدام Microsoft FLOW أو سير عمل مصمم SharePoint لتحقيق تلك.
 
 مزيد من المعلومات:
 
-- **إعداد التنبيهات**: لمزيد من المعلومات حول إعداد التنبيهات، راجع [إنشاء تنبيه الحصول على إعلام عند تغيير الملف أو المجلد في SharePoint](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
-- **تنبيهات استكشاف الأخطاء وإصلاحها**: لمزيد من المعلومات حول استكشاف أخطاء التنبيهات، راجع [لا يتلقى المستخدمون إعلامات التنبيه SharePoint على الإنترنت](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications).
-- **متقدم O365 التوافق التنبيه السياسات**: لمزيد من المعلومات حول إعداد هذه التنبيهات، راجع [نهج التوافق التنبيه](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
-- **SharePoint وسجلات التدقيق أندريف**: لمزيد من المعلومات حول كيفية استرداد هذه الأحداث، راجع [البحث سجل التدقيق](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
-- **إرسال تنبيهات "الحماية من التهديدات المتقدمة"**: راجع [ATP SharePoint وأندريف](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
-- **نهج التنبيهات المرسلة عن طريق "منع فقدان البيانات"**: رؤية [إعلامات البريد الإلكتروني لنهج DLP](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
+- **إعداد التنبيه**: لمزيد من المعلومات حول إعداد التنبيهات، راجع [إنشاء تنبيه للحصول على إعلام عند تغيير ملف أو مجلد في SharePoint](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
+- **استكشاف أخطاء التنبيهات وإصلاحها:** لمزيد من المعلومات حول استكشاف أخطاء التنبيهات وإصلاحها، راجع [عدم تلقي المستخدمين إشعارات تنبيه SharePoint Online](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications).
+- **نُهج تنبيه التوافق المتقدمة لـ O365:** لمزيد من المعلومات حول إعداد هذه التنبيهات، راجع [نُهج تنبيه التوافق](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
+- **سجلات تدقيق SharePoint و OneDrive:** لمزيد من المعلومات حول كيفية استرداد هذه الأحداث، راجع [البحث في سجل التدقيق](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
+- **التنبيهات المرسلة من قبل الحماية المتقدمة من التهديدات:** راجع [ATP لSharePoint و OneDrive](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
+- **التنبيهات المرسلة من قبل شرطة منع فقدان البيانات**: راجع إشعارات البريد الإلكتروني لسياسات [DLP](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
 
 ## <a name="related-topics"></a>مواضيع ذات صلة
 
-هل ترغب في محاولة تدفق Microsoft SharePoint على الإنترنت؟
+هل تريد تجربة تدفق Microsoft في SharePoint عبر الإنترنت؟
 
-- [إنشاء تدفق](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)
+- [إنشاء تدفق](https://support.office.com/article/a9c3e03b-0654-46af-a254-20252e580d01)
 
-- [SharePoint والتدفق](https://flow.microsoft.com/en-us/blog/sharepoint-and-flow/)
+- [SharePoint والتدفق](https://flow.microsoft.com//blog/sharepoint-and-flow/)

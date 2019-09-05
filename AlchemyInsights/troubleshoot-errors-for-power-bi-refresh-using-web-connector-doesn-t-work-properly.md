@@ -1,5 +1,5 @@
 ---
-Title: تحديث ويب موصل لا يعمل بشكل صحيح باستخدام
+title: لا يعمل التحديث باستخدام موصل ويب بشكل صحيح
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1316"
 - "2500002"
-ms.openlocfilehash: e6c0f44f8f62b01e7f4dd23776ba8c13a2999c6b
-ms.sourcegitcommit: e17e7d17fdb638349bb320b318085138d18f284c
+ms.openlocfilehash: 6bee3c3d0d07f79823fe8683e0bfef33ae6dfdfc
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/16/2019
-ms.locfileid: "35753275"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748887"
 ---
-# <a name="refresh-using-web-connector-doesnt-work-properly"></a>تحديث ويب موصل لا يعمل بشكل صحيح باستخدام
+# <a name="refresh-using-web-connector-doesnt-work-properly"></a>لا يعمل التحديث باستخدام موصل ويب بشكل صحيح
 
-إذا كان لديك برنامج نصي رابط ويب يستخدم دالة [Web.Page](https://msdn.microsoft.com/library/mt260924.aspx) ، وقمت بتحديث مجموعة البيانات أو التقرير الخاص بك بعد 18 تشرين الثاني/نوفمبر 2016، تحتاج إلى استخدام عبارة من أجل تحديث للعمل بشكل صحيح.
+إذا كان لديك برنامج نصي موصل ويب يستخدم الدالة [Web.Page،](https://msdn.microsoft.com/library/mt260924.aspx) وقمت بتحديث مجموعة البيانات أو التقرير بعد 18 نوفمبر عام 2016، تحتاج إلى استخدام عبّارة لكي يعمل التحديث بشكل صحيح.
 
 لمزيد من المعلومات:[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)

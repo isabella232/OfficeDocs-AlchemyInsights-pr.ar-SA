@@ -1,5 +1,5 @@
 ---
-title: استعادة حذف المستخدم
+title: استعادة المستخدم المحذوف
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,23 +13,23 @@ ms.custom:
 - "73"
 - "1200013"
 ms.assetid: dae7b5b0-1003-40bd-b59f-8c5009fc8d82
-ms.openlocfilehash: be4ce067ba017a66aaff2e5808a904397c366bf5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0ec30e3560eb0a9ccceae101f692aa1969450f5b
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551798"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36745060"
 ---
 # <a name="restore-a-user-in-office-365"></a>استعادة مستخدم في Office 365
 
-استعادة مستخدم في Office 365 استخدام الخطوات التالية:
+استعادة مستخدم في Office 365 باستخدام الخطوات التالية:
   
-1. اذهب إلى [المستخدمين \> حذف المستخدمين](https://admin.microsoft.com/adminportal/home#/deletedusers).
+1. انتقل إلى [المستخدمين المحذوفين \> ](https://admin.microsoft.com/adminportal/home#/deletedusers).
 
 2. اختر المستخدم، ثم حدد **استعادة**.
 
 3. اتبع المطالبات لتعيين كلمة المرور.
 
-4. انقر فوق **إرسال بريد إلكتروني وإغلاق**، والانتهاء من ذلك!
+4. انقر على **إرسال البريد الإلكتروني وإغلاق**، والانتهاء!
 
-لم يكن من السهل؟ للحصول على مزيد من التفاصيل وخطوات مع قطات الشاشة، اقرأ هذا المقال: [استعادة مستخدم في Office 365](https://support.office.com/article/2c261e42-5dd1-48b0-845f-2a016d29cfc1.aspx). إذا كنت أدرك تحتاج إلى علبة بريد المستخدم استعادة بدلاً من ذلك، راجع: [حذف أو استعادة علب بريد المستخدم في Exchange عبر إنترنت](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).
+ألم يكن ذلك سهلاً؟ لمزيد من التفاصيل والخطوات مع لقطات الشاشة، تحقق من هذه المقالة: [استعادة مستخدم في Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user). إذا كنت تدرك بدلاً من ذلك تحتاج إلى استعادة علبة بريد المستخدم، راجع: [حذف أو استعادة علب بريد المستخدم في Exchange عبر الإنترنت](https://docs.microsoft.com/exchange/recipients-in-exchange-online/delete-or-restore-mailboxes).

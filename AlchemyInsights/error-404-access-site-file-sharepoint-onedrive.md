@@ -1,5 +1,5 @@
 ---
-title: 'خطأ 404: لم يتم العثور على ملف'
+title: 'خطأ 404: لم يتم العثور على الملف'
 ms.author: efrene
 author: efrene
 ms.date: 9/18/2018
@@ -7,19 +7,19 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 98c390e1781d9c00fbc0dbabc633594726f2fda0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b6d530d4438eefd509670119cd61847e525ecb22
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527386"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740200"
 ---
-# <a name="error-404-file-not-found"></a>خطأ 404: لم يتم العثور على ملف
+# <a name="error-404-file-not-found"></a>خطأ 404: لم يتم العثور على الملف
 
-**خطأ 404: لم يتم العثور على الملف** تلقي عندما تحاول الوصول إلى موقع أو ملف SharePoint أو أندريف المستخدمين. وهذا غالباً ما يعود موقع أو ملف أو الحصول على مجموعة إعادة تسميته أو نقله أو حذفه.
-سوف يتعرض المستخدمون الخطأ عند محاولة الوصول إلى مجموعة موقع الجذر وتم حذفه.
+**خطأ 404: لم يتم العثور على الملف** عند محاولة المستخدمين الوصول إلى موقع أو ملف في SharePoint أو أندريف. يحدث هذا غالباً بسبب موقع أو ملف أو مجموعة يتم إعادة تسميتهأو نقلها أو حذفها.
+سوف تواجه المستخدمين الخطأ عند محاولة الوصول إلى مجموعة الموقع الجذر وتم حذفه.
 
-التالية يمكن أن تساعد في حل هذه المشكلة:
-- [حذف طريقة العرض واستعادة المواقع في مركز مسؤول SharePoint جديدة](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center): للمواقع الحديثة (الاتصالات المتصلة بالمجموعة، أو مواقع أخرى) الموجودة في معاينة مركز الإدارة الجديدة.
-- [استعادة العناصر الموجودة في "سلة المحذوفات" لموقع SharePoint](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be): لحل ملف (أو عنصر آخر) الذي تمت إعادة تسميته، المنقولة أو المحذوفة الانتقال إلى موقع SharePoint أو أندريف وعرض بن سلة المحذوفات من محتويات الموقع.
-- [للبحث في سجل التدقيق في أمان Office 365 &amp; مركز التوافق](https://support.office.com/client/search-the-audit-log-in-the-office-365-security-compliance-center-0d4d0f35-390b-4518-800e-0c7ec95e946c): البحث في سجل التدقيق (إذا تم تمكين التسجيل) إذا كنت لا تزال غير قادر على العثور على العنصر.
+يمكن أن يساعد ما يلي في حل هذه المشكلة:
+- [عرض المواقع المحذوفة واستعادتها في مركز مسؤول SharePoint الجديد:](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)للمواقع الحديثة (الاتصال أو المواقع المتصلة بالمجموعة أو غيرها) الموجودة في معاينة مركز المسؤول الجديد.
+- [استعادة العناصر في "سلة المحذوفات" لموقع SharePoint:](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be)لحل الملف (أو عنصر آخر) الذي تمت إعادة تسميته أو نقله أو حذفه انتقل إلى موقع SharePoint أو OneDrive وعرض "سلة المحذوفات" من محتويات الموقع.
+- [البحث في سجل &amp; التدقيق في "مركز توافق الأمان":](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance)البحث في سجل التدقيق (إذا تم تمكين التسجيل) إذا كنت لا تزال غير قادر على العثور على العنصر.

@@ -1,6 +1,6 @@
 ---
-title: إيداع ملفات متعددة في وقت واحد
-ms.author: kirks
+title: إيداع العديد من الملفات في وقت واحد
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.date: 9/17/2018
@@ -9,25 +9,25 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 854014b6-39a2-4b76-a696-ecc3ab7251fd
-ms.openlocfilehash: 1e925ef8e83dfc5d16b4d19dee88f1a26abe6ef4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9e1a2f9068ff787ac835ad665c77bba70cd6b352
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36520510"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36755187"
 ---
-# <a name="check-in-several-files-at-once"></a>إيداع ملفات متعددة في وقت واحد
+# <a name="check-in-several-files-at-once"></a>إيداع العديد من الملفات في وقت واحد
 
-التحقق من الملفات من وإلى SharePoint مكتبة هي طريقة رائعة لتعقب ومراقبة كيفية تحديث المحتوى. إذا كنت تريد لإجراء تغييرات على ملف على موقع وتريد التأكد من عدم وجود أي شخص تحريره، قم بسحب الملف. عندما يكون لديك الملف مسحوباً، يمكن تحريره عبر الإنترنت أو دون اتصال واحفظه عدة مرات، إذا لزم الأمر.
+يعتبر إيداع الملفات والخروج منها من مكتبة SharePoint طريقة رائعة لتعقب كيفية تحديث المحتوى والتحكم فيها. إذا كنت ترغب في إجراء تغييرات على ملف على موقع وتريد التأكد من أنه لا يمكن لأي شخص آخر تحريره، فتحقق من الملف. عند سحب الملف، يمكنك تحريره عبر إنترنت أو دون اتصال، وحفظه عدة مرات، إذا لزم الأمر.
 
-أدناه هي بعض ارتباطات مفيدة فيما يتعلق بهذه الميزة.
+فيما يلي بعض الروابط المفيدة المتعلقة بهذه الميزة.
 
-- [كيفية سحب أو إيداع أو تجاهل التغييرات في الملفات](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
+- [كيفية سحب التغييرات في الملفات أو إيداعها أو تجاهلها](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
 
-- [أفضل الأسئلة حول سحب، وإيداع والإصدارات](https://support.office.com/article/Top-questions-about-check-out-check-in-and-versions-7E941339-E972-4C7A-A79A-80A1FCF84076)
+- [أهم الأسئلة حول سحب الخروج والإيداع والإصدارات](https://support.office.com/article/Top-questions-about-check-out-check-in-and-versions-7E941339-E972-4C7A-A79A-80A1FCF84076)
 
 - [إيداع ملفات متعددة في وقت واحد](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de)
 
-- [تمكين أو تعطيل تعيين الإصدار/التحقق من الخارج على مكتبة](https://support.office.com/article/enable-and-configure-versioning-for-a-list-or-library-1555d642-23ee-446a-990a-bcab618c7a37?ocmsassetID=HA102772148&amp;CTT=3&amp;CorrelationId=52441bb1-a619-4375-89d5-19d28769890f&amp;ui=en-US&amp;rs=en-US&amp;ad=US)
+- [تمكين أو تعطيل تعيين الإصدار/السحب على مكتبة](https://support.office.com/article/enable-and-configure-versioning-for-a-list-or-library-1555d642-23ee-446a-990a-bcab618c7a37)
 
   

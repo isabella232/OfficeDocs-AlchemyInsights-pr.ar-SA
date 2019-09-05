@@ -1,5 +1,5 @@
 ---
-title: زيادة حجم علبة البريد لوحدات Sku SMB
+title: زيادة حجم علبة البريد لـ SMB SMB
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7a82ec04-fdf6-43e9-924c-66157b180890
-ms.openlocfilehash: 3a054debbfa600c42480bb6e6bdd709ba041972a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0d1c3a1bc4e61bd9167a5d7a18f064819a4686c4
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36499266"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739228"
 ---
-# <a name="switch-plans-to-increase-mailbox-size"></a>تبديل تخطط لزيادة حجم علبة البريد
+# <a name="switch-plans-to-increase-mailbox-size"></a>تبديل الخطط لزيادة حجم علبة البريد
 
-إذا كان حجم علبة البريد 50 جيجابايت، يمكنك زيادة حجم علبة البريد إلى 100 جيجابايت بالتبديل إلى [Office 365 المؤسسة E3](https://products.office.com/business/office-365-enterprise-e3-business-software) أو [E5 المؤسسة Office 365](https://products.office.com/business/office-365-enterprise-e5-business-software). فيما يلي الخطوات للتحويل إلى نظام Office 365 مختلفة:
+إذا كان حجم علبة البريد 50 غيغابايت، يمكنك زيادة حجم علبة البريد إلى 100 غيغابايت عن طريق التبديل إلى [Office 365 المؤسسة E3](https://products.office.com/business/office-365-enterprise-e3-business-software) أو [Office 365 المؤسسة E5](https://products.office.com/business/office-365-enterprise-e5-business-software). فيما يلي الخطوات للتبديل إلى خطة Office 365 مختلفة:
   
-1. في مركز مسؤول Microsoft 365، انتقل إلى صفحة [الاشتراك](https://go.microsoft.com/fwlink/p/?linkid=842054) ، أو اختر **الفواتير** \> **الاشتراكات**.
+1. في مركز مسؤول Microsoft 365، انتقل إلى صفحة [الاشتراكات،](https://go.microsoft.com/fwlink/p/?linkid=842054) أو اختر \> **اشتراكات** **الفوترة** .
     
-2. اختيار **خطط التبديل** عرض قائمة بالخطط الجديدة المتاحة. 
+2. اختر **تبديل الخطط** لعرض قائمة الخطط الجديدة المتوفرة. 
     
-3. اختر خطة لمعرفة التكلفة الإجمالية جديد كل شهر. تأكد من قراءة **المعلومات الأساسية**، ثم اختر **التالي** للتحقق. 
+3. اختر خطة لمشاهدة التكلفة الإجمالية الجديدة في الشهر. تأكد من قراءة **معلومات المفتاح**، ثم اختر **التالي** للسحب. 
     
-4. عند الانتهاء من سحب، يأخذ Office 365 عدة دقائق لإتمام التحول. يمكنك البدء باستخدام الاشتراك الجديد الخاص بك مباشرة.
+4. عند الانتهاء من السحب، Office 365 يستغرق بضع دقائق لإنهاء رمز التبديل. يمكنك البدء في استخدام اشتراكك الجديد على الفور.
     
-للحصول على مزيد من التفاصيل، راجع [المفتاح إلى Office 365 خطة مختلفة](https://support.office.com/article/73318661-8f33-478b-bcc7-fb8d69dbb22a).
+لمزيد من التفاصيل، راجع [التبديل إلى خطة Office 365 مختلفة](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan).
   
 

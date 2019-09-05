@@ -1,6 +1,6 @@
 ---
-title: وأعلن ميزات SharePoint جديدة
-ms.author: kirks
+title: تم الإعلان عن ميزات SharePoint الجديدة
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/27/2018
 ms.audience: ITPro
@@ -8,17 +8,17 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e0c8c7f-261a-41d1-9ca3-be4a1d4ebd9a
-ms.openlocfilehash: 7aecd959cd2fca7049dfb55c1f18d593a95712a7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b4640873c2bd75773aad129b6556fbe4ab270162
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36508518"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751299"
 ---
-# <a name="sharepoint-new-features-announced"></a>وأعلن ميزات SharePoint جديدة
+# <a name="sharepoint-new-features-announced"></a>تم الإعلان عن ميزات SharePoint الجديدة
 
-أعلنت شركة مايكروسوفت في مؤتمر عام 2018 إشعال الابتكارات الجديدة ل SharePoint، بما في ذلك الميزات الجديدة لمداخل الحديثة، أجزاء ويب جديدة، تحسينات عديدة لمواقع لوحة الوصل، ارتباط أخبار استهداف جماعة مستهدفة، توفر التطبيقات المحمولة الجديدة، الاتصال الفرق، والمزيد...
+في مؤتمر إشعال 2018، أعلنت Microsoft عن ابتكارات جديدة لSharePoint، بما في ذلك ميزات جديدة للبوابات الحديثة، وأجزاء ويب جديدة، والعديد من التحسينات على مواقع المحور، ورابط الأخبار، واستهداف الجمهور، وتوافر تطبيقات الجوال الجديدة، والاتصال الفرق، وأكثر من ذلك...
   
-لمزيد من المعلومات حول هذه الميزات، راجع نشر المدونة [الابتكارات الجديدة في SharePoint &amp; Microsoft 365 توفير الطاقة والتبسيط لمشاركة المحتوى.](https://go.microsoft.com/fwlink/?linkid=2026502)
+لمزيد من المعلومات حول هذه الميزات، راجع المدونة نشر [ابتكارات جديدة في SharePoint &amp; Microsoft 365 توفير الطاقة والبساطة للتعاون المحتوى.](https://go.microsoft.com/fwlink/?linkid=2026502)
   
-وصل المؤسسة برنامج "الإصدار المستهدف" للوصول المبكر إلى ميزات جديدة. راجع [تعيين خيارات الإصدار القياسي أو المستهدفة في Office 365](https://docs.microsoft.com/office365/admin/manage/release-options-in-office-365).
+يمكن لمؤسستك الانضمام إلى برنامج "الإصدار المستهدف" للوصول المبكر إلى الميزات الجديدة. راجع [إعداد خيارات الإصدار القياسية أو المستهدفة في Office 365](https://docs.microsoft.com/office365/admin/manage/release-options-in-office-365).

@@ -1,6 +1,6 @@
 ---
-title: استكشاف أخطاء رسائل "رفض الوصول"
-ms.author: kirks
+title: استكشاف أخطاء رسائل تم رفض الوصول وإصلاحها
+ms.author: pebaum
 author: Techwriter40
 ms.date: 6/29/2018
 ms.audience: ITPro
@@ -8,21 +8,21 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 0a885e15d54c9337711f2528628789dfcb903264
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4e6fdc6fbf745d1702bf1a7b3474ac82f6662305
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503514"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751263"
 ---
-# <a name="troubleshoot-access-denied-messages-in-sharepointonedrive-admin-center"></a>استكشاف أخطاء رسائل "رفض الوصول" في "مركز مسؤول" Sharepoint/أندريف
+# <a name="troubleshoot-access-denied-messages-in-sharepointonedrive-admin-center"></a>استكشاف أخطاء الرسائل التي تم رفض الوصول إليها في مركز مسؤول Sharepoint/OneDrive
 
-إذا كنت تتلقى رسالة وصول مرفوض عند محاولة الاستعراض إلى "مركز مسؤول" Sharepoint/أندريف، الرجاء التأكد من أن تقوم [تعيين ترخيص للمستخدم](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One). إذا كان المستخدم لديه ترخيص، يجب أيضا التأكد من أنها [المعين لدور مسؤول](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles?view=o365-worldwide) الوصول إليها مراكز الإدارة.
+إذا كنت تتلقى رسالة تم رفض الوصول عند محاولة الاستعراض إلى مركز مسؤول Sharepoint/OneDrive، الرجاء التأكد من [تعيين ترخيص للمستخدم](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One). إذا كان لدى المستخدم ترخيص، يجب عليك أيضاً التأكد من [تعيين دور مسؤول](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles?view=o365-worldwide) يمكنه الوصول إلى مراكز المسؤول.
 
-قد تحدث هذه المشكلة أيضا عند حذف مستخدم وإعادة إنشائها باستخدام نفس اسم المستخدم الأساسي (UPN). يتم إنشاء حساب جديد باستخدام قيمة PUID (المعرف الفريد ل Passport) مختلفة. عندما يحاول المستخدم الوصول إلى مجموعة موقع أو أندريف بها، لدى المستخدم PUID غير صحيحة. سيناريو ثاني يتضمن الدليل المزامنة مع وحدة "خدمة active Directory" تنظيمية (OU). إذا كان المستخدمون قد مسبقاً بتسجيل الدخول إلى SharePoint، ثم يتم نقلها إلى OU مختلفة و resynced مع SharePoint، قد تواجه هذه المشكلة.
+يمكن أن تحدث هذه المشكلة أيضًا عند حذف مستخدم وإعادة إنشائه بنفس اسم المستخدم الأساسي (UPN). يتم إنشاء الحساب الجديد باستخدام قيمة PUID (معرف فريد جواز السفر) مختلفة. عندما يحاول المستخدم الوصول إلى مجموعة موقع أو أندريف الخاصة بهم، لدى المستخدم PUID غير صحيح. يتضمن سيناريو ثاني مزامنة الدليل مع وحدة تنظيمية "Active Directory" (OU). إذا قام المستخدمون بالفعل بتسجيل الدخول إلى SharePoint، ثم يتم نقلها إلى وحدة الوحدة التنظيمية مختلفة وإعادة مزامنتها مع SharePoint، فقد تواجه هذه المشكلة.
 
-لحل هذه المشكلة، يجب عليك استعادة UPN الأصلي باستخدام الخطوات المذكورة في المقالة، [استعادة مستخدم في Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user?view=o365-worldwide).
+لحل هذه المشكلة، يجب استعادة UPN الأصلي مع الخطوات الموجودة في المقالة [استعادة مستخدم في Office 365](https://docs.microsoft.com/office365/admin/add-users/restore-user?view=o365-worldwide).
 
-ملاحظة: إذا لم يتوفر أحد مراكز أندريف أو مسؤول SharePoint للعديد من المستخدمين الذين تم الوصول، قد يكون هناك مشكلة في خدمة مؤقت.  [تحقق من لوحة المعلومات الصحية الخدمة](https://portal.office.com/adminportal/home#/servicehealth).
+ملاحظة: إذا لم يكن مركز مسؤول OneDrive أو SharePoint متوفرًا للعديد من المستخدمين الذين كان لديهم حق الوصول مسبقًا، فقد تكون هناك مشكلة خدمة مؤقتة.  [تحقق من لوحة معلومات صحة الخدمة](https://portal.office.com/adminportal/home#/servicehealth).
 
 

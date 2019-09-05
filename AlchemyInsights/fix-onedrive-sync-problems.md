@@ -13,21 +13,21 @@ ms.custom:
 - "824"
 - "5800003"
 ms.assetid: 3a05fcd2-639a-4f16-a6ed-1cffa35fbdb3
-ms.openlocfilehash: 24aff29e854ba6e00a70737213dfaaafcb33eaf4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 07239ddfeb313a7644226150000c09d5b861aa54
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525192"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36739876"
 ---
 # <a name="fix-onedrive-sync-problems"></a>إصلاح مشاكل المزامنة أندريف
 
-- حساب الاختيار إمكانية الوصول الخاص بك أندريف على الإنترنت: انقر فوق رمز مشغل التطبيق في الجزء الأيمن العلوي ومن ثم انقر فوق أندريف.
+- تحقق من أنه يمكنك الوصول إلى حساب OneDrive الخاص بك عبر الإنترنت: انقر فوق رمز مشغل التطبيق في أعلى اليسار، ثم انقر فوق أندريف.
     
-- تأكد من أن جهاز الكمبيوتر الخاص بك حتى الآن: [تنزيل تحديثات Windows](http://go.microsoft.com/fwlink/p/?LinkId=825773)، [تنزيل أحدث إصدار من أندريف](https://go.microsoft.com/fwlink/p/?linkid=844652)
+- تأكد من تحديث الكمبيوتر: [تنزيل آخر تحديثات Windows](http://go.microsoft.com/fwlink/p/?LinkId=825773)، [تنزيل أحدث إصدار من OneDrive](https://go.microsoft.com/fwlink/p/?linkid=844652)
     
-- إلغاء ارتباط أندريف وإعادة تشغيل برنامج الإعداد أندريف: انقر نقراً مزدوجاً فوق رمز سحابة أندريف الأزرق في منطقة الإعلام أقصى يسار شريط المهام. انقر فوق **إعدادات**، ومن ثم انقر فوق **إلغاء الارتباط هذا الكمبيوتر**. اتبع الخطوات الموجودة في مرحبا بك في معالج "أندريف" لإعداد أندريف.
+- قم بإلغاء ربط OneDrive وتشغيل إعداد OneDrive مرة أخرى: انقر بزر الماوس الأيمن فوق رمز سحابة OneDrive الأزرق في منطقة الإعلام، في أقصى يمين شريط المهام. انقر فوق **إعدادات**، ثم انقر فوق **إلغاء ربط هذا الكمبيوتر**. اتبع الخطوات الموجودة في معالج مرحباً بك في أندريف لإعداد أندريف مرة أخرى.
     
-[المزيد من الخطوات لاستكشاف مشكلات المزامنة وإصلاحها](https://support.office.com/article/fix-onedrive-for-business-sync-problems-207e983e-146d-404c-a994-672ef29e1f90?ui=en-US&rs=en-US&ad=US)
+[مزيد من الخطوات لاستكشاف مشكلات المزامنة وإصلاحها](https://support.office.com/article/fix-onedrive-for-business-sync-problems-207e983e-146d-404c-a994-672ef29e1f90)
   
 

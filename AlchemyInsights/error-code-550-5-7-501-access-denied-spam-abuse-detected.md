@@ -1,5 +1,5 @@
 ---
-title: رمز خطأ رفض الوصول 5.7.501 550، الكشف عن إساءة استخدام البريد الإلكتروني العشوائي
+title: تم رفض استخدام رمز الخطأ 550 5.7.501، تم الكشف عن إساءة استخدام الرسائل غير المرغوب فيها
 ms.author: chrisda
 author: chrisda
 ms.date: 6/28/2018
@@ -11,17 +11,17 @@ ms.custom:
 - "351"
 - "3100015"
 ms.assetid: 3105905c-e7a0-42a7-9c5a-61dc56a1d6fc
-ms.openlocfilehash: 577104e0517820c6dd7faf7e4db6b55ac2e5398a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 545cab07cc7c49def849be20bb6363da228a5393
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527132"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36740128"
 ---
-# <a name="550-57501-access-denied-spam-abuse-detected"></a>رفض الوصول 5.7.501 550، الكشف عن إساءة استخدام البريد الإلكتروني العشوائي
+# <a name="550-57501-access-denied-spam-abuse-detected"></a>550 5.7.501 تم رفض الوصول، تم الكشف عن إساءة استخدام الرسائل غير المرغوب فيها
 
-عادة ما تحدث هذه الرسالة عندما يقومون بإرسال رسائل البريد الإلكتروني من عناوين IP باستخدام الأولى *. onmicrosoft.com* المجال الذي تم تعيينه للمستأجرين الجدد في Office 365. أن أسهل طريقة لحل هذه المشكلة:
+بشكل عام، تحدث هذه الرسالة عند إرسال المستخدمين رسائل البريد الإلكتروني من عناوين IP باستخدام مجال *.onmicrosoft.com* الأولي الذي تم تعيينه إلى المستأجرين الجدد في Office 365. أسهل طريقة لحل هذه المشكلة هي:
 
-1. [إضافة مجال إلى المستأجر الخاصة بك](https://support.office.com/article/6383f56d-3d09-4dcb-9b41-b5f5a5efd611.aspx).
+1. [إضافة مجال إلى المستأجر الخاص بك](https://docs.microsoft.com//office365/admin/setup/add-domain).
 
-2. [تغيير عنوان البريد الإلكتروني الرئيسي الخاص بالمستخدم](https://support.office.com/article/fb5ac074-e203-4e1f-9843-b9d1a3e03297.aspx) إلى المجال المخصص الجديد الذي أضفته.
+2. [قم بتغيير عنوان البريد الإلكتروني الأساسي للمستخدمين](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) إلى المجال المخصص الجديد الذي قمت بإضافته للتو.

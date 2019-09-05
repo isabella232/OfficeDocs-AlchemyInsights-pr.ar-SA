@@ -1,6 +1,6 @@
 ---
-title: يمكنه سحب ملف؟
-ms.author: kirks
+title: من لديه ملف تم سحبه؟
+ms.author: pebaum
 author: Techwriter40
 ms.date: 9/10/2018
 ms.audience: ITPro
@@ -8,23 +8,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 395eb03f-2885-43d5-b2fe-55febf85b1e5
-ms.openlocfilehash: fc718d6a5907fd97d0a7fc55c5dc8a31d4959d13
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 56aa04f7866227c4b5a1e1828d3c10ea3746d00a
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530986"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36748311"
 ---
-# <a name="who-has-a-file-checked-out"></a>يمكنه سحب ملف؟
+# <a name="who-has-a-file-checked-out"></a>من لديه ملف تم سحبه؟
 
-لمعرفة من لديه ملف مسحوباً في SharePoint، يمكنك القيام بأحد الخطوات التالية:
+لمعرفة من لديه ملف تم سحبه في SharePoint، يمكنك القيام بأي من الخطوات التالية:
   
-1. قم بالمرور فوق **السحب** لرؤية تلميح الأدوات الذي يخبرك لديه الملف مسحوباً. 
+1. مرّر مؤشر الماوس فوق **"تم تحديد"** لمشاهدة تلميح أداة يخبرك بمن قام بسحب الملف. 
     
-2. إضافة عمود **سحب بواسطة** طريقة العرض الافتراضية للمكتبة. وبهذه الطريقة، الجميع بسهولة معرفة من لديه مستند مسحوباً. 
+2. إضافة العمود **"السحب حسب"** إلى طريقة العرض الافتراضية للمكتبة. وبهذه الطريقة، يمكن للجميع بسهولة معرفة من لديه وثيقة تم سحبها. 
     
-لمعرفة كيفية إضافة عمود "سحب بواسطة" في SharePoint، راجع [إنشاء عمود في قائمة أو مكتبة](https://go.microsoft.com/fwlink/?linkid=2019591). 
+لمعرفة كيفية إضافة عمود "السحب حسب" في SharePoint، راجع [إنشاء عمود في قائمة أو مكتبة](https://go.microsoft.com/fwlink/?linkid=2019591). 
   
-انظر أكثر كثيرا ما الأسئلة المتداولة حول إيداع أو سحب، راجع [الأسئلة العليا حول سحب، وإيداع](https://go.microsoft.com/fwlink/?linkid=2018786).
+راجع الأسئلة المتداولة حول تسجيل الوصول أو المغادرة، راجع [أهم الأسئلة حول تسجيل المغادرة، إجراءات الدخول](https://go.microsoft.com/fwlink/?linkid=2018786).
   
 

@@ -1,5 +1,5 @@
 ---
-title: إدارة المستخدمين Yammer
+title: إدارة مستخدمي Yammer
 ms.author: pebaum
 author: pebaum
 ms.date: 5/1/2018
@@ -11,29 +11,29 @@ ms.custom:
 - "733"
 - "6000004"
 ms.assetid: 34b5611b-e77e-4dd1-9480-a12c190fbaa3
-ms.openlocfilehash: 5906a9e80ac16233835dd691eccbe310df1dd26c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c6fddafaf0cc1fb1f6985a7aaf771688e3b87483
+ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497005"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36734908"
 ---
-# <a name="managing-yammer-users"></a>إدارة المستخدمين Yammer
+# <a name="managing-yammer-users"></a>إدارة مستخدمي Yammer
 
-1. لمزيد من المعلومات حول إدارة المستخدمين Yammer من Office 365، راجع [إدارة Yammer المستخدمين عبر دورة الحياة الخاصة بهم من Office 365](https://support.office.com/article/6c4c8fff-6444-404a-bffc-f9da0bcc3039). وهذا يتضمن تفاصيل عن:
+1. للحصول على معلومات حول إدارة مستخدمي Yammer من Office 365، الرجاء [مراجعة إدارة المستخدمين Yammer عبر دورة الحياة الخاصة بهم من Office 365](https://docs.microsoft.com/yammer/manage-yammer-users/manage-users-across-their-lifecycle). ويشمل ذلك تفاصيل عن:
 
   - إنشاء مستخدم
 
-  - حذف حسابات المستخدمين
+  - حذف المستخدمين
 
-  - إدارة المستخدمين Yammer من Office 365
+  - إدارة مستخدمي Yammer من Office 365
 
-2. الرجاء مراجعة [إضافة حظر، أو إزالة مستخدمين Yammer](http://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) للحصول على معلومات حول إدارة المستخدمين من وحدة التحكم بالإدارة Yammer. ويتضمن ذلك:
+2. الرجاء [مراجعة إضافة أو حظر أو إزالة المستخدمين Yammer](http://alchemyportal.azurewebsites.net/Rule/ManageYammer%20users%20across%20their%20lifecycle%20from%20Office%20365) للحصول على معلومات حول إدارة المستخدمين من وحدة تحكم المسؤول Yammer. ويشمل ذلك ما يلي:
 
-  - دعوة أو إزالة مستخدمين
+  - دعوة المستخدمين أو إزالتهم
 
-  - دعوة مستخدمين guest
+  - دعوة المستخدمين الضيوف
 
   - تصدير قائمة المستخدمين
 
-3. لمزيد من المعلومات حول إضافة وإزالة وإدارة المستخدمين الخارجيين، راجع [المشاركون الرسائل الخارجية إضافة إلى الشبكة Yammer](https://support.office.com/article/423653bb-86b2-4eac-9d7e-dca121f7c16c).
+3. للحصول على معلومات حول إضافة مستخدمين خارجيين وإزالتهم وإدارتهم، راجع [إضافة مشاركين مراسلين خارجيين إلى شبكة Yammer](https://docs.microsoft.com/yammer/work-with-external-users/add-external-participants).

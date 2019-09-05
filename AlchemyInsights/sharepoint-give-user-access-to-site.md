@@ -1,6 +1,6 @@
 ---
 title: ميزة طلبات الوصول
-ms.author: kirks
+ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
 ms.date: 11/14/2018
@@ -11,28 +11,28 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: 059eeab6cc3aa14f90258edc39144bc6bce928c0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 14ae1064de9e26a4b9d9540205020af11ca2daee
+ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36503802"
+ms.lasthandoff: 09/04/2019
+ms.locfileid: "36751515"
 ---
 # <a name="give-users-access-to-sharepoint-site"></a>منح المستخدمين حق الوصول إلى موقع SharePoint
 
-ميزة طلب الوصول يسمح للأشخاص بطلب حق الوصول إلى المحتوى الذي ليس حاليا لديهم إذن بعرضها. كمالك لموقع، يمكنك تكوين الميزة إرسال البريد الإلكتروني لك عند شخص بطلب الوصول إلى موقع. لمزيد من المعلومات، يرجى زيارة [تعيين إعداد وإدارة طلبات الوصول إلى](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3).
+تسمح ميزة طلب الوصول للأشخاص بطلب الوصول إلى المحتوى الذي ليس لديهم حالياً الإذن برؤيته. بصفتك مالك موقع، يمكنك تكوين الميزة لإرسال البريد عندما يطلب شخص ما الوصول إلى موقع. لمزيد من المعلومات، يرجى زيارة [إعداد طلبات الوصول وإدارتها](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3).
 
-فيما يلي بعض الارتباطات العامة فيما يتعلق بطلبات الوصول:
+فيما يلي بعض الارتباطات الشائعة فيما يتعلق بطلبات الوصول:
 
-- [تم رفض الوصول "إلى قائمة" طلبات الوصول "أو" طلب الموافقة على فشل "عند معالجة طلب معلق في SharePoint عبر إنترنت](https://support.office.com/article/-Access-Denied-to-Access-Requests-list-or-Request-approval-failed-when-you-process-a-pending-request-in-SharePoint-Online-3ec71fe1-9111-4a4c-84a5-bdfe05c2e558)
+- [تم رفض الوصول" إلى قائمة طلبات الوصول أو "فشل طلب الموافقة" عند معالجة طلب معلق في SharePoint على الإنترنت](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/request-approval-failed)
 
-- [طلبات الوصول إلى تغيير الإعدادات](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#bk_enableallow)
+- [تغيير إعدادات طلبات الوصول](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#bk_enableallow)
 
-- [قبول أو رفض طلبات الوصول إلى موقع](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462558)
+- [الموافقة على طلبات الوصول لموقع أو رفضها](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462558)
 
-- [إدارة دعوات للمستخدمين الخارجيين (عبر الإنترنت SharePoint فقط)](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc334189260)
+- [إدارة الدعوات للمستخدمين الخارجيين (SharePoint على الإنترنت فقط)](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc334189260)
 
-- [إعادة إرسال الدعوة](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462560)
+- [إعادة إرسال دعوة](https://support.office.com/article/set-up-and-manage-access-requests-94b26e0b-2822-49d4-929a-8455698654b3#__toc374462560)
 
 
 
