@@ -1,5 +1,5 @@
 ---
-title: العودة إلى Outlook التقليدية على ويب
+title: العودة إلى Outlook الكلاسيكية على شبكة الإنترنت
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -9,15 +9,15 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 036de86ef0d18869a47bed6306e2df1b711ee764
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b50d8c94d831a1836a65077bc33cd7665db9baa9
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36556012"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36822057"
 ---
-# <a name="the-new-outlook-on-the-web"></a><span data-ttu-id="e3ede-102">Outlook جديد على ويب</span><span class="sxs-lookup"><span data-stu-id="e3ede-102">The new Outlook on the web</span></span>
+# <a name="the-new-outlook-on-the-web"></a><span data-ttu-id="c9303-102">توقعات جديدة على شبكة الإنترنت</span><span class="sxs-lookup"><span data-stu-id="c9303-102">The new Outlook on the web</span></span>
 
-<span data-ttu-id="e3ede-103">يعد يمكن العودة إلى النظرة التقليدية على تجربة ويب.</span><span class="sxs-lookup"><span data-stu-id="e3ede-103">It's no longer possible to return to the classic Outlook on the web experience.</span></span> <span data-ttu-id="e3ede-104">إذا كنت تريد إعطاء ملاحظات حول التجربة الجديدة، انتقل إلى [منتدى أوسيرفويسي](https://outlook.uservoice.com/forums/313228--outlook-on-the-web-office-365).</span><span class="sxs-lookup"><span data-stu-id="e3ede-104">If you'd like to give feedback about the new experience, go to the [UserVoice forum](https://outlook.uservoice.com/forums/313228--outlook-on-the-web-office-365).</span></span> <span data-ttu-id="e3ede-105">يمكنك التصويت على الأفكار أو معالجة المسائل التي تود أن ترى وسنرد مباشرة إلى أعلى التعليقات والاقتراحات.</span><span class="sxs-lookup"><span data-stu-id="e3ede-105">You can vote on the ideas or issues you'd like to see addressed, and we'll respond directly to the top comments and suggestions.</span></span>
+<span data-ttu-id="c9303-103">لم يعد من الممكن العودة إلى Outlook الكلاسيكية على تجربة الويب.</span><span class="sxs-lookup"><span data-stu-id="c9303-103">It's no longer possible to return to the classic Outlook on the web experience.</span></span> <span data-ttu-id="c9303-104">إذا كنت ترغب في إعطاء ملاحظات حول التجربة الجديدة، انتقل إلى [منتدى UserVoice](https://go.microsoft.com/fwlink/?linkid=2103182).</span><span class="sxs-lookup"><span data-stu-id="c9303-104">If you'd like to give feedback about the new experience, go to the [UserVoice forum](https://go.microsoft.com/fwlink/?linkid=2103182).</span></span> <span data-ttu-id="c9303-105">يمكنك التصويت على الأفكار أو القضايا التي ترغب في معالجتها، وسنقوم بالرد مباشرة على أهم التعليقات والاقتراحات.</span><span class="sxs-lookup"><span data-stu-id="c9303-105">You can vote on the ideas or issues you'd like to see addressed, and we'll respond directly to the top comments and suggestions.</span></span>
 
-[<span data-ttu-id="e3ede-106">الحصول على تعليمات حول Outlook جديد على ويب</span><span class="sxs-lookup"><span data-stu-id="e3ede-106">Get help with the new Outlook on the web</span></span>](https://support.office.com/article/017014cd-2ad0-41ab-8473-6bd8c349d4f8)
+[<span data-ttu-id="c9303-106">الحصول على تعليمات حول Outlook الجديد على الويب</span><span class="sxs-lookup"><span data-stu-id="c9303-106">Get help with the new Outlook on the web</span></span>](https://support.office.com/article/017014cd-2ad0-41ab-8473-6bd8c349d4f8)
