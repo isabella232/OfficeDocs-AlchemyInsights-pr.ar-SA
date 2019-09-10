@@ -1,5 +1,5 @@
 ---
-title: الحسابات المتصلة 1800029 غير معتمد في Outlook على ويب
+title: 1800029الحسابات المتصلة غير معتمدة في Outlook على الويب
 ms.author: daeite
 author: daeite
 ms.date: 12/17/2018
@@ -11,22 +11,22 @@ ms.custom:
 - "1423"
 - "1800029"
 ms.assetid: 8a8c9e34-abd7-40f3-b59d-c87ca7400020
-ms.openlocfilehash: 4dde8373b1580ad134b3459784e60ed247cc0fcc
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4648be89eeac657b61fa9f59d71549364453fdfb
+ms.sourcegitcommit: 8864b5789d9905916039081b53530c7e6d8bc529
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504739"
+ms.lasthandoff: 09/10/2019
+ms.locfileid: "36821789"
 ---
-# <a name="connected-accounts-are-no-longer-supported"></a>لا يتم اعتماد الحسابات المتصلة
+# <a name="connected-accounts-are-no-longer-supported"></a>لم تعد الحسابات المتصلة معتمدة
 
-تم إزالة القدرة على إضافة حسابات جديدة إلى Outlook على ويب باستخدام الميزة الحسابات المتصلة في 15 أيلول/سبتمبر عام 2018 Microsoft وسيتم إيقاف مزامنة حسابات موجودة في 30 تشرين الأول/أكتوبر عام 2018 قد اتصلت قبل 15 أيلول/سبتمبر عام 2018. يوم 15 تشرين الثاني/نوفمبر، خيار الحسابات المتصلة ( **إعدادات** \> **البريد** \> **الحسابات**) ستتم إزالته من Outlook على الويب.لمزيد من المعلومات، راجع [الحسابات المتصلة لم يعد معتمداً في Outlook على الويب (Office 365 لحسابات الأعمال)](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)
+قامت Microsoft بإزالة القدرة على إضافة حسابات جديدة إلى Outlook على الويب باستخدام ميزة "الحسابات المتصلة" في 15 أيلول/سبتمبر عام 2018، وستتوقف عن مزامنة الحسابات الموجودة في 30 تشرين الأول/أكتوبر عام 2018 التي تم توصيلها قبل 15 أيلول/سبتمبر عام 2018. في 15 نوفمبر، سيتم إزالة الخيار الحسابات المتصلة **(إعدادات** \> **حسابات** **البريد)** \> من Outlook على شبكة الإنترنت .لمزيد من المعلومات، راجع الحسابات [المتصلة لم يعد معتمداً في Outlook على الويب (Office 365 لحسابات الأعمال)](https://support.office.com/article/Connected-accounts-is-no-longer-supported-in-Outlook-on-the-web-Office-365-for-business-accounts-5cc526bf-e928-4a99-8b9f-5e089df7d887)
   
-للاستمرار في مشاهدة البريد الإلكتروني من حسابات أخرى: لا يزال يمكن إعادة توجيه البريد الإلكتروني من هذه الحسابات إلى Outlook على الويب. للحصول على مزيد من المعلومات، راجع:
+لمتابعة رؤية البريد الإلكتروني من حسابات أخرى: لا يزال بإمكانك إعادة توجيه البريد الإلكتروني من تلك الحسابات إلى Outlook على الويب. للحصول على مزيد من المعلومات، راجع:
   
-[تشغيل أو إيقاف إعادة التوجيه التلقائي في Outlook.com](https://go.microsoft.com/fwlink/?linkid=2038346)
+[تشغيل إعادة التوجيه التلقائي أو إيقاف تشغيلها في Outlook.com](https://go.microsoft.com/fwlink/?linkid=2038346)
   
-[تلقائياً إعادة توجيه رسائل Gmail إلى حساب آخر](https://support.google.com/mail/answer/10957?hl=en)
+[إعادة توجيه رسائل Gmail تلقائيًا إلى حساب آخر](https://aka.ms/forward-gmail-messages)
   
-[إعادة توجيه البريد الإلكتروني تلقائياً في بريد ياهو](https://help.yahoo.com/kb/SLN22028.mdl?guccounter=1)
+[إعادة توجيه البريد الإلكتروني التلقائي في بريد ياهو](https://aka.ms/yahoo-email-forwarding)
   
