@@ -1,5 +1,5 @@
 ---
-title: 976-how-to-enable-litigation-hold
+title: 976-كيفيه تمكين-التقاضي-عقد
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,17 +13,17 @@ ms.custom:
 - "976"
 - "3100023"
 ms.assetid: ''
-ms.openlocfilehash: faca9675b6bd7383684ff728380e1e25c03c227e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e5e76d7e910cddb75411a753af2684404e18e377
+ms.sourcegitcommit: cbed5af0a71e34c253c87d18bab1c601996b13fd
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36540744"
+ms.lasthandoff: 10/04/2019
+ms.locfileid: "37398614"
 ---
-# <a name="place-a-mailbox-on-legal-hold"></a>وضع علبة بريد قيد الاحتجاز القانوني
+# <a name="place-a-mailbox-on-legal-hold"></a>وضع صندوق بريد علي العقد القانوني
 
-- وضع علبة بريد على إجراء التقاضي أو في مكان عقد، مطلوب ترخيص Exchange عبر الإنترنت خطة 2 [ترخيص Exchange عبر الإنترنت خطة 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . إذا تم تعيين علبة بريد ترخيص 1 خطة، يمكنك تعيين Exchange للأرشفة على الإنترنت الوظيفة إضافية ترخيصا منفصلاً [ترخيص الوظيفة الإضافية "الأرشفة Exchange عبر إنترنت"](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description).
+- لوضع علبه بريد علي "عقد التقاضي" أو عقد في مكان ، مطلوب ترخيص exchange عبر الإنترنت خطه 2 الترخيص [الخطة الثانية علي الإنترنت](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . إذا تم تعيين علبه بريد ترخيص الخطة 1 ، يمكنك تعيين منفصلة Exchange عبر إنترنت أرشفه ترخيص الوظيفة الاضافيه [الارشفه عبر الإنترنت "ترخيص الاضافه](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description)".
 
-- لتمكين "إجراء التقاضي" لمستخدم واحد، [اتبع الخطوات التالية](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). عندما يتم تمكين "إجراء التقاضي"، يتم الاحتفاظ بكافة المحتويات الموجودة في علبة البريد.
+- لتمكين "الاحتجاز التقاضي" لمستخدم واحد [اتبع الخطوات](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold)التالية. عند تمكين "عقد التقاضي" ، يتم الاحتفاظ بكافة المحتويات في علبه البريد.
 
-- لوضع قائمة احتجاز على كافة علب البريد الموجودة في المؤسسة الخاصة بك، يمكنك استخدام نهج استبقاء Office 365 [اتباع الخطوات التالية](https://docs.microsoft.com/office365/securitycompliance/create-a-litigation-hold). لاحظ أن لنهج الاستبقاء على نطاق المنظمة، مستخدمين جدد سيتم تلقائياً تعيين نهج.
+- للاحتفاظ بالمحتوي في كافة علب البريد في المؤسسة الخاصة بك ، يمكنك استخدام [نهج استبقاء 365 Office علي مستوي المؤسسة](https://docs.microsoft.com/microsoft-365/compliance/retention-policies#applying-a-retention-policy-to-an-entire-organization-or-specific-locations). لاحظ انه بالنسبة لنهج الاستبقاء علي مستوي المؤسسة ، سيتم تعيين المستخدمين الجدد تلقائيا إلى النهج.
