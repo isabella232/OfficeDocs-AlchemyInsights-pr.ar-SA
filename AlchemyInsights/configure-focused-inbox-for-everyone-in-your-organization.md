@@ -1,5 +1,5 @@
 ---
-title: 912 تكوين علبة الوارد المركزة للجميع في المؤسسة
+title: 912 تكوين علبه الوارد المركزة لكل شخص في مؤسستك
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,14 +13,14 @@ ms.custom:
 - "1800019"
 ms.assetid: bad7a7f6-0c68-497a-8637-aae49355034a
 ms.openlocfilehash: 672348fa3f34157c190b6d986309b8ed141e02f2
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36738400"
 ---
-# <a name="turn-focused-inbox-on-or-off-for-everyone"></a><span data-ttu-id="5138b-102">تشغيل علبة الوارد المركزة أو إيقاف تشغيلها للجميع</span><span class="sxs-lookup"><span data-stu-id="5138b-102">Turn Focused Inbox on or off for everyone</span></span>
+# <a name="turn-focused-inbox-on-or-off-for-everyone"></a><span data-ttu-id="222bd-102">تشغيل البريد الوارد المركز أو إيقافه للجميع</span><span class="sxs-lookup"><span data-stu-id="222bd-102">Turn Focused Inbox on or off for everyone</span></span>
 
-<span data-ttu-id="5138b-103">للحصول على إرشادات، راجع [تكوين علبة الوارد المركزة لكل شخص في مؤسستك](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span><span class="sxs-lookup"><span data-stu-id="5138b-103">For instructions, see [Configure Focused Inbox for everyone in your organization](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span></span>
+<span data-ttu-id="222bd-103">للحصول علي إرشادات ، راجع [تكوين علبه الوارد المركزة لكل شخص في مؤسستك](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span><span class="sxs-lookup"><span data-stu-id="222bd-103">For instructions, see [Configure Focused Inbox for everyone in your organization](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).</span></span>
 
-<span data-ttu-id="5138b-104">**ملاحظة:** يتطلب هذا الإجراء PowerShell Exchange عبر الإنترنت.</span><span class="sxs-lookup"><span data-stu-id="5138b-104">**Note**: This procedure requires Exchange Online PowerShell.</span></span> <span data-ttu-id="5138b-105">هل تريد القيام بذلك في مركز مسؤول Microsoft 365 بدلاً من ذلك؟</span><span class="sxs-lookup"><span data-stu-id="5138b-105">Would you like to do this in the Microsoft 365 admin center instead?</span></span> [<span data-ttu-id="5138b-106">صوتوا هنا!</span><span class="sxs-lookup"><span data-stu-id="5138b-106">Vote here!</span></span>](https://go.microsoft.com/fwlink/p/?linkid=862489)
+<span data-ttu-id="222bd-104">**ملاحظه**: يتطلب هذا الاجراء PowerShell Exchange عبر الإنترنت.</span><span class="sxs-lookup"><span data-stu-id="222bd-104">**Note**: This procedure requires Exchange Online PowerShell.</span></span> <span data-ttu-id="222bd-105">هل ترغب في القيام بذلك في مركز مسؤول Microsoft 365 بدلا من ذلك ؟</span><span class="sxs-lookup"><span data-stu-id="222bd-105">Would you like to do this in the Microsoft 365 admin center instead?</span></span> [<span data-ttu-id="222bd-106">التصويت هنا!</span><span class="sxs-lookup"><span data-stu-id="222bd-106">Vote here!</span></span>](https://go.microsoft.com/fwlink/p/?linkid=862489)

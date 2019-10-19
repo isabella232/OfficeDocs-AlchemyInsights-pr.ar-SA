@@ -1,5 +1,5 @@
 ---
-title: تظهر خلفية سوداء أو تنسيق الخلية لا تبدو صحيحة
+title: تظهر خلفيه سوداء ، أو لا يبدو تنسيق الخلية صحيحا
 ms.author: dludwig
 author: dludwig
 manager: jecon
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92095f9c-4610-443c-8fc4-ddc49b2e6162
 ms.openlocfilehash: 879e482ed3cd80f2918e3cc56f2ba555bccc6f45
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36495954"
 ---
-# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a><span data-ttu-id="ffe46-102">تظهر خلفية سوداء أو تنسيق الخلية لا تبدو صحيحة</span><span class="sxs-lookup"><span data-stu-id="ffe46-102">A black background appears, or cell formatting doesn't look right</span></span>
+# <a name="a-black-background-appears-or-cell-formatting-doesnt-look-right"></a><span data-ttu-id="73566-102">تظهر خلفيه سوداء ، أو لا يبدو تنسيق الخلية صحيحا</span><span class="sxs-lookup"><span data-stu-id="73566-102">A black background appears, or cell formatting doesn't look right</span></span>
 
-<span data-ttu-id="ffe46-103">في عام 2016 Excel، قد تشاهد خلفية سوداء غير متوقع، أو قد تشاهد خلية التنسيق التي لا تظهر بشكل صحيح.</span><span class="sxs-lookup"><span data-stu-id="ffe46-103">In Excel 2016, you may see an unexpected black background, or you may see cell formatting that does not appear properly.</span></span> <span data-ttu-id="ffe46-104">يمكن أن يحدث هذا بعد إضافة رأس أو تذييل الصفحة في "عرض تخطيط الصفحة"، وتطبيق حشو تعبئة لخلية.</span><span class="sxs-lookup"><span data-stu-id="ffe46-104">This can happen after adding a header or footer in Page Layout View, and applying a pattern fill to a cell.</span></span> <span data-ttu-id="ffe46-105">تم إصلاح هذه المشكلة في الإصدار 1708 (بناء 8431.2094).</span><span class="sxs-lookup"><span data-stu-id="ffe46-105">This problem was fixed in version 1708 (Build 8431.2094).</span></span> <span data-ttu-id="ffe46-106">لحل هذه المشكلة، تحديث لأحدث إصدار من Office.</span><span class="sxs-lookup"><span data-stu-id="ffe46-106">To fix this, update to the latest version of Office.</span></span> <span data-ttu-id="ffe46-107">حدد **ملف** \> **حساب** \> **تحديث خيارات** \> **التحديث الآن**.</span><span class="sxs-lookup"><span data-stu-id="ffe46-107">Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
+<span data-ttu-id="73566-103">في Excel 2016 ، قد تري خلفيه سوداء غير متوقعه ، أو قد تري تنسيق الخلية التي لا تظهر بشكل صحيح.</span><span class="sxs-lookup"><span data-stu-id="73566-103">In Excel 2016, you may see an unexpected black background, or you may see cell formatting that does not appear properly.</span></span> <span data-ttu-id="73566-104">يمكن ان يحدث هذا بعد أضافه راس أو تذييل في "طريقه عرض تخطيط الصفحة" ، وتطبيق تعبئة نقش علي خليه.</span><span class="sxs-lookup"><span data-stu-id="73566-104">This can happen after adding a header or footer in Page Layout View, and applying a pattern fill to a cell.</span></span> <span data-ttu-id="73566-105">تم إصلاح هذه المشكلة في الإصدار 1708 (بناء 8431.2094).</span><span class="sxs-lookup"><span data-stu-id="73566-105">This problem was fixed in version 1708 (Build 8431.2094).</span></span> <span data-ttu-id="73566-106">لإصلاح هذا التحديث إلى أحدث إصدار من Office.</span><span class="sxs-lookup"><span data-stu-id="73566-106">To fix this, update to the latest version of Office.</span></span> <span data-ttu-id="73566-107">حدد تحديث **خيارات** \> \*\*\*\* \> \> تحديث حساب **الملف** **الآن**.</span><span class="sxs-lookup"><span data-stu-id="73566-107">Select **File** \> **Account** \> **Update Options** \> **Update Now**.</span></span>
   
 

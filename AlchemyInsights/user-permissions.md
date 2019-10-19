@@ -9,33 +9,33 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
 ms.openlocfilehash: e3e18f7ee5315b076e9059feaeda8b445d89c476
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36531922"
 ---
-# <a name="user-permissions-in-sharepoint-and-onedrive"></a><span data-ttu-id="d27b2-102">أذونات المستخدم في SharePoint وأندريف</span><span class="sxs-lookup"><span data-stu-id="d27b2-102">User permissions in SharePoint and OneDrive</span></span>
+# <a name="user-permissions-in-sharepoint-and-onedrive"></a><span data-ttu-id="3efe1-102">أذونات المستخدم في SharePoint و OneDrive</span><span class="sxs-lookup"><span data-stu-id="3efe1-102">User permissions in SharePoint and OneDrive</span></span>
 
-<span data-ttu-id="d27b2-103">لم يكن قادراً على الوصول إلى SharePoint أو أونيدريفي مستخدم في المؤسسة الخاصة بك، تأكد من أن لديهم ترخيص يتضمن SharePoint وأونيدريفي.</span><span class="sxs-lookup"><span data-stu-id="d27b2-103">If a user in your organization isn't able to access SharePoint or OneDrive, make sure they have a license that includes SharePoint and OneDrive.</span></span> 
+<span data-ttu-id="3efe1-103">إذا كان مستخدم في المؤسسة الخاصة بك غير قادر علي الوصول إلى SharePoint أو اندريف ، تاكد من ان لديهم ترخيص يتضمن SharePoint و OneDrive.</span><span class="sxs-lookup"><span data-stu-id="3efe1-103">If a user in your organization isn't able to access SharePoint or OneDrive, make sure they have a license that includes SharePoint and OneDrive.</span></span> 
   
-1. <span data-ttu-id="d27b2-104">انتقل إلى [صفحة المتواجدين في مركز مسؤول Microsoft 365](https://portal.office.com/adminportal/home#/users) وحدد المستخدم.</span><span class="sxs-lookup"><span data-stu-id="d27b2-104">Go to the [Active users page in the Microsoft 365 admin center](https://portal.office.com/adminportal/home#/users) and select the user.</span></span> 
+1. <span data-ttu-id="3efe1-104">انتقل إلى [صفحه المستخدمين النشطين في مركز مسؤول Microsoft 365](https://portal.office.com/adminportal/home#/users) وحدد المستخدم.</span><span class="sxs-lookup"><span data-stu-id="3efe1-104">Go to the [Active users page in the Microsoft 365 admin center](https://portal.office.com/adminportal/home#/users) and select the user.</span></span> 
     
-2. <span data-ttu-id="d27b2-105">تأكد من أن ضمن **تراخيص المنتجات**، يتم تعيين ترخيص وتحديد **SharePoint على الإنترنت** .</span><span class="sxs-lookup"><span data-stu-id="d27b2-105">Make sure that under **Product licenses**, a license is assigned and **SharePoint Online** is selected.</span></span> 
+2. <span data-ttu-id="3efe1-105">تاكد من انه ضمن **تراخيص المنتجات**، يتم تعيين ترخيص وتحديد **SharePoint علي الإنترنت** .</span><span class="sxs-lookup"><span data-stu-id="3efe1-105">Make sure that under **Product licenses**, a license is assigned and **SharePoint Online** is selected.</span></span> 
     
- <span data-ttu-id="d27b2-106">لمنح إذن مستخدم للوصول إلى موقع SharePoint:</span><span class="sxs-lookup"><span data-stu-id="d27b2-106">To give a user permission to access a SharePoint site:</span></span> 
+ <span data-ttu-id="3efe1-106">لإعطاء اذن مستخدم للوصول إلى موقع SharePoint:</span><span class="sxs-lookup"><span data-stu-id="3efe1-106">To give a user permission to access a SharePoint site:</span></span> 
   
-1. <span data-ttu-id="d27b2-107">فتح الموقع في مستعرض ويب.</span><span class="sxs-lookup"><span data-stu-id="d27b2-107">Open the site in a web browser.</span></span>
+1. <span data-ttu-id="3efe1-107">افتح الموقع في مستعرض ويب.</span><span class="sxs-lookup"><span data-stu-id="3efe1-107">Open the site in a web browser.</span></span>
     
-2. <span data-ttu-id="d27b2-108">إذا كان الموقع ينتمي إلى مجموعة Office 365، انقر فوق الرمز "إعدادات" في الجزء العلوي الأيمن، وثم انقر فوق **أذونات الموقع**.</span><span class="sxs-lookup"><span data-stu-id="d27b2-108">If the site belongs to an Office 365 group, click the Settings icon in the upper right, and then click **Site permissions**.</span></span> <span data-ttu-id="d27b2-109">انقر فوق **دعوة الأشخاص**ومن ثم اختر لإضافة أعضاء إلى مجموعة Office 365 أو مشاركته في الموقع.</span><span class="sxs-lookup"><span data-stu-id="d27b2-109">Click **Invite people**, and then choose to add members to the Office 365 group or share only the site.</span></span> 
+2. <span data-ttu-id="3efe1-108">إذا كان الموقع ينتمي إلى مجموعه 365 Office ، انقر فوق رمز الإعدادات في الجزء العلوي الأيسر ، ثم انقر فوق **أذونات الموقع**.</span><span class="sxs-lookup"><span data-stu-id="3efe1-108">If the site belongs to an Office 365 group, click the Settings icon in the upper right, and then click **Site permissions**.</span></span> <span data-ttu-id="3efe1-109">انقر فوق **دعوه الأشخاص**ثم قم باختيار أضافه أعضاء إلى مجموعه 365 Office أو مشاركه الموقع فقط.</span><span class="sxs-lookup"><span data-stu-id="3efe1-109">Click **Invite people**, and then choose to add members to the Office 365 group or share only the site.</span></span> 
     
-    <span data-ttu-id="d27b2-110">لموقع اتصال، انقر فوق **موقع مشاركة** في الأعلى اليسار وإدخال الشخص اسم وثم حدد مستوى الإذن (القراءة أو تحرير عنصر التحكم الكامل).</span><span class="sxs-lookup"><span data-stu-id="d27b2-110">For a communication site, click **Share site** in the upper-right, enter the person's name, and then select the permission level (Read, Edit, or Full Control).</span></span> 
+    <span data-ttu-id="3efe1-110">بالنسبة لموقع الاتصال ، انقر فوق **مشاركه الموقع** في الجزء العلوي الأيسر ، وادخل اسم الشخص ، ثم حدد مستوي الاذن (القراءة أو التحرير أو التحكم الكامل).</span><span class="sxs-lookup"><span data-stu-id="3efe1-110">For a communication site, click **Share site** in the upper-right, enter the person's name, and then select the permission level (Read, Edit, or Full Control).</span></span> 
     
-    <span data-ttu-id="d27b2-111">لموقع فريق كلاسيكية، انقر فوق " **مشاركة** " في الأعلى اليسار.</span><span class="sxs-lookup"><span data-stu-id="d27b2-111">For a classic team site, click **Share** in the upper-right.</span></span> <span data-ttu-id="d27b2-112">أدخل اسم الشخص الذي تريد دعوته أو اكتب الجميع مشاركتها مع أي شخص في المؤسسة.</span><span class="sxs-lookup"><span data-stu-id="d27b2-112">Enter the name of the person you want to invite or type Everyone to share with everyone in your organization.</span></span> <span data-ttu-id="d27b2-113">انقر فوق **مشاركة**.</span><span class="sxs-lookup"><span data-stu-id="d27b2-113">Click **Share**.</span></span>
+    <span data-ttu-id="3efe1-111">بالنسبة لموقع الفريق الكلاسيكي ، انقر علي **مشاركه** في الجزء العلوي الأيسر.</span><span class="sxs-lookup"><span data-stu-id="3efe1-111">For a classic team site, click **Share** in the upper-right.</span></span> <span data-ttu-id="3efe1-112">ادخل اسم الشخص الذي تريد دعوته أو اكتب الكل لمشاركته مع كل شخص في مؤسستك.</span><span class="sxs-lookup"><span data-stu-id="3efe1-112">Enter the name of the person you want to invite or type Everyone to share with everyone in your organization.</span></span> <span data-ttu-id="3efe1-113">انقر فوق **مشاركه**.</span><span class="sxs-lookup"><span data-stu-id="3efe1-113">Click **Share**.</span></span>
     
 > [!NOTE]
-> <span data-ttu-id="d27b2-114">إذا كنت عضوا في موقع ولكن ليس مالك، يمكنك دعوة أشخاص إلى الموقع، ولكن الدعوة إلى إنشاء طلب وصول التي يمكن أما قبول أو رفض من قبل مالك موقع.</span><span class="sxs-lookup"><span data-stu-id="d27b2-114">If you're a member of a site but not an owner, you can invite people to the site, but your invitation will generate an access request that can be either approved or declined by a site owner.</span></span> 
+> <span data-ttu-id="3efe1-114">إذا كنت عضوا في موقع وليست مالكا ، يمكنك دعوه أشخاص إلى الموقع ، ولكن ستقوم دعوتك بإنشاء طلب وصول يمكن الموافقة عليه أو رفضه من قبل مالك الموقع.</span><span class="sxs-lookup"><span data-stu-id="3efe1-114">If you're a member of a site but not an owner, you can invite people to the site, but your invitation will generate an access request that can be either approved or declined by a site owner.</span></span> 
   
-[<span data-ttu-id="d27b2-115">التعرف على كيفية مشاركة ملف أو مجلد مع مستخدم</span><span class="sxs-lookup"><span data-stu-id="d27b2-115">Learn how to share a file or folder with a user</span></span>](https://go.microsoft.com/fwlink/?linkid=533408)
+[<span data-ttu-id="3efe1-115">التعرف علي كيفيه مشاركه ملف أو مجلد مع مستخدم</span><span class="sxs-lookup"><span data-stu-id="3efe1-115">Learn how to share a file or folder with a user</span></span>](https://go.microsoft.com/fwlink/?linkid=533408)
   
 
