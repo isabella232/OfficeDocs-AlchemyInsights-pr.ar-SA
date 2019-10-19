@@ -1,5 +1,5 @@
 ---
-title: Outlook.com البريد الإلكتروني الشخصية غير عنوان الإرسال أو التلقي
+title: عنوان البريد الكتروني الشخصي Outlook.com لا يرسل أو يستلم
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000083
 ms.openlocfilehash: 7363af1d4fc1a0f4131bebc325485dc99a30e2eb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36545858"
 ---
-# <a name="my-personalized-outlookcom-email-address-isnt-sending-or-receiving"></a><span data-ttu-id="7ef3a-102">عنوان بريدي الإلكتروني Outlook.com المخصصة لم يتم إرسال أو استقبال</span><span class="sxs-lookup"><span data-stu-id="7ef3a-102">My personalized Outlook.com email address isn't sending or receiving</span></span>
+# <a name="my-personalized-outlookcom-email-address-isnt-sending-or-receiving"></a><span data-ttu-id="0a39b-102">عنوان البريد الكتروني Outlook.com الشخصي الخاص بي لا يرسل أو يستلم</span><span class="sxs-lookup"><span data-stu-id="0a39b-102">My personalized Outlook.com email address isn't sending or receiving</span></span>
 
-<span data-ttu-id="7ef3a-103">حدد الأيقونة ذات الشكل المعين على شريط الأدوات لفتح لوحة المعلومات الأولية.</span><span class="sxs-lookup"><span data-stu-id="7ef3a-103">Select the diamond icon on the toolbar to open the premium dashboard.</span></span>
+<span data-ttu-id="0a39b-103">حدد أيقونه الماس علي شريط الاداات لفتح لوحه التحكم المتميزة.</span><span class="sxs-lookup"><span data-stu-id="0a39b-103">Select the diamond icon on the toolbar to open the premium dashboard.</span></span>
 
-<span data-ttu-id="7ef3a-104">إذا لم تشاهد أيقونة في علبة البريد الخاصة بك (وظهور إعلانات)، فهذا يعني انتهاء مدة صلاحية الاشتراك الخاص بك Office 365.</span><span class="sxs-lookup"><span data-stu-id="7ef3a-104">If you don't see a diamond icon in your inbox (and you do see ads), it means your Office 365 subscription has expired.</span></span> <span data-ttu-id="7ef3a-105">اذهب إلى [https://account.microsoft.com/services](https://account.microsoft.com/services) لإعادة تنشيط الاشتراك الخاص بك، ثم إعادة اتصال المجال الخاص بك باستخدام الخطوات المذكورة في "الشروع في".</span><span class="sxs-lookup"><span data-stu-id="7ef3a-105">Go to [https://account.microsoft.com/services](https://account.microsoft.com/services) to re-activate your subscription, then reconnect your domain using the steps in "Get started".</span></span>
+<span data-ttu-id="0a39b-104">إذا لم يظهر لك رمز الماس في علبه الوارد (وكانت تشاهد الإعلانات) ، فهذا يعني ان اشتراكك في Office 365 قد انتهت صلاحيته.</span><span class="sxs-lookup"><span data-stu-id="0a39b-104">If you don't see a diamond icon in your inbox (and you do see ads), it means your Office 365 subscription has expired.</span></span> <span data-ttu-id="0a39b-105">انتقل إلى [https://account.microsoft.com/services](https://account.microsoft.com/services) أعاده تنشيط اشتراكك ، ثم أعد توصيل نطاقك باستخدام الخطوات التالية في "الشروع في التشغيل".</span><span class="sxs-lookup"><span data-stu-id="0a39b-105">Go to [https://account.microsoft.com/services](https://account.microsoft.com/services) to re-activate your subscription, then reconnect your domain using the steps in "Get started".</span></span>
 
-<span data-ttu-id="7ef3a-106">إذا كان لعلامة التبويب "بريد إلكتروني شخصية" شريط أحمر، المجال الخاص بك قد انتهت.</span><span class="sxs-lookup"><span data-stu-id="7ef3a-106">If the "Personalized email address" tab has a red status bar, your domain may have expired.</span></span>
+<span data-ttu-id="0a39b-106">إذا كانت علامة التبويب "عنوان البريد الكتروني المخصص" تحتوي علي شريط حاله احمر ، فقد يكون المجال قد انتهت صلاحيته.</span><span class="sxs-lookup"><span data-stu-id="0a39b-106">If the "Personalized email address" tab has a red status bar, your domain may have expired.</span></span>
 
-<span data-ttu-id="7ef3a-107">قراءة المزيد من خطوات استكشاف الأخطاء وإصلاحها على [عناوين البريد الإلكتروني الشخصي في Office 365](https://support.office.com/article/75416a58-b225-4c02-8c07-8979403b427b?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="7ef3a-107">Read more troubleshooting steps on [personalized email addresses in Office 365](https://support.office.com/article/75416a58-b225-4c02-8c07-8979403b427b?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="0a39b-107">أقرا المزيد من خطوات استكشاف الأخطاء وإصلاحها علي [عناوين البريد الكتروني المخصصة في Office 365](https://support.office.com/article/75416a58-b225-4c02-8c07-8979403b427b?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="0a39b-107">Read more troubleshooting steps on [personalized email addresses in Office 365](https://support.office.com/article/75416a58-b225-4c02-8c07-8979403b427b?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
