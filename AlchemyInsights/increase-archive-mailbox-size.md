@@ -1,5 +1,5 @@
 ---
-title: 305 زيادة حجم علبة البريد الأرشيف
+title: 305 زيادة حجم علبه البريد الأرشيف
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,22 +10,22 @@ localization_priority: Normal
 ms.custom: 305
 ms.assetid: ''
 ms.openlocfilehash: a8c16d97040e9396d6cf9bd4a5da671a7da88e13
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661787"
 ---
-# <a name="increase-the-archive-mailbox-size"></a>زيادة حجم علبة البريد الأرشيف
+# <a name="increase-the-archive-mailbox-size"></a>زيادة حجم علبه البريد الأرشيف
 
-Office 365 [حدود](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) حجم الأرشيف علب البريد بناء على الترخيص التي يتم تعيينها إلى حساب المستخدم. عند أرشفة علبة البريد يصل إلى 90% الحجم المسموح به، يتلقى المستخدم إعلاماً بالبريد إلكتروني. عندما يصل علبة بريد أرشيف إلى الحد الأقصى للحجم، يتعذر نقل المستخدم المزيد من العناصر إلى أرشيف علبة البريد. لن office 365 زيادة حجم علبة بريد أرشيف عند الوصول إلى الحد الأقصى للحجم. بدلاً من ذلك، يمكن أن يتخذها المستخدمون الإجراءات التالية لتحرير مساحة في أرشيف علبة البريد:
+[يحدد](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#mailbox-storage-limits) Office 365 حجم علب البريد الارشفه استنادا إلى الترخيص الذي تم تعيينه إلى حساب المستخدم. عندما يصل صندوق بريد الأرشيف إلى 90% من حجمه المسموح به ، يتلقى المستخدم اشعارا بالبريد الكتروني. عندما يصل صندوق بريد أرشيف إلى الحد الأقصى للحجم ، لا يمكن للمستخدم نقل المزيد من العناصر إلى صندوق بريد الارشفه. لن يقوم Office 365 بزيادة حجم علبه بريد الارشفه بمجرد الوصول إلى الحد الأقصى للحجم. بدلا من ذلك ، يمكن للمستخدمين اتخاذ الإجراءات التالية لتحرير مساحة في علبه البريد الأرشيف:
 
-- تصدير العناصر إلى ملف.pst باستخدام Outlook.
+- تصدير العناصر إلى ملف .pst باستخدام Outlook.
 
-- حذف العناصر من علبة البريد الأرشيف.
+- حذف العناصر من علبه بريد الأرشيف.
 
-يوفر office 365 **الأرشفة غير محدود** لتراخيص-3 مؤسسة Office 365 و E5. يجب على مسؤول تمكين هذه الميزة قبل وصول أرشيف علبة البريد إلى الحد الأقصى للحجم. عند تمكين الأرشفة غير محدودة، قد يستغرق تصل إلى 30 يوما قبل أن تتم إضافة مساحة إلى أرشيف علبة البريد. ولذلك، نوصي أن "المسؤولين" التحقق من المساحة الحرة في علبة البريد الأرشيف الذي يسمح للمستخدم بالاستمرار في استخدام علبة البريد الأرشيف أثناء توسيعه. لمزيد من المعلومات، راجع [نظرة عامة حول أرشفة غير محدود في Office 365](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving) و [تمكين أرشفة غير محدود في Office 365](https://docs.microsoft.com/office365/securitycompliance/enable-unlimited-archiving).
+يوفر office 365 **أرشفه غير محدوده** لتراخيص office 365 المؤسسة E3 و E5. يجب علي المسؤول تمكين هذه الميزة قبل وصول علبه البريد الأرشيف إلى الحد الأقصى للحجم. عندما يتم تمكين الارشفه غير محدود ، فانه يمكن ان يستغرق ما يصل إلى 30 يوما قبل أضافه المساحة الحرة إلى علبه البريد الأرشيف. ولذلك ، نوصي بان المسؤولين التحقق من المساحة الحرة في علبه البريد الأرشيف ، الذي يسمح للمستخدم بالاستمرار في استخدام علبه البريد الأرشيف اثناء توسيعه. لمزيد من المعلومات ، راجع [نظره عامه حول الارشفه غير محدود في office 365](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving) [وتمكين الارشفه غير محدود في office 365](https://docs.microsoft.com/office365/securitycompliance/enable-unlimited-archiving).
 
-لمزيد من المعلومات حول الوصول إلى علبة البريد أرشيف من Outlook، راجع [متطلبات Outlook للوصول إلى العناصر الموجودة في أرشيف، ويتم توسيع تلقائي](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving#outlook-requirements-for-accessing-items-in-an-auto-expanded-archive). لتكوين نهج استبقاء نقل العناصر تلقائياً إلى أرشيف علبة البريد، راجع [إعداد نهج الأرشيف والحذف لعلب البريد الموجودة في المؤسسة الخاصة بك Office 365](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes).
+للحصول علي مزيد من المعلومات حول الوصول إلى علبه البريد أرشيف من Outlook ، راجع [متطلبات outlook للوصول إلى العناصر في أرشيف الموسعة تلقائيا](https://docs.microsoft.com/office365/securitycompliance/unlimited-archiving#outlook-requirements-for-accessing-items-in-an-auto-expanded-archive). لتكوين نهج استبقاء يقوم تلقائيا بنقل العناصر إلى علبه بريد الارشفه ، راجع [اعداد نهج الارشفه والحذف لعلب البريد في مؤسسه Office 365 الخاصة بك](https://docs.microsoft.com/office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes).
 
-**ملاحظة**: لا تدعم توسيع تلقائي المحفوظات الأساسي علب بريد Exchange 2010.
+**ملاحظه**: لا يتم دعم المحفوظات توسيع تلقائي لعلب البريد الاساسيه علي Exchange 2010.

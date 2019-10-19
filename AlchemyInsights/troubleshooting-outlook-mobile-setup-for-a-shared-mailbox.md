@@ -1,5 +1,5 @@
 ---
-title: 1800014 "استكشاف الأخطاء وإصلاحها" المحمول برنامج إعداد Outlook لعلبة بريد المشتركة
+title: 1800014 استكشاف أخطاء اعداد Outlook المحمول لعلبه بريد مشتركه وإصلاحها
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: 1800014
 ms.assetid: 598e6a5b-daca-45b8-a1e4-99ce018aa64c
 ms.openlocfilehash: 276fd24192a45b57c3830e46dcd61d8f66efa7bf
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36533578"
 ---
-# <a name="troubleshooting-outlook-mobile-setup-for-a-shared-mailbox"></a>استكشاف الأخطاء وإصلاحها في Outlook إعداد الجوال لعلبة بريد المشتركة
+# <a name="troubleshooting-outlook-mobile-setup-for-a-shared-mailbox"></a>استكشاف أخطاء اعداد المحمول Outlook لعلبه بريد مشتركه وإصلاحها
 
-لا يمكن الوصول إلى علبة البريد المشتركة من التطبيق Outlook المثبت على الجهاز المحمول. هل تريد هذه الميزة؟ السماح لفريق الهندسة Outlook معرفة. [تصويت هنا](https://go.microsoft.com/fwlink/?linked=862116)!
+لا يمكنك الوصول إلى علبه البريد المشتركة من تطبيق Outlook المثبت علي الجهاز المحمول. هل تريد هذه الميزة ؟ السماح لفريق الهندسة اوتلوك يعرف. [التصويت هنا](https://go.microsoft.com/fwlink/?linked=862116)!
   
-يمكنك فقط استخدام صندوق بريد مشترك على جهاز محمول بفتح المستعرض الخاص بك، تسجيل الدخول إلى Office 365، واستمر Outlook على الويب. للحصول على إرشادات، راجع [إضافة علبة بريد مشتركة في Outlook على الويب](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207). سوف يكون قادراً على الوصول إلى علبة البريد المشتركة من Outlook على الويب.
+يمكنك فقط استخدام علبه بريد مشتركه علي جهاز محمول عن طريق فتح المستعرض الخاص بك تسجيل الدخول إلى Office 365 ومن ثم انتقل Outlook علي الويب. للحصول علي إرشادات ، راجع [أضافه علبه بريد مشتركه في Outlook علي الويب](https://support.office.com/article/add-a-shared-mailbox-to-outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207). من Outlook علي الويب ستتمكن من الوصول إلى علبه البريد المشتركة.
   
-مزيد من المعلومات: [الحصول على تعليمات في التطبيق Outlook لدائرة الرقابة الداخلية والروبوت](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
+معرفه المزيد: [الحصول علي مساعده في التطبيق ل Outlook لدائره الرقابة الخارجية والروبوت](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)
   
 

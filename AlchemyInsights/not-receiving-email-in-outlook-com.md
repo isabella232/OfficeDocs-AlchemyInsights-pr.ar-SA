@@ -1,5 +1,5 @@
 ---
-title: عدم تلقي البريد الإلكتروني في Outlook.com 8000037
+title: 8000037 عدم تلقي البريد الكتروني في Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -11,16 +11,16 @@ localization_priority: Normal
 ms,.custom: ''
 ms.assetid: df10da0f-a4a2-4cc4-929d-f8740ef31eb7
 ms.openlocfilehash: f4a005bc2a0938d1d0a79f904164716e8a36fcf1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36538548"
 ---
 # <a name="not-receiving-mail-in-outlookcom"></a>عدم تلقي البريد في Outlook.com
 
-في حالة عدم تلقي البريد الإلكتروني من مرسل محدد، مثل رسائل إعادة تعيين كلمة مرور أو كشوف الحسابات البنكية، سوف تحتاج إلى الاتصال بالمرسل وإعلامهم بعدم تلقي البريد الإلكتروني في حساب Outlook.com. الرجاء مراجعة المرسل ل [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135)، حيث يمكنهم العثور على مزيد من المعلومات حول أفضل الممارسات الموصى استكشاف الأخطاء وإصلاحها وارتباط للاتصال بفريق دعم المرسل.
+إذا كنت لا تتلقي بريدا الكترونيا من مرسل معين ، مثل كشوف الحسابات البنكية أو رسائل أعاده تعيين كلمه المرور ، ستحتاج إلى الاتصال بالمرسل واعلامه بانك لا تتلقي بريدا الكترونيا في حسابك في Outlook.com. يرجى الرجوع إلى [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135)المرسل ، حيث يمكنهم العثور علي معلومات حول أفضل الممارسات ، والتوصية باستكشاف الأخطاء وإصلاحها ، ورابط للاتصال بفريق دعم المرسل.
   
-إذا لم يكن حسابك Outlook.com تلقي البريد الإلكتروني على الإطلاق، فراجع [مشكلات المزامنة البريد الإلكتروني إصلاح Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=874363).
+إذا لم يكن حساب Outlook.com الخاص بك يتلقى البريد الكتروني علي الإطلاق ، فراجع [إصلاح مشكلات مزامنة البريد الكتروني Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=874363).
   
 

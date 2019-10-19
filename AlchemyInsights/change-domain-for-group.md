@@ -1,5 +1,5 @@
 ---
-title: تغيير المجال لمجموعة Office 365
+title: تغيير المجال لمجموعه 365 Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -14,14 +14,14 @@ ms.custom:
 - "3"
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
 ms.openlocfilehash: d897efdfb03832179e46f04f5ae6a1986d60e86f
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36736816"
 ---
-# <a name="change-the-domain-for-office-365-group"></a>تغيير المجال لمجموعة Office 365
+# <a name="change-the-domain-for-office-365-group"></a>تغيير المجال ل Office 365 المجموعة
 
-إذا كنت ترغب في تغيير المجال لمجموعة Office 365 أثناء الإنشاء، اتبع الخطوات الموجودة في [اختيار المجال لاستخدامه عند إنشاء مجموعات Office 365](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups).
+إذا كنت ترغب في تغيير المجال لمجموعه 365 Office اثناء إنشاء اتبع الخطوات التالية في [اختيار المجال لاستخدام عند إنشاء مجموعات 365 office](https://docs.microsoft.com/office365/admin/create-groups/choose-domain-to-create-groups).
   
-بعد إنشاء مجموعة Office 365 بالفعل، لا توجد حالياً أية طريقة لتغيير المجال. الطريقة الوحيدة هي إنشاء مجموعة Office 365 جديدة وحذف القديم إذا لزم الأمر (يمكن إضافة عناوين بريد إلكتروني إضافية من خلال [مركز مسؤول Exchange](https://outlook.office365.com/ecp.aspx)).
+بعد إنشاء مجموعه 365 Office بالفعل ، لا توجد حاليا طريقه لتغيير المجال. الطريقة الوحيدة هي إنشاء مجموعه 365 Office جديده وحذف القديمة إذا لزم الأمر (يمكن أضافه عناوين البريد الكتروني الاضافيه من خلال [مركز أداره Exchange](https://outlook.office365.com/ecp.aspx)).

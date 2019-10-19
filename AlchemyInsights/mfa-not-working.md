@@ -1,5 +1,5 @@
 ---
-title: المشكلات المتعلقة بوزارة الخارجية
+title: قضايا مع وزاره الخارجية
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,17 +12,17 @@ ms.custom:
 - "2417"
 - "9000557"
 ms.openlocfilehash: 276f6b2212c9d85df726cb46a46dee7828b34c89
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36545139"
 ---
-# <a name="issues-with-mfa"></a>المشكلات المتعلقة بوزارة الخارجية
-وهناك بضعة أشياء للتحقق من حالة المستخدمين لا يمكن تسجيل الدخول باستخدام مصادقة متعددة العوامل (وزارة الخارجية)
+# <a name="issues-with-mfa"></a>قضايا مع وزاره الخارجية
+هناك بضعة أشياء للتحقق ما إذا كان المستخدمين لا يمكن تسجيل الدخول باستخدام المصادقة متعددة العوامل (وزاره الخارجية)
 
-1. قد يتم حظر المستخدم المتأثر في موقع الدليل النشط Azure. إذا كان الأمر كذلك، محاولات المصادقة لمستخدم معين سيتم تلقائياً رفض. [الرجاء اتباع الخطوات الموجودة في هذه المقالة لإلغاء حظر هذه الملفات.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
+1. قد يتم حظر المستخدم المتاثر في موقع الدليل النشط Azure. إذا كانت هذه هي الحالة ، سيتم تلقائيا رفض محاولات المصادقة لهذا المستخدم المحدد. [الرجاء اتباع الخطوات التالية في هذه المقالة للغاء حظرها.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
 
-2. إذا لم يساعد إلغاء منع المستخدم أو المستخدم غير محظور يمكنك محاولة إعادة تعيين ترتيب المنسوجات المتعددة الألياف للمستخدم وسوف تخرج من خلال عملية التسجيل مرة أخرى. [الرجاء اتباع الخطوات الموجودة في هذه المقالة.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userdevicesettings#require-users-to-provide-contact-methods-again)
+2. إذا كان إلغاء حظر المستخدم لم يساعد أو لم يتم حظر المستخدم يمكنك محاولة أعاده تعيين وزاره الخارجية للمستخدم وانها سوف تذهب من خلال عمليه التسجيل مره أخرى. [الرجاء اتباع الخطوات التالية في هذه المقالة.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userdevicesettings#require-users-to-provide-contact-methods-again)
 
-إذا كانت هذه هي المرة الأولى وزارة الخارجية الممكنة والمستخدمين غير قادر على تسجيل الدخول إلى عملاء غير مستعرضات مثل Outlook، Skype، وغيرها، ربما إنبات (مكتبة مصادقة الدليل النشط) غير ممكنة على الاشتراك O365. في هذه الحالة، ستحتاج إلى الاتصال Powershell Exchange عبر إنترنت وتشغيل الأمر cmdlet:  *مجموعة أورجانيزاتيونكونفيج-OAuth2ClientProfileEnabled: $true*
+إذا كانت هذه هي المرة الاولي التي قمت بتمكين وزاره الخارجية والمستخدمين غير قادرين علي تسجيل الدخول إلى العملاء غير المستعرضات مثل Outlook ، سكايب ، وما إلى ذلك ، وربما لم يتم تمكين ال (مكتبه مصادقه الدليل النشط) علي الاشتراك O365 الخاص بك. في هذه الحالة سوف تحتاج إلى الاتصال Powershell Exchange عبر الإنترنت وتشغيل هذا cmdlet:  *مجموعه-اورجانيزاتيونكونفيج-OAuth2ClientProfileEnabled: $true*

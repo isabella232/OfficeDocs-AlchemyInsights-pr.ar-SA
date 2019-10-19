@@ -1,5 +1,5 @@
 ---
-title: أين احصل على البرامج كخدمة التطبيقات (ص)؟
+title: أين يمكنني الحصول علي تطبيقات البرامج كخدمه (SaaS) ؟
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,12 +13,12 @@ ms.custom:
 - "9000562"
 - "2421"
 ms.openlocfilehash: 6788a534d19521db98eb3ba59536cebeb02e190c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36558532"
 ---
-# <a name="where-do-i-get-software-as-a-service-saas-apps-from-microsoft-partners"></a>أين يمكنني الحصول على البرامج كخدمة التطبيقات (ص) من شركاء Microsoft؟
+# <a name="where-do-i-get-software-as-a-service-saas-apps-from-microsoft-partners"></a>أين يمكنني الحصول علي تطبيقات البرامج كخدمه (SaaS) من شركاء Microsoft ؟
 
-يمكن البحث عن العملاء والبحث وشراء تطبيقات إدارة العلاقات مع [أبسورسي](http://www.appsource.com/).
+يمكن للعملاء البحث عن تطبيقات SaaS والبحث عنها وشراءها من [Appsource](http://www.appsource.com/).

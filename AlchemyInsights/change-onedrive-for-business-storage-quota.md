@@ -1,5 +1,5 @@
 ---
-title: تغيير أندريف للحصة النسبية للتخزين العمل
+title: تغيير اندريف للحصة النسبية لتخزين الاعمال
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c8f0d578-272b-41f2-8a67-af363969203c
 ms.openlocfilehash: 52d8fd39b21b2ac8f1a9965981e8fdc536ea18f0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36519250"
 ---
-# <a name="change-the-default-onedrive-storage-space-for-your-users"></a>تغيير مساحة التخزين أونيدريفي الافتراضية للمستخدمين
+# <a name="change-the-default-onedrive-storage-space-for-your-users"></a>تغيير مساحة التخزين الافتراضية اندريف للمستخدمين
 
-1. انتقل إلى [صفحة التخزين مركز الإدارة أندريف](https://admin.onedrive.com/?v=StorageSettings).
+1. انتقل إلى [صفحه التخزين الخاصة بمركز مسؤول OneDrive](https://admin.onedrive.com/?v=StorageSettings).
     
-2. أدخل المبلغ الافتراضي التخزين (في GB) في المربع **التخزين الافتراضية** ومن ثم انقر فوق **حفظ**.
+2. ادخل مبلغ التخزين الافتراضي (بالغيغابايت) في مربع **التخزين الافتراضي** ، ثم انقر فوق **حفظ**.
     
-يطبق هذا الإعداد مساحة التخزين لكافة المستخدمين الذين لم يتم تعيين حدود التخزين المحددة. لتغيير مساحة التخزين لمستخدمين محددين، تحتاج إلى استخدام Microsoft PowerShell. للحصول على مزيد من المعلومات حول كيفية القيام بذلك، راجع [استخدام PowerShell المستخدمين تغيير مساحة التخزين أندريف](https://go.microsoft.com/fwlink/?linkid=866402).
+يتم تطبيق اعداد مساحة التخزين هذا علي كافة المستخدمين الذين لم تقم بتعيين حدود تخزين معينه لهم. لتغيير مساحة التخزين لمستخدمين معينين ، تحتاج إلى استخدام Microsoft PowerShell. للحصول علي معلومات حول كيفيه القيام بذلك ، راجع [تغيير مساحة التخزين اندريف المستخدمين باستخدام PowerShell](https://go.microsoft.com/fwlink/?linkid=866402).
   
 

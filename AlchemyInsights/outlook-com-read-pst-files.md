@@ -1,5 +1,5 @@
 ---
-title: ملفات PST 9000199 في Outlook.com
+title: 9000199 ملفات PST في الOutlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,14 +14,14 @@ ms.custom:
 - "1771"
 - "9000199"
 ms.openlocfilehash: 6b4b5bdf5921153c99c4d1eb109ea0579c08eb37
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36535594"
 ---
-# <a name="pst-data-files-in-outlookcom"></a>ملفات البيانات PST في Outlook.com
+# <a name="pst-data-files-in-outlookcom"></a>PST ملفات البيانات في Outlook.com
 
-من غير الممكن استيراد Outlook. ملف البيانات PST لحساب Outlook.com الخاصة بك باستخدام مستعرض.
+ليس من الممكن استيراد Outlook. PST ملف البيانات إلى حساب Outlook.com الخاص بك باستخدام متصفح.
 
-لاستيراد. ملف البيانات PST، يجب استخدام التطبيق Outlook سطح المكتب. لمعرفة المزيد، اقرأ [استيراد البريد الإلكتروني وجهات الاتصال والتقويم من.pst Outlook.](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)
+لاستيراد. PST ملف البيانات ، يجب عليك استخدام تطبيق سطح المكتب Outlook. لمعرفه المزيد ، أقرا [استيراد البريد الكتروني وجات الاتصال والتقويم من Outlook. pst.](https://support.office.com/article/431a8e9a-f99f-4d5f-ae48-ded54b3440ac?wt.mc_id=Office_Outlook_com_Alchemy)

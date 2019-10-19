@@ -1,5 +1,5 @@
 ---
-title: أخطاء مشاركة OSE في SharePoint وOneDrive
+title: أخطاء مشاركه OSE في SharePoint و OneDrive
 ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
@@ -10,14 +10,14 @@ ms.custom:
 - "1939"
 - "9000314"
 ms.openlocfilehash: e2a2dbf3ee4317e4ef6bea5c57f4a1473e9343c3
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36752955"
 ---
-# <a name="ose-sharing-errors"></a>أخطاء مشاركة OSE
+# <a name="ose-sharing-errors"></a>أخطاء مشاركه OSE
 
-تغطي هذه المقالة الأخطاء المختلفة التي قد تواجهها عند مشاركة الملفات أو المجلدات من SharePoint عبر الإنترنت أو أندريف للعمل في Office 365. يجب أن تكون مسؤول عمومي أو مسؤول SharePoint في المؤسسة الخاصة بك لإصلاح هذه الأخطاء. إذا لم تكن مسؤولاً، اتصل بمكتب المساعدة وأعطهم رمز الخطأ الخاص بك.
+تغطي المقالة الأخطاء المختلفة التي قد تواجهها عند مشاركه الملفات أو المجلدات من SharePoint علي الإنترنت أو اندريف للعمل في Office 365. تحتاج إلى ان تكون مسؤول عمومي أو SharePoint في المؤسسة الخاصة بك لإصلاح هذه الأخطاء. إذا لم تكن مسؤولا ، فاتصل بمكتب المساعدة وأعطه رمز الخطا الخاص بك.
 
-لمزيد من المعلومات حول رموز أخطاء OSE، راجع [مشاركة الأخطاء في SharePoint وOneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).
+لمزيد من المعلومات حول رموز الخطا OSE ، راجع [مشاركه الأخطاء في SharePoint و OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).

@@ -1,5 +1,5 @@
 ---
-title: حلول للمسائل المتعلقة بتثبيت office على "ملقم المحطة الطرفية"
+title: حلول للمشاكل حول تثبيت office علي "ملقم المحطة الطرفية"
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -10,34 +10,34 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
 ms.openlocfilehash: bed91bf59219a19d5742d3ca4a61718c34b5c774
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36501459"
 ---
-# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>حلول للمسائل المتعلقة بتثبيت office على "ملقم المحطة الطرفية"
+# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>حلول للمشاكل حول تثبيت office علي "ملقم المحطة الطرفية"
 
-لاستخدام تنشيط الكمبيوتر المشتركة، يجب أن يكون لديك خطة Office 365 يتضمن Office 365 ProPlus.
+لاستخدام تنشيط الكمبيوتر المشتركة ، يجب ان يكون لديك خطه 365 Office التي تتضمن Office 365 ProPlus.
   
-- تحقق من أنه تم تمكين تنشيط الكمبيوتر المشتركة ل Office 365 ProPlus
+- تحقق من تمكين تنشيط الكمبيوتر المشتركة ل Office 365 ProPlus
     
-- التحقق من نجاح عملية التنشيط ل Office 365 ProPlus
+- تحقق من نجاح التنشيط ل Office 365 ProPlus
     
-- مراجعة رسائل الخطأ لتنشيط الكمبيوتر المشترك:
+- مراجعه رسائل الخطا لتنشيط الكمبيوتر المشترك:
     
-  - "لا يمكن استخدام منتجات وجدنا في الحساب الخاص بك لتنشيط Office في السيناريوهات المشتركة من جهاز الكمبيوتر"
+  - "لا يمكن استخدام المنتجات التي وجدناها في حسابك لتنشيط Office في سيناريوهات الكمبيوتر المشتركة"
   
-هذا الخطأ يعني عدم وجود خطة Office 365 يتضمن Office 365 ProPlus.
+يعني هذا الخطا انه لم يكن لديك خطه 365 Office التي تتضمن Office 365 ProPlus.
     
-  - "المنتج غير مرخص"
+  - "منتج غير مرخص"
     
-  - تحقق من أنه تم تعيين المستخدم ترخيص ل Office 365 ProPlus.
+  - تحقق من ان المستخدم تم تعيين ترخيص ل Office 365 ProPlus.
     
-  - تحقق من أن يقوم المستخدم بتسجيل الدخول إلى حساب المستخدم الخاص به ل Office 365
+  - تحقق من ان المستخدم بتسجيل الدخول مع حساب المستخدم الخاص بها ل Office 365
     
-  - تحقق من وجود اتصال بين الإنترنت والكمبيوتر المشترك.
+  - تحقق من وجود اتصال بين الكمبيوتر المشترك والإنترنت.
     
-للحصول على آخر تلميحات استكشاف الأخطاء وإصلاحها، الرجاء مراجعة: [استكشاف مشكلات تنشيط الكمبيوتر المشتركة ل Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)
+للحصول علي تلميحات استكشاف الأخطاء وإصلاحها ، الرجاء مراجعه: [استكشاف مشكلات مع تنشيط الكمبيوتر المشترك ل Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)
   
 

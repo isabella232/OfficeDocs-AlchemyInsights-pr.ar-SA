@@ -1,5 +1,5 @@
 ---
-title: حدود وملفات كبيرة في SharePoint
+title: الحدود والملفات الكبيرة في SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
 ms.openlocfilehash: 20ab2b7effa92a6b3765f6469de2966cbd84e1be
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36497574"
 ---
-# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>الملفات التي لا يمكن تحميلها إلى SharePoint على الإنترنت
+# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>الملفات التي لا يمكن تحميلها إلى SharePoint علي الإنترنت
 
-لن تحميل ملف إلى SharePoint عبر إنترنت، تأكد:
+إذا لم يتم تحميل ملف إلى SharePoint علي الإنترنت ، تاكد من:
   
-- هو أقل من 15 غيغابايت في الحجم.
+- انها اقل من 15 غيغابايت في الحجم.
     
-- المسار بأكمله، بما في ذلك اسم الملف، وأقل من 400 حرفاً.
+- المسار بأكمله ، بما في ذلك اسم الملف ، اقل من 400 حرفا.
     
-- لا يحتوي اسم الملف على الأحرف " \* : \< \> ؟ / \ | وليس في قائمة [الأسماء غير الصحيحة](https://go.microsoft.com/fwlink/?linkid=866430).
+- لا يحتوي اسم الملف علي الأحرف \* " \< \> : ؟ / \ | وليس علي قائمه [أسماء غير صالحه](https://go.microsoft.com/fwlink/?linkid=866430).
     
-إذا كنت تحاول تحميل الملف باستخدام التطبيق أندريف سطح المكتب، راجع [القيود والحدود عند مزامنة الملفات والمجلدات](http://go.microsoft.com/fwlink/p/?LinkID=717734) أو ["أندريف إصلاح" مشاكل المزامنة](https://go.microsoft.com/fwlink/?linkid=866431).
+إذا كنت تحاول تحميل الملف باستخدام تطبيق OneDrive لسطح المكتب ، فراجع [القيود والقيود عند مزامنة الملفات والمجلدات](http://go.microsoft.com/fwlink/p/?LinkID=717734) أو [إصلاح مشاكل المزامنة في onedrive](https://go.microsoft.com/fwlink/?linkid=866431).
   
 

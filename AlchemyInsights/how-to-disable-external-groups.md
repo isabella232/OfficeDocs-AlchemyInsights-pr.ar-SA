@@ -1,5 +1,5 @@
 ---
-title: كيفية تعطيل المجموعات الخارجية
+title: كيفيه تعطيل المجموعات الخارجية
 ms.author: pebaum
 author: pebaum
 ms.date: 12/17/2018
@@ -12,23 +12,23 @@ ms.custom:
 - "6000006"
 ms.assetid: 4e429507-039b-410e-a994-54b443d4e91e
 ms.openlocfilehash: b2328ea85d3ff6ec722cc56d8a46395d8438f79c
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36739480"
 ---
-# <a name="how-to-disable-external-groups"></a>كيفية تعطيل المجموعات الخارجية
+# <a name="how-to-disable-external-groups"></a>كيفيه تعطيل المجموعات الخارجية
 
-تطبيق المراسلة الخارجية Yammer قواعد نقل Exchange (ETRs) ، مجموعة من عناصر التحكم الاستباقية لمنع مشاركة معلومات الشركة. لتقييد المستخدمين من إنشاء مجموعات خارجية تحتاج إلى تكوين قاعدة نقل Exchange (ETR) ثم قم بتكوين Yammer لاستخدام قاعدة Exchange Transport لحظر المراسلة الخارجية.
+تطبيق المراسلة الخارجية Yammer قواعد النقل Exchange (ETRs) ، مجموعه من عناصر التحكم الاستباقية لمنع مشاركه معلومات الشركة. لتقييد المستخدمين من إنشاء مجموعات خارجيه تحتاج إلى تكوين قاعده نقل Exchange (ETR) ثم قم بتكوين Yammer لاستخدام قاعده نقل Exchange لحظر المراسلة الخارجية.
   
-بمجرد إنشاء قاعدة في مركز مسؤول Exchange عبر إنترنت، اتبع الخطوات التالية لتعيين ETR لتطبيق في Yammer:
+بمجرد إنشاء قاعده في مركز مسؤول Exchange عبر الإنترنت ، اتبع الخطوات التالية لتعيين ETR لتطبيق في Yammer:
   
-- قم بتسجيل الدخول إلى Yammer كمسؤول تم التحقق منه، وفي **مركز مسؤول Yammer**، انتقل إلى **إعدادات الأمان والمحتوى \> C.**
+- قم بتسجيل الدخول إلى Yammer كمسؤول تم التحقق منه ، وفي **مركز أداره yammer**، انتقل إلى **المحتوي C وإعدادات أمان الأمان \> .**
 
-- ضمن **المراسلة الخارجية**، حدد **فرض قواعد النقل Exchange عبر إنترنت (ETRs) في Yammer.**
+- ضمن " **المراسلة الخارجية**" ، حدد **فرض Exchange عبر الإنترنت تبادل قواعد النقل (etrs) في Yammer.**
 
 - اختر **حفظ**.
 
-لمزيد من المعلومات، راجع [تعطيل المراسلة الخارجية في شبكة Yammer](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging).
+لمزيد من المعلومات ، راجع [تعطيل المراسلة الخارجية في شبكه Yammer](https://docs.microsoft.com/yammer/work-with-external-users/disable-external-messaging).
   

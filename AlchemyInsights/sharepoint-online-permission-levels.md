@@ -1,5 +1,5 @@
 ---
-title: مستويات إذن SharePoint على الإنترنت
+title: مستويات أذونات SharePoint علي الإنترنت
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
 ms.openlocfilehash: 7c9170093797d7bdb27ef1c9ee3519ae228a54dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36534874"
 ---
-# <a name="sharepoint-online-permission-levels"></a>مستويات إذن SharePoint على الإنترنت
+# <a name="sharepoint-online-permission-levels"></a>مستويات أذونات SharePoint علي الإنترنت
 
-ويأتي SharePoint مع بعض مستويات الأذونات الافتراضية التي يمكنك استخدامها، مثل المشاركة وعرض فقط. إذا كانت لا تحقق احتياجاتك، يمكنك إنشاء مستويات أذونات إضافية. من الأسهل لتعقب الأذونات إذا كان لا يمكنك تحرير أو حذف المستويات الافتراضية، وفي حالة إضافة أشخاص إلى مجموعات وتعيين مستويات الأذونات لهذه المجموعات بدلاً من تعيين مستويات الأذونات للمستخدمين الفرديين.
+ياتي SharePoint مع بعض مستويات الأذونات الافتراضية التي يمكنك استخدامها ، مثل "المساهمة" و "عرض فقط". إذا لم يلبي الاحتياجات الخاصة بك ، يمكنك إنشاء مستويات أذونات اضافيه. من الأسهل تتبع الأذونات إذا لم تقم بتحرير المستويات الافتراضية أو حذفها ، وإذا قمت باضافه أشخاص إلى مجموعات وتعيين مستويات الأذونات لهذه المجموعات بدلا من تعيين مستويات الأذونات للمستخدمين الفرديين.
   
 - [فهم مستويات الأذونات](https://go.microsoft.com/fwlink/?linkid=867071)
     
-- [كيفية إنشاء وتحرير مستويات الأذونات](https://go.microsoft.com/fwlink/?linkid=867072)
+- [كيفيه إنشاء مستويات الأذونات وتحريرها](https://go.microsoft.com/fwlink/?linkid=867072)
     
 

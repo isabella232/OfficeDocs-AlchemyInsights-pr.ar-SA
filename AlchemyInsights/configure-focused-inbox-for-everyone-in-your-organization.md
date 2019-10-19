@@ -1,5 +1,5 @@
 ---
-title: 912 تكوين علبة الوارد المركزة للجميع في المؤسسة
+title: 912 تكوين علبه الوارد المركزة لكل شخص في مؤسستك
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,14 +13,14 @@ ms.custom:
 - "1800019"
 ms.assetid: bad7a7f6-0c68-497a-8637-aae49355034a
 ms.openlocfilehash: 672348fa3f34157c190b6d986309b8ed141e02f2
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36738400"
 ---
-# <a name="turn-focused-inbox-on-or-off-for-everyone"></a>تشغيل علبة الوارد المركزة أو إيقاف تشغيلها للجميع
+# <a name="turn-focused-inbox-on-or-off-for-everyone"></a>تشغيل البريد الوارد المركز أو إيقافه للجميع
 
-للحصول على إرشادات، راجع [تكوين علبة الوارد المركزة لكل شخص في مؤسستك](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).
+للحصول علي إرشادات ، راجع [تكوين علبه الوارد المركزة لكل شخص في مؤسستك](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).
 
-**ملاحظة:** يتطلب هذا الإجراء PowerShell Exchange عبر الإنترنت. هل تريد القيام بذلك في مركز مسؤول Microsoft 365 بدلاً من ذلك؟ [صوتوا هنا!](https://go.microsoft.com/fwlink/p/?linkid=862489)
+**ملاحظه**: يتطلب هذا الاجراء PowerShell Exchange عبر الإنترنت. هل ترغب في القيام بذلك في مركز مسؤول Microsoft 365 بدلا من ذلك ؟ [التصويت هنا!](https://go.microsoft.com/fwlink/p/?linkid=862489)

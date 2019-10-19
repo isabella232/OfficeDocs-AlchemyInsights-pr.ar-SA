@@ -1,5 +1,5 @@
 ---
-title: إدارة وحدة التخزين الخاصة بك SharePoint أو أندريف
+title: أداره تخزين SharePoint أو OneDrive
 ms.author: kaarins
 author: kaarins
 manager: scotv
@@ -12,28 +12,28 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8b0e6b9b-67c9-4716-8602-ebb58b364ef9
 ms.openlocfilehash: 4427626108df36a8b8b4f5535a8236bc4de59832
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36497070"
 ---
-# <a name="manage-your-sharepoint-or-onedrive-storage"></a>إدارة وحدة التخزين الخاصة بك SharePoint أو أونيدريفي
+# <a name="manage-your-sharepoint-or-onedrive-storage"></a>أداره تخزين SharePoint أو OneDrive
 
  **SharePoint Online**
   
-معظم المؤسسات، تتم إدارة تخزين SharePoint تلقائياً حتى لا تحتاج لتعيين حدود كل مجموعة موقع. للتحقق من مقدار تخزين SharePoint لديك:
+بالنسبة لمعظم المؤسسات ، تتم أداره تخزين SharePoint تلقائيا بحيث لا تحتاج إلى تعيين حدود لكل مجموعه موقع. للتحقق من مقدار تخزين SharePoint لديك:
   
-- في مركز مسؤول SharePoint جديد، في الجزء الأيسر العلوي الصفحة "مواقع"، ابحث عن وحدة التخزين المتوفرة والإجمالي.
+- في مركز مسؤول SharePoint الجديد ، في الجزء العلوي الأيسر من صفحه المواقع ، ابحث عن التخزين المتوفر والإجمالي.
     
-للحصول على مزيد من المعلومات حول كيفية حساب الحد المسموح به، راجع [حدود SharePoint على الإنترنت](https://go.microsoft.com/fwlink/p/?LinkID=856113). لشراء تخزين إضافية، راجع [تغيير مساحة التخزين لاشتراكك](https://go.microsoft.com/fwlink/?linkid=866428).
+للحصول علي معلومات حول كيفيه حساب الحد الخاص بك ، راجع [حدود SharePoint علي الإنترنت](https://go.microsoft.com/fwlink/p/?LinkID=856113). لشراء سعة تخزين اضافيه ، راجع [تغيير مساحة التخزين للاشتراك](https://go.microsoft.com/fwlink/?linkid=866428).
   
- **أندريف**
+ **اندريف**
   
-لتغيير التخزين الافتراضي للمستخدمين أندريف الجديدة والموجودة:
+لتغيير التخزين الافتراضي للمستخدمين اندريف الجديدة والموجودة:
   
-- انتقل إلى [صفحة التخزين أندريف مركز الإدارة](https://admin.onedrive.com/?v=StorageSettings)وإدخال كمية جديدة في بريطانيا.
+- انتقل إلى [صفحه التخزين الخاصة بمركز مسؤول OneDrive](https://admin.onedrive.com/?v=StorageSettings)، وادخل مبلغا جديدا بالغيغابايت.
     
-للتحقق من مقدار التخزين الذي تستخدمه في أندريف الخاصة بك، راجع [إدارة أندريف الخاص بك لتخزين الشركات](https://go.microsoft.com/fwlink/?linkid=866429). للحصول على مزيد من المعلومات حول التخزين الذي يأتي مع كل خطة، راجع [أندريف لوصف الخدمات التجارية](https://go.microsoft.com/fwlink/p/?LinkID=826071).
+للتحقق من مقدار التخزين الذي تستخدمه في OneDrive الخاص بك ، راجع [أداره onedrive لتخزين الاعمال](https://go.microsoft.com/fwlink/?linkid=866429). للحصول علي معلومات حول التخزين الذي ياتي مع كل خطه ، راجع [اندريف لوصف خدمه الاعمال](https://go.microsoft.com/fwlink/p/?LinkID=826071).
   
 

@@ -1,5 +1,5 @@
 ---
-title: 743 إنشاء مستخدمين بدون ترخيص
+title: 743 إنشاء المستخدمين بدون ترخيص
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,14 +13,14 @@ ms.custom:
 - "1200022"
 ms.assetid: a47ef0c1-5f44-4c5f-aa91-b681c0c17ebf
 ms.openlocfilehash: aa594ead2f48bd6b6597746588b1edc16e08a14a
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36740596"
 ---
-# <a name="create-mailboxes-that-dont-require-licenses"></a>إنشاء علب بريد لا تتطلب تراخيص
+# <a name="create-mailboxes-that-dont-require-licenses"></a>إنشاء علب البريد التي لا تتطلب تراخيص
 
-- إذا كنت بحاجة إلى عنوان بريد إلكتروني لمجموعة لعدة أشخاص، راجع [إنشاء صندوق بريد مشترك](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).
+- إذا كنت بحاجه إلى عنوان بريد الكتروني جماعي لعده أشخاص ، فراجع [إنشاء علبه بريد مشتركه](https://docs.microsoft.com/office365/admin/email/create-a-shared-mailbox).
 
-- للسماح لفريق من الأشخاص بالعمل معًا ومشاركة البريد الإلكتروني والملفات، راجع التعرف على [مجموعات Office 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+- للسماح لفريق من الأشخاص بالعمل معا ومشاركه البريد الكتروني والملفات ، راجع [التعرف علي مجموعات Office 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2).

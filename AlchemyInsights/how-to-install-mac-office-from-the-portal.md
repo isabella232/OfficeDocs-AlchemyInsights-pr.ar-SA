@@ -1,5 +1,5 @@
 ---
-title: كيفية تثبيت Mac Office من المدخل
+title: كيفيه تثبيت Mac Office من المدخل
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -14,18 +14,18 @@ ms.custom:
 - "647"
 - "2000016"
 ms.openlocfilehash: 28b32d18a134b7ae7d2495750768934058cb4408
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36735304"
 ---
-# <a name="how-to-install-mac-office-from-the-portal"></a>كيفية تثبيت Mac Office من المدخل
+# <a name="how-to-install-mac-office-from-the-portal"></a>كيفيه تثبيت Mac Office من المدخل
 
-1. [إلغاء تثبيت Office 2011 لنظام التشغيل Mac من أجهزة الكمبيوتر الخاصة بك](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA).
+1. [إلغاء تثبيت Office 2011 لنظام التشغيل Mac من أجهزه الكمبيوتر الخاصة بك](https://support.office.com/article/4bfcd230-0ea1-4656-bf30-dbfa44d358fa?wt.mc_id=Alchemy_ClientDIA).
 
-2. [إدارة إعدادات تنزيل البرامج في Office 365](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365).
+2. [أداره إعدادات تنزيل البرامج في Office 365](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365).
 
-3. [تعيين تراخيص للمستخدمين](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/assign-licenses-to-users).
+3. [تعيين التراخيص للمستخدمين](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/assign-licenses-to-users).
 
-4. ثم يمكن للمستخدمين تثبيت برنامج Office بأنفسهم، أو يمكنك استخدام [نشر Office لمستخدمي Mac](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac).
+4. يمكن للمستخدمين بعد ذلك تثبيت برنامج Office نفسه ، أو يمكنك استخدام [نشر office إلى مستخدمي Mac الخاص بك](https://docs.microsoft.com/DeployOffice/mac/deployment-guide-for-office-for-mac).

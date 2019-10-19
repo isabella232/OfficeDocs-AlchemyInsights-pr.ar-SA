@@ -1,5 +1,5 @@
 ---
-title: إنشاء موقع في SharePoint عبر إنترنت
+title: إنشاء موقع في SharePoint علي الإنترنت
 ms.author: stevhord
 author: spowriter
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
 ms.openlocfilehash: 5bd43255bf3978ebb7f2405fba5c01437d32ceb7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36515864"
 ---
 # <a name="create-a-site"></a>إنشاء موقع
 
-يمكنك إنشاء أنواع مختلفة من مواقع في SharePoint على الإنترنت. لمعرفة كيفية القيام بذلك في مركز مسؤول SharePoint جديد، راجع [إنشاء موقع](https://go.microsoft.com/fwlink/?linkid=866295). لمزيد من المعلومات حول السماح للمستخدمين بإنشاء مواقع خاصة بهم، راجع [إنشاء موقع إدارة في SharePoint على الإنترنت](https://go.microsoft.com/fwlink/?linkid=866296).
+يمكنك إنشاء أنواع مختلفه من المواقع في SharePoint علي الإنترنت. للتعرف علي كيفيه القيام بذلك في مركز مسؤول SharePoint الجديد ، راجع [إنشاء موقع](https://go.microsoft.com/fwlink/?linkid=866295). للحصول علي معلومات حول السماح للمستخدمين بإنشاء المواقع الخاصة بهم ، راجع [أداره إنشاء الموقع في SharePoint علي الإنترنت](https://go.microsoft.com/fwlink/?linkid=866296).
  
-لمزيد من المعلومات حول أنواع المواقع الجديدة، راجع [اتصال مجموعة مواقع الفريق](https://go.microsoft.com/fwlink/?linkid=866292) أو [مواقع الاتصال](https://go.microsoft.com/fwlink/?linkid=866294).
+للحصول علي معلومات حول أنواع المواقع الجديدة ، راجع [مجموعه مواقع الفريق المتصلة](https://go.microsoft.com/fwlink/?linkid=866292) أو [مواقع الاتصالات](https://go.microsoft.com/fwlink/?linkid=866294).
     
 
 

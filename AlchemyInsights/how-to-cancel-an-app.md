@@ -1,5 +1,5 @@
 ---
-title: كيفية إلغاء تطبيق
+title: كيفيه إلغاء تطبيق
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,16 +13,16 @@ ms.custom:
 - "9000566"
 - "2424"
 ms.openlocfilehash: 990723bf8911ce15a72056262124e85e68e7f3b0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36542077"
 ---
-# <a name="how-to-cancel-software-as-a-service-apps"></a>كيفية إلغاء البرامج كخدمة التطبيقات 
+# <a name="how-to-cancel-software-as-a-service-apps"></a>كيفيه إلغاء تطبيقات البرامج كخدمه 
 
-1. في مركز الإدارة Microsoft 365 **الفوترة** > [& المنتجات أو الخدمات](https://go.microsoft.com/fwlink/p/?linkid=842054) الصفحة، ثم اختر علامة التبويب **التطبيقات** .
+1. في مركز أداره Microsoft 365 ، إلى صفحه[خدمات & منتجات](https://go.microsoft.com/fwlink/p/?linkid=842054) **الفوترة** > ، ثم اختر علامة تبويب **التطبيقات** .
 
-2. ابحث عن وحدد التطبيق الذي تريد إدارته.
+2. ابحث عن التطبيق الذي تريد ادارته وحدده.
 
-3. ضمن **إعدادات إجراءات &**، حدد **إلغاء الاشتراك**.
+3. ضمن **إعدادات & إجراءات**، حدد **إلغاء الاشتراك**.

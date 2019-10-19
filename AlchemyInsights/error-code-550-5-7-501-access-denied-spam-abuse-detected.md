@@ -1,5 +1,5 @@
 ---
-title: تم رفض استخدام رمز الخطأ 550 5.7.501، تم الكشف عن إساءة استخدام الرسائل غير المرغوب فيها
+title: رمز الخطا 550 5.7.501 تم رفض الوصول ، الكشف عن أساءه استخدام البريد الكتروني العشوائي
 ms.author: chrisda
 author: chrisda
 ms.date: 6/28/2018
@@ -12,16 +12,16 @@ ms.custom:
 - "3100015"
 ms.assetid: 3105905c-e7a0-42a7-9c5a-61dc56a1d6fc
 ms.openlocfilehash: 545cab07cc7c49def849be20bb6363da228a5393
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36740128"
 ---
-# <a name="550-57501-access-denied-spam-abuse-detected"></a>550 5.7.501 تم رفض الوصول، تم الكشف عن إساءة استخدام الرسائل غير المرغوب فيها
+# <a name="550-57501-access-denied-spam-abuse-detected"></a>550 5.7.501 الوصول مرفوض ، تم الكشف عن أساءه استخدام البريد المزعج
 
-بشكل عام، تحدث هذه الرسالة عند إرسال المستخدمين رسائل البريد الإلكتروني من عناوين IP باستخدام مجال *.onmicrosoft.com* الأولي الذي تم تعيينه إلى المستأجرين الجدد في Office 365. أسهل طريقة لحل هذه المشكلة هي:
+عاده ما تحدث هذه الرسالة عندما يقوم المستخدمون بإرسال رسائل البريد الكتروني من عناوين IP باستخدام المجال *onmicrosoft.com* الذي تم تعيينه إلى المستاجرين الجدد في Office 365. أسهل طريقه لحل هذه المشكلة هي:
 
-1. [إضافة مجال إلى المستأجر الخاص بك](https://docs.microsoft.com//office365/admin/setup/add-domain).
+1. [أضافه مجال إلى المستاجر الخاص بك](https://docs.microsoft.com//office365/admin/setup/add-domain).
 
-2. [قم بتغيير عنوان البريد الإلكتروني الأساسي للمستخدمين](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) إلى المجال المخصص الجديد الذي قمت بإضافته للتو.
+2. [تغيير عنوان البريد الكتروني الأساسي للمستخدمين](https://docs.microsoft.com//office365/admin/add-users/change-a-user-name-and-email-address) إلى المجال المخصص الجديد الذي أضفته للتو.

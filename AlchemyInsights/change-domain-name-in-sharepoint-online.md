@@ -1,5 +1,5 @@
 ---
-title: تغيير اسم المجال في SharePoint على الإنترنت
+title: تغيير اسم المجال في SharePoint علي الإنترنت
 ms.author: pebaum
 author: Techwriter40
 ms.date: 10/16/2018
@@ -12,19 +12,19 @@ ms.custom:
 - "5300028"
 ms.assetid: db1e9f37-0a02-4869-9a2b-9eadeb22f318
 ms.openlocfilehash: 33c6f6c5906cd9a2a8f3a5a6e66e13fdaba392f2
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36747627"
 ---
-# <a name="change-domain-name-in-sharepoint-online"></a>تغيير اسم المجال في SharePoint على الإنترنت
+# <a name="change-domain-name-in-sharepoint-online"></a>تغيير اسم المجال في SharePoint علي الإنترنت
 
-لسوء الحظ، لا يمكن تغيير اسم مجال SharePoint عبر الإنترنت لمؤسستك في Office 365. على سبيل المثال، إذا تغير اسم مؤسستك من "Contoso" إلى "القهوة الرابعة"، لا يمكنك تغيير contoso.sharepoint.com إلى fourthcoffee.sharepoint.com.
+لسوء الحظ ، ليس من الممكن تغيير اسم مجال SharePoint علي الإنترنت للمؤسسة الخاصة بك في Office 365. علي سبيل المثال ، إذا تغير اسم مؤسستك من "Contoso" إلى "القهوة الرابعة" ، فلا يمكنك تغيير contoso.sharepoint.com إلى fourthcoffee.sharepoint.com.
   
-لاستخدام اسم المجال fourthcoffee.sharepoint.com، ستحتاج إلى شراء اشتراك Office 365 جديد ونقل كافة البريد الإلكتروني والملفات وأي ة بيانات أخرى تريد الاحتفاظ بها إلى الاشتراك الجديد.
+لاستخدام اسم النطاق fourthcoffee.sharepoint.com ، ستحتاج إلى شراء اشتراك Office 365 جديد ونقل كافة البريد الكتروني والملفات وآيه بيانات أخرى تريد الاحتفاظ بها إلى الاشتراك الجديد.
   
- **ملاحظة:** على سبيل المثال، لتغيير اسم https://contoso.sharepoint.com/sites/sample1 https://contoso.sharepoint.com/sites/sample2موقع من إلى ، إنشاء موقع جديد، ثم نقل كافة المحتويات من الموقع القديم إلى الموقع الجديد.
+ **ملاحظه**: علي سبيل المثال ، لتغيير اسم موقع من https://contoso.sharepoint.com/sites/sample1 إلى https://contoso.sharepoint.com/sites/sample2، إنشاء موقع جديد ، ومن ثم نقل كافة المحتويات من الموقع القديم إلى واحده جديده.
   
-للحصول على معلومات حول نقل العناصر في مكتبات المستندات، راجع [نقل العناصر أو نسخها من مكتبة مستندات SharePoint](https://go.microsoft.com/fwlink/?linkid=2025831).
+للحصول علي معلومات حول نقل العناصر في مكتبات المستندات ، راجع [نقل العناصر أو نسخها من مكتبه مستندات SharePoint](https://go.microsoft.com/fwlink/?linkid=2025831).
   

@@ -1,5 +1,5 @@
 ---
-title: 922 قواعد علبة الوارد
+title: 922 قواعد علبه الوارد
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,18 +13,18 @@ ms.custom:
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
 ms.openlocfilehash: cebeea438ac881d9930eecb9bcb031f9a6e92977
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36499626"
 ---
-# <a name="inbox-rules"></a>قواعد علبة الوارد
+# <a name="inbox-rules"></a>قواعد علبه الوارد
 
-لمزيد من المعلومات حول استخدام قواعد علبة الوارد في علبة البريد الخاصة بك، راجع:
+لمزيد من المعلومات حول استخدام قواعد علبه الوارد في علبه البريد الخاصة بك ، راجع:
 
-- [إدارة رسائل البريد الإلكتروني باستخدام القواعد في Outlook للكمبيوتر](https://support.office.com/article/c24f5dea-9465-4df4-ad17-a50704d66c59.aspx)
+- [أداره رسائل البريد الكتروني باستخدام القواعد في Outlook للكمبيوتر](https://support.office.com/article/c24f5dea-9465-4df4-ad17-a50704d66c59.aspx)
 
-- [إدارة رسائل البريد باستخدام قواعد علبة الوارد في Outlook على ويب](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
+- [أداره الرسائل باستخدام قواعد علبه الوارد في Outlook علي الويب](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
 
-يمكنك أيضا إدارة قواعد علبة الوارد في PowerShell Exchange عبر إنترنت. لمزيد من المعلومات، راجع [الحصول على إينبوكسرولي](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (عرض)، [إينبوكسرولي جديد](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (إنشاء)، [إزالة إينبوكسرولي](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (حذف)، و [مجموعة إينبوكسرولي](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (تعديل القائمة)، [إينبوكسرولي تعطيل](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (تعطيل القائمة) وتمكين إينبوكسرولي [ ](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule)(تمكين القائمة).
+يمكنك أيضا أداره قواعد علبه الوارد في Exchange عبر الإنترنت PowerShell. لمزيد من المعلومات ، راجع [الحصول علي-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (طريقه العرض) ، [جديد-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (إنشاء) ، [أزاله-Inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (حذف) ، [مجموعه-Inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (تعديل موجود) ، [تعطيل-Inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (تعطيل موجودة) ، [وتمكين-inboxrule ](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule)(تمكين القائمة).

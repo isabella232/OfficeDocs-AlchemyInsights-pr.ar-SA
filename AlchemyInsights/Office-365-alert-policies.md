@@ -1,5 +1,5 @@
 ---
-title: 1385--365-التنبيه-سياسات المكتب
+title: 1385-مكتب-365-تنبيه-السياسات
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,35 +13,35 @@ ms.custom:
 - "3200002"
 ms.assetid: ''
 ms.openlocfilehash: edff5a265cf31ce9a242f73ae7121ccb8b591d5f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36661283"
 ---
-# <a name="office-365-alert-policies"></a>نهج office 365 التنبيه
+# <a name="office-365-alert-policies"></a>سياسات التنبيه 365 Office
 
-_AMP_ Office 365 أمان مركز التوافق عروض [النهج التنبيه الافتراضية](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) تشغيل التنبيهات للمؤسسات التي لها قيمة اشتراك Office 365 المؤسسة أو Office 365 لنا الحكومة E1/G1 أو E3/G3 E5/G5. ولذلك، المسؤولين قد تلقي إشعارا بتنبيه البريد إلكتروني المرسلة من قبل Office365Alerts@microsoft.com بسطر موضوع مثل "تحذيراً منخفضة الخطورة: *اسم نهج التنبيه*". يتم إرسال إعلامات عند التنبيهات للنشاطات الشائعة مثل عند تنبيه المستخدمين:
+يوفر "مركز التوافق & الأمان" الخاص ب Office 365 [نهج التنبيه الافتراضية](https://docs.microsoft.com/office365/securitycompliance/alert-policies#default-alert-policies) التي تؤدي إلى تنبيات للمؤسسات التي لديها office 365 المؤسسة أو office 365 الولايات الامريكيه E1/G1 أو E3/G3 أو الاشتراك E5/G5. لذلك ، قد يتلقى المسؤولون اعلام البريد الكتروني تنبيه المرسلة بواسطة Office365Alerts@microsoft.com مع سطر موضوع مثل "تنبيه منخفض الخطورة: *اسم سياسة التنبيه*". يتم إرسال اعلامات التنبيه عند تشغيل التنبيات للانشطه الشائعة ، مثل عند المستخدمين:
 
-- إنشاء قواعد علبة الوارد إعادة توجيه البريد الإلكتروني.
-- تعيين أذونات علبة البريد الخاصة بهم.
-- مشاركة أو حذف عدد كبير من الملفات في مشاركة الملفات SharePoint.
+- إنشاء قواعد علبه الوارد التي أعاده توجيه البريد الكتروني.
+- تعيين أذونات علبه البريد الخاصة بهم.
+- مشاركه أو حذف عدد كبير من الملفات في مشاركه ملفات SharePoint.
 - إنشاء عمليات بحث eDiscovery وتصدير نتائج البحث.
 
-لمراجعة وتعمل على تنبيه:
+مراجعه التنبيه والتصرف فيه:
 
-1. الانتقال إلى [مركز التوافق & الأمن](https://protection.office.com) وتسجيل الدخول.
-2. انقر فوق **تنبيهات** > **عرض التنبيهات**.
-3. انقر فوق تنبيه لعرض صفحة القائمة منبثقة لمعلومات حول التنبيه.
+1. انتقل إلى [مركز التوافق & الأمان](https://protection.office.com) وقم بتسجيل الدخول.
+2.  > انقر **فوق تنبيات****عرض التنبيات**.
+3. انقر فوق تنبيه لعرض صفحه منبثقة تحتوي علي معلومات حول التنبيه.
 
-يمكن اتخاذ إجراء على تنبيه، مثل [إزالة قاعدة الوارد مشبوهة](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account). أو يمكنك ببساطة إغلاق التنبيه عن طريق النقر فوق **حل** في الصفحة تنبيه من القائمة المنبثقة.
+يمكنك اتخاذ اجراء في تنبيه ، مثل [أزاله قاعده علبه وارد مشبوهة](https://docs.microsoft.com/office365/securitycompliance/responding-to-a-compromised-email-account). أو يمكنك ببساطه إغلاق التنبيه بالنقر فوق **حل** في الصفحة المنبثقة التنبيه.
 
-لمزيد من المعلومات حول تكوين وإدارة السياسات التنبيه، راجع [هذا المقال](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
+لمزيد من المعلومات حول تكوين نهج التنبيه وأدارتها ، راجع [هذه المقالة](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
 
-**هام**: إعلامات تنبيه البريد الإلكتروني من Microsoft ابدأ سيطلب منك القيام بما يلي:
+**هام**: إخطارات البريد الكتروني تنبيه من Microsoft لن يطلب منك القيام بما يلي:
 
-- يجب توفير كلمة مرور
-- تحقق من تفاصيل الأمان للحساب الخاص بك
-- إعادة مصادقة نفسك
+- توفير كلمه مرور
+- التحقق من تفاصيل الأمان الخاصة بحسابك
+- أعاده مصادقه نفسك
 
-إذا تلقيت رسالة بريد إلكتروني من هذا القبيل، لم ترسل بواسطة Microsoft ويجب أن تعتبر خدعة تصيد. إذا حدث ذلك، يرجى [الإبلاغ عنها إلى Microsoft](https://docs.microsoft.com/office365/SecurityCompliance/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).
+إذا تلقيت رسالة بريد الكتروني مثل هذا ، فانه لم يتم إرسالها من قبل Microsoft ويجب اعتبارها عمليه احتيال تصيد. إذا حدث ذلك ، الرجاء [الإبلاغ عنه إلى Microsoft](https://docs.microsoft.com/office365/SecurityCompliance/report-junk-email-and-phishing-scams-in-outlook-on-the-web-eop).

@@ -1,5 +1,5 @@
 ---
-title: إدارة حسابات المستخدمين المتزامنة
+title: أداره حسابات المستخدمين المتزامنة
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 92f8b774-a580-4704-b583-7401041fc436
 ms.openlocfilehash: 822c50fda3c9af83232d57f08e039681718f178f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36497142"
 ---
-# <a name="manage-synchronized-user-accounts"></a>إدارة حسابات المستخدمين المتزامنة
+# <a name="manage-synchronized-user-accounts"></a>أداره حسابات المستخدمين المتزامنة
 
-عادة، يمكنك استخدام مركز مسؤول Microsoft 365 لإضافة وتغيير حسابات المستخدمين. ومع ذلك، لا يمكنك استخدامها إذا تم تمكين المزامنة الدليل أو SSO. إدارة المستخدمين باستخدام Windows PowerShell بدلاً من ذلك، كما هو موضح في [تكوين خصائص حساب المستخدم مع Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell ). 
+بشكل عام ، يمكنك استخدام مركز مسؤول Microsoft 365 لأضافه وتغيير حسابات المستخدمين. ومع ذلك ، لا يمكنك استخدامه إذا تم تمكين التسلسل الزمني للدليل أو SSO. بدلا من ذلك ، قم باداره المستخدمين باستخدام Windows PowerShell كما هو موضح في [تكوين خصائص حساب المستخدم باستخدام Office 365 powershell](https://docs.microsoft.com/office365/enterprise/powershell/configure-user-account-properties-with-office-365-powershell ). 
   
 

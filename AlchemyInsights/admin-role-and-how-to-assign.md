@@ -1,5 +1,5 @@
 ---
-title: دور المسؤول وكيفية تعيينه
+title: دور المشرف وكيفيه تعيين
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -14,19 +14,19 @@ ms.custom:
 - "1200008"
 ms.assetid: ca7d439d-ffe7-4351-bfd1-b022e4056138
 ms.openlocfilehash: 151f2def68b53838929f1ebeaa61a24439815aa0
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36737068"
 ---
-# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a>ما هي أدوار المشرف وكيف تقوم بتعيينها؟
+# <a name="what-are-admin-roles-and-how-do-you-assign-them"></a>ما هي ادوار المشرف وكيف يمكنك تعيينها ؟
 
-يبدو أن لديك بعض الأسئلة حول أدوار المشرف. يجب أن تجيب هذه المقالات على جميع أسئلتك.
+يبدو ان لديك بعض الاسئله حول ادوار المشرف. هذه المقالات يجب ان تجيب علي كل أسئلتك.
   
-- [حول أدوار المشرف](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles)
+- [حول ادوار المشرف](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles)
 
-- [تعيين أدوار المسؤول](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)
+- [تعيين ادوار المسؤول](https://docs.microsoft.com/office365/admin/add-users/assign-admin-roles)
 
-ألم تجب على سؤالك؟ لا توجد مشكلة! استخدم الخيار "دعنا نتصل بك" للتحدث إلى مهندس دعم.
+الم تجيب علي سؤالك ؟ لا توجد مشكلة! استخدم خيار "دعنا ندعوك" للتحدث مع مهندس الدعم.
   

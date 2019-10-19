@@ -1,5 +1,5 @@
 ---
-title: تغيير هيئة أطباء العالم
+title: تغيير السلطة MDM
 ms.author: sirkkuw
 author: Sirkkuw
 ms.date: 12/4/2018
@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 08c51aa6-cffc-456b-91fb-185f0d636afb
 ms.openlocfilehash: 6545798fe5e7702285b9e32cf635f3d7f672baeb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36519286"
 ---
-# <a name="change-intune-mdm-authority"></a>تغيير هيئة أطباء العالم إينتوني
+# <a name="change-intune-mdm-authority"></a>تغيير المرجع الخاص ب اينتوني MDM
 
-يمكنك تغيير هيئة أطباء العالم الخاص بك دون فتح حالة دعم. راجع الوثائق التالية للحصول على إرشادات:
+يمكنك تغيير المرجع الخاص ب MDM دون فتح حاله دعم. راجع المستندات التالية للحصول علي إرشادات:
   
-- [تغيير هيئة أطباء العالم من إدارة تكوين للمستقلة إينتوني](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
+- [تغيير السلطة MDM من أداره التكوين إلى اينتوني مستقل](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
     
-- [تغيير هيئة أطباء العالم من إينتوني مستقل لإدارة التكوين](https://docs.microsoft.com/sccm/mdm/deploy-use/change-mdm-authority)
+- [تغيير السلطة MDM من اينتوني مستقل إلى أداره التكوين](https://docs.microsoft.com/sccm/mdm/deploy-use/change-mdm-authority)
     
- **هيئة أطباء العالم التعايش السلمي**
+ **التعايش مع هيئه أطباء الاداره**
   
-- يمكن أن يكون كل من السلطات أطباء العالم النشطة وفي الوقت نفسه إذا كان لديك Office 365 أطباء العالم ممكن بالفعل ولكن تريد محاولة mdm إينتوني.
+- يمكن ان يكون لديك كل من السلطات MDM نشطه بشكل متزامن إذا كان لديك بالفعل Office 365 MDM تمكين ولكنك تريد محاولة اينتوني MDM.
     
-- إلا أن المسؤولين الذين يعانون أصلاً من أطباء العالم O365 النشطة إلى وضع أطباء العالم إينتوني نشط من المدخل Azure.
+- المسؤولين الذين لديهم بالفعل O365 MDM النشطة يمكن ببساطه وضع علامة علي أداره الإنترنت اينتوني النشطة من المدخل Azure.
     
-- إذا كان لديك أطباء العالم إينتوني ولكن تريد الاستفادة من أطباء العالم 365 Office: الرجاء فتح تذكرة أدناه وسوف يساعد عامل دعم تمكين ذلك.
+- إذا كان لديك اينتوني MDM ولكن تريد الاستفادة من Office 365 MDM: الرجاء فتح تذكره أدناه سيساعد عامل دعم تمكين هذا لك.
     
 

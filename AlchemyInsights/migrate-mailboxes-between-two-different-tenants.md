@@ -1,5 +1,5 @@
 ---
-title: ترحيل علب البريد بين اثنين من المستأجرين مختلفة
+title: ترحيل علب البريد بين مستاجرين مختلفين
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -14,15 +14,15 @@ ms.custom:
 - "3500008"
 ms.assetid: b9f57026-5f1f-48a8-805f-56b31f83314e
 ms.openlocfilehash: 0c0cebc33b8277689631e2eb0530efb8789ad7e7
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36734440"
 ---
-# <a name="migrate-mailboxes-between-two-different-tenants"></a>ترحيل علب البريد بين اثنين من المستأجرين مختلفة
+# <a name="migrate-mailboxes-between-two-different-tenants"></a>ترحيل علب البريد بين مستاجرين مختلفين
 
-قد تحتاج إلى ترحيل علب البريد بين اثنين من المستأجرين مختلفة في Office 365، على سبيل المثال، عندما تكون هناك عمليات دمج المؤسسة. وينبغي التخطيط بعناية لهذه الهجرات. يرجى الاطلاع على الإرشادات التالية:
+قد تحتاج إلى ترحيل علب البريد بين مستاجرين مختلفين في Office 365 ، علي سبيل المثال ، عند وجود عمليات دمج المؤسسة. وينبغي التخطيط لهذه الهجرات بعناية. يرجى الاطلاع علي الإرشادات التالية:
   
-[كيفية ترحيل علب البريد من مستأجر Office 365 إلى آخر](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
+[كيفيه ترحيل علب البريد من المستاجر 365 Office واحد إلى آخر](https://docs.microsoft.com/Exchange/mailbox-migration/migrate-mailboxes-across-tenants)
   

@@ -1,5 +1,5 @@
 ---
-title: حذف العناصر الموجودة في SharePoint
+title: حذف عناصر في SharePoint
 ms.author: stevhord
 author: bentoncity
 manager: scotv
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: af5691d7-a55f-4ece-90c8-d6aaece66b1c
 ms.openlocfilehash: 91f5d3647e6fe4be75f3ce15526d195d61f969c3
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36513605"
 ---
-# <a name="delete-items-in-sharepoint"></a>حذف العناصر الموجودة في SharePoint
+# <a name="delete-items-in-sharepoint"></a>حذف عناصر في SharePoint
 
-[حذف قائمة](https://go.microsoft.com/fwlink/?linkid=869393)
+[حذف قائمه](https://go.microsoft.com/fwlink/?linkid=869393)
   
-[حذف مكتبة مستندات](https://go.microsoft.com/fwlink/?linkid=869392)
+[حذف مكتبه مستندات](https://go.microsoft.com/fwlink/?linkid=869392)
   
-[حذف عناصر من قائمة](https://go.microsoft.com/fwlink/?linkid=869397)
+[حذف عناصر من قائمه](https://go.microsoft.com/fwlink/?linkid=869397)
   
-[حذف عناصر من مكتبة مستندات](https://go.microsoft.com/fwlink/?linkid=869399)
+[حذف عناصر من مكتبه مستندات](https://go.microsoft.com/fwlink/?linkid=869399)
   
-[حذف عمود في الصفحة](https://go.microsoft.com/fwlink/?linkid=869394)
+[حذف عمود في صفحه](https://go.microsoft.com/fwlink/?linkid=869394)
   
-[حذف عمود في قائمة أو مكتبة](https://go.microsoft.com/fwlink/?linkid=869396)
+[حذف عمود في قائمه أو مكتبه](https://go.microsoft.com/fwlink/?linkid=869396)
   
 

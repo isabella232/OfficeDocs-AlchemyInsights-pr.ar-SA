@@ -1,5 +1,5 @@
 ---
-title: مداخل Dynamics 365 الحلول الموصى بها
+title: ديناميات 365 بوابات الحلول الموصي بها
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,27 +11,27 @@ ms.custom:
 - "1454"
 - "1456"
 - "6200009"
-ms.openlocfilehash: a7c6358af738ee1d7f1b65ade5a496d55f7fea27
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: afd36494282e3974a903b7f9e4d34521d8e0faf4
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553058"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36745492"
 ---
-# <a name="dynamics-365-portals-recommended-solutions"></a>مداخل Dynamics 365 الحلول الموصى بها
+# <a name="dynamics-365-portals-recommended-solutions"></a>ديناميات 365 بوابات الحلول الموصي بها
 
-* [كيفية عرض "خطأ ملقم" مفصلة على المدخل الخاص بي](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
+* [كيفيه عرض خطا خادم مفصل يظهر علي المدخل الخاص بي](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
 
-* [كيفية إعادة تعيين موقع](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
+* [كيفيه أعاده تعيين مدخل](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
 
-* [كيفية مسح ذاكرة التخزين المؤقت على الخادم لمدخل](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
+* [كيفيه مسح ذاكره التخزين المؤقت من جانب الخادم لمدخل](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
 
-* [كيفية تغيير نوع "مدخل Dynamics 365" والحضور](https://support.microsoft.com/en-us/help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
+* [كيفيه تغيير الجمهور ونوع المدخل Dynamics 365](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
 
-* [كيفية تغيير عنوان URL الأساسي لمدخل](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
+* [كيفيه تغيير عنوان URL الأساسي للبوابة الكترونيه](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
 
-* [كيفية تكوين "موفر الهوية" الخارجي بمدخل](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
+* [كيفيه تكوين موفر الهوية الخارجية مع المدخل](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
 
 * [الأسئلة المتداولة](https://support.microsoft.com/help/4456128/portal-capabilities-for-dynamics-365-faq)
 
-* [الشروع في استخدام "مدخل Dynamics 365 الخاصة بي"](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)
+* [الشروع في التشغيل باستخدام مدخل Dynamics 365 الخاص بي](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)

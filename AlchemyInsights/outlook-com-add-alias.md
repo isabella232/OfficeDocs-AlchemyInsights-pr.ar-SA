@@ -1,5 +1,5 @@
 ---
-title: إضافة 9000238 Outlook.com المعروف باسم
+title: 9000238 Outlook.com أضافه الاسم المستعار
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,24 +12,24 @@ ms.custom:
 - "1821"
 - "9000238"
 ms.openlocfilehash: 7fcef66309b6330f46062d62a89829f9f342fd31
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36542688"
 ---
-# <a name="add-an-email-alias-in-outlookcom"></a>إضافة اسم مستعار البريد إلكتروني في Outlook.com
+# <a name="add-an-email-alias-in-outlookcom"></a>أضافه اسم مستعار للبريد الكتروني في Outlook.com
 
-الاسم مستعار هو عنوان بريد إلكتروني آخر يستخدم نفس علبة البريد وقائمة جهات الاتصال، وإعدادات الحساب كعنوان البريد الإلكتروني الرئيسي الخاص بك. يمكنك اختيار أي عنوان بريد إلكتروني لإرسال بريد من وتسجيل الدخول إلى حسابك Outlook.com مع أي من الأسماء المستعارة الخاصة بك — أنها تستخدم نفس كلمة المرور.
+الاسم المستعار هو عنوان بريد الكتروني إضافي يستخدم نفس علبه الوارد وقائمه جات الاتصال وإعدادات الحساب كعنوان بريد الكتروني أساسي. يمكنك اختيار عنوان البريد الكتروني الذي تريد إرسال البريد منه ، ويمكنك تسجيل الدخول إلى حساب Outlook.com الخاص بك باستخدام اي من الأسماء المستعارة الخاصة بك-فجميعها تستخدم نفس كلمه المرور.
 
-لإضافة عنوان بريد إلكتروني:
+لأضافه عنوان بريد الكتروني:
 
-1. انتقل إلى [إضافة الاسم مستعار](https://go.microsoft.com/fwlink/p/?linkid=864833). تسجيل الدخول إلى الحساب الخاص بك ل Microsoft، إذا طلب منك ذلك.
-2. ضمن **إضافة الاسم مستعار**، أما:
-    1. إنشاء عنوان بريد إلكتروني جديد Outlook.com وإضافته كاسم مستعار.
-    2. إضافة عنوان بريد إلكتروني موجود كاسم مستعار.
-3. حدد **إضافة الاسم المستعار**.
+1. انتقل إلى [أضافه اسم مستعار](https://go.microsoft.com/fwlink/p/?linkid=864833). قم بتسجيل الدخول إلى حساب Microsoft الخاص بك ، إذا تمت مطالبتك بذلك.
+2. ضمن **أضافه اسم مستعار**، اما:
+    1. إنشاء عنوان بريد الكتروني Outlook.com جديد وأضافه كاسم مستعار.
+    2. أضافه عنوان بريد الكتروني موجود كاسم مستعار.
+3. حدد **أضافه اسم مستعار**.
 
-اقرأ المزيد حول كيفية [إضافة أو إزالة مستعار للبريد إلكتروني في Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).  
+أقرا المزيد حول كيفيه [أضافه اسم مستعار للبريد الكتروني أو ازالته في Outlook.com](https://support.office.com/article/459b1989-356d-40fa-a689-8f285b13f1f2?wt.mc_id=Office_Outlook_com_Alchemy).  
 
-اقرأ [كيف يمكن ربط حساب بريد إلكتروني آخر](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) حساب Outlook.com.
+أقرا [كيفيه توصيل حساب بريد الكتروني آخر](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) بحسابك في Outlook.com.

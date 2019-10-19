@@ -1,5 +1,5 @@
 ---
-title: نشر السلس تسجيل الدخول الأحادي
+title: نشر تسجيل الدخول الأحادي السلس
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 998d9af8-91c6-4583-a752-dfbf21f7d9b8
 ms.openlocfilehash: 0d91638e3b4f3ab0912730dbda47c42d9ae19c16
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36512770"
 ---
-# <a name="enable-seamless-sso"></a>تمكين SSO السلس
+# <a name="enable-seamless-sso"></a>تمكين SSO سلس
 
-Azure خدمة active Directory (Azure AD) السلس تسجيل الدخول الأحادي (SSO السلس) تلقائياً بتسجيل المستخدمين عندما تكون على أسطح المكتب الخاصة بهم الشركة المتصلة بشبكة اتصال الشركة.
+الدليل النشط azure (Azure AD) غير الملحومة تسجيل الدخول الأحادي (SSO سلس) تلقائيا علامات في المستخدمين عندما تكون علي سطح المكاتب الخاصة بهم الشركات المتصلة بشبكه الشركة.
   
-[اتبع الخطوات الموجودة في هذه المقالة لتمكين SSO السلس](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)
+[اتبع الخطوات التالية في هذه المقالة لتمكين SSO سلس](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start)
   
 

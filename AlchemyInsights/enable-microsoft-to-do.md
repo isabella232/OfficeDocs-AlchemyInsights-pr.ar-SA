@@ -1,5 +1,5 @@
 ---
-title: تمكين المهام ل Microsoft
+title: تمكين Microsoft علي القيام به
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 339f925f-91c8-4a1d-902b-f920e58999df
 ms.openlocfilehash: 09c80696c75189dbfc0b810f55cefa4a92b97392
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36527530"
 ---
-# <a name="how-to-enable-microsoft-to-do"></a>كيفية تمكين Microsoft المهام
+# <a name="how-to-enable-microsoft-to-do"></a>كيفيه تمكين Microsoft القيام به
 
-من أجل استخدام المهام Microsoft، يجب تمكين مسؤول التطبيق على كل حساب مستخدم. انتقل إلى [خدمات &amp; الإضافية صفحة](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) صفحة إعدادات مسؤول Office 365 لتمكين المهام لكل مستخدم. 
+لكي تتمكن من استخدام Microsoft للقيام بذلك ، يجب علي المسؤول تمكين التطبيق علي حساب كل مستخدم. انتقل إلى [صفحه الوظائف الاضافيه للخدمات &amp; ](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) من صفحه إعدادات مسؤول Office 365 لتمكين القيام به لكل مستخدم. 
   
-المهام Microsoft يستخدم ميزات في Exchange عبر إنترنت لمزامنة وتخزين عناصر المهام الخاصة بالمستخدمين. من أجل استخدام المهام Microsoft، يحتاج مستخدم علبة بريد Exchange عبر إنترنت صالح.
+تستخدم Microsoft للقيام بالميزات في Exchange عبر الإنترنت لمزامنة وتخزين العناصر الخاصة بالمستخدمين. لكي تتمكن من استخدام Microsoft للقيام بذلك ، يحتاج المستخدم إلى علبه بريد Exchange عبر إنترنت صالحه.
   
-لمزيد من المعلومات، راجع [معاينة مهام Microsoft الإدارة](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).
+للحصول علي معلومات اضافيه ، راجع [أداره معاينه المهام ل Microsoft](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).
   
- **ملاحظة**: إذا كنت تتلقى خطأ 501 عند محاولة تسجيل الدخول إلى [http://todo.microsoft.com](http://todo.microsoft.com)، حاول [https://to-do.microsoft.com](https://to-do.microsoft.com).
+ **ملاحظه**: إذا تلقيت خطا 501 عند محاولة تسجيل [http://todo.microsoft.com](http://todo.microsoft.com)الدخول ، حاول. [https://to-do.microsoft.com](https://to-do.microsoft.com)
   
 

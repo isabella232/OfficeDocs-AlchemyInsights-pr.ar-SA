@@ -14,14 +14,14 @@ ms.custom:
 - "6500003"
 ms.assetid: c35b64bd-537d-4a33-98df-ad02de8fb71b
 ms.openlocfilehash: 23491c2c6fbe51c0c2b6cdce112b59f00a8b868a
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36736096"
 ---
-# <a name="enable-and-use-microsoft-teams"></a>تمكين فرق Microsoft واستخدامها
+# <a name="enable-and-use-microsoft-teams"></a>تمكين واستخدام فرق Microsoft
 
-إذا لم يكن لديك حق الوصول إلى فرق Microsoft على الإطلاق، فتحقق من [كيفية الوصول إلى Microsoft Teams](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx).
+إذا لم يكن لديك حق الوصول إلى فرق Microsoft علي الإطلاق ، تحقق من [كيفيه الحصول علي الوصول إلى فرق microsoft](https://support.office.com/article/How-do-I-get-access-to-Microsoft-Teams-fc7f1634-abd3-4f26-a597-9df16e4ca65b.aspx).
 
-إذا كان لديك بالفعل Microsoft Teams وتحتاج إلى معرفة كيفية تكوينه وإدارته، راجع [إدارة إعدادات Microsoft Teams لمؤسستك](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365).
+إذا كان لديك بالفعل فرق Microsoft وتحتاج إلى معرفه كيفيه تكوينها وأدارتها ، راجع [أداره إعدادات فرق microsoft للمؤسسة الخاصة بك](https://docs.microsoft.com/MicrosoftTeams/enable-features-office-365).

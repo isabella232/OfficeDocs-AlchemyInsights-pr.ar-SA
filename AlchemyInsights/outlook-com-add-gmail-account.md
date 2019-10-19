@@ -1,5 +1,5 @@
 ---
-title: إضافة حساب بريد جوجل إلى Outlook.com
+title: أضافه حساب Gmail إلى Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,22 +12,22 @@ ms.custom:
 - "1820"
 - "9000236"
 ms.openlocfilehash: 59325a0d1221dac6fcd905f3918c164f69551271
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36538115"
 ---
-# <a name="add-your-gmail-account-to-outlookcom"></a>إضافة حساب Gmail إلى Outlook.com
+# <a name="add-your-gmail-account-to-outlookcom"></a>أضافه حساب Gmail الخاص بك إلى Outlook.com
 
-1. فتح [إعدادات "مزامنة البريد الإلكتروني"](https://go.microsoft.com/fwlink/?linkid=875264)الخاص بك.
-2. ضمن **اتصال حسابات**، حدد **Gmail**.
-3. أدخل اسم عرض (سيشاهده المستلمون اسم عندما تتلقى رسالة بريد إلكتروني من قبلك).
-4. اختر إذا Outlook.com يجب استيراد البريد الإلكتروني الخاص بك من Gmail وتخزين البريد الإلكتروني المستوردة.
-5. حدد **"موافق"** للانتقال إلى صفحة تسجيل الدخول Google.
+1. افتح [إعدادات مزامنة البريد الكتروني](https://go.microsoft.com/fwlink/?linkid=875264).
+2. ضمن **الحسابات المتصلة**، حدد **Gmail**.
+3. ادخل اسم عرض (سيشاهد مستلمو الاسم عندما يتلقون رسالة بريد الكتروني منك).
+4. اختر ما إذا كان يجب علي Outlook.com استيراد بريدك الكتروني من Gmail وأين سيتم تخزين البريد الكتروني المستورد.
+5. حدد **موافق** للانتقال إلى صفحه تسجيل الدخول إلى Google.
 
-مزامنة من حساب متصل بحساب Outlook.com له اتجاه واحد فقط. لن تظهر في "العناصر المرسلة" في Gmail البريد الإلكتروني التي تم إرسالها من حساب Gmail استخدام Outlook.com.
+المزامنة من حساب متصل إلى حساب Outlook.com الخاص بك هو اتجاه واحد فقط. لن يظهر البريد الكتروني المرسل من حسابك في Gmail باستخدام Outlook.com في العناصر المرسلة في Gmail.
 
-يمكنك إرسال بريد إلكتروني في Outlook.com من حساب Gmail المتصلة. عند إنشاء رسالة بريد إلكتروني، حدد **من** واختيار عنوان Gmail، أو [تحديث الافتراضي من العنوان](https://go.microsoft.com/fwlink/?linkid=875264).
+يمكنك إرسال بريد الكتروني في Outlook.com من حساب Gmail المتصل. عند إنشاء بريد الكتروني ، اختر **من** واختر عنوان Gmail ، أو قم [بتحديث عنوانك الافتراضي](https://go.microsoft.com/fwlink/?linkid=875264).
 
-لمزيد من المعلومات، راجع [إضافة أخرى حسابات البريد الإلكتروني إلى Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).
+لمزيد من المعلومات ، راجع [أضافه حسابات البريد الكتروني الأخرى إلى Outlook.com](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy).

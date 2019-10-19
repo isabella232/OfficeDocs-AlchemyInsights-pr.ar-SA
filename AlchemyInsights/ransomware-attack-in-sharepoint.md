@@ -1,5 +1,5 @@
 ---
-title: هجوم رانسومواري في SharePoint أو أندريف
+title: هجوم الفدية في SharePoint أو اندريف
 ms.author: efrene
 author: efrene
 ms.date: 8/07/2019
@@ -12,36 +12,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: 3ebb86895c65e1acd91d552ad28b8d5a44ef8335
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4f8e77cbbf7385fefbd30ca0e5e59134fd2a2f4e
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553383"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36745528"
 ---
-# <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>هجوم رانسومواري في SharePoint أو أندريف
+# <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>هجوم الفدية في SharePoint أو اندريف
 
-1.  إذا كنت تبحث عن تعليمات حول ما يجب القيام به عند العثور على ملف ضار على أندريف أو الفرق أو SharePoint، راجع [ما يجب القيام به عند العثور على ملف ضار](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2).
-2. إذا كنت تبحث عن كيفية حماية بياناتك من رانسومواري، راجع:
-    - [حماية البيانات في SharePoint وأندريف](https://docs.microsoft.com/sharepoint/safeguarding-your-data) 
-    - [الحماية من التهديدات رانسومواري](https://docs.microsoft.com/windows/security/threat-protection/intelligence/ransomware-malware)    
+1.  إذا كنت تبحث عن تعليمات حول ما يجب القيام به عند العثور علي ملف ضار علي OneDrive أو SharePoint أو فرق العمل ، راجع [ما يجب القيام به عند العثور علي ملف ضار](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2).
+2. إذا كنت تبحث عن كيفيه حماية البيانات الخاصة بك من انتزاع الفدية ، انظر:
+    - [حماية البيانات الخاصة بك في SharePoint و OneDrive](https://docs.microsoft.com/sharepoint/safeguarding-your-data) 
+    - [حماية التهديد بالفدية](https://docs.microsoft.com/windows/security/threat-protection/intelligence/ransomware-malware)    
 
-3.  هل كافة الملفات على أندريف أو SharePoint تأثرت رانسومواري أو البرامج الضارة أو الفيروسات التشفير؟ 
+3.  هل كل الملفات الموجودة علي OneDrive الخاص بك أو SharePoint المتاثره بالفدية أو البرامج الضارة أو الفيروسات المشفرة ؟ 
 
-إيقاف/إيقاف المزامنة أندريف (أن وجد) أو قطع الاتصال المعينة إلى المكتبة من الكمبيوتر المتأثرة (أن وجدت)، طريقة عرض المستكشف مباشرة ثم استعادة مكتبة SharePoint أو أندريف بالكامل إلى وقت سابق باستخدام ميزة "استعادة الملفات". 
+فورا إيقاف/إيقاف المزامنة اندريف (ان وجدت) أو قطع الاتصال مستكشف تعيين إلى المكتبة من الكمبيوتر المتاثره (ان وجدت) ، ومن ثم يمكنك استعاده الخاص بك اندريف أو مكتبه SharePoint بأكملها إلى وقت سابق باستخدام ميزه استعاده الملفات. 
 
-لمزيد من المعلومات حول كيفية استعادة، راجع:
+لمزيد من المعلومات حول كيفيه الاستعادة ، راجع:
 
-- [استعادة مكتبة أندريف](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
-- [استعادة مكتبة مستندات](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a?ui=en-US&rs=en-US&ad=US)
+- [استعاده مكتبه اندريف](https://support.office.com/article/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a150)
+- [استعاده مكتبه مستندات](https://support.office.com/article/restore-a-document-library-317791c3-8bd0-4dfd-8254-3ca90883d39a)
 
-لمزيد من المعلومات حول الحماية المتقدمة التهديد (ATP)، راجع:
-- [ATP لفرق SharePoint وأندريف](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
-- [عروض المستكشف التهديد](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
+لمزيد من المعلومات حول الحماية المتقدمة للتهديدات (ATP) ، راجع:
+- [ATP ل SharePoint و OneDrive والفرق](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams)
+- [طرق عرض مستكشف التهديدات](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
 
-معلومات إضافية:
+معلومات اضافيه:
 
-- [الكشف عن الفيروسات في مكتب التخطيط الاستراتيجي](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
-- [تشفير البيانات في ODB ومكتب التخطيط الاستراتيجي](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
-- [الكشف عن رانسومواري واسترداد الملفات](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)</br>
-- [الكشف عن مستكشف التهديد والوقت الحقيقي](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)
+- [كشف الفيروسات في الاستراتيجي](https://docs.microsoft.com/office365/securitycompliance/virus-detection-in-spo)</br>
+- [تشفير البيانات في ODB و الاستراتيجي](https://docs.microsoft.com/office365/securitycompliance/data-encryption-in-odb-and-spo)</br>
+- [الكشف عن الفدية واستعاده الملفات](https://support.office.com/article/Ransomware-detection-and-recovering-your-files-0d90ec50-6bfd-40f4-acc7-b8c12c73637f)</br>
+- [مستكشف التهديدات والاكتشافات الحقيقية](https://docs.microsoft.com/office365/securitycompliance/threat-explorer-views)

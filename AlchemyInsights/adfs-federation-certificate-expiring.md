@@ -1,5 +1,5 @@
 ---
-title: انتهاء صلاحية شهادة الاتحاد ADFS
+title: انتهاء صلاحيه شهادة الاتحاد ADFS
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -14,20 +14,20 @@ ms.custom:
 - "1300012"
 ms.assetid: 26a7eebb-1424-4ddc-a123-af1cc94bc40f
 ms.openlocfilehash: eafd31e91340b41b7948fb1fe62889731b816d9a
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36737176"
 ---
-# <a name="adfs-federation-certificate-expiring"></a>انتهاء صلاحية شهادة الاتحاد ADFS
+# <a name="adfs-federation-certificate-expiring"></a>انتهاء صلاحيه شهادة الاتحاد ADFS
 
-لحل هذه المشكلة، اتبع الخطوات التالية:
+لحل هذه المشكلة ، اتبع الخطوات التالية:
   
-1. تثبيت الوحدة النمطية لـ Microsoft Azure Active Directory لـ Windows PowerShell على الكمبيوتر (إذا لم يتم تثبيت الوحدة النمطية بالفعل). للقيام بذلك، انتقل إلى [إدارة إعلان Azure باستخدام Windows PowerShell](https://aka.ms/aadposh).
+1. تثبيت Microsoft Azure Active Directory الوحدة النمطية ل Windows PowerShell علي الكمبيوتر (إذا لم تكن الوحدة النمطية مثبته بالفعل). للقيام بذلك ، انتقل إلى [أداره الإعلان Azure باستخدام Windows PowerShell](https://aka.ms/aadposh).
 
-2. اتبع الخطوات الموجودة في "السيناريو 1: انتهت صلاحية شهادة توقيع الرمز المميز AD FS" من ["كان هناك مشكلة في الوصول إلى الموقع" خطأ من AD FS عند تسجيل دخول مستخدم متحد إلى Office 365 أو Azure إينتوني](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).
+2. اتبع الخطوات الموجودة في "السيناريو 1: انتهت صلاحيه شهادة توقيع الرمز المميز AD FS" المقطع من ["كان هناك مشكله في الوصول إلى الموقع" خطا من AD FS عندما يقوم مستخدم متحد بتسجيل الدخول إلى Office 365 أو Azure اينتوني](https://support.microsoft.com/help/2713898/there-was-a-problem-accessing-the-site-error-from-ad-fs-when-a-federat).
 
-3. اتبع الخطوات الموجودة في [تحديث أو إصلاح إعدادات مجال متحد في Office 365 أو Azure أو إينتوني](https://docs.microsoft.com/office365/troubleshoot/security/update-federated-domain-office-365).
+3. اتبع الخطوات التالية في [تحديث أو إصلاح إعدادات مجال المتحدة في Office 365 أو Azure اينتوني](https://docs.microsoft.com/office365/troubleshoot/security/update-federated-domain-office-365).
 
-    لمزيد من المعلومات حول تجديد شهادات الاتحاد، راجع [تجديد شهادات الاتحاد لOffice 365 و Azure Active Directory](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).
+    لمزيد من المعلومات حول تجديد شهادات الاتحاد ، راجع [تجديد شهادات الاتحاد ل Office 365 والدليل النشط Azure](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-o365-certs).

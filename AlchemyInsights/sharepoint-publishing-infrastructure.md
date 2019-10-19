@@ -1,5 +1,5 @@
 ---
-title: البنية التحتية للنشر مع موقع اتصال
+title: البنية التحتية للنشر مع موقع الاتصالات
 ms.author: pebaum
 author: Techwriter40
 ms.audience: ITPro
@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: de63d2e1-f053-40ed-ac1a-041ddafefba0
 ms.openlocfilehash: 1d5eca87678ad0588c3dcd7edbf499e13baf09d9
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36750046"
 ---
-# <a name="sharepoint-publishing-infrastructure"></a>البنية التحتية للنشر في SharePoint
+# <a name="sharepoint-publishing-infrastructure"></a>بنيه أساسيه للنشر في SharePoint
 
 
-يتضمن SharePoint مجموعة كلاسيكية من الميزات التي تمكنك من تأليف صفحات ويب الغنية ونشرها للإنترانت. تنشيط البنية التحتية للنشر SharePoint على مستوى مجموعة الموقع لتشغيلها.
+يتضمن SharePoint مجموعه كلاسيكية من الميزات التي تمكنك من تاليف ونشر صفحات ويب الغنية لإنترانت الخاصة بك. تنشيط البنية الاساسيه للنشر SharePoint علي مستوي مجموعه الموقع لتشغيلها.
 
 لمزيد من المعلومات يرجى زيارة الروابط أدناه.
 
@@ -30,5 +30,5 @@ ms.locfileid: "36750046"
 
 - تتضمن قوالب موقع النشر الكلاسيكية ميزات النشر بشكل افتراضي.
 
-- لا تتوفر ميزات النشر الكلاسيكية على المواقع الحديثة. توفر المواقع الحديثة بديلاً أحدث بشكل افتراضي.
+- لا تتوفر ميزات النشر الكلاسيكية في المواقع الحديثة. توفر المواقع الحديثة بديلا أحدث بشكل افتراضي.
 

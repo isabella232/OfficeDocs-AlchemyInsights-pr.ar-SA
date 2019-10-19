@@ -1,5 +1,5 @@
 ---
-title: المستخدم الخارجي غير قادر على قبول دعوة مشاركة
+title: المستخدم الخارجي غير قادر علي قبول دعوه مشاركه
 ms.author: efrene
 author: efrene
 ms.date: 8/8/2019
@@ -13,21 +13,21 @@ ms.custom:
 - "9000191"
 - "2383"
 ms.openlocfilehash: 72e9321c43e33e3ea8ef50592d5d4ea5d9568d7c
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36735880"
 ---
-# <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a>المستخدم الخارجي غير قادر على قبول دعوة مشاركة
+# <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a>المستخدم الخارجي غير قادر علي قبول دعوه مشاركه
 
-إذا كان مستخدم خارجي غير قادر على قبول دعوة مشاركة، الرجاء محاولة زيارة الروابط أدناه: 
+إذا كان مستخدم خارجي غير قادر علي قبول دعوه مشاركه ، يرجى محاولة زيارة الروابط أدناه: 
 
-- [أخطاء "تم رفض الوصول" أو "تحتاج إلى إذن للوصول إلى هذا الموقع" أو أخطاء "المستخدم غير موجود في الدليل" في SharePoint Online و OneDrive للعمل](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- [خطأ "نُهج مؤسستك لا تسمح لك بالمشاركة مع هؤلاء المستخدمين" عند مشاركة عنصر أو موقع في SharePoint Online أو أندريف للعمل](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- [يتم رمادي خيارات المشاركة عند المشاركة من SharePoint عبر الإنترنت أو أندريف](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
-- [ظهور رسالة خطأ عند قبول مستخدم خارجي دعوة SharePoint عبر الإنترنت باستخدام حساب آخر](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
-- [أخطاء مشاركة OSE في SharePoint وOneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
+- ["تم رفض الوصول" ، "تحتاج إلى اذن للوصول إلى هذا الموقع" ، أو "المستخدم لم يتم العثور عليه في الدليل" أخطاء في SharePoint علي الإنترنت و اندريف للعمل](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- [خطا "نهج مؤسستك لا تسمح لك بالمشاركة مع هؤلاء المستخدمين" عند مشاركه عنصر أو موقع في SharePoint علي الإنترنت أو اندريف للعمل](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [يتم الرمادي خيارات المشاركة عند المشاركة من SharePoint علي الإنترنت أو اندريف](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+- [ظهور رسالة خطا عند قبول مستخدم خارجي دعوه SharePoint علي الإنترنت باستخدام حساب آخر](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
+- [أخطاء مشاركه OSE في SharePoint و OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
 
 
 

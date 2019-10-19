@@ -1,5 +1,5 @@
 ---
-title: تعليق التثبيت أو تعثره
+title: تعليق التثبيت أو يحصل عالقا
 ms.author: janellem
 author: janellem
 ms.date: 1/17/2019
@@ -13,27 +13,27 @@ ms.custom:
 - "2000020"
 ms.assetid: b54d4f87-e366-47e5-b3d8-42477f72f6a3
 ms.openlocfilehash: e72aa630a6ef3998b4f20f1a75c9826a23494705
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36735412"
 ---
-# <a name="office-installation-hangs-or-gets-stuck"></a>تعليق تثبيت Office أو تعثر
+# <a name="office-installation-hangs-or-gets-stuck"></a>توقف تثبيت Office أو يحصل عالقا
 
-قد تشاهد هذا السلوك بسبب إعدادات الاتصال بالشبكة أو برامج مكافحة الفيروسات أو Windows Update على جهاز الكمبيوتر الخاص بك. فيما يلي بعض الأشياء التي يمكنك محاولة إصلاح المشكلة.
+قد تشاهد هذا السلوك بسبب اتصال الشبكة أو برنامج مكافحه الفيروسات أو إعدادات Windows Update علي جهاز الكمبيوتر الخاص بك. واليك بعض الأشياء التي يمكنك محاولة إصلاح المشكلة.
   
-- إعادة تشغيل جهاز الكمبيوتر الخاص بك والتحقق مما إذا كان Office مثبتاً
+- أعاده تشغيل جهاز الكمبيوتر والتحقق من تثبيت Office
 
 - استخدام اتصال سلكي
 
-- إذا كنت على اتصال إنترنت بطيء، قم بتثبيت Office [باستخدام مثبت Office دون اتصال](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
+- إذا كنت علي اتصال بطيء بالإنترنت ، فقم بتثبيت Office [باستخدام مثبت office دون اتصال](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
 
-- إيقاف تشغيل برنامج مكافحة الفيروسات مؤقتاً
+- إيقاف تشغيل برنامج مكافحه الفيروسات مؤقتا
 
-- تشغيل الإصلاح عبر الإنترنت من "لوحة التحكم"
+- تشغيل الإصلاح عبر الإنترنت من لوحه التحكم
 
-- إزالة Office وإعادة تثبيته
+- أزاله Office وأعاده تثبيته
 
-[Office يستغرق وقتا طويلا لتثبيت](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
+[يستغرق المكتب وقتا طويلا لتثبيت](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
   

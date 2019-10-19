@@ -1,5 +1,5 @@
 ---
-title: فتح باستخدام مستكشف زر مفقود
+title: فتح باستخدام زر مستكشف مفقود
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 712afc25-b9db-4f55-bf79-9f4e5861ab9f
 ms.openlocfilehash: 35b12036dfa056b4c5928223133e58259d7edc3e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36543048"
 ---
-# <a name="the-open-with-explorer-button-is-missing"></a>فتح باستخدام زر مستكشف مفقود
+# <a name="the-open-with-explorer-button-is-missing"></a>الزر فتح باستخدام المستكشف مفقود
 
-لا يظهر الزر **فتح باستخدام مستكشف** في التجربة الحديثة SharePoint وأندريف. لفتح مكتبة مستندات في "مستكشف الملفات"، الاستعراض في Internet Explorer وحدد القائمة عرض \> **طريقة عرض في "مستكشف الملفات"**. لا يتوفر خيار **عرض في "مستكشف الملفات"** في Microsoft الحافة أو جوجل كروم أو فايرفوكس. 
+لا يظهر الزر **فتح باستخدام المستكشف** في التجربة الحديثة ل SharePoint و OneDrive. لفتح مكتبه مستندات في "مستكشف الملفات" ، استعرضها في internet explorer وحدد \> طريقه عرض قائمه عرض **في مستكشف الملفات**. لا يتوفر الخيار **عرض في مستكشف الملفات** في Microsoft Edge أو Google Chrome أو Firefox. 
   
 > [!NOTE]
-> فتح باستخدام مستكشف معتمد فقط من خلال Internet Explorer. بدلاً من ذلك، [مزامنة الملفات SharePoint باستخدام عميل المزامنة أندريف الجديدة](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) التي توفر [الملفات عند الطلب](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). الوصول إلى كافة الملفات في أندريف دون استخدام مساحة للتخزين المحلي. 
+> يتم دعم فتح باستخدام مستكشف فقط من خلال Internet Explorer. بدلا من ذلك ، [مزامنة ملفات SharePoint مع عميل المزامنة اندريف الجديد](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) الذي يوفر [الملفات عند الطلب](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). الوصول إلى كافة الملفات الخاصة بك في OneDrive دون استخدام مساحة التخزين المحلية. 
   
 

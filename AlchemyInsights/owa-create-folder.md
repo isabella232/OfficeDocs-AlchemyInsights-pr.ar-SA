@@ -1,5 +1,5 @@
 ---
-title: إنشاء مجلد في برنامج Outlook على ويب
+title: إنشاء مجلد في Outlook علي ويب
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,15 +13,15 @@ ms.custom:
 - "8000009"
 - "1994"
 ms.openlocfilehash: 75e64ae33750efaeb3a56dde0b1a27f9bafb8b77
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36557236"
 ---
 # <a name="create-a-folder"></a>إنشاء مجلد
 
-1. في أسفل جزء القراءة في Outlook على الويب، حدد **مجلد جديد**. قد تحتاج إلى التمرير لأسفل في جزء المجلدات لعرض **مجلد جديد** الزر.
-1. في مربع النص، أدخل اسماً للمجلد ومن ثم اضغط Enter.
+1. في أسفل جزء المجلد في Outlook علي الويب ، حدد **مجلد جديد**. قد تحتاج إلى التمرير لأسفل في جزء المجلد لمشاهده زر **المجلد الجديد** .
+1. في مربع النص ، ادخل اسما للمجلد ثم اضغط علي Enter.
 
-لمزيد من المعلومات، راجع [العمل مع مجلدات الرسائل في Outlook على الويب](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
+لمعرفه المزيد ، راجع [العمل مع مجلدات الرسائل في Outlook علي الويب](https://support.office.com/article/ae0f10d6-54e7-4f29-acd3-78cdc3fdcb9f).
