@@ -1,5 +1,5 @@
 ---
-title: 911 إيقاف تشغيل علبة الوارد المركزة في العميل
+title: 911 إيقاف تشغيل البريد الوارد المركز في العميل
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,14 +13,14 @@ ms.custom:
 - "1800019"
 ms.assetid: 192cdbaa-e106-49a1-9ecd-f6a6fa3a05a0
 ms.openlocfilehash: 20f28659b2b4a3d8920c2143cfa25bc109fc0096
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36742360"
 ---
-# <a name="turn-off-focused-inbox-in-email-clients"></a>إيقاف تشغيل علبة الوارد المركزة في عملاء البريد الإلكتروني
+# <a name="turn-off-focused-inbox-in-email-clients"></a>إيقاف تشغيل علبه الوارد المركزة في عملاء البريد الكتروني
 
-لإيقاف تشغيل علبة الوارد المركزة في Outlook 2016، Outlook على شبكة الإنترنت، Outlook.com/Hotmail.com، Outlook 2016 لنظام التشغيل Mac، أو البريد لنظام التشغيل Windows 10، راجع [إيقاف تشغيل علبة الوارد المركزة](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx).
+لإيقاف تشغيل "البريد الوارد المركز" في Outlook 2016 ، Outlook علي الويب ، Outlook.com/Hotmail.com ، Outlook 2016 لنظام التشغيل Mac ، أو البريد ل Windows 10 ، راجع [إيقاف تشغيل البريد الوارد المركز](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2.aspx).
 
-لإيقاف تشغيل علبة الوارد المركزة لكل شخص في المؤسسة، راجع [تكوين علبة الوارد المركزة لكل شخص في مؤسستك](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).
+لإيقاف تشغيل "البريد الوارد المركز" لكل شخص في المؤسسة ، راجع [تكوين علبه الوارد المركزة لكل شخص في مؤسستك](https://docs.microsoft.com/office365/admin/setup/configure-focused-inbox).

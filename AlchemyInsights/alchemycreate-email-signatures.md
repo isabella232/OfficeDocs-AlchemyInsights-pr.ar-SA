@@ -1,5 +1,5 @@
 ---
-title: الكيمياء-إنشاء بريد التواقيع
+title: كيمياء-إنشاء تواقيع البريد الكتروني
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -10,18 +10,18 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 563c1541-b4d3-4f7a-aaec-8b3b1477e517
 ms.openlocfilehash: 32b4cdb51aaf065d7da5a1021b6970d50815cc9e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36505530"
 ---
-# <a name="create-email-signatures"></a>إنشاء تواقيع البريد الإلكتروني
+# <a name="create-email-signatures"></a>إنشاء تواقيع البريد الكتروني
 
-ستساعدك هذه المواضيع في إنشاء تواقيع البريد الإلكتروني:
+ستساعدك هذه المواضيع في إنشاء تواقيع البريد الكتروني:
   
-- إنشاء توقيع البريد إلكتروني للرسائل الخاصة بك: [إنشاء وإضافة توقيع إلى الرسائل](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx) أو [إنشاء وإضافة توقيع البريد إلكتروني في Outlook Web App](https://support.office.com/article/0f230564-11b9-4239-83de-f10cbe4dfdfc.aspx).
+- إنشاء توقيع بريد الكتروني للرسائل الخاصة بك: [إنشاء توقيع وأضافه إلى الرسائل](https://support.office.com/article/8ee5d4f4-68fd-464a-a1c1-0e1c80bb27f2.aspx) أو [إنشاء توقيع بريد الكتروني وأضافه في Outlook Web App](https://support.office.com/article/0f230564-11b9-4239-83de-f10cbe4dfdfc.aspx).
     
-- إنشاء توقيع بريد إلكتروني عمومي لكافة الرسائل المرسلة من الشركة (تعرف أيضا بتنازل): [تخلى رسالة المؤسسة أو التواقيع تذييلات، أو الرؤوس في Office 365](https://go.microsoft.com/fwlink/p/?linkid=391096).
+- إنشاء توقيع بريد الكتروني عمومي لكافة الرسائل المرسلة من شركتك (المعروف أيضا باسم اخلاء مسؤوليه): [اخلاء مسئوليه الرسالة علي مستوي المؤسسة أو التواقيع أو التذييلات أو الرؤوس في Office 365](https://go.microsoft.com/fwlink/p/?linkid=391096).
     
 

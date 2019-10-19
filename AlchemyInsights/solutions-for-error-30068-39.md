@@ -1,5 +1,5 @@
 ---
-title: حلول الخطأ 30068-39
+title: حلول للخطا 30068-39
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -14,26 +14,26 @@ ms.custom:
 - "2000020"
 ms.assetid: 92f0ef7c-4a39-4885-994d-473a4d13accd
 ms.openlocfilehash: 98f83d7351bd6dd608c8dc8565c8050cc29dfcbc
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36743332"
 ---
-# <a name="solutions-for-error-30068-39"></a>حلول الخطأ 30068-39
+# <a name="solutions-for-error-30068-39"></a>حلول للخطا 30068-39
 
-حاول هذه الحلول لإصلاح الخطأ [30068-39:](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA)
+جرب هذه الحلول لإصلاح الخطا [30068-39](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA):
   
-- قم [بإعادة](https://portal.office.com/OLS/MySoftware.aspx)تشغيل جهاز الكمبيوتر وحاول تثبيت Office .
+- أعد تشغيل الكمبيوتر وحاول [تثبيت Office](https://portal.office.com/OLS/MySoftware.aspx).
 
-- تحقق مما إذا تم [تعطيل خدمة](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) **تشغيل Microsoft** وإذا تم تعطيلها، قم بتغيير الحالة إلى **يدوي** أو **تلقائي**.
+- تحقق من [تعطيل خدمه](https://support.office.com/article/963ca3e4-217a-4c16-9c02-ff946548357b?wt.mc_id=Alchemy_ClientDIA) **التشغيل الفوري ل Microsoft** وإذا تم تعطيلها ، قم بتغيير الحالة إلى **يدوي** أو **تلقائي**.
 
-- قم بتنزيل وتثبيت [مساعد الدعم والاسترداد](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+- تحميل وتثبيت [مساعد الدعم والاسترداد](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. عند فتحه، من **إلغاء تثبيت منتجات Office** حدد الإصدار الذي تريد إلغاء تثبيته وحدد **التالي**.
+1. عند فتحها ، من **إلغاء تثبيت منتجات Office** حدد الإصدار الذي تريد إلغاء تثبيت وحدد **التالي**.
 
-2. استمر في المتابعة خلال الشاشات ثم أعد تشغيل الكمبيوتر عند المطالبة بذلك.
+2. متابعه الانتقال من خلال الشاشات وأعاده تشغيل الكمبيوتر عند المطالبة.
 
-    بعد إعادة التشغيل، يتم إعادة فتح "مساعد الدعم والاسترداد" تلقائيًا لإكمال عملية إلغاء التثبيت.
+    بعد أعاده التشغيل ، يقوم "مساعد الدعم والاسترداد" تلقائيا باعاده فتح لإكمال عمليه إلغاء التثبيت.
 
-3. اتبع المطالبات المتبقية ثم [إعادة تثبيت Office](https://portal.office.com/OLS/MySoftware.aspx) أو إغلاق المساعد.
+3. اتبع المطالبات المتبقية ، [وأعاده تثبيت Office](https://portal.office.com/OLS/MySoftware.aspx) أو إغلاق المساعد.

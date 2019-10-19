@@ -1,5 +1,5 @@
 ---
-title: الوصول المشروط مع إينتوني
+title: الوصول المشروط مع اينتوني
 ms.author: pebaum
 author: pebaum
 ms.date: 10/11/2018
@@ -9,26 +9,26 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: aecba7c5-e86d-4ec8-9d44-679f5a3d659d
 ms.openlocfilehash: e147e7460ee6a786e577a43c0b8355fc27ee367b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36504981"
 ---
-# <a name="conditional-access-with-intune"></a>الوصول المشروط مع إينتوني
+# <a name="conditional-access-with-intune"></a>الوصول المشروط مع اينتوني
 
-يتطلب استخدام **الوصول المشروط** مع إينتوني ثلاث خطوات: 
+يتطلب استخدام **الوصول المشروط** مع اينتوني 3 خطوات: 
   
-- إنشاء **نهج الوصول الشرطي** بتعريف الموارد التي يتم حمايتها، وما هي الشروط اللازم استيفاؤها للوصول إلى هذه الموارد. على سبيل المثال، جهاز يجب أن تكون متوافقة مع قبل الوصول إلى البريد الإلكتروني. 
+- إنشاء **نهج الوصول المشروط** الذي يحدد الموارد المحمية ، وما هي الشروط التي يجب تلبيتها للوصول إلى تلك الموارد. علي سبيل المثال ، يجب ان يكون الجهاز متوافقا قبل الوصول إلى البريد الكتروني للشركة. 
     
-- إنشاء **نهج التوافق** لتحديد الإعدادات التي يجب استيفاؤها قبل تعتبر متوافقة مع الجهاز. على سبيل المثال، يجب أن يكون جهاز pin على الأقل 6 أرقام قبل أن يعتبر متوافق. 
+- إنشاء **نهج توافق** لتعريف الإعدادات التي يجب ان تتحقق قبل اعتبار الجهاز متوافقا. علي سبيل المثال ، يجب ان يكون للجهاز دبوس بسته أرقام علي الأقل قبل اعتباره متوافقا. 
     
-- ضمان **توافق السياسات** و **نهج الوصول الشرطي** تستهدف مجموعات المستخدمين المطلوب. قد يتطلب هذا إنشاء مجموعات معينة من المستخدمين في Active Directory Azure. 
+- ضمان استهداف **سياسات التوافق** **وسياسات الوصول المشروط** للمجموعات المطلوبة من المستخدمين. قد يتطلب هذا إنشاء مجموعات معينه من المستخدمين في "Active Directory Azure". 
     
-مزيد من المعلومات:
+أقرا المزيد:
   
-- [أفضل ممارسات الوصول الشرطي](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
+- [أفضل ممارسات الوصول المشروط](https://docs.microsoft.com/azure/active-directory/conditional-access/best-practices)
     
-- [الشروع في العمل مع "الوصول المشروط"](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
+- [الشروع في التشغيل باستخدام الوصول المشروط](https://docs.microsoft.com/azure/active-directory/active-directory-conditional-access-azure-portal-get-started)
     
 

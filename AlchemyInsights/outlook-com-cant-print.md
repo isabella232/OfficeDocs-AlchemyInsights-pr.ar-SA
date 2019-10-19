@@ -12,12 +12,12 @@ ms.custom:
 - "8000046"
 - "2507"
 ms.openlocfilehash: c2ce75066631e822c4cda2f7fa4019e20632cea0
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36547910"
 ---
-# <a name="unable-to-print"></a>غير قادر على طباعة
+# <a name="unable-to-print"></a>غير قادر علي الطباعة
 
-نحن على علم بمشكلة حيث يتعذر طباعة بعض المستخدمين عند استخدام مستعرضات Safari أو حافة. بينما نعمل على إصلاح هذا، الرجاء استخدام مستعرض آخر. نأسف للإزعاج.
+نحن علي علم بمشكله يتعذر علي بعض المستخدمين طباعتها عند استخدام متصفحات Safari أو Edge. في حين اننا نعمل علي إصلاح لهذا ، يرجى استخدام متصفح آخر. نعتذر عن الإزعاج.

@@ -1,5 +1,5 @@
 ---
-title: تتصل مجموعة موقع فريق SharePoint الكلاسيكية
+title: توصيل موقع فريق SharePoint الكلاسيكي بمجموعه
 ms.author: kaarins
 author: kaarins
 ms.date: 6/29/2018
@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: a1f6b170-bead-4e1c-b119-f6affd2b2264
 ms.openlocfilehash: 389880415621b7623c9f7ea9f43417eab878806a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36504738"
 ---
-# <a name="connect-classic-sharepoint-team-sites-to-new-office-365-groups"></a>الاتصال التقليدية مواقع SharePoint لمجموعات Office 365 جديدة
+# <a name="connect-classic-sharepoint-team-sites-to-new-office-365-groups"></a>ربط مواقع فريق SharePoint الكلاسيكية بمجموعات Office 365 الجديدة
 
-لتقدير ما إذا كانت مجموعات موقع SharePoint الخاص بك جاهز للاتصال بمجموعات Office 365، استخدم [أداة الماسح الضوئي تحديث SharePoint](https://go.microsoft.com/fwlink/?linkid=873066). يمكن أن تساعدك هذه الأداة خطة استراتيجية تحديث الموقع الخاص بك، وسيتم إنشاء تقرير متعمق، بما في ذلك المجالات التي تحتاج إلى الانتباه.
+لتقييم ما إذا كانت مجموعات موقع SharePoint جاهزه للاتصال بمجموعات Office 365 ، استخدم [أداه التحديث الماسح الضوئي ل sharepoint](https://go.microsoft.com/fwlink/?linkid=873066). يمكن ان تساعدك هذه الاداه في تخطيط استراتيجية تحديث موقعك ستقوم بإنشاء تقرير معمق ، بما في ذلك المجالات التي تحتاج إلى اهتمام.
   
-إذا كنت تريد السماح بالاتصال بمواقع الأفرقة التقليدية مجموعات جديدة من أمر قائمة جديد نحن إضافة مسؤولي مجموعة الموقع، لا يلزم القيام بأي شيء. إذا، على الرغم من ذلك، إذا كنت تريد تعطيل هذا الخيار، سوف تحتاج إلى تغيير الإعداد الافتراضي. [تعلم كيف](https://go.microsoft.com/fwlink/?linkid=2004316). ملاحظة هذا العام والمسؤولين SharePoint في Office 365 ستكون دائماً قادرة على ربط المواقع لمجموعات جديدة باستخدام PowerShell cmdlet أو API.
+إذا كنت تريد السماح لمسؤولي مجموعه الموقع بتوصيل مواقع الفريق الكلاسيكية بمجموعات جديده من أمر قائمه جديد ، فانك لا تحتاج إلى القيام بأي شيء. ومع ذلك ، إذا كنت تريد تعطيل هذا الخيار ، ستحتاج إلى تغيير الاعداد الافتراضي. [تعلم كيف](https://go.microsoft.com/fwlink/?linkid=2004316). لاحظ ان العمومية و SharePoint المسؤولين في Office 365 سيكون دائما قادرا علي الاتصال المواقع إلى مجموعات جديده باستخدام cmdlet PowerShell أو API.
   
 
