@@ -13,19 +13,19 @@ ms.custom:
 - "9000695"
 - "2607"
 ms.openlocfilehash: 9aa41ee8302413fb5c24eca3e7caaf1336fb65ad
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36739120"
 ---
 # <a name="install-project-professional"></a>تثبيت المشروع الفني
 
-راجع [تثبيت المشروع](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) لمعرفة كيفية تثبيت إصدار الاشتراك من Project Online وإصدار غير الاشتراك من Project 2019 أو 2016 أو 2013. 
+راجع [تثبيت project](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) للتعرف علي كيفيه تثبيت إصدار الاشتراك من project Online ، وإصدار غير الاشتراك من project 2019 أو 2016 أو 2013. 
 
-بالنسبة لـ Project 2010 أو 2007، اتبع الخطوات الموجودة في [Office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) أو [Office 2007](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657). 
+للمشروع 2010 أو 2007 ، اتبع الخطوات التالية في [office 2010](https://support.office.com/article/install-office-2010-1b8f3c9b-bdd2-4a4f-8c88-aa756546529d) أو [office 2007](https://support.office.com/article/install-office-2007-88a8e329-3335-4f82-abb2-ecea3e319657). 
 
-يتم بيع المشروع كتطبيق مستقل، لذلك إذا لم يكن لديك حتى الآن، [شراء أو محاولة المشروع](https://products.office.com/project). 
+يباع المشروع كتطبيق قائم بذاته ، حتى إذا لم يكن لديك حتى الآن ، [شراء أو محاولة المشروع](https://products.office.com/project). 
 
 
 

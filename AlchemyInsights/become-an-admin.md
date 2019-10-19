@@ -1,5 +1,5 @@
 ---
-title: كن مشرفاً
+title: تصبح مسؤولا
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.date: 4/6/2018
@@ -13,14 +13,14 @@ ms.custom:
 - "71"
 - "13"
 ms.openlocfilehash: d43ada137a906f0a4dade37bf6b30b597fd64576
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36736888"
 ---
-# <a name="become-an-admin"></a>كن مشرفاً
+# <a name="become-an-admin"></a>تصبح مسؤولا
 
-لتولي دور المسؤول لهذه المؤسسة، تحتاج إلى تولي المستأجر.
+للقيام بدور المسؤول لهذه المؤسسة ، تحتاج إلى السيطرة علي المستاجر.
   
-اتبع الإرشادات الموجودة في هذا الدليل: [قم باستيلاء مسؤول في Office 365](https://docs.microsoft.com/office365/admin/misc/become-the-admin)
+اتبع الإرشادات الواردة في هذا الدليل: [هل استيلاء المسؤول في Office 365](https://docs.microsoft.com/office365/admin/misc/become-the-admin)

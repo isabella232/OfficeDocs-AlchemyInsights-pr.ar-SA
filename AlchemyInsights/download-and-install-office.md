@@ -1,5 +1,5 @@
 ---
-title: تنزيل وتثبيت Office
+title: تحميل وتثبيت Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c040c5d7-ff1c-4a29-91e7-a6ad7c3b410b
 ms.openlocfilehash: 0cf7d60fb0e2d5a64b8df07dbb07060de3e111a9
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36529474"
 ---
-# <a name="download-and-install-office"></a>تنزيل وتثبيت Office
+# <a name="download-and-install-office"></a>تحميل وتثبيت Office
 
-ولا يشمل الاشتراك **أساسيات العمل** تطبيقات Office. للحصول على Office، ستحتاج إلى ترقية الاشتراك **العمل** أو **الأعمال الأولية** . تحقق من الاشتراكات المتوفرة مع Office هنا: [خطط عمل Office 365](https://products.office.com/compare-all-microsoft-office-products?tab=2)
+لا يتضمن اشتراك **أساسيات الاعمال** الخاصة بك تطبيقات Office. من أجل الحصول علي Office ، ستحتاج إلى الترقية إلى اشتراك **الاعمال** أو **الاعمال المميزة** . تحقق من الاشتراكات المتوفرة مع Office هنا: [مكتب 365 خطط الاعمال](https://products.office.com/compare-all-microsoft-office-products?tab=2)
   
 

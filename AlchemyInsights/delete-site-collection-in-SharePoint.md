@@ -1,5 +1,5 @@
 ---
-title: حذف مجموعة موقع في SharePoint
+title: حذف مجموعه موقع في SharePoint
 ms.author: pebaum
 author: Techwriter40
 ms.date: 6/20/2019
@@ -9,23 +9,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
 ms.openlocfilehash: 09c6396e62f79b4ea2922022b60da7dc91dc58d2
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36748167"
 ---
-# <a name="delete-a-site-collection"></a>حذف مجموعة موقع
+# <a name="delete-a-site-collection"></a>حذف مجموعه مواقع
 
-عندما تقوم، كمسؤول عمومي أو مسؤول SharePoint في Office 365، بحذف موقع (يسمى سابقاً "مجموعة موقع")، يتم نقله إلى "سلة المحذوفات" مجموعة الموقع والاحتفاظ به لمدة 93 يوماً. 
+عندما تقوم ، كمسؤول عمومي أو SharePoint في Office 365 ، بحذف موقع (يسمي سابقا "مجموعه الموقع") ، يتم نقله إلى سله محذوفات مجموعه الموقع والاحتفاظ بها لمده 93 يوما. 
 
-عند حذف موقع، يتم حذف كل شيء داخله بما في ذلك:
+عند حذف موقع ، يتم حذف كل شيء ضمنه بما في ذلك:
 
 - مكتبات المستندات والملفات.
-- سرد وبيانات القوائم.
-- إعدادات الموقع ومحفوظاته.
-- أي مواقع فرعية ومحتوياتها.
+- سرد وسرد البيانات.
+- إعدادات الموقع والمحفوظات.
+- اي مواقع فرعيه ومحتوياتها.
 
-يجب عليك إعلام مسؤولي الموقع وأي من مالكي المواقع الفرعية قبل حذف موقع حتى يتمكنوا من نقل بياناتهم إلى موقع آخر، وإخبار المستخدمين أيضًا متى سيتم حذف المواقع. 
+يجب اعلام مسؤولي الموقع وأي مالكي مواقع فرعيه قبل حذف أحد المواقع بحيث يمكنهم نقل بياناتهم إلى موقع آخر ، كما يجب إبلاغ المستخدمين عند حذف المواقع. 
 
-لمزيد من المعلومات، راجع [حذف مجموعة موقع](https://docs.microsoft.com/sharepoint/delete-site-collection). 
+لمزيد من المعلومات ، راجع [حذف مجموعه موقع](https://docs.microsoft.com/sharepoint/delete-site-collection). 

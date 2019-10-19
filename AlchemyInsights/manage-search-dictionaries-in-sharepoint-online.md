@@ -1,5 +1,5 @@
 ---
-title: إدارة قواميس البحث في SharePoint على الإنترنت
+title: أداره قواميس البحث في SharePoint علي الإنترنت
 ms.author: pebaum
 author: Techwriter40
 ms.date: 11/27/2018
@@ -12,15 +12,15 @@ ms.custom:
 - "5200021"
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
 ms.openlocfilehash: d375ed80ba4c58b32a830f140a8f18ba50008bd6
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36754395"
 ---
-# <a name="manage-search-dictionaries"></a>إدارة قواميس البحث
+# <a name="manage-search-dictionaries"></a>أداره قواميس البحث
 
-تتم إدارة قواميس البحث في SharePoint عبر الإنترنت في مخزن مصطلحات SharePoint عبر الإنترنت الموجود في مركز مسؤول SharePoint الجديد. لمزيد من المعلومات حول كيفية إضافة قواميس البحث أو تحريرها، راجع [إدارة قواميس البحث](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).
+تتم أداره قواميس البحث في SharePoint علي الإنترنت في مخزن المصطلحات SharePoint علي الإنترنت الذي يقع في مركز مسؤول SharePoint الجديد. لمزيد من المعلومات حول كيفيه أضافه قواميس البحث أو تحريرها ، راجع [أداره قواميس البحث](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).
   
-إذا كنت لا ترى مجموعة مصطلحات قاموس بحث تظهر في مخزن المصطلح، الرجاء الانتظار 24 ساعة. إذا كان القاموس لا يزال لا يظهر بعد 24 ساعة، يرجى تسجيل تذكرة دعم.
+إذا كنت لا تري تعيين مصطلح القاموس البحث تظهر في مخزن المدى ، يرجى الانتظار 24 ساعة. إذا كان القاموس لا يزال لا يظهر بعد 24 ساعة ، يرجى تسجيل تذكره الدعم.
   

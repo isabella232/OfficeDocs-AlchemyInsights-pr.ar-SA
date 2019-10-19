@@ -1,5 +1,5 @@
 ---
-title: كيفية استخدام مخزن SharePoint على الإنترنت مصطلح
+title: كيفيه استخدام مخزن SharePoint علي الإنترنت الأجل
 ms.author: pebaum
 author: Techwriter40
 ms.date: 12/17/2018
@@ -12,17 +12,17 @@ ms.custom:
 - "5200021"
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
 ms.openlocfilehash: 2b785f475c7f673acff3dd419883b136d7feb92e
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36754827"
 ---
-# <a name="how-to-use-the-sharepoint-online-term-store"></a>كيفية استخدام مخزن SharePoint على الإنترنت مصطلح
+# <a name="how-to-use-the-sharepoint-online-term-store"></a>كيفيه استخدام مخزن SharePoint علي الإنترنت الأجل
 
-يتوفر مخزن المدة إلى مسؤول عمومي Office 365 ومسؤول SharePoint وإدارة مخزن المدة ويمكن العثور عليه في مركز مسؤول SharePoint Online الجديد.
+يتوفر "مخزن المصطلحات" إلى Office 365 الاداره العمومية ومسؤول SharePoint ومسؤولي مخزن المصطلحات ويمكن العثور عليها في مركز أداره SharePoint علي الإنترنت الجديد.
   
-لمزيد من المعلومات حول كيفية استخدام مخزن SharePoint على الإنترنت والتصنيف داخل SharePoint على الإنترنت، راجع [مقدمة إلى بيانات التعريف المدارة](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).
+لمزيد من المعلومات حول كيفيه استخدام مخزن المصطلحات SharePoint علي الإنترنت والتصنيف داخل SharePoint علي الإنترنت ، راجع [مقدمه إلى بيانات التعريف التي تمت ادارتها](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).
   
-إذا كان لديك مشكلة مع المصطلحات لا تظهر أو تظهر بشكل متقطع، نوصي بالانتظار 24 ساعة، ثم قم بتسجيل طلب دعم إذا استمرت المشكلة. على الرغم من أن 24 ساعة يمكن أن يكون وقتاً طويلاً، يمكن أن يكون هناك مشكلة التخزين المؤقت أو أننا قد تعمل بالفعل على حل لهذه المشكلة.
+إذا كنت تواجه مشكله مع عبارات لا تظهر أو تظهر بشكل متقطع ، نوصي بالانتظار 24 ساعة ثم قم بتسجيل طلب دعم إذا استمرت المشكلة. علي الرغم من ان 24 ساعة يمكن ان يكون وقتا طويلا ، يمكن ان يكون هناك مشكله في التخزين المؤقت أو اننا قد يكون بالفعل العمل علي حل لهذه المشكلة.
   

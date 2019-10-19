@@ -7,24 +7,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6b695be8-eaf5-44ff-b0ae-1e0d89e7ab36
-ms.openlocfilehash: 695ad14555e92ccf5f1566012e4b4fc470a2630e
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.custom:
+- "1828"
+- "9000231"
+ms.openlocfilehash: 32124a1fa46d5a42265e8ce326ae4effa19ca223
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36750039"
+ms.lasthandoff: 10/18/2019
+ms.locfileid: "36818773"
 ---
-# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>متى تتم مزامنة تغييرات ملف التعريف الخاص بي مع تطبيق ملف تعريف مستخدم SharePoint؟
+# <a name="when-do-my-profile-changes-sync-to-the-sharepoint-user-profile-application"></a>عند تغيير ملف التعريف الخاص بي المزامنة إلى تطبيق التشكيل الجانبي للمستخدم SharePoint ؟
 
-تتطلب مزامنة صورة ملف التعريف في SharePoint على الإنترنت إجراء المستخدم لبدء مزامنة الصورة الخاصة بهم. لا توجد مزامنة تلقائية للصور إلى SharePoint على الإنترنت. مزامنة SharePoint عبر الإنترنت فقط الصور من Exchange عبر الإنترنت، وليس الدليل النشط Azure.
+يتطلب مزامنة صوره ملف التعريف في SharePoint علي الإنترنت اجراء المستخدم لبدء مزامنة الصورة الخاصة بهم. لا يوجد مزامنة تلقائية للصور إلى SharePoint علي الإنترنت. SharePoint علي الإنترنت فقط بمزامنة الصور من Exchange عبر الإنترنت ، وليس Azure Active Directory.
 
-إذا لم يقم مستخدم بإجراء يطالب بمزامنة أو قام بتحديث صورة ملف التعريف الخاص به ولم يظهر صورة جديدة في SharePoint Online، فقد يحتاج المستخدم إلى مطالبتك بالمزامنة. إليك كيف يمكنهم القيام بذلك:
+إذا لم ينفذ أحد المستخدمين اجراء من شانه ان يطالب بمزامنة أو قاموا بتحديث صوره ملف التعريف الخاصة بهم ولا يظهر الجديد في SharePoint Online ، فقد يحتاج المستخدم إلى مطالبته بالمزامنة. واليك كيف يمكنهم القيام بذلك:
 
-- افتح مستعرض ويب في جلسة عمل خاصة أو في التصفح المتخفي [وانتقل إلى Office.com](http://www.office.com/).
+1. افتح مستعرض ويب في جلسة خاصه أو في التصفح المتخفي [وانتقل إلى Office.com](http://www.office.com/).
 
-- قم بتسجيل الدخول باستخدام حساب العمل أو المدرسة الخاص بهم، وانقر فوق لوحة أندريف أو SharePoint.
+2. قم بتسجيل الدخول باستخدام حساب العمل أو المدرسة ، ثم انقر فوق OneDrive أو تجانب SharePoint.
 
-- [إضافة صورة ملف التعريف الخاص بك إلى Office 365](https://support.office.com/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7)
+3. [أضافه صورتهم الشخصية إلى Office 365](https://support.office.com/article/Add-your-profile-photo-to-Office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7).
 
-- [معلومات حول مزامنة صورة ملف التعريف في Office 365](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129).
+[معلومات حول مزامنة صوره ملف التعريف في Office 365](https://support.office.com/article/Information-about-user-profile-synchronization-in-SharePoint-Online-177eb196-5887-43c9-84c3-b98a43d35129)
 

@@ -1,5 +1,5 @@
 ---
-title: مشكلات الأداء-SharePoint أو أندريف
+title: مشكلات الأداء-SharePoint أو اندريف
 ms.author: pebaum
 author: Techwriter40
 ms.date: 1/3/2019
@@ -9,30 +9,30 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
 ms.openlocfilehash: 7e218cfff81274cd16d55dec2c5243eb8b74a3b7
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36750543"
 ---
-# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint أو أندريف بطيئة أو غير قابلة للوصول أو غير متوفرة لعدة مستخدمين
+# <a name="sharepoint-or-onedrive-slow-inaccessible-or-unavailable-for-multiple-users"></a>SharePoint أو اندريف بطيئه أو غير قابله للوصول أو غير متوفرة لمستخدمين متعددين
 
-في حالة عدم توفر موقع أندريف أو SharePoint للعديد من المستخدمين الذين لديهم حق الوصول مسبقاً، قد تكون هناك مشكلة خدمة مؤقتة. [تحقق من لوحة معلومات صحة الخدمة](https://portal.office.com/adminportal/home#/servicehealth).
+إذا كان موقع اندريف أو SharePoint غير متوفر للعديد من المستخدمين الذين كان لديهم حق الوصول مسبقا ، قد تكون هناك مشكله خدمه مؤقته. [تحقق من لوحه معلومات صحة الخدمة](https://portal.office.com/adminportal/home#/servicehealth).
 
-**إضافة المستخدم وترخيصه**
+**أضافه المستخدم وترخيصه**
 
-تأكد من [تعيين تراخيص للمستخدمين في Office 365 للعمل](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).
+تاكد من [تعيين التراخيص للمستخدمين في Office 365 للعمل](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).
 
 
-**تعيين أذونات**
+**تعيين الأذونات**
 
-إذا تم تعيين ترخيص Sharepoint للمستخدم ولا يزال يتلقى رسالة تم رفض الوصول، الرجاء التأكد من أن لديهم [مستوى الإذن المناسب](https://docs.microsoft.com/sharepoint/understanding-permission-levels) المعين.
+إذا تم تعيين ترخيص Sharepoint للمستخدم ولا يزال يتلقى رسالة تم رفض الوصول اليها ، الرجاء التاكد من ان لديهم [مستوي الاذن المناسب](https://docs.microsoft.com/sharepoint/understanding-permission-levels) المعين.
 
-**خذ بعين الاعتبار استخدام ميزة طلب الوصول**
+**النظر في استخدام ميزه طلب الوصول**
 
-تسمح [ميزة طلب الوصول](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) للأشخاص بطلب الوصول إلى المحتوى الذي ليس لديهم حالياً الإذن برؤيته.
+تسمح [ميزه طلب الوصول](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) للأشخاص بطلب الوصول إلى المحتوي الذي ليس لديهم حاليا اذن لرؤيته.
 
-**السماح بالبرنامج النصي المخصص قد يؤدي إلى مشاكل تم رفض الوصول**
+**السماح لبرنامج نصي مخصص قد يؤدي إلى رفض الوصول المشكلات**
 
-هناك بعض وحدات السيناريو حيث قد يتم تقديم ميزة *السماح البرنامج النصي المخصص* تم رفض الوصول. للحصول على قائمة بالميزات المتأثرة، اعتبارات الأمان والقدرة على تعطيل الميزة. الرجاء زيارة [السماح بالبرنامج النصي المخصص أو منعه](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
+هناك بعض وحدات السيناريو حيث *السماح ميزه البرنامج النصي المخصص* قد يتم تقديم رفض وصول. للحصول علي قائمه بالميزات المتاثره ، اعتبارات الأمان والقدرة علي تعطيل الميزة. يرجى زيارة [السماح أو منع البرنامج النصي المخصص](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
 

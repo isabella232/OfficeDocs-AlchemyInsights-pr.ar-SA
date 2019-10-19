@@ -9,24 +9,24 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
 ms.openlocfilehash: c11d226c3c7105cea3abcc180a00262bb6e4244f
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/04/2019
+ms.lasthandoff: 10/18/2019
 ms.locfileid: "36754791"
 ---
-# <a name="create-and-edit-modern-pages-on-sharepoint-site"></a>إنشاء صفحات حديثة تحريرها على موقع SharePoint
+# <a name="create-and-edit-modern-pages-on-sharepoint-site"></a>إنشاء صفحات حديثه وتحريرها علي موقع SharePoint
 
-يمكنك تحرير الملفات والصفحات بسرعة وسهولة، وأنها تبدو كبيرة على أي جهاز. لمزيد من المعلومات يرجى زيارة الروابط أدناه.
+يمكنك تحرير الملفات والصفحات بسرعة وسهوله ، وانها تبدو كبيره علي اي جهاز. لمزيد من المعلومات يرجى زيارة الروابط أدناه.
 
 
-- [إنشاء صفحات حديثة تحريرها على موقع SharePoint](https://support.office.com/article/create-and-use-modern-pages-on-a-sharepoint-site-b3d46deb-27a6-4b1e-87b8-df851e503dec)
+- [إنشاء صفحات حديثه وتحريرها علي موقع SharePoint](https://support.office.com/article/create-and-use-modern-pages-on-a-sharepoint-site-b3d46deb-27a6-4b1e-87b8-df851e503dec)
 
-- [إنشاء صفحات كلاسيكية تحريرها على موقع Sharepoint](https://support.office.com/article/create-and-edit-classic-sharepoint-pages-ee50e4a0-d0c1-48c8-86e9-d468a8b13bac)
+- [إنشاء صفحات كلاسيكية وتحريرها علي موقع Sharepoint](https://support.office.com/article/create-and-edit-classic-sharepoint-pages-ee50e4a0-d0c1-48c8-86e9-d468a8b13bac)
 
-- [تحرير مستند في مكتبة مستندات](https://support.office.com/article/Edit-a-document-in-a-document-library-02d8497f-1c13-4114-949a-b8466f639b07)
+- [تحرير مستند في مكتبه مستندات](https://support.office.com/article/Edit-a-document-in-a-document-library-02d8497f-1c13-4114-949a-b8466f639b07)
 
-- [أنواع الملفات المعتمدة لمعاينة الملفات في أندريف وSharePoint والفرق](https://support.office.com/article/file-types-supported-for-previewing-files-in-onedrive-sharepoint-and-teams-e054cd0f-8ef2-4ccb-937e-26e37419c5e4)
+- [أنواع الملفات المعتمدة لمعاينه الملفات في OneDrive و SharePoint والفرق](https://support.office.com/article/file-types-supported-for-previewing-files-in-onedrive-sharepoint-and-teams-e054cd0f-8ef2-4ccb-937e-26e37419c5e4)
 
-- [أسماء الملفات وأنواع الملفات غير صالحة في أندريف وأندريف للعمل و SharePoint](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
+- [أسماء الملفات وأنواع الملفات غير صالحه في اندريف ، اندريف للعمل ، و SharePoint](https://support.office.com/article/Invalid-file-names-and-file-types-in-OneDrive-OneDrive-for-Business-and-SharePoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
 
