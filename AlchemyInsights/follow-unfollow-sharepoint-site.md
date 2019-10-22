@@ -1,26 +1,26 @@
 ---
-title: متابعة موقع SharePoint أو إلغاء متابعته
+title: متابعه موقع SharePoint أو الأمم المتحدة لمتابعهه
 ms.author: pebaum
-author: Techwriter40
+author: v-miegge
 ms.date: 6/20/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: ef2eaf323e24202117282ff6d9d09ba348bf9a62
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 9213645dfeeb856e700a3387adfc3b40c538c52e
+ms.sourcegitcommit: 9cc8a2f5bb73f0e8951d317e51b4cd3253027733
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36755691"
+ms.lasthandoff: 10/21/2019
+ms.locfileid: "37611684"
 ---
-# <a name="follow-or-un-follow-a-sharepoint-site"></a>متابعة موقع SharePoint أو إلغاء متابعته
+# <a name="follow-or-un-follow-a-sharepoint-site"></a>متابعه موقع SharePoint أو الأمم المتحدة لمتابعهه
 
-هناك طرق متعددة لمتابعة موقع يثير اهتمامك في SharePoint. وهذا سوف يسمح لك للعثور على الموقع بسهولة في القائمة الخاصة بك، ويسمح لك لرؤية النشاط من الموقع. 
+هناك طرق متعددة للعثور علي المواقع والاخبار والمحتويات التي تهمك في SharePoint ومتابعتها. سيسمح لك هذا بالعثور علي المعلومات بسهوله في قائمتك ، والسماح لك بمشاهده النشاط من SharePoint.
 
-شاهد الفيديو [لمتابعة موقع SharePoint](https://support.office.com/article/Video-Follow-a-SharePoint-site-33DB6FA5-9528-45D7-BCC7-F9C1FAAACAE0). 
+شاهد الفيديو [للعثور علي المواقع والاخبار ومتابعتها](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c).
 
-إذا لم تتمكن من متابعة موقع أو إلغاء متابعته وكنت تشعر بأن النتائج ليست كما هو متوقع، فمعرفة ما إذا كانت المشكلة مرتبطة بمستخدم واحد أو بكافة المستخدمين داخل المؤسسة. إذا تمت مصادفة المشكلة من قبل كافة المستخدمين، قد يكون هناك مشكلة خدمة مؤقتة. 
+إذا كنت غير قادر علي متابعه أو متابعه موقع أو اخبار أو محتوي والشعور بان النتائج ليست ما هو متوقع ، فراجع ما إذا كانت المشكلة تتعلق بمستخدم واحد أو بكافة المستخدمين داخل مؤسستك. إذا صادفت المشكلة من قبل كافة المستخدمين ، قد يكون هناك مشكله خدمه مؤقته.
 
-تحقق من [لوحة معلومات صحة الخدمة](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) لمعرفة ما إذا كانت مؤسستك قد تأثرت.
+تحقق من [لوحه معلومات صحة الخدمة](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) لمعرفه ما إذا كانت مؤسستك قد تاثرت.
