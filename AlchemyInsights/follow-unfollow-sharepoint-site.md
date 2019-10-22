@@ -1,26 +1,26 @@
 ---
-title: متابعة موقع SharePoint أو إلغاء متابعته
+title: متابعه موقع SharePoint أو الأمم المتحدة لمتابعهه
 ms.author: pebaum
-author: Techwriter40
+author: v-miegge
 ms.date: 6/20/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: ef2eaf323e24202117282ff6d9d09ba348bf9a62
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 9213645dfeeb856e700a3387adfc3b40c538c52e
+ms.sourcegitcommit: 9cc8a2f5bb73f0e8951d317e51b4cd3253027733
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36755691"
+ms.lasthandoff: 10/21/2019
+ms.locfileid: "37611684"
 ---
-# <a name="follow-or-un-follow-a-sharepoint-site"></a><span data-ttu-id="d72de-102">متابعة موقع SharePoint أو إلغاء متابعته</span><span class="sxs-lookup"><span data-stu-id="d72de-102">Follow or un-follow a SharePoint site</span></span>
+# <a name="follow-or-un-follow-a-sharepoint-site"></a><span data-ttu-id="13100-102">متابعه موقع SharePoint أو الأمم المتحدة لمتابعهه</span><span class="sxs-lookup"><span data-stu-id="13100-102">Follow or un-follow a SharePoint site</span></span>
 
-<span data-ttu-id="d72de-103">هناك طرق متعددة لمتابعة موقع يثير اهتمامك في SharePoint.</span><span class="sxs-lookup"><span data-stu-id="d72de-103">There are multiple ways to follow a site that interests you in SharePoint.</span></span> <span data-ttu-id="d72de-104">وهذا سوف يسمح لك للعثور على الموقع بسهولة في القائمة الخاصة بك، ويسمح لك لرؤية النشاط من الموقع.</span><span class="sxs-lookup"><span data-stu-id="d72de-104">This will allow you to find the site easily in your list, and allow you to see activity from the site.</span></span> 
+<span data-ttu-id="13100-103">هناك طرق متعددة للعثور علي المواقع والاخبار والمحتويات التي تهمك في SharePoint ومتابعتها.</span><span class="sxs-lookup"><span data-stu-id="13100-103">There are multiple ways to find and follow sites, news and content that interests you in SharePoint.</span></span> <span data-ttu-id="13100-104">سيسمح لك هذا بالعثور علي المعلومات بسهوله في قائمتك ، والسماح لك بمشاهده النشاط من SharePoint.</span><span class="sxs-lookup"><span data-stu-id="13100-104">This will allow you to find the information easily in your list, and allow you to see activity from SharePoint.</span></span>
 
-<span data-ttu-id="d72de-105">شاهد الفيديو [لمتابعة موقع SharePoint](https://support.office.com/article/Video-Follow-a-SharePoint-site-33DB6FA5-9528-45D7-BCC7-F9C1FAAACAE0).</span><span class="sxs-lookup"><span data-stu-id="d72de-105">Watch the video to [Follow a SharePoint site](https://support.office.com/article/Video-Follow-a-SharePoint-site-33DB6FA5-9528-45D7-BCC7-F9C1FAAACAE0).</span></span> 
+<span data-ttu-id="13100-105">شاهد الفيديو [للعثور علي المواقع والاخبار ومتابعتها](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c).</span><span class="sxs-lookup"><span data-stu-id="13100-105">Watch the video to [Find and follow sites and news](https://support.office.com/article/Video-Find-and-follow-sites-news-and-content-4411e38f-9bc5-4ecc-bd33-3dbe939ac84c).</span></span>
 
-<span data-ttu-id="d72de-106">إذا لم تتمكن من متابعة موقع أو إلغاء متابعته وكنت تشعر بأن النتائج ليست كما هو متوقع، فمعرفة ما إذا كانت المشكلة مرتبطة بمستخدم واحد أو بكافة المستخدمين داخل المؤسسة.</span><span class="sxs-lookup"><span data-stu-id="d72de-106">If you are unable to follow or un-follow a site and feel the results aren't what is expected, see if the issue is related to a single user or all users within your organization.</span></span> <span data-ttu-id="d72de-107">إذا تمت مصادفة المشكلة من قبل كافة المستخدمين، قد يكون هناك مشكلة خدمة مؤقتة.</span><span class="sxs-lookup"><span data-stu-id="d72de-107">If the issue is encountered by all users, there may be a temporary service issue.</span></span> 
+<span data-ttu-id="13100-106">إذا كنت غير قادر علي متابعه أو متابعه موقع أو اخبار أو محتوي والشعور بان النتائج ليست ما هو متوقع ، فراجع ما إذا كانت المشكلة تتعلق بمستخدم واحد أو بكافة المستخدمين داخل مؤسستك.</span><span class="sxs-lookup"><span data-stu-id="13100-106">If you are unable to follow or un-follow a site, news or content and feel the results aren't what is expected, see if the issue is related to a single user or all users within your organization.</span></span> <span data-ttu-id="13100-107">إذا صادفت المشكلة من قبل كافة المستخدمين ، قد يكون هناك مشكله خدمه مؤقته.</span><span class="sxs-lookup"><span data-stu-id="13100-107">If the issue is encountered by all users, there may be a temporary service issue.</span></span>
 
-<span data-ttu-id="d72de-108">تحقق من [لوحة معلومات صحة الخدمة](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) لمعرفة ما إذا كانت مؤسستك قد تأثرت.</span><span class="sxs-lookup"><span data-stu-id="d72de-108">Check the [Service Health Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your organization is impacted.</span></span>
+<span data-ttu-id="13100-108">تحقق من [لوحه معلومات صحة الخدمة](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) لمعرفه ما إذا كانت مؤسستك قد تاثرت.</span><span class="sxs-lookup"><span data-stu-id="13100-108">Check the [Service Health Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if your organization is impacted.</span></span>
