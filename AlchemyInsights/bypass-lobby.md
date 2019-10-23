@@ -11,16 +11,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: de665ca6defcd0d00d227435473e5a4ccf61bc82
-ms.sourcegitcommit: 0495112ad4fd0e695140ec66d190e62f03030584
+ms.openlocfilehash: 729fc5d4213acbbdf74a9d07adacb42b34170717
+ms.sourcegitcommit: ffbeb72c9199ab4ebcb0f1ad443ed3e2f4950efc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/02/2019
-ms.locfileid: "37376501"
+ms.lasthandoff: 10/23/2019
+ms.locfileid: "37637764"
 ---
 # <a name="control-lobby-settings-and-level-of-participation"></a>ضبط إعدادات اللوبي ومستوي المشاركة
 
-تتحكم هذه الإعدادات في الاجتماعات التي ينتظرها المشاركون في الردهة قبل قبولهم في الاجتماع ومستوي المشاركة المسموح بها في الاجتماع. يمكنك استخدام Powershell لتحديث إعدادات نهج الاجتماع التي لم يتم تنفيذها بعد (المسمي "قريبا") في مركز أداره الفرق.  انظر أدناه للحصول علي مثال cmdlet PowerShell التي تسمح لجميع المستخدمين لتجاوز الردهة.  
+إذا كنت ترغب في السماح للجميع ، بما في ذلك المستخدمين الهاتفيين والخارجيين والمجهولين بتجاوز اللوبي ، يمكنك استخدام PowerShell للقيام بذلك. في ما يلي مثال علي تعديل نهج الاجتماعات العمومية للمؤسسة الخاصة بك:
+
+`Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
+
+يتطلب هذا cmdlet حاليا استخدام سكايب للوحدة النمطية PowerShell الاعمال. للحصول علي الاعداد لاستخدام هذا cmdlet ، تحقق من أداره النهج عبر PowerShell.
+
+يمكنك اعداد سياسة جديده ، والتي ستحتاج بعد ذلك إلى تطبيقها علي المستخدمين. إذا قمت بتعديل النهج العمومي سيتم تطبيقه تلقائيا علي المستخدمين. لأي تغيير في السياسة تحتاج إلى الانتظار 4 ساعات علي الأقل وتصل إلى 24 ساعة حتى تسري السياسات.
+
+تاكد من مراجعه الوثائق أدناه قبل اجراء هذه التغييرات لفهم ما يسمح به هذا بالبالضبط.
+
+## <a name="understanding-teams-meeting-lobby-policy-controls"></a>فهم فرق التحكم في نهج اللوبي
 
 - [القبول التلقائي للأشخاص](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) هو نهج لكل منظم يتحكم في ما إذا كان الأشخاص ينضمون إلى الاجتماع مباشره أو ينتظرون في الردهة حتى يتم قبولهم من قبل مستخدم مصادق عليه.
 
@@ -30,15 +40,4 @@ ms.locfileid: "37376501"
 
 - [السماح للمنظمين بتجاوز إعدادات اللوبي](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) (**قريبا**) هو نهج لكل منظم يتحكم في ما إذا كان منظم الاجتماع يمكنه تجاوز إعدادات الردهة التي يقوم المسؤول بتعيينها **تلقائيا لقبول الأشخاص** **والسماح بالطلب الهاتفي المستخدمين لتجاوز الردهة** عندما يقومون بجدوله اجتماع جديد.
 
-**ملاحظه:** قراءه [أداره نهج الاجتماع في الفرق](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams) للحصول علي نظره عامه كامله حول نهج اجتماع فرق Microsoft. 
-
-
-**مثال PowerShell**
-
-إذا كنت ترغب في السماح للجميع ، بما في ذلك المستخدمين الخارجيين أو المجهولين ، بتجاوز اللوبي ، يمكنك أيضا استخدام PowerShell لإنجاز هذه المهمة.  في ما يلي مثال علي تعديل نهج الاجتماعات العمومية للمؤسسة الخاصة بك.   
-
-(تاكد من مراجعه الوثائق أعلاه قبل اجراء هذه التغييرات لفهم بالبالضبط ما يسمح به هذا.)
-
-مجموعه-كستيسميتينجينسيسينيوسيس-الهوية العالمية-أوتوادميتيدوسيرس "الجميع"-اللوبستونسسيرستوببيباسلوبي $True
-
-للحصول علي مزيد من المعلومات ، راجع [مجموعه-كستيسميتينجيننهج](https://docs.microsoft.com/powershell/module/skype/set-csteamsmeetingpolicy?view=skype-ps).
+**ملاحظه:** قراءه [أداره نهج الاجتماع في الفرق](https://docs.microsoft.com/en-us/microsoftteams/meeting-policies-in-teams) للحصول علي نظره عامه كامله حول نهج اجتماع فرق Microsoft.
