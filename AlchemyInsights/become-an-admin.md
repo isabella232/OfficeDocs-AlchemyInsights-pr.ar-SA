@@ -13,14 +13,14 @@ ms.custom:
 - "71"
 - "13"
 ms.openlocfilehash: d43ada137a906f0a4dade37bf6b30b597fd64576
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36736888"
 ---
-# <a name="become-an-admin"></a><span data-ttu-id="96569-102">تصبح مسؤولا</span><span class="sxs-lookup"><span data-stu-id="96569-102">Become an Admin</span></span>
+# <a name="become-an-admin"></a><span data-ttu-id="61ea1-102">تصبح مسؤولا</span><span class="sxs-lookup"><span data-stu-id="61ea1-102">Become an Admin</span></span>
 
-<span data-ttu-id="96569-103">للقيام بدور المسؤول لهذه المؤسسة ، تحتاج إلى السيطرة علي المستاجر.</span><span class="sxs-lookup"><span data-stu-id="96569-103">To assume the admin role for this organization, you need to take over the tenant.</span></span>
+<span data-ttu-id="61ea1-103">للقيام بدور المسؤول لهذه المؤسسة ، تحتاج إلى السيطرة علي المستاجر.</span><span class="sxs-lookup"><span data-stu-id="61ea1-103">To assume the admin role for this organization, you need to take over the tenant.</span></span>
   
-<span data-ttu-id="96569-104">اتبع الإرشادات الواردة في هذا الدليل: [هل استيلاء المسؤول في Office 365](https://docs.microsoft.com/office365/admin/misc/become-the-admin)</span><span class="sxs-lookup"><span data-stu-id="96569-104">Follow the instructions in this guide: [Do an admin takeover in Office 365](https://docs.microsoft.com/office365/admin/misc/become-the-admin)</span></span>
+<span data-ttu-id="61ea1-104">اتبع الإرشادات الواردة في هذا الدليل: [هل استيلاء المسؤول في Office 365](https://docs.microsoft.com/office365/admin/misc/become-the-admin)</span><span class="sxs-lookup"><span data-stu-id="61ea1-104">Follow the instructions in this guide: [Do an admin takeover in Office 365](https://docs.microsoft.com/office365/admin/misc/become-the-admin)</span></span>

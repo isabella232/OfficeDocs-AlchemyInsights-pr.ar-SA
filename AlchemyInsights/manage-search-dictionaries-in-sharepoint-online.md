@@ -12,15 +12,15 @@ ms.custom:
 - "5200021"
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
 ms.openlocfilehash: d375ed80ba4c58b32a830f140a8f18ba50008bd6
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36754395"
 ---
-# <a name="manage-search-dictionaries"></a><span data-ttu-id="b73fc-102">أداره قواميس البحث</span><span class="sxs-lookup"><span data-stu-id="b73fc-102">Manage search dictionaries</span></span>
+# <a name="manage-search-dictionaries"></a><span data-ttu-id="c28a3-102">أداره قواميس البحث</span><span class="sxs-lookup"><span data-stu-id="c28a3-102">Manage search dictionaries</span></span>
 
-<span data-ttu-id="b73fc-103">تتم أداره قواميس البحث في SharePoint علي الإنترنت في مخزن المصطلحات SharePoint علي الإنترنت الذي يقع في مركز مسؤول SharePoint الجديد.</span><span class="sxs-lookup"><span data-stu-id="b73fc-103">Search dictionaries in SharePoint online are managed in the SharePoint Online Term Store which is located in the new SharePoint admin center.</span></span> <span data-ttu-id="b73fc-104">لمزيد من المعلومات حول كيفيه أضافه قواميس البحث أو تحريرها ، راجع [أداره قواميس البحث](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="b73fc-104">For more information on how to add or edit search dictionaries, see [Manage search dictionaries](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).</span></span>
+<span data-ttu-id="c28a3-103">تتم أداره قواميس البحث في SharePoint علي الإنترنت في مخزن المصطلحات SharePoint علي الإنترنت الذي يقع في مركز مسؤول SharePoint الجديد.</span><span class="sxs-lookup"><span data-stu-id="c28a3-103">Search dictionaries in SharePoint online are managed in the SharePoint Online Term Store which is located in the new SharePoint admin center.</span></span> <span data-ttu-id="c28a3-104">لمزيد من المعلومات حول كيفيه أضافه قواميس البحث أو تحريرها ، راجع [أداره قواميس البحث](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="c28a3-104">For more information on how to add or edit search dictionaries, see [Manage search dictionaries](https://go.microsoft.com/fwlink/?linkid=2044669&amp;clcid=0x409).</span></span>
   
-<span data-ttu-id="b73fc-105">إذا كنت لا تري تعيين مصطلح القاموس البحث تظهر في مخزن المدى ، يرجى الانتظار 24 ساعة.</span><span class="sxs-lookup"><span data-stu-id="b73fc-105">If you are not seeing a search dictionary term set appear in the term store, please wait 24 hours.</span></span> <span data-ttu-id="b73fc-106">إذا كان القاموس لا يزال لا يظهر بعد 24 ساعة ، يرجى تسجيل تذكره الدعم.</span><span class="sxs-lookup"><span data-stu-id="b73fc-106">If the dictionary still not appearing after 24 hours, please log a support ticket.</span></span>
+<span data-ttu-id="c28a3-105">إذا كنت لا تري تعيين مصطلح القاموس البحث تظهر في مخزن المدى ، يرجى الانتظار 24 ساعة.</span><span class="sxs-lookup"><span data-stu-id="c28a3-105">If you are not seeing a search dictionary term set appear in the term store, please wait 24 hours.</span></span> <span data-ttu-id="c28a3-106">إذا كان القاموس لا يزال لا يظهر بعد 24 ساعة ، يرجى تسجيل تذكره الدعم.</span><span class="sxs-lookup"><span data-stu-id="c28a3-106">If the dictionary still not appearing after 24 hours, please log a support ticket.</span></span>
   

@@ -9,27 +9,27 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e595481a-91de-431d-bf86-d7610ff3b6a7
 ms.openlocfilehash: cae756bf9a9ffa247cafd5fd76e913f3185bdb28
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36497178"
 ---
-# <a name="manage-user-profiles-in-delve"></a><span data-ttu-id="724a9-102">أداره ملفات تعريف المستخدمين في الخوض</span><span class="sxs-lookup"><span data-stu-id="724a9-102">Manage user profiles in Delve</span></span>
+# <a name="manage-user-profiles-in-delve"></a><span data-ttu-id="42ca2-102">أداره ملفات تعريف المستخدمين في الخوض</span><span class="sxs-lookup"><span data-stu-id="42ca2-102">Manage user profiles in Delve</span></span>
 
-<span data-ttu-id="724a9-103">يتيح office الخوض المستخدمين أداره التشكيل الجانبي للمستخدم 365 Office الخاصة بهم.</span><span class="sxs-lookup"><span data-stu-id="724a9-103">Office Delve lets users manage their Office 365 user profile.</span></span> <span data-ttu-id="724a9-104">يمكن للمستخدمين:</span><span class="sxs-lookup"><span data-stu-id="724a9-104">Users can:</span></span>
+<span data-ttu-id="42ca2-103">يتيح office الخوض المستخدمين أداره التشكيل الجانبي للمستخدم 365 Office الخاصة بهم.</span><span class="sxs-lookup"><span data-stu-id="42ca2-103">Office Delve lets users manage their Office 365 user profile.</span></span> <span data-ttu-id="42ca2-104">يمكن للمستخدمين:</span><span class="sxs-lookup"><span data-stu-id="42ca2-104">Users can:</span></span>
   
-- <span data-ttu-id="724a9-105">عرض معلوماتهم وتحديثها</span><span class="sxs-lookup"><span data-stu-id="724a9-105">View and update their information</span></span>
+- <span data-ttu-id="42ca2-105">عرض معلوماتهم وتحديثها</span><span class="sxs-lookup"><span data-stu-id="42ca2-105">View and update their information</span></span>
     
-- <span data-ttu-id="724a9-106">الاحتفاظ ببعض المعلومات خاصه</span><span class="sxs-lookup"><span data-stu-id="724a9-106">Keep some information private</span></span>
+- <span data-ttu-id="42ca2-106">الاحتفاظ ببعض المعلومات خاصه</span><span class="sxs-lookup"><span data-stu-id="42ca2-106">Keep some information private</span></span>
     
-- <span data-ttu-id="724a9-107">تغيير ملف التعريف أو صوره الغلاف</span><span class="sxs-lookup"><span data-stu-id="724a9-107">Change their profile or cover picture</span></span>
+- <span data-ttu-id="42ca2-107">تغيير ملف التعريف أو صوره الغلاف</span><span class="sxs-lookup"><span data-stu-id="42ca2-107">Change their profile or cover picture</span></span>
     
-- <span data-ttu-id="724a9-108">تغيير تنسيق اللغة والوقت لخوض</span><span class="sxs-lookup"><span data-stu-id="724a9-108">Change the language and time format for Delve</span></span>
+- <span data-ttu-id="42ca2-108">تغيير تنسيق اللغة والوقت لخوض</span><span class="sxs-lookup"><span data-stu-id="42ca2-108">Change the language and time format for Delve</span></span>
     
 > [!NOTE]
-> <span data-ttu-id="724a9-109">إذا قام أحد المستخدمين بتحديث صوره ملف التعريف الخاصة بهم ولم يظهر التغيير في SharePoint أو OneDrive ، فاطلب منهم فتح مستعرض ويب ، أو [الانتقال إلى Office.com](https://www.office.com)، أو تسجيل الدخول باستخدام حساب العمل أو المدرسة ، ثم النقر فوق OneDrive أو تجانب SharePoint.</span><span class="sxs-lookup"><span data-stu-id="724a9-109">If a user updated their profile picture and the change isn't appearing in SharePoint or OneDrive, ask them to open a web browser, [go to Office.com](https://www.office.com), sign in with their work or school account, and then click the OneDrive or SharePoint tile.</span></span> <span data-ttu-id="724a9-110">سيؤدي هذا إلى المطالبة بمزامنة صوره ملف التعريف. قد يحتاج المستخدم إلى محاولة إكمال هذه الخطوات باستخدام الإصدار الخاص من المستعرض الخاص بهم.</span><span class="sxs-lookup"><span data-stu-id="724a9-110">This will prompt the profile picture to sync. The user may need to try completing these steps with the Private version of their browser.</span></span> 
+> <span data-ttu-id="42ca2-109">إذا قام أحد المستخدمين بتحديث صوره ملف التعريف الخاصة بهم ولم يظهر التغيير في SharePoint أو OneDrive ، فاطلب منهم فتح مستعرض ويب ، أو [الانتقال إلى Office.com](https://www.office.com)، أو تسجيل الدخول باستخدام حساب العمل أو المدرسة ، ثم النقر فوق OneDrive أو تجانب SharePoint.</span><span class="sxs-lookup"><span data-stu-id="42ca2-109">If a user updated their profile picture and the change isn't appearing in SharePoint or OneDrive, ask them to open a web browser, [go to Office.com](https://www.office.com), sign in with their work or school account, and then click the OneDrive or SharePoint tile.</span></span> <span data-ttu-id="42ca2-110">سيؤدي هذا إلى المطالبة بمزامنة صوره ملف التعريف. قد يحتاج المستخدم إلى محاولة إكمال هذه الخطوات باستخدام الإصدار الخاص من المستعرض الخاص بهم.</span><span class="sxs-lookup"><span data-stu-id="42ca2-110">This will prompt the profile picture to sync. The user may need to try completing these steps with the Private version of their browser.</span></span> 
   
-[<span data-ttu-id="724a9-111">مزيد من المعلومات حول تحديث ملفات التعريف في الخوض</span><span class="sxs-lookup"><span data-stu-id="724a9-111">Learn more about updating profiles in Delve</span></span>](https://go.microsoft.com/fwlink/?linkid=735070)
+[<span data-ttu-id="42ca2-111">مزيد من المعلومات حول تحديث ملفات التعريف في الخوض</span><span class="sxs-lookup"><span data-stu-id="42ca2-111">Learn more about updating profiles in Delve</span></span>](https://go.microsoft.com/fwlink/?linkid=735070)
   
 

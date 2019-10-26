@@ -9,28 +9,28 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
 ms.openlocfilehash: 621504f5b7170ff36ad093330b8a662e7222d1e7
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36754467"
 ---
-# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a><span data-ttu-id="f88ff-102">خطا داخلي في الملقم عند التنقل إلى مواقع Sharepoint أو OneDrive</span><span class="sxs-lookup"><span data-stu-id="f88ff-102">Internal server error when navigating to Sharepoint or OneDrive sites</span></span>
+# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a><span data-ttu-id="7c598-102">خطا داخلي في الملقم عند التنقل إلى مواقع Sharepoint أو OneDrive</span><span class="sxs-lookup"><span data-stu-id="7c598-102">Internal server error when navigating to Sharepoint or OneDrive sites</span></span>
 
-<span data-ttu-id="f88ff-103">قد يتلقى المستخدمون خطا خادم داخلي 500 عند محاولة الانتقال إلى مواقع SharePoint أو اندريف.</span><span class="sxs-lookup"><span data-stu-id="f88ff-103">Users may receive a 500 internal server error when attempting to navigate to SharePoint or OneDrive sites.</span></span> 
+<span data-ttu-id="7c598-103">قد يتلقى المستخدمون خطا خادم داخلي 500 عند محاولة الانتقال إلى مواقع SharePoint أو اندريف.</span><span class="sxs-lookup"><span data-stu-id="7c598-103">Users may receive a 500 internal server error when attempting to navigate to SharePoint or OneDrive sites.</span></span> 
 
-<span data-ttu-id="f88ff-104">الرجاء محاولة مسح ذاكره التخزين المؤقت للمتصفح قبل الانتقال إلى الموقع.</span><span class="sxs-lookup"><span data-stu-id="f88ff-104">Please attempt to clear the browser cache before navigating to the site.</span></span>
+<span data-ttu-id="7c598-104">الرجاء محاولة مسح ذاكره التخزين المؤقت للمتصفح قبل الانتقال إلى الموقع.</span><span class="sxs-lookup"><span data-stu-id="7c598-104">Please attempt to clear the browser cache before navigating to the site.</span></span>
 
 
-1. <span data-ttu-id="f88ff-105">في مستعرض Microsoft Edge ، انتقل إلى المزيد... > الإعدادات</span><span class="sxs-lookup"><span data-stu-id="f88ff-105">In the Microsoft Edge browser, go to More...> Settings</span></span>
+1. <span data-ttu-id="7c598-105">في مستعرض Microsoft Edge ، انتقل إلى المزيد... > الإعدادات</span><span class="sxs-lookup"><span data-stu-id="7c598-105">In the Microsoft Edge browser, go to More...> Settings</span></span>
 
-2. <span data-ttu-id="f88ff-106">ضمن مسح بيانات التصفح ، حدد **اختيار ما تريد إلغاء** تحديده</span><span class="sxs-lookup"><span data-stu-id="f88ff-106">Under Clear browsing data, select **Choose what to clear**</span></span>
+2. <span data-ttu-id="7c598-106">ضمن مسح بيانات التصفح ، حدد **اختيار ما تريد إلغاء** تحديده</span><span class="sxs-lookup"><span data-stu-id="7c598-106">Under Clear browsing data, select **Choose what to clear**</span></span>
 
-3. <span data-ttu-id="f88ff-107">حدد خانه الاختيار ملفات تعريف الارتباط وبيانات موقع الويب المحفوظة وحدد **مسح**.</span><span class="sxs-lookup"><span data-stu-id="f88ff-107">Select the Cookies and saved website data check box and select **Clear**.</span></span>
+3. <span data-ttu-id="7c598-107">حدد خانه الاختيار ملفات تعريف الارتباط وبيانات موقع الويب المحفوظة وحدد **مسح**.</span><span class="sxs-lookup"><span data-stu-id="7c598-107">Select the Cookies and saved website data check box and select **Clear**.</span></span>
 
-<span data-ttu-id="f88ff-108">ملاحظه: قد تختلف هذه الخطوات عند استخدام متصفحات أخرى مثل Firefox أو Chrome.</span><span class="sxs-lookup"><span data-stu-id="f88ff-108">Note: These steps may differ when using other browsers such as Firefox or Chrome.</span></span>
+<span data-ttu-id="7c598-108">ملاحظه: قد تختلف هذه الخطوات عند استخدام متصفحات أخرى مثل Firefox أو Chrome.</span><span class="sxs-lookup"><span data-stu-id="7c598-108">Note: These steps may differ when using other browsers such as Firefox or Chrome.</span></span>
 
-<span data-ttu-id="f88ff-109">إذا لم يؤدي ذلك إلى حل المشكلة ، يمكنك التحقق مما إذا كان هناك صيانة نشطه تحدث علي المستاجر الخاص بك عن طريق الانتقال إلى [مركز الرسائل](https://portal.office.com/adminportal/home#/MessageCenter).</span><span class="sxs-lookup"><span data-stu-id="f88ff-109">If this does not resolve the issue, you can check if there is active maintenance occurring on your tenant by navigating to the [Message center](https://portal.office.com/adminportal/home#/MessageCenter).</span></span>
+<span data-ttu-id="7c598-109">إذا لم يؤدي ذلك إلى حل المشكلة ، يمكنك التحقق مما إذا كان هناك صيانة نشطه تحدث علي المستاجر الخاص بك عن طريق الانتقال إلى [مركز الرسائل](https://portal.office.com/adminportal/home#/MessageCenter).</span><span class="sxs-lookup"><span data-stu-id="7c598-109">If this does not resolve the issue, you can check if there is active maintenance occurring on your tenant by navigating to the [Message center](https://portal.office.com/adminportal/home#/MessageCenter).</span></span>
 
-<span data-ttu-id="f88ff-110">وأخيرا ، تاكد من زيارة صفحه [الخدمة الصحية](https://portal.office.com/adminportal/home#/servicehealth) للتحقق من وجود اي تحذيرات/حوادث قد تحدث.</span><span class="sxs-lookup"><span data-stu-id="f88ff-110">Finally , ensure you visit the [Service Health](https://portal.office.com/adminportal/home#/servicehealth) page to check for any advisories/incidents that may be occurring.</span></span>
+<span data-ttu-id="7c598-110">وأخيرا ، تاكد من زيارة صفحه [الخدمة الصحية](https://portal.office.com/adminportal/home#/servicehealth) للتحقق من وجود اي تحذيرات/حوادث قد تحدث.</span><span class="sxs-lookup"><span data-stu-id="7c598-110">Finally , ensure you visit the [Service Health](https://portal.office.com/adminportal/home#/servicehealth) page to check for any advisories/incidents that may be occurring.</span></span>
 

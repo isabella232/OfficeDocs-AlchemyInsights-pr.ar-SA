@@ -13,16 +13,16 @@ ms.custom:
 - "1413"
 - "8000091"
 ms.openlocfilehash: 51134bb81ae0330db05210f4a61e874f92b55b40
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/18/2019
+ms.lasthandoff: 10/25/2019
 ms.locfileid: "36545462"
 ---
-# <a name="outlookcom-is-ready-for-prime-time"></a><span data-ttu-id="96dfd-102">Outlook.com جاهز لوقت الذروة</span><span class="sxs-lookup"><span data-stu-id="96dfd-102">Outlook.com is ready for prime time</span></span>
+# <a name="outlookcom-is-ready-for-prime-time"></a><span data-ttu-id="cdb24-102">Outlook.com جاهز لوقت الذروة</span><span class="sxs-lookup"><span data-stu-id="cdb24-102">Outlook.com is ready for prime time</span></span>
 
-<span data-ttu-id="96dfd-103">نحن ندرك ان بعض العملاء قد يرون ان "Outlook.com جاهز لوقت الذروة" في كل مره يقومون فيها بتسجيل الدخول ، واننا نعمل علي إصلاح.</span><span class="sxs-lookup"><span data-stu-id="96dfd-103">We're aware that some customers may see the "Outlook.com is ready for prime time" pop-up each time they sign-in, and we're working on a fix.</span></span>
+<span data-ttu-id="cdb24-103">نحن ندرك ان بعض العملاء قد يرون ان "Outlook.com جاهز لوقت الذروة" في كل مره يقومون فيها بتسجيل الدخول ، واننا نعمل علي إصلاح.</span><span class="sxs-lookup"><span data-stu-id="cdb24-103">We're aware that some customers may see the "Outlook.com is ready for prime time" pop-up each time they sign-in, and we're working on a fix.</span></span>
 
-<span data-ttu-id="96dfd-104">عذرًا لذلك.</span><span class="sxs-lookup"><span data-stu-id="96dfd-104">Sorry about that.</span></span>
+<span data-ttu-id="cdb24-104">عذرًا لذلك.</span><span class="sxs-lookup"><span data-stu-id="cdb24-104">Sorry about that.</span></span>
 
-[<span data-ttu-id="96dfd-105">تعرف علي المزيد حول Outlook.com الجديدة.</span><span class="sxs-lookup"><span data-stu-id="96dfd-105">Learn more about the new Outlook.com.</span></span>](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+[<span data-ttu-id="cdb24-105">تعرف علي المزيد حول Outlook.com الجديدة.</span><span class="sxs-lookup"><span data-stu-id="cdb24-105">Learn more about the new Outlook.com.</span></span>](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
