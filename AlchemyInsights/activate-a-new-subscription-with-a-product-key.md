@@ -1,9 +1,8 @@
 ---
-title: تنشيط اشتراك جديد مع مفتاح المنتج
+title: تنشيط اشتراك جديد باستخدام مفتاح المنتج
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/23/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +12,15 @@ ms.custom:
 - "480"
 - "1500028"
 ms.assetid: c7b98eab-707b-4487-a463-294b010f0da6
-ms.openlocfilehash: e371f550f7dd8e1716f55cbabfff2ae598c9a47d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 334683632951f55af51236e6d6e18870e5a33e75
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36495630"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766374"
 ---
-# <a name="activate-a-new-subscription-with-a-product-key"></a>تنشيط اشتراك جديد مع مفتاح المنتج
+# <a name="activate-a-new-subscription-with-a-product-key"></a>تنشيط اشتراك جديد باستخدام مفتاح المنتج
 
-1. لتنشيط اشتراك جديد مع مفتاح المنتج الخاص بك، انتقل إلى [https://office.com/setupkey](https://office.com/setupkey) الصفحة.
+1. لتنشيط اشتراك Office 365 جديد مع مفتاح المنتج ، انتقل إلى [https://office.com/setupkey](https://office.com/setupkey).
 
-2. إدخال مفتاح المنتج Office 365، ثم اتبع التعليمات لتنشيط الاشتراك الخاص بك. إذا كان لديك مشاكل مع التنشيط، راجع هذه [قائمة الأخطاء مفتاح المنتج الشائعة وحلولها](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions).
+2. ادخل مفتاح منتج Office 365 واتبع المطالبات لتنشيط اشتراكك. إذا كانت لديك مشاكل في التنشيط ، فتحقق من [قائمه الأخطاء والحلول الرئيسية الخاصة بالمنتجات الشائعة](https://docs.microsoft.com/office365/admin/misc/product-key-errors-and-solutions).

@@ -1,9 +1,8 @@
 ---
-title: إضافة عنوان بريد إلكتروني آخر إلى قائمة توزيع 713
+title: 713 أضافه عنوان بريد الكتروني إضافي إلى قائمه توزيع
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,21 +12,21 @@ ms.custom:
 - "713"
 - "3"
 ms.assetid: 870f16c0-24ac-4dec-a3e3-14719e6a496a
-ms.openlocfilehash: 5bf91d9ff6824fd5ee10510c4a5f0c85edf4be7e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: c51ed54fcbdf131605995b95bd0619d877e96b29
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494766"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766194"
 ---
-# <a name="add-an-email-address-for-a-distribution-group"></a>إضافة عنوان بريد إلكتروني لمجموعة التوزيع
+# <a name="add-an-email-address-for-a-distribution-group"></a>أضافه عنوان بريد الكتروني لمجموعه توزيع
 
-لإضافة عناوين البريد الإلكتروني لمجموعة توزيع موجودة، اتبع الخطوات التالية:
+لأضافه عناوين البريد الكتروني لمجموعه توزيع موجودة ، اتبع الخطوات التالية:
 
-1. في [مركز مسؤول Exchange](https://outlook.office365.com/ecp/)، انتقل إلى **المستلمين** \> **المجموعات**.
+1. في [مركز مسؤول Exchange](https://outlook.office365.com/ecp/)، انتقل إلى **مجموعات** **المستلمين** \> .
 
-2. حدد مجموعة التوزيع الذي تريد تعديله، وانقر فوق **تحرير**.
+2. حدد مجموعه التوزيع التي تريد تعديلها ، ثم انقر فوق **تحرير**.
 
-3. في خصائص المجموعة، انتقل إلى علامة التبويب **خيارات البريد الإلكتروني** لإضافة عناوين البريد الإلكتروني. 
+3. في خصائص المجموعة ، انتقل إلى علامة التبويب **خيارات البريد** الكتروني لأضافه عناوين البريد الكتروني. 
 
-لمزيد من المعلومات، راجع [خيارات البريد الإلكتروني](https://technet.microsoft.com/library/bb124513.aspx#emailoptions).
+لمزيد من المعلومات ، راجع [خيارات البريد الكتروني](https://technet.microsoft.com/library/bb124513.aspx#emailoptions).

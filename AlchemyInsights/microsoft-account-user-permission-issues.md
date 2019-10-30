@@ -1,5 +1,5 @@
 ---
-title: استكشاف الأخطاء وإصلاحها - لم يتم العثور على المستخدم في الدليل
+title: استكشاف أخطاء المشكلة-لم يتم العثور علي المستخدم في الدليل
 ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
@@ -8,31 +8,31 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
-ms.openlocfilehash: 81b9dafe8e27e5f73fe232c51ff56fed3fec29b4
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 59713231da25be441e7c05d788337e66bf17265a
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36754179"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768788"
 ---
-# <a name="troubleshoot-issue---user-not-found-in-directory"></a>استكشاف الأخطاء وإصلاحها - لم يتم العثور على المستخدم في الدليل
+# <a name="troubleshoot-issue---user-not-found-in-directory"></a>استكشاف أخطاء المشكلة-لم يتم العثور علي المستخدم في الدليل
 
-إذا كان المستخدمون يتلقون رسالة خطأ "لا يمكن العثور على المستخدم" في الدليل. الرجاء المحاولة مرة أخرى حيث يكون "نوع المشكلة" المستخدم غير موجود في الدليل.
+إذا كان المستخدمون يتلقون رسالة خطا "لا يمكن العثور علي المستخدم" في الدليل ، الرجاء المحاولة مره أخرى حيث "نوع المشكلة" المستخدم غير موجود في الدليل.
 
 يمكن إكمال الخطوات التالية لاستكشاف المشكلة وإصلاحها.
 
-- تأكد من أن الحساب الذي قبل دعوة البريد الإلكتروني هو نفس الحساب الذي يتم استخدامه لتسجيل الدخول لاحقًا. تأكد من أن المستخدم يستخدم نفس الحساب لقبول الدعوة والتسجيل في الموقع. 
+- تاكد من ان الحساب الذي قبل دعوه البريد الكتروني هو نفس الحساب الذي يتم استخدامه لتسجيل الدخول لاحقا. تاكد من ان المستخدم يستخدم نفس الحساب لقبول الدعوة وتسجيل الدخول إلى الموقع. 
 
-لمزيد من المعلومات، راجع [كيفية إدارة</a> الأسماء المستعارة لحساب Microsoft الخاص بك لإدارة تسجيل دخول Office 365](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases). 
+لمزيد من المعلومات ، راجع [كيفيه أداره الأسماء المستعارة لحساب</a> Microsoft الخاص بك لأداره المكتب 365 تسجيل الدخول](https://support.microsoft.com/help/12407/microsoft-account-how-to-manage-aliases). 
 
-- استعرض للوصول إلى كل موقع (مواقع) يتلقى المستخدم الخطأ. 
+- استعرض لكل موقع (مواقع) حيث يتلقى المستخدم الخطا. 
 
-إضافة "/_layouts/15/people.aspx/membershipgroupid =0" (ضمن علامات الاقتباس المزدوجة) إلى نهاية URL الموقع. 
+أضافه "/_layouts/15/sys\sscsx/mcershipgrid = 0" (ضمن علامات الاقتباس المزدوجة) إلى نهاية URL الموقع. 
 
-على سبيل المثال: https://<"contoso">.sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
+علي سبيل المثال: https://< "contoso" >. sharepoint.com/_layouts/15/people.aspx/membershipGroupId=0.
 
 - حدد المستخدم من القائمة.
 
-- انقر فوق **إزالة أذونات المستخدم** من الشريط. 
--  إضافة المستخدم مرة أخرى وإعادة إرسال الدعوة إلى المستخدم.
+- انقر فوق **أزاله أذونات المستخدم** من "الشريط". 
+-  أضافه المستخدم وأعاده إرسال الدعوة إلى المستخدم.
 

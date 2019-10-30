@@ -10,12 +10,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a8e56d32-2bd3-43ce-84df-925f6354fee0
-ms.openlocfilehash: 8f6179e75f076fb452baf79cac71262a87595c93
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 6ae4ce4d48f136b9c9befbabacbcb554cf436b44
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36750831"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766770"
 ---
 # <a name="problems-opening-office-files-from-sharepoint"></a>مشاكل في فتح ملفات Office من SharePoint
 
@@ -29,5 +29,5 @@ ms.locfileid: "36750831"
 
 لمزيد من المعلومات أو التفاصيل الرجاء الرجوع إلى المقالة ، [إصلاح مشاكل فتح المستندات في مكتبات SharePoint](https://support.office.com/article/Fix-problems-opening-documents-in-SharePoint-libraries-31329FA1-4AD0-47FC-95D8-BB0C5B12A536).
 
-**ملاحظه**: إذا كنت تواجه مشكلات في فتح المستندات في المستعرض أو العميل بشكل افتراضي ، فقد تحتاج إلى تغيير اعداد المكتبة. للقيام بذلك ، انتقل إلى المكتبة التي تواجه مشكلات > رمز الترس في الزاوية اليمني العليا > إعدادات المكتبة > إعدادات متقدمة > فتح المستندات في المستعرض.
+**ملاحظه:** إذا كنت تواجه مشكلات في فتح المستندات في المستعرض أو العميل بشكل افتراضي ، فقد تحتاج إلى تغيير اعداد المكتبة. للقيام بذلك ، انتقل إلى المكتبة التي تواجه**مشكلات** > > رمز الترس في الزاوية اليمني العليا > إعدادات **المكتبة** >  إعدادات متقدمة**فتح المستندات في المستعرض**.
 

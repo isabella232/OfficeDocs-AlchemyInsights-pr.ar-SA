@@ -1,5 +1,5 @@
 ---
-title: استعادة موقع محذوف
+title: استعاده موقع محذوف
 ms.author: pebaum
 author: Techwriter40
 manager: pamgreen
@@ -10,23 +10,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cf7521c3-97b4-465a-97eb-6c0a41338a30
-ms.openlocfilehash: fb29d30eb676de8d367002010d3eabebd73bc54b
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: c452169a260dd8b6f2aea32729c4228e54c18e77
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36756123"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769002"
 ---
 # <a name="recover-missing-or-deleted-site-collections"></a>استرداد مجموعات المواقع المفقودة أو المحذوفة
 
-كيفية استرداد مجموعات المواقع المفقودة أو المحذوفة.
+راجع المقالات التالية للحصول علي معلومات حول كيفيه استرداد مجموعات المواقع المفقودة أو المحذوفة في SharePoint.
 
-[استعادة المواقع المحذوفة](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
+[استعاده المواقع المحذوفة](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
 
-[استعادة باستخدام وحدة PowerShell SPO](https://support.office.com/article/Introduction-to-the-SharePoint-Online-Management-Shell-C16941C3-19B4-4710-8056-34C034493429)
+[استعاده باستخدام وحده القياس الاستراتيجي PowerShell](https://support.office.com/article/Introduction-to-the-SharePoint-Online-Management-Shell-C16941C3-19B4-4710-8056-34C034493429)
 
-إذا لم تتمكن من العثور على الموقع قد تحتاج إلى [البحث في سجل التدقيق في مركز التوافق أمان &amp; Office 365](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance).
+إذا لم تتمكن من العثور علي الموقع قد تحتاج إلى [البحث في سجل التدقيق في &amp; مركز التوافق الأمان 365 Office](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance).
 
-**ملاحظة:** مواقع الفريق "الحديثة" غير مرئية في واجهة مستخدم مسؤول SharePoint **الكلاسيكية.** يمكنك الوصول إلى قائمة المواقع "الحديثة" من [مركز مسؤول Sharepoint الجديد](https://docs.microsoft.com/sharepoint/get-started-new-admin-center).
+**ملاحظه:** مواقع الفريق "الحديثة" غير مرئية في واجهه مستخدم المسؤول SharePoint **الكلاسيكية** . يمكنك الوصول إلى قائمه المواقع "الحديثة" من [مركز مسؤول Sharepoint الجديد](https://docs.microsoft.com/sharepoint/get-started-new-admin-center).
 
 
