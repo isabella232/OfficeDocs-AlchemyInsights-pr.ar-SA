@@ -2,7 +2,6 @@
 title: إنشاء موقع SharePoint
 ms.author: efrene
 author: efrene
-ms.date: 1/16/2019
 ms.audience: ITPro
 ms.topic: article
 ms.collection: Adm_O365
@@ -14,12 +13,12 @@ ms.custom:
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 30c51d84005534cc1de9e8b8136da1a07be57b73
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: ac894195d847dfc009bc0b57647e1a474361f1c1
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36738184"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769578"
 ---
 # <a name="create-a-sharepoint-site"></a>إنشاء موقع SharePoint
 
@@ -31,10 +30,10 @@ ms.locfileid: "36738184"
 
 
   
-> [! نصائح
-> - لا يمكنك إنشاء موقع بنفس عنوان URL لموقع موجود. إذا قمت بحذف موقع وكانت ترغب في أعاده استخدام عنوان URL ، فمن الممكن ان يكون الموقع المحذوف لا يزال موجودا ضمن **المواقع المحذوفة**. لأداره المواقع المحذوفة ، راجع [حذف موقع](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). لأزاله موقع بالبالكامل مع Powershell ، راجع المثال cmdlet [SPSite أزاله](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .
-> - قد لا يتمكن بعض المستخدمين من إنشاء موقع. راجع [أداره إنشاء الموقع في SharePoint علي الإنترنت](https://docs.microsoft.com/sharepoint/manage-site-creation).
-> - من المحتمل ان يظهر الموقع عالقا عند **الإنشاء** لفتره أطول من المتوقع. إذا مرت أكثر من 24 ساعة منذ ان رايت هذه المسالة لأول مره ، يرجى تسجيل تذكره الدعم. في كثير من الحالات ، نحن نعمل بالفعل علي حل. من فضلك أعطنا 24 ساعة علي الأقل لإكمال الحل.
-> - إذا كنت بحاجه إلى إنشاء موقع فريق جديد لا يتضمن مجموعه 365 Office ، 
+**نصائح:**
+- لا يمكنك إنشاء موقع بنفس عنوان URL لموقع موجود. إذا قمت بحذف موقع وكانت ترغب في أعاده استخدام عنوان URL ، فمن الممكن ان يكون الموقع المحذوف لا يزال موجودا ضمن **المواقع المحذوفة**. لأداره المواقع المحذوفة ، راجع [حذف موقع](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site). لأزاله موقع بالبالكامل مع Powershell ، راجع المثال cmdlet [SPSite أزاله](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) .
+- قد لا يتمكن بعض المستخدمين من إنشاء موقع. راجع [أداره إنشاء الموقع في SharePoint علي الإنترنت](https://docs.microsoft.com/sharepoint/manage-site-creation).
+- من المحتمل ان يظهر الموقع عالقا عند **الإنشاء** لفتره أطول من المتوقع. إذا مرت أكثر من 24 ساعة منذ ان رايت هذه المسالة لأول مره ، يرجى تسجيل تذكره الدعم. في كثير من الحالات ، نحن نعمل بالفعل علي حل. من فضلك أعطنا 24 ساعة علي الأقل لإكمال الحل.
+- إذا كنت بحاجه إلى إنشاء موقع فريق جديد لا يتضمن مجموعه 365 Office ، 
 
 

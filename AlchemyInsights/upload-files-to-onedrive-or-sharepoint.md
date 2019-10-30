@@ -1,5 +1,5 @@
 ---
-title: تحميل ملفات إلى SharePoint أو أندريف
+title: تحميل الملفات إلى OneDrive أو SharePoint
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -11,22 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
-ms.openlocfilehash: 90a67243716eb66357ffa362df31f7b064170918
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 9af01456f453c0d0cffc7c2d89f11eba2beda4ec
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36532498"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769866"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a>تحميل ملفات إلى SharePoint أو أندريف
+# <a name="upload-files-to-onedrive-or-sharepoint"></a>تحميل الملفات إلى OneDrive أو SharePoint
 
-1. في مستعرض ويب، انتقل إلى الموقع حيث تريد تحميل الملفات.
+1. في متصفح الويب الخاص بك ، انتقل إلى الموقع حيث تريد تحميل الملفات.
     
-2. فتح "مستكشف الملفات" ثم استعرض إلى الملف الذي تريد تحميله.
+2. افتح "مستكشف الملفات" واستعرض الملفات التي تريد تحميلها.
     
-3. حدد الملفات وسحبها إلى موقع SharePoint أو أندريف. ملاحظة: إذا كنت تستخدم Microsoft الحافة أو موزيلا فايرفوكس جوجل كروم، يمكنك أيضا تحميل مجلد وكافة الملفات الموجودة فيه.
+3. حدد الملفات واسحبها إلى الموقع في OneDrive أو SharePoint. ملاحظه: إذا كنت تستخدم مايكروسوفت ايدج ، موزيلا فايرفوكس ، أو جوجل كروم ، يمكنك أيضا تحميل مجلد وجميع الملفات في ذلك.
     
-> [!NOTE]
->  يمكنك تحميل ملفات 15 غيغابايت في الحجم. لا يمكن أن يكون المسار الكامل لملف (متضمناً اسم الملف) > أكثر من 400 حرفاً. > إذا كنت تحتاج إلى تحميل ملفات أكثر من 100، [استخدام عميل المزامنة أندريف](https://go.microsoft.com/fwlink/?linkid=866427). 
+**تلاحظ:**
+- يمكنك تحميل الملفات بحجم يصل إلى 15 غيغابايت. 
+- لا يمكن ان يكون المسار الكامل لملف (بما في ذلك اسم الملف) أكثر من 400 حرفا في الطول. 
+- إذا كنت بحاجه إلى تحميل ملفات أكثر من 100 ، [استخدم عميل المزامنة اندريف](https://go.microsoft.com/fwlink/?linkid=866427). 
   
 

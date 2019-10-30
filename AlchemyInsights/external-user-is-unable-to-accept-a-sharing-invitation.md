@@ -2,7 +2,6 @@
 title: المستخدم الخارجي غير قادر علي قبول دعوه مشاركه
 ms.author: efrene
 author: efrene
-ms.date: 8/8/2019
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +11,16 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2383"
-ms.openlocfilehash: 72e9321c43e33e3ea8ef50592d5d4ea5d9568d7c
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: ebbd33fdff837c02b5f9220b3e895679041330bd
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36735880"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37769110"
 ---
 # <a name="external-user-is-unable-to-accept-a-sharing-invitation"></a>المستخدم الخارجي غير قادر علي قبول دعوه مشاركه
 
-إذا كان مستخدم خارجي غير قادر علي قبول دعوه مشاركه ، يرجى محاولة زيارة الروابط أدناه: 
+إذا كان مستخدم خارجي غير قادر علي قبول دعوه مشاركه SharePoint أو اندريف ، الرجاء محاولة زيارة الارتباطات أدناه: 
 
 - ["تم رفض الوصول" ، "تحتاج إلى اذن للوصول إلى هذا الموقع" ، أو "المستخدم لم يتم العثور عليه في الدليل" أخطاء في SharePoint علي الإنترنت و اندريف للعمل](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
 - [خطا "نهج مؤسستك لا تسمح لك بالمشاركة مع هؤلاء المستخدمين" عند مشاركه عنصر أو موقع في SharePoint علي الإنترنت أو اندريف للعمل](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
