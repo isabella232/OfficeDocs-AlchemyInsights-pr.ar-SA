@@ -1,9 +1,8 @@
 ---
-title: إرفاق الملفات 8000052 في Outlook.com
+title: 8000052 إرفاق ملفات في Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 5/31/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,18 +11,18 @@ ms.custom:
 - "857"
 - "8000052"
 ms.assetid: f6d43c80-cfca-4898-9567-746177cfadc4
-ms.openlocfilehash: d27757e8e10be75ec9ed7b14ba8ad965d6b3fb2e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 07f80551d99f26002dd5559b4b76acfea8e7bf5a
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517630"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37768319"
 ---
-# <a name="how-to-attach-files"></a><span data-ttu-id="596f5-102">كيفية إرفاق الملفات</span><span class="sxs-lookup"><span data-stu-id="596f5-102">How to attach files</span></span>
+# <a name="how-to-attach-files-in-outlook"></a><span data-ttu-id="0e1ed-102">كيفيه إرفاق الملفات في اوتلوك</span><span class="sxs-lookup"><span data-stu-id="0e1ed-102">How to attach files in OUtlook</span></span> 
 
-1. <span data-ttu-id="596f5-103">قم بإنشاء رسالة جديدة أو الرد على رسالة.</span><span class="sxs-lookup"><span data-stu-id="596f5-103">Compose a new message or reply to a message.</span></span>
+1. <span data-ttu-id="0e1ed-103">إنشاء رسالة جديده أو الرد علي رسالة.</span><span class="sxs-lookup"><span data-stu-id="0e1ed-103">Compose a new message or reply to a message.</span></span>
 
-2. <span data-ttu-id="596f5-104">في أسفل جزء "إنشاء"، حدد أيقونة دبوس الورق.</span><span class="sxs-lookup"><span data-stu-id="596f5-104">At the bottom of the compose pane, select the paperclip icon.</span></span>
+2. <span data-ttu-id="0e1ed-104">في أسفل جزء الإنشاء ، حدد أيقونه مشبك الورق.</span><span class="sxs-lookup"><span data-stu-id="0e1ed-104">At the bottom of the compose pane, select the paperclip icon.</span></span>
 
-<span data-ttu-id="596f5-105">معرفة المزيد حول [كيفية إرفاق الملفات في Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="596f5-105">Learn more about [how to attach files in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409).</span></span>
+<span data-ttu-id="0e1ed-105">مزيد من [المعلومات حول كيفيه إرفاق الملفات في Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409).</span><span class="sxs-lookup"><span data-stu-id="0e1ed-105">Learn more about [how to attach files in Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2001702&amp;clcid=0x409).</span></span>
   

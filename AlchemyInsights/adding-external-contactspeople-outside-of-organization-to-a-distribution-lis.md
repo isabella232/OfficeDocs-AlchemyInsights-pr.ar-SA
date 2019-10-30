@@ -1,9 +1,8 @@
 ---
-title: 718 إضافة جهات الاتصال الخارجي/أشخاص خارج المؤسسة إلى قائمة توزيع
+title: 718 أضافه جات اتصال خارجيه/أشخاص خارج المؤسسة إلى قائمه توزيع
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +12,15 @@ ms.custom:
 - "718"
 - "3"
 ms.assetid: e6d64379-2dd9-4fda-a9bd-e9d61a5a4205
-ms.openlocfilehash: e31a9f4213a69e84f78fcd00b767edb04bd9ec4e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 57f8b5859a5a91b9ce83d7ca8da5330ac73413f9
+ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494550"
+ms.lasthandoff: 10/29/2019
+ms.locfileid: "37766626"
 ---
-# <a name="add-external-email-addresses-to-a-distribution-group"></a><span data-ttu-id="c6094-102">إضافة عناوين البريد الإلكتروني الخارجي لمجموعة التوزيع</span><span class="sxs-lookup"><span data-stu-id="c6094-102">Add external email addresses to a distribution group</span></span>
+# <a name="add-external-email-addresses-to-a-distribution-group"></a><span data-ttu-id="9427c-102">أضافه عناوين بريد الكتروني خارجيه إلى مجموعه توزيع</span><span class="sxs-lookup"><span data-stu-id="9427c-102">Add external email addresses to a distribution group</span></span>
 
-<span data-ttu-id="c6094-103">أولاً، تحتاج إلى إنشاء جهة اتصال في المؤسسة الخاصة بك لعنوان بريد إلكتروني خارجي.</span><span class="sxs-lookup"><span data-stu-id="c6094-103">First, you need to create a contact in your organization for the external email address.</span></span> <span data-ttu-id="c6094-104">وبعد ذلك، يمكنك إضافة جهة الاتصال إلى مجموعة التوزيع.</span><span class="sxs-lookup"><span data-stu-id="c6094-104">Then, you can add the contact to the distribution group.</span></span> <span data-ttu-id="c6094-105">لمزيد من المعلومات، راجع [إضافة المستخدمين الخارجيين إلى مجموعة توزيع؟](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba).</span><span class="sxs-lookup"><span data-stu-id="c6094-105">For more information, see [Adding external users to a Distribution Group?](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba).</span></span>
+<span data-ttu-id="9427c-103">أولا ، تحتاج إلى إنشاء جهة اتصال في مؤسستك لعنوان البريد الكتروني الخارجي.</span><span class="sxs-lookup"><span data-stu-id="9427c-103">First, you need to create a contact in your organization for the external email address.</span></span> <span data-ttu-id="9427c-104">بعد ذلك ، يمكنك أضافه جهة الاتصال إلى مجموعه التوزيع.</span><span class="sxs-lookup"><span data-stu-id="9427c-104">Then, you can add the contact to the distribution group.</span></span> <span data-ttu-id="9427c-105">لمزيد من المعلومات ، راجع [أضافه مستخدمين خارجيين إلى مجموعه توزيع ؟](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba).</span><span class="sxs-lookup"><span data-stu-id="9427c-105">For more information, see [Adding external users to a Distribution Group?](https://support.office.com/client/caa0f310-0bb7-48e3-8ad2-cb358b53bbba).</span></span>
 
-<span data-ttu-id="c6094-106">إذا كنت تريد المستخدمين الخارجيين لتتمكن من إرسال رسائل إلى مجموعة التوزيع، تحقق من تكوين المجموعة قبول البريد الإلكتروني من المرسلين الخارجيين.</span><span class="sxs-lookup"><span data-stu-id="c6094-106">If you want external users to be able to send messages to the distribution group, verify the group is configured to accept mail from external senders.</span></span> <span data-ttu-id="c6094-107">لمزيد من المعلومات، راجع [إدارة التسليم](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement).</span><span class="sxs-lookup"><span data-stu-id="c6094-107">For more information, see [Delivery management](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement).</span></span>
+<span data-ttu-id="9427c-106">إذا كنت تريد ان يتمكن المستخدمون الخارجيون من إرسال رسائل إلى مجموعه التوزيع ، تحقق من تكوين المجموعة لقبول البريد من المرسلين الخارجيين.</span><span class="sxs-lookup"><span data-stu-id="9427c-106">If you want external users to be able to send messages to the distribution group, verify the group is configured to accept mail from external senders.</span></span> <span data-ttu-id="9427c-107">لمزيد من المعلومات ، راجع [أداره التسليم](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement).</span><span class="sxs-lookup"><span data-stu-id="9427c-107">For more information, see [Delivery management](https://technet.microsoft.com/library/bb124513.aspx#deliverymanagement).</span></span>
