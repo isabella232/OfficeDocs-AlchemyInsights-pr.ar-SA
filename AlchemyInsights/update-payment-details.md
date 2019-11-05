@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: 768b2bcdc6b34b4448b7985863b77d525ee849fb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: f30607571ec13d1f31d774bd78c33a69d856118d
+ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36660923"
+ms.lasthandoff: 11/01/2019
+ms.locfileid: "37921801"
 ---
 # <a name="update-payment-details"></a>تحديث تفاصيل الدفع
 
@@ -35,5 +35,9 @@ ms.locfileid: "36660923"
 4. قم بإجراء التحديثات، ثم اختر **حفظ**.
 
 5. لإزالة طريقة الدفع هذه، اختر **حذف**.
+
+**استكشاف الأخطاء وإصلاحها**
+
+إذا واجهت مشاكل أثناء تحميل الصفحة، فحاول فتح صفحة الويب في مستعرض آخر، أو حاول فتح الصفحة في نافذة مستعرض خاص، مثل نافذة InPrivate في Microsoft Edge أو نافذة incognito في Google Chrome. 
 
 للحصول على مزيد من المعلومات، اطلع على [إضافة بطاقة ائتمان أو حساب مصرفي أو تحديثه أو إزالته في Office 365 for Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) و[استكشاف أخطاء بطاقات الائتمان والحسابات المصرفية وإصلاحها](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
