@@ -9,10 +9,10 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
 ms.openlocfilehash: 4ca65583fbd98867026e9e3cc8f36fe38798aa85
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36747735"
 ---
 # <a name="access-denied-when-viewing-a-workflow"></a>تم رفض الوصول عند عرض سير عمل
@@ -27,5 +27,5 @@ ms.locfileid: "36747735"
   
  3. قم باضافه المستخدمين بشكل صريح إلى السطر "إلى" أو "نسخه" إذا تعذر تغيير رؤية العضوية لمجموعه SharePoint.
   
-لعرض مزيد من التفاصيل يرجى الرجوع إلى [HTTP غير مصرح به إلى/_vti_bin/client.svc/sp.utilities.utility.SendEmail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
+لعرض مزيد من التفاصيل يرجى الرجوع إلى [HTTP غير مصرح به ل/_vti_bin/client.svc/sp.utilities.utility.sendemail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
   
