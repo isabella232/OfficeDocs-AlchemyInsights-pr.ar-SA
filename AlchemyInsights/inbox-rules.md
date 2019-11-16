@@ -13,10 +13,10 @@ ms.custom:
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
 ms.openlocfilehash: cebeea438ac881d9930eecb9bcb031f9a6e92977
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36499626"
 ---
 # <a name="inbox-rules"></a>قواعد علبه الوارد
@@ -27,4 +27,4 @@ ms.locfileid: "36499626"
 
 - [أداره الرسائل باستخدام قواعد علبه الوارد في Outlook علي الويب](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
 
-يمكنك أيضا أداره قواعد علبه الوارد في Exchange عبر الإنترنت PowerShell. لمزيد من المعلومات ، راجع [الحصول علي-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (طريقه العرض) ، [جديد-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (إنشاء) ، [أزاله-Inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (حذف) ، [مجموعه-Inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (تعديل موجود) ، [تعطيل-Inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (تعطيل موجودة) ، [وتمكين-inboxrule ](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule)(تمكين القائمة).
+يمكنك أيضا أداره قواعد علبه الوارد في Exchange عبر الإنترنت PowerShell. لمزيد من المعلومات ، راجع [الحصول علي-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (طريقه العرض) ، [جديد-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (إنشاء) ، [أزاله-Inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (حذف) ، [مجموعه-Inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (تعديل موجود) ، [تعطيل-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (تعطيل موجودة) ، [وتمكين-inboxrule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule) (تمكين الموجودة).

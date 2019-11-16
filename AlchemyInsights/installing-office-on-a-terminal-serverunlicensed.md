@@ -11,10 +11,10 @@ ms.custom:
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
 ms.openlocfilehash: 51d1a66fdf9774bbe58bfdbe89317bc93834be09
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "37205396"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>تثبيت Office علي ملقم المحطة الطرفية
@@ -46,7 +46,7 @@ ms.locfileid: "37205396"
 
 2. حدد نعم عند مطالبتك بالسماح لمحرر التسجيل باجراء تغييرات علي جهازك.
 
-3. في "محرر التسجيل" ، أضافه قيمه سلسله من **Sharedالكمبيوادالترخيص** مع اعداد من 1 ضمن HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Date\clortorun\contate.
+3. في "محرر التسجيل" ، أضافه قيمه سلسله من **Sharedالكمبيوادالترخيص** مع اعداد من 1 ضمن HKEY_LOCAL_MACHINE \ البرنامج النصي \ Microsoft \Wic\clortorun\contate.
 
 7. علي ملقم RDS ***تسجيل الدخول كمستخدم نهائي*** [وتحقق من تمكين تنشيط الكمبيوتر المشتركة ل Office 365 proplus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
 
