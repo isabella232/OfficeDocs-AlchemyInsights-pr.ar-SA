@@ -13,17 +13,17 @@ ms.custom:
 - "5200024"
 ms.assetid: 2060c9a1-e714-4d93-925e-629c82c35986
 ms.openlocfilehash: d5486e218e9b6e3d632330bcc3a64b7b87952581
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36747663"
 ---
-# <a name="cant-add-default-2010-approval-workflow"></a><span data-ttu-id="0ed8d-102">لا يمكن أضافه الافتراضي 2010 سير العمل الموافقة</span><span class="sxs-lookup"><span data-stu-id="0ed8d-102">Can't add default 2010 Approval Workflow</span></span>
+# <a name="cant-add-default-2010-approval-workflow"></a><span data-ttu-id="df247-102">لا يمكن أضافه الافتراضي 2010 سير العمل الموافقة</span><span class="sxs-lookup"><span data-stu-id="df247-102">Can't add default 2010 Approval Workflow</span></span>
 
-<span data-ttu-id="0ed8d-103">في مجموعه موقع Microsoft SharePoint ، لا يمكنك أضافه سير عمل قابل لأعاده الاستخدام عالميا (مثل "الموافقة-SharePoint 2010") إلى قائمه أو مكتبه.</span><span class="sxs-lookup"><span data-stu-id="0ed8d-103">In a Microsoft SharePoint site collection, you can't add a globally reusable workflow (such as "Approval - SharePoint 2010") to a list or library.</span></span> <span data-ttu-id="0ed8d-104">قد يكون سير عمل الموافقة مفقودا.</span><span class="sxs-lookup"><span data-stu-id="0ed8d-104">The approval workflow may be missing.</span></span> <span data-ttu-id="0ed8d-105">لحل هذه المشكلة ، راجع [لا يمكن أضافه سير عمل قابله لأعاده الاستخدام عالميا إلى قائمه أو مكتبه SharePoint](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library).</span><span class="sxs-lookup"><span data-stu-id="0ed8d-105">To resolve this issue, refer to [Can't add a globally reusable workflow to a SharePoint list or library](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library).</span></span>
+<span data-ttu-id="df247-103">في مجموعه موقع Microsoft SharePoint ، لا يمكنك أضافه سير عمل قابل لأعاده الاستخدام عالميا (مثل "الموافقة-SharePoint 2010") إلى قائمه أو مكتبه.</span><span class="sxs-lookup"><span data-stu-id="df247-103">In a Microsoft SharePoint site collection, you can't add a globally reusable workflow (such as "Approval - SharePoint 2010") to a list or library.</span></span> <span data-ttu-id="df247-104">قد يكون سير عمل الموافقة مفقودا.</span><span class="sxs-lookup"><span data-stu-id="df247-104">The approval workflow may be missing.</span></span> <span data-ttu-id="df247-105">لحل هذه المشكلة ، راجع [لا يمكن أضافه سير عمل قابله لأعاده الاستخدام عالميا إلى قائمه أو مكتبه SharePoint](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library).</span><span class="sxs-lookup"><span data-stu-id="df247-105">To resolve this issue, refer to [Can't add a globally reusable workflow to a SharePoint list or library](https://support.microsoft.com/help/4467263/sharepoint-designer-2013-shows-empty-wfpub-library).</span></span>
 
-<span data-ttu-id="0ed8d-106">لمزيد من المعلومات حول "موافقات سير العمل" ، راجع [كل ما يتعلق بمهام سير الموافقة](https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742).</span><span class="sxs-lookup"><span data-stu-id="0ed8d-106">For more info about Workflow Approvals, see [All about Approval workflows](https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742).</span></span> 
+<span data-ttu-id="df247-106">لمزيد من المعلومات حول "موافقات سير العمل" ، راجع [كل ما يتعلق بمهام سير الموافقة](https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742).</span><span class="sxs-lookup"><span data-stu-id="df247-106">For more info about Workflow Approvals, see [All about Approval workflows](https://support.office.com/article/All-about-Approval-workflows-078C5A89-821F-44A9-9530-40BB34F9F742).</span></span> 
  
-<span data-ttu-id="0ed8d-107">تعرف [علي المزيد حول الموافقات الحديثة في التدفق](https://flow.microsoft.com/blog/introducing-modern-approvals).</span><span class="sxs-lookup"><span data-stu-id="0ed8d-107">Learn more about [Modern Approvals in Flow](https://flow.microsoft.com/blog/introducing-modern-approvals).</span></span> 
+<span data-ttu-id="df247-107">تعرف [علي المزيد حول الموافقات الحديثة في التدفق](https://flow.microsoft.com/blog/introducing-modern-approvals).</span><span class="sxs-lookup"><span data-stu-id="df247-107">Learn more about [Modern Approvals in Flow](https://flow.microsoft.com/blog/introducing-modern-approvals).</span></span> 
   

@@ -13,27 +13,27 @@ ms.custom:
 - "2000020"
 ms.assetid: b54d4f87-e366-47e5-b3d8-42477f72f6a3
 ms.openlocfilehash: e72aa630a6ef3998b4f20f1a75c9826a23494705
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/25/2019
+ms.lasthandoff: 11/15/2019
 ms.locfileid: "36735412"
 ---
-# <a name="office-installation-hangs-or-gets-stuck"></a><span data-ttu-id="23ebd-102">توقف تثبيت Office أو يحصل عالقا</span><span class="sxs-lookup"><span data-stu-id="23ebd-102">Office installation hangs or gets stuck</span></span>
+# <a name="office-installation-hangs-or-gets-stuck"></a><span data-ttu-id="b667d-102">توقف تثبيت Office أو يحصل عالقا</span><span class="sxs-lookup"><span data-stu-id="b667d-102">Office installation hangs or gets stuck</span></span>
 
-<span data-ttu-id="23ebd-103">قد تشاهد هذا السلوك بسبب اتصال الشبكة أو برنامج مكافحه الفيروسات أو إعدادات Windows Update علي جهاز الكمبيوتر الخاص بك.</span><span class="sxs-lookup"><span data-stu-id="23ebd-103">You might see this behavior due to network connectivity, antivirus software, or Windows Update settings on your computer.</span></span> <span data-ttu-id="23ebd-104">واليك بعض الأشياء التي يمكنك محاولة إصلاح المشكلة.</span><span class="sxs-lookup"><span data-stu-id="23ebd-104">Here are some things you can try to fix the problem.</span></span>
+<span data-ttu-id="b667d-103">قد تشاهد هذا السلوك بسبب اتصال الشبكة أو برنامج مكافحه الفيروسات أو إعدادات Windows Update علي جهاز الكمبيوتر الخاص بك.</span><span class="sxs-lookup"><span data-stu-id="b667d-103">You might see this behavior due to network connectivity, antivirus software, or Windows Update settings on your computer.</span></span> <span data-ttu-id="b667d-104">واليك بعض الأشياء التي يمكنك محاولة إصلاح المشكلة.</span><span class="sxs-lookup"><span data-stu-id="b667d-104">Here are some things you can try to fix the problem.</span></span>
   
-- <span data-ttu-id="23ebd-105">أعاده تشغيل جهاز الكمبيوتر والتحقق من تثبيت Office</span><span class="sxs-lookup"><span data-stu-id="23ebd-105">Restart your computer and check if Office Installed</span></span>
+- <span data-ttu-id="b667d-105">أعاده تشغيل جهاز الكمبيوتر والتحقق من تثبيت Office</span><span class="sxs-lookup"><span data-stu-id="b667d-105">Restart your computer and check if Office Installed</span></span>
 
-- <span data-ttu-id="23ebd-106">استخدام اتصال سلكي</span><span class="sxs-lookup"><span data-stu-id="23ebd-106">Use a wired connection</span></span>
+- <span data-ttu-id="b667d-106">استخدام اتصال سلكي</span><span class="sxs-lookup"><span data-stu-id="b667d-106">Use a wired connection</span></span>
 
-- <span data-ttu-id="23ebd-107">إذا كنت علي اتصال بطيء بالإنترنت ، فقم بتثبيت Office [باستخدام مثبت office دون اتصال](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)</span><span class="sxs-lookup"><span data-stu-id="23ebd-107">If you're on a slow internet connection, install Office [using the Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)</span></span>
+- <span data-ttu-id="b667d-107">إذا كنت علي اتصال بطيء بالإنترنت ، فقم بتثبيت Office [باستخدام مثبت office دون اتصال](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)</span><span class="sxs-lookup"><span data-stu-id="b667d-107">If you're on a slow internet connection, install Office [using the Office offline installer](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)</span></span>
 
-- <span data-ttu-id="23ebd-108">إيقاف تشغيل برنامج مكافحه الفيروسات مؤقتا</span><span class="sxs-lookup"><span data-stu-id="23ebd-108">Temporarily turn off antivirus software</span></span>
+- <span data-ttu-id="b667d-108">إيقاف تشغيل برنامج مكافحه الفيروسات مؤقتا</span><span class="sxs-lookup"><span data-stu-id="b667d-108">Temporarily turn off antivirus software</span></span>
 
-- <span data-ttu-id="23ebd-109">تشغيل الإصلاح عبر الإنترنت من لوحه التحكم</span><span class="sxs-lookup"><span data-stu-id="23ebd-109">Run online repair from Control Panel</span></span>
+- <span data-ttu-id="b667d-109">تشغيل الإصلاح عبر الإنترنت من لوحه التحكم</span><span class="sxs-lookup"><span data-stu-id="b667d-109">Run online repair from Control Panel</span></span>
 
-- <span data-ttu-id="23ebd-110">أزاله Office وأعاده تثبيته</span><span class="sxs-lookup"><span data-stu-id="23ebd-110">Remove and reinstall Office</span></span>
+- <span data-ttu-id="b667d-110">أزاله Office وأعاده تثبيته</span><span class="sxs-lookup"><span data-stu-id="b667d-110">Remove and reinstall Office</span></span>
 
-[<span data-ttu-id="23ebd-111">يستغرق المكتب وقتا طويلا لتثبيت</span><span class="sxs-lookup"><span data-stu-id="23ebd-111">Office is taking long to install</span></span>](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
+[<span data-ttu-id="b667d-111">يستغرق المكتب وقتا طويلا لتثبيت</span><span class="sxs-lookup"><span data-stu-id="b667d-111">Office is taking long to install</span></span>](https://support.office.com/article/0f09f357-3fef-42a6-b8aa-cef4c6c44bdf?wt.mc_id=Alchemy_ClientDIA)
   
