@@ -12,15 +12,15 @@ ms.custom:
 - "3"
 - "71"
 - "13"
-ms.openlocfilehash: 16f99b3bfce3513ada0e0c14ee8e3106cb7565d7
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 4bcf4a433fe5d49a61125dff60586ac717024da1
+ms.sourcegitcommit: 4ecd61b709d3ccb730dc120df9445754d5ae4f77
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768355"
+ms.lasthandoff: 11/19/2019
+ms.locfileid: "38704340"
 ---
 # <a name="become-an-admin"></a>تصبح مسؤولا
 
 للقيام بدور المسؤول للمؤسسة الخاصة بك ، تحتاج إلى السيطرة علي المستاجر في Office 365.
   
-اتبع الإرشادات الواردة في هذا الدليل: [هل استيلاء المسؤول في Office 365](https://docs.microsoft.com/office365/admin/misc/become-the-admin)
+اتبع الإرشادات الواردة في هذا الدليل: [استيلاء المشرف](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover#azure-ad-powershell-cmdlets-for-the-forcetakeover-option)
