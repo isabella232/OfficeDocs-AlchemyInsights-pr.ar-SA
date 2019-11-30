@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000165"
 - "3165"
-ms.openlocfilehash: c6f0331161876e96ef14599fed3fdbe9d6ae11bd
-ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
+ms.openlocfilehash: a05ddf7ef09b3a268b1f2bd58aea3b4d4e9d905e
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37922033"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627869"
 ---
 # <a name="how-to-customize-sharepoint-site-permissions-via-sharepoint-groups"></a>كيفيه تخصيص أذونات موقع SharePoint عبر مجموعات SharePoint 
 
 مجموعه SharePoint هي مجموعه من المستخدمين الذين لديهم كافة نفس مجموعه الأذونات إلى المواقع والمحتوي. بدلا من تعيين الأذونات لشخص واحد في كل مره ، يمكنك استخدام المجموعات لتعيين مستوي الاذن نفسه للعديد من الأشخاص بشكل ملائم في ان واحد.
 
-[تخصيص أذونات موقع SharePoint](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions?redirectSourcePath=%252fen-us%252farticle%252fcreate-and-manage-sharepoint-groups-b1e3cd23-1a78-4264-9284-87fed7282048)
+[تخصيص أذونات موقع SharePoint](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)

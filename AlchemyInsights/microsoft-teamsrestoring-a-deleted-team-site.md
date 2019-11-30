@@ -1,5 +1,5 @@
 ---
-title: الفرق Microsoft-استعادة موقع فريق المحذوف
+title: فرق Microsoft-استعاده موقع فريق محذوف
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -10,14 +10,13 @@ ms.custom:
 - "404"
 - "6500002"
 ms.assetid: b26be13f-7b8f-4393-9083-2b4d97b6cd80
-ms.openlocfilehash: 84aaa331fdd4d4e10fcbebe41800c86b3a457649
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 38eaf578b1b1bdd4df7217b2f0e57433640ee8e0
+ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666935"
+ms.lasthandoff: 11/27/2019
+ms.locfileid: "39627453"
 ---
-# <a name="restoring-a-deleted-team-in-microsoft-teams"></a>استعادة فريق محذوف في فرق Microsoft
+# <a name="restoring-a-deleted-team-in-microsoft-teams"></a>استعاده فريق محذوف في فرق Microsoft
 
-هل قمت بطريق الخطأ حذف فريق؟ إذا كان أقل من 30 يوما منذ أن قمت بحذف الفريق، أنت محظوظ؛ يمكنك استعادتها. للقيام بذلك، اتبع الخطوات هنا: [استعادة فريق محذوف](https://blogs.technet.microsoft.com/skypehybridguy/2017/07/23/restoring-a-deleted-team-in-microsoft-teams/)
-  
+هل قمت بحذف فريق بطريق الخطا ؟ إذا كان اقل من 30 يوما منذ قمت بحذف الفريق ، كنت في الحظ. يمكنك استعادته. للقيام بذلك ، اتبع الخطوات التالية: [استعاده فريق محذوف](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team).
