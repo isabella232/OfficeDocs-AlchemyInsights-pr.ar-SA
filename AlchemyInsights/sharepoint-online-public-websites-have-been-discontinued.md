@@ -1,7 +1,7 @@
 ---
-title: يتم إيقاف مواقع ويب العامة SharePoint على الإنترنت
+title: يتم إيقاف المواقع العامة SharePoint علي الإنترنت
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 manager: pamgreen
 ms.date: 1/2/2019
 ms.audience: Admin
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: a499e71407df388ef30b0bdd4d2c46184f13d0e8
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 3ff7447fa347d2b48ecb0b2701624c942a223518
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36750291"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40044102"
 ---
-# <a name="sharepoint-online-public-websites-have-been-discontinued"></a>تم إيقاف مواقع ويب العامة لـ SharePoint على الإنترنت
+# <a name="sharepoint-online-public-websites-have-been-discontinued"></a>تم إيقاف المواقع العامة SharePoint علي الإنترنت
 
-تم إيقاف مواقع ويب العامة SharePoint على الإنترنت.
+تم إيقاف المواقع العامة SharePoint علي الإنترنت.
 
-إذا قمت بإنشاء موقع ويب عام SharePoint على الإنترنت، فقد تمكنت من متابعة استخدامه من خلال 31 مارس عام 2018. إذا كنت ترغب في الاستمرار في وجود موقع ويب عام، تحتاج إلى إنشاء موقع ويب جديد مع موفر جديد. تم حذف المحتوى الموجود على موقع SharePoint على الإنترنت.
+إذا قمت بإنشاء موقع SharePoint علي الإنترنت العامة ، كنت قادرا علي الاستمرار في استخدامه من خلال مارس 31 ، 2018. إذا كنت ترغب في الاستمرار في الحصول علي موقع ويب عام ، فأنت بحاجه إلى إنشاء واحده جديده مع موفر جديد. تم حذف المحتوي الخاص بموقع SharePoint العام علي الإنترنت.
 
-للحصول على معلومات حول توقف موقع ويب العام، راجع [تفاصيل حول عملية إيقاف الميزة](https://go.microsoft.com/fwlink/?linkid=866980).
+للحصول علي معلومات حول إيقاف الموقع العام ، راجع [تفاصيل حول عمليه إيقاف الميزة](https://go.microsoft.com/fwlink/?linkid=866980).
