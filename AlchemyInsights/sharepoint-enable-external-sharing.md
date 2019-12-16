@@ -1,23 +1,23 @@
 ---
 title: تمكين المشاركة الخارجية في SharePoint علي الإنترنت
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: 4d197afd-e806-40ad-ac20-4b10bc497edb
-ms.openlocfilehash: f4c74f11b2b74f2de4b7e1c831012b5f92600917
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 131ed77f8cb38610ff21b97dd1b6eb3ec575d510
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36744412"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051664"
 ---
 # <a name="enable-external-sharing-in-sharepoint-online"></a>تمكين المشاركة الخارجية في SharePoint علي الإنترنت
 
-إذا كانت مؤسستك تقوم بالعمل الذي يتضمن مشاركه المستندات أو التعاون مباشره مع الموردين أو العملاء أو العملاء ، فيمكنك استخدام [ميزات المشاركة الخارجية ل SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) لمشاركه المحتوي مع أشخاص خارج المنظمه.
+إذا كانت مؤسستك تقوم بالعمل الذي يتضمن مشاركه المستندات أو التعاون مباشره مع الموردين أو العملاء أو العملاء ، فيمكنك استخدام [ميزات المشاركة الخارجية ل SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview) لمشاركه المحتوي مع أشخاص خارج مؤسستك.
 
 لمزيد من المعلومات حول المشاركة الخارجية (للضيوف) ، يرجى زيارة الروابط أدناه.
 

@@ -1,7 +1,7 @@
 ---
-title: مزيد من المعلومات حول مشكلات تقنية DLP
-ms.author: stephow
-author: stephow-MSFT
+title: مزيد من المعلومات حول قضايا DLP
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.audience: admin
 ms.topic: article
@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.custom:
 - "2447"
 - "3200001"
-ms.openlocfilehash: 0717b99f500fd9173167d2e3fcaff1b920d22d74
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 358e7d23a84a6cdc45cbaff384c66af1de786b26
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665155"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052276"
 ---
-# <a name="information-about-dlp-issues"></a>معلومات حول مسائل تقنية DLP
+# <a name="information-about-dlp-issues"></a>معلومات حول مشكلات DLP
 
-باستخدام نهج DLP، يمكنك تحديد ومراقبة وتلقائياً حماية المعلومات الحساسة عبر Office 365.
+باستخدام نهج DLP ، يمكنك تحديد المعلومات الحساسة ومراقبتها وحمايتها تلقائيا عبر Office 365.
 
-الرجاء زيارة هذه الارتباطات لمزيد من المعلومات:
+يرجى زيارة هذه الروابط لمزيد من المعلومات:
 
-- [نظرة عامة على منع فقدان البيانات](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)
-- [ما هي أنواع المعلومات الهامة البحث عن](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
-- [إنشاء نوع مخصص معلومات الحساسة](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type)
-- [إرسال إعلامات البريد الإلكتروني وإظهار تلميحات نهج](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
-- [حماية الملفات SharePoint على الإنترنت باستخدام تسميات الاستبقاء و DLP](https://docs.microsoft.com/office365/securitycompliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
-- [تقنية DLP والفرق Microsoft](https://docs.microsoft.com/office365/securitycompliance/dlp-microsoft-teams)
+- [نظره عامه حول منع فقدان البيانات](https://docs.microsoft.com/office365/securitycompliance/data-loss-prevention-policies)
+- [ما هي أنواع المعلومات الحساسة التي تبحث عنها](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+- [إنشاء نوع معلومات حساسة مخصصه](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type)
+- [إرسال اعلامات البريد الكتروني وإظهار تلميحات السياسة](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
+- [حماية ملفات SharePoint علي الإنترنت مع تسميات الاستبقاء و DLP](https://docs.microsoft.com/office365/securitycompliance/protect-sharepoint-online-files-with-office-365-labels-and-dlp)
+- [DLP وفرق مايكروسوفت](https://docs.microsoft.com/office365/securitycompliance/dlp-microsoft-teams)
 
-لاختبار البيانات باستخدام نوع معلومات حساسة مضمن أو مخصص، استخدم الخيار **نوع الاختبار** تحت **تصنيفات** > **أنواع المعلومات الحساسة**. لمزيد من المعلومات، راجع [أنواع الاختبار المخصص معلومات حساسة](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).
+لاختبار البيانات الخاصة بك باستخدام نوع معلومات مضمن أو مخصص ، استخدم خيار **نوع الاختبار** ضمن أنواع المعلومات**الحساسة** **للتصنيفات** > . لمزيد من المعلومات ، راجع [اختبار أنواع المعلومات الحساسة المخصصة](https://docs.microsoft.com/office365/securitycompliance/create-a-custom-sensitive-information-type#test-custom-sensitive-information-types-in-the-security--compliance-center).

@@ -1,7 +1,7 @@
 ---
 title: خطوات إنشاء سير عمل SharePoint
-ms.author: efrene
-author: efrene
+ms.author: pebaum
+author: pebaum
 ms.date: 8/6/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,28 +12,28 @@ ms.assetid: ''
 ms.custom:
 - "9000147"
 - "1718"
-ms.openlocfilehash: 5d346c68490fb6fde4bd86c24947e2e56d88fb15
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ee76edc1ab5d4b174d72e61f432f3ff7fe07e0c5
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559615"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053536"
 ---
 # <a name="steps-to-create-a-sharepoint-workflow"></a>خطوات إنشاء سير عمل SharePoint
 
-- إذا كنت غير قادر على إضافة سير عمل الموافقة 2010 SharePoint، راجع [لا يمكن إضافة الافتراضي 2010 "سير"](https://docs.microsoft.com/alchemyinsights/can-t-add-default-2010-approval-workflow).
-- كيف يتم إنشاء مهام سير العمل:
-    - [سير العمل SharePoint Designer 2013](https://docs.microsoft.com/sharepoint/dev/general-development/creating-a-workflow-by-using-sharepoint-designer-and-the-sharepoint-wo)
-    - [سير العمل 2010 SharePoint Designer](https://support.office.com/article/introduction-to-designing-and-customizing-workflows-32c9c0bf-5e20-4f74-8b9c-d3ea79f2962b)
-    - [مقدمة حول سير العمل SharePoint](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3)
+- إذا كنت غير قادر علي أضافه سير عمل الموافقة 2010 SharePoint ، راجع [لا يمكن أضافه الافتراضي 2010 سير العمل الموافقة](https://docs.microsoft.com/alchemyinsights/can-t-add-default-2010-approval-workflow).
+- كيفيه إنشاء مهام سير العمل:
+    - [2013 سير العمل من مصمم SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/creating-a-workflow-by-using-sharepoint-designer-and-the-sharepoint-wo)
+    - [2010 سير العمل من مصمم SharePoint](https://support.office.com/article/introduction-to-designing-and-customizing-workflows-32c9c0bf-5e20-4f74-8b9c-d3ea79f2962b)
+    - [مقدمه حول سير عمل SharePoint](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3)
 
-- سير عمل استكشاف الأخطاء وإصلاحها وتصحيح الأخطاء:
-    - تصحيح سير مهام العمل يشبه الإصدارات السابقة.  لمزيد من المعلومات، راجع [مهام سير العمل SharePoint تصحيح الأخطاء](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
-    - لمزيد من المعلومات حول استكشاف الأخطاء وإصلاحها، راجع ["استكشاف أخطاء" ملقم SharePoint أخطاء التحقق من صحة سير العمل](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
+- استكشاف الأخطاء وإصلاحها سير العمل وتصحيح:
+    - تصحيح الأخطاء مهام سير العمل مشابهه للإصدارات السابقة.  لمزيد من المعلومات ، راجع [تصحيح مهام سير عمل SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
+    - لمزيد من المعلومات حول استكشاف الأخطاء وإصلاحها ، راجع [استكشاف أخطاء التحقق من صحة سير عمل خادم SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
  
 
 ## <a name="related-topics"></a>المواضيع ذات الصلة
-هل ترغب في محاولة تدفق Microsoft SharePoint على الإنترنت؟
+هل تريد محاولة Microsoft Flow في SharePoint علي الإنترنت ؟
 - [إنشاء تدفق](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
 - [SharePoint والتدفق](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 

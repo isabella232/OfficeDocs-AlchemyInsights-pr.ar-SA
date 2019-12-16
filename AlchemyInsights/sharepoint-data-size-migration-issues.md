@@ -1,7 +1,7 @@
 ---
-title: مشاكل أثناء ترحيل البيانات إلى SharePoint على الإنترنت
-ms.author: efrene
-author: efrene
+title: المشكلات اثناء ترحيل البيانات إلى SharePoint علي الإنترنت
+ms.author: pebaum
+author: pebaum
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +11,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: d8bdf0ac6c3a65b72e8c92a3f5960cb72b6cfd99
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 63fcfdd1c807be393f1052123d92d2cf7ce6a2b4
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36504342"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40051736"
 ---
-# <a name="issues-while-migrating-data-to-sharepoint-online"></a>مشاكل أثناء ترحيل البيانات إلى SharePoint على الإنترنت
+# <a name="issues-while-migrating-data-to-sharepoint-online"></a>المشكلات اثناء ترحيل البيانات إلى SharePoint علي الإنترنت
 
-يبدو أنك كنت تقوم بترحيل ما يزيد على 100 تيرابايت بيانات إلى SharePoint على الإنترنت. الرجاء اتباع الخطوات أدناه حيث أننا قد يساعدك بأسرع وقت ممكن. 
+يبدو انك تقوم بترحيل أكثر من 100 تيرابايت من البيانات إلى SharePoint علي الإنترنت. يرجى اتباع الخطوات أدناه حتى نتمكن من مساعدتك في أقرب وقت ممكن. 
 
-1. حدد **طلب خدمة جديدة**، ومن ثم **طلب خدمة جديدة**. 
-2. اترك العنوان والوصف **الترحيل في SharePoint ما يزيد على 100 تيرابايت**.
-3. عندما يتم تقديم البطاقة، الرجاء تحديثه بالمعلومات التالية: 
+1. حدد **طلب خدمه جديد**، ثم **طلب خدمه جديد**. 
+2. اترك العنوان والوصف **كترحيل SharePoint أكثر من 100 تيرابايت**.
+3. بمجرد تقديم التذكرة ، يرجى تحديثها بالمعلومات التالية: 
 
-    - الحجم المقدر للترحيل.
-    - تقدير عندما كنت تريد بدء تشغيل وإكمال الترحيل.
-    - وصف حيث يتم ترحيل المحتوى الخاص بك، مثل خادم SharePoint، مربع، GDrive، مشاركات الملفات، إلخ...
+    - الحجم المقدر للهجرة الخاصة بك.
+    - تقدير متى ترغب في بدء الترحيل وإكماله.
+    - وصف أين تقوم بترحيل المحتوي الخاص بك من ، مثل SharePoint Server ، مربع ، GDrive ، ومشاركات الملفات ، وما إلى ذلك.
 
 
   

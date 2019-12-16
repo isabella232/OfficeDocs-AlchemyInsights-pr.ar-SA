@@ -1,7 +1,7 @@
 ---
-title: تعطيل أونيدريفي
-ms.author: efrene
-author: efrene
+title: تعطيل اندريف
+ms.author: pebaum
+author: pebaum
 ms.date: ''
 ms.audience: ITPro
 ms.topic: article
@@ -12,28 +12,28 @@ ms.assetid: ''
 ms.custom:
 - "9000674"
 - "2552"
-ms.openlocfilehash: 9ca8190cd90bc199e6f18734bb6607e47b877edd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 712004b2dfb36396707e0a39419e566fbfc6a751
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36512854"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052924"
 ---
-# <a name="disable-onedrive"></a>تعطيل أندريف
+# <a name="disable-onedrive"></a>تعطيل اندريف
 
-هناك عدة طرق يمكنك تعطيل الوصول إلى أندريف وخدماتها تبعاً لاحتياجات العمل الخاصة بك:
+هناك عده طرق يمكنك منها تعطيل الوصول إلى OneDrive وخدماته وفقا لاحتياجات عملك:
 
-[إلغاء ارتباط أو إخفاء أو إلغاء تثبيت "التطبيق أندريف"](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
+[إلغاء ربط أو إخفاء أو أزاله تثبيت تطبيق OneDrive](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
 
-[السماح بمزامنة لمؤسسات محددة فقط](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
+[السماح فقط بالمزامنة لمؤسسات معينه](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
 
-[تعطيل إنشاء موقع أندريف لبعض المستخدمين](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
+[تعطيل إنشاء موقع اندريف لبعض المستخدمين](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
 
-[التحكم في الوصول إلى البيانات SharePoint على الإنترنت وأندريف استناداً إلى موقع شبكة الاتصال](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+[التحكم في الوصول إلى SharePoint علي الإنترنت والبيانات اندريف استنادا إلى موقع شبكه الاتصال](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
-[تعطيل المزامنة أندريف الشخصية](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
+[تعطيل مزامنة OneDrive الشخصية](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
 
-[إدارة اتصالات من أجهزة Windows إلى أندريف وخدمات أخرى](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
+[أداره الاتصالات من أجهزه Windows إلى OneDrive والخدمات الأخرى](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
 
 
 

@@ -1,7 +1,7 @@
 ---
-title: استبقاء أندريف والحذف
-ms.author: efrene
-author: efrene
+title: الاستبقاء والحذف في OneDrive
+ms.author: pebaum
+author: pebaum
 ms.date: 8/6/2019
 ms.audience: ITPro
 ms.topic: article
@@ -12,26 +12,26 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: 50a75073339f1903f2f843e301441c90e795d2f1
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fd16c3b83a6c3e9f89dfe51cef3b849335e6c899
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36521554"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40053320"
 ---
-# <a name="onedrive-retention-and-deletion"></a>استبقاء أونيدريفي والحذف
+# <a name="onedrive-retention-and-deletion"></a>الاستبقاء والحذف في OneDrive
 
-- يمكنك [استعادة أندريف مستخدمين حذف](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) نفسك. ففي سلة المحذوفات لأيام 93. 
+- يمكنك [استعاده المستخدمين المحذوفين اندريف](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) نفسك. هم في سله المهملات ل 93 أيام. 
 
-- راجع [هذا المقال](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) لمعرفة:
-    - كيفية منح آخر وصول المستخدم إلى أندريف المستخدم المحذوف.
-    - ماذا يحدث أندريف المستخدم عند حذف حساب المستخدم Office 365 للمؤسسة الخاصة بك.
-    - كيفية تكوين تفويض الوصول التلقائي.
-    - كيفية عمل أندريف عملية الحذف.
+- راجع [هذه المقالة](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) لمعرفه:
+    - كيفيه منح مستخدم آخر الوصول إلى اندريف المستخدم المحذوفة.
+    - ماذا يحدث لمستخدم اندريف عند حذف حساب Office 365 الخاص بالمستخدم للمؤسسة الخاصة بك.
+    - كيفيه تكوين تفويض الوصول التلقائي.
+    - كيفيه عمل عمليه الحذف اندريف.
 
-- رغبة في الاحتفاظ بالأمان ومركز التوافق باستمرار؟:
-    - [نهج الاستبقاء لمواقع SharePoint وأندريف](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
-    - [eDiscovery انتظار أندريف ومواقع SharePoint](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+- هل أنت مهتم بالاحتفاظ بمركز الأمان والامتثال واحتجازه ؟:
+    - [نهج الاستبقاء لمواقع OneDrive و SharePoint](https://docs.microsoft.com/office365/securitycompliance/retention-policies?redirectSourcePath=%252farticle%252f5e377752-700d-4870-9b6d-12bfc12d2423#content-in-onedrive-accounts-and-sharepoint-sites)
+    - [عقد eDiscovery لمواقع OneDrive و SharePoint](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
 
 
 
