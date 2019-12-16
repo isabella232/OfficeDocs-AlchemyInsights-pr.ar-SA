@@ -1,7 +1,7 @@
 ---
-title: تطبيق التسميات حساسية تلقائي
-ms.author: stephow
-author: stephow-MSFT
+title: لصناعه السيارات في تطبيق تسميات حساسية
+ms.author: pebaum
+author: pebaum
 manager: laurawi
 ms.date: ''
 ms.audience: admin
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: b095426d780033f6c1c7eeb320d923f6c484b078
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 95de9df224d3450678b56d04e6d823f4874abcd5
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36517378"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40050296"
 ---
-# <a name="auto-apply-sensitivity-labels"></a>تطبيق التسميات حساسية تلقائي
+# <a name="auto-apply-sensitivity-labels"></a>لصناعه السيارات في تطبيق تسميات حساسية
 
-تسميات الحساسية يمكن يدوياً تطبيق على المحتوى بالمستخدمين، أو يمكنك تكوينها ليتم تطبيقها تلقائياً على المحتوى.
+يمكن تطبيق تسميات الحساسية يدويا علي المحتوي من قبل المستخدمين ، أو يمكنك تكوينها ليتم تطبيقها تلقائيا علي المحتوي.
 
-تلقائياً تطبيق التسميات حساسية يزيل الحاجة إلى تدريب المستخدمين على كيفية تصنيف المحتوى والحاجة إلى الإبلاغ عن تكوينات نهج.
+يؤدي تطبيق تسميات الحساسية تلقائيا إلى أزاله الحاجة إلى تدريب المستخدمين علي كيفيه تصنيف المحتوي والحاجة إلى اعلامهم بتكوينات النهج.
 
-لتطبيق تسميات تلقائياً، التالي مطلوب:
+لتطبيق التسميات تلقائيا ، يكون التالي مطلوبا:
 
-- اشتراك P2 حماية المعلومات azure
-- [تنزيل وتثبيت عميل معنونة موحدة حماية المعلومات Azure](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- اشتراك P2 حماية المعلومات Azure
+- [تحميل وتثبيت حماية المعلومات Azure الموحدة العميل وضع العلامات](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-نحن نعمل على دعم أصلي لا يتطلب من العميل معنونة موحدة Azure حماية المعلومات في المستقبل.
+نحن نعمل علي الدعم الأصلي الذي لن يتطلب حماية معلومات Azure الموحدة العميل التسمية في المستقبل.
 
-حاليا، يعتمد Windows فقط العميل معنونة موحدة.  لا يدعم هذه الميزة حتى الآن في لجنة الهدنة العسكرية ودائرة الرقابة الداخلية والروبوت.
+حاليا ، يدعم Windows فقط العميل الموحد لوضع العلامات.  الميزة غير معتمده حتى الآن علي ماك ، iOS واندرويد.
 
-لمزيد من المعلومات حول التسميات حساسية وتطبيقها تلقائياً على المحتوى، راجع:
+لمزيد من المعلومات حول تسميات الحساسية وتطبيقها تلقائيا علي المحتوي ، راجع:
 
-- [نظرة عامة حول التسميات الحساسية](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-- [تطبيق تسمية حساسية للمحتوى تلقائياً](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [نظره عامه حول علامات الحساسية](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+- [تطبيق تسميه الحساسية علي المحتوي تلقائيا](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
