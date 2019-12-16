@@ -1,24 +1,24 @@
 ---
-title: خطأ لا يمكن الاتصال أندريف إلى Windows
+title: خطا اندريف لا يمكن الاتصال بنظام التشغيل Windows
 ms.author: pebaum
-author: Techwriter40
+author: pebaum
 ms.date: 10/16/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 69957735-7ae3-4622-b3cf-607c816f3651
-ms.openlocfilehash: 59dc1035aba94f59ee111dfcf08ff15e5e2ebd10
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: 02c922e9256b589b9e03a5ee6256d1d47a870346
+ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36755907"
+ms.lasthandoff: 12/15/2019
+ms.locfileid: "40052132"
 ---
-# <a name="error-onedrive-cannot-connect-to-windows"></a><span data-ttu-id="e17b4-102">خطأ: يتعذر على أندريف الاتصال بـ Windows</span><span class="sxs-lookup"><span data-stu-id="e17b4-102">Error: OneDrive cannot connect to Windows</span></span>
+# <a name="error-onedrive-cannot-connect-to-windows"></a><span data-ttu-id="de028-102">خطا: لا يمكن ل OneDrive الاتصال بنظام التشغيل Windows</span><span class="sxs-lookup"><span data-stu-id="de028-102">Error: OneDrive cannot connect to Windows</span></span>
 
-<span data-ttu-id="e17b4-103">لحل رسالة الخطأ، ابحث عن الملف cldflt.sys لمعرفة ما إذا كان قيد التشغيل، وإذا لم يكن، تمكينه.</span><span class="sxs-lookup"><span data-stu-id="e17b4-103">To resolve the error message, search for the cldflt.sys file to see if it is running, and if it isn't, enable it.</span></span> 
+<span data-ttu-id="de028-103">لحل رسالة الخطا ، ابحث عن الملف cldflt .sys لمعرفه ما إذا كان قيد التشغيل ، وإذا لم يكن كذلك ، قم بتمكينه.</span><span class="sxs-lookup"><span data-stu-id="de028-103">To resolve the error message, search for the cldflt.sys file to see if it is running, and if it isn't, enable it.</span></span> 
   
-<span data-ttu-id="e17b4-104">للحصول على معلومات إضافية حول كيفية تمكين الملف cldflt.sys راجع [أندريف لا يمكن الاتصال Windows" خطأ عند الوصول إلى الملفات في أندريف.](https://go.microsoft.com/fwlink/?Linkid=2031032)</span><span class="sxs-lookup"><span data-stu-id="e17b4-104">For additional information on how to enable the cldflt.sys file, see [OneDrive cannot connect to Windows" error when accessing files in OneDrive.](https://go.microsoft.com/fwlink/?Linkid=2031032)</span></span>
+<span data-ttu-id="de028-104">للحصول علي معلومات اضافيه حول كيفيه تمكين الملف cldflt ، راجع [لا يمكن الاتصال اندريف إلى Windows "خطا عند الوصول إلى الملفات في اندريف.](https://go.microsoft.com/fwlink/?Linkid=2031032)</span><span class="sxs-lookup"><span data-stu-id="de028-104">For additional information on how to enable the cldflt.sys file, see [OneDrive cannot connect to Windows" error when accessing files in OneDrive.](https://go.microsoft.com/fwlink/?Linkid=2031032)</span></span>
   
 
