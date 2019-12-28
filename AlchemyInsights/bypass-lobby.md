@@ -11,26 +11,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 5ee77e57b3bc64d7a04256ab67b691e5205eac56
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 311af365a94b788182bb6870bca3f67b2ad802d0
+ms.sourcegitcommit: 932981641dd8e973e28dfe346bbdf9c923111b13
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626335"
+ms.lasthandoff: 12/27/2019
+ms.locfileid: "40889069"
 ---
-# <a name="control-lobby-settings-and-level-of-participation"></a>ضبط إعدادات اللوبي ومستوي المشاركة
+# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>ضبط إعدادات اللوبي ومستوي المشاركة في الفرق
 
-إذا كنت ترغب في السماح للجميع ، بما في ذلك المستخدمين الهاتفيين والخارجيين والمجهولين بتجاوز اللوبي في فرق Microsoft ، يمكنك استخدام PowerShell للقيام بذلك. في ما يلي مثال علي تعديل نهج الاجتماعات العمومية للمؤسسة الخاصة بك:
+إذا كنت ترغب في السماح للجميع ، بما في ذلك المستخدمين الهاتفيين والخارجيين والمجهولين ، **بتجاوز اللوبي**، فاستخدم PowerShell لإنجاز هذه المهمة. في ما يلي مثال علي تعديل نهج الاجتماعات العمومية للمؤسسة الخاصة بك.
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-يتطلب هذا cmdlet حاليا استخدام سكايب للوحدة النمطية PowerShell الاعمال. للحصول علي الاعداد لاستخدام هذا cmdlet ، تحقق من [أداره النهج عبر PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
+يتطلب هذا cmdlet حاليا استخدام سكايب للوحدة النمطية PowerShell الاعمال. للحصول علي اعداد لاستخدام هذا cmdlet ، تحقق من [أداره السياسات عبر PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
 
-يمكنك اعداد سياسة جديده ، والتي ستحتاج بعد ذلك إلى تطبيقها علي المستخدمين. إذا قمت بتعديل النهج العمومي سيتم تطبيقه تلقائيا علي المستخدمين. لأي تغيير في السياسة تحتاج إلى الانتظار 4 ساعات علي الأقل وتصل إلى 24 ساعة حتى تسري السياسات.
+بمجرد اعداد سياسة ، تحتاج إلى تطبيقها علي المستخدمين. أو ، إذا قمت بتعديل النهج العمومي ، سيتم تطبيقه تلقائيا علي المستخدمين. بالنسبة لأي تغيير في السياسة ، تحتاج إلى الانتظار لمده **4 ساعات علي الأقل حتى 24 ساعة حتى** تسري السياسات. 
 
 تاكد من مراجعه الوثائق أدناه قبل اجراء هذه التغييرات لفهم ما يسمح به هذا بالبالضبط.
 
+
 ## <a name="understanding-teams-meeting-lobby-policy-controls"></a>فهم فرق التحكم في نهج اللوبي
+
+تتحكم هذه الإعدادات في الاجتماعات التي ينتظرها المشاركون في الردهة قبل قبولهم في الاجتماع ومستوي المشاركة المسموح بها في الاجتماع. يمكنك استخدام PowerShell لتحديث إعدادات نهج الاجتماع التي لم يتم تنفيذها بعد (المسمي "قريبا") في مركز أداره الفرق. انظر أدناه للحصول علي مثال cmdlet PowerShell التي تسمح لجميع المستخدمين لتجاوز الردهة.
 
 - [القبول التلقائي للأشخاص](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) هو نهج لكل منظم يتحكم في ما إذا كان الأشخاص ينضمون إلى الاجتماع مباشره أو ينتظرون في الردهة حتى يتم قبولهم من قبل مستخدم مصادق عليه.
 
