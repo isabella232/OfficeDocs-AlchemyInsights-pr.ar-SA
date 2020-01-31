@@ -1,5 +1,5 @@
 ---
-title: 2609-الاحتفاظ-أو-ediscovery-عقد
+title: 2609-الاحتفاظ أو ediscovery-hold
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,38 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "2609"
 - "9000048"
-ms.openlocfilehash: 85c41995545efd8e1526d9f7dce4a23929f85be5
-ms.sourcegitcommit: 24e8248b0f061a76af50bf566d7a13fc24d29d99
+ms.openlocfilehash: 3e60f0fc53cd78c9cc816a658a9df05e9075e26e
+ms.sourcegitcommit: c5e800313a6f211386a384716e5fa18e7fcc8c1c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "37994040"
+ms.lasthandoff: 01/28/2020
+ms.locfileid: "41571294"
 ---
-# <a name="unable-to-delete-items-in-sharepoint-online-or-onedrive-for-business"></a>غير قادر علي حذف العناصر في SharePoint علي الإنترنت أو اندريف للعمل
+# <a name="unable-to-delete-items-in-sharepoint-online-or-onedrive-for-business"></a>غير قادر على حذف العناصر في SharePoint Online أو OneDrive للأعمال
 
-قد تكون أنت أو المستخدمين غير قادر علي حذف العناصر في SharePoint علي الإنترنت أو اندريف للعمل لأنه يتم تطبيق نهج استبقاء أو تسميه استبقاء أو احتجاز eDiscovery إلى موقع SharePoint من اندريف أو إلى عنصر معين. ويشمل ذلك عدم القدرة علي حذف مستند أو إصدار مستند أو مجلد أو مكتبه مستندات أو قائمه أو تطبيق أو موقع أو مجموعه مواقع... فيما يلي بعض الامثله علي رسائل الخطا التي قد تتلقاها عند محاولة حذف أحد العناصر التي يتم الاحتفاظ بها:
+قد لا تتمكن أنت أو المستخدمون من حذف العناصر في SharePoint Online أو OneDrive for Business لأن نهج الاحتفاظ أو تسمية الاحتفاظ أو عقد eDiscovery يتم تطبيقه على موقع SharePoint الخاص بـ OneDrive أو على عنصر معين. يتضمن ذلك عدم القدرة على حذف مستند أو إصدار مستند أو مجلد أو مكتبة مستندات أو قائمة أو تطبيق أو موقع أو مجموعة مواقع. 
 
-- "لا يمكن حذف هذا الموقع لأنه مضمن في نهج احتجاز أو استبقاء eDiscovery"
-- "يحتوي هذا الموقع علي نهج التوافق الذي تم تعيينه لحظر الحذف"
-- "نهج التوافق حاليا حظر حذف هذا الموقع"
-- "لا يمكن حذف مجموعه المواقع هذه لأنها تحتوي علي المواقع التي تم تضمينها في الاحتفاظ eDiscovery أو نهج الاستبقاء"
-- "لديك لحذف كافة العناصر الموجودة في هذا المجلد قبل حذف المجلد"
-- "لا يمكن حذف إصدارات هذا العنصر لأنه علي نهج الاحتجاز أو الاستبقاء"
-- "لا يمكن حذف العنصر اثناء الاحتجاز"
-- "التسمية التي يتم تطبيقها علي هذا العنصر يمنع تحريرها أو حذفها"
-- "لا يمكن حذف القائمة اثناء الاحتجاز أو نهج الاستبقاء"
-- "لا يمكن حذف القائمة إذا تم حظره أو إذا تم تطبيق نهج استبقاء عليه"
+لحذف العناصر في أحد هذه السيناريوهات، يجب إزالة نهج الاحتفاظ أو تسمية الاحتفاظ أو عقد eDiscovery (أو يجب استبعاد موقع من نهج الاحتفاظ). تحتاج إلى تعطيل أو استبعاد عقد المعنية التي تسبب هذه المشكلة. بعد إزالة نهج الاحتفاظ أو الانتظار، قد يستغرق الأمر ما يصل إلى 24 ساعة حتى يسري التغيير. 
 
-لحذف العناصر في أحد هذه السيناريوهات ، يجب أزاله نهج الاستبقاء أو تسميه الاستبقاء أو احتجاز eDiscovery (أو يجب استبعاد موقع من نهج الاستبقاء). تحتاج إلى اما تعطيل أو استبعاد الاحتجاز الخاصة التي تسبب هذه المشكلة. بعد أزاله نهج الاستبقاء أو الاحتجاز ، قد يستغرق التغيير ما يصل إلى 24 ساعة حتى يتم تنفيذه. 
+للحصول على معلومات حول ميزات الاحتفاظ والاحتفاظ المختلفة التي يمكن تطبيقها على مواقع SharePoint وحسابات OneDrive، راجع أحد الموضوعات التالية.
 
-للحصول علي معلومات حول ميزات الاستبقاء والاحتجاز المختلفة التي يمكن تطبيقها علي مواقع SharePoint وحسابات OneDrive ، راجع أحد المواضيع التالية.
-
-- [نظره عامه علي سياسات الاستبقاء](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
-
-- [نظره عامه حول تسميات الاستبقاء](https://docs.microsoft.com/microsoft-365/compliance/labels)
-
-- [أداره التعليقات في eDiscovery المتقدم](https://docs.microsoft.com/microsoft-365/compliance/managing-holds)
-
+- [نظرة عامة على سياسات الاحتفاظ](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
+- [نظرة عامة على تسميات الاحتفاظ](https://docs.microsoft.com/microsoft-365/compliance/labels)
+- [إدارة الويصدق في eDiscovery المتقدمة](https://docs.microsoft.com/microsoft-365/compliance/managing-holds)
 - [eDiscovery يحمل](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases#step-4-place-content-locations-on-hold)
-
-- [سياسات الإغلاق والحذف للمواقع القديمة](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5)
+- [سياسات إغلاق الموقع القديمة وحذفه](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5)
