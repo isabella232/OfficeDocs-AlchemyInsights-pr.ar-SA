@@ -1,5 +1,5 @@
 ---
-title: تغيير السلطة MDM
+title: تغيير سلطة MDM
 ms.author: sirkkuw
 author: Sirkkuw
 ms.date: 12/4/2018
@@ -8,27 +8,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 08c51aa6-cffc-456b-91fb-185f0d636afb
-ms.openlocfilehash: 6545798fe5e7702285b9e32cf635f3d7f672baeb
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 91ccb74e00ab6d2b5e78c7b0f5a0b1c4790defb8
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36519286"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770950"
 ---
-# <a name="change-intune-mdm-authority"></a><span data-ttu-id="ea225-102">تغيير المرجع الخاص ب اينتوني MDM</span><span class="sxs-lookup"><span data-stu-id="ea225-102">Change Intune MDM authority</span></span>
+# <a name="change-intune-mdm-authority"></a><span data-ttu-id="5dea8-102">تغيير سلطة MDM Intune</span><span class="sxs-lookup"><span data-stu-id="5dea8-102">Change Intune MDM authority</span></span>
 
-<span data-ttu-id="ea225-103">يمكنك تغيير المرجع الخاص ب MDM دون فتح حاله دعم.</span><span class="sxs-lookup"><span data-stu-id="ea225-103">You can change your MDM authority without opening a support case.</span></span> <span data-ttu-id="ea225-104">راجع المستندات التالية للحصول علي إرشادات:</span><span class="sxs-lookup"><span data-stu-id="ea225-104">See the following documents for instructions:</span></span>
+<span data-ttu-id="5dea8-103">يمكنك تغيير سلطة MDM الخاصة بك دون فتح حالة دعم.</span><span class="sxs-lookup"><span data-stu-id="5dea8-103">You can change your MDM authority without opening a support case.</span></span> <span data-ttu-id="5dea8-104">راجع المستندات التالية للحصول على الإرشادات:</span><span class="sxs-lookup"><span data-stu-id="5dea8-104">See the following documents for instructions:</span></span>
   
-- [<span data-ttu-id="ea225-105">تغيير السلطة MDM من أداره التكوين إلى اينتوني مستقل</span><span class="sxs-lookup"><span data-stu-id="ea225-105">Change MDM authority from the Configuration Manager to Intune standalone</span></span>](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
+- [<span data-ttu-id="5dea8-105">تغيير سلطة MDM الخاصة بك من إدارة التكوين إلى Intune مستقل</span><span class="sxs-lookup"><span data-stu-id="5dea8-105">Change your MDM authority from Configuration Manager to Intune standalone</span></span>](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
     
-- [<span data-ttu-id="ea225-106">تغيير السلطة MDM من اينتوني مستقل إلى أداره التكوين</span><span class="sxs-lookup"><span data-stu-id="ea225-106">Change MDM authority from Intune standalone to Configuration Manager</span></span>](https://docs.microsoft.com/sccm/mdm/deploy-use/change-mdm-authority)
+- [<span data-ttu-id="5dea8-106">تغيير سلطة MDM الخاصة بك من Intune مستقل إلى إدارة التكوين</span><span class="sxs-lookup"><span data-stu-id="5dea8-106">Change your MDM authority from Intune standalone to Configuration Manager</span></span>](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)
     
- <span data-ttu-id="ea225-107">**التعايش مع هيئه أطباء الاداره**</span><span class="sxs-lookup"><span data-stu-id="ea225-107">**MDM Authority Co-Existence**</span></span>
+ <span data-ttu-id="5dea8-107">**MDM السلطة التعايش**</span><span class="sxs-lookup"><span data-stu-id="5dea8-107">**MDM Authority Co-Existence**</span></span>
   
-- <span data-ttu-id="ea225-108">يمكن ان يكون لديك كل من السلطات MDM نشطه بشكل متزامن إذا كان لديك بالفعل Office 365 MDM تمكين ولكنك تريد محاولة اينتوني MDM.</span><span class="sxs-lookup"><span data-stu-id="ea225-108">You can have both MDM authorities active concurrently if you already have Office 365 MDM enabled but you want to try Intune MDM.</span></span>
+- <span data-ttu-id="5dea8-108">يمكنك تشغيل كل من سلطات MDM بشكل متزامن إذا كان لديك بالفعل Office 365 MDM ممكّنًا ولكنك تريد تجربة Intune MDM.</span><span class="sxs-lookup"><span data-stu-id="5dea8-108">You can have both MDM authorities active concurrently if you already have Office 365 MDM enabled but you want to try Intune MDM.</span></span>
     
-- <span data-ttu-id="ea225-109">المسؤولين الذين لديهم بالفعل O365 MDM النشطة يمكن ببساطه وضع علامة علي أداره الإنترنت اينتوني النشطة من المدخل Azure.</span><span class="sxs-lookup"><span data-stu-id="ea225-109">Admins who already have O365 MDM active can simply mark Intune MDM as active from the Azure portal.</span></span>
+- <span data-ttu-id="5dea8-109">يمكن للمسؤولين الذين لديهم بالفعل O365 MDM النشطة ببساطة علامة فينتون MDM كنشطة من بوابة أزور.</span><span class="sxs-lookup"><span data-stu-id="5dea8-109">Admins who already have O365 MDM active can simply mark Intune MDM as active from the Azure portal.</span></span>
     
-- <span data-ttu-id="ea225-110">إذا كان لديك اينتوني MDM ولكن تريد الاستفادة من Office 365 MDM: الرجاء فتح تذكره أدناه سيساعد عامل دعم تمكين هذا لك.</span><span class="sxs-lookup"><span data-stu-id="ea225-110">If you have Intune MDM but want to make use of Office 365 MDM: please open a ticket below and a support agent will help enable this for you.</span></span>
+- <span data-ttu-id="5dea8-110">إذا كان لديك Intune MDM ولكنك تريد الاستفادة من Office 365 MDM: الرجاء فتح تذكرة أدناه وسيساعد وكيل الدعم في تمكين هذا لك.</span><span class="sxs-lookup"><span data-stu-id="5dea8-110">If you have Intune MDM but want to make use of Office 365 MDM: please open a ticket below and a support agent will help enable this for you.</span></span>
     
 

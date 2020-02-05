@@ -1,5 +1,5 @@
 ---
-title: يتم تامين الملفات للتحرير
+title: يتم تأمين الملفات للتحرير
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,26 +13,26 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 3ac4abe4d48e2feb887dc0945434ec26c19a2cf6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8fd1ab642b205ddabeaab9da52f8b41f594753f4
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049396"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771130"
 ---
-# <a name="why-cant-i-edit-files"></a><span data-ttu-id="367ef-102">لماذا لا يمكنني تحرير الملفات ؟</span><span class="sxs-lookup"><span data-stu-id="367ef-102">Why can't I edit files?</span></span>
+# <a name="why-cant-i-edit-files"></a><span data-ttu-id="a6198-102">لماذا لا يمكنني تحرير الملفات؟</span><span class="sxs-lookup"><span data-stu-id="a6198-102">Why can't I edit files?</span></span>
 
-<span data-ttu-id="367ef-103">إذا كان المستند أو ورقه العمل أو العرض التقديمي مؤمنا للتحرير ولا يمكن فتحه في تطبيقات سطح مكتب Windows ، فقد يكون الملف قيد التحرير بالفعل من قبل شخص آخر ، أو إذا كان الملف مسحوبا. دعوانا نلقي نظره سريعة علي بعض الأسباب [لماذا قد لا تكون قادره علي تحرير الملف](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).</span><span class="sxs-lookup"><span data-stu-id="367ef-103">If a document, worksheet, or presentation is locked for editing and can't be opened in the Windows desktop applications, it may be that the file is already being edited by someone else, or they have the file checked out. Let's take a quick look at some of the reasons [why you might not be able to edit the file](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).</span></span>
+<span data-ttu-id="a6198-103">إلقاء نظرة سريعة على بعض الأسباب [التي قد لا تكون قادرة على تحرير الملف](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).</span><span class="sxs-lookup"><span data-stu-id="a6198-103">Take a quick look at some of the reasons [why you might not be able to edit the file](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).</span></span>
 
-<span data-ttu-id="367ef-104">إذا كان لديك مكتبات مع **الخروج أو المطلوبة** أو **التحقق من صحة** الاعمده أو البيانات الوصفية ، أو عند تعيين " **أمان عنصر المشروع** " إلى **المستخدمين فقط الذين يمكن تحرير** أو **فقط المستخدمين الذين يمكن الموافقة علي العناصر** في "إعدادات الإصدار" من المكتبة:</span><span class="sxs-lookup"><span data-stu-id="367ef-104">If you have libraries with **Checkout, Required** or **Validation** columns or metadata, or when **Draft Item Security** is set to either **Only users who can edit** or **Only users who can approve items** in Version Settings of the library:</span></span>
+<span data-ttu-id="a6198-104">إذا كان لديك مكتبات تحتوي على أعمدة الدفع أو **المطلوب** أو **التحقق من الصحة** أو بيانات التعريف، أو عند تعيين أمان عنصر **المسودة** إلى **المستخدمين الذين يمكنهم تحرير** هم فقط أو المستخدمين الذين يمكنهم الموافقة على العناصر في إعدادات الإصدار في المكتبة **فقط:**</span><span class="sxs-lookup"><span data-stu-id="a6198-104">If you have libraries with **Checkout, Required** or **Validation** columns or metadata, or when **Draft Item Security** is set to either **Only users who can edit** or **Only users who can approve items** in Version Settings of the library:</span></span>
 
-- <span data-ttu-id="367ef-105">بالنسبة لمكتبات مستندات SharePoint ، ستتم مزامنة هذه العناصر للقراءة فقط.</span><span class="sxs-lookup"><span data-stu-id="367ef-105">For SharePoint document libraries, these items will be synchronized as read-only.</span></span>
+- <span data-ttu-id="a6198-105">بالنسبة لمكتبات مستندات SharePoint، ستتم مزامنة هذه العناصر للقراءة فقط.</span><span class="sxs-lookup"><span data-stu-id="a6198-105">For SharePoint document libraries, these items will be synchronized as read-only.</span></span>
 
-- <span data-ttu-id="367ef-106">بالنسبة لمكتبات OneDrive ، سيعرض OneDrive رمز تامين (رمز ملف OneDrive المؤمن) بجوار حاله المزامنة ولن يتمكن المستخدم من مزامنة المكتبة حتى تتم أزاله الإعدادات المذكورة.</span><span class="sxs-lookup"><span data-stu-id="367ef-106">For OneDrive libraries, OneDrive will show a lock icon ( OneDrive file locked icon ) next to the sync status and the user will not be able to synchronize the library until the mentioned settings have been removed.</span></span> 
+- <span data-ttu-id="a6198-106">بالنسبة لمكتبات OneDrive، سيظهر OneDrive رمز قفل (رمز تأمين ملف OneDrive) بجوار حالة المزامنة ولن يتمكن المستخدم من مزامنة المكتبة حتى تتم إزالة الإعدادات المذكورة.</span><span class="sxs-lookup"><span data-stu-id="a6198-106">For OneDrive libraries, OneDrive will show a lock icon ( OneDrive file locked icon ) next to the sync status and the user will not be able to synchronize the library until the mentioned settings have been removed.</span></span> 
 
-<span data-ttu-id="367ef-107">لمزيد من المعلومات حول الملفات المقفلة ل Word أو Excel ، الرجاء الرجوع إلى المقالات أدناه.</span><span class="sxs-lookup"><span data-stu-id="367ef-107">For more information regarding locked files for Word or Excel, please reference the articles below.</span></span>
+<span data-ttu-id="a6198-107">لمزيد من المعلومات حول الملفات المقفلة لـ Word أو Excel، يرجى الرجوع إلى المقالات أدناه.</span><span class="sxs-lookup"><span data-stu-id="a6198-107">For more information regarding locked files for Word or Excel, please reference the articles below.</span></span>
 
-- [<span data-ttu-id="367ef-108">تم تامين ملف Excel للتحرير من قبل مستخدم آخر</span><span class="sxs-lookup"><span data-stu-id="367ef-108">Excel file is locked for editing by another user</span></span>](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
+- [<span data-ttu-id="a6198-108">تم تأمين ملف Excel للتحرير من قبل مستخدم آخر</span><span class="sxs-lookup"><span data-stu-id="a6198-108">Excel file is locked for editing by another user</span></span>](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 
-- [<span data-ttu-id="367ef-109">تم تامين ملف Word للتحرير من قبل مستخدم آخر</span><span class="sxs-lookup"><span data-stu-id="367ef-109">Word file is locked for editing by another user</span></span>](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
+- [<span data-ttu-id="a6198-109">تم تأمين ملف Word للتحرير من قبل مستخدم آخر</span><span class="sxs-lookup"><span data-stu-id="a6198-109">Word file is locked for editing by another user</span></span>](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
 
