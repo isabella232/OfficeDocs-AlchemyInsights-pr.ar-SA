@@ -14,21 +14,21 @@ ms.custom:
 - "567"
 - "5200006"
 ms.assetid: aa6c2aa1-6853-461c-8764-01fb96f8e981
-ms.openlocfilehash: d8f49cb780156de2e26d7fa19b79b567d94b8281
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 0ecb317a0dfb760e459b35b6bff86006c06dc0d6
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053032"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770482"
 ---
-# <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>حذف موقع SharePoint الذي ينتمي إلى مجموعه 365 Office
+# <a name="delete-a-sharepoint-site-that-belongs-to-an-office-365-group"></a>حذف موقع SharePoint الذي ينتمي إلى مجموعة Office 365
 
-يمكن الآن حذف المسؤولين العموميين والمسؤولين SharePoint المواقع التي تنتمي إلى مجموعه 365 Office. سيؤدي حذف هذه المواقع إلى حذف المجموعة وكافة الموارد الخاصة بها ، بما في ذلك علبه بريد Outlook والتقويم ، وآيه قنوات فرق.
+يمكن للمسؤولين العالميين ومسؤولي SharePoint الآن حذف المواقع التي تنتمي إلى مجموعة Office 365. سيؤدي حذف هذه المواقع إلى حذف المجموعة وكافة مواردها، بما في ذلك علبة بريد Outlook والتقويم وأية قنوات Teams.
   
 الهامه:
 
-- يمكنك استرداد المواقع المحذوفة لأيام 93. لمزيد من المعلومات ، راجع عرض المواقع المحذوفة واستعادتها. لاحظ انه يجب استعاده المجموعات المحذوفة في غضون 30 يوما.
-- إذا كان الموقع جزءا من نهج استبقاء ، فقد لا تتمكن من حذفه حتى تتم أزاله الموقع من [مركز مسؤول التوافق مع الأمان &amp; ](https://protection.office.com/?rfr=AdminCenter#/retention). راجع [نظره عامه حول نهج الاستبقاء](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) للحصول علي مزيد من المعلومات.
+- يمكنك استرداد المواقع المحذوفة لمدة 93 يومًا. يجب استعادة المجموعات المحذوفة في غضون 30 يومًا. [عرض المواقع المحذوفة واستعادتها](https://admin.microsoft.com/sharepoint) مباشرة من مركز إدارة SharePoint. [عرض المجموعات المحذوفة واستعادتها،](https://outlook.office.com/people/group/deleted)عن طريق تحديد **"إدارة المجموعات"،** ثم اختيار **"حذف".**
+- إذا كان الموقع جزءًا من نهج الاحتفاظ، فقد لا تتمكن من حذفه حتى تتم إزالة الموقع من [مركز إدارة الامتثال الأمني &amp; ](https://protection.office.com/?rfr=AdminCenter#/retention). راجع [نظرة عامة على سياسات الاحتفاظ](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) لمزيد من المعلومات.
   
-[لعرض المواقع المحذوفة واستعادتها في مركز مسؤول SharePoint الجديد](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)، حدد **المواقع المحذوفة**. حدد الموقع الذي تم حذفه واختر اما استعاده أو حذف (الذي سيحذف الموقع بشكل دائم). لحذف موقع نشط ، حدد المواقع **النشطة** ، وحدد الموقع وحدد **حذف**. لمزيد من المعلومات ، راجع [أداره المواقع في مركز مسؤول SharePoint الجديد](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
+[لعرض المواقع المحذوفة واستعادتها،](https://admin.microsoft.com/sharepoint)حدد الموقع الذي تم حذفه واختر إما **الاستعادة** أو **الحذف** (الذي سيؤدي إلى حذف الموقع نهائيًا). [حذف موقع نشط](https://admin.microsoft.com/sharepoint) مباشرة من مركز مسؤول SharePoint عن طريق تحديد الموقع، ثم تحديد **حذف**. لمزيد من المعلومات، راجع [إدارة المواقع في مركز مشرف SharePoint الجديد](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center).
   

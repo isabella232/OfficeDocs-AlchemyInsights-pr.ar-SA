@@ -1,5 +1,5 @@
 ---
-title: كيفية إغلاق حساب "التحليلات سطح المكتب" الخاص بك
+title: كيفية إغلاق حساب تحليلات سطح المكتب
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2498"
-ms.openlocfilehash: d074024ee40f9a06a59f8c4f650f2092c39413d1
-ms.sourcegitcommit: 8f97342d8b46ab05f1e89018473caad9d35431df
+ms.openlocfilehash: cf5588cfd6892e3215fc9c0ad50732e0d5847f7e
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/19/2019
-ms.locfileid: "35800156"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41771094"
 ---
-# <a name="working-with-desktop-analytics"></a>العمل مع التحليلات سطح المكتب
+# <a name="working-with-desktop-analytics"></a>العمل مع تحليلات سطح المكتب
 
-يبدو أن تسأل عن "تحليلات سطح المكتب". قد نكون قادرين على المساعدة بإجابة أكثر دقة إذا إعادة صياغة سؤالك.
+يبدو أنك تسأل عن تحليلات سطح المكتب. قد نكون قادرين على المساعدة في الحصول على إجابة أكثر دقة إذا قمت بإعادة صياغة سؤالك.
 
-- [ما هو "سطح المكتب تحليلات"؟](https://docs.microsoft.com/sccm/desktop-analytics/overview)
-- [كيفية إعداد "التحليلات سطح المكتب"](https://docs.microsoft.com/sccm/desktop-analytics/set-up)
-- [الأسئلة المتداولة](https://docs.microsoft.com/sccm/desktop-analytics/faq)
-- [استكشاف أخطاء وإصلاحها التحليلات سطح المكتب](https://docs.microsoft.com/sccm/desktop-analytics/troubleshooting)
+- [ما هي تحليلات سطح المكتب؟](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
+- [كيفية إعداد تحليلات سطح المكتب](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
+- [الأسئلة المتداولة](https://docs.microsoft.com/configmgr/desktop-analytics/faq)
+- [استكشاف تحليلات سطح المكتب وإصلاحها](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)

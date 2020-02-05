@@ -1,5 +1,5 @@
 ---
-title: تغيير السلطة MDM
+title: تغيير سلطة MDM
 ms.author: sirkkuw
 author: Sirkkuw
 ms.date: 12/4/2018
@@ -8,27 +8,27 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 08c51aa6-cffc-456b-91fb-185f0d636afb
-ms.openlocfilehash: 6545798fe5e7702285b9e32cf635f3d7f672baeb
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 91ccb74e00ab6d2b5e78c7b0f5a0b1c4790defb8
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36519286"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770950"
 ---
-# <a name="change-intune-mdm-authority"></a>تغيير المرجع الخاص ب اينتوني MDM
+# <a name="change-intune-mdm-authority"></a>تغيير سلطة MDM Intune
 
-يمكنك تغيير المرجع الخاص ب MDM دون فتح حاله دعم. راجع المستندات التالية للحصول علي إرشادات:
+يمكنك تغيير سلطة MDM الخاصة بك دون فتح حالة دعم. راجع المستندات التالية للحصول على الإرشادات:
   
-- [تغيير السلطة MDM من أداره التكوين إلى اينتوني مستقل](https://docs.microsoft.com/sccm/mdm/deploy-use/migrate-change-mdm-authority)
+- [تغيير سلطة MDM الخاصة بك من إدارة التكوين إلى Intune مستقل](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
     
-- [تغيير السلطة MDM من اينتوني مستقل إلى أداره التكوين](https://docs.microsoft.com/sccm/mdm/deploy-use/change-mdm-authority)
+- [تغيير سلطة MDM الخاصة بك من Intune مستقل إلى إدارة التكوين](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)
     
- **التعايش مع هيئه أطباء الاداره**
+ **MDM السلطة التعايش**
   
-- يمكن ان يكون لديك كل من السلطات MDM نشطه بشكل متزامن إذا كان لديك بالفعل Office 365 MDM تمكين ولكنك تريد محاولة اينتوني MDM.
+- يمكنك تشغيل كل من سلطات MDM بشكل متزامن إذا كان لديك بالفعل Office 365 MDM ممكّنًا ولكنك تريد تجربة Intune MDM.
     
-- المسؤولين الذين لديهم بالفعل O365 MDM النشطة يمكن ببساطه وضع علامة علي أداره الإنترنت اينتوني النشطة من المدخل Azure.
+- يمكن للمسؤولين الذين لديهم بالفعل O365 MDM النشطة ببساطة علامة فينتون MDM كنشطة من بوابة أزور.
     
-- إذا كان لديك اينتوني MDM ولكن تريد الاستفادة من Office 365 MDM: الرجاء فتح تذكره أدناه سيساعد عامل دعم تمكين هذا لك.
+- إذا كان لديك Intune MDM ولكنك تريد الاستفادة من Office 365 MDM: الرجاء فتح تذكرة أدناه وسيساعد وكيل الدعم في تمكين هذا لك.
     
 

@@ -1,5 +1,5 @@
 ---
-title: البدء باستخدام SharePoint علي الإنترنت
+title: ابدأ باستخدام SharePoint Online
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -14,22 +14,25 @@ ms.custom:
 - "1940"
 - "1718"
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 0f3389fad573908fa80bd0c861b656f268446e61
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 1af44290ce0795737c03c4eacac48906313aa5ea
+ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050908"
+ms.lasthandoff: 02/04/2020
+ms.locfileid: "41770446"
 ---
-# <a name="workflows-in-sharepoint"></a>مهام سير العمل في SharePoint
+# <a name="workflows-in-sharepoint"></a>سير العمل في SharePoint
 
-مهام سير عمل SharePoint هي تطبيقات مصغره مبرمجه مسبقا لتبسيط وأتمته مجموعه واسعه من العمليات التجارية. يمكن ان تتراوح مهام سير العمل من تجميع التواقيع أو الملاحظات أو الموافقات لخطه أو مستند ، لتعقب الحالة الحالية لاجراء روتيني.
+سير عمل SharePoint هي تطبيقات مبرمجة مسبقًا تبسط مجموعة واسعة من العمليات التجارية. انظر الروابط أدناه لمزيد من المعلومات.
 
-الشروع في **التشغيل:** إذا كنت بدات للتو بمهام سير عمل SharePoint ، فراجع [مقدمه إلى مهام سير عمل sharepoint للحصول علي مزيد من المعلومات](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
+## <a name="getting-started"></a>الشروع
 
-**تدفق microsoft**: النظر في استخدام microsoft flow بدلا من حلول سير العمل الكلاسيكية SharePoint. لمزيد من المعلومات ، راجع [إنشاء تدفق لقائمه أو مكتبه في SharePoint علي الإنترنت أو اندريف](https://support.office.com/article/create-a-flow-for-a-list-or-library-in-sharepoint-online-or-onedrive-for-business-a9c3e03b-0654-46af-a254-20252e580d01)
+إذا كنت قد بدأت للتو باستخدام سير عمل SharePoint، فراجع [سير عمل مقدمة إلى SharePoint](https://support.office.com/article/introduction-to-sharepoint-workflow-07982276-54e8-4e17-8699-5056eff4d9e3).
 
-**استكشاف الأخطاء وإصلاحها سير العمل وتصحيح**:
+## <a name="troubleshoot-and-debug-a-sharepoint-workflow"></a>استكشاف الأخطاء وإصلاحها وتصحيح سير عمل SharePoint
 
-تصحيح الأخطاء مهام سير العمل مشابهه للإصدارات السابقة. لمزيد من المعلومات ، راجع [تصحيح مهام سير عمل SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows). لمزيد من المعلومات حول استكشاف الأخطاء وإصلاحها ، راجع [استكشاف أخطاء التحقق من صحة سير عمل خادم SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio).
+راجع [أخطاء التحقق من صحة سير عمل SharePoint وإصلاحها](https://docs.microsoft.com/sharepoint/dev/general-development/troubleshooting-sharepoint-server-workflow-validation-errors-in-visio) وتصحيح سير العمل [SharePoint](https://docs.microsoft.com/sharepoint/dev/general-development/debugging-sharepoint-server-workflows).
 
+## <a name="power-automate"></a>أتمتة الطاقة
+
+فكر في استخدام [Power Automate](https://docs.microsoft.com/power-automate/modern-approvals) بدلاً من حلول سير عمل SharePoint الكلاسيكية.
