@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3526"
-ms.openlocfilehash: a9b6e36e8034e71b3e72c49e3cc68a126ef97aca
-ms.sourcegitcommit: cb9505f9eca032af3a4194c68d18c91789365690
+ms.openlocfilehash: 587a05cccbc71a970d4bd7723bff0df0c3b64ccc
+ms.sourcegitcommit: 2a9d059262c07c33f9a740b3da4e6e3366b2f925
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/16/2020
-ms.locfileid: "42091654"
+ms.lasthandoff: 02/20/2020
+ms.locfileid: "42158541"
 ---
 # <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>غير قادر على تعيين أو عرض نهج AllowSelfServicePurchase
 
@@ -29,11 +29,11 @@ ms.locfileid: "42091654"
 حاول الخطوات التالية لتمكين/تعيين بروتوكول TLS إلى 1.2، تحقق، وإعادة المحاولة.
  1. في موجه الأمر PowerShell (PS C:\) أدخل الأمر التالي لتعيين بروتوكول TLS إلى الإصدار 1.2:
 
-    \[Net.ServicePointManager]::بروتوكول الأمن \[= Net.SecurityProtocolType]::Tls12
+    `[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12`
 
 2. تحقق من بروتوكول TLS (البروتوكولات) في الاستخدام، مع الأمر التالي:
 
-    \[Net.ServicePointManager]::بروتوكول الأمن 
+    `[Net.ServicePointManager]::SecurityProtocol` 
 
 3. إعادة محاولة أوامر الحصول على أو تحديث حسب الحاجة.
 
