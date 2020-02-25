@@ -1,5 +1,5 @@
 ---
-title: كيف يمكنني الاتصال مع سكايب الخارجية لمستخدمي الاعمال
+title: كيف يمكنني التواصل مع مستخدمي Skype الخارجيين للأعمال
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,19 +12,24 @@ ms.custom:
 - "4000008"
 - "2646"
 - "1432"
-ms.openlocfilehash: e8eefb9c0f01ad42f725f178fa23b15850364a44
-ms.sourcegitcommit: 7232b48bcd8bb9867d52a2f055a46ce76a58b8da
+ms.openlocfilehash: 46da02a7a2ae1be92698f376be404a76bd4f23e6
+ms.sourcegitcommit: d87a6ac6ee77375d1d750100359b4dc7b2871691
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/27/2019
-ms.locfileid: "37305144"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42265075"
 ---
-# <a name="allow-external-communications-with-skype-for-business"></a>السماح بالاتصالات الخارجية باستخدام Skype للعمل 
+# <a name="allow-external-communications-with-skype-for-business"></a>السماح بالاتصالات الخارجية باستخدام Skype for Business 
 
-هل تريد السماح لمستخدمي Skype للشركات بالاتصال بالمستخدمين خارج مؤسستك ؟ 
+هل تريد السماح لمستخدمي Skype for Business بالاتصال بالمستخدمين خارج مؤسستك؟ راجع [السماح للمستخدمين بالاتصال بمستخدمي Skype الخارجيين للشركات](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users).
 
-[السماح للمستخدمين بالاتصال سكايب الخارجية لمستخدمي الاعمال](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)
+يجب إعداد سجلات DNS بشكل صحيح لكي تعمل الاتصالات الخارجية بشكل صحيح. تحقق [هنا](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions?view=o365-worldwide) لمعرفة ما إذا كان لدينا تعليمات محددة حول كيفية تعيين سجلات DNS مع الموفر الخاص بك. 
 
-يجب اعداد سجلات DNS الخاصة بك بشكل صحيح للاتصالات الخارجية لتعمل بشكل صحيح. تحقق [هنا](https://docs.microsoft.com/office365/admin/get-help-with-domains/set-up-your-domain-host-specific-instructions?view=o365-worldwide) لمعرفه ما إذا كان لدينا إرشادات محدده حول كيفيه تعيين سجلات DNS مع الموفر الخاص بك. 
+هل تريد فقط تمكين مستخدمي Skype for Business من الاتصال بمستخدمي Skype المستهلكين؟ انظر:
 
-إذا كنت تريد ان يتمكن مستخدمو الفرق من الاتصال بالمستخدمين خارج مؤسستك (بما في ذلك Skype لمستخدمي الاعمال) ، راجع [أداره الوصول الخارجي في فرق Microsoft](https://docs.microsoft.com/microsoftteams/let-your-teams-users-communicate-with-other-people). 
+- [السماح لمستخدمي Skype للأعمال بإضافة جهات اتصال Skype](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts). 
+
+- [إضافة جهة اتصال في Skype for Business](https://support.office.com/article/add-a-contact-in-skype-for-business-89338023-2adf-4f5c-90b6-f8b6f72fadd1).
+
+
+إذا كنت تريد أن يتمكن مستخدمو Teams من الاتصال بالمستخدمين خارج مؤسستك (بما في ذلك مستخدمي Skype for Business)، فراجع [إدارة الوصول الخارجي في Microsoft Teams](https://docs.microsoft.com/microsoftteams/let-your-teams-users-communicate-with-other-people). 

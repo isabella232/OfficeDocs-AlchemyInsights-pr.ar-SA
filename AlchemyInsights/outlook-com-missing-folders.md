@@ -15,17 +15,18 @@ ms.custom:
 - "1134"
 - "8000061"
 ms.assetid: e8e87530-51b6-4386-983c-8c8cca0c5b3f
-ms.openlocfilehash: e7d63bc774b915e9d8b51695b8d7d0cd08086f35
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d81239b8992910d7bf451cdcb2a3f54c9d2a72c4
+ms.sourcegitcommit: 1e624fbebbe70f064cd24e3347d70a75caedf840
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536170"
+ms.lasthandoff: 02/24/2020
+ms.locfileid: "42260229"
 ---
-# <a name="find-missing-folders"></a>البحث عن المجلدات المفقودة
+# <a name="find-missing-folders"></a>البحث عن مجلدات مفقودة
 
-إذا لم تر المجلدات الخاصة بك، تحقق من أن لا يتم طي المجلدات الخاصة بك. حدد السهم الموجود بجانب **المجلدات** في الجزء الأيمن.
-  
-إذا قمت بطريق الخطأ بحذف مجلد، يمكنك استرداد إذا كانت لا تزال في مجلد "العناصر المحذوفة". لمعرفة المزيد، اقرأ [استعادة حذف رسائل البريد الإلكتروني في Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50?wt.mc_id=Office_Outlook_com_Alchemy).
-  
-هناك مشكلة معروفة حيث المجلدات مفقودة. نحن نعمل على حل هذه المشكلة. يمكنك العثور العناصر المحفوظة داخل المجلدات المفقودة باستخدام **البحث** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABUAAAAVBAMAAABbObilAAAAKlBMVEX///+WqL7l6u8vUn8iR3azwNDCzNlObJFAYIkDLWNeeZuks8d7ka1thaRtSbf+AAAAS0lEQVQI12MgFjAdmVkKY6csYxK5AGUbAqWsIUzGBiARAmGzCwAJlgQwmyMARiDEEeoxzWEyQZivLAS3l8kQ4RplkDF4hRkWEvQSABbdDSdqA/J0AAAAAElFTkSuQmCC' />، وقد يساعد في حالة تسجيل الخروج ثم تسجيل الدخول مرة أخرى. [انقر هنا لتسجيل الخروج.](https://login.live.com/logout.srf)
+قد لا يتمكن بعض المستخدمين من رؤية جزء المجلد الأيسر عند العرض على شاشة صغيرة.
+
+- توسيع جزء المجلد فقط عندما كنت في حاجة إليها. حدد رمز السطر الثلاثة في الشريط الجانبي الأيسر لإظهار المجلدات أو إخفائها.
+- افتح [إعدادات التخطيط](https://outlook.live.com/mail/options/mail/layout) وحدد إخفاء جزء **القراءة** ثم **حفظ**. وهذا يعطي الشاشة مساحة أكبر لإظهار المجلدات.
+
+إذا قمت بحذف مجلد عن طريق الخطأ، يمكنك استرداده إذا كان لا يزال في مجلد "العناصر المحذوفة". لمعرفة المزيد، اقرأ [استعادة رسائل البريد الإلكتروني المحذوفة في Outlook.com](https://support.office.com/article/cf06ab1b-ae0b-418c-a4d9-4e895f83ed50).
