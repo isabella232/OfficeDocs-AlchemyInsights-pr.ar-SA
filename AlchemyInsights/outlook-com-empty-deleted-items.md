@@ -1,8 +1,9 @@
 ---
-title: إفراغ مجلد "العناصر المحذوفة" في Outlook.com
+title: إفراغ مجلد العناصر المحذوفة في Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
+ms.date: 2/25/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000751"
 - "2689"
-ms.openlocfilehash: 4438fdd0c0d4aa5d9dce358f5b8f865005e1d134
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 82a336cff5e7bbde59d99acf91e5375fd3493474
+ms.sourcegitcommit: b20f110ca1002e7e190632cabb914e7825b1dbfc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768679"
+ms.lasthandoff: 02/25/2020
+ms.locfileid: "42277918"
 ---
-# <a name="empty-the-deleted-items-folder"></a><span data-ttu-id="53a71-102">إفراغ مجلد "العناصر المحذوفة"</span><span class="sxs-lookup"><span data-stu-id="53a71-102">Empty the Deleted Items folder</span></span>
+# <a name="empty-the-deleted-items-folder"></a><span data-ttu-id="c63d2-102">إفراغ مجلد العناصر المحذوفة</span><span class="sxs-lookup"><span data-stu-id="c63d2-102">Empty the Deleted Items folder</span></span>
 
-<span data-ttu-id="53a71-103">لأزاله كافة رسائل Outlook المحذوفة ، انتقل إلى [مجلد العناصر المحذوفة](https://outlook.live.com/mail/deleteditems)وحدد **مجلد فارغ**، ثم حدد **استرداد العناصر المحذوفة من هذا المجلد** اعلي قائمه الرسائل وحدد  **المجلد الفارغ**مره أخرى.</span><span class="sxs-lookup"><span data-stu-id="53a71-103">To purge all your deleted Outlook messages, go to your [Deleted Items folder](https://outlook.live.com/mail/deleteditems) and select **Empty folder**, then select **Recover items deleted from this folder** above the message list and select **Empty folder** again.</span></span>
+1. <span data-ttu-id="c63d2-103">افتح مجلد العناصر المحذوفة وحدد **المجلد الفارغ**.</span><span class="sxs-lookup"><span data-stu-id="c63d2-103">Open your Deleted Items folder and select **Empty folder**.</span></span>
+2. <span data-ttu-id="c63d2-104">حدد **العناصر القابلة للاسترداد** في أعلى الصفحة وحدد المجلد **الفارغ** مرة أخرى.</span><span class="sxs-lookup"><span data-stu-id="c63d2-104">Select **Recoverable items** at the top of the page and select **Empty folder** again.</span></span>
 
-<span data-ttu-id="53a71-104">إذا قمت بحذف الكثير من الرسائل ، فقد يستغرق نقل هذه العناصر أو ازالتها من مجلد "العناصر المحذوفة" بعض الوقت.</span><span class="sxs-lookup"><span data-stu-id="53a71-104">If you've deleted a lot of messages, it may take some time for those items to move to or be purged from the Deleted Items folder.</span></span> <span data-ttu-id="53a71-105">الرجاء ترك نافذه المتصفح مفتوحة حتى يتم حذف العناصر.</span><span class="sxs-lookup"><span data-stu-id="53a71-105">Please leave the browser window open until the items are deleted.</span></span>
+<span data-ttu-id="c63d2-105">**غير قادر على إفراغ مجلد العناصر المحذوفة**</span><span class="sxs-lookup"><span data-stu-id="c63d2-105">**Unable to empty the Deleted Items folder**</span></span>
 
-<span data-ttu-id="53a71-106">في حاله فشل حذف الرسائل بشكل صحيح ، حاول حذف عدد اقل من الرسائل.</span><span class="sxs-lookup"><span data-stu-id="53a71-106">If messages fail to delete properly, try deleting a smaller number of messages.</span></span>
+- <span data-ttu-id="c63d2-106">إذا قمت بحذف الكثير من البريد الإلكتروني، فقد يستغرق نقل هذه العناصر إلى مجلد العناصر المحذوفة أو حذفها بعض الوقت.</span><span class="sxs-lookup"><span data-stu-id="c63d2-106">If you've deleted a lot of email, it may take some time for those items to move to or be deleted from the Deleted Items folder.</span></span> <span data-ttu-id="c63d2-107">اترك نافذة المستعرض مفتوحة أثناء الحذف.</span><span class="sxs-lookup"><span data-stu-id="c63d2-107">Leave the browser window open while the deleting takes place.</span></span>
+- <span data-ttu-id="c63d2-108">إذا كان البريد الإلكتروني لا يزال يفشل في الحذف بشكل صحيح، فحدد دفعة أصغر لحذفها.</span><span class="sxs-lookup"><span data-stu-id="c63d2-108">If the email still fails to delete properly, select a smaller batch to delete.</span></span>
+- <span data-ttu-id="c63d2-109">إذا كان البريد الإلكتروني المحذوف يعود ، فقد يكون ذلك لأنك حذفت الكثير من البريد الإلكتروني مؤخرًا.</span><span class="sxs-lookup"><span data-stu-id="c63d2-109">If deleted email comes back, it could be because you've deleted a lot of email recently.</span></span> <span data-ttu-id="c63d2-110">الرجاء المحاولة مرة أخرى في وقت لاحق.</span><span class="sxs-lookup"><span data-stu-id="c63d2-110">Please try again later.</span></span>
