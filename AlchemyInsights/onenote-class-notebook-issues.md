@@ -1,5 +1,5 @@
 ---
-title: ملاحظات OneNote الفئة المشكلات
+title: مشكلات دفتر ملاحظات فئة OneNote
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,25 +11,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000676"
 - "2577"
-ms.openlocfilehash: ff539417606ebe2b78e484a96bc384ed33e6c994
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 62464ce279b54101338cee1f14589ea96dd7354e
+ms.sourcegitcommit: 8a423159bb9bb8259357bbfa4ebc6e56a2c8ecb1
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36543084"
+ms.lasthandoff: 03/07/2020
+ms.locfileid: "42556628"
 ---
-# <a name="onenote-class-notebook-issues-and-resolutions"></a>ملاحظات OneNote الفئة المشكلات والحلول
+# <a name="onenote-class-notebook-issues-and-resolutions"></a>مشكلات ودقة دفتر ملاحظات فئة OneNote
 
-فيما يلي بعض المواضيع المطلوبة في كثير من الأحيان واستكشاف الأخطاء وإصلاحها "أجهزة الكمبيوتر المحمولة فئة".
+فيما يلي بعض الموضوعات المطلوبة بشكل متكرر ومستكشفي الأخطاء وإصلاحها لدفاتر ملاحظات الفئة.
 
-- **الفرق:** [استخدام OneNote فئة دفتر الملاحظات في فرق](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440) إجابات أسئلة حول إعداد "مفكرة الفئة" في فرق العمل.
+- **الفرق:** [استخدم دفتر ملاحظات فئة OneNote في الفرق](https://support.office.com/article/bd77f11f-27cd-4d41-bfbd-2b11799f1440) يجيب على أسئلة حول إعداد دفتر ملاحظات الفئة في الفرق.
 
-- **إضافة الطلاب:** مراجعة كيفية [إضافة "مفكرة فئة" الطلاب](https://support.office.com/article/149882af-506a-4689-9fee-39309b97aae8). إذا كنت تواجه مشكلة في رؤية الطلاب الجدد، راجع [الطلاب لا يظهر في "دفتر الملاحظات الفئة" المضافة حديثا](https://support.office.com/article/4da02c45-b435-4af1-921b-51b8ee40e1c9).
+- **إضافة الطلاب:** راجع كيفية [إضافة الطلاب إلى دفتر ملاحظات الفصل الدراسي](https://support.office.com/article/149882af-506a-4689-9fee-39309b97aae8). إذا كنت تواجه مشكلة في رؤية طلاب جدد، فراجع [الطلاب المضافين حديثًا الذين لا يظهرون في دفتر ملاحظات الفصل الدراسي](https://support.office.com/article/4da02c45-b435-4af1-921b-51b8ee40e1c9).
 
-- **إزالة الطلاب:** ابدأ [إزالة الطلاب في "الفئة المفكرة" ل OneNote](https://support.office.com/article/86dcf019-408f-4de8-8055-eb61f1578c3c). للمشاكل المتعلقة بإزالة الطلاب، راجع [تم حذف الطالب ولكن لا يزال يظهر المجلد الخاص بهم](https://support.office.com/article/0ed81eaa-c14a-436f-bb6f-ce95f130cc71).
+- **إزالة الطلاب:** ابدأ [بإزالة الطلاب في دفتر ملاحظات الفصل الدراسي لـ OneNote](https://support.office.com/article/86dcf019-408f-4de8-8055-eb61f1578c3c). بالنسبة للمشكلات المتعلقة بإزالة الطلاب، راجع [حذف الطالب ولكن لا يزال يظهر المجلد.](https://support.office.com/article/0ed81eaa-c14a-436f-bb6f-ce95f130cc71)
 
-- **المدرسين الجدد:** للمساعدة في إعداد "دفتر الملاحظات فئة" المعلمين الجدد، مراجعة [في "المفكرة الفئة" ل OneNote المدرسين المشاركين إضافة أو إزالة](https://support.office.com/article/fdcb870b-49a7-4a14-9ea6-d817f88026f8) أو [نقل فئة دفتر الملاحظات لمدرس جديد](https://support.office.com/article/84ef5d4a-0eec-4d5b-bc22-1317bc3b9027).
+- **المعلمون الجدد:** لمساعدة المعلمين الجدد في إعداد دفتر ملاحظات الفئة، راجع [إضافة أو إزالة المعلمين المشاركين في دفتر ملاحظات الفئة لدفتر](https://support.office.com/article/fdcb870b-49a7-4a14-9ea6-d817f88026f8) ملاحظات فئة OneNote أو [Transfer دفتر ملاحظات الفصل إلى معلم جديد](https://support.office.com/article/84ef5d4a-0eec-4d5b-bc22-1317bc3b9027).
 
-إذا لم يكن مسروداً المشكلة ترى هنا، راجع المقطع [استكشاف الأخطاء وإصلاحها](https://support.office.com/article/class-notebook-ee70aff9-52e8-449f-be6a-7cbc1d65eaea#ID0EAABAAA=Manage&ID0EABAAA=Troubleshoot) من [فئة دفتر الملاحظات](https://support.office.com/article/class-notebook-ee70aff9-52e8-449f-be6a-7cbc1d65eaea). 
+- لمعالجة المشكلات الأكثر شيوعًا المتعلقة بمزامنة دفتر ملاحظات فئة OneNote، يُرجى استخدام الخطوات في مشكلات الإصلاح عندما لا تتمكن من [مزامنة OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).
+
+إذا لم يتم سرد المشكلة التي تشاهدها هنا، راجع قسم [استكشاف الأخطاء وإصلاحها](https://support.office.com/article/class-notebook-ee70aff9-52e8-449f-be6a-7cbc1d65eaea#ID0EAABAAA=Manage&ID0EABAAA=Troubleshoot) في [دفتر ملاحظات الفئة](https://support.office.com/article/class-notebook-ee70aff9-52e8-449f-be6a-7cbc1d65eaea). 
 
 

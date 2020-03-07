@@ -1,5 +1,5 @@
 ---
-title: الفرق Freemium
+title: فرق فريميوم
 ms.author: heidip
 author: heidip
 ms.date: 3/6/2019
@@ -11,17 +11,19 @@ ms.custom:
 - "997"
 - "6500005"
 ms.assetid: d3fcac43-f659-47ba-a45e-f32863680685yeah
-ms.openlocfilehash: 3df8cb761c3a9a64cc1d249f44707b0bdeefebea
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: bac77a9b65dbcd57ee14a533e63ef95719356291
+ms.sourcegitcommit: 8a423159bb9bb8259357bbfa4ebc6e56a2c8ecb1
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35353992"
+ms.lasthandoff: 03/07/2020
+ms.locfileid: "42556627"
 ---
-# <a name="id-like-to-sign-up-for-teams-free-but-i-cant"></a>أود أن الاشتراك في فرق العمل الحر، ولكن لا أستطيع.
+# <a name="id-like-to-sign-up-for-teams-for-free"></a>أرغب في الاشتراك في Teams مجانًا
 
-- إذا كنت تستخدم أحد أعمال Office 365 أو حساب المدرسة، لا يتوفر هذا العرض الحر. مؤسستك، رغم ذلك، قد سبق تستخدم فرق. إذا لم يكن الأمر كذلك، انتقل إلى [فرق Microsoft](https://products.office.com/microsoft-teams/group-chat-software) معرفة ما إذا كان مؤهلاً لإصدار تجريبي مجاني.
+تتوفر الفرق مجانًا من خلال برنامجين مختلفين. نظرًا لأنك تتصل بالدعم مع هذا الطلب، فلديك بالفعل مستأجر Microsoft 365 موجود، مما يعني أن لديك بالفعل Microsoft Teams.
 
-- المؤسسات الأكاديمية غير مؤهلة لهذا العرض الحر. المدرسين والطلاب، رغم ذلك، الحصول على نسخة مجانية من Office 365، يتضمن إصدار كامل من فرق Microsoft. راجع [ترخيص لفرق Microsoft Office 365](https://docs.microsoft.com/microsoftteams/office-365-licensing).
+في معظم الحالات، يتم تشغيل الفرق بشكل افتراضي لجميع المستخدمين. بمجرد تشغيله، يمكن للمستخدمين تشغيل Teams، إما عن طريق تثبيت عملاء سطح https://teams.microsoft.com [المكتب](https://office.visualstudio.com/MAX/_workitems/edit/desktop)  [والجوّال،](https://office.visualstudio.com/MAX/_workitems/edit/desktop) أو من [المتصفح](https://docs.microsoft.com/en-us/MicrosoftTeams/get-clients#mobile-clients) في .
 
-- المؤسسات الحكومية الأمريكية غير مؤهلة لهذا العرض الحر. لمعرفة المزيد حول خطط Office 365 للمؤسسات الحكومية (بما في ذلك إصدار تجريبي مجاني)، اقرأ [ترخيص لفرق Microsoft Office 365](https://docs.microsoft.com/microsoftteams/office-365-licensing).
+الاستثناء من هذا هو Microsoft Teams للتعليم (EDU). إذا كان لديك ترخيص EDU، تحتاج إلى تمكين Microsoft Teams يدوياً. للقيام بذلك، انتقل إلى مركز إدارة Microsoft 365 **> الخدمات والوظائف الإضافية > Microsoft Teams**. إذا كنت تستخدم مركز إدارة الفرق الجديد، فسيتعين عليك إيقاف تشغيل **Try the New Admin Center** للعثور على **الخدمات والوظائف الإضافية**. هام: قد تضطر إلى الانتظار لمدة تصل إلى 24 ساعة حتى تدخل التغييرات حيز التنفيذ.
+
+لا تفوت كل توجيهاتنا [لدعم العمال عن بعد مع فرق.](https://docs.microsoft.com/en-us/MicrosoftTeams/support-remote-work-with-teams)
