@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001666"
 - "3733"
-ms.openlocfilehash: dbd1cd9db4830278703a2dfb8d0541e9f706a326
-ms.sourcegitcommit: dc3f616893e02c72e8cdf4700b1c49ccfa12a975
+ms.openlocfilehash: 1aa8876dd56010f9b45c56c4bf7e8db9ca8539e6
+ms.sourcegitcommit: d925c1fd1be35071cd422b9d7e5ddd6c700590de
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/02/2020
-ms.locfileid: "42365109"
+ms.lasthandoff: 03/10/2020
+ms.locfileid: "42584464"
 ---
 # <a name="use-snip--sketch-to-capture-mark-up-and-share-images"></a>استخدم القصاصة & رسم لالتقاط الصور ووضع علامة عليها ومشاركتها
 
@@ -27,7 +27,8 @@ ms.locfileid: "42365109"
 2. اختر نقطة على حافة المنطقة التي تريد نسخها وانقر على المؤشر. 
 
 3. حرك المؤشر لتسليط الضوء على المنطقة التي تريد التقاطها. ستظهر المنطقة التي تلتقطها على الشاشة.
-:::image type="content" source="media/snipone.png" alt-text="صورة التحديد المميز":::
+
+   ![صورة التحديد المميز](media/snipone.png)
 
 يتم حفظ الصورة التي قطعتها على الحافظة الخاصة بك، جاهزة لللصق في بريد إلكتروني أو مستند. 
 
@@ -35,4 +36,4 @@ ms.locfileid: "42365109"
 
 - انقر فوق رمز الإشعارات في أقصى الجانب الأيمن من شريط المهام؛ ثم انقر فوق الصورة التي قمت بالتقاطها للتو. يتم فتح القصاصة في تطبيق "قص & رسم".
 
-:::image type="content" source="media/sniptwo.png" alt-text="صورة عرض في التطبيق القص":::
+   ![صورة لعرض الصورة في تطبيق القص](media/sniptwo.png)
