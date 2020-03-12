@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000583"
 - "2685"
-ms.openlocfilehash: fdf7dbbfb3ef7b59a77365348344a5851eb0c55a
-ms.sourcegitcommit: 8deddd8518bf793925628fcab7851daec99a7f2f
+ms.openlocfilehash: 28c0c22384264229d537c2af6caabb1be4567052
+ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42031601"
+ms.lasthandoff: 03/11/2020
+ms.locfileid: "42600119"
 ---
 # <a name="resolve-errors-opening-or-saving-word-files"></a>حل الأخطاء فتح أو حفظ ملفات Word
 
@@ -25,7 +25,7 @@ ms.locfileid: "42031601"
 - [تثبيت تحديثات Office](https://support.office.com/article/2ab296f3-7f03-43a2-8e50-46de917611c5). للحصول على قائمة بآخر تحديثات Office، راجع [آخر التحديثات](https://docs.microsoft.com/officeupdates/office-updates-msi).
 - [استكشاف المستندات التالفة في Word .](https://docs.microsoft.com/office/troubleshoot/word/damaged-documents-in-word)
 - [إصلاح تطبيق Office](https://support.office.com/Article/Repair-an-Office-application-7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b).
-- إذا كان المستند يحتوي على تغييرات متتبعة، استخدم الاقتراحات في [Word يبطئ أو يتوقف عن الاستجابة إذا كانت هناك تغييرات أو تعليقات متتبعة بشكل مفرط](https://docs.microsoft.com/en-us/office/troubleshoot/word/word-stops-responding) لحل المشكلة.
+- إذا كان المستند يحتوي على تغييرات متتبعة، استخدم الاقتراحات في [Word يبطئ أو يتوقف عن الاستجابة إذا كانت هناك تغييرات أو تعليقات متتبعة بشكل مفرط](https://docs.microsoft.com/office/troubleshoot/word/word-stops-responding) لحل المشكلة.
 
 إذا تلقيت خطأ مثل أحد ما يلي، استخدم الاقتراحات في [رسالة الخطأ في Office عند حظر ملف بواسطة إعدادات نهج التسجيل:](https://docs.microsoft.com/office/troubleshoot/settings/file-blocked-in-office)
 
