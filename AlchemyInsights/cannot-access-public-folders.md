@@ -1,5 +1,5 @@
 ---
-title: لا يمكن الوصول إلى المجلدات العمومية
+title: لا يمكن الوصول إلى المجلدات العامة
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: a9305b175e1ca0b992c014a73705447d67e037bc
-ms.sourcegitcommit: cbbd46fa9a32873c5446d9fd5a532cea0300b795
+ms.openlocfilehash: a579b89b68bfb8432adfe64b155803eda2c3b086
+ms.sourcegitcommit: a3b42ee05224846327d353b48a8c67dab724f6eb
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39959482"
+ms.lasthandoff: 03/21/2020
+ms.locfileid: "42891736"
 ---
-# <a name="outlook-cannot-connect-to-public-folders"></a>يتعذر علي Outlook الاتصال بالمجلدات العمومية
+# <a name="outlook-cannot-connect-to-public-folders"></a>لا يمكن لـ Outlook الاتصال بالمجلدات العامة
 
-إذا كان الوصول إلى المجلد العمومي لا يعمل لعدد قليل من المستخدمين ، فجرب ما يلي:
+إذا كان الوصول إلى المجلد العمومي لا يعمل لبعض المستخدمين، فجرّب ما يلي:
 
-الاتصال ب EXO PowerShell ، وتكوين ديفاولبوبليكفولدفولبوكس علي حساب المستخدم المشكلة لمطابقه واحد علي حساب مستخدم العمل.
+الاتصال EXO PowerShell وتكوين المعلمة DefaultPublicFolderMailbox على حساب المستخدم المشكلة لمطابقة المعلمة على حساب مستخدم عامل.
 
 المثال:
 
-الحصول علي علبه البريد WorkingUser | ft ديفاولبوبليكفولدفولبوكس ، افيكتيفيبوبليكفولديرمايلبوكس
+الحصول على علبة البريد المستخدم | ft DefaultPublicFolderMailbox، EffectivePublicFolderMailbox
 
-مجموعه-علبه البريد إشكاليه المستخدم-ديفاولبوبليكفولدفولبوكس \<من الأمر السابق>
+مجموعة علبة البريد مشكلةUser \<-DefaultPublicFolderMailbox قيمة من الأمر السابق>
 
-انتظر ساعة واحده علي الأقل حتى يسري مفعول التغيير.
+انتظر ساعة واحدة على الأقل حتى يسري التغيير.
+
+إذا ظلت المشكلة قائمة، الرجاء اتباع [هذا الإجراء](https://aka.ms/pfcte) لاستكشاف مشاكل الوصول إلى المجلد العمومي باستخدام Outlook.
