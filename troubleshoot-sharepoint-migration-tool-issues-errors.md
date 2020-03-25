@@ -1,5 +1,5 @@
 ---
-title: استكشاف مشكلات أداه ترحيل SharePoint والأخطاء وإصلاحها
+title: استكشاف مشكلات وأخطاء أداة ترحيل SharePoint وإصلاحها
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -13,16 +13,22 @@ ms.custom:
 - "5300030"
 - "3178"
 ms.assetid: ''
-ms.openlocfilehash: 191d30a3d226387333d330472703fe9d3f2925f9
-ms.sourcegitcommit: fc2357059b6126b2ae3571baeec1ee89a5d36bdd
+ms.openlocfilehash: f9f5694b1d88bccebdc5448d5629ea5120c52511
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37913373"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42931105"
 ---
-# <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a>استكشاف مشكلات أداه ترحيل SharePoint والأخطاء وإصلاحها
+# <a name="troubleshooting-sharepoint-migration-tool-issues-and-errors"></a>استكشاف مشكلات وأخطاء أداة ترحيل SharePoint وإصلاحها
 
-قد تواجه بعض المشكلات الشائعة والأخطاء عند استخدام أداه ترحيل SharePoint (SPMT). يرجى الرجوع إلى الروابط أدناه لمزيد من المعلومات.
+**هام:** يعمل العديد من عملاء SharePoint Online و OneDrive على تشغيل تطبيقات مهمة للأعمال مقابل الخدمة التي تعمل في الخلفية. وتشمل هذه ترحيل المحتوى، منع فقدان البيانات (DLP)، وحلول النسخ الاحتياطي. خلال هذه الأوقات غير المسبوقة، نتخذ خطوات لضمان أن تظل خدمات SharePoint Online و OneDrive متاحة للغاية وموثوقة للمستخدمين الذين يعتمدون على الخدمة أكثر من أي وقت مضى في سيناريوهات العمل عن بعد.
 
-* [استكشاف مشكلات SPMT الشائعة والأخطاء](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
-* [استكشاف مشكلات تثبيت SPMT وإصلاحها](https://docs.microsoft.com/sharepointmigration/spmt-install-issues)
+ولدعم هذا الهدف، قمنا بتنفيذ قيود خنق أكثر صرامة على تطبيقات الخلفية (الترحيل وDLP وحلول النسخ الاحتياطي) خلال ساعات النهار في أيام الأسبوع. يجب أن تتوقع أن تحقق هذه التطبيقات إنتاجية محدودة جدًا خلال هذه الأوقات. ومع ذلك ، خلال ساعات المساء وعطلة نهاية الأسبوع للمنطقة ، ستكون الخدمة جاهزة لمعالجة حجم أكبر بكثير من الطلبات من تطبيقات الخلفية.
+
+**المشكلات والأخطاء الشائعة**
+
+قد تواجه بعض المشكلات والأخطاء الشائعة عند استخدام أداة ترحيل SharePoint (SPMT). يرجى الرجوع إلى الروابط أدناه لمزيد من المعلومات.
+
+* [استكشاف مشكلات SPMT الشائعة وإصلاحها والأخطاء](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)
+* [استكشاف مشكلات تثبيت SPMT استكشاف الأخطاء وإصلاحها](https://docs.microsoft.com/sharepointmigration/spmt-install-issues)

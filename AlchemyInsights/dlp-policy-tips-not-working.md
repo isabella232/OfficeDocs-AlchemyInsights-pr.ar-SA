@@ -1,5 +1,5 @@
 ---
-title: تلميحات نهج DLP لا يعمل
+title: نصائح نهج DLP لا تعمل
 ms.author: deniseb
 author: denisebmsft
 manager: laurawims
@@ -12,24 +12,30 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 1619d50b98419f59a1f863983c4ec5bff01679b4
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 51b4472fa721443192eb542cac45965df67634df
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530276"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42932573"
 ---
 # <a name="dlp-policy-tip-issues"></a>مشكلات تلميح نهج DLP
 
-عند استخدام **نهج DLP**، يمكنك إعلام المستخدمين انتهاك النهج مع **نهج نصائح**. إدارة تكوين نهج تلميحات لعرض أثناء اختبار نهج DLP بها أو عندما يكون النهج في وضع الإنفاذ الكامل.
+**هام:** يعمل العديد من عملاء SharePoint Online و OneDrive على تشغيل تطبيقات مهمة للأعمال مقابل الخدمة التي تعمل في الخلفية. وتشمل هذه ترحيل المحتوى، منع فقدان البيانات (DLP)، وحلول النسخ الاحتياطي. خلال هذه الأوقات غير المسبوقة، نتخذ خطوات لضمان أن تظل خدمات SharePoint Online و OneDrive متاحة للغاية وموثوقة للمستخدمين الذين يعتمدون على الخدمة أكثر من أي وقت مضى في سيناريوهات العمل عن بعد.
+
+ولدعم هذا الهدف، قمنا بتنفيذ قيود خنق أكثر صرامة على تطبيقات الخلفية (الترحيل وDLP وحلول النسخ الاحتياطي) خلال ساعات النهار في أيام الأسبوع. يجب أن تتوقع أن تحقق هذه التطبيقات إنتاجية محدودة جدًا خلال هذه الأوقات. ومع ذلك ، خلال ساعات المساء وعطلة نهاية الأسبوع للمنطقة ، ستكون الخدمة جاهزة لمعالجة حجم أكبر بكثير من الطلبات من تطبيقات الخلفية.
+
+**نصائح سياسة DLP**
+
+عند استخدام **نُهج DLP،** يمكن إعلام المستخدمين بانتهاك النهج باستخدام **نصائح النهج.** يمكن للمسؤولين تكوين تلميحات النهج لعرضأثناء اختبار نهج DLP أو عندما يكون النهج في وضع التطبيق الكامل.
   
-لتكوين نهج نصائح حول النهج DLP في مركز الأمان والتوافق في وضع الإنفاذ الكامل، قم بما يلي:
+لتكوين تلميحات النهج حول نهج DLP الخاص بك في مركز الأمان والامتثال في وضع التنفيذ الكامل، قم بما يلي:
   
-- ضمان تلميحات نهج تم **تمكين** على القاعدة DLP استخدام الخطوات [هنا](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
+- تأكد من **تمكين** تلميحات السياسة على قاعدة DLP باستخدام الخطوات [هنا](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
 
-- ضمان الخاص بك **يطابق محتوى** ما هو **مطلوب** لتشغيل القاعدة الموضحة في هذه المقالة [هنا](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+- تأكد من **تطابق المحتوى** الخاص بك مع ما هو **مطلوب** لتشغيل القاعدة الموضحة في هذه المقالة [هنا](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
 
-- عرض تلميحات النهج في كل من OWA و Outlook. على الرغم من ذلك، عند استخدام **Outlook 2013 أو الإصدار الأحدث**، يتم عرض تلميحات نهج فقط تحت شروط معينة. يتم هنا سرد هذه الشروط: [الشروط المعتمدة ل Outlook 2013 أو أحدث لعرض "تلميحات نهج"](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips#outlook-2013-and-later-supports-showing-policy-tips-for-only-some-conditions)
+- يتم عرض تلميحات النهج في كل من OWA و Outlook. ومع ذلك، عند استخدام **Outlook 2013 أو أحدث،** يتم عرض تلميحات النهج فقط تحت ظروف معينة. يتم سرد هذه الشروط هنا: [الشروط المعتمدة لـ Outlook 2013 أو أحدث لعرض تلميحات النهج](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips#outlook-2013-and-later-supports-showing-policy-tips-for-only-some-conditions)
 
-لمزيد من المعلومات حول نصائح نهج DLP، راجع: [إظهار تلميحات نهج لسياسات DLP](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
+للحصول على معلومات إضافية حول نصائح سياسة DLP، راجع: [إظهار نصائح السياسة لسياسات DLP](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
   

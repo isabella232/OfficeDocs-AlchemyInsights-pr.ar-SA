@@ -8,24 +8,24 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ''
-ms.openlocfilehash: 8915d97852c5aa3be55a55ea008040e136e6016e
-ms.sourcegitcommit: 9aaa61d717e0fd475d2e9f0507c42aa40d073b5f
+ms.openlocfilehash: 01290defa0c12ba92707bf7368b371c14f2eae56
+ms.sourcegitcommit: b0d5b68366028abcf08610672d5bc9d3b25ac433
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/15/2020
-ms.locfileid: "42042867"
+ms.lasthandoff: 03/24/2020
+ms.locfileid: "42931285"
 ---
 # <a name="delete-a-site"></a>حذف موقع
 
-عند حذف موقع، يتم نقله إلى [المواقع المحذوفة](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true) والاحتفاظ به لمدة 93 يومًا. لحذف موقع، انتقل إلى [المواقع النشطة](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
+عند حذف موقع، يتم نقله إلى المواقع المحذوفة ويتم الاحتفاظ به لمدة 93 يومًا. لحذف موقع، انتقل إلى [المواقع النشطة](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true). 
 
-عند حذف موقع، يتم حذف كل شيء داخله بما في ذلك:
+عند حذف موقع، يتم حذف كل شيء داخله، بما في ذلك:
 
 - مكتبات المستندات والملفات.
-- قوائم وبيانات القوائم.
-- إعدادات الموقع وتاريخه.
+- القوائم وبيانات القائمة.
+- إعدادات الموقع ومحفوظاته.
 - أي مواقع فرعية ومحتوياتها.
 
-يجب عليك إعلام مسؤولي الموقع وأي مالكي مواقع فرعية قبل حذف موقع حتى يتمكنوا من نقل بياناتهم إلى موقع آخر، وكذلك إخبار المستخدمين بموعد حذف المواقع.
+يجب عليك إعلام مسؤولي الموقع وأي مالكي الموقع الفرعي قبل حذف موقع ما حتى يتمكنوا من نقل بياناتهم إلى موقع آخر، وكذلك إخبار المستخدمين بموعد حذف المواقع.
 
 لمزيد من المعلومات، راجع [حذف موقع](https://docs.microsoft.com/sharepoint/delete-site-collection).
