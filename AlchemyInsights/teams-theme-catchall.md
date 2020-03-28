@@ -11,14 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: e1d5f07a10fc014ac8b983bd6dd426c13fc7b807
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: 47e9aa76f8624ce3ddf4cfd03637b5b2714eb435
+ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856454"
+ms.lasthandoff: 03/27/2020
+ms.locfileid: "43030387"
 ---
 # <a name="teams-common-issues-and-resolutions"></a>مشاكل Teams الشائعة وحلولها
+
+**هام**: بسبب الزيادة الحالية في استخدام Teams، قد يستغرق تعيين ترخيص Teams إلى مستخدم حوالي 24 ساعة قبل أن يتم إعداده بشكل كامل. إلا أن يتم ذلك، لن تتمكن من تعيين نُهج Teams إليه وقد لا يتوفر له إمكانية الوصول إلى ميزات مثل إجراء مكالمات أو عقد مؤتمرات صوتية.
+
+**المشاكل الشائعة وحلولها**
 
 للحصول على إجابة أكثر تحديداً، حاول إعادة صياغة سؤالك لتضمين أي أخطاء تشاهدها أو ميزات Teams التي تستخدمها.
 
