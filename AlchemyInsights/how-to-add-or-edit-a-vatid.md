@@ -1,5 +1,5 @@
 ---
-title: كيفية إضافة أو تحرير فاتيد
+title: كيفية إضافة أو تحرير VatID
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,26 +12,30 @@ ms.custom:
 - "664"
 - "1500034"
 ms.assetid: ec278e2b-cc7a-43be-8af5-f381a50d7471
-ms.openlocfilehash: ff4471727b38b6d43b9639b551f92b87e9e9360c
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: e19d680f5688fe9c5e263019c20f10c678d7f7e5
+ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664307"
+ms.lasthandoff: 03/31/2020
+ms.locfileid: "43059723"
 ---
-# <a name="how-to-add-or-edit-a-vatid"></a>كيفية إضافة أو تحرير فاتيد
+# <a name="how-to-add-or-edit-a-vatid"></a>كيفية إضافة أو تحرير VatID
 
-1. في مركز مسؤول Microsoft 365، انتقل إلى **الدفع** \> صفحة [& المنتجات أو الخدمات](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+**ملاحظة:** إذا كنت في بلد يستخدم ضريبة القيمة المضافة (VAT)، مثل المملكة المتحدة، فإن فوترة Microsoft تحسب ضريبة القيمة المضافة لك، وتطبق المبلغ على فواتيرك. لمزيد من المعلومات، راجع [إخلاء مسؤولية VIES](https://go.microsoft.com/fwlink/?LinkID=841741) الذي نشرته المفوضية الأوروبية.
 
-2. العثور على بطاقة اشتراك للاشتراك الذي تريد تحديثه.
+**إضافة أو تحرير VatID**
 
-3. في المقطع **إعدادات & الإجراءات** ، حدد **تحرير عنوان استخدام الخدمة**.
+1. في مركز إدارة Microsoft 365، انتقل إلى صفحة [خدمات & منتجات](https://go.microsoft.com/fwlink/p/?linkid=842054) **الفوترة.** \>
 
-4. في الصفحة **تحرير عنوان استخدام الخدمة الخاصة بك** ، أدخل "معرف ضريبة القيمة المضافة" في المربع **رقم ضريبة القيمة المضافة** ، وحدد **حفظ**.
+2. ابحث عن بطاقة الاشتراك للاشتراك الذي تريد تحديثه.
 
-    عند الانتهاء، ضريبة القيمة المضافة لم يتم احتساب الفاتورة التالية.
+3. في قسم **الإجراءات & الإعدادات،** حدد **تحرير عنوان استخدام الخدمة**.
 
-لمزيد من المعلومات، راجع [الضريبية التي ستكون تكلفة ل Office 365؟](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
+4. في صفحة **تحرير عنوان استخدام الخدمة،** أدخل معرف ضريبة القيمة المضافة في مربع **رقم ضريبة القيمة المضافة،** ثم حدد **حفظ**.
+
+    عند اكتمال، لن يتم احتساب ضريبة القيمة المضافة على فاتورتك التالية.
+
+لمعرفة المزيد، راجع [ما هي الضريبة التي سيتم تحصيلها من Office 365؟](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/what-tax-will-i-be-charged)
 
 **موارد إضافية**
 
