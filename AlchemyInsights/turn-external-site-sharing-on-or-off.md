@@ -1,5 +1,5 @@
 ---
-title: كيفيه تخصيص أذونات لقائمه أو مكتبه SharePoint
+title: كيفية تخصيص أذونات لقائمة SharePoint أو مكتبة
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000191"
 - "2734"
-ms.openlocfilehash: 1220bbbcdd1316585746b6f0ad9f95f24373cb6e
-ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
+ms.openlocfilehash: 738e17393af628d5b19aa7e047a736f78615ff57
+ms.sourcegitcommit: 9923ce61344e22c4490549b12f65fa2896490b1f
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37922031"
+ms.lasthandoff: 04/01/2020
+ms.locfileid: "43100314"
 ---
-# <a name="turn-external-sharing-on-or-off-for-a-site"></a>تشغيل المشاركة الخارجية أو إيقافها لموقع
+# <a name="turn-external-sharing-on-or-off-for-a-site"></a>تشغيل المشاركة الخارجية أو إيقاف تشغيلها لموقع
 
-يجب ان تكون مسؤولا عموميا أو SharePoint في Office 365 لتغيير اعداد المشاركة الخارجية لموقع (يسمي سابقا "مجموعه الموقع"). لا يسمح لمالكي المواقع بتغيير هذا الاعداد. 
+يجب أن تكون مسؤولًا عموميًا أو مسؤولSharePoint في Office 365 لتغيير إعداد المشاركة الخارجية لموقع ما (الذي كان يسمى سابقًا "مجموعة مواقع"). لا يُسمح لمالكي المواقع بتغيير هذا الإعداد. 
 
-لمزيد من المعلومات ، راجع [تشغيل المشاركة الخارجية أو إيقافها لموقع](https://docs.microsoft.com/sharepoint/change-external-sharing-site).
+لمزيد من المعلومات، راجع [تشغيل المشاركة الخارجية أو إيقاف تشغيلها لموقع](https://docs.microsoft.com/sharepoint/change-external-sharing-site)ما .
