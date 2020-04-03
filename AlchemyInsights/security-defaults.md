@@ -1,5 +1,5 @@
 ---
-title: افتراضيات الأمان
+title: الإعدادات الافتراضية للأمان
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3153"
 - "9001193"
-ms.openlocfilehash: f4bdee85b9afb9f89d2382441106ddd82394c16e
-ms.sourcegitcommit: 07b47d7f3ca191363e6bc84140e8e01524d6f08e
+ms.openlocfilehash: 47bba526630d1d8c27ef264e7ceefa3e17b274dc
+ms.sourcegitcommit: 75553b64261eaeaeee16259410753e7bf8982ca1
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37682011"
+ms.lasthandoff: 04/02/2020
+ms.locfileid: "43118362"
 ---
-# <a name="security-defaults"></a>افتراضيات الأمان
+# <a name="security-defaults"></a>الإعدادات الافتراضية للأمان
 
-قد يكون من الصعب أداره الأمان عندما تصبح الهجمات الشائعة المتعلقة بالهوية أكثر شعبيه. تتضمن هذه الهجمات رذاذ كلمه المرور وأعاده التشغيل والتصيد الاحتيالي.
+للحصول على معلومات حول إعدادات الأمان الافتراضية، راجع [ما هي الإعدادات الافتراضية للأمان؟](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
 
-الأمان الافتراضية في Azure Active Directory (أزور AD) تجعل من السهل ان تكون أمنه والمساعدة في حماية مؤسستك. تحتوي افتراضيات الأمان علي إعدادات أمان تم تكوينها مسبقا للهجمات الشائعة.
+تسهل الإعدادات الافتراضية للأمان في Azure Active Directory (Azure AD) أن تكون آمنًا وتساعد في حماية مؤسستك. تحتوي إعدادات الأمان الافتراضية على إعدادات أمان تم تكوينها مسبقًا للهجمات الشائعة.
 
-تقوم Microsoft بجعل الإعدادات الافتراضية للامان متوفرة للجميع. والهدف هو ضمان ان يكون لجميع المنظمات مستوي أساسي من الأمن ممكنا دون اي تكلفه اضافيه. تشغيل الافتراضيات الأمان في المدخل Azure. لمزيد من المعلومات حول افتراضيات الأمان ، راجع [ما هي افتراضيات الأمان ؟](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)
+تقوم Microsoft بتوفير إعدادات الأمان الافتراضية للجميع. والهدف من ذلك هو ضمان أن يكون لدى جميع المنظمات مستوى أساسي من الأمن ممكّن دون أي تكلفة إضافية. يمكنك تشغيل الإعدادات الافتراضية للأمان في بوابة Azure.
