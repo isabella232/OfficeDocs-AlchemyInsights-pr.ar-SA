@@ -1,5 +1,5 @@
 ---
-title: اقتراحات لحل OneNote 2016 مفقود
+title: اقتراحات لحل OneNote 2016 مفقودة
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "2429"
 - "9000575"
-ms.openlocfilehash: 665611e3fbb93a7142b8eac0c1f84208661d46d2
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3397d3b195beea97dca354b7d6f23fc5e1c15d27
+ms.sourcegitcommit: fb24e7f90a2c422588da21f54b577d2a178dd344
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36534406"
+ms.lasthandoff: 04/03/2020
+ms.locfileid: "43142994"
 ---
-# <a name="suggestions-for-resolving-onenote-2016-is-missing"></a>اقتراحات لحل OneNote 2016 مفقود
+# <a name="suggestions-for-resolving-onenote-2016-is-missing"></a>اقتراحات لحل OneNote 2016 مفقودة
 
-بعد تثبيت Microsoft Office 2019 أو Office 365 على جهاز كمبيوتر يتم تشغيل أي إصدار من Windows 10، يظهر OneNote 2016 مفقودة من قائمة تثبيت تطبيقات سطح المكتب.
+بدءًا من مارس 2020، عند تثبيت Office 365 أو Office 2019، سيتم تثبيت تطبيق سطح مكتب OneNote إلى جانب تطبيقات سطح المكتب Word وPowerPoint وExcel.
 
-بشكل افتراضي، Office 2019 و Office 365 لن يتم تلقائياً تثبيت النسخة المكتبي OneNote 2016، ولكن إذا كانت لا تزال تحتاج أو تفضل استخدام هذا الإصدار، يمكنك تحميله بشكل منفصل واستخدامه جنبا إلى جنب مع تطبيقات Office 2019 الجديدة الخاصة بك.
+بعد تثبيت Microsoft Office 2019 أو Office 365 على جهاز كمبيوتر يعمل على أي إصدار من Windows 10، يبدو أن OneNote 2016 مفقود من قائمة تطبيقات سطح المكتب المثبتة.
 
-اتبع [الخطوات التالية](https://support.office.com/article/OneNote-2016-is-missing-after-installing-Office-2019-or-Office-365-1844ba87-7248-4bd8-a735-66a52f98e6e5) للحصول على مزيد من المعلومات حول كيفية تنزيل إصدار OneNote 2016 32 بت أو 64 بت ل Windows.
+اتبع [هذه الخطوات](https://support.office.com/article/OneNote-2016-is-missing-after-installing-Office-2019-or-Office-365-1844ba87-7248-4bd8-a735-66a52f98e6e5) للحصول على مزيد من المعلومات حول كيفية تنزيل إصدار 32 بت أو 64 بت من OneNote 2016 لنظام التشغيل Windows.
