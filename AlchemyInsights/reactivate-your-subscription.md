@@ -11,14 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002304"
 - "4473"
-ms.openlocfilehash: 3f45d9dca00804cacb4063a41a2bba5a375df643
-ms.sourcegitcommit: aff07e85010fe85c026218ef8d64ab721f7fe0b5
+- "9001497"
+- "4736"
+- "3551"
+ms.openlocfilehash: 83f4c28ae26267e71af5488484330df53e08d1bd
+ms.sourcegitcommit: 18df9a170f6a0bda191c0ae763d2a5069dd22efa
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43116359"
+ms.lasthandoff: 04/07/2020
+ms.locfileid: "43160839"
 ---
 # <a name="reactivate-your-subscription"></a>إعادة تنشيط الاشتراك
+
+إذا انتهت صلاحية اشتراكك أو تم تعطيله بواسطة Microsoft أو إذا قمت بإلغائه في منتصف مدة الاشتراك، يمكنك إعادة تنشيطه في مركز المسؤولين. 
 
 1. في مركز الإدارة، انتقل إلى صفحة **الفوترة > [ المنتجات والخدمات](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 
@@ -27,3 +32,19 @@ ms.locfileid: "43116359"
 3. قم بتأكيد تفاصيل الدفع.  يمكنك أيضًا تحديث معلومات الدفع الحالية هنا.  عند الانتهاء من إدخال طريقة الدفع، انقر فوق **إعادة تنشيط**.
 
 للتعرّف على المزيد، اطلع على [إعادة تنشيط الاشتراك](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+
+**إدارة تجديد الاشتراك**
+
+لإدارة الفوترة الشهرية أو السنوية، يمكنك تشغيل الفوترة المتكررة أو إيقاف تشغيلها.
+
+1. في مركز المسؤولين، انتقل إلى **الفوترة > [صفحة المنتجات والخدمات](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+
+2. اختر الاشتراك المراد إدارة الفوترة المتكررة الخاصة به. 
+
+3. ضمن الفوترة، بجانب تاريخ التجديد وانتهاء الصلاحية، انقر فوق **تحرير**.
+
+4. في جزء إعدادات الفوترة المتكررة، حدد **إيقاف التشغيل** لإيقافها. إذا كانت الفوترة المتكررة قيد الإيقاف بالفعل، فانقر فوق **شهرياً ** أو **مرة واحدة** لتشغيلها. 
+
+5. انقر فوق **إرسال التغيير**.
+
+للحصول على مزيد من المعلومات، اطلع على [تشغيل الفوترة المتكررة أو أيقاف تشغيلها](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
