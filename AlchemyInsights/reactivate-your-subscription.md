@@ -47,4 +47,4 @@ ms.locfileid: "43160839"
 
 5. انقر فوق **إرسال التغيير**.
 
-للحصول على مزيد من المعلومات، اطلع على [تشغيل الفوترة المتكررة أو أيقاف تشغيلها](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+للحصول على مزيد من المعلومات، اطلع على [تشغيل الفوترة المتكررة أو إيقاف تشغيلها](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).

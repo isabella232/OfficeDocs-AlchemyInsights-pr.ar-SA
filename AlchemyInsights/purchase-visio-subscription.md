@@ -30,4 +30,4 @@ ms.locfileid: "43158466"
 
 4. حدد إما **Visio الخطة 1** أو **Visio الخطة 2**. تقدم كلتا الخطتين اشتراكاً شهرياً أو سنوياً.
 
-اطلع على [مقارنة خيارات Visio](https://products.office.com/Visio/microsoft-visio-plans-and-pricing-compare-visio-options) للتعرّف على المزيد حو اختلافات Visio الخطة 1 وVisio الخطة 2. 
+اطلع على [مقارنة خيارات Visio](https://products.office.com/Visio/microsoft-visio-plans-and-pricing-compare-visio-options) للتعرّف على المزيد حول اختلافات Visio الخطة 1 وVisio الخطة 2. 
