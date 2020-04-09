@@ -1,5 +1,5 @@
 ---
-title: تغيير عدد مرات الدفع
+title: تغيير عدد المرات التي تدفع فيها
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,17 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
+ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
 ms.custom:
 - "469"
 - "1500025"
-ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
-ms.openlocfilehash: 28fbd9a375057e2daa15f9bf629e8b1ab2013c4e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: ed85b1053635a565ac2a00b1758c0df6ce5d7e63
+ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386888"
+ms.lasthandoff: 04/08/2020
+ms.locfileid: "43195005"
 ---
-# <a name="change-how-often-you-pay"></a>تغيير عدد مرات الدفع
+# <a name="change-how-often-you-pay"></a>تغيير عدد المرات التي تدفع فيها
 
- **هل تريد تغيير تكرار الدفع الخاص بك؟** إذا كنت تريد تغيير عدد مرات الدفع للخاص بك Office 365 لاشتراك الأعمال، أما من السنوي لشهرية أو شهرية السنوية، يمكننا مساعدتك بذلك. سوف تحتاج إلى شراء اشتراك نفس مع تكرار الدفع الجديدة وإلغاء الاشتراك القديم. الرجاء استخدام خيار "أدعوك" لإجراء محادثات مع مهندس دعم.
+عند شراء اشتراك، يمكنك اختيار الفوترة الشهرية أو السنوية. لتغيير عدد المرات التي تتم فيها محاسبتك للاشتراك، استخدم الخطوات التالية.
+
+1. في مركز المشرف، انتقل إلى صفحة **خدمات & منتجات الفوترة [>.](https://go.microsoft.com/fwlink/p/?linkid=842054) **
+
+2. ابحث عن الاشتراك الذي تريد تغييره. في قسم **الفوترة،** بجوار إما **فاتورة شهرية** أو **فاتورة سنويًا،** انقر فوق **تحرير**.
+
+3. اختر الخيار لمقدار عدد المرات التي تريد فيها الفواتير، ثم حدد **تغيير**.
