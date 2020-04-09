@@ -1,5 +1,5 @@
 ---
-title: تغيير عدد مرات الدفع
+title: تغيير عدد المرات التي تدفع فيها
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -9,17 +9,23 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
+ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
 ms.custom:
 - "469"
 - "1500025"
-ms.assetid: 81423cec-8c9e-408d-bd26-a46f37ef75c1
-ms.openlocfilehash: 28fbd9a375057e2daa15f9bf629e8b1ab2013c4e
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: ed85b1053635a565ac2a00b1758c0df6ce5d7e63
+ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386888"
+ms.lasthandoff: 04/08/2020
+ms.locfileid: "43195005"
 ---
-# <a name="change-how-often-you-pay"></a><span data-ttu-id="0c497-102">تغيير عدد مرات الدفع</span><span class="sxs-lookup"><span data-stu-id="0c497-102">Change how often you pay</span></span>
+# <a name="change-how-often-you-pay"></a><span data-ttu-id="3b219-102">تغيير عدد المرات التي تدفع فيها</span><span class="sxs-lookup"><span data-stu-id="3b219-102">Change how often you pay</span></span>
 
- <span data-ttu-id="0c497-103">**هل تريد تغيير تكرار الدفع الخاص بك؟**</span><span class="sxs-lookup"><span data-stu-id="0c497-103">**Want to change your payment frequency?**</span></span> <span data-ttu-id="0c497-104">إذا كنت تريد تغيير عدد مرات الدفع للخاص بك Office 365 لاشتراك الأعمال، أما من السنوي لشهرية أو شهرية السنوية، يمكننا مساعدتك بذلك.</span><span class="sxs-lookup"><span data-stu-id="0c497-104">If you want to change how frequently you pay for your Office 365 for business subscription, either from annual to monthly or monthly to annual, we can help you with that.</span></span> <span data-ttu-id="0c497-105">سوف تحتاج إلى شراء اشتراك نفس مع تكرار الدفع الجديدة وإلغاء الاشتراك القديم.</span><span class="sxs-lookup"><span data-stu-id="0c497-105">You'll need to purchase the same subscription with the new payment frequency and cancel the old subscription.</span></span> <span data-ttu-id="0c497-106">الرجاء استخدام خيار "أدعوك" لإجراء محادثات مع مهندس دعم.</span><span class="sxs-lookup"><span data-stu-id="0c497-106">Please use the "Let us call you" option to talk to a support engineer.</span></span>
+<span data-ttu-id="3b219-103">عند شراء اشتراك، يمكنك اختيار الفوترة الشهرية أو السنوية.</span><span class="sxs-lookup"><span data-stu-id="3b219-103">When you buy a subscription, you choose monthly or annual billing.</span></span> <span data-ttu-id="3b219-104">لتغيير عدد المرات التي تتم فيها محاسبتك للاشتراك، استخدم الخطوات التالية.</span><span class="sxs-lookup"><span data-stu-id="3b219-104">To change how often you are billed for a subscription, use the following steps.</span></span>
+
+1. <span data-ttu-id="3b219-105">في مركز المشرف، انتقل إلى صفحة \*\*خدمات & منتجات الفوترة [>.](https://go.microsoft.com/fwlink/p/?linkid=842054) \*\*</span><span class="sxs-lookup"><span data-stu-id="3b219-105">In the admin center, go to the **Billing> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+
+2. <span data-ttu-id="3b219-106">ابحث عن الاشتراك الذي تريد تغييره.</span><span class="sxs-lookup"><span data-stu-id="3b219-106">Find the subscription you want to change.</span></span> <span data-ttu-id="3b219-107">في قسم **الفوترة،** بجوار إما **فاتورة شهرية** أو **فاتورة سنويًا،** انقر فوق **تحرير**.</span><span class="sxs-lookup"><span data-stu-id="3b219-107">In the **Billing** section, next to either **Billed monthly** or **Billed annually**, click **Edit**.</span></span>
+
+3. <span data-ttu-id="3b219-108">اختر الخيار لمقدار عدد المرات التي تريد فيها الفواتير، ثم حدد **تغيير**.</span><span class="sxs-lookup"><span data-stu-id="3b219-108">Choose the option for how often you want to be billed, then select **Change**.</span></span>
