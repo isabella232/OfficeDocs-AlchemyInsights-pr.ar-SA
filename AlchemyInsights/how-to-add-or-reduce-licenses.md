@@ -1,5 +1,5 @@
 ---
-title: كيفية إضافة أو تقليل التراخيص
+title: كيفية إضافة التراخيص أو تقليلها
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,38 +12,35 @@ ms.custom:
 - "319"
 - "1500007"
 ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: a478162fcdcad2e588436dd834063f9e07f4c69f
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 863fdad0b5259e5d327181f1fb3f7b1039602586
+ms.sourcegitcommit: 0776c450a6279d8cf6386942e3844f14c4d2aa55
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664271"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43207360"
 ---
-# <a name="how-to-add-or-reduce-licenses"></a>كيفية إضافة أو تقليل التراخيص
+# <a name="how-to-add-or-reduce-licenses"></a>كيفية إضافة التراخيص أو تقليلها
 
-وإليك كيفية إزالة Office 365 التراخيص أو شراء المزيد من التراخيص.
+إليك كيفية إضافة/ إزالة التراخيص.
   
-1. في مركز الإدارة، انتقل إلى **الدفع** \> صفحة [& المنتجات أو الخدمات](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. انتقل إلى **اشتراكات > [الفوترة](https://portal.office.com/adminportal/home#/subscriptions)**.
 
-2. حدد الاشتراك الذي تريد إضافة/إزالة التراخيص.
+2. اختر الاشتراك الذي تريد إضافة/إزالة التراخيص منه.
 
-3. حدد **إضافة/إزالة التراخيص**.
+3. انقر فوق **إضافة/إزالة التراخيص**.
 
-4. أدخل العدد الإجمالي للمستخدمين المطلوبة.
+4. أدخل العدد الإجمالي للمستخدمين المطلوبين. على سبيل المثال، إذا كان لديك حالياً 25 ترخيصاً وتريد إزالة 5، أدخل 20 في هذا الحقل.
 
-    على سبيل المثال، إذا كان لديك حاليا 25 التراخيص وتريد إزالة 5، أدخل 20 في هذا الحقل.
+5. انقر فوق **إرسال التغيير**.
 
-5. اختر **تغيير الإرسال**.
+**ملاحظة:** ستظهر أي رسوم جديدة (زيادة الترخيص) أو الائتمان (انخفاض الترخيص) على فاتورتك التالية.
 
-> [!NOTE]
-> سوف تظهر أي تهمة جديدة (زيادة الترخيص) أو الائتمان (ترخيص النقصان) على الفاتورة التالية.
+للحصول على معلومات حول كيفية تعيين التراخيص، راجع [تعيين التراخيص للمستخدمين](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
-لمزيد من المعلومات، راجع [شراء التراخيص الخاصة بك Office 365 للاشتراك في العمل](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
-
- **موارد إضافية**
+ **الموارد**
   
-- [إزالة التراخيص من اشتراك Office 365 للأعمال](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)
+- [إدارة تراخيص الاشتراك - شراء أو إزالة](https://docs.microsoft.com/en-us/microsoft-365/commerce/licenses/buy-licenses)
 
-- [إلغاء Office 365 للشركات](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [إلغاء Office 365 للأعمال](https://support.office.com/article/Cancel-Office-365-for-business-b1bc0bef-4608-4601-813a-cdd9f746709a)
 
-- [شراء Office 365 آخر لاشتراك الأعمال](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-another-subscription)
+- [شراء Office 365 آخر للاشتراك في الأعمال](https://support.office.com/article/Buy-another-Office-365-for-business-subscription-fab3b86c-3359-4042-8692-5d4dc7550b7c)

@@ -1,5 +1,5 @@
 ---
-title: توسيع النسخة التجريبية ل Office 365 للشركات
+title: تمديد الإصدار التجريبي لـ Office 365 للأعمال
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,23 +12,23 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: d407b8ce254590802f0839d2186beadde2619efb
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ad9b06d5a14e48b4a03963b0e8fe606a58269623
+ms.sourcegitcommit: 0776c450a6279d8cf6386942e3844f14c4d2aa55
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664991"
+ms.lasthandoff: 04/09/2020
+ms.locfileid: "43207324"
 ---
-# <a name="extend-your-trial-for-office-365-for-business"></a>توسيع النسخة التجريبية ل Office 365 للشركات
+# <a name="extend-your-trial-for-office-365-for-business"></a>تمديد الإصدار التجريبي لـ Office 365 للأعمال
 
-إذا كان الاشتراك التجريبي خلال 15 يوما من انتهاء ولم تم تمديد الفترة التجريبية قبل، يمكنك توسيع النسخة التجريبية لمدة 30 يوما أخرى. يمكنك أن تفعل هذا مرة واحدة فقط.
+يمكنك تمديد الإصدار التجريبي لفترة 30 يومًا أخرى. يمكنك أن تفعل هذا مرة واحدة فقط.
   
-1. في مركز الإدارة، انتقل إلى **الدفع** \> صفحة [& المنتجات أو الخدمات](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. في مركز المشرف، انتقل إلى [خدمات & منتجات](https://portal.office.com/adminportal/home#/subscriptions) **الفوترة.** \>
 
-2. اختر الاشتراك التجريبي الذي تريد توسيعه.
+2. حدد الاشتراك التجريبي الذي تريد توسيعه.
 
-3. في المقطع **& مقاطع إجراءات** اختيار **توسيع التجريبية** وتستكمل الخطوات الباقية.
+3. انقر فوق **توسيع نطاق الإصدار التجريبي** وأكمل الخطوات في المعالج.
 
-4. تحتاج إلى توفير معلومات بطاقة الائتمان لتوسيع النسخة التجريبية. لن يطالب بطاقة الائتمان الخاصة بك ملحق للمحاكمة.
+4. تحتاج إلى توفير معلومات بطاقة الائتمان لتمديد فترة الإصدار التجريبي. لن نفرض رسومًا على بطاقة الائتمان الخاصة بك مقابل التمديد التجريبي.
 
-لمزيد من المعلومات، راجع [توسيع النسخة التجريبية ل Office 365 للعمل](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/extend-your-trial).
+لمعرفة المزيد حول تمديد الإصدار التجريبي أو للحصول على إرشادات خطوة بخطوة، راجع [توسيع نطاق الإصدار التجريبي لـ Office 365 للأعمال.](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial)
