@@ -20,6 +20,6 @@ ms.locfileid: "43182246"
 ---
 # <a name="microsoft-365-guest-sharing-settings-reference"></a>مرجع إعدادات مشاركة الضيف لـ Microsoft 365
 
-تقدم المقالة التالية مرجعًا للإعدادات المختلفة التي يمكن أن تؤثر علي المشاركة مع أشخاص من خارج مؤسستك لأحمال العمل من Microsoft 365: الفرق ومجموعات Office 365 وSharePoint وOneDrive. توجد هذه الإعدادات في مراكز أدارة Azure Active directory و Microsoft 365 والفرق و SharePoint.
+تقدم المقالة التالية مرجعًا للإعدادات المختلفة التي يمكن أن تؤثر علي المشاركة مع أشخاص من خارج مؤسستك لأحمال العمل من Microsoft 365: الفرق ومجموعات Office 365 وSharePoint وOneDrive. توجد هذه الإعدادات في مراكز إدارة Azure Active directory وMicrosoft 365 والفرق وSharePoint.
 
 - [مرجع إعدادات مشاركة الضيف لـ Microsoft 365](https://docs.microsoft.com/microsoft-365/solutions/microsoft-365-guest-settings?view=o365-worldwide)
