@@ -12,17 +12,19 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: 83ac66ddd2f5dac25aaa0b2ac3fe855c2e29f988
-ms.sourcegitcommit: ff4b89d630597a044441e56d415b5b566a821f28
+ms.openlocfilehash: e1dd2bd37be42de74701b11864841e876cf5a2a6
+ms.sourcegitcommit: 3281e61d3dfca02a01cd6ad208a987cda66f4afa
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43154151"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43556930"
 ---
 # <a name="pstn-calling-plans"></a>خطط اتصال PSTN
 
-ميزة الاتصال بمستخدمي Skype for Business وMicrosoft Teams الآخرين هي مجانية ولكن إذا كنت تريد أن يتمكن المستخدمين لديك من الاتصال بالهواتف العادية ولا تملك بالفعل موفر لخدمة إجراء مكالمات صوتية، فستحتاج إلى شراء خطة اتصال. 
+إذا كنت تريد أن يتمكن المستخدمون لديك من الاتصال بالهواتف العادية ولا تملك بالفعل موفر خدمة لإجراء مكالمات صوتية، فيجب عليك شراء خطة اتصال.
 
-- لبدء عملية الشراء، اطلع على [كيفية شراء خطة اتصال](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365). 
+- اطلع على [كيفية شراء خطة الاتصال](https://docs.microsoft.com/MicrosoftTeams/calling-plans-for-office-365) لبدء عملية الشراء.
 
-- للحصول على مزيد من المعلومات، اطلع على [نظام الاتصالات الهاتفية وخطط الاتصال](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page). 
+- إعداد [أرصدة الاتصالات](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) كي لا تنفد **دقائق المستخدمين**. اطلع على الأسعار [من هنا](https://products.office.com/microsoft-teams/voice-calling). 
+
+- للحصول على مزيد من المعلومات، اطلع على [نظام الاتصالات الهاتفية وخطط الاتصال](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) أو [ما المقصود بأرصدة الاتصالات؟](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)
