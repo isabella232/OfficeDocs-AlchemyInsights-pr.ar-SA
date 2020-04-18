@@ -13,17 +13,21 @@ ms.custom:
 - "86"
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
-ms.openlocfilehash: b365fe9638eb5b1f8654baf010327041524f2572
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 83a0cdcfbdad6a3cb6b6b647613534845c55e75b
+ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665509"
+ms.lasthandoff: 04/18/2020
+ms.locfileid: "43552656"
 ---
 # <a name="canceling-your-office-365-subscription"></a>إلغاء اشتراك Office 365؟
 
-نأسف لرؤية تذهب!
+نحن آسفون لرؤيتك تذهب!
   
-استناداً إلى بيانات المؤسسة، نعتقد أن أقل من 25 مقعدا على كافة الاشتراكات الحالية. لإلغاء اشتراكك على الإنترنت، انتقل إلى **الدفع** \> صفحة [& المنتجات أو الخدمات](https://go.microsoft.com/fwlink/p/?linkid=842054) . في المقطع **إعدادات & الإجراءات** ، اختر **إلغاء الاشتراك**.
+استنادًا إلى بيانات مؤسستك، نعتقد أن جميع اشتراكاتك الحالية تحتوي على أقل من 25 مقعدًا. لإلغاء اشتراكك عبر الإنترنت، انتقل إلى صفحة [خدمات & منتجات](https://go.microsoft.com/fwlink/p/?linkid=842054) **الفوترة.** \> في قسم **الإجراءات & الإعدادات،** اختر **إلغاء الاشتراك**.
   
-لمزيد من المعلومات، راجع [إلغاء الاشتراك](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+**استرداد الأموال: سيتم إرجاع أي رصيد تناسبي إليك خلال دورة الفوترة التالية.** 
+
+**ملاحظة:** إذا كنت لا ترى خيار الإلغاء، انقر على الاشتراك لعرض التفاصيل ويجب أن تشاهد خيار **إلغاء الاشتراك** في **الإعدادات & الإجراءات**. 
+
+لمعرفة المزيد، راجع [إلغاء اشتراكك](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription). 
