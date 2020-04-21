@@ -16,7 +16,7 @@ ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
 ms.translationtype: HT
 ms.contentlocale: ar-SA
 ms.lasthandoff: 04/21/2020
-ms.locfileid: "43591462"
+ms.locfileid: "43599269"
 ---
 # <a name="onedrive-storage-plans"></a>خطط التخزين في OneDrive
 
