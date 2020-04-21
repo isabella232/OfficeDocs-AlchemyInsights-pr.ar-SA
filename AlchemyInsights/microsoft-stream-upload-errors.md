@@ -17,7 +17,7 @@ ms.sourcegitcommit: f7f25506191d0656a7637340df806b82c4232bc4
 ms.translationtype: MT
 ms.contentlocale: ar-SA
 ms.lasthandoff: 04/21/2020
-ms.locfileid: "43591463"
+ms.locfileid: "43599341"
 ---
 # <a name="microsoft-stream-upload-errors"></a><span data-ttu-id="22a7e-102">أخطاء تحميل Microsoft Stream</span><span class="sxs-lookup"><span data-stu-id="22a7e-102">Microsoft Stream upload errors</span></span>
 
