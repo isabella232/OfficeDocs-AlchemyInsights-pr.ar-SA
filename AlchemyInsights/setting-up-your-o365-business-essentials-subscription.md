@@ -1,46 +1,46 @@
 ---
-title: اعداد اشتراك O365 أساسيات الاعمال الخاص بك
+title: إعداد اشتراك O365 أساسيات الأعمال
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 5/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: e6b2d98f166e3af5eb9786106e5c117c3ffd109f
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 271d067fc44da56e0de60634c31cfbdff24b6020
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36744700"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767776"
 ---
-# <a name="setting-up-your-o365-business-essentials-subscription"></a>اعداد اشتراك O365 أساسيات الاعمال الخاص بك
+# <a name="setting-up-your-o365-business-essentials-subscription"></a>إعداد اشتراك O365 أساسيات الأعمال
 
-إنشاء حسابات Office 365 وأضافه المجال الخاص بك
+إنشاء حسابات Microsoft 365 وإضافة نطاقك
   
-- في هذه الخطوة ، يمكنك استخدام معالج الاعداد لإنشاء حسابات Office 365 للمستخدمين وأضافه المجال الخاص بك. يتيح لك المعالج تخصيص معرف المستخدم والبريد الكتروني لكل شخص لنشاطك التجاري ، مثل [rob@contoso.com](mailto:rob@contoso.com).
+- في هذه الخطوة، يمكنك استخدام معالج الإعداد لإنشاء حسابات Microsoft 365 للمستخدمين وإضافة المجال الخاص بك. يتيح لك المعالج تخصيص معرف المستخدم الخاص بكل شخص والبريد الإلكتروني لنشاطك التجاري، مثل [rob@contoso.com](mailto:rob@contoso.com).
     
-- انتقل إلى [مركز مسؤول Microsoft 365](https://login.partner.microsoftonline.cn/).
+- انتقل إلى [مركز إدارة Microsoft 365](https://login.partner.microsoftonline.cn/).
     
-- لبدء تشغيل المعالج ، اختر **الانتقال إلى الاعداد**. لمزيد من المعلومات ، راجع [أضافه مجال إلى Office 365](https://docs.microsoft.com/office365/admin/setup/add-domain).
+- لبدء المعالج، اختر **الانتقال إلى الإعداد**. لمعرفة المزيد، راجع [إضافة مجال إلى Microsoft 365](https://docs.microsoft.com/office365/admin/setup/add-domain).
     
-استيراد البريد الكتروني
+استيراد البريد الإلكتروني
   
-- نقل البريد الكتروني الحالي وجات الاتصال من أنظمه البريد الكتروني الأخرى إلى علبه بريد Office 365 الخاص بك حتى تتمكن من رؤية كل شيء في مكان واحد. لخيارات الترحيل ، [ترحيل البريد الكتروني وجات الاتصال إلى Office 365](https://docs.microsoft.com/office365/admin/setup/migrate-email-and-contacts-admin).
+- نقل البريد الإلكتروني وجهات الاتصال الموجودة من أنظمة البريد الإلكتروني الأخرى إلى صندوق بريد Microsoft 365 حتى تتمكن من رؤية كل شيء في مكان واحد. لخيارات الترحيل، [ترحيل البريد الإلكتروني وجهات الاتصال إلى Microsoft 365](https://docs.microsoft.com/office365/admin/setup/migrate-email-and-contacts-admin).
     
-- ربط حسابات البريد الكتروني
+- ربط حسابات البريد الإلكتروني
     
-  - بالاضافه إلى أداره البريد الكتروني 365 Office الخاص بك في اوتلوك ، يمكنك توصيل حسابات البريد الكتروني الأخرى إلى Outlook ، أيضا ، مثل حسابات Gmail وياهو الخاصة بك. وهذا يتيح لك أداره كل من البريد الكتروني الخاص بك في مكان واحد. يمكنك توصيل حتى 5 حسابات بريد الكتروني إلى Outlook. راجع [ربط حسابات البريد الكتروني في Outlook علي الويب (Office 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) للحصول علي مزيد من التفاصيل. 
+  - بالإضافة إلى إدارة البريد الإلكتروني الخاص بك في Outlook، يمكنك توصيل حسابات البريد الإلكتروني الأخرى إلى Outlook أيضًا، مثل حسابات Gmail وYahoo. يتيح لك هذا إدارة جميع رسائل البريد الإلكتروني الخاصة بك في مكان واحد. يمكنك توصيل ما يصل إلى 5 حسابات بريد إلكتروني إلى Outlook. راجع [توصيل حسابات البريد الإلكتروني في Outlook على الويب (Microsoft 365)](https://support.office.com/Article/Connect-email-accounts-in-Outlook-on-the-web-Office-365-d7012ff0-924f-4f78-8aca-c3912d886c4d) لمزيد من التفاصيل. 
     
-تثبيت سكايب للعمل
+تثبيت سكايب للأعمال
   
-- يمكنك أنت وأعضاء الفريق الخاص بك [تحميل وتثبيت سكايب للعمل](https://support.office.com/Article/download-and-install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb) علي جميع أجهزه الكمبيوتر الخاصة بك ، وأجهزه ماكينتوش ، وأقراص ، والهواتف. ثم عليك ان تكون قادرا علي رؤية حاله الإنترنت من زملائك في العمل ، وبدء دردشات من تطبيقات Office الأخرى ، واستضافه اجتماعات الفيديو مع ما يصل إلى 250 شخص. 
+- يمكنك أنت وأعضاء فريقك [تنزيل Skype for Business وتثبيته](https://support.office.com/Article/download-and-install-Skype-for-Business-8a0d4da8-9d58-44f9-9759-5c8f340cb3fb) على جميع أجهزة الكمبيوتر وأجهزة Mac والأجهزة اللوحية والهواتف. ثم ستتمكن من رؤية حالة زملاء العمل عبر الإنترنت وبدء الدردشات من تطبيقات Office الأخرى واستضافة اجتماعات الفيديو مع ما يصل إلى 250 شخصًا. 
     
 تخزين الملفات عبر الإنترنت
   
-- للتعرف علي مواقع التخزين الأفضل لنشاطك التجاري ، راجع [المكان الذي يمكنك تخزين الملفات فيه في Office 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). يحصل الجميع علي موقع تخزين سحابه **OneDrive** تلقائيا عند إنشاء حسابات Office 365 لهم. مع OneDrive ، يمكنك الوصول إلى الملفات عبر أجهزه الكمبيوتر ، والهواتف ، والاجهزه اللوحية. 
+- لمعرفة مواقع التخزين الأفضل لنشاطك التجاري، راجع [مكان تخزين الملفات في Microsoft 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). يحصل الجميع على موقع تخزين سحابة **OneDrive** تلقائيًا عند إنشاء حسابات Microsoft 365 لهم. باستخدام OneDrive، يمكنك الوصول إلى الملفات عبر أجهزة الكمبيوتر والهواتف والأجهزة اللوحية. 
     
-يمكن العثور علي خطوات مفصله للاعداد في [هذه المقالة](https://docs.microsoft.com/office365/admin/setup/setup).
+يمكن العثور على خطوات تفصيلية للإعداد في [هذه المقالة](https://docs.microsoft.com/office365/admin/setup/setup).
   
 

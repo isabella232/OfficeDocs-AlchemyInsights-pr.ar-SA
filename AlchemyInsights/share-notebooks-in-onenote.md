@@ -1,9 +1,9 @@
 ---
-title: كيفية "مشاركة دفاتر الملاحظات" في OneNote للويب أو OneNote 2016
+title: كيفية مشاركة دفاتر الملاحظات في OneNote للويب أو OneNote 2016
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
-ms.date: 5/24/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000556"
 - "2406"
-ms.openlocfilehash: 4648aa6e072e20fb5914e91faf25c2011d8aa6b5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 557e9f7736ac075a8f2619e6c11f115c9fca58e6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36549278"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767416"
 ---
 # <a name="share-notebooks-in-onenote-for-the-web-or-onenote-2016"></a>مشاركة دفاتر الملاحظات في OneNote للويب أو OneNote 2016
 
-في OneNote للويب، يمكنك مشاركة الملاحظات عن طريق أما دعوة الآخرين لعرضه وإجراء تغييرات بالكمبيوتر المحمول، أو إنشاء ارتباط إلى صفحة ملاحظات حيث يمكنك لصقها في البريد الإلكتروني أو المدونة، أو صفحة ويب. لمزيد من المعلومات، الرجاء مراجعة [استخدام OneNote لصفحة ويب لمشاركة الملاحظات مع أشخاص آخرين](https://support.office.com/article/D3481FBE-E06C-4883-B7E9-B2EE9F38AED3)
+في OneNote للويب، يمكنك مشاركة الملاحظات إما عن طريق دعوة الآخرين لعرض دفتر الملاحظات وإجراء تغييرات عليه، أو عن طريق إنشاء ارتباط إلى صفحة من الملاحظات يمكنك لصقها في بريد إلكتروني أو مدونة أو صفحة ويب. لمزيد من المعلومات، يرجى الاطلاع [على استخدام OneNote للويب لمشاركة الملاحظات مع أشخاص آخرين](https://support.office.com/article/D3481FBE-E06C-4883-B7E9-B2EE9F38AED3)
 
-في عام 2016 OneNote، تأكد من الكمبيوتر المحمول OneNote 2016 على أندريف حيث الآخرين الوصول إليه. لمشاركة، يمكنك دعوة الأشخاص في البريد أو الحصول على ارتباط مشاركة. لمزيد من المعلومات، انظر [مشاركة 2016 OneNote Windows دفتر الملاحظات مع أشخاص آخرين](https://support.office.com/article/d14b6033-7a95-4536-9216-bb0a5e0f8285)
+في OneNote 2016، تأكد من أن دفتر ملاحظات OneNote 2016 على OneDrive حتى يتمكن الآخرون من الوصول إليه. للمشاركة، يمكنك دعوة الأشخاص في البريد أو الحصول على رابط مشاركة. لمزيد من المعلومات، يرجى الاطلاع [على مشاركة OneNote 2016 لدفتر ملاحظات Windows مع أشخاص آخرين](https://support.office.com/article/d14b6033-7a95-4536-9216-bb0a5e0f8285)

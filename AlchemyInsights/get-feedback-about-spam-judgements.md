@@ -1,24 +1,24 @@
 ---
-title: '2571 ميزة جديدة: الحصول على ملاحظات حول الأحكام البريد الإلكتروني العشوائي'
+title: '2571 ميزة جديدة: الحصول على ردود الفعل حول الأحكام البريد المزعج'
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2571
 ms.assetid: ''
-ms.openlocfilehash: a3ba1f5157242120c8690775125b5fbe04f7565f
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 4eda7f42c01ddb8d40ab535c3db80b15ab17b632
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391077"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765003"
 ---
-# <a name="new-feature-get-feedback-about-spam-judgments"></a>ميزة جديدة: الحصول على ملاحظات حول الأحكام البريد الإلكتروني العشوائي
+# <a name="get-feedback-about-spam-judgments"></a>الحصول على ملاحظات حول أحكام البريد المزعج
 
-كمسؤول، يمكنك الآن بسهولة الإبلاغ رسائل البريد الإلكتروني المشبوهة ومحددات مواقع المعلومات والمحتوى إلى Microsoft في ["مستكشف" عمليات الإرسال "](https://protection.office.com/reportsubmission). يمكنك حتى استخدام للمساعدة في فهم سبب شرعي تم وضع علامة على رسالة بشكل غير صحيح. لمزيد من المعلومات، راجع هذا [الإعلان](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622).
+كمسؤول، يمكنك بسهولة الإبلاغ عن رسائل البريد الإلكتروني المشبوهة وعناوين URL والمحتوى إلى Microsoft في [مستكشف الإرسال](https://protection.office.com/reportsubmission). يمكنك حتى استخدامه للمساعدة في فهم لماذا تم وضع علامة على رسالة شرعية بشكل غير صحيح. لمزيد من المعلومات، راجع هذا [الإعلان](https://techcommunity.microsoft.com/t5/Security-Privacy-and-Compliance/Empower-security-teams-to-easily-report-suspicious-emails-amp/ba-p/752622).
 
-لجعلها سهلة، يمكنك السماح للمستخدمين الخاصة بك لإرساله إلى Microsoft عبر [في "رسالة التقرير" إضافة](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview)مباشرة.
+لجعله easer، يمكنك السماح للمستخدمين بالإبلاغ مباشرة إلى Microsoft عبر [الوظيفة الإضافية رسالة التقرير](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).

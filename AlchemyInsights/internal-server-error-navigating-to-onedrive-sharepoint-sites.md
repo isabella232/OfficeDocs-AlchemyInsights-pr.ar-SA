@@ -1,36 +1,36 @@
 ---
-title: مشكلات الأداء-SharePoint أو اندريف
+title: مشكلات الأداء-SharePoint أو OneDrive
 ms.author: pebaum
 author: pebaum
-ms.date: 1/3/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 9225ec0f-771f-4d7a-8157-e188953107aa
-ms.openlocfilehash: 0b55008cc83b4302801150239926439d8d198ae2
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 9fee9e3c63b9448f63b3dc98d98b3b28e03a7300
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049576"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763132"
 ---
-# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>خطا داخلي في الملقم عند التنقل إلى مواقع Sharepoint أو OneDrive
+# <a name="internal-server-error-when-navigating-to-sharepoint-or-onedrive-sites"></a>خطأ خادم داخلي عند التنقل إلى مواقع Sharepoint أو OneDrive
 
-قد يتلقى المستخدمون خطا خادم داخلي 500 عند محاولة الانتقال إلى مواقع SharePoint أو اندريف. 
+قد يتلقى المستخدمون خطأ 500 خادم داخلي عند محاولة الانتقال إلى مواقع SharePoint أو OneDrive. 
 
-الرجاء محاولة مسح ذاكره التخزين المؤقت للمتصفح قبل الانتقال إلى الموقع.
+الرجاء محاولة مسح ذاكرة التخزين المؤقت للمتصفح قبل التنقل إلى الموقع.
 
 
-1. في مستعرض Microsoft Edge ، انتقل إلى المزيد... > الإعدادات
+1. في متصفح Microsoft Edge، انتقل إلى المزيد...> الإعدادات
 
-2. ضمن مسح بيانات التصفح ، حدد **اختيار ما تريد إلغاء** تحديده
+2. ضمن مسح بيانات التصفح، حدد **اختيار ما يجب مسحه**
 
-3. حدد خانه الاختيار ملفات تعريف الارتباط وبيانات موقع الويب المحفوظة وحدد **مسح**.
+3. حدد ملفات تعريف الارتباط وخانة اختيار بيانات موقع الويب المحفوظة وحدد **مسح**.
 
-ملاحظه: قد تختلف هذه الخطوات عند استخدام متصفحات أخرى مثل Firefox أو Chrome.
+ملاحظة: قد تختلف هذه الخطوات عند استخدام متصفحات أخرى مثل فايرفوكس أو كروم.
 
-إذا لم يؤدي ذلك إلى حل المشكلة ، يمكنك التحقق مما إذا كان هناك صيانة نشطه تحدث علي المستاجر الخاص بك عن طريق الانتقال إلى [مركز الرسائل](https://portal.office.com/adminportal/home#/MessageCenter).
+إذا لم يحل هذا المشكلة، يمكنك التحقق مما إذا كانت هناك صيانة نشطة تحدث على المستأجر الخاص بك عن طريق التنقل إلى [مركز الرسائل](https://portal.office.com/adminportal/home#/MessageCenter).
 
-وأخيرا ، تاكد من زيارة صفحه [الخدمة الصحية](https://portal.office.com/adminportal/home#/servicehealth) للتحقق من وجود اي تحذيرات/حوادث قد تحدث.
+أخيرًا ، تأكد من زيارة صفحة [صحة الخدمة](https://portal.office.com/adminportal/home#/servicehealth) للتحقق من أي تحذيرات / حوادث قد تحدث.
 

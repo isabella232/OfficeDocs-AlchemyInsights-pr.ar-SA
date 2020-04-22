@@ -1,9 +1,9 @@
 ---
-title: لم يتم بدء تشغيل سير العمل
+title: لم يبدأ سير العمل
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
-ms.date: 8/2/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,38 +12,38 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000144"
 - "1670"
-ms.openlocfilehash: cf7bd95e9a8f1d0842f0abcf82c758d649e80c0f
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 941e6349c98278a1a8cdac77457ec1cc72cdef8b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049324"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766084"
 ---
-# <a name="workflow-is-not-starting"></a>لم يتم بدء تشغيل سير العمل
+# <a name="workflow-is-not-starting"></a>لم يبدأ سير العمل
 
-- لم يتم بدء تشغيل مهام سير العمل SharePoint 2010 و SharePoint 2013.
+- لم يتم بدء سير عمل SharePoint 2010 و SharePoint 2013.
 
-    - إذا لم يتم بدء سير العمل ، قد تكون هناك مشكله خدمه مؤقته حيث قد يواجه المستخدمون تاخيرات متقطعه مع تقدم سير العمل. تحقق من [لوحه معلومات صحة الخدمة](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) لمعرفه ما إذا كانت مؤسستك قد تاثرت.
+    - إذا لم يبدأ سير العمل، فقد تكون هناك مشكلة خدمة مؤقتة حيث قد يواجه المستخدمون تأخيرات متقطعة مع تقدم سير العمل. تحقق من [لوحة معلومات صحة الخدمة](https:/admin.microsoft.com/AdminPortal/Home#/servicehealth) لمعرفة ما إذا كانت مؤسستك متأثرة.
 
-    - إذا مرت أكثر من 24 ساعة منذ ان رايت هذه المسالة لأول مره ، يرجى تسجيل تذكره الدعم. في كثير من الحالات ، نحن نعمل بالفعل علي حل. من فضلك أعطنا 24 ساعة علي الأقل لإكمال الحل.
+    - إذا مرت أكثر من 24 ساعة منذ أن رأيت هذه المشكلة لأول مرة، يرجى تسجيل تذكرة دعم. في كثير من الحالات، نحن نعمل بالفعل على حل. يرجى من خلالنا أن تعطينا 24 ساعة على الأقل لإكمال الحل.
 
-- تاخير مهام سير العمل 2010 SharePoint علي البدء.
+- تأخر سير عمل SharePoint 2010 في البداية.
 
-    - يحدث هذا إذا تم تشغيل سير العمل في دفعات كبيره. (علي سبيل المثال ، عند أضافه العديد من العناصر في وقت واحد).
+    - يحدث هذا إذا تم تشغيل سير العمل على دفعات كبيرة. (على سبيل المثال، عند إضافة عدة عناصر في وقت واحد).
 
-    - لم يتم تصميم مهام سير العمل ليتم تشغيلها في الوقت الحقيقي ، التالي فان التاخير هو سلوك تصميمي.
+    - لم يتم تصميم مهام سير العمل لتشغيلها في الوقت الفعلي، لذلك فإن التأخير هو سلوك حسب التصميم.
 
-   -  إذا كان سير العمل عبارة عن لغة توصيف الكائنات القابلة للتوسيع (XMOL) معقده ، يمكن ان يكون التحويل البرمجي بطيئا. تحقق من [هذه](https://support.microsoft.com//kb/3043697) المقالة.
+   -  إذا كان سير العمل هو لغة ترميز كائن قابلة للتوسعة المعقدة (XMOL)، يمكن أن يكون التحويل البرمجي بطيئاً. تحقق من [هذه](https://support.microsoft.com//kb/3043697) المقالة.
 
-    - يجب تبسيط سير العمل أو أعاده تصميمه باستخدام نوع النظام الأساسي ل Microsoft SharePoint 2013 سير العمل.
+    - يجب تبسيط سير العمل أو إعادة تصميمه باستخدام نوع نظام Microsoft SharePoint 2013 الأساسي لسير العمل.
 
-    - إذا نما سجل سير العمل الخاص بك كبير ، قد تحتاج إلى أزاله العناصر أو إنشاء قائمه محفوظات جديده.
+    - إذا كان سجل سير العمل الخاص بك قد نما بشكل كبير، فقد تحتاج إلى تطهير العناصر أو إنشاء قائمة محفوظات جديدة.
 
-        مزيد من المعلومات: [أزاله محفوظات سير العمل](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
+        مزيد من المعلومات : [تطهير محفوظات سير العمل](https://blogs.technet.microsoft.com/marj/2015/08/07/sharepoint-2010-workflows-best-practice-purge-workflow-history-list-items/)
 
 
 ## <a name="related-topics"></a>المواضيع ذات الصلة
-هل تريد محاولة Microsoft Flow في SharePoint علي الإنترنت ؟
+هل تريد تجربة Microsoft Flow في SharePoint Online؟
 - [إنشاء تدفق](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 
 - [SharePoint والتدفق](https://flow.microsoft.com/blog/sharepoint-and-flow/) 
 

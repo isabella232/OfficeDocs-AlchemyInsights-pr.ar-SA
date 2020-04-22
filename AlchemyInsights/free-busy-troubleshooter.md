@@ -1,5 +1,5 @@
 ---
-title: مستكشف أخطاء 607 التوفر/الانشغال
+title: 607 مستكشف أخطاء مجاني/مشغول
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -12,14 +12,14 @@ ms.custom:
 - "607"
 - "3800005"
 ms.assetid: 69e8da45-4d29-48ea-8279-d35313367216
-ms.openlocfilehash: 707ead2a324374b6496c995855fd7d2400afaa17
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ad797642c1734fe479993a26f13f8bb08dad7e1c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664847"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765039"
 ---
-# <a name="issues-seeing-calendar-freebusy-information"></a>مشكلات مشاهدة معلومات متوفر/مشغول التقويم
+# <a name="issues-seeing-calendar-freebusy-information"></a>مشكلات رؤية معلومات التقويم الحرة/المشغولة
 
-إذا لم تتمكن من رؤية معلومات التوفر/الانشغال للتقويم في تقويمات أخرى، أو إذا لم يتمكن الآخرون من رؤية معلومات التوفر/الانشغال في التقويم الخاص بك، فاستخدم [مساعد الإصلاح والدعم من Microsoft لـ Office 365](https://diagnostics.office.com/).
+إذا لم تتمكن من رؤية معلومات التقويم الحرة/المشغولة في التقويمات الأخرى، أو إذا لم يتمكن أشخاص آخرون من رؤية معلومات حرة/مشغولة في التقويم، فاستخدم [مساعد دعم Microsoft والاسترداد](https://diagnostics.office.com/).
   

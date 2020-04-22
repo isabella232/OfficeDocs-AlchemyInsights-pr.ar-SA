@@ -1,5 +1,5 @@
 ---
-title: إصلاح تطبيقات Office عذرا ، لدينا رسالة مشاكل الخادم المؤقتة
+title: إصلاح تطبيقات Office عذرا، نحن تواجه رسالة مشكلات خادم مؤقت
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,29 +11,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3420"
 - "9001430"
-ms.openlocfilehash: 4b90f843843416408d7f3091325fe436dc3ec9df
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: a1ac62f3587e318d563cfea1df8db23b720358a6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627977"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764104"
 ---
-# <a name="fixing-the-office-apps-sorry-we-are-having-temporary-server-issues-message"></a>إصلاح تطبيقات Office "عذرا ، لدينا مشاكل الخادم المؤقتة" رسالة
+# <a name="fixing-the-office-apps-sorry-we-are-having-temporary-server-issues-message"></a>إصلاح تطبيقات Office "عذراً، نحن نواجه مشاكل مؤقتة في الخادم"
 
-إذا تلقيت هذه الرسالة ، فجرب ما يلي:
+إذا تلقيت هذه الرسالة، فجرّب ما يلي:
 
-1. تحقق من جدار الحماية وبرنامج مكافحه الفيروسات وإعدادات الوكيل للتاكد من انها لا تمنع الوصول إلى الإنترنت إلى تطبيقات Office. راجع [عناوين url 365 Office ونطاقات عناوين IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. تحقق من جدار الحماية وبرامج مكافحة الفيروسات وإعدادات الوكيل للتأكد من أنها لا تمنع الوصول إلى الإنترنت إلى تطبيقات Office. راجع [عناوين URL ونطاقات عناوين IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-2. انتقل إلى **بدء** > **تشغيل**، ومن ثم اكتب **خدمات. msc**. تاكد من تشغيل كافة الخدمات التالية:
-    - الاعداد التلقائي للاجهزه المتصلة بالشبكة
-    - خدمه قائمه الشبكة
+2. انتقل إلى **بدء** > **تشغيل**، ثم اكتب **services.msc**. تأكد من تشغيل كافة الخدمات التالية:
+    - الأجهزة المتصلة بالشبكة الإعداد التلقائي
+    - خدمة قائمة الشبكة
     - التوعية بموقع الشبكة
-    - سجل احداث Windows
+    - سجل أحداث Windows
 
-إذا لم تكن أحدي هذه الخدمات قيد التشغيل ، فحاول تشغيلها. إذا كان لديك مشكله في بدء الخدمة ، قم بتشغيل الأمر التالي عن طريق فتح موجه الأوامر بأذونات مرتفعه:
+إذا لم يتم تشغيل إحدى هذه الخدمات، حاول بدء تشغيلها. إذا كان لديك مشكلة في بدء تشغيل الخدمة، قم بتشغيل الأمر التالي عن طريق فتح موجه أمر بأذونات مرتفعة:
 
-**sfc/scannow**
+**sfc / scannow**
 
-بعد انتهاء هذا الأمر ، قم باعاده تشغيل جهاز الكمبيوتر.
+بعد انتهاء هذا الأمر، أعد تشغيل الكمبيوتر.
 
-للحصول علي معلومات مفصله ، راجع ["عذرا ، لا يمكننا الاتصال بحسابك. الرجاء المحاولة مره أخرى لاحقا "خطا عند تنشيط Office من Office 365](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).
+للحصول على معلومات تفصيلية، راجع ["آسف، لا يمكننا الاتصال بحسابك. الرجاء المحاولة مرة أخرى لاحقاً" خطأ عند تنشيط](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).

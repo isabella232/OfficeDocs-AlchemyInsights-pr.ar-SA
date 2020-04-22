@@ -1,9 +1,9 @@
 ---
-title: حلول لخطأ 30015 4
+title: حلول للخطأ 30015-4
 ms.author: janellem
 author: janellem
 manager: scotv
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -14,26 +14,26 @@ ms.custom:
 - "834"
 - "2000020"
 ms.assetid: 4293f495-01c5-4ea4-8268-bfc0a25bdf57
-ms.openlocfilehash: 8a45e9c7f75db4f821eda92bc7f8ed290f363708
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: ebd6db153ab812d803ed5aecabe9dddb91300d51
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36501859"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43757044"
 ---
-# <a name="solutions-for-error-30015-4"></a>حلول لخطأ 30015 4
+# <a name="solutions-for-error-30015-4"></a>حلول للخطأ 30015-4
 
-- أعد تشغيل الكمبيوتر ثم حاول [تثبيت Office](https://portal.office.com/OLS/MySoftware.aspx).
+- إعادة تشغيل جهاز الكمبيوتر الخاص بك وحاول [تثبيت Office](https://portal.office.com/OLS/MySoftware.aspx).
 
-- تنزيل وتثبيت [الدعم والاسترداد مساعد](https://aka.ms/SARA-OfficeUninstall-Alchemy).
+- قم بتنزيل وتثبيت [مساعد الإصلاح والدعم](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. عند فتحه، حدد من **منتجات Office إزالة تثبيت** الإصدار الذي ترغب في إلغاء تثبيتها وحدد **التالي**.
+1. عند فتحه، من **منتجات إلغاء تثبيت Office** حدد الإصدار الذي تريد إلغاء تثبيته وحدد **التالي**.
 
-2. متابعة الانتقال عبر الشاشات وإعادة تشغيل جهاز الكمبيوتر عند مطالبتك بذلك.
+2. استمر في العمل عبر الشاشات وقم بإعادة تشغيل الكمبيوتر عندما تتم مطالبتك بذلك.
 
-    بعد إعادة التشغيل، الدعم والاسترداد مساعد إعادة فتح تلقائياً لإكمال عملية إزالة التثبيت.
+    بعد إعادة التشغيل، يتم إعادة فتح "مساعد الدعم والاسترداد" تلقائيًا لإكمال عملية إلغاء التثبيت.
 
-3. اتبع المتبقية المطالبات، و [قم بإعادة تثبيت Office](https://portal.office.com/OLS/MySoftware.aspx) أو إغلاق المساعد.
+3. اتبع المطالبات المتبقية، [وإعادة تثبيت Office](https://portal.office.com/OLS/MySoftware.aspx) أو إغلاق المساعد.
 
 [إصلاح أخطاء تثبيت Office](https://support.office.com/article/d5df89a9-0507-4b4c-92f9-22f457e630aa?=wt.mc_id=Alchm_DldInstAct)
   

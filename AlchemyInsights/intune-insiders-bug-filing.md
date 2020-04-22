@@ -1,9 +1,9 @@
 ---
-title: الإيداع الشوائب اينتوني من الداخل
+title: Intune من الداخل علة إيداع
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 11/26/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2402"
 - "9000348"
-ms.openlocfilehash: beca7f1b13492997c3c0568f77afee308635e5cb
-ms.sourcegitcommit: e02ecb762949c13af66b734eab962882e0a2ec11
+ms.openlocfilehash: 1c95c7cc4e758d649717df25ecffb87650dff1c3
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/02/2019
-ms.locfileid: "39663513"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43765940"
 ---
-# <a name="intune-insider-bug-filing"></a>الإيداع الشوائب اينتوني من الداخل
+# <a name="intune-insider-bug-filing"></a>Intune من الداخل علة إيداع
 
-شكرا لك علي اهتمامك في برنامج المطلعين اينتوني. إذا كنت قد قمت بالفعل بالصعود لبرنامج المطلعين اينتوني ، وتحتاج إلى تقديم طلب دعم ، ثم:
+أشكركم على اهتمامكم في برنامج Intune المطلعين. إذا كنت بالفعل على متن برنامج Intune Insiders، وتحتاج إلى تقديم طلب دعم، فقم بما يلي:
 
-1. وصف مشكلتك في الحقل أعلاه.
-2. إنشاء طلب خدمه جديد باستخدام الخيارات أدناه.
+1. صف مشكلتك في الحقل أعلاه.
+2. إنشاء طلب خدمة جديد باستخدام الخيارات أدناه.
 
-سيقوم مهندس دعم اينتوني بالاتصال بك.
+سيقوم مهندس دعم Intune بالاتصال بك.
 
-إذا كنت لا في برنامج المطلعين اينتوني ، شكرا لك علي اهتمامك. نحن لا نقوم حاليا بتوظيف مشاركين جدد.
+إذا لم تكن في برنامج Intune Insiders ، شكرًا لاهتمامك. نحن حاليا ً لا نجند مشاركين جدد

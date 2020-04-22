@@ -1,9 +1,9 @@
 ---
-title: استكشاف نهج إينتوني وملفات التعريف
+title: استكشاف سياسة وملفات تعريف Intune وإصلاحها
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 05/07/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1063"
 - "6700005"
-ms.openlocfilehash: 19d2bf0e85e83b9e1a7fbdc24a4b3d21abf34941
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4c01baf99b17addb50209be19edf11d45116071b
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36533614"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766646"
 ---
-# <a name="troubleshooting-intune-policy-and-profiles"></a>نهج إينتوني استكشاف الأخطاء وإصلاحها وملفات التعريف
+# <a name="troubleshooting-intune-policy-and-profiles"></a>استكشاف الأخطاء وإصلاحها نهج Intune وملفات التعريف
 
-لترى النهج الموجودة، استكشاف الصراعات ومراجعة بيانات السجلات راجع الأسئلة والقضايا المشتركة، قد تساعدك الإرشادات التالية.
+لمشاهدة النُهج الموجودة، واستكشاف التعارضات وإصلاحها، ومراجعة بيانات السجل، ومشاهدة الأسئلة والمشكلات الشائعة، قد تساعد الأدلة التالية.
 
-- [استكشاف أخطاء النهج وملفات التعريف في إينتوني](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [استكشاف الأخطاء وإصلاحها في النُهج والملفات الشخصية في Intune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
 
-- [الأسئلة والمشاكل والحلول مع نهج الجهاز وملفات التعريف في إينتوني العامة](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [الأسئلة الشائعة والمشكلات والحلول مع نُهج الجهاز وملفات التعريف في Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [مراقبة تكوين التشكيلات الجانبية للجهاز وعرض التعارضات في إينتوني](https://docs.microsoft.com/intune/device-profile-monitor)
+- [مراقبة ملفات تعريف تكوين الجهاز وعرض التعارضات في Intune](https://docs.microsoft.com/intune/device-profile-monitor)
 
-- [استكشاف أخطاء جهاز الامتثال والوصول المشروط في إينتوني](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+- [استكشاف مدى توافق الجهاز والوصول المشروط في Intune](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-- [رصد السياسات المتعلقة بالتوافق وعرض التعارضات في إينتوني](https://docs.microsoft.com/intune/compliance-policy-monitor)
+- [مراقبة سياسات الامتثال وعرض التعارضات في Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-- [إرسال بيانات السجل إينتوني للتخزين أزور، المحاور الحدث، أو تسجيل التحليلات](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
+- [إرسال بيانات سجل Intune إلى التخزين Azure أو محاور الأحداث أو تحليلات السجل](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
 
-راجع نظرة عامة حول [تكوين الأجهزة](https://docs.microsoft.com/intune/device-profiles) أو [استخدام نهج التوافق](https://docs.microsoft.com/intune/device-compliance-get-started).
+راجع النظرة العامة [لتكوين الأجهزة](https://docs.microsoft.com/intune/device-profiles) أو [استخدام نُهج التوافق](https://docs.microsoft.com/intune/device-compliance-get-started).

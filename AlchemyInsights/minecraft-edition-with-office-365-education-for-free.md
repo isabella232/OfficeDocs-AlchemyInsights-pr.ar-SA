@@ -1,9 +1,9 @@
 ---
-title: مجانية التعليم لإصدار Minecraft مع Office 365
+title: ماين كرافت الطبعة مع مكتب 365 التعليم مجانا
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 11/6/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,27 +12,27 @@ ms.custom:
 - "1427"
 - "1500009"
 ms.assetid: 7cf69a77-2212-43a7-bd68-122afd876e59
-ms.openlocfilehash: e4e88f315b94e4b1318fada8abde8413233c41a6
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: aa65e494dce09d4cb54fea29b5b37d6f54c4a089
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36389635"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762052"
 ---
-# <a name="minecraft-edition-with-office-365-education-for-free"></a>مجانية التعليم لإصدار Minecraft مع Office 365
+# <a name="minecraft-edition-with-office-365-education-for-free"></a>ماين كرافت الطبعة مع مكتب 365 التعليم مجانا
 
-[مجانية التعليم لإصدار Minecraft مع Office 365](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
+[ماين كرافت الطبعة مع مكتب 365 التعليم مجانا](https://docs.microsoft.com/education/windows/get-minecraft-for-education)
   
-- **Minecraft: الإصدار التعليمي** يتطلب Windows 10
+- **Minecraft: إصدار التعليم** يتطلب ويندوز 10
 
-- التجارب أو الاشتراكات من **Minecraft: "الإصدار التعليمي"** المتوفرة للمستأجرين التعليم التي تديرها Azure Active Directory (Azure AD)
+- يتم تقديم التجارب أو الاشتراكات من **Minecraft: إصدار التعليم** لمستأجري التعليم التي يديرها Azure Active Directory (Azure AD)
 
-  - إذا لم يكن للمدرسة مستأجر Azure إعلان، يكون [المسؤول يمكن إعدادها](https://docs.microsoft.com/education/windows/school-get-minecraft) كجزء من عملية الحصول على **Minecraft: "الطبعة التعليم"**.
+  - إذا لم يكن لدى مدرستك مستأجر Azure AD، [يمكن لمسؤول تكنولوجيا المعلومات إعداد واحد](https://docs.microsoft.com/education/windows/school-get-minecraft) كجزء من عملية الحصول على **Minecraft: Education Edition**.
 
-  - التعليم office 365، التي تتضمن الإصدارات الإلكترونية من تطبيقات Office بالإضافة إلى 1 تيرابايت من سعة التخزين عبر إنترنت مجاني للمدرسين والطلاب. [التسجيل في المدرسة لتعليم 365 Office](https://products.office.com/academic/office-365-education-plan).
+  - Office 365 Education، والذي يتضمن إصدارات عبر الإنترنت من تطبيقات Office بالإضافة إلى 1 تيرابايت التخزين عبر الإنترنت مجاني للمعلمين والطلاب. [قم بالتسجيل في مدرستك لـ Office 365 Education](https://products.office.com/academic/office-365-education-plan).
 
-  - إذا كان للمدرسة على اشتراك Office 365 التعليم، يتضمن مجاني الاشتراك الإعلان Azure. [الاشتراك تسجيل إعلانك Azure مجاناً](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx).
+  - إذا كانت مدرستك تحتوي على اشتراك Office 365 Education، فهي تتضمن اشتراكAzure AD مجاني. [تسجيل اشتراك Azure AD المجاني.](https://msdn.microsoft.com/library/windows/hardware/mt703369%28v=vs.85%29.aspx)
 
-[تعلم كيف يمكن الحصول على المدرسين وتوزيع Minecraft: "الطبعة التعليم"](https://docs.microsoft.com/education/windows/teacher-get-minecraft).
+[تعلم كيف يمكن للمعلمين الحصول على وتوزيع ماين كرافت: الطبعة التعليمية](https://docs.microsoft.com/education/windows/teacher-get-minecraft).
   
-[تعلم كيف يمكن الحصول على مديري تكنولوجيا المعلومات وتوزيع Minecraft: "الإصدار التعليمي"](https://docs.microsoft.com/education/windows/school-get-minecraft)، وكيفية إدارة الأذونات ل Minecraft.
+[تعرّف على كيفية حصول مسؤولي تكنولوجيا المعلومات على Minecraft وتوزيعه: إصدار التعليم](https://docs.microsoft.com/education/windows/school-get-minecraft)، وكيفية إدارة الأذونات الخاصة بـ Minecraft.
