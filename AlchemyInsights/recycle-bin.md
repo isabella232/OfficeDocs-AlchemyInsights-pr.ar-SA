@@ -1,9 +1,9 @@
 ---
-title: سله المحذوفات
+title: سلة المهملات
 ms.author: stevhord
 author: bentoncity
 manager: scotv
-ms.date: 3/1/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 456586ec-330c-41be-b2f9-65f9947eb41a
-ms.openlocfilehash: 8c61c6007c8e1cc8958993e0f1b3e0e6c0dbb617
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 3ba566f02cad31b6c3c8cb8ba281f66fa3c78e14
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36552954"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720196"
 ---
-# <a name="restore-items-in-sharepoint-online"></a><span data-ttu-id="1ace8-102">استعاده العناصر في SharePoint علي الإنترنت</span><span class="sxs-lookup"><span data-stu-id="1ace8-102">Restore items in SharePoint Online</span></span>
+# <a name="restore-items-in-sharepoint-online"></a><span data-ttu-id="0da6b-102">استعادة العناصر في SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="0da6b-102">Restore items in SharePoint Online</span></span>
 
-<span data-ttu-id="1ace8-103">عند حذف العناصر في SharePoint علي الإنترنت ، يتم الاحتفاظ بها لما مجموعه 93 أيام.</span><span class="sxs-lookup"><span data-stu-id="1ace8-103">When you delete items in SharePoint Online, they're retained for a total of 93 days.</span></span> <span data-ttu-id="1ace8-104">انها تبقي في سله المحذوفات الموقع طوال الوقت ، الا إذا قمت بإفراغه أو حذف العناصر منه.</span><span class="sxs-lookup"><span data-stu-id="1ace8-104">They stay in the site recycle bin the whole time, unless you empty it or delete the items from it.</span></span> <span data-ttu-id="1ace8-105">في هذه الحالة ، انتقل العناصر إلى سله المحذوفات مجموعه الموقع ، حيث يبقون للفترة المتبقية من 93 أيام.</span><span class="sxs-lookup"><span data-stu-id="1ace8-105">In that case, the items go to the site collection recycle bin, where they stay for the remainder of the 93 days.</span></span> <span data-ttu-id="1ace8-106">في نهاية الوقت ، يتم حذف العناصر نهائيا.</span><span class="sxs-lookup"><span data-stu-id="1ace8-106">At the end of the time, the items are permanently deleted.</span></span> <span data-ttu-id="1ace8-107">لاستعاده العناصر المحذوفة من سله محذوفات الموقع:</span><span class="sxs-lookup"><span data-stu-id="1ace8-107">To restore deleted items from the site recycle bin:</span></span>
+<span data-ttu-id="0da6b-103">عند حذف العناصر في SharePoint Online، يتم الاحتفاظ بها لما مجموعه 93 يومًا.</span><span class="sxs-lookup"><span data-stu-id="0da6b-103">When you delete items in SharePoint Online, they're retained for a total of 93 days.</span></span> <span data-ttu-id="0da6b-104">أنها تبقى في سلة المهملات الموقع طوال الوقت، إلا إذا قمت بإفراغه أو حذف العناصر منه.</span><span class="sxs-lookup"><span data-stu-id="0da6b-104">They stay in the site recycle bin the whole time, unless you empty it or delete the items from it.</span></span> <span data-ttu-id="0da6b-105">في هذه الحالة، تذهب العناصر إلى سلة المهملات الخاصة بمجموعة الموقع، حيث تبقى لبقية أيام الـ 93.</span><span class="sxs-lookup"><span data-stu-id="0da6b-105">In that case, the items go to the site collection recycle bin, where they stay for the remainder of the 93 days.</span></span> <span data-ttu-id="0da6b-106">في نهاية الوقت، يتم حذف العناصر بشكل دائم.</span><span class="sxs-lookup"><span data-stu-id="0da6b-106">At the end of the time, the items are permanently deleted.</span></span> <span data-ttu-id="0da6b-107">لاستعادة العناصر المحذوفة من سلة المهملات الموقع:</span><span class="sxs-lookup"><span data-stu-id="0da6b-107">To restore deleted items from the site recycle bin:</span></span>
   
-1. <span data-ttu-id="1ace8-108">انتقل إلى الموقع وانقر فوق سله **المحذوفات** في الجزء الأيمن.</span><span class="sxs-lookup"><span data-stu-id="1ace8-108">Go to the site and click **Recycle bin** in the left pane.</span></span> 
+1. <span data-ttu-id="0da6b-108">انتقل إلى الموقع وانقر فوق **إعادة تدوير سلة المهملات** في الجزء الأيسر.</span><span class="sxs-lookup"><span data-stu-id="0da6b-108">Go to the site and click **Recycle bin** in the left pane.</span></span> 
     
-    <span data-ttu-id="1ace8-109">إذا كنت لا تري سله **المحذوفات** في الجزء الأيمن ، انقر فوق أيقونه الإعدادات في اعلي اليمين ، ثم انقر فوق **محتويات الموقع**.</span><span class="sxs-lookup"><span data-stu-id="1ace8-109">If you don't see **Recycle bin** in the left pane, click the Settings icon in the upper right, and then click **Site contents**.</span></span> <span data-ttu-id="1ace8-110">سله المحذوفات في اقصي يمين شريط الأوامر في الأعلى.</span><span class="sxs-lookup"><span data-stu-id="1ace8-110">The Recycle Bin is on the far right of the command bar at the top.</span></span>
+    <span data-ttu-id="0da6b-109">إذا كنت لا ترى **سلة المهملات** في الجزء الأيسر، فانقر فوق رمز الإعدادات في أعلى اليمين، ثم انقر فوق **محتويات الموقع**.</span><span class="sxs-lookup"><span data-stu-id="0da6b-109">If you don't see **Recycle bin** in the left pane, click the Settings icon in the upper right, and then click **Site contents**.</span></span> <span data-ttu-id="0da6b-110">سلة المهملات على أقصى يمين شريط الأوامر في الأعلى.</span><span class="sxs-lookup"><span data-stu-id="0da6b-110">The Recycle Bin is on the far right of the command bar at the top.</span></span>
     
-2. <span data-ttu-id="1ace8-111">في صفحه **سله المحذوفات** ، حدد العناصر التي تريد استعادتها عن طريق الاشاره اليها والنقر فوق رمز علامة الاختيار الذي يظهر.</span><span class="sxs-lookup"><span data-stu-id="1ace8-111">On the **Recycle Bin** page, select the items you want to restore by pointing to them and clicking the check mark icon that appears.</span></span> 
+2. <span data-ttu-id="0da6b-111">في صفحة **سلة المهملات،** حدد العناصر التي تريد استعادتها عن طريق الإشارة إليها والنقر فوق رمز علامة الاختيار الذي يظهر.</span><span class="sxs-lookup"><span data-stu-id="0da6b-111">On the **Recycle Bin** page, select the items you want to restore by pointing to them and clicking the check mark icon that appears.</span></span> 
     
-3. <span data-ttu-id="1ace8-112">انقر فوق **استعاده**.</span><span class="sxs-lookup"><span data-stu-id="1ace8-112">Click **Restore**.</span></span>
+3. <span data-ttu-id="0da6b-112">انقر فوق **استعادة**.</span><span class="sxs-lookup"><span data-stu-id="0da6b-112">Click **Restore**.</span></span>
     
-[<span data-ttu-id="1ace8-113">استعاده العناصر المحذوفة من سله محذوفات مجموعه الموقع</span><span class="sxs-lookup"><span data-stu-id="1ace8-113">Restore deleted items from the Site collection recycle bin</span></span>](https://go.microsoft.com/fwlink/?linkid=866439)
+[<span data-ttu-id="0da6b-113">استعادة العناصر المحذوفة من سلة المهملات الخاصة بمجموعة الموقع</span><span class="sxs-lookup"><span data-stu-id="0da6b-113">Restore deleted items from the Site collection recycle bin</span></span>](https://go.microsoft.com/fwlink/?linkid=866439)
   
 
