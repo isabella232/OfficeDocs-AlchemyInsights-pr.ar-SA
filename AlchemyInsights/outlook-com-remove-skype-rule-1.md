@@ -1,9 +1,9 @@
 ---
-title: إزالة Outlook.com Skype
+title: Outlook.com إزالة Skype
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 4/15/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1348"
 - "8000082"
-ms.openlocfilehash: 4ce51c6bc7af6cf1cd6d82feeff0d9be9159bdbd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: f97aa887e072f01bbb7e077550c195bb934c6648
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535090"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743800"
 ---
-# <a name="skype-icon-missing"></a>Skype رمز مفقود
+# <a name="skype-icon-missing"></a>رمز Skype مفقود
 
-لقد مؤقتاً ازلنا رمز Skype من Outlook.com كجزء من تصميم التحديث وميزة تحديث نحن متحمسون ليتم تخطيطها. ونحن نقدر صبرك بينما نستعد تجربة جديدة ومحسنة لك.
+لقد قمنا بإزالة رمز Skype مؤقتًا من Outlook.com كجزء من تحديث التصميم وتحديث الميزات ونحن متحمسون للطرح. نحن نقدر صبركم في حين نقوم بإعداد تجربة جديدة ومحسنة بالنسبة لك.
 
-يمكنك الاستمرار في استخدام Skype من خلال المتصفح في [web.skype.com](https://web.skype.com/).
+لا يزال بإمكانك استخدام Skype من خلال المتصفح في [web.skype.com](https://web.skype.com/).

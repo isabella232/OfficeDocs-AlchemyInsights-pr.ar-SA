@@ -12,16 +12,16 @@ ms.custom:
 - "16"
 - "1000015"
 ms.assetid: ae399389-f176-4a0c-8b9d-4d6605059914
-ms.openlocfilehash: 5cb5c1d9da991d36c5b6fde94277be0e56bcbac0
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 357524491dc26b3a6101eb0d39d1f446aaf052c3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36741208"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720160"
 ---
 # <a name="rename-your-onmicrosoftcom-domain"></a>إعادة تسمية نطاق onmicrosoft.com
 
- **لا يمكنك إعادة تسمية مجال onmicrosoft بعد الاشتراك.** على سبيل المثال، إذا كان المجال الأولي الذي اخترته *fourthcoffee.onmicrosoft.com*، لا يمكنك تغييره ليكون *fabrikam.onmicrosoft.com*. لاستخدام مجال onmicrosoft.com مختلف، يجب عليك بدء اشتراك جديد باستخدام Office 365.
+ **لا يمكنك إعادة تسمية مجال onmicrosoft بعد الاشتراك.** على سبيل المثال، إذا كان المجال الأولي الذي اخترته *fourthcoffee.onmicrosoft.com،* فلا يمكنك تغييره fabrikam.onmicrosoft.com *.* لاستخدام مجال onmicrosoft.com مختلف، يجب عليك بدء اشتراك جديد باستخدام Microsoft 365.
   
-إذا كنت ترغب في استخدام مجال مخصص مثل *contoso.com* ، يمكنك [إضافة مجال تمتلكه](https://docs.microsoft.com/office365/admin/setup/add-domain) أو شراء مجال من [Microsoft](https://docs.microsoft.com/office365/admin/get-help-with-domains/buy-a-domain-name).
+إذا كنت ترغب في استخدام مجال مخصص مثل *contoso.com* ، يمكنك [إضافة واحد تملكه](https://docs.microsoft.com/office365/admin/setup/add-domain) أو شراء واحد من [Microsoft](https://docs.microsoft.com/office365/admin/get-help-with-domains/buy-a-domain-name).
   

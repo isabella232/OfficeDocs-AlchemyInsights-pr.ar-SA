@@ -3,7 +3,7 @@ title: إشعار الاشتراك على عميل Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 2/24/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,18 +13,17 @@ ms.custom:
 - "56"
 - "1600007"
 ms.assetid: 07b5e37e-c6f5-47fc-bd6f-9419a77d2320
-ms.openlocfilehash: 03bd18b0ca7af8f3102041c4f6fd604bb29737f8
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 661ac7b7c7a6556ab22d08e9fc0e8d6e25d7133c
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36559756"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43741850"
 ---
-# <a name="subscription-notice-in-your-office-client"></a>لاحظ الاشتراك في عميل Office الخاص بك؟
+# <a name="subscription-notice-in-your-office-client"></a>إشعار الاشتراك في عميل Office؟
 
-يبدو أن ترى إخطارا في عميل Office الخاص بك تتصل بحالة الاشتراك Office 365. يمكنك العثور على معلومات حول كيفية حل هذه المشكلة في هذه المقالة: [يظهر إشعار اشتراك عندما أقوم بفتح تطبيق Office 365](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)
+يبدو أنك تشاهد إشعارًا في عميل Office يتعلق بحالة اشتراكك. يمكنك العثور على معلومات حول كيفية إصلاح المشكلة في هذه المقالة: [يظهر إشعار اشتراك عند فتح تطبيق Microsoft 365](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb.aspx)
   
-في حالة تحديث الاشتراك Office 365، قد تكون قد انتهيت من مشكلة مؤقتة تسبب تنشيط Office الخاص بك إلى فشل. هناك بعض الخطوات البسيطة التي يمكنك اتخاذها لتجنب هذه الرسائل، مثل التحقق من وقت الكمبيوتر الخاص بك وتشغيل Office كمسؤول تسجيل الدخول لتنشيط. يمكنك العثور على خطوات تفصيلية لحل تلك القضايا في هذه المقالة: ["المنتج غير مرخص" وتنشيط الأخطاء في Office](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx).
+إذا كان اشتراكك محدثًا، فقد تكون قد اصطدمت بمشكلة مؤقتة تسببت في فشل تنشيط Office. هناك خطوات بسيطة يمكنك اتخاذها لتجنب هذه الرسائل، مثل التحقق من وقت الكمبيوتر وتشغيل Office كمسؤول وتسجيل الدخول للتنشيط. يمكنك العثور على خطوات مفصلة لإصلاح هذه المشكلات في هذه المقالة: [أخطاء المنتج غير المرخص ة والتنشيط](https://support.office.com/article/Unlicensed-Product-and-activation-errors-in-Office-0d23d3c0-c19c-4b2f-9845-5344fedc4380.aspx).
   
-إذا لم تعمل هذه لك، يرجى الاتصال بنا باستخدام الارتباطات الموجودة أدناه وسوف نكون سعداء للمساعدة.
-  
+إذا كانت هذه لا تعمل بالنسبة لك، يرجى الاتصال بنا مع الروابط أدناه، وسوف نكون سعداء للمساعدة.

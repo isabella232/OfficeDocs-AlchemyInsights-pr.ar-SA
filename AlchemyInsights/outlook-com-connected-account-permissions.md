@@ -1,9 +1,9 @@
 ---
-title: 8000093 أذونات الحساب المتصلة Outlook.com
+title: 8000093 Outlook.com أذونات الحساب المتصلة
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.custom:
 - "1431"
 - "8000093"
-ms.openlocfilehash: 86200f95686e9249499e3c387776d26fdbbd8fc1
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: dfcab0b56a00955ec90b45c3897bff36feb95b13
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36546866"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722075"
 ---
-# <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>كيفيه إصلاح "يبدو اننا ليس لدينا اذن"
+# <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>كيفية إصلاح "يبدو أننا لا نملك إذنًا"
 
-إذا كنت تري رسالة الخطا "يبدو اننا لم يكن لديك اذن للحصول علي البريد الكتروني ل..." يرجى القيام بما يلي:
+إذا رأيت رسالة الخطأ "يبدو أننا لا نملك إذنًا للحصول على بريد إلكتروني لـ ..." يرجى القيام بما يلي:
 
-1. افتح [إعدادات الحساب المتصل](https://outlook.live.com/mail/options/mail/accounts) وقم بازاله أو حذف الحساب المتصل المسرود في الخطا.
-2. أضافه الحساب المتصل مره أخرى.
-3. [عد إلى صندوق البريد الخاص بك](https://outlook.live.com/mail/inbox).
+1. افتح [إعدادات الحساب المتصل](https://outlook.live.com/mail/options/mail/accounts) وأزل الحساب المتصل المدرج في الخطأ أو حذفه.
+2. إضافة الحساب المتصل مرة أخرى.
+3. [العودة إلى صندوق البريد الخاص بك](https://outlook.live.com/mail/inbox).
 
-قد يستغرق الأمر بعض الوقت لأعاده مزامنة جميع رسائل البريد الكتروني من حسابك المتصل.
+قد يستغرق الأمر بعض الوقت حتى تتمكن جميع رسائل البريد الإلكتروني من إعادة المزامنة من حسابك المتصل.
 
-مزيد من المعلومات حول [أزاله](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8?wt.mc_id=Office_Outlook_com_Alchemy) الحسابات المتصلة [وأضافها](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) .
+مزيد من المعلومات حول [إزالة](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8?wt.mc_id=Office_Outlook_com_Alchemy) الحسابات المتصلة [وإضافتها.](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy)

@@ -1,31 +1,31 @@
 ---
-title: إعدادات الإطارات المنبثقة و IMAP و SMTP في Outlook على ويب
+title: إعدادات POP و IMAP و SMTP في Outlook على الويب
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/14/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: d25e3ea650bcd337640ab44574d109721639ce17
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: d106e02fbb7e67de707679bc226868b600c4f534
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36556480"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721122"
 ---
-# <a name="pop-imap--smtp-settings-for-outlook-on-the-web"></a>إعدادات & SMTP IMAP POP، ل Outlook على ويب
+# <a name="pop-imap--smtp-settings-for-outlook-on-the-web"></a>POP، IMAP & إعدادات SMTP لOutlook على الويب
 
-إذا كنت تريد إضافة حسابك Office 365 إلى آخر من تطبيق البريد الإلكتروني الذي يدعم POP أو IMAP أو SMTP، فيما يلي إعدادات الخادم يدوياً المطلوبة:
+إذا كنت ترغب في إضافة حساب Microsoft 365 إلى تطبيق بريد آخر يدعم POP أو IMAP أو SMTP، فإليك إعدادات الخادم اليدوية التي ستحتاج ها:
   
-- **اسم ملقم IMAP:** outlook.office365.com
-- **المنفذ IMAP:** 993
-- **أسلوب التشفير IMAP:** SSL/TLS
+- **اسم خادم IMAP:** outlook.office365.com
+- **منفذ IMAP:** 993
+- **طريقة تشفير IMAP:** SSL/TLS
 - **اسم خادم POP:** outlook.office365.com  
-- **المنفذ POP:** 995  
-- **POP أسلوب التشفير:** SSL/TLS  
+- **منفذ POP:** 995  
+- **طريقة تشفير POP:** SSL/TLS  
 - **اسم خادم SMTP:** smtp.office365.com
 - **منفذ SMTP:** 587
-- **أسلوب التشفير SMTP:** STARTTLS
+- **طريقة تشفير SMTP:** STARTTLS

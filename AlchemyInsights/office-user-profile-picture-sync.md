@@ -1,5 +1,5 @@
 ---
-title: مزامنة صوره الملف الشخصي للمستخدم
+title: مزامنة صورة ملف تعريف المستخدم
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -7,28 +7,28 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: cd7196af-3ed9-42e6-b594-f51ad265fd63
-ms.openlocfilehash: 4af871b33d4e5f438584076891fff7a430f41b5e
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 8f79e1c319fcb6c776e5a2ab8db9cb3a76265f87
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053356"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761511"
 ---
-# <a name="sync-a-users-profile-picture"></a>مزامنة صوره الملف الشخصي للمستخدم
+# <a name="sync-a-users-profile-picture"></a>مزامنة صورة ملف تعريف المستخدم
 
-يمكنك أضافه أو تغيير صوره ملف التعريف الخاص بك في Office 365 من Office.com ، أو اثناء استخدام تطبيقات Office 365 علي جهاز الكمبيوتر الخاص بك أو في مستعرض علي هاتفك. سوف تظهر صورتك في كل مكان هناك دائره صور الملف الشخصي في مكتب 365.
+يمكنك إضافة صورة ملفك الشخصي أو تغييرها في Microsoft 365 من Office.com، أو أثناء استخدام تطبيقات Microsoft على الكمبيوتر أو في متصفح على هاتفك. ستظهر صورتك في كل مكان توجد فيه دائرة صور ملف شخصي في Microsoft 365.
 
-لأضافه صورتك الشخصية إلى Office 365 للاعمال
+لإضافة صورة ملفك الشخصي إلى Microsoft 365 للأعمال
 
-- اعثر علي الصورة التي تريد استخدامها وقم بتخزينها علي جهاز الكمبيوتر الخاص بك أو OneDrive أو اي موقع آخر يمكنك الوصول اليه.
+- ابحث عن صورة تريد استخدامها وتخزينها على جهاز الكمبيوتر أو OneDrive أو أي موقع آخر يمكنك الوصول إليه.
 
-- تسجيل الدخول إلى Office 365 مع حساب العمل أو المدرسة في [office.com](http://www.office.com).
+- تسجيل الدخول إلى Microsoft 365 باستخدام حساب العمل أو المدرسة في [office.com](https://www.office.com).
 
-- حدد الدائرة الموجودة في الزاوية العلوية اليمني من الصفحة التي تعرض الأحرف الاستهلالية أو رمزا للشخص.
+- حدد الدائرة في الزاوية اليمنى العليا من الصفحة التي تعرض الأحرف الأولى من اسمك أو رمز ًا لشخص.
 
-في جزء الحسابات الخاصة بي ، حدد الدائرة التي تعرض الأحرف الاستهلالية أو رمزا للشخص. تغيير صورتك في النافذة المنبثقة التي تظهر.
+في جزء حساباتي، حدد الدائرة التي تعرض الأحرف الأولى من اسمك أو رمز ًا لشخص. تغيير الصورة في النافذة المنبثقة التي تظهر.
 
-ملاحظه: إذا كنت قد قمت بالفعل بتحميل صوره ، فقد ترغب في محاولة النقر فوق اللوحة SharePoint أو OneDrive لأعاده مزامنة تلك الصورة.
+ملاحظة: إذا كنت قد قمت بالفعل بتحميل صورة، فقد تحتاج إلى محاولة النقر فوق لوحة SharePoint أو OneDrive لإعادة مزامنة تلك الصورة.
 
-لمزيد من المعلومات ، الرجاء زيارة [معلومات حول مزامنة صوره ملف التعريف في Office 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a)
+لمزيد من المعلومات، يرجى زيارة [معلومات حول مزامنة صورة الملف الشخصي في Microsoft 365](https://support.office.com/article/information-about-profile-picture-synchronization-in-office-365-20594d76-d054-4af4-a660-401133e3d48a)
 

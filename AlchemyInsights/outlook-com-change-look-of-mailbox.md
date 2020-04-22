@@ -1,28 +1,28 @@
 ---
-title: Outlook.com تغيير مظهر علبة البريد
+title: Outlook.com تغيير مظهر صندوق البريد الخاص بك
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/21/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
 ms.custom:
 - "1849"
 - "9000257"
-ROBOTS: NOINDEX, NOFOLLOW
-localization_priority: Normal
-ms.openlocfilehash: 943af80d5d4af5ee67a1a31e9483399e76afdd83
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 6231af2cb68d9db38f5debc0e1f22869c7513a8b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36547658"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721859"
 ---
-# <a name="change-the-look-of-your-outlookcom-mailbox"></a>تغيير مظهر علبة Outlook.com
+# <a name="change-the-look-of-your-outlookcom-mailbox"></a>تغيير مظهر صندوق البريد Outlook.com
 
-يمكنك تغيير مظهر جزء القراءة وقائمة الرسائل في Outlook.com.
+يمكنك تغيير مظهر قائمة الرسائل وجزء القراءة في Outlook.com.
 
-- لتغيير تخطيط إطار الرسالة، افتح خيارات [جزء القراءة](https://outlook.live.com/mail/options/mail/layout/readingPane) .
-- لتغيير طريقة فرز البريد الإلكتروني الخاص بك، في أعلى قائمة الرسائل، حدد **عامل تصفية** > **فرز حسب** ثم اختر كيف تريد فرز البريد الإلكتروني الخاص بك.
-- لتجميع الرسائل حسب المحادثة، افتح خيارات [رسالة المؤسسة](https://outlook.live.com/mail/options/mail/layout/conversations) الخاصة بك.
-- لتشغيل تركز "علبة الوارد" أو إيقاف تشغيله، افتح خيارات [التخطيط](https://outlook.live.com/mail/options/mail/layout/focused) .
+- لتغيير تخطيط إطار الرسالة، افتح خيارات [جزء القراءة.](https://outlook.live.com/mail/options/mail/layout/readingPane)
+- لتغيير كيفية فرز البريد الإلكتروني الخاص بك، في أعلى قائمة الرسائل، حدد **تصفية** > **الفرز حسب** واختيار الطريقة التي تريد فرز البريد الإلكتروني الخاص بك.
+- لتجميع الرسائل حسب المحادثة، افتح خيارات [مؤسسة الرسائل.](https://outlook.live.com/mail/options/mail/layout/conversations)
+- لتشغيل علبة الوارد المركزة أو إيقاف تشغيلها، افتح خيارات [التخطيط.](https://outlook.live.com/mail/options/mail/layout/focused)

@@ -1,8 +1,8 @@
 ---
-title: المسائل المتصلة بسنة 2019 Office
+title: الأسئلة المتعلقة بـ Office 2019
 ms.author: janellem
 author: janellem
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,26 +12,26 @@ ms.custom:
 - "1251"
 - "2000023"
 ms.assetid: 7fc322ce-08fa-4b87-98ac-c8a35bd6c8ee
-ms.openlocfilehash: f00109e467c5ef853f9312f57a7f966288a0bb0c
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: b4f02dcd8415414068b62497d647474c4b8f8d4d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36553599"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719790"
 ---
-# <a name="about-office-2019"></a>حول Office 2019
+# <a name="about-office-2019"></a>نبذة عن Office 2019
 
-Office 2019 للعملاء ليست جاهزة لشبكة الاتصال حتى الآن أو الذين لديهم حاجة معينة للداخلية أو مكتب النشر المختلط. ويتضمن مجموعة فرعية ذات معنى من الميزات التي تمت إضافتها بالفعل إلى Office 365 على مدى السنوات الثلاث الماضية، ولكن لم يكن جزءا من Office 365.
+Office 2019 مخصص للعملاء غير المستعدين للسحابة بعد أو لديهم حاجة محددة لنشر Office داخليًا أو مختلط. وهو يتضمن مجموعة فرعية ذات معنى من الميزات التي تمت إضافتها بالفعل إلى Microsoft 365 على مدى السنوات الثلاث الماضية، ولكنه ليس جزءًا من Microsoft 365.
   
-Office 365 ProPlus، المتصلة بسحابة إصدار Office، يوفر تجربة مكتب الأكثر إنتاجية والأكثر أماناً. يوفر الوصول إلى مجموعة من الخدمات بما يتجاوز ما تحتوي الإصدارات المحلية وتلقى تحديثات ميزة جديدة بشكل مستمر.
+توفر تطبيقات Microsoft 365 للمؤسسات، وهي النسخة المتصلة بالسحابة من Office، تجربة Office الأكثر إنتاجية وأمانًا. ويوفر الوصول إلى مجموعة من الخدمات تتجاوز ما تحتويه الإصدارات الداخلية ويتلقى تحديثات الميزات الجديدة على أساس مستمر.
   
-لذا، إذا كان لديك تطبيقات سطح المكتب كجزء من Office 365 الاشتراك لديك بالفعل أحدث إصدار من Office.
+لذلك، إذا كان لديك تطبيقات سطح المكتب Office كجزء من اشتراك Microsoft 365 لديك بالفعل أحدث إصدار من Office.
   
-للحصول على مزيد من المعلومات، راجع:
+لمزيد من المعلومات، اطلع على:
   
-[مكتب 2019 تجاري for Windows و Mac الأسئلة المتداولة](https://support.microsoft.com/help/4133312)
+[Office 2019 التجارية لويندوز وماك الأسئلة المتداولة](https://support.microsoft.com/help/4133312)
   
-[رقم الإصدار الرئيسي لمكتب 2019 يقيم في 16.0](https://docs.microsoft.com/deployoffice/office2019/overview)
+[يبقى رقم الإصدار الرئيسي لـ Office 2019 عند 16.0](https://docs.microsoft.com/deployoffice/office2019/overview)
   
-[سيتم إزالة تسمية السنة في تطبيقات عميل Office 2016 و Office 365 من إدخالات القائمة ابدأ](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
+[سيتم إزالة تعيين السنة في Office 2016 وتطبيقات عملاء Microsoft 365 من إدخالات قائمة البدء](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
   

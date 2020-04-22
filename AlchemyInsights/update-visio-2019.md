@@ -1,9 +1,9 @@
 ---
-title: الترقية إلى عام 2019 Visio
+title: الترقية إلى Visio 2019
 ms.author: janellem
 author: janellemcintosh-msft
 manager: eliree
-ms.date: 6/5/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1798"
 - "9000201"
-ms.openlocfilehash: 7870b63660a1f08b844c48d5f20ff96a336e63de
-ms.sourcegitcommit: 20b6a1fb3f0d899f3b204e3c066262d10623a4ea
+ms.openlocfilehash: 8baf4d27ed1c6c7f6b15c1221ddb9dbb8aea9c3b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/25/2019
-ms.locfileid: "35903672"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720016"
 ---
-# <a name="upgrade-to-visio-2019"></a>الترقية إلى عام 2019 Visio
+# <a name="upgrade-to-visio-2019"></a>الترقية إلى Visio 2019
 
-لدى المستخدمين الذين قاموا بتثبيت التطبيق Visio سطح المكتب كجزء من الاشتراك على الإنترنت Visio الفعل أحدث إصدار. 
+لدى المستخدمين الذين قاموا بتثبيت تطبيق سطح المكتب Visio كجزء من اشتراك Visio Online أحدث إصدار بالفعل. 
 
-لترقية إصدار غير المخصص للاشتراك ك Visio 2016، تحتاج إلى شراء اشتراك Visio على الإنترنت أو شراء مرة واحدة الرسمي Visio أو الرؤية المهنية 2019. راجع [خيارات Visio مقارنة](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options).
+لترقية إصدار غير اشتراك مثل Visio 2016 ، تحتاج إلى شراء اشتراك Visio Online أو شراء مرة واحدة من Visio Standard أو Vision Professional 2019. راجع [خيارات مقارنة Visio](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options).
 
-إذا قمت بالفعل بشراء إصدار أحدث وتكون جاهزة للتثبيت، راجع [تثبيت Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798) واتبع الخطوات للإصدار الخاص بك. 
+إذا كنت قد اشتريت إصدارًا أحدث بالفعل وكنت مستعدًا لتثبيته، فراجع [تثبيت Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798) واتبع الخطوات الخاصة بالإصدار الخاص بك. 
 
-لتثبيت Visio جنبا إلى جنب مع Office، راجع [سيناريوهات المعتمدة لتثبيت إصدارات مختلفة من Office ومشروع Visio على نفس الكمبيوتر](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer).
+لتثبيت Visio جنبًا إلى جنب مع Office، راجع [السيناريوهات المدعومة لتثبيت إصدارات مختلفة من Office و Project و Visio على نفس الكمبيوتر](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer).
 
-للحصول على مزيد من المعلومات، راجع:<br>
-[دليل النشر ل Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
-[رقم الإصدار الرئيسي ل Visio 2019 هو البقاء في 16.0](https://docs.microsoft.com/en-gb/deployoffice/office2019/overview#whats-stayed-the-same-in-office-2019)<br>
-[سيتم إزالة تسمية السنة في تطبيقات عميل Office 2016 و Office 365 من إدخالات القائمة ابدأ](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798)<br>
-[مكتب 2019 تجاري for Windows و Mac الأسئلة المتداولة](https://support.microsoft.com/help/4133312) 
+لمزيد من المعلومات، اطلع على:<br>
+[دليل النشر لـ Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
+[يبقى رقم الإصدار الرئيسي من Visio 2019 عند 16.0](https://docs.microsoft.com/deployoffice/office2019/overview#whats-stayed-the-same-in-office-2019)<br>
+[سيتم إزالة تعيين السنة في Office 2016 وتطبيقات العميل من إدخالات قائمة البدء](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1798)<br>
+[Office 2019 التجارية لويندوز وماك الأسئلة المتداولة](https://support.microsoft.com/help/4133312) 

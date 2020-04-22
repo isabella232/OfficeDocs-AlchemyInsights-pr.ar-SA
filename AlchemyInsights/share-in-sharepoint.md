@@ -1,9 +1,9 @@
 ---
-title: مشاركه في SharePoint
+title: المشاركة في SharePoint
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
-ms.date: 5/24/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 62b2c87b-6d09-4654-9bf0-868a5e73b7c7
-ms.openlocfilehash: e9b05de875969ac8fa1876898069f134e2bd96bb
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: 0498f7e6b4b0989f043afbb7573af54b5206a11a
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36549458"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742354"
 ---
-# <a name="how-to-share-in-sharepoint-online"></a>كيفيه مشاركه في SharePoint علي الإنترنت
+# <a name="how-to-share-in-sharepoint-online"></a>كيفية المشاركة في SharePoint Online
 
-لمشاركه موقع:
+لمشاركة موقع:
   
 1. افتح الموقع في مستعرض ويب.
     
-2. إذا كان الموقع ينتمي إلى مجموعه 365 Office ، انقر فوق رمز الإعدادات في الجزء العلوي الأيسر ، ثم انقر فوق **أذونات الموقع**. انقر فوق **دعوه الأشخاص**ثم قم باختيار أضافه أعضاء إلى مجموعه 365 Office أو مشاركه الموقع فقط. 
+2. إذا كان الموقع ينتمي إلى مجموعة Office 365، فانقر فوق رمز الإعدادات في أعلى اليمين، ثم انقر فوق **أذونات الموقع**. انقر على **دعوة الأشخاص**، ثم اختر إضافة أعضاء إلى مجموعة Office 365 أو مشاركة الموقع فقط. 
     
-    بالنسبة لموقع الاتصال ، انقر فوق **مشاركه الموقع** في الجزء العلوي الأيسر ، وادخل اسم الشخص ، ثم حدد مستوي الاذن (القراءة أو التحرير أو التحكم الكامل). 
+    بالنسبة لموقع اتصال، انقر فوق **مشاركة الموقع** في أعلى اليمين، وأدخل اسم الشخص، ثم حدد مستوى الإذن (اقرأ أو تحرير أو تحكم كامل). 
     
-    بالنسبة لموقع الفريق الكلاسيكي ، انقر علي **مشاركه** في الجزء العلوي الأيسر. ادخل اسم الشخص الذي تريد دعوته أو اكتب الكل لمشاركته مع كل شخص في مؤسستك. انقر فوق **مشاركه**.
+    للحصول على موقع فريق كلاسيكي، انقر فوق **مشاركة** في أعلى اليمين. أدخل اسم الشخص الذي تريد دعوته أو اكتب مشاركة الجميع مع كل شخص في مؤسستك. انقر فوق **مشاركة**.
     
-[التعرف علي كيفيه مشاركه ملف أو مجلد](https://go.microsoft.com/fwlink/?linkid=511430)
+[تعرّف على كيفية مشاركة ملف أو مجلد](https://go.microsoft.com/fwlink/?linkid=511430)
   
 

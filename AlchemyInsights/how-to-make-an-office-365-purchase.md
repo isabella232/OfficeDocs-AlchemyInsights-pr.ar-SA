@@ -1,5 +1,5 @@
 ---
-title: كيفيه جعل شراء Office 365
+title: كيفية إجراء عملية شراء Office 365
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,29 +12,29 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: 7f741a9aae0c4549f811b05b36498e7a201b7704
-ms.sourcegitcommit: df4c12727ce9c53b1abdc13c48c25cc00b73eb57
+ms.openlocfilehash: 19e4a7ffd7f64f744eeba2a7a34390309bfe9bb8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/01/2019
-ms.locfileid: "37921837"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759103"
 ---
-# <a name="how-to-make-an-office-365-purchase"></a>كيفيه جعل شراء Office 365
+# <a name="how-to-make-a-microsoft-365-purchase"></a>كيفية إجراء عملية شراء Microsoft 365
 
-يمكن اجراء عمليات الشراء في Office 365 في مركز الاداره.
+يمكن إجراء عمليات الشراء في Microsoft 365 في مركز المشرف.
   
-- لشراء اشتراك Office 365 ، انتقل إلى صفحه [خدمات شراء](https://go.microsoft.com/fwlink/p/?linkid=868433) **الفواتير** \> .
+- لشراء خطة، انتقل إلى صفحة [خدمات شراء](https://go.microsoft.com/fwlink/p/?linkid=868433) **الفوترة.** \>
 
-- لشراء تراخيص اضافيه ، انتقل إلى صفحه خدمات **الفواتير** \> [& الخدمات](https://go.microsoft.com/fwlink/p/?linkid=842054) . اختر الاشتراك الذي تريد أضافه تراخيص اليه ، ثم حدد **أضافه/أزاله التراخيص**.
+- لشراء تراخيص إضافية، انتقل إلى صفحة [خدمات & منتجات](https://go.microsoft.com/fwlink/p/?linkid=842054) **الفوترة.** \> اختر الاشتراك الذي تريد إضافة تراخيص إليه، ثم حدد **إضافة/إزالة التراخيص**.
   
-لمزيد من المعلومات ، راجع [شراء تراخيص للاشتراك التجاري في Office 365](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
+لمعرفة المزيد، راجع [شراء تراخيص Microsoft 365 للاشتراك في الأعمال.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)
 
-**استكشاف الاخطاء**
+**استكشاف الأخطاء وإصلاحها**
 
-إذا واجهتك مشكلات في تحميل الصفحة ، فجرب فتح صفحه الويب في مستعرض آخر ، أو حاول فتح الصفحة في نافذه مستعرض خاصه ، مثل نافذه InPrivate في Microsoft Edge أو نافذه التصفح المتخفي في Google Chrome. 
+إذا واجهت مشاكل أثناء تحميل الصفحة، فحاول فتح صفحة الويب في مستعرض آخر، أو حاول فتح الصفحة في نافذة مستعرض خاص، مثل نافذة InPrivate في Microsoft Edge أو نافذة incognito في Google Chrome. 
 
-**الموارد الاضافيه**
+**موارد إضافية**
   
-- [تعيين تراخيص للمستخدمين في Office 365 للعمل](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [تعيين تراخيص للمستخدمين في Microsoft 365 للأعمال](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
 
-- [إلغاء Office 365 للاعمال](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [إلغاء Microsoft 365 للأعمال](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)

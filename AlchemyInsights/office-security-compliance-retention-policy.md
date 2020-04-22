@@ -1,9 +1,9 @@
 ---
-title: مزيد من المعلومات حول نهج الاستبقاء
+title: مزيد من المعلومات حول نُهج الاحتفاظ
 ms.author: pebaum
 author: pebaum
 manager: laurawi
-ms.date: 08/14/2019
+ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
 ms.prod: ''
@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000048"
 - "1983"
-ms.openlocfilehash: 4885407578e959bddcdd8374d482d2f6d7a461fe
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 0f26865ab01e40b9a4429ada09150049f02416ea
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053392"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761255"
 ---
-# <a name="more-info-about-retention-policies"></a>مزيد من المعلومات حول نهج الاستبقاء
+# <a name="more-info-about-retention-policies"></a>مزيد من المعلومات حول نُهج الاحتفاظ
 
-بالنسبة لمعظم المؤسسات ، يزيد حجم بياناتها وتعقيدها يوميا-البريد الكتروني والمستندات والرسائل الفورية والمزيد. ان أداره هذه المعلومات أو ادارتها بفعالية أمر مهم ، ويمكن لسياسة الاستبقاء ان تساعدك علي تحقيق هذه الأهداف. لمزيد من المعلومات حول سياسات الاستبقاء ، يرجى زيارة هذه الروابط:
+بالنسبة لمعظم المؤسسات ، وحجم وتعقيد البيانات الخاصة بهم يتزايد يوميا -- البريد الإلكتروني والوثائق والرسائل الفورية ، وأكثر من ذلك. إدارة أو إدارة هذه المعلومات بشكل فعال أمر مهم، ويمكن أن تساعدك سياسة الاحتفاظ في تحقيق هذه الأهداف. لمزيد من المعلومات حول سياسات الاحتفاظ، يرجى زيارة هذه الروابط:
 
-## <a name="a-from-security-and-compliance-center"></a>A) من مركز الأمان والامتثال
+## <a name="a-from-security-and-compliance-center"></a>أ) من مركز الأمن والامتثال
 
-- انتقل إلى الأمان والتوافق > أداره البيانات > الاحتفاظ
+- الانتقال إلى الأمان والامتثال > إدارة البيانات > الاحتفاظ بها
   - راجع [هذه](https://docs.microsoft.com/office365/securitycompliance/retention-policies) المقالة
 
-- انتقل إلى الأمان والتوافق > eDiscovery> متقدمة eDiscovery 
+- انتقل إلى الأمان والامتثال > eDiscovery> المتقدمeDiscovery 
   - راجع [هذه](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases) المقالة
 
-- انتقل إلى الأمان والامتثال > التصنيفات > استبقاء
-  - انظر هذه المقالات
+- الانتقال إلى تصنيفات > الأمان والامتثال > الاحتفاظ بها
+  - راجع هذه المقالات
     - [تسميات الحساسية](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-    - [نظره عامه حول التسميات](https://docs.microsoft.com/office365/securitycompliance/labels)
+    - [نظرة عامة على التسميات](https://docs.microsoft.com/office365/securitycompliance/labels)
 
 ## <a name="b-legacy-ediscovery-policies"></a>ب) سياسات eDiscovery القديمة
 
@@ -45,11 +45,11 @@ ms.locfileid: "40053392"
 
 - راجع [هذه](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5) المقالة  
 
-## <a name="d-information-rights-management-irm"></a>د) أداره حقوق المعلومات (IRM)
+## <a name="d-information-rights-management-irm"></a>د) إدارة حقوق المعلومات (IRM)
 
-- انظر هذه المقالات
-  - [IRM علي قائمه/مكتبه](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
-  - [نظره عامه-IRM](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
+- راجع هذه المقالات
+  - [IRM على قائمة / مكتبة](https://support.office.com/article/apply-information-rights-management-to-a-list-or-library-3bdb5c4e-94fc-4741-b02f-4e7cc3c54aa1)
+  - [نظرة عامة على IRM](https://support.office.com/article/create-and-apply-information-management-policies-eb501fe9-2ef6-4150-945a-65a6451ee9e9)
 
 > [!Note]
-> نوصي بشده بالانتقال إلى سياسات الأمان والتوافق إذا كنت لا تزال تستخدم نهج eDiscovery القديمة أو IRM أو إغلاق الموقع وسياسات الحذف.
+> نوصي بشدة بالانتقال إلى سياسات الأمان والامتثال إذا كنت لا تزال تستخدم سياسات Legacy eDiscovery أو IRM أو إغلاق الموقع وحذفه.
