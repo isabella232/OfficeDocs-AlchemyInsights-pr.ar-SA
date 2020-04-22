@@ -1,8 +1,8 @@
 ---
-title: رمز الخطأ 550 5.7.705 رفض الوصول، تجاوز عتبة المستأجر
+title: رمز الخطأ 550 5.7.705 رفض الوصول، تجاوز المستأجر عتبة
 ms.author: chrisda
 author: chrisda
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.custom:
 - "336"
 - "1948"
 - "3100014"
-ms.openlocfilehash: 9424b396175dae23a74e45a13ddf3ea3562b5cff
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 14488ea7d067ee1f8d2a752c30a06f84a7ed9b33
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527206"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43702977"
 ---
-# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a><span data-ttu-id="432a4-102">رفض الوصول 550 5.7.705، تجاوز عتبة المستأجر</span><span class="sxs-lookup"><span data-stu-id="432a4-102">550 5.7.705 Access denied, tenant has exceeded threshold</span></span>
+# <a name="550-57705-access-denied-tenant-has-exceeded-threshold"></a><span data-ttu-id="36515-102">550 5.7.705 رفض الوصول، تجاوز المستأجر عتبة</span><span class="sxs-lookup"><span data-stu-id="36515-102">550 5.7.705 Access denied, tenant has exceeded threshold</span></span>
 
-<span data-ttu-id="432a4-103">تحدث هذه الرسالة عندما تم إرسال البريد العشوائي أو المجمع كثيرا بمؤسستك ونضعها كتلة البريد الصادر.</span><span class="sxs-lookup"><span data-stu-id="432a4-103">This message occurs when too much spam or bulk mail has been sent by your organization and we place a block on outgoing mail.</span></span>
-<span data-ttu-id="432a4-104">الأسباب شيوعاً هي حسابات المسؤول المكسور التي تم استخدامها لإنشاء روابط أو خوادم الداخلية المكسور.</span><span class="sxs-lookup"><span data-stu-id="432a4-104">Common causes are compromised on-premises servers or compromised admin accounts that have been used to create connectors.</span></span> <span data-ttu-id="432a4-105">أما شرط السماح للبريد الإلكتروني العشوائي بالمرور عبر المؤسسة.</span><span class="sxs-lookup"><span data-stu-id="432a4-105">Either condition can allow spam to pass through your organization.</span></span>
+<span data-ttu-id="36515-103">تحدث هذه الرسالة عندما يتم إرسال الكثير من الرسائل غير المرغوب فيها أو البريد المجمع من قبل مؤسستك ونضع كتلة على البريد الصادر.</span><span class="sxs-lookup"><span data-stu-id="36515-103">This message occurs when too much spam or bulk mail has been sent by your organization and we place a block on outgoing mail.</span></span>
+<span data-ttu-id="36515-104">يتم اختراق الأسباب الشائعة للخوادم الداخلية أو حسابات المسؤول التي تم اختراقها التي تم استخدامها لإنشاء الموصلات.</span><span class="sxs-lookup"><span data-stu-id="36515-104">Common causes are compromised on-premises servers or compromised admin accounts that have been used to create connectors.</span></span> <span data-ttu-id="36515-105">يمكن لأي من الشرطين السماح للرسائل غير المرغوب فيها بالمرور عبر مؤسستك.</span><span class="sxs-lookup"><span data-stu-id="36515-105">Either condition can allow spam to pass through your organization.</span></span>
 
-<span data-ttu-id="432a4-106">لإزالة هذه الكتلة، تحتاج إلى فهم وشرح السبب عامل دعم، بالإضافة إلى حل المشكلة الأساسية.</span><span class="sxs-lookup"><span data-stu-id="432a4-106">To remove this block, you need to understand and explain the cause to a support agent, as well as correct the underlying problem.</span></span>
-<span data-ttu-id="432a4-107">انقر فوق **الاتصال بنا** أدناه عندما تكون مستعدا.</span><span class="sxs-lookup"><span data-stu-id="432a4-107">Click **Contact us** below once you're ready.</span></span>
+<span data-ttu-id="36515-106">لإزالة هذه الكتلة، تحتاج إلى فهم وشرح السبب إلى عامل دعم، بالإضافة إلى تصحيح المشكلة الأساسية.</span><span class="sxs-lookup"><span data-stu-id="36515-106">To remove this block, you need to understand and explain the cause to a support agent, as well as correct the underlying problem.</span></span>
+<span data-ttu-id="36515-107">انقر **فوق الاتصال بنا** أدناه بمجرد أن تكون مستعدًا.</span><span class="sxs-lookup"><span data-stu-id="36515-107">Click **Contact us** below once you're ready.</span></span>

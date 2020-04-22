@@ -1,9 +1,9 @@
 ---
-title: استرداد Outlook.com BitLocker
+title: Outlook.com انتعاش BitLocker
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/14/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2381"
 - "9000545"
-ms.openlocfilehash: 0f9c7669a91c3bf197cd19d566296dd0dedf62cb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 39aa462e69d2636ee560504070d95e989c3cb0fb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36542724"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43681883"
 ---
-# <a name="bitlocker-recovery"></a><span data-ttu-id="87caa-102">استرداد BitLocker</span><span class="sxs-lookup"><span data-stu-id="87caa-102">BitLocker recovery</span></span>
+# <a name="bitlocker-recovery"></a><span data-ttu-id="25a16-102">انتعاش BitLocker</span><span class="sxs-lookup"><span data-stu-id="25a16-102">BitLocker recovery</span></span>
 
-<span data-ttu-id="87caa-103">انتقل إلى [الأجهزة](https://account.microsoft.com/devices/recoverykey) لعرض مفاتيح استرداد BitLocker.</span><span class="sxs-lookup"><span data-stu-id="87caa-103">Go to [Devices](https://account.microsoft.com/devices/recoverykey) to view your BitLocker recovery keys.</span></span>
+<span data-ttu-id="25a16-103">انتقل إلى [الأجهزة](https://account.microsoft.com/devices/recoverykey) لعرض مفاتيح استرداد BitLocker.</span><span class="sxs-lookup"><span data-stu-id="25a16-103">Go to [Devices](https://account.microsoft.com/devices/recoverykey) to view your BitLocker recovery keys.</span></span>
 
-<span data-ttu-id="87caa-104">راجع [البحث عن مفتاح استرداد BitLocker](https://support.microsoft.com/help/4026181) للحصول على مزيد من المعلومات.</span><span class="sxs-lookup"><span data-stu-id="87caa-104">See [Find my BitLocker recovery key](https://support.microsoft.com/help/4026181) for more information.</span></span>
+<span data-ttu-id="25a16-104">راجع [العثور على مفتاح](https://support.microsoft.com/help/4026181) استرداد BitLocker لمزيد من المعلومات.</span><span class="sxs-lookup"><span data-stu-id="25a16-104">See [Find my BitLocker recovery key](https://support.microsoft.com/help/4026181) for more information.</span></span>

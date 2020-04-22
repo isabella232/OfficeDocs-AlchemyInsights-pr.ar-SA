@@ -2,31 +2,31 @@
 title: المشاركة الخارجية مع موقع الفريق
 ms.author: pebaum
 author: pebaum
-ms.date: 1/3/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 22a229b6-b18a-43a8-9868-b32be87bc09e
-ms.openlocfilehash: a32b9a657f7a97203221378744619120eb28868a
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 05dc591bec1414fbc9f6eca9efcd0fdbf93bd9b9
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052096"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43702833"
 ---
-# <a name="external-sharing-with-a-team-site"></a><span data-ttu-id="af47d-102">المشاركة الخارجية مع موقع الفريق</span><span class="sxs-lookup"><span data-stu-id="af47d-102">External Sharing with a Team Site</span></span>
+# <a name="external-sharing-with-a-team-site"></a><span data-ttu-id="cf19c-102">المشاركة الخارجية مع موقع الفريق</span><span class="sxs-lookup"><span data-stu-id="cf19c-102">External Sharing with a Team Site</span></span>
 
-<span data-ttu-id="af47d-103">لتشغيل مشاركه المستخدم الخارجية لمواقع الفريق ، اتبع الخطوات التالية:</span><span class="sxs-lookup"><span data-stu-id="af47d-103">To turn on external user sharing for Team Sites, follow these steps:</span></span> 
+<span data-ttu-id="cf19c-103">لتشغيل مشاركة المستخدمين الخارجيين لمواقع الفريق، اتبع الخطوات التالية:</span><span class="sxs-lookup"><span data-stu-id="cf19c-103">To turn on external user sharing for Team Sites, follow these steps:</span></span> 
   
-1. <span data-ttu-id="af47d-104">في مركز مسؤول SharePoint الجديد ، انقر فوق **مواقع نشطه**.</span><span class="sxs-lookup"><span data-stu-id="af47d-104">In the new SharePoint admin center, click **Active Sites**.</span></span>
+1. <span data-ttu-id="cf19c-104">في مركز مسؤول SharePoint الجديد، انقر فوق **المواقع النشطة**.</span><span class="sxs-lookup"><span data-stu-id="cf19c-104">In the new SharePoint admin center, click **Active Sites**.</span></span>
   
-2. <span data-ttu-id="af47d-105">حدد موقعا يحتوي علي قالب **موقع فريق** .</span><span class="sxs-lookup"><span data-stu-id="af47d-105">Select a site that has a **Team Site** template.</span></span> 
+2. <span data-ttu-id="cf19c-105">حدد موقعًا يحتوي على قالب **موقع فريق.**</span><span class="sxs-lookup"><span data-stu-id="cf19c-105">Select a site that has a **Team Site** template.</span></span> 
   
-3. <span data-ttu-id="af47d-106">حدد زر **المشاركة** من القائمة العلوية.</span><span class="sxs-lookup"><span data-stu-id="af47d-106">Select the **Sharing** button from the top menu.</span></span> 
+3. <span data-ttu-id="cf19c-106">حدد زر **المشاركة** من القائمة العلوية.</span><span class="sxs-lookup"><span data-stu-id="cf19c-106">Select the **Sharing** button from the top menu.</span></span> 
   
- <span data-ttu-id="af47d-107">**ملاحظه**: بشكل افتراضي ، عند إنشاء موقع فريق حديث ، سيتم تعيين خيار المشاركة الخارجية إلى المستخدمين الخارجيين الجدد والحاليين.</span><span class="sxs-lookup"><span data-stu-id="af47d-107">**Note**: By default, when a Modern Team Site is created, the External sharing option will be set to New and existing external users.</span></span> 
+ <span data-ttu-id="cf19c-107">**ملاحظة:** بشكل افتراضي، عند إنشاء موقع فريق حديث، سيتم تعيين خيار المشاركة الخارجية إلى المستخدمين الخارجيين الجدد والحاليين.</span><span class="sxs-lookup"><span data-stu-id="cf19c-107">**Note**: By default, when a Modern Team Site is created, the External sharing option will be set to New and existing external users.</span></span> 
   
- <span data-ttu-id="af47d-108">**ملاحظه:** إذا كان لديك أكثر من موقع محدد ، سيظهر زر **المشاركة** معطلا.</span><span class="sxs-lookup"><span data-stu-id="af47d-108">**Note:** If you have more than one site selected, the **Sharing** button will appear disabled.</span></span> <span data-ttu-id="af47d-109">حدد موقعا واحدا فقط.</span><span class="sxs-lookup"><span data-stu-id="af47d-109">Select only one site.</span></span> 
+ <span data-ttu-id="cf19c-108">**ملاحظة:** إذا تم تحديد أكثر من موقع واحد، فسيظهر زر **المشاركة** معطلاً.</span><span class="sxs-lookup"><span data-stu-id="cf19c-108">**Note:** If you have more than one site selected, the **Sharing** button will appear disabled.</span></span> <span data-ttu-id="cf19c-109">حدد موقعًا واحدًا فقط.</span><span class="sxs-lookup"><span data-stu-id="cf19c-109">Select only one site.</span></span> 
   
 
