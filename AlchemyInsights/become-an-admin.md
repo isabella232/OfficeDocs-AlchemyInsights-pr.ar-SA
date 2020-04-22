@@ -1,8 +1,8 @@
 ---
-title: تصبح مسؤولا
+title: كن مشرفًا
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 4/6/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.custom:
 - "3"
 - "71"
 - "13"
-ms.openlocfilehash: 33657fd68cdcbc4b9762e641156f9800b7b58f4b
-ms.sourcegitcommit: 4ba462af6cc00ea563f10c3f4a3d50e46962c166
+ms.openlocfilehash: 36e4d335972edb66f59e6589c4f725fcb852b931
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/19/2019
-ms.locfileid: "38715407"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712337"
 ---
-# <a name="become-an-admin"></a><span data-ttu-id="34c51-102">تصبح مسؤولا</span><span class="sxs-lookup"><span data-stu-id="34c51-102">Become an Admin</span></span>
+# <a name="become-an-admin"></a><span data-ttu-id="e8e5c-102">كن مشرفًا</span><span class="sxs-lookup"><span data-stu-id="e8e5c-102">Become an Admin</span></span>
 
-<span data-ttu-id="34c51-103">للقيام بدور المسؤول للمؤسسة الخاصة بك ، تحتاج إلى السيطرة علي المستاجر في Office 365.</span><span class="sxs-lookup"><span data-stu-id="34c51-103">To assume the admin role for your organization, you need to take over the tenant in Office 365.</span></span>
+<span data-ttu-id="e8e5c-103">لتولي دور المشرف لمؤسستك، تحتاج إلى الاستيلاء على المستأجر.</span><span class="sxs-lookup"><span data-stu-id="e8e5c-103">To assume the admin role for your organization, you need to take over the tenant.</span></span>
   
-<span data-ttu-id="34c51-104">اتبع الإرشادات الواردة في هذا الدليل: [استيلاء المشرف](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover)</span><span class="sxs-lookup"><span data-stu-id="34c51-104">Follow the instructions in this guide: [Admin Takeover](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover)</span></span>
+<span data-ttu-id="e8e5c-104">اتبع الإرشادات الواردة في هذا الدليل: [الاستيلاء على المسؤول](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover)</span><span class="sxs-lookup"><span data-stu-id="e8e5c-104">Follow the instructions in this guide: [Admin Takeover](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover)</span></span>

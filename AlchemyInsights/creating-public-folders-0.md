@@ -1,9 +1,8 @@
 ---
-title: إنشاء المجلدات العمومية
+title: إنشاء مجلدات عامة
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
-ms.date: 5/9/2018
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,24 +11,24 @@ ms.custom:
 - "632"
 - "3500007"
 ms.assetid: a53e3a0a-db1c-410e-8340-e93c06155f60
-ms.openlocfilehash: 6535ee5e133c6674e460de3b54fe35602bc80915
-ms.sourcegitcommit: 7101e29c3c890ee23dc10a10d608f90f4de13b3a
+ms.openlocfilehash: c1bd1733530cec42a3403a330fe4688cd8b9c6ae
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/26/2019
-ms.locfileid: "36631759"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715347"
 ---
-# <a name="creating-public-folders"></a><span data-ttu-id="ac52f-102">إنشاء المجلدات العمومية</span><span class="sxs-lookup"><span data-stu-id="ac52f-102">Creating public folders</span></span>
+# <a name="creating-public-folders"></a><span data-ttu-id="86537-102">إنشاء مجلدات عامة</span><span class="sxs-lookup"><span data-stu-id="86537-102">Creating public folders</span></span>
 
-<span data-ttu-id="ac52f-103">قبل استخدام المستخدمين المجلدات العمومية في Office 365، ستحتاج إلى إنشاء صندوق بريد مجلد عمومي واحد على الأقل.</span><span class="sxs-lookup"><span data-stu-id="ac52f-103">Before your users can use public folders in Office 365, you will need to create at least one public folder mailbox.</span></span> <span data-ttu-id="ac52f-104">لإنشاء:</span><span class="sxs-lookup"><span data-stu-id="ac52f-104">To create:</span></span>
+<span data-ttu-id="86537-103">قبل أن يتمكن المستخدمون من استخدام المجلدات العامة، ستحتاج إلى إنشاء علبة بريد مجلد عام واحدة على الأقل.</span><span class="sxs-lookup"><span data-stu-id="86537-103">Before your users can use public folders, you will need to create at least one public folder mailbox.</span></span> <span data-ttu-id="86537-104">لإنشاء:</span><span class="sxs-lookup"><span data-stu-id="86537-104">To create:</span></span>
   
-1. <span data-ttu-id="ac52f-105">في مركز مسؤول Microsoft 365، انتقل إلى **مراكز الإدارة** \> **Exchange**.</span><span class="sxs-lookup"><span data-stu-id="ac52f-105">In the Microsoft 365 admin center, go to **Admin centers** \> **Exchange**.</span></span>
+1. <span data-ttu-id="86537-105">في مركز إدارة Microsoft 365، انتقل إلى **مراكز** \> الإدارة **Exchange**.</span><span class="sxs-lookup"><span data-stu-id="86537-105">In the Microsoft 365 admin center, go to **Admin centers** \> **Exchange**.</span></span>
 
-2. <span data-ttu-id="ac52f-106">الانتقال إلى **المجلدات العمومية** \> **علب بريد المجلد العمومي**، ثم انقر فوق **إضافة**.</span><span class="sxs-lookup"><span data-stu-id="ac52f-106">Navigate to **Public folders** \> **Public folder mailboxes**, and then click **Add**.</span></span>
+2. <span data-ttu-id="86537-106">انتقل إلى صناديق بريد **المجلدات** \> **العامة**، ثم انقر فوق **إضافة**.</span><span class="sxs-lookup"><span data-stu-id="86537-106">Navigate to **Public folders** \> **Public folder mailboxes**, and then click **Add**.</span></span>
 
-3. <span data-ttu-id="ac52f-107">في **علبة البريد المجلد العمومي**بتوفير اسم للمجلد العمومي علبة البريد.</span><span class="sxs-lookup"><span data-stu-id="ac52f-107">In **Public Folder Mailbox**, provide a name for the public folder mailbox.</span></span>
+3. <span data-ttu-id="86537-107">في **علبة بريد المجلد العمومي،** قم بتوفير اسم لعلبة بريد المجلد العمومي.</span><span class="sxs-lookup"><span data-stu-id="86537-107">In **Public Folder Mailbox**, provide a name for the public folder mailbox.</span></span>
 
-4. <span data-ttu-id="ac52f-108">انقر فوق **حفظ**.</span><span class="sxs-lookup"><span data-stu-id="ac52f-108">Click **Save**.</span></span>
+4. <span data-ttu-id="86537-108">انقر فوق **حفظ**.</span><span class="sxs-lookup"><span data-stu-id="86537-108">Click **Save**.</span></span>
 
-<span data-ttu-id="ac52f-109">بمجرد اكتمال إنشاء صندوق بريد، يمكنك البدء في إنشاء المجلدات الفردية أو أخبر المستخدمين [البدء في إنشاء واستخدام المجلدات العمومية في Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).</span><span class="sxs-lookup"><span data-stu-id="ac52f-109">Once a mailbox has been created, you can start creating individual folders or tell your users to [start creating and using public folders in Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).</span></span>
+<span data-ttu-id="86537-109">بمجرد إنشاء علبة بريد، يمكنك البدء في إنشاء مجلدات فردية أو إخبار المستخدمين [ببدء إنشاء المجلدات العامة واستخدامها في Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).</span><span class="sxs-lookup"><span data-stu-id="86537-109">Once a mailbox has been created, you can start creating individual folders or tell your users to [start creating and using public folders in Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).</span></span>
   

@@ -1,9 +1,9 @@
 ---
-title: لصناعه السيارات في تطبيق تسميات حساسية
+title: تطبيق تسميات الحساسية تلقائيًا
 ms.author: pebaum
 author: pebaum
 manager: laurawi
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
 ms.prod: office-online-server
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: 95de9df224d3450678b56d04e6d823f4874abcd5
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: d812b8ba6f80b61f48502df53c67a17c102d22b1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050296"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712373"
 ---
-# <a name="auto-apply-sensitivity-labels"></a><span data-ttu-id="d7d57-102">لصناعه السيارات في تطبيق تسميات حساسية</span><span class="sxs-lookup"><span data-stu-id="d7d57-102">Auto-apply sensitivity labels</span></span>
+# <a name="auto-apply-sensitivity-labels"></a><span data-ttu-id="92a18-102">تطبيق تسميات الحساسية تلقائيًا</span><span class="sxs-lookup"><span data-stu-id="92a18-102">Auto-apply sensitivity labels</span></span>
 
-<span data-ttu-id="d7d57-103">يمكن تطبيق تسميات الحساسية يدويا علي المحتوي من قبل المستخدمين ، أو يمكنك تكوينها ليتم تطبيقها تلقائيا علي المحتوي.</span><span class="sxs-lookup"><span data-stu-id="d7d57-103">Sensitivity labels can be manually applied to content by users, or you can configure them to be automatically applied to content.</span></span>
+<span data-ttu-id="92a18-103">يمكن تطبيق تسميات الحساسية يدويًا على المحتوى من قبل المستخدمين، أو يمكنك تكوينها ليتم تطبيقها تلقائيًا على المحتوى.</span><span class="sxs-lookup"><span data-stu-id="92a18-103">Sensitivity labels can be manually applied to content by users, or you can configure them to be automatically applied to content.</span></span>
 
-<span data-ttu-id="d7d57-104">يؤدي تطبيق تسميات الحساسية تلقائيا إلى أزاله الحاجة إلى تدريب المستخدمين علي كيفيه تصنيف المحتوي والحاجة إلى اعلامهم بتكوينات النهج.</span><span class="sxs-lookup"><span data-stu-id="d7d57-104">Automatically applying sensitivity labels removes the need to train users on how to classify content and the need to notify them of policy configurations.</span></span>
+<span data-ttu-id="92a18-104">يؤدي تطبيق تسميات الحساسية تلقائيًا إلى إزالة الحاجة إلى تدريب المستخدمين على كيفية تصنيف المحتوى والحاجة إلى إخطارهم بتكوينات النهج.</span><span class="sxs-lookup"><span data-stu-id="92a18-104">Automatically applying sensitivity labels removes the need to train users on how to classify content and the need to notify them of policy configurations.</span></span>
 
-<span data-ttu-id="d7d57-105">لتطبيق التسميات تلقائيا ، يكون التالي مطلوبا:</span><span class="sxs-lookup"><span data-stu-id="d7d57-105">To apply labels automatically, the following is required:</span></span>
+<span data-ttu-id="92a18-105">لتطبيق التسميات تلقائيًا، يجب ما يلي:</span><span class="sxs-lookup"><span data-stu-id="92a18-105">To apply labels automatically, the following is required:</span></span>
 
-- <span data-ttu-id="d7d57-106">اشتراك P2 حماية المعلومات Azure</span><span class="sxs-lookup"><span data-stu-id="d7d57-106">Azure Information Protection P2 subscription</span></span>
-- [<span data-ttu-id="d7d57-107">تحميل وتثبيت حماية المعلومات Azure الموحدة العميل وضع العلامات</span><span class="sxs-lookup"><span data-stu-id="d7d57-107">Download and install the Azure Information Protection unified labeling client</span></span>](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- <span data-ttu-id="92a18-106">اشتراك حماية المعلومات Azure P2</span><span class="sxs-lookup"><span data-stu-id="92a18-106">Azure Information Protection P2 subscription</span></span>
+- [<span data-ttu-id="92a18-107">تنزيل وتثبيت عميل تسمية حماية المعلومات Azure</span><span class="sxs-lookup"><span data-stu-id="92a18-107">Download and install the Azure Information Protection unified labeling client</span></span>](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-<span data-ttu-id="d7d57-108">نحن نعمل علي الدعم الأصلي الذي لن يتطلب حماية معلومات Azure الموحدة العميل التسمية في المستقبل.</span><span class="sxs-lookup"><span data-stu-id="d7d57-108">We're working on native support that won't require the Azure Information Protection unified labeling client in the future.</span></span>
+<span data-ttu-id="92a18-108">نحن نعمل على الدعم الأصلي الذي لن يتطلب عميل تسمية موحد ة لحماية المعلومات Azure في المستقبل.</span><span class="sxs-lookup"><span data-stu-id="92a18-108">We're working on native support that won't require the Azure Information Protection unified labeling client in the future.</span></span>
 
-<span data-ttu-id="d7d57-109">حاليا ، يدعم Windows فقط العميل الموحد لوضع العلامات.</span><span class="sxs-lookup"><span data-stu-id="d7d57-109">Currently, only Windows supports the unified labeling client.</span></span>  <span data-ttu-id="d7d57-110">الميزة غير معتمده حتى الآن علي ماك ، iOS واندرويد.</span><span class="sxs-lookup"><span data-stu-id="d7d57-110">The feature is not yet supported on Mac, iOS and Android.</span></span>
+<span data-ttu-id="92a18-109">حالياً، يدعم Windows فقط عميل وضع العلامات الموحدة.</span><span class="sxs-lookup"><span data-stu-id="92a18-109">Currently, only Windows supports the unified labeling client.</span></span>  <span data-ttu-id="92a18-110">الميزة غير معتمدة بعد على ماك، دائرة الرقابة الداخلية والروبوت.</span><span class="sxs-lookup"><span data-stu-id="92a18-110">The feature is not yet supported on Mac, iOS and Android.</span></span>
 
-<span data-ttu-id="d7d57-111">لمزيد من المعلومات حول تسميات الحساسية وتطبيقها تلقائيا علي المحتوي ، راجع:</span><span class="sxs-lookup"><span data-stu-id="d7d57-111">For more information on sensitivity labels and applying them automatically to content,  see:</span></span>
+<span data-ttu-id="92a18-111">لمزيد من المعلومات حول تسميات الحساسية وتطبيقها تلقائيًا على المحتوى، راجع:</span><span class="sxs-lookup"><span data-stu-id="92a18-111">For more information on sensitivity labels and applying them automatically to content,  see:</span></span>
 
-- [<span data-ttu-id="d7d57-112">نظره عامه حول علامات الحساسية</span><span class="sxs-lookup"><span data-stu-id="d7d57-112">Overview of sensitivity labels</span></span>](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
-- [<span data-ttu-id="d7d57-113">تطبيق تسميه الحساسية علي المحتوي تلقائيا</span><span class="sxs-lookup"><span data-stu-id="d7d57-113">Apply a sensitivity label to content automatically</span></span>](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [<span data-ttu-id="92a18-112">نظرة عامة على تسميات الحساسية</span><span class="sxs-lookup"><span data-stu-id="92a18-112">Overview of sensitivity labels</span></span>](https://docs.microsoft.com/office365/securitycompliance/sensitivity-labels)
+- [<span data-ttu-id="92a18-113">تطبيق تسمية حساسية على المحتوى تلقائيًا</span><span class="sxs-lookup"><span data-stu-id="92a18-113">Apply a sensitivity label to content automatically</span></span>](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)

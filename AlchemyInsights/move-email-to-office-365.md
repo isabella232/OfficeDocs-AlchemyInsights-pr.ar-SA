@@ -1,5 +1,5 @@
 ---
-title: نقل البريد الإلكتروني إلى Office 365
+title: نقل البريد الإلكتروني إلى Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,18 +12,18 @@ ms.custom:
 - "640"
 - "3500008"
 ms.assetid: c360a785-bfff-4f8a-9a91-44e40f696799
-ms.openlocfilehash: bd0453307e39f4eeddf666e9a1b7f56adec89bec
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: b8117d10f4e2062a3313488d626be9cb92654bd6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666863"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713597"
 ---
-# <a name="move-email-to-office-365"></a><span data-ttu-id="249e6-102">نقل البريد الإلكتروني إلى Office 365</span><span class="sxs-lookup"><span data-stu-id="249e6-102">Move email to Office 365</span></span>
+# <a name="move-email-to-microsoft-365"></a><span data-ttu-id="f101d-102">نقل البريد الإلكتروني إلى Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="f101d-102">Move email to Microsoft 365</span></span>
 
-<span data-ttu-id="249e6-103">لديك العديد من الخيارات لترحيل رسائل البريد الإلكتروني إلى Office 365.</span><span class="sxs-lookup"><span data-stu-id="249e6-103">You have several options for migrating email to Office 365.</span></span> <span data-ttu-id="249e6-104">يساعدك على اختيار أفضل للبيئة الخاصة بك [Office 365 مرشد ترحيل البريد](https://aka.ms/alchemyinsight-mailmigrationadvisor) وأيضا يرشدك أثناء ترحيل البريد.</span><span class="sxs-lookup"><span data-stu-id="249e6-104">The [Office 365 mail migration advisor](https://aka.ms/alchemyinsight-mailmigrationadvisor) helps you choose the best one for your environment and also guides you through the mail migration.</span></span>
+<span data-ttu-id="f101d-103">لديك العديد من الخيارات لترحيل البريد الإلكتروني إلى Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="f101d-103">You have several options for migrating email to Microsoft 365.</span></span> <span data-ttu-id="f101d-104">يساعدك [مستشار ترحيل البريد Microsoft 365](https://aka.ms/alchemyinsight-mailmigrationadvisor) على اختيار أفضل واحد لبيئتك ويرشدك أيضًا خلال ترحيل البريد.</span><span class="sxs-lookup"><span data-stu-id="f101d-104">The [Microsoft 365 mail migration advisor](https://aka.ms/alchemyinsight-mailmigrationadvisor) helps you choose the best one for your environment and also guides you through the mail migration.</span></span>
   
-<span data-ttu-id="249e6-105">لمعرفة الخيارات الخاصة بك دون الحاجة إلى تشغيل الترحيل، راجع [يقرر على مسار ترحيل](https://docs.microsoft.com/Exchange/mailbox-migration/decide-on-a-migration-path).</span><span class="sxs-lookup"><span data-stu-id="249e6-105">To read about your options without starting the migration, please see [Decide on a migration path](https://docs.microsoft.com/Exchange/mailbox-migration/decide-on-a-migration-path).</span></span>
+<span data-ttu-id="f101d-105">لقراءة خياراتك دون بدء الترحيل، يرجى الاطلاع [على تحديد مسار الترحيل](https://docs.microsoft.com/Exchange/mailbox-migration/decide-on-a-migration-path).</span><span class="sxs-lookup"><span data-stu-id="f101d-105">To read about your options without starting the migration, please see [Decide on a migration path](https://docs.microsoft.com/Exchange/mailbox-migration/decide-on-a-migration-path).</span></span>
 
-<span data-ttu-id="249e6-106">الرجاء أيضا التحقق من [اعتماد Office 365 مع FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) الصفحة للحصول على تعليمات مساعدة الهجرة، إذا توافرت فيهم الشروط.</span><span class="sxs-lookup"><span data-stu-id="249e6-106">Please also check the [Adopt Office 365 with FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) page for assisted help with migration, if eligible.</span></span>
+<span data-ttu-id="f101d-106">يُرجى أيضًا التحقق من [اعتماد Microsoft 365 باستخدام](https://www.microsoft.com/fasttrack/microsoft-365/office-365) صفحة FastTrack للحصول على مساعدة في الترحيل، إذا كانت مؤهلة.</span><span class="sxs-lookup"><span data-stu-id="f101d-106">Please also check the [Adopt Microsoft 365 with FastTrack](https://www.microsoft.com/fasttrack/microsoft-365/office-365) page for assisted help with migration, if eligible.</span></span>
   

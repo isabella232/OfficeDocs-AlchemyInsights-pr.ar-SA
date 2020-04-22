@@ -1,43 +1,36 @@
 ---
-title: حلول للمشاكل حول تثبيت office علي "ملقم المحطة الطرفية"
+title: حلول للمشكلات حول تثبيت المكتب على خادم المحطة الطرفية
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
-ms.openlocfilehash: bed91bf59219a19d5742d3ca4a61718c34b5c774
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: da69592fd0f55a4bfce45d271aeca5cde1f659b2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36501459"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712661"
 ---
-# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a><span data-ttu-id="38a00-102">حلول للمشاكل حول تثبيت office علي "ملقم المحطة الطرفية"</span><span class="sxs-lookup"><span data-stu-id="38a00-102">Solutions for issues around installing office on a Terminal Server</span></span>
+# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a><span data-ttu-id="48b5d-102">حلول للمشكلات حول تثبيت المكتب على خادم المحطة الطرفية</span><span class="sxs-lookup"><span data-stu-id="48b5d-102">Solutions for issues around installing office on a Terminal Server</span></span>
 
-<span data-ttu-id="38a00-103">لاستخدام تنشيط الكمبيوتر المشتركة ، يجب ان يكون لديك خطه 365 Office التي تتضمن Office 365 ProPlus.</span><span class="sxs-lookup"><span data-stu-id="38a00-103">To use shared computer activation, you must have an Office 365 plan that includes Office 365 ProPlus.</span></span>
+<span data-ttu-id="48b5d-103">لاستخدام تنشيط الكمبيوتر المشترك، يجب أن يكون لديك اشتراك يتضمن تطبيقات Microsoft 365 للمؤسسات.</span><span class="sxs-lookup"><span data-stu-id="48b5d-103">To use shared computer activation, you must have a subscription that includes Microsoft 365 Apps for enterprise.</span></span>
   
-- <span data-ttu-id="38a00-104">تحقق من تمكين تنشيط الكمبيوتر المشتركة ل Office 365 ProPlus</span><span class="sxs-lookup"><span data-stu-id="38a00-104">Verify that shared computer activation is enabled for Office 365 ProPlus</span></span>
-    
-- <span data-ttu-id="38a00-105">تحقق من نجاح التنشيط ل Office 365 ProPlus</span><span class="sxs-lookup"><span data-stu-id="38a00-105">Verify that activation for Office 365 ProPlus succeeded</span></span>
-    
-- <span data-ttu-id="38a00-106">مراجعه رسائل الخطا لتنشيط الكمبيوتر المشترك:</span><span class="sxs-lookup"><span data-stu-id="38a00-106">Review error messages for shared computer activation:</span></span>
-    
-  - <span data-ttu-id="38a00-107">"لا يمكن استخدام المنتجات التي وجدناها في حسابك لتنشيط Office في سيناريوهات الكمبيوتر المشتركة"</span><span class="sxs-lookup"><span data-stu-id="38a00-107">"The products we found in your account cannot be used to activate Office in shared computer scenarios"</span></span>
+- <span data-ttu-id="48b5d-104">التحقق من تمكين تنشيط الكمبيوتر المشترك</span><span class="sxs-lookup"><span data-stu-id="48b5d-104">Verify that shared computer activation is enabled</span></span>
+- <span data-ttu-id="48b5d-105">التحقق من نجاح التنشيط</span><span class="sxs-lookup"><span data-stu-id="48b5d-105">Verify that activation succeeded</span></span>
+- <span data-ttu-id="48b5d-106">مراجعة رسائل الخطأ لتنشيط الكمبيوتر المشترك:</span><span class="sxs-lookup"><span data-stu-id="48b5d-106">Review error messages for shared computer activation:</span></span>
+- <span data-ttu-id="48b5d-107">"لا يمكن استخدام المنتجات التي وجدناها في حسابك لتنشيط Office في سيناريوهات الكمبيوتر المشتركة"</span><span class="sxs-lookup"><span data-stu-id="48b5d-107">"The products we found in your account cannot be used to activate Office in shared computer scenarios"</span></span>
   
-<span data-ttu-id="38a00-108">يعني هذا الخطا انه لم يكن لديك خطه 365 Office التي تتضمن Office 365 ProPlus.</span><span class="sxs-lookup"><span data-stu-id="38a00-108">This error means that you don't have an Office 365 plan that includes Office 365 ProPlus.</span></span>
-    
-  - <span data-ttu-id="38a00-109">"منتج غير مرخص"</span><span class="sxs-lookup"><span data-stu-id="38a00-109">"Unlicensed Product"</span></span>
-    
-  - <span data-ttu-id="38a00-110">تحقق من ان المستخدم تم تعيين ترخيص ل Office 365 ProPlus.</span><span class="sxs-lookup"><span data-stu-id="38a00-110">Check that the user is assigned a license for Office 365 ProPlus.</span></span>
-    
-  - <span data-ttu-id="38a00-111">تحقق من ان المستخدم بتسجيل الدخول مع حساب المستخدم الخاص بها ل Office 365</span><span class="sxs-lookup"><span data-stu-id="38a00-111">Check that the user signs in with her user account for Office 365</span></span>
-    
-  - <span data-ttu-id="38a00-112">تحقق من وجود اتصال بين الكمبيوتر المشترك والإنترنت.</span><span class="sxs-lookup"><span data-stu-id="38a00-112">Check that there is connectivity between the shared computer and the Internet.</span></span>
-    
-<span data-ttu-id="38a00-113">للحصول علي تلميحات استكشاف الأخطاء وإصلاحها ، الرجاء مراجعه: [استكشاف مشكلات مع تنشيط الكمبيوتر المشترك ل Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)</span><span class="sxs-lookup"><span data-stu-id="38a00-113">For other troubleshooting tips, please see: [Troubleshoot issues with shared computer activation for Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)</span></span>
-  
+<span data-ttu-id="48b5d-108">يعني هذا الخطأ أنه ليس لديك اشتراك يتضمن Microsoft 365 Apps للمؤسسات.</span><span class="sxs-lookup"><span data-stu-id="48b5d-108">This error means that you don't have a subscription that includes Microsoft 365 Apps for enterprise.</span></span>
 
+<span data-ttu-id="48b5d-109">"منتج غير مرخص"</span><span class="sxs-lookup"><span data-stu-id="48b5d-109">"Unlicensed Product"</span></span>
+
+- <span data-ttu-id="48b5d-110">تأكد من تعيين ترخيص للمستخدم لتطبيقات Microsoft 365 للمؤسسات.</span><span class="sxs-lookup"><span data-stu-id="48b5d-110">Check that the user is assigned a license for Microsoft 365 Apps for enterprise.</span></span>
+- <span data-ttu-id="48b5d-111">تأكد من تسجيل الدخول للمستخدم باستخدام حساب المستخدم الخاص به.</span><span class="sxs-lookup"><span data-stu-id="48b5d-111">Check that the user signs in with their user account.</span></span>
+- <span data-ttu-id="48b5d-112">تأكد من وجود اتصال بين الكمبيوتر المشترك والإنترنت.</span><span class="sxs-lookup"><span data-stu-id="48b5d-112">Check that there is connectivity between the shared computer and the Internet.</span></span>
+
+<span data-ttu-id="48b5d-113">للحصول على نصائح أخرى لاستكشاف الأخطاء وإصلاحها، يرجى الاطلاع [على: استكشاف الأخطاء وإصلاحها مع تنشيط الكمبيوتر المشترك](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)</span><span class="sxs-lookup"><span data-stu-id="48b5d-113">For other troubleshooting tips, please see: [Troubleshoot issues with shared computer activation](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)</span></span>

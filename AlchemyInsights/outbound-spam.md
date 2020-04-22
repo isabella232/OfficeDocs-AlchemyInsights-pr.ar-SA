@@ -1,9 +1,9 @@
 ---
-title: الرسائل غير المرغوب فيها الصادرة
+title: البريد المزعج الصادر
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,13 +11,13 @@ localization_priority: Normal
 ms.custom:
 - "2643"
 ms.assetid: ''
-ms.openlocfilehash: 8688e0f57e3ec6da9a1fc3613b40aed37dba0bc3
-ms.sourcegitcommit: 4fa8325e569dbec489d0518f69df0022626e1d2f
+ms.openlocfilehash: eeffecfd952043aa4323d3ec4fc7e7781fe8646e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/18/2019
-ms.locfileid: "37026816"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712949"
 ---
-# <a name="outbound-spam"></a><span data-ttu-id="6ff40-102">الرسائل غير المرغوب فيها الصادرة</span><span class="sxs-lookup"><span data-stu-id="6ff40-102">Outbound spam</span></span>
+# <a name="outbound-spam"></a><span data-ttu-id="5be0a-102">البريد المزعج الصادر</span><span class="sxs-lookup"><span data-stu-id="5be0a-102">Outbound spam</span></span>
 
-<span data-ttu-id="6ff40-103">إذا كنت ترى إيجابيات خاطئة للبريد المزعج الصادر (يتم وضع علامة جيدة على الرسائل الصادرة كرسائل غير مرغوب فيها)، فافتح تذكرة دعم تحتوي على رسائل مثل.</span><span class="sxs-lookup"><span data-stu-id="6ff40-103">If you're seeing false positives for outbound spam (good outbound messages being marked as spam), open a support ticket with example messages.</span></span>
+<span data-ttu-id="5be0a-103">إذا كنت ترى إيجابيات خاطئة للرسائل غير المرغوب فيها الصادرة (يتم وضع علامة على الرسائل الصادرة الجيدة كرسائل غير مرغوب فيها)، فافتح تذكرة دعم تحتوي على رسائل مثال.</span><span class="sxs-lookup"><span data-stu-id="5be0a-103">If you're seeing false positives for outbound spam (good outbound messages being marked as spam), open a support ticket with example messages.</span></span>
