@@ -11,15 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2446"
 - "9000610"
-ms.openlocfilehash: 2def74d86b4c4a5e22879c568bff79b77515bccd
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 63573912b4beb290a0289c53ccd543271c19a76a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37769146"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714209"
 ---
-# <a name="what-is-autosave"></a>ما هو الحفظ التلقائي ؟
+# <a name="what-is-autosave"></a>ما هو الحفظ التلقائي؟
 
-الحفظ التلقائي هي ميزه متوفرة في Excel و Word و PowerPoint لمشتركي Office 365 التي تقوم بحفظ الملف تلقائيا ، كل بضع ثوان ، عند العمل. 
+الحفظ التلقائي هو ميزة متوفرة في Excel و Word و PowerPoint لمشتركي Microsoft 365 التي تحفظ الملف تلقائيًا ، كل بضع ثوانٍ ، أثناء العمل. 
 
-للاسئله المتداولة ، راجع [ما هو الحفظ التلقائي ؟](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)
+للحصول على الأسئلة المتداولة، راجع [ما هو الحفظ التلقائي؟](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)

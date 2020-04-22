@@ -1,8 +1,8 @@
 ---
-title: تقويم 402-O365Groups
+title: تقويم 402 - O365Groups
 ms.author: chrisda
 author: chrisda
-ms.date: 2/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -10,13 +10,13 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 402
 ms.assetid: 3f6b7230-28a3-40d9-b30a-c7f252b91d37
-ms.openlocfilehash: 72a8f0dd4b6e93170da967160549f197b0ec73cd
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 84268236862797049b47228ef59abedf19312152
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32396041"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711762"
 ---
-# <a name="calenders-in-office-365-groups"></a>Calenders في مجموعات Office 365
+# <a name="calenders-in-office-365-groups"></a>كالندرز في مجموعات Office 365
 
 لمزيد من المعلومات حول التقويمات في مجموعات Office 365، راجع [التعرف على مجموعات Office 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2.aspx).

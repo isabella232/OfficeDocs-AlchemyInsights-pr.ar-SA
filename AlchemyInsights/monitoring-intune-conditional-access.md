@@ -1,31 +1,31 @@
 ---
-title: مراقبة الوصول الشرطي إينتوني
+title: مراقبة الوصول الشرطي Intune
 ms.author: pebaum
 author: pebaum
-ms.date: 1/23/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: bc1d971d-84b0-447f-971e-7dc37ebeb5af
-ms.openlocfilehash: 16da5065f510a32f18c1fde4aa2f0f7c0ac9f73e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 924dc9cc741697b3784203d5f441769f7601b8d1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548918"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713669"
 ---
-# <a name="troubleshoot-issues-with-microsoft-intune"></a>استكشاف مشكلات Microsoft إينتوني
+# <a name="troubleshoot-issues-with-microsoft-intune"></a>استكشاف المشاكل وإصلاحها مع Microsoft Intune
 
-مراجعة الموارد المذكورة أدناه لحل المشكلة التي تواجهها الآن.
+راجع الموارد المذكورة أدناه لحل مشكلتك الآن.
   
-1. استخدام [إينتوني مدخل استكشاف الأخطاء وإصلاحها](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) لتشخيص وحل بعض حالات الفشل الشائعة. مراجعة [هذا المستند ](https://docs.microsoft.com/intune/help-desk-operators)للحصول على مزيد من التفاصيل.
+1. استخدم [بوابة استكشاف الأخطاء وإصلاحها Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) لتشخيص بعض حالات الفشل الشائعة وحلها. راجع [هذا المستند ](https://docs.microsoft.com/intune/help-desk-operators)لمزيد من التفاصيل.
     
-2. مراجعة [إينتوني TechNet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)للعثور على الإجابات والحلول للمشاكل الشائعة.
+2. مراجعة [Intune TechNet ](https://social.technet.microsoft.com/forums/home?forum=microsoftintuneprod)للعثور على إجابات وحلول للقضايا الشائعة.
     
-3. تحقق من [الصحة خدمة](https://portal.office.com/AdminPortal/Home#/servicehealth) لمعرفة حالة الخدمة. 
+3. تحقق من [صحة الخدمة](https://portal.office.com/AdminPortal/Home#/servicehealth) لمعرفة حالة الخدمة. 
     
-4. مراجعة [الوثائق إينتوني](https://docs.microsoft.com/intune/) للتخطيط والإجرائية، استكشاف الأخطاء وإصلاحها المقالات والمزيد. 
+4. راجع [وثائق Intune](https://docs.microsoft.com/intune/) للتخطيط وكيفية استكشاف الأخطاء وإصلاحها والمزيد. 
     
 

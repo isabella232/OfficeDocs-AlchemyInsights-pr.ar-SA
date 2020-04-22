@@ -1,32 +1,32 @@
 ---
-title: معلومات عن احتجاز دعوى قضائية أو في مكان الاستمرار
+title: معلومات عن عقد التقاضي أو في مكان الانتظار
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 11/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: c3f47e3230270e69b8a5bb7ee4167b0b534460dd
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 3ed8158c226d10926551514fa162f31ed7943464
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498942"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711006"
 ---
-# <a name="about-litigation-holds-and-in-place-holds"></a>حول الاحتجاز المقاضاة والاحتجاز في المكان
+# <a name="about-litigation-holds-and-in-place-holds"></a>حول التقاضي يحمل وتحتجز في مكان
 
-- لتطبيق دعوى قضائية موضعية أو الاحتجاز اضغط لعلبة بريد، على [ترخيص Exchange عبر الإنترنت خطة 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) مطلوب. إذا كان لديك أية خطة أخرى، تعيين ترخيص منفصل [Exchange للأرشفة على الإنترنت](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) للحساب. 
+- لتطبيق عقد دعوى قضائية أو عقد في مكان إلى علبة بريد، مطلوب [ترخيص Exchange Online Plan 2.](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) إذا كان لديك أي خطة أخرى، قم بتعيين ترخيص [أرشفة Exchange عبر الإنترنت](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) منفصل إلى الحساب. 
     
-- **لتمكين قائمة احتجاز دعوى قضائية** لمستخدم واحد، اتبع الخطوات المذكورة [هنا](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). عند تمكين الاحتجاز دعوى قضائية، يتم وضع كافة المحتويات الموجودة في علبة البريد قيد الاحتجاز.
+- **لتمكين عقد التقاضي** لمستخدم واحد، اتبع الخطوات الموضحة [هنا](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). عند تمكين تعليق التقاضي، يتم وضع كافة المحتويات في علبة البريد في الانتظار.
     
-- لتطبيق **عقد في نفس المكان على المستخدمين واحد** أو قائمة احتجاز **كافة علب البريد الموجودة في المؤسسة بأكملها**، يمكنك استخدام "نهج الاستبقاء" في مركز Office 365 الأمان والتوافق باتباع الخطوات المفصلة [هنا](https://docs.microsoft.com/Office365/securitycompliance/retention-policies ).
+- لتطبيق **تعليق في المكان على مستخدمين واحد** أو عقد على كافة علب البريد في المؤسسة **بأكملها،** يمكنك استخدام سياسات الاحتفاظ في مركز الأمان والامتثال Microsoft 365 باتباع الخطوات الموضحة [هنا](https://docs.microsoft.com/Office365/securitycompliance/retention-policies ).
     
     > [!NOTE]
-    > نهج الاستبقاء على نطاق المنظمة، مستخدمين جدد تلقائياً ستضاف إلى قائمة الاحتجاز. 
+    > بالنسبة لسياسات الاحتفاظ على مستوى المؤسسة، ستتم إضافة مستخدمين جدد تلقائيًا إلى الانتظار. 
   
-- لعرض أو استكشاف المحتوى علبة البريد التي وضعها قيد الانتظار، استخدم **eDiscovery البحث والتصدير**. لمزيد من المعلومات حول استخدام **eDiscovery البحث والتصدير**، اتبع خطوات مفصلة [هنا](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
+- لعرض أو اكتشاف محتوى علبة البريد الذي تم وضعه قيد الانتظار، استخدم **eDiscovery Search و Export**. للحصول على معلومات حول استخدام **eDiscovery البحث والتصدير،** اتبع الخطوات الموضحة [هنا](https://docs.microsoft.com/office365/securitycompliance/export-search-results).
     
 

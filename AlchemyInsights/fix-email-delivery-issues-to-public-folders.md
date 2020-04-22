@@ -1,9 +1,9 @@
 ---
-title: إصلاح مشاكل التسليم الإلكتروني للمجلدات العمومية التي تعتمد البريد
+title: إصلاح مشكلات تسليم البريد الإلكتروني إلى المجلدات العامة التي تم تمكينها بالبريد
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.custom:
 - "1956"
 - "3500007"
 ms.assetid: ''
-ms.openlocfilehash: f7b5e5a230d26870d5e95e8762b5874f73723c6d
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: e261fe60843555fa45927b0a6b36e1ccf79fb028
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36525082"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716339"
 ---
-# <a name="fix-email-delivery-issues-to-mail-enabled-public-folders"></a>إصلاح مشاكل التسليم الإلكتروني للمجلدات العمومية التي تعتمد البريد
+# <a name="fix-email-delivery-issues-to-mail-enabled-public-folders"></a>إصلاح مشكلات تسليم البريد الإلكتروني إلى المجلدات العامة التي تم تمكينها بالبريد
 
-إذا لم يكن المرسلين الخارجيين لا يمكن إرسال الرسائل إلى المجلدات العمومية التي تعتمد البريد ومرسلي رسالة الخطأ: **تعذر العثور على (550 5.4.1)**، تحقق من مجال بريد إلكتروني للمجلد العمومي تم تكوينه كمجال ترحيل داخلي بدلاً من المجال الموثوق:
+إذا لم يتمكن المرسلون الخارجيون من إرسال رسائل إلى المجلدات العامة التي تم تمكينها بالبريد، وتلقى المرسلون الخطأ: **لا يمكن العثور عليها (550 5.4.1)،** فتحقق من تكوين مجال البريد الإلكتروني للمجلد العام كمجال ترحيل داخلي بدلاً من مجال موثوق به:
 
-1. فتح [مركز مسؤول Exchange (شرق)](https://docs.microsoft.com/Exchange/exchange-admin-center).
+1. افتح [مركز إدارة Exchange (EAC).](https://docs.microsoft.com/Exchange/exchange-admin-center)
 
-2. انتقل إلى **تدفق البريد** \> **مجالات مقبولة**، حدد المجال المقبول، وثم انقر فوق **تحرير**.
+2. انتقل إلى \> **المجالات المقبولة لتدفق** **البريد،** وحدد المجال المقبول، ثم انقر فوق **تحرير**.
 
-3. في الخصائص ذلك الفتح الصفحة إذا تم تعيين نوع المجال إلى **حجية**وتغيير القيمة إلى **ترحيل داخلي** وثم انقر فوق **حفظ**.
+3. في صفحة الخصائص التي تفتح، إذا تم تعيين نوع المجال إلى **"موثوق"،** قم بتغيير القيمة إلى **الترحيل الداخلي** ثم انقر فوق **حفظ**.
 
-في حالة ظهور المرسلين الخارجيين الخطأ **ليس لديك الإذن (550 5.7.13)**، تشغيل الأمر التالي في [PowerShell Exchange عبر إنترنت](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell) لعرض الأذونات للمستخدمين المجهولين في المجلد العمومي:
+إذا تلقى المرسلون الخارجيون الخطأ **ليس لديك إذن (550 5.7.13)**، قم بتشغيل الأمر التالي في [Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell) لرؤية الأذونات للمستخدمين المجهولين في المجلد العمومي:
 
-`Get-PublicFolderClientPermission -Identity "<PublicFolderIdentity>" -User Anonymous`على سبيل المثال، `Get-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous`.
+`Get-PublicFolderClientPermission -Identity "<PublicFolderIdentity>" -User Anonymous`على سبيل `Get-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous`المثال، .
 
-للسماح للمستخدمين الخارجيين بإرسال بريد إلكتروني إلى هذا المجلد العمومي، إضافة الوصول كريتيتيمس اليمين للمستخدم المجهول. على سبيل المثال، `Add-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous -AccessRights CreateItems`.
+للسماح للمستخدمين الخارجيين بإرسال بريد إلكتروني إلى هذا المجلد العام، أضف حق الوصول إلى CreateItems إلى المستخدم Anonymous. على سبيل `Add-PublicFolderClientPermission -Identity "\Customer Discussion" -User Anonymous -AccessRights CreateItems`المثال، .

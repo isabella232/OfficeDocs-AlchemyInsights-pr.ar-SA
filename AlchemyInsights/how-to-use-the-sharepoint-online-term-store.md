@@ -1,8 +1,8 @@
 ---
-title: كيفيه استخدام مخزن SharePoint علي الإنترنت الأجل
+title: كيفية استخدام متجر SharePoint Online Term
 ms.author: pebaum
 author: pebaum
-ms.date: 12/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.custom:
 - "1247"
 - "5200021"
 ms.assetid: 9b55de94-8aee-40cb-970f-046de0a80e6b
-ms.openlocfilehash: c11c9cd8d0777d2e5dbdad61fdb0b8e4a25e53ca
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: dda6d6f286b373177e36d7da4a46747f6b9b9f16
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049648"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43717363"
 ---
-# <a name="how-to-use-the-sharepoint-online-term-store"></a>كيفيه استخدام مخزن SharePoint علي الإنترنت الأجل
+# <a name="how-to-use-the-sharepoint-online-term-store"></a>كيفية استخدام متجر SharePoint Online Term
 
-يتوفر "مخزن المصطلحات" إلى Office 365 الاداره العمومية ومسؤول SharePoint ومسؤولي مخزن المصطلحات ويمكن العثور عليها في مركز أداره SharePoint علي الإنترنت الجديد.
+يتوفر مخزن المدى لمسؤولي المسؤول العالمي وSharePoint ومتجر المدى ويمكن العثور عليه في مركز مسؤول SharePoint Online الجديد.
   
-لمزيد من المعلومات حول كيفيه استخدام مخزن المصطلحات SharePoint علي الإنترنت والتصنيف داخل SharePoint علي الإنترنت ، راجع [مقدمه إلى بيانات التعريف التي تمت ادارتها](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).
+لمزيد من المعلومات حول كيفية استخدام متجر SharePoint Online Term Store والتصنيف داخل SharePoint Online، راجع [مقدمة لبيانات التعريف المدارة](https://go.microsoft.com/fwlink/?linkid=2044674&amp;clcid=0x409).
   
-إذا كنت تواجه مشكله مع عبارات لا تظهر أو تظهر بشكل متقطع ، نوصي بالانتظار 24 ساعة ثم قم بتسجيل طلب دعم إذا استمرت المشكلة. علي الرغم من ان 24 ساعة يمكن ان يكون وقتا طويلا ، يمكن ان يكون هناك مشكله في التخزين المؤقت أو اننا قد يكون بالفعل العمل علي حل لهذه المشكلة.
+إذا كنت تواجه مشكلة في المصطلحات التي لا تظهر أو تظهر بشكل متقطع، نوصيك بالانتظار 24 ساعة، ثم تسجيل طلب دعم إذا استمرت المشكلة. على الرغم من أن 24 ساعة يمكن أن يكون وقتا طويلا، يمكن أن يكون هناك مشكلة التخزين المؤقت أو أننا قد يكون بالفعل العمل على حل لهذه المشكلة.
   

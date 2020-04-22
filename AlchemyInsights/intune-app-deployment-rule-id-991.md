@@ -1,8 +1,8 @@
 ---
-title: معرف القاعدة نشر التطبيق إينتوني 991
+title: معرف قاعدة نشر التطبيق Intune 991
 ms.author: pebaum
 author: pebaum
-ms.date: 9/10/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,22 +11,22 @@ ms.custom:
 - "991"
 - "6700004"
 ms.assetid: 1ec12c49-243a-44dc-9084-15863b223078
-ms.openlocfilehash: eb425bfc9fcc16a3a5b144794ced1f81209ef30e
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a22dc9b5298f530846bb20a2d6aac5d22c335b32
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36498258"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713993"
 ---
-# <a name="intune-app-deployment"></a>نشر التطبيق إينتوني
+# <a name="intune-app-deployment"></a>نشر التطبيق Intune
 
-نشر تطبيقات باستخدام إينتوني عملية من ثلاث خطوات:
+نشر التطبيقات مع Intune هو عملية ثلاث خطوات:
   
-1. **إضافة تطبيق** -يمكنك إضافة تطبيق المتجر أو تحميل تطبيق "بند الأعمال التجارية".
+1. **إضافة تطبيق** - يمكنك إضافة تطبيق App Store أو تحميل تطبيق Line of Business.
 
-2. **تعيين تطبيق** -تحديد نطاق نشر التطبيق.
+2. **تعيين تطبيق** - تحديد نطاق نشر التطبيق.
 
-3. **مراقبة تطبيقات** -عرض حالة تثبيت تطبيقات قائمة التطبيقات التي تم اكتشافها وإدارة التطبيقات التي تم شراؤها من المتجر.
+3. **مراقبة التطبيقات** - عرض حالة تثبيت التطبيقات وسرد التطبيقات المكتشفة وإدارة التطبيقات التي تم شراؤها من متاجر التطبيقات.
 
-قراءة [ما المقصود بإدارة التطبيق إينتوني](https://docs.microsoft.com/intune/app-management) لمزيد من المعلومات حول تكوين وحماية التطبيقات والإرشادات التفصيلية.
+اقرأ [ما هو إدارة تطبيقات Intune](https://docs.microsoft.com/intune/app-management) للإرشادات التفصيلية والمعلومات حول تكوين التطبيقات وحمايتها.
   

@@ -1,5 +1,5 @@
 ---
-title: إصلاح تطبيقات Office تعذر العثور علي الرسالة المقترنة بتراخيص office
+title: تعذر العثور على تطبيقات Office في العثور على الرسائل المرتبطة بتراخيص المكاتب
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3421"
 - "9001426"
-ms.openlocfilehash: 1820cdb83a1adf36b4e7d0898ecdf8097eb6f0f3
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 565df0a05baa974a6cbac58ac6be8d78470dbc5d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39627905"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715619"
 ---
-# <a name="fixing-the-office-apps-couldnt-find-office-licenses-associated-message"></a>إصلاح تطبيقات Office "تعذر العثور علي تراخيص office المقترنة" رسالة
+# <a name="fixing-the-office-apps-couldnt-find-office-licenses-associated-message"></a>إصلاح تطبيقات Office "تعذر العثور على تراخيص Office المقترنة" الرسالة
 
-إذا تلقيت هذه الرسالة ، فجرب ما يلي:
+إذا تلقيت هذه الرسالة، فجرّب ما يلي:
 
-1. تحقق من جدار الحماية وبرنامج مكافحه الفيروسات وإعدادات الوكيل للتاكد من انها لا تمنع الوصول إلى الإنترنت إلى تطبيقات Office. راجع [عناوين url 365 Office ونطاقات عناوين IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
-2. أزاله وأعاده [تعيين ترخيص Office](https://docs.microsoft.com/office365/admin/manage/assign-licenses-to-users) للمستخدم المتاثر. 
-3. افتح تطبيق Office [وقم بتسجيل الخروج](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) من اي حسابات مستخدم موجودة.
-4. انتقل إلى إعدادات Windows **>** > حسابات**البريد الكتروني &** حسابات ، وأزاله كافة حسابات العمل باستثناء الحساب المتاثر.
-5. انتقل إلى إعدادات Windows >**عمل الوصول إلى** **الحسابات** > أو المدرسة ، وافصل كافة حسابات العمل باستثناء الحساب المتاثر.
-6. أعاده تعيين حاله تنشيط Office. [تعلم كيف](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
-7. [قم بتسجيل الدخول](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) باستخدام حساب المستخدم المتاثر.
+1. تحقق من جدار الحماية وبرامج مكافحة الفيروسات وإعدادات الوكيل للتأكد من أنها لا تمنع الوصول إلى الإنترنت إلى تطبيقات Office. راجع [عناوين URL 365 Microsoft ونطاقات عناوين IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+2. إزالة [ترخيص Office وإعادة تعيينه](https://docs.microsoft.com/office365/admin/manage/assign-licenses-to-users) للمستخدم المتأثر. 
+3. افتح تطبيق Office [وسجّل الخروج](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) من أي حسابات مستخدمين موجودة.
+4. انتقل إلى إعدادات Windows > **حسابات** > **البريد الإلكتروني &** الحسابات ، وإزالة كافة حسابات العمل باستثناء الحساب المتأثر.
+5. انتقل إلى إعدادات Windows > الوصول إلى **الحسابات** > **أو العمل**في المدرسة ، وقطع اتصال جميع حسابات العمل باستثناء الحساب المتأثر.
+6. إعادة تعيين حالة تنشيط Office. [تعرف على كيفية](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
+7. [تسجيل الدخول](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) باستخدام حساب المستخدم المتأثر.
 
-للحصول علي حلول اضافيه لاستكشاف الأخطاء وإصلاحها ، راجع [أخطاء التنشيط والمنتج غير المرخص في Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+للحصول على حلول استكشاف الأخطاء وإصلاحها الإضافية، راجع [أخطاء المنتج غير المرخص ة والتنشيط في Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).

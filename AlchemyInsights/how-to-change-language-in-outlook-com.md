@@ -1,9 +1,9 @@
 ---
-title: كيفيه تغيير اللغة في Outlook.com
+title: كيفية تغيير اللغة في Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 5/24/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "8000014"
 - "269"
 ms.assetid: 6b5e5d32-d247-4dd9-b2d4-c4805a2f5e2d
-ms.openlocfilehash: 81d7272729c9770d4476f3c880b1a8ac3b6f90cd
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 3352bf86e926bf4242a2826b773b1d7cf4ac4faf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36541653"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711258"
 ---
 # <a name="change-your-language"></a>تغيير لغتك
 
-1. إلى تشانغ اللغة في اوتلوك ، انتقل إلى إعدادات [**اللغة والوقت**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) (**إعدادات** \> **عرض جميع إعدادات** >  > اوتلوك**اللغة العامة والوقت**).****
+1. لتغيير اللغة في Outlook، انتقل إلى إعدادات [**اللغة والوقت**](https://outlook.live.com/mail/options/general/timeAndLanguage/regional) **(الإعدادات** \> **عرض كافة إعدادات** > Outlook اللغة**العامة** > **والوقت**).
 
 2. اختر لغتك.
 
 3. حدد **حفظ**.
 
-لمعرفه المزيد ، راجع [تغيير إعدادات المنطقة الزمنيه واللغة في Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).
+لمعرفة المزيد، راجع [تغيير المنطقة الزمنية وإعدادات اللغة في Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=873132).

@@ -1,5 +1,5 @@
 ---
-title: 'Yammer-أداره المجموعات 365 Office '
+title: 'Yammer - إدارة مجموعات Office 365 '
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,23 +11,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "995"
 - "6000003"
-ms.openlocfilehash: 9c2742b715064d55d9525860f78c530294f90999
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 0257be866d6f6c654a28a4109ca7c9e6c34fc376
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36530914"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715835"
 ---
-# <a name="manage-office-365-groups-in-yammer"></a>أداره مجموعات 365 Office في Yammer
+# <a name="manage-office-365-groups-in-yammer"></a>إدارة مجموعات Office 365 في Yammer
 
-فيما يلي بعض الإجابات علي المشكلات الأكثر شيوعا مع مجموعات Office 365 في Yammer.
+فيما يلي بعض الإجابات على المشكلات الأكثر شيوعًا مع مجموعات Office 365 في Yammer.
 
-* **مجموعات Office 365** هي مساحة عمل مشتركه للبريد الكتروني والمحادثات والملفات والاحداث حيث يمكن لأعضاء المجموعة التعاون. مع Yammer ، تحتوي مجموعات Office 365 علي العديد من المزايا عبر مجموعات Yammer غير المتصلة. علي سبيل المثال ، يمكنك إنشاء الاحداث المباشرة واستضافتها ، واستعاده المجموعات المحذوفة ، واستخدام عضويه المجموعة الديناميكية ، والارشفه التلقائية ، والوصول إلى الموارد المشتركة مثل Sharepoint و OneNote والمخطط.
+* **مجموعات Office 365** هي مساحة عمل مشتركة للبريد الإلكتروني والمحادثات والملفات والأحداث حيث يمكن لأعضاء المجموعة التعاون. مع Yammer، تتمتع مجموعات Office 365 بالعديد من المزايا على مجموعات Yammer غير المتصلة. على سبيل المثال، يمكنك إنشاء أحداث مباشرة واستضافتها، واستعادة المجموعات المحذوفة، واستخدام عضوية المجموعة الديناميكية، والأرشيف التلقائي، والوصول إلى الموارد المشتركة مثل Sharepoint وOneNote وPlanner.
 
-* يمكنك معرفه ما إذا كانت مجموعه Yammer متصلة بمجموعات Office 365 عندما تري قسم **موارد office 365** (Sharepoint ، OneNote ، مخطط) في التنقل الأيمن للمجموعة. إذا كانت الموارد غير متوفرة ، تحقق مما يلي.
+* يمكنك معرفة ما إذا كانت مجموعة Yammer متصلة بمجموعات Office 365 عندما ترى قسم **موارد Office 365** (Sharepoint وOneNote وPlanner) في التنقل الصحيح للمجموعة. إذا كانت الموارد غير متوفرة، تحقق مما يلي.
 
-  1. يجب ان تكون شبكه Yammer في تكوين شبكه المستاجر 1:1. للتحقق من انك في تكوين 1:1 استخدام **أداه "ترحيل الشبكة** " كما هو موضح في [ترحيل شبكه الاتصال-دمج شبكات Yammer متعددة](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
+  1. يجب أن تكون شبكة Yammer في تكوين شبكة مستأجر واحد:1. للتحقق من أنك في تكوين 1:1، استخدم **أداة ترحيل الشبكة** كما هو موضح في ترحيل الشبكة - قم بدمج شبكات Yammer [المتعددة](https://docs.microsoft.com/yammer/configure-your-yammer-network/consolidate-multiple-yammer-networks).
 
-  2. استعرض للحصول علي **مسؤول شبكه الاتصال ، اعداد الأمان**، وتاكد من ان يتم فرض **هويه Office 365** للمستخدمين Yammer.
+  2. استعرض إلى **"مسؤول الشبكة"، إعداد الأمان،** وتأكد من فرض **هوية Office 365** لمستخدمي Yammer.
 
-لمزيد من المعلومات حول مجموعات Office 365 و Yammer ، الرجاء مراجعه [yammer و office 365 المجموعات](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups?redirectSourcePath=%252fen-us%252farticle%252fYammer-and-Office-365-Groups-d8c239dc-a48b-47ab-b85e-6b4b8191a869). للحصول علي معلومات حول أداره مجموعه ، راجع [أداره مجموعه في Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)
+لمزيد من المعلومات حول مجموعات Office 365 وYammer، يرجى الاطلاع على [Yammer وOffice 365 Groups](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups). للحصول على معلومات حول إدارة مجموعة، راجع [إدارة مجموعة في Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2)

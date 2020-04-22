@@ -1,9 +1,9 @@
 ---
-title: فتح باستخدام زر مستكشف معطل
+title: تم تعطيل زر فتح مع Explorer
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 4/19/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ff0f9110-10be-4c27-acaa-1615f81a53f2
-ms.openlocfilehash: 9483dbaa45c8c3a5c59fb8a318bf6564dd7b1b6f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: dd23a4228c930cc7c934c2943cc1e1080da253df
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36548342"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713093"
 ---
-# <a name="the-open-with-explorer-button-is-disabled"></a>فتح باستخدام زر مستكشف معطل
+# <a name="the-open-with-explorer-button-is-disabled"></a>تم تعطيل الزر فتح مع مستكشف
 
-- استعرض للوصول إلى موقع SharePoint أو أندريف في Internet Explorer 10 أو 11 مستكشف إنترنت. الزر غير متوافق مع مستعرضات ويب الأخرى.
+- تصفح إلى موقع SharePoint أو OneDrive في Internet Explorer 10 أو Internet Explorer 11. الزر غير متوافق مع متصفحات الويب الأخرى.
     
 > [!NOTE]
-> فتح مكتبة في "مستكشف الملفات" مفيد إذا كنت تريد نسخ أو نقل ملفات ومجلدات متعددة مرة واحدة، ولكن إذا كنت تريد أن تعمل بشكل منتظم في المكتبة، نوصي بمزامنته. لمزيد من التعليمات واستكشاف الأخطاء وإصلاحها في المشكلات الأخرى فتح "مستكشف الملفات"، راجع [فتح في مستكشف](https://go.microsoft.com/fwlink/?linkid=871665). للحصول على مزيد من المعلومات حول إعداد المزامنة، راجع [الملفات SharePoint متزامنة مع عميل المزامنة أندريف الجديد](https://go.microsoft.com/fwlink/?linkid=871666). 
+> يعد فتح مكتبة في File Explorer مفيدًا إذا كنت بحاجة إلى نسخ ملفات ومجلدات متعددة أو نقلها مرة واحدة ، ولكن إذا كنت ترغب في العمل بانتظام في المكتبة ، فإننا نوصي بمزامنتها. لمزيد من المساعدة واستكشاف المشاكل الأخرى التي يتم فتحها في مستكشف الملفات، راجع [فتح في Explorer](https://go.microsoft.com/fwlink/?linkid=871665). للحصول على معلومات حول إعداد المزامنة، راجع [ملفات مزامنة SharePoint مع عميل مزامنة OneDrive الجديد](https://go.microsoft.com/fwlink/?linkid=871666). 
   
 

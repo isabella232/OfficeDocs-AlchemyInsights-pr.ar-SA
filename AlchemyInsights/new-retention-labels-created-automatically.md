@@ -1,9 +1,9 @@
 ---
-title: تسميات الاستبقاء الجديدة التي تم إنشاؤها تلقائيا
+title: تسميات الاحتفاظ الجديدة التي تم إنشاؤها تلقائيًا
 ms.author: pebaum
 author: pebaum
 manager: laurawi
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: admin
 ms.topic: article
 ms.prod: office-online-server
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.custom:
 - "1958"
 - "9000331"
-ms.openlocfilehash: 6e43edeedf443d8866817f604f6b41708e7284e6
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: b0c88acfdc6f3eb94d4eb7e1eb30a4b4b5f5e83b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054653"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43713489"
 ---
-# <a name="new-retention-labels-created-automatically"></a>تسميات الاستبقاء الجديدة التي تم إنشاؤها تلقائيا
+# <a name="new-retention-labels-created-automatically"></a>تسميات الاحتفاظ الجديدة التي تم إنشاؤها تلقائيًا
 
-قد تري [ثلاثه جديده من عناوين الاحتفاظ 365 Office](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) التي تم إنشاؤها تلقائيا في المؤسسة الخاصة بك ضمن **تسميات الاستبقاء** في مركز مسؤول الأمان أو التوافق. أسماء التسمية هي:
+قد ترى [ثلاث تسميات استبقاء جديدة](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) تم إنشاؤها تلقائيًا في مؤسستك ضمن تسميات **الاحتفاظ** في مركز مسؤول الأمان أو التوافق. أسماء التسمية هي:
 
 - الإجراءات التشغيلية
-- الاعمال العامة
-- اتفاق العقد
+- الأعمال العامة
+- اتفاقية العقد
 
-سيحدث هذا في المرة الاولي التي تختار فيها " **خطه الملف** " إذا لم تكن هناك تسميات استبقاء أخرى تم إنشاؤها. يتم إنشاء هذه التسميات تلقائيا ، وإذا لزم الأمر ، يمكن ازالتها إذا لم يتم تطبيقها بعد علي المحتوي. لأزاله التسميات:
+سيحدث هذا في المرة الأولى التي تختار **فيها خطة الملفات** إذا لم يتم إنشاء تسميات استبقاء أخرى. يتم إنشاء هذه التسميات تلقائيًا، وإذا لزم الأمر، يمكن إزالتها إذا لم يتم تطبيقها بعد على المحتوى. لإزالة التسميات:
 
-1. في مركز أداره الأمان أو التوافق ، اختر علامة تبويب**الاحتفاظ** **بتصنيفات** > **تسميات** > .
+1. في مركز مسؤول الأمان أو التوافق، اختر علامة التبويب**الاحتفاظ** **بتسميات** >  **التصنيفات.** > 
 
-1. حدد تسميات الاستبقاء التي تريد ازالتها > **حذف التسمية** > **نعم** لحذف التسمية.
+1. حدد تسميات الاحتفاظ التي تريد إزالتها > **حذف التسمية** > **نعم** لحذف التسمية.
 
-باستخدام "أداره خطه الملفات" ، يمكنك أداره تسميات الاستبقاء والنهج في مؤسستك-لمزيد من المعلومات ، راجع [نظره عامه حول أداره خطه الملفات](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager).
+باستخدام إدارة خطة الملفات، يمكنك إدارة تسميات وسياسات الاحتفاظ في مؤسستك - لمزيد من المعلومات، راجع [نظرة عامة على إدارة خطة الملفات](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager).

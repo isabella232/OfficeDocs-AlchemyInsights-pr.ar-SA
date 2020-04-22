@@ -1,9 +1,9 @@
 ---
-title: 726 حجب أعاده توجيه البريد الكتروني
+title: 726 حظر إعادة توجيه البريد الإلكتروني
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/13/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: e9f5143edeb71ac69c71ecbbcecde35252994ac1
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: da1ca874e436afb8753fa046478f08563c8f19ef
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768391"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712266"
 ---
-# <a name="block-email-forwarding"></a>حظر أعاده توجيه البريد الكتروني
+# <a name="block-email-forwarding"></a>حظر إعادة توجيه البريد الإلكتروني
 
-لتعطيل أعاده توجيه البريد الكتروني لعلبه بريد معينه ، راجع [تكوين أعاده توجيه البريد الكتروني في Office 365](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding).
+لتعطيل إعادة توجيه البريد الإلكتروني لعلبة بريد معينة، راجع [تكوين إعادة توجيه البريد الإلكتروني](https://docs.microsoft.com/office365/admin/email/configure-email-forwarding).
 
-لمنع أعاده توجيه البريد الكتروني للمؤسسة بأكملها ، [العديد من الطرق لمنع أعاده توجيه البريد الكتروني التلقائي في Exchange عبر الإنترنت](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).
+لمنع إعادة توجيه البريد الإلكتروني للمؤسسة بأكملها، [الطرق العديدة لمنع إعادة توجيه البريد الإلكتروني التلقائي في Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).

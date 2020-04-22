@@ -1,9 +1,9 @@
 ---
-title: البحث عن فقدان أو فقدان الملفات في OneDrive أو SharePoint
+title: البحث عن الملفات المفقودة أو المفقودة في OneDrive أو SharePoint
 ms.author: matteva
 author: pebaum
 manager: scotv
-ms.date: 4/25/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d4de6b5e-5102-4e2c-af92-1f8b049c3a02
-ms.openlocfilehash: 911b8fffa673e578a7afb83cfff305e4f1806013
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 0cd8db0ea9de03d30001aa749e2c37330ad29ef2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36525406"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43716087"
 ---
-# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>البحث عن فقدان أو فقدان الملفات في OneDrive أو SharePoint
+# <a name="find-lost-or-missing-files-in-onedrive-or-sharepoint"></a>البحث عن الملفات المفقودة أو المفقودة في OneDrive أو SharePoint
 
-- تحقق من سله المحذوفات عن طريق الاستعراض إلى OneDrive الخاص بك أو موقع SharePoint علي الويب والنقر فوق سله المحذوفات في الجزء الأيمن. (إذا كنت لا تري سله المحذوفات في الجزء الأيمن ، انقر فوق أيقونه الإعدادات ، ثم حدد **محتويات الموقع**. سله **المحذوفات** علي اقصي يمين شريط الأوامر في الأعلى.) 
+- تحقق من سلة المهملات عن طريق التصفح إلى OneDrive أو موقع SharePoint على الويب والنقر على سلة المهملات في الجزء الأيسر. (إذا كنت لا ترى سلة المهملات في الجزء الأيسر، انقر فوق رمز الإعدادات، ثم حدد **محتويات الموقع**. **سلة المهملات** على أقصى يمين شريط الأوامر في الأعلى.) 
     
-- إذا كنت تقوم بمزامنة الملفات علي الكمبيوتر ، فتحقق من سله المحذوفات علي الكمبيوتر. 
+- إذا كنت تقوم بمزامنة الملفات الموجودة على الكمبيوتر، فتحقق من سلة المهملات على الكمبيوتر. 
     
-- إذا لم تشاهد العنصر الذي تبحث عنه ، وتم حذفه مؤخرا ، فقد يتمكن مسؤول مجموعه الموقع من استعادته من سله محذوفات مجموعه الموقع. إذا كنت مسؤول مجموعه الموقع ، فراجع [استعاده العناصر المحذوفة من سله محذوفات مجموعه الموقع](https://go.microsoft.com/fwlink/?linkid=866439).
+- إذا لم تشاهد العنصر الذي تبحث عنه، وتم حذفه مؤخرًا، فقد يتمكن مسؤول مجموعة الموقع من استعادته من سلة إعادة تدوير مجموعة الموقع. إذا كنت مسؤول مجموعة الموقع، راجع [استعادة العناصر المحذوفة من سلة المهملات الخاصة بمجموعة الموقع](https://go.microsoft.com/fwlink/?linkid=866439).
     
-[المزيد من التعليمات لاستعاده الملفات والمجلدات المحذوفة في OneDrive](https://go.microsoft.com/fwlink/?linkid=872872)
+[مزيد من المساعدة في استعادة الملفات والمجلدات المحذوفة في OneDrive](https://go.microsoft.com/fwlink/?linkid=872872)
   
 

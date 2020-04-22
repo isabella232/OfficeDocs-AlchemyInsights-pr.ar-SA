@@ -1,9 +1,9 @@
 ---
-title: إنشاء نهج إينتوني وملفات التعريف
+title: إنشاء نُهج وملفات تعريف Intune
 ms.author: mandia
 author: mandia
 manager: dougeby
-ms.date: 05/07/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,34 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "1064"
 - "6700005"
-ms.openlocfilehash: 11516232e7ad1fb1d54f07bccd31d586d5c04d42
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fac2a9e41449b4eb9b87d21d4cba4f6f5192d9c6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514750"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715383"
 ---
-# <a name="creating-intune-policy-and-profiles"></a>إنشاء نهج إينتوني وملفات التعريف
+# <a name="creating-intune-policy-and-profiles"></a>إنشاء سياسة وملفات تعريف Intune
 
-في إينتوني، يمكنك إنشاء نهج وملفات التعريف بأشياء مختلفة.
+في Intune، يمكنك إنشاء نُهج وملفات تعريف تقوم بأشياء مختلفة.
 
-- **ملفات التسجيل**: التكوين المسبق للأجهزة بالنظام الأساسي وتمكين تقارب المستخدم استخدام مصادقة متعددة العوامل والمزيد.
+- **ملفات تعريف التسجيل:** قم بتكوين أجهزتك مسبقًا حسب النظام الأساسي، وتمكين تقارب المستخدم، واستخدام المصادقة متعددة العوامل، والمزيد.
 
-  [ما هو جهاز تسجيل](https://docs.microsoft.com/intune/device-enrollment)، وإنشاء ملفات التسجيل [الروبوت](https://docs.microsoft.com/intune/android-enroll)، [دائرة الرقابة الداخلية](https://docs.microsoft.com/intune/ios-enroll)، [ماك](https://docs.microsoft.com/intune/macos-enroll)، و [Windows](https://docs.microsoft.com/intune/windows-enrollment-methods) موارد جيدة.
+  [ما هو تسجيل الجهاز](https://docs.microsoft.com/intune/device-enrollment)، وإنشاء ملفات تعريف التسجيل [لالروبوت](https://docs.microsoft.com/intune/android-enroll)، [دائرة الرقابة الداخلية](https://docs.microsoft.com/intune/ios-enroll)، [macOS](https://docs.microsoft.com/intune/macos-enroll)، [وويندوز](https://docs.microsoft.com/intune/windows-enrollment-methods) هي موارد جيدة.
 
-- **نهج التوافق**: تعريف القواعد والإعدادات التي يجب أن تتبع الأجهزة ليكون متوافقاً. يمكنك أيضا استخدام نهج التوافق لمراقبة الأجهزة وإعلام المستخدمين عدم الامتثال.
+- **نُهج الامتثال:** حدد القواعد والإعدادات التي يجب أن تتبعها الأجهزة لتكون متوافقة. يمكنك أيضًا استخدام نُهج التوافق لمراقبة الأجهزة وإعلام المستخدمين بعدم الامتثال.
 
-  الشروع في استخدام [نهج توافق الأجهزة](https://docs.microsoft.com/intune/device-compliance-get-started).
-- **نهج الوصول الشرطي**: المساعدة في تأمين موارد تنظيمية، تبعاً للظروف التي تقوم بإدخالها. على سبيل المثال، للأجهزة غير المتوافقة مع استخدام الوصول المشروط لتقييد الوصول إلى البريد الإلكتروني و SharePoint.
+  ابدأ باستخدام [نُهج توافق الأجهزة.](https://docs.microsoft.com/intune/device-compliance-get-started)
+- **نُهج الوصول المشروط:** تساعد في تأمين الموارد التنظيمية، استنادًا إلى الشروط التي تقوم بإدخالها. على سبيل المثال، بالنسبة للأجهزة غير المتوافقة، استخدم الوصول الشرطي لتقييد الوصول إلى البريد الإلكتروني وSharePoint.
 
-  [ما هو الوصول المشروط](https://docs.microsoft.com/intune/conditional-access) و [الطرق الشائعة لاستخدام الوصول الشرطي](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) موارد جيدة للبدء.
+  [ما هو الوصول المشروط](https://docs.microsoft.com/intune/conditional-access) [والطرق الشائعة لاستخدام الوصول المشروط](https://docs.microsoft.com/intune/conditional-access-intune-common-ways-use) هي موارد جيدة للبدء.
 
-- **ملفات التكوين**: إدارة الميزات والإعدادات الموجودة على الأجهزة، بما في ذلك إعدادات البريد الإلكتروني، إضافة شبكة وأي فأي، واستخدام القوالب المضمنة والتحكم ميزات الجهاز iOS وماك والمزيد.
+- **ملفات تعريف التكوين:** إدارة الميزات والإعدادات على الأجهزة، بما في ذلك إعدادات البريد الإلكتروني، وإضافة شبكة Wi-Fi، واستخدام القوالب المضمنة، والتحكم في ميزات iOS وmacOS، والمزيد.
 
-  الشروع في [تكوين التشكيلات الجانبية للجهاز](https://docs.microsoft.com/intune/device-profiles).
+  ابدأ في [ملفات تعريف تكوين الجهاز](https://docs.microsoft.com/intune/device-profiles).
 
-ارتباطات مفيدة:
+روابط مفيدة:
 
-- [الأسئلة والمشاكل والحلول مع نهج الجهاز وملفات التعريف في إينتوني العامة](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [الأسئلة الشائعة والمشكلات والحلول مع نُهج الجهاز وملفات التعريف في Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [استكشاف أخطاء النهج وملفات التعريف في إينتوني](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+- [استكشاف الأخطاء وإصلاحها في النُهج والملفات الشخصية في Intune](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)

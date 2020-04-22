@@ -1,5 +1,5 @@
 ---
-title: إلغاء اشتراك Office 365؟
+title: إلغاء اشتراكك؟
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: 05a20f539fbff1018b2869bc10fe597ff91187ce
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: 210510bf13ef3838d8f005b51222034039876426
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43552548"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43711402"
 ---
-# <a name="canceling-your-office-365-subscription"></a>إلغاء اشتراك Office 365؟
+# <a name="canceling-your-subscription"></a>إلغاء اشتراكك؟
 
 سنكون آسفين لرؤيتك تذهب، ولكن إذا كنت ترغب في إلغاء اشتراكك، فإليك خياراتك:
   

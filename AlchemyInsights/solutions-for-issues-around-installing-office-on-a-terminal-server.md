@@ -1,43 +1,36 @@
 ---
-title: حلول للمشاكل حول تثبيت office علي "ملقم المحطة الطرفية"
+title: حلول للمشكلات حول تثبيت المكتب على خادم المحطة الطرفية
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 85f24284-af6f-4624-b6be-901a4a9206eb
-ms.openlocfilehash: bed91bf59219a19d5742d3ca4a61718c34b5c774
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: da69592fd0f55a4bfce45d271aeca5cde1f659b2
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36501459"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712661"
 ---
-# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>حلول للمشاكل حول تثبيت office علي "ملقم المحطة الطرفية"
+# <a name="solutions-for-issues-around-installing-office-on-a-terminal-server"></a>حلول للمشكلات حول تثبيت المكتب على خادم المحطة الطرفية
 
-لاستخدام تنشيط الكمبيوتر المشتركة ، يجب ان يكون لديك خطه 365 Office التي تتضمن Office 365 ProPlus.
+لاستخدام تنشيط الكمبيوتر المشترك، يجب أن يكون لديك اشتراك يتضمن تطبيقات Microsoft 365 للمؤسسات.
   
-- تحقق من تمكين تنشيط الكمبيوتر المشتركة ل Office 365 ProPlus
-    
-- تحقق من نجاح التنشيط ل Office 365 ProPlus
-    
-- مراجعه رسائل الخطا لتنشيط الكمبيوتر المشترك:
-    
-  - "لا يمكن استخدام المنتجات التي وجدناها في حسابك لتنشيط Office في سيناريوهات الكمبيوتر المشتركة"
+- التحقق من تمكين تنشيط الكمبيوتر المشترك
+- التحقق من نجاح التنشيط
+- مراجعة رسائل الخطأ لتنشيط الكمبيوتر المشترك:
+- "لا يمكن استخدام المنتجات التي وجدناها في حسابك لتنشيط Office في سيناريوهات الكمبيوتر المشتركة"
   
-يعني هذا الخطا انه لم يكن لديك خطه 365 Office التي تتضمن Office 365 ProPlus.
-    
-  - "منتج غير مرخص"
-    
-  - تحقق من ان المستخدم تم تعيين ترخيص ل Office 365 ProPlus.
-    
-  - تحقق من ان المستخدم بتسجيل الدخول مع حساب المستخدم الخاص بها ل Office 365
-    
-  - تحقق من وجود اتصال بين الكمبيوتر المشترك والإنترنت.
-    
-للحصول علي تلميحات استكشاف الأخطاء وإصلاحها ، الرجاء مراجعه: [استكشاف مشكلات مع تنشيط الكمبيوتر المشترك ل Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)
-  
+يعني هذا الخطأ أنه ليس لديك اشتراك يتضمن Microsoft 365 Apps للمؤسسات.
 
+"منتج غير مرخص"
+
+- تأكد من تعيين ترخيص للمستخدم لتطبيقات Microsoft 365 للمؤسسات.
+- تأكد من تسجيل الدخول للمستخدم باستخدام حساب المستخدم الخاص به.
+- تأكد من وجود اتصال بين الكمبيوتر المشترك والإنترنت.
+
+للحصول على نصائح أخرى لاستكشاف الأخطاء وإصلاحها، يرجى الاطلاع [على: استكشاف الأخطاء وإصلاحها مع تنشيط الكمبيوتر المشترك](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus)

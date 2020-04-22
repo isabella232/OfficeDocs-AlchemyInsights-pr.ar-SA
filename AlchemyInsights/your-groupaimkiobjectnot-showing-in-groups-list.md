@@ -1,24 +1,24 @@
 ---
-title: المجموعة لا تظهر في قائمة المجموعات
+title: لا تظهر مجموعتك في قائمة المجموعات
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 8/8/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 805eb5f6-1cb0-4b19-82ad-fde38a42808d
-ms.openlocfilehash: 1708cc461888d903531422f9d272db12e8dd142f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 75d411dd42d1abd8784695c0d1a9a16718fe6838
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530773"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715799"
 ---
-# <a name="your-group-aimkiobject-not-showing-in-groups-list"></a>المجموعة "{أيمكيوبجيكت}" لا تظهر في قائمة المجموعات
+# <a name="your-group-aimkiobject-not-showing-in-groups-list"></a>مجموعتك "{AimKIObject}" لا تظهر في قائمة المجموعات
 
-تم إنشاء مجموعة التوزيع الخاص بك يسمى "{أيمكيوبجيكت}" {أيمكيتيميلابسيد} قبل دقائق. قد يستغرق مدة 60 دقيقة حتى قبل ظهور المجموعة الجديدة في مركز الإدارة.
+تم إنشاء مجموعة التوزيع الخاصة بك المسماة "{AimKIObject}" {AimKITimeElapsed} منذ دقائق. قد يستغرق الأمر ما يصل إلى 60 دقيقة قبل ظهور مجموعتك الجديدة في مركز المسؤول.
   
-إذا أردت إضافة أعضاء أو إجراء عمليات تحرير أخرى الآن، الرجاء استخدام ميزة "مجموعات" في [مركز مسؤول Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).
+إذا كنت ترغب في إضافة أعضاء أو إجراء عمليات تحرير أخرى الآن، يرجى استخدام ميزة المجموعات في [مركز إدارة Exchange](https://outlook.office365.com/ecp/?rfr=Admin_o365&amp;exsvurl=1&amp;mkt=en-US.aspx).
   
 

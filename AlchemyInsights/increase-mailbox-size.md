@@ -1,5 +1,5 @@
 ---
-title: زيادة حجم علبه البريد
+title: زيادة حجم علبة البريد
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,29 +12,29 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: c6a2030eb7aa1cc47ce70725cbb07c8fac6a7175
-ms.sourcegitcommit: 0fb89d8106fe409ab1b78e50f5357ffc2252f7c7
+ms.openlocfilehash: 13c9448e19f11490182612ff627e72e38809752a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/17/2019
-ms.locfileid: "40068271"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714029"
 ---
-# <a name="switch-plans-to-increase-mailbox-size"></a>تبديل الخطط لزيادة حجم علبه البريد
+# <a name="switch-subscriptions-to-increase-mailbox-size"></a>تبديل الاشتراكات لزيادة حجم علبة البريد
 
-إذا كان حجم علبه البريد 365 Office الخاص بك بالفعل 100 غيغابايت ، لا توجد طريقه لزيادته.
+إذا كان حجم صندوق البريد الخاص بك بالفعل 100 غيغابايت، فلا توجد طريقة لزيادته.
   
-إذا كان حجم علبه البريد 50 غيغابايت ، يمكنك زيادته إلى 100 غيغابايت عن طريق التبديل إلى [office 365 المؤسسة E3](https://products.office.com/business/office-365-enterprise-e3-business-software) أو [Office 365 المؤسسة E5](https://products.office.com/business/office-365-enterprise-e5-business-software). فيما يلي الخطوات للتبديل إلى خطه 365 Office مختلفه:
+إذا كان حجم علبة البريد 50 غيغابايت، يمكنك زيادته إلى 100 غيغابايت عن طريق التبديل إلى [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) أو [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). فيما يلي خطوات التبديل إلى اشتراك مختلف:
   
-1. في مركز مسؤول Microsoft 365 ، انتقل إلى صفحه [الخدمات & المنتجات](https://go.microsoft.com/fwlink/p/?linkid=842054) **الفوترة** \> .
+1. في مركز إدارة Microsoft 365، انتقل إلى صفحة [خدمات & منتجات](https://go.microsoft.com/fwlink/p/?linkid=842054) **الفوترة.** \>
 
 2. حدد الاشتراك الذي تريد ترقيته.
 
-3. في صفحه تفاصيل الاشتراك ، حدد **ترقيه**.
+3. في صفحة تفاصيل الاشتراك، حدد **الترقية**.
 
-4. ابحث عن الخطة التي تريد ترقيتها ، ثم حدد زر **الترقية** .
+4. ابحث عن الخطة التي تريد الترقية إليها، ثم حدد زر **الترقية.**
 
-5. ادخل عدد التراخيص التي تحتاج اليها ، واختر ما إذا كنت تريد الدفع شهريا أو للعام بأكمله ، ثم حدد **السحب**.
+5. أدخل عدد التراخيص التي تحتاجها، واختر ما إذا كنت ستدفع كل شهر أو للسنة بأكملها، ثم حدد **الخروج**.
 
-لمزيد من التفاصيل ، راجع [الترقية إلى خطه مختلفه](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
+لمزيد من التفاصيل، راجع [الترقية إلى خطة مختلفة](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/upgrade-to-different-plan).
 
-إذا كان لديك [خطه 365 Office التي تدعم أرشيف موضعي](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)، يمكنك أيضا الحصول علي تخزين بريد الكتروني إضافي عن طريق تمكين علبه بريد أرشيف. علبه بريد أرشيف يوفر لك تخزين اضافيه ويسمح لك لنقل ونسخ والبحث عن الرسائل في كل من علبه البريد الاساسيه وأرشيف. للحصول علي خطوات حول كيفيه تمكين علبه بريد أرشيف ، راجع [تمكين علبه بريد أرشيف](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).
+إذا كان لديك [اشتراك يدعم أرشيفًا داخليًا](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description)، فيمكنك أيضًا الحصول على تخزين بريد إلكتروني إضافي عن طريق تمكين صندوق بريد أرشيفي. صندوق بريد الأرشيف يمنحك تخزين إضافية ويسمح لك بنقل الرسائل ونسخها والبحث عنها في كل من صندوق البريد الأساسي والأرشيف. للحصول على خطوات حول كيفية تمكين علبة بريد أرشيف، راجع [تمكين علبة بريد أرشيف](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes).

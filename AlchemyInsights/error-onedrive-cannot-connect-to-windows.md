@@ -1,24 +1,24 @@
 ---
-title: خطا اندريف لا يمكن الاتصال بنظام التشغيل Windows
+title: خطأ OneDrive لا يمكن الاتصال بويندوز
 ms.author: pebaum
 author: pebaum
-ms.date: 10/16/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 69957735-7ae3-4622-b3cf-607c816f3651
-ms.openlocfilehash: 02c922e9256b589b9e03a5ee6256d1d47a870346
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 3e0eda9bdc907408bc4dd21f5e3bba0a51bc608e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40052132"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43714281"
 ---
-# <a name="error-onedrive-cannot-connect-to-windows"></a>خطا: لا يمكن ل OneDrive الاتصال بنظام التشغيل Windows
+# <a name="error-onedrive-cannot-connect-to-windows"></a>خطأ: لا يمكن توصيل OneDrive بـ Windows
 
-لحل رسالة الخطا ، ابحث عن الملف cldflt .sys لمعرفه ما إذا كان قيد التشغيل ، وإذا لم يكن كذلك ، قم بتمكينه. 
+لحل رسالة الخطأ، ابحث عن ملف cldflt.sys لمعرفة ما إذا كان قيد التشغيل، وإذا لم يكن كذلك، قم بتمكينه. 
   
-للحصول علي معلومات اضافيه حول كيفيه تمكين الملف cldflt ، راجع [لا يمكن الاتصال اندريف إلى Windows "خطا عند الوصول إلى الملفات في اندريف.](https://go.microsoft.com/fwlink/?Linkid=2031032)
+للحصول على معلومات إضافية حول كيفية تمكين ملف cldflt.sys، راجع [OneDrive لا يمكن الاتصال بـ Windows" خطأ عند الوصول إلى الملفات في OneDrive.](https://go.microsoft.com/fwlink/?Linkid=2031032)
   
 

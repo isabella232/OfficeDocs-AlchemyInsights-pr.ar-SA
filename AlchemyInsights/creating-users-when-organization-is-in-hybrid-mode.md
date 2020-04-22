@@ -1,9 +1,9 @@
 ---
-title: 744 إنشاء المستخدمين عندما يكون المؤسسة في الوضع المختلط
+title: 744 إنشاء مستخدمين عندما تكون المؤسسة في الوضع الهجين
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "744"
 - "1200022"
 ms.assetid: ed17197d-cee9-4539-b3dc-de5ac04efc79
-ms.openlocfilehash: 3300b746e60158db4feac5b1df9f9f95a30c0d9f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2ccad7ce9f2cdfa2c11dc020a0bcb84eec1cf096
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36514894"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43715255"
 ---
-# <a name="create-users-in-hybrid-deployments"></a>إنشاء المستخدمين في عمليات النشر المختلط
+# <a name="create-users-in-hybrid-deployments"></a>إنشاء مستخدمين في عمليات نشر مختلطة
 
-عند نشر مختلط بين البيئة المحلية و Office 365 المؤسسة الخاصة بك، تحتاج إلى إنشاء كافة كائنات المستخدم في "Active Directory" المحلي الخاص بك. إنشاء كائنات المستخدم في المناسبة الوحدة التنظيمية (OU) حيث مزامنتها في المؤسسة الخاصة بك Office 365.
+عندما تكون مؤسستك توزيع مختلط بين بيئة داخلية وMicrosoft 365، تحتاج إلى إنشاء كافة كائنات المستخدم في الدليل النشط الداخلي. يمكنك إنشاء كائنات المستخدم في الوحدة التنظيمية المناسبة (OU) بحيث تتم مزامنتها في مؤسستك.
