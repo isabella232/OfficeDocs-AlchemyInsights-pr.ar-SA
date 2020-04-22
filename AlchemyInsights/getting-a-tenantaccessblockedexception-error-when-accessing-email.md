@@ -1,9 +1,9 @@
 ---
-title: 127 الحصول على خطأ تينانتاكسيسبلوكيديكسسيبشن عند الوصول إلى البريد الإلكتروني؟
+title: 127 الحصول على خطأ TenantAccessBlockedException عند الوصول إلى البريد الإلكتروني؟
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 3727c037d323a042b8ba97e0fd01ca1481a76669
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5249783915d125703c1c5d4b650e99b0f0a7c909
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523966"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708890"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a><span data-ttu-id="869d9-102">الحصول على خطأ تينانتاكسيسبلوكيديكسسيبشن عند الوصول إلى البريد الإلكتروني؟</span><span class="sxs-lookup"><span data-stu-id="869d9-102">Getting a TenantAccessBlockedException error when accessing email?</span></span>
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a><span data-ttu-id="9b423-102">الحصول على خطأ TenantAccessBlockedException عند الوصول إلى البريد الإلكتروني؟</span><span class="sxs-lookup"><span data-stu-id="9b423-102">Getting a TenantAccessBlockedException error when accessing email?</span></span>
 
-<span data-ttu-id="869d9-103">هناك عدة أسباب مختلفة لماذا قد تتلقى هذا الخطأ.</span><span class="sxs-lookup"><span data-stu-id="869d9-103">There are a few different reasons why you might receive this error.</span></span> <span data-ttu-id="869d9-104">على سبيل المثال:</span><span class="sxs-lookup"><span data-stu-id="869d9-104">For example:</span></span>
+<span data-ttu-id="9b423-103">هناك بعض الأسباب المختلفة التي قد تتلقى هذا الخطأ.</span><span class="sxs-lookup"><span data-stu-id="9b423-103">There are a few different reasons why you might receive this error.</span></span> <span data-ttu-id="9b423-104">على سبيل المثال:</span><span class="sxs-lookup"><span data-stu-id="9b423-104">For example:</span></span>
 
-- <span data-ttu-id="869d9-105">التحقق من صحة على **فوترة** الاشتراك \> صفحة [& المنتجات أو الخدمات](https://portal.office.com/adminportal/home#/subscriptions) في مركز مسؤول Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="869d9-105">Verify that your subscription is valid on the **Billing** \> [Products & services](https://portal.office.com/adminportal/home#/subscriptions) page in the Microsoft 365 admin center.</span></span>
+- <span data-ttu-id="9b423-105">تحقق من صلاحية اشتراكك في صفحة [خدمات & منتجات](https://portal.office.com/adminportal/home#/subscriptions) **الفوترة** \> في مركز إدارة Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="9b423-105">Verify that your subscription is valid on the **Billing** \> [Products & services](https://portal.office.com/adminportal/home#/subscriptions) page in the Microsoft 365 admin center.</span></span>
 
-- <span data-ttu-id="869d9-106">التحقق من وجود أي متجاوزة الاستحقاق الإعلامات على **الفواتير** \> صفحة [شجرة & المدفوعات](https://portal.office.com/adminportal/home#/billoverview) في مركز مسؤول Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="869d9-106">Check for any past due notifications on the **Billing** \> [Bills & payments](https://portal.office.com/adminportal/home#/billoverview) page in the Microsoft 365 admin center.</span></span>
+- <span data-ttu-id="9b423-106">تحقق من وجود أي إشعارات مستحقة سابقة في صفحة [المدفوعات & فواتير](https://portal.office.com/adminportal/home#/billoverview) **الفوترة** \> في مركز إدارة Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="9b423-106">Check for any past due notifications on the **Billing** \> [Bills & payments](https://portal.office.com/adminportal/home#/billoverview) page in the Microsoft 365 admin center.</span></span>
 
-- <span data-ttu-id="869d9-107">الفوترة والاشتراكات للحساب الخاص بك قد تم مؤخرا تحديث، قد يستغرق وقت لنشر التغييرات.</span><span class="sxs-lookup"><span data-stu-id="869d9-107">If the billing and subscriptions for your account have been recently updated, it might take time for the changes to propagate.</span></span> <span data-ttu-id="869d9-108">حاول مرة أخرى في بضع دقائق، وإذا استمرت المشكلة، اتصل بنا.</span><span class="sxs-lookup"><span data-stu-id="869d9-108">Try again in a few minutes, and if the issue persists, contact us.</span></span>
+- <span data-ttu-id="9b423-107">إذا تم تحديث الفوترة والاشتراكات لحسابك مؤخرًا، فقد يستغرق نشر التغييرات بعض الوقت.</span><span class="sxs-lookup"><span data-stu-id="9b423-107">If the billing and subscriptions for your account have been recently updated, it might take time for the changes to propagate.</span></span> <span data-ttu-id="9b423-108">حاول مرة أخرى في بضع دقائق، وإذا استمرت المشكلة، اتصل بنا.</span><span class="sxs-lookup"><span data-stu-id="9b423-108">Try again in a few minutes, and if the issue persists, contact us.</span></span>

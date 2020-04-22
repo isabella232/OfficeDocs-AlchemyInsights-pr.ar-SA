@@ -1,9 +1,9 @@
 ---
-title: تحقق من المجال الخاص بك
+title: التحقق من نطاقك
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/5/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -14,19 +14,19 @@ ms.custom:
 - "48"
 - "8"
 ms.assetid: 81fd176b-3d67-4e52-9ab8-d36602412734
-ms.openlocfilehash: 3dd96a9731cfd75882dd3bb397005b19d471c882
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 2c4d8e075d2cf7214b5ef005b856daf7fb0ed53c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36531346"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710430"
 ---
-# <a name="verify-your-domain"></a><span data-ttu-id="a1fb7-102">تحقق من المجال الخاص بك</span><span class="sxs-lookup"><span data-stu-id="a1fb7-102">Verify your domain</span></span>
+# <a name="verify-your-domain"></a><span data-ttu-id="f959e-102">التحقق من نطاقك</span><span class="sxs-lookup"><span data-stu-id="f959e-102">Verify your domain</span></span>
 
- <span data-ttu-id="a1fb7-103">**ربما لم تحديث السجل عبر الإنترنت.**</span><span class="sxs-lookup"><span data-stu-id="a1fb7-103">**The record probably hasn't updated across the Internet.**</span></span>
+ <span data-ttu-id="f959e-103">**ربما لم يتم تحديث السجل عبر الإنترنت.**</span><span class="sxs-lookup"><span data-stu-id="f959e-103">**The record probably hasn't updated across the Internet.**</span></span>
   
-<span data-ttu-id="a1fb7-104">عادة ما يستغرق سوى بضع دقائق لكي نستطيع أن نرى السجل الجديد، ولكن أحياناً قد يستغرق ما دام بضع ساعات.</span><span class="sxs-lookup"><span data-stu-id="a1fb7-104">It typically only takes a few minutes for us to be able to see the new record, but occasionally it can take as long as a few hours.</span></span> 
+<span data-ttu-id="f959e-104">عادة ما يستغرق الأمر بضع دقائق فقط حتى نتمكن من رؤية السجل الجديد ، ولكن في بعض الأحيان قد يستغرق الأمر بضع ساعات.</span><span class="sxs-lookup"><span data-stu-id="f959e-104">It typically only takes a few minutes for us to be able to see the new record, but occasionally it can take as long as a few hours.</span></span> 
   
-- <span data-ttu-id="a1fb7-105">إذا كنت قد انتظرت طويلة مسبقاً، تأكد من أنه تم نسخ ولصق القيمة في السجل التحقق TXT في مضيف DNS الخاص بك.</span><span class="sxs-lookup"><span data-stu-id="a1fb7-105">If you've waited that long already, double-check that you've copied and pasted the exact value into the TXT verification record at your DNS host.</span></span> <span data-ttu-id="a1fb7-106">مسألة عامة لا يتضمن "MS =" جزءا من السجل.</span><span class="sxs-lookup"><span data-stu-id="a1fb7-106">One common issue is not including the "MS=" part of the record.</span></span> <span data-ttu-id="a1fb7-107">نحن بحاجة أن جداً!</span><span class="sxs-lookup"><span data-stu-id="a1fb7-107">We need that too!</span></span>
+- <span data-ttu-id="f959e-105">إذا انتظرت كل هذا الوقت، فتحقق مرة أخرى من أنك قمت بنسخ القيمة الدقيقة ولصقها في سجل التحقق من TXT في مضيف DNS.</span><span class="sxs-lookup"><span data-stu-id="f959e-105">If you've waited that long already, double-check that you've copied and pasted the exact value into the TXT verification record at your DNS host.</span></span> <span data-ttu-id="f959e-106">مشكلة واحدة مشتركة لا تتضمن "MS =" جزء من السجل.</span><span class="sxs-lookup"><span data-stu-id="f959e-106">One common issue is not including the "MS=" part of the record.</span></span> <span data-ttu-id="f959e-107">نحن بحاجة إلى ذلك أيضا!</span><span class="sxs-lookup"><span data-stu-id="f959e-107">We need that too!</span></span>
 
-- <span data-ttu-id="a1fb7-108">في بعض مضيفي DNS, يجب عليك إجراء خطوة إضافية لحفظ ملف المنطقة (حيث يتم تخزين سجل DNS) حيث أنه سيتم تحديث عبر الإنترنت.</span><span class="sxs-lookup"><span data-stu-id="a1fb7-108">At some DNS hosts, you have to take an extra step to save the zone file (where the DNS record is stored) so that it will update across the Internet.</span></span> <span data-ttu-id="a1fb7-109">تأكد من أن يتم حفظ التغييرات الخاصة بك حيث يمكنك مشاهدة Office 365 والتحقق من السجل.</span><span class="sxs-lookup"><span data-stu-id="a1fb7-109">Make sure you've saved your changes so Office 365 can see and verify the record.</span></span>
+- <span data-ttu-id="f959e-108">في بعض مضيفي DNS، يجب عليك اتخاذ خطوة إضافية لحفظ ملف المنطقة (حيث يتم تخزين سجل DNS) بحيث سيتم تحديثه عبر الإنترنت.</span><span class="sxs-lookup"><span data-stu-id="f959e-108">At some DNS hosts, you have to take an extra step to save the zone file (where the DNS record is stored) so that it will update across the Internet.</span></span> <span data-ttu-id="f959e-109">تأكد من حفظ التغييرات حتى تتمكن Microsoft من رؤية السجل والتحقق منه.</span><span class="sxs-lookup"><span data-stu-id="f959e-109">Make sure you've saved your changes so Microsoft can see and verify the record.</span></span>

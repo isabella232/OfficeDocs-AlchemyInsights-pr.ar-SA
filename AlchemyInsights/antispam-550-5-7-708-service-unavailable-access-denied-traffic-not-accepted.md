@@ -1,9 +1,9 @@
 ---
-title: البريد التطفلي 1047 550 5.7.708 خدمة غير متوفرة. تم رفض الوصول، لم يقبل من عنوان IP هذا المرور
+title: 1047 مكافحة البريد المزعج 550 5.7.708 خدمة غير متوفرة. تم رفض الوصول، ولم يتم قبول حركة المرور من IP هذا
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 9/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "1986"
 - "3100025"
 ms.assetid: f502f794-03c5-4e08-9095-b801528f67c4
-ms.openlocfilehash: 97a1e855730baba32768109f0fc4da29fe8e4e93
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: cd4f3d7f3783c70a00a2575a297cb4d92cdac80d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36505098"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707862"
 ---
-# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a><span data-ttu-id="b96f5-103">رفض الوصول 5.7.708 550، حركة مرور لم تقبل من عنوان IP هذا</span><span class="sxs-lookup"><span data-stu-id="b96f5-103">550 5.7.708 Access denied, traffic not accepted from this IP</span></span>
+# <a name="550-57708-access-denied-traffic-not-accepted-from-this-ip"></a><span data-ttu-id="1b78d-103">550 5.7.708 رفض الوصول، حركة المرور غير مقبولة من هذا الملكية الفكرية</span><span class="sxs-lookup"><span data-stu-id="1b78d-103">550 5.7.708 Access denied, traffic not accepted from this IP</span></span>
 
-<span data-ttu-id="b96f5-104">يحدث هذا الخطأ عند إرسال بريد إلكتروني من السمعة المعروفة، وانخفاض عناوين IP المستخدمة عادة من قبل عملاء جدد.</span><span class="sxs-lookup"><span data-stu-id="b96f5-104">This error occurs when sending email from known, low reputation IP addresses that are typically used by new customers.</span></span>
+<span data-ttu-id="1b78d-104">يحدث هذا الخطأ عند إرسال البريد الإلكتروني من عناوين IP المعروفة والمنخفضة السمعة التي يتم استخدامها عادةً من قبل العملاء الجدد.</span><span class="sxs-lookup"><span data-stu-id="1b78d-104">This error occurs when sending email from known, low reputation IP addresses that are typically used by new customers.</span></span>
 
-<span data-ttu-id="b96f5-105">إذا كان يجب إرسال البريد الإلكتروني من عناوين IP هذه قبل أن يمكنك شراء التراخيص، اتصل بالدعم لطلب استثناء حتى تكون قادرة على شراء التراخيص.</span><span class="sxs-lookup"><span data-stu-id="b96f5-105">If you must send email from these IP addresses before you can purchase licenses, contact support to request an exception until you're able to purchase licenses.</span></span>
+<span data-ttu-id="1b78d-105">إذا كان يجب إرسال بريد إلكتروني من عناوين IP هذه قبل أن تتمكن من شراء التراخيص، فاتصل بالدعم لطلب استثناء حتى تتمكن من شراء التراخيص.</span><span class="sxs-lookup"><span data-stu-id="1b78d-105">If you must send email from these IP addresses before you can purchase licenses, contact support to request an exception until you're able to purchase licenses.</span></span>

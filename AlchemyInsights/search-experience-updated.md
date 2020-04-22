@@ -1,8 +1,8 @@
 ---
-title: 414 الخبرة تحديث
+title: 414 تحديث تجربة البحث
 ms.author: chrisda
 author: chrisda
-ms.date: 2/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "414"
 - "1600043"
 ms.assetid: bd328fee-8ea1-4b0b-930c-cc3d3765f1b9
-ms.openlocfilehash: a4ecb6fcdd33b871f971a788ffe2afa8e7c50ba6
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8602a1e0c9374e8c772d91b4721c1435fec4bea1
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36551474"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709286"
 ---
-# <a name="search-experience-updated"></a><span data-ttu-id="13bae-102">تحديث الخبرة</span><span class="sxs-lookup"><span data-stu-id="13bae-102">Search experience updated</span></span>
+# <a name="search-experience-updated"></a><span data-ttu-id="feb88-102">تم تحديث تجربة البحث</span><span class="sxs-lookup"><span data-stu-id="feb88-102">Search experience updated</span></span>
 
-<span data-ttu-id="13bae-103">يتم البحث الآن الموجود في الجزء السفلي من التطبيق.</span><span class="sxs-lookup"><span data-stu-id="13bae-103">Search is now located at the bottom of the app.</span></span> <span data-ttu-id="13bae-104">يتيح النقر على الوصول مباشرة إلى جهات أعلى ورحلات السفر المقبلة، عمليات تسليم الحزمة ومرفقات الأخيرة.</span><span class="sxs-lookup"><span data-stu-id="13bae-104">Tapping on it gives you direct access to your top contacts, upcoming travel itineraries, package deliveries, and recent attachments.</span></span> <span data-ttu-id="13bae-105">يمكنك البحث عن الملفات ورسائل البريد الإلكتروني وجهات الاتصال في أي حسابات من مربع بحث واحد أو استخدام عوامل تصفية جديدة نقدمها لتضييق نطاق البحث.</span><span class="sxs-lookup"><span data-stu-id="13bae-105">You can search for email messages, files, and contacts in any of your accounts from one single search box or use our new filters to narrow your search.</span></span>
+<span data-ttu-id="feb88-103">يقع البحث الآن في الجزء السفلي من التطبيق.</span><span class="sxs-lookup"><span data-stu-id="feb88-103">Search is now located at the bottom of the app.</span></span> <span data-ttu-id="feb88-104">يتيح لك النقر عليه الوصول المباشر إلى جهات الاتصال الخاصة بك ، ومسارات السفر القادمة ، وتسليم الطرود ، والمرفقات الحديثة.</span><span class="sxs-lookup"><span data-stu-id="feb88-104">Tapping on it gives you direct access to your top contacts, upcoming travel itineraries, package deliveries, and recent attachments.</span></span> <span data-ttu-id="feb88-105">يمكنك البحث عن رسائل البريد الإلكتروني والملفات وجهات الاتصال في أي من حساباتك من مربع بحث واحد أو استخدام فلاترنا الجديدة لتضييق نطاق البحث.</span><span class="sxs-lookup"><span data-stu-id="feb88-105">You can search for email messages, files, and contacts in any of your accounts from one single search box or use our new filters to narrow your search.</span></span>

@@ -1,5 +1,5 @@
 ---
-title: 714 السماح للمرسلين الخارجيين بقوائم توزيع البريد الكتروني
+title: 714 السماح للمرسلين الخارجيين بقوائم توزيع البريد الإلكتروني
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,19 +12,19 @@ ms.custom:
 - "714"
 - "3"
 ms.assetid: 9efde695-25b4-4023-bbba-bb2fc5c95b83
-ms.openlocfilehash: e1f46a71d7c2bce0dc6df43fadade95a95db7b95
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 165c84715d38f46f076941ec9eb4a4624ffcd5a6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768211"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708198"
 ---
-# <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a><span data-ttu-id="25ee0-102">السماح للمرسلين الخارجيين بإرسال رسائل إلى مجموعات التوزيع</span><span class="sxs-lookup"><span data-stu-id="25ee0-102">Allow external senders to send messages to distribution groups</span></span>
+# <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a><span data-ttu-id="3c4c7-102">السماح للمرسلين الخارجيين بإرسال رسائل إلى مجموعات التوزيع</span><span class="sxs-lookup"><span data-stu-id="3c4c7-102">Allow external senders to send messages to distribution groups</span></span>
 
-<span data-ttu-id="25ee0-103">إذا كان المستخدمون خارج المؤسسة الخاصة بك تلقي أخطاء عند إرسال رسائل إلى مجموعات التوزيع الخاصة بك أو تريد التحقق من تكوين مجموعات التوزيع لتلقي البريد من المرسلين الخارجيين اتبع الخطوات التالية:</span><span class="sxs-lookup"><span data-stu-id="25ee0-103">If users outside of your organization receive errors when they send messages to your distribution groups, or you want to verify that your distribution groups are configured to receive mail from external senders, follow these steps:</span></span>
+<span data-ttu-id="3c4c7-103">إذا تلقى المستخدمون خارج مؤسستك أخطاء عند إرسال رسائل إلى مجموعات التوزيع، أو إذا كنت تريد التحقق من تكوين مجموعات التوزيع لتلقي البريد من المرسلين الخارجيين، فاتبع الخطوات التالية:</span><span class="sxs-lookup"><span data-stu-id="3c4c7-103">If users outside of your organization receive errors when they send messages to your distribution groups, or you want to verify that your distribution groups are configured to receive mail from external senders, follow these steps:</span></span>
 
-1. <span data-ttu-id="25ee0-104">في مركز أداره 365 Office ، انتقل إلى الصفحة[مجموعات](https://portal.office.com/adminportal/home#/groups) **المجموعات** > .</span><span class="sxs-lookup"><span data-stu-id="25ee0-104">In the Office 365 admin center, go to the **Groups** > [Groups](https://portal.office.com/adminportal/home#/groups) page.</span></span>  
+1. <span data-ttu-id="3c4c7-104">في مركز إدارة Microsoft 365، انتقل إلى صفحة[مجموعات](https://portal.office.com/adminportal/home#/groups) **المجموعات.** > </span><span class="sxs-lookup"><span data-stu-id="3c4c7-104">In the Microsoft 365 admin center, go to the **Groups** > [Groups](https://portal.office.com/adminportal/home#/groups) page.</span></span>  
 
-2. <span data-ttu-id="25ee0-105">حدد مجموعه التوزيع ، وفي جزء خصائص المجموعة ، حدد علامة التبويب **إعدادات** .</span><span class="sxs-lookup"><span data-stu-id="25ee0-105">Select the distribution group, and in the group properties pane, select the **Settings** tab.</span></span>
+2. <span data-ttu-id="3c4c7-105">حدد مجموعة التوزيع، وفي جزء خصائص المجموعة، حدد علامة التبويب **الإعدادات.**</span><span class="sxs-lookup"><span data-stu-id="3c4c7-105">Select the distribution group, and in the group properties pane, select the **Settings** tab.</span></span>
 
-3. <span data-ttu-id="25ee0-106">حدد **السماح للمرسلين الخارجيين بإرسال البريد الكتروني إلى هذه المجموعة**، ثم حدد **حفظ**.</span><span class="sxs-lookup"><span data-stu-id="25ee0-106">Select **Allow external senders to email this group**, and then select **Save**.</span></span>
+3. <span data-ttu-id="3c4c7-106">حدد **السماح للمرسلين الخارجيين بمراسلة هذه المجموعة عبر البريد الإلكتروني،** ثم حدد **حفظ**.</span><span class="sxs-lookup"><span data-stu-id="3c4c7-106">Select **Allow external senders to email this group**, and then select **Save**.</span></span>
