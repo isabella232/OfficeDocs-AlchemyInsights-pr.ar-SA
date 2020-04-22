@@ -1,9 +1,9 @@
 ---
-title: كيفية شراء تراخيص لاشتراك الأعمال Office 365
+title: كيفية شراء تراخيص لتطبيقات Microsoft 365 للاشتراك في الأعمال
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/26/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,21 +12,21 @@ ms.assetid: 4ece4b95-0d06-4658-af45-28de859bdc9d
 ms.custom:
 - "652"
 - "2000017"
-ms.openlocfilehash: 5e0c500d9c537efd91cdbed1dfe914ec91821b82
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: d202ab1ad27c886473793dd1bde77409bff6939a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664199"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709502"
 ---
-# <a name="how-to-buy-licenses-for-your-office-365-business-subscription"></a>كيفية شراء تراخيص لاشتراك الأعمال Office 365
+# <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>كيفية شراء تراخيص لتطبيقات Microsoft 365 للاشتراك في الأعمال
 
-عند تعيين Office 365 تراخيص للمستخدمين، قد تجد لديك الحاجة إلى شراء تراخيص إضافية. للقيام بذلك:
+عند تعيين التراخيص للمستخدمين، قد تجد أن لديك حاجة لشراء تراخيص إضافية. للقيام بذلك:
   
-1. في مركز الإدارة، انتقل إلى **الدفع** \> صفحة [& المنتجات أو الخدمات](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. في مركز الإدارة، انتقل إلى صفحة **الفوترة** \> [المنتجات والخدمات](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. البحث عن الاشتراك الذي تريد إضافة تراخيص ومن ثم حدد **إضافة/إزالة التراخيص**.
+2. ابحث عن الاشتراك الذي تريد إضافة تراخيص إليه، ثم حدد **إضافة/إزالة التراخيص**.
 
-3. في المربع **إجمالي التراخيص** ، أدخل العدد الإجمالي لتراخيص بحاجة لهذا الاشتراك ومن ثم حدد **تغيير الإرسال**. على سبيل المثال، إذا كان لديك 100 تراخيص وتحتاج إلى إضافة مزيد من 5، أدخل 105.
+3. في مربع **إجمالي التراخيص،** أدخل العدد الإجمالي للتراخيص التي تحتاجها لهذا الاشتراك ثم حدد **إرسال التغيير**. على سبيل المثال، إذا كان لديك 100 ترخيص وتحتاج إلى إضافة 5 تراخيص أخرى، أدخل 105.
 
-لمزيد من المعلومات، راجع [شراء التراخيص الخاصة بك Office 365 للاشتراك في العمل](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses).
+لمعرفة المزيد، راجع [شراء تراخيص لتطبيقات Microsoft 365 للاشتراك في الأعمال.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)

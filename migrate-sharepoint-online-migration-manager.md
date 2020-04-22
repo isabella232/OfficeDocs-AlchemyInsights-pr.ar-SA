@@ -1,9 +1,9 @@
 ---
-title: الترحيل إلى SharePoint عبر الإنترنت عن طريق أداره الترحيل
+title: الترحيل إلى SharePoint Online بواسطة "إدارة الترحيل"
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
-ms.date: 11/04/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,17 +13,17 @@ ms.custom:
 - "5300030"
 - "3192"
 ms.assetid: ''
-ms.openlocfilehash: 551d56473457727d082f53eac89d1475edae86af
-ms.sourcegitcommit: a8945ab0008f138b2992175b0640e78a505d29e1
+ms.openlocfilehash: 0595ba72414dc1b94229706220715139f126c91a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37964038"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707174"
 ---
-# <a name="migrating-to-sharepoint-online-via-migration-manager"></a>الترحيل إلى SharePoint عبر الإنترنت عن طريق أداره الترحيل
+# <a name="migrating-to-sharepoint-online-via-migration-manager"></a>الترحيل إلى SharePoint Online بواسطة "إدارة الترحيل"
 
-يقع في مركز أداره SharePoint الحديثة ، أداره الهجرة يرشدك من خلال اعداد العملاء وإنشاء المهام الخاصة بك. يمكنك تحديد الإعدادات العمومية أو مستوي المهام ، وعرض التقدم المحرز في المهمة الكاملة ، وتنزيل الملخصات المجمعة وتقارير مستوي المهام.
+ترشدك إدارة الترحيل خلال إعداد العملاء وإنشاء المهام، وتوجد في مركز إدارة SharePoint الحديث. يمكنك تحديد إعدادات المستوى العمومي أو مستوى المهام، وعرض تقدم المهام الشاملة، وتنزيل التقارير المجمعة للملخص ومستوى المهام.
 
-* [الشروع في البدء مع أداره الترحيل](https://docs.microsoft.com/sharepointmigration/mm-get-started)
-* [اعداد عملاء أداره الترحيل](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
-* [إعدادات أداره الترحيل](https://docs.microsoft.com/sharepointmigration/mm-settings)
+* [بدء استخدام "إدارة الترحيل"](https://docs.microsoft.com/sharepointmigration/mm-get-started)
+* [إعداد عملاء إدارة الترحيل](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
+* [إعدادات إدارة الترحيل](https://docs.microsoft.com/sharepointmigration/mm-settings)

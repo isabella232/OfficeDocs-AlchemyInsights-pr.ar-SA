@@ -1,5 +1,5 @@
 ---
-title: أضافه مستخدمين خارجيين
+title: إضافة مستخدمين خارجيين
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,19 +12,19 @@ ms.custom:
 - "742"
 - "1200022"
 ms.assetid: e8db0be7-fa2a-49e0-8e63-65e1750afaaa
-ms.openlocfilehash: ee5aa6792e9399bc6c16ff2cfd26abf6a843693a
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: f735bafec1e23d5f539295cf63aabf583681e208
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37766662"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708998"
 ---
-# <a name="adding-external-users"></a>أضافه مستخدمين خارجيين
+# <a name="adding-external-users"></a>إضافة مستخدمين خارجيين
 
-يمكن ان تكون خطوات أضافه المستخدمين الخارجيين/الضيوف مختلفه اعتمادا علي ما تحتاج اليها لتكون قادره علي الوصول. الرجاء اختيار أحد الخيارات التالية:
+يمكن أن تكون خطوات إضافة مستخدمين خارجيين /ضيوف مختلفة اعتمادًا على ما تحتاج إليه ليتمكنوا من الوصول إليه. يرجى اختيار أحد ما يلي:
   
-- [نظره عامه حول المشاركة الخارجية ل SharePoint علي الإنترنت](https://docs.microsoft.com/sharepoint/external-sharing-overview)
+- [نظرة عامة على المشاركة الخارجية لـ SharePoint Online](https://docs.microsoft.com/sharepoint/external-sharing-overview)
 
-- [وصول الضيوف في Office 365 المجموعات](https://support.office.com/en-gb/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
+- [وصول الضيوف في مجموعات Office 365](https://support.office.com/article/guest-access-in-office-365-groups-bfc7a840-868f-4fd6-a390-f347bf51aff6)
 
-- [وصول الضيف في فرق Microsoft](https://docs.microsoft.com/microsoftteams/guest-access-checklist)
+- [وصول الضيوف في فرق Microsoft](https://docs.microsoft.com/microsoftteams/guest-access-checklist)

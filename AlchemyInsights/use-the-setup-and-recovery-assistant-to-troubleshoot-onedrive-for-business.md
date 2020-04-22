@@ -1,9 +1,9 @@
 ---
-title: استخدم الإعداد واسترداد مساعد لاستكشاف أندريف للعمل
+title: استخدام مساعد الإعداد والاسترداد لاستكشاف OneDrive للأعمال
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 4/12/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 76748918-479b-4cdd-8666-dfbd6b483b74
-ms.openlocfilehash: 38e3c3d397fa4f58f86fdde4e029a551b8e24099
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 84711d6ae14e7ff845a50143a4378ef65d9587ca
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36532174"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710610"
 ---
-# <a name="fix-onedrive-sync-problems"></a>إصلاح مشاكل المزامنة أندريف
+# <a name="fix-onedrive-sync-problems"></a>إصلاح مشاكل مزامنة OneDrive
 
-يساعد تطبيق الدعم والاسترداد مساعد في تعريف وإصلاح المشاكل الشائعة المتعلقة بمزامنة الملفات أندريف. 
+يمكن أن يساعدك تطبيق مساعد الدعم والاسترداد في تحديد المشاكل الشائعة وإصلاحها في مزامنة ملفات OneDrive. 
   
-[تنزيل الدعم والاسترداد مساعد](https://aka.ms/sara)، تسجيل الدخول باستخدام الحساب الخاص بك في العمل أو المدرسة، واتبع الإرشادات الموجودة في التطبيق لاستكشاف أندريف للعمل. 
+[قم بتنزيل مساعد الدعم والاسترداد](https://aka.ms/sara)، وسجّل الدخول باستخدام حساب العمل أو المدرسة ، واتبع الإرشادات الموجودة في التطبيق لاستكشاف OneDrive for Business. 
   
-[مزيد من خطوات استكشاف الأخطاء وإصلاحها](https://go.microsoft.com/fwlink/?linkid=872097)
+[المزيد من الخطوات لاستكشاف الأخطاء وإصلاحها](https://go.microsoft.com/fwlink/?linkid=872097)
   
 

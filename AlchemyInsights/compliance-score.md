@@ -1,5 +1,5 @@
 ---
-title: نقاط الامتثال
+title: درجة الامتثال
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,30 +11,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001483"
 - "3519"
-ms.openlocfilehash: 304b50b9be50d42a4d54a1898773b458fca7eb4d
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: e77bb9a93325b49cf0f45cc74109432badc481c5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600335"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706080"
 ---
-# <a name="compliance-score"></a>نقاط الامتثال
+# <a name="compliance-score"></a>درجة الامتثال
 
-نقاط امتثال Microsoft (معاينة) هي ميزة في Microsoft 365 تساعدك على قياس وضع ية امتثال مؤسستك. ويستخدم درجة قائمة على المخاطر استنادًا إلى تقدمك في تنفيذ الإجراءات المتعلقة بالامتثال.   نقاط الامتثال هي نسخة مبسطة من [مدير الامتثال](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-overview) وتوفر طريقة أسهل لدراسة موقف الامتثال الخاص بك وتنفيذ الإجراءات لتحسينه. 
+نقاط التوافق من Microsoft (معاينة) هي ميزة في Microsoft 365 تساعدك على قياس موقف التوافق في مؤسستك. ويستخدم درجة قائمة على المخاطر استنادًا إلى تقدمك في تنفيذ الإجراءات المتعلقة بالامتثال.   نقاط الامتثال هي نسخة مبسطة من [مدير الامتثال](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-overview) ويقدم طريقة أسهل لدراسة موقف الامتثال الخاص بك وتنفيذ الإجراءات لتحسينه. 
 
-سيحتاج المسؤول العالمي إلى إعداد [الأذونات](https://docs.microsoft.com/microsoft-365/security/office-365-security/permissions-in-the-security-and-compliance-center) المناسبة في مركز امتثال Microsoft للوصول إلى نقاط الامتثال.  لن يتم نقل أي أذونات تم تكوينها مسبقًا لمدير التوافق إلى نقاط الامتثال.
+سيحتاج المسؤول العالمي إلى إعداد [الأذونات](https://docs.microsoft.com/microsoft-365/security/office-365-security/permissions-in-the-security-and-compliance-center) المناسبة في مركز Microsoft Compliance للوصول إلى نقاط التوافق.  لن يتم نقل أي أذونات تم تكوينها مسبقًا لمدير التوافق إلى نقاط التوافق.
 
 **للوصول إلى نقاط الامتثال**
 
-1. انتقل إلى مركز التوافق Microsoft 365 وتسجيل **الدخول** باستخدام حساب المسؤول العالمي Microsoft 365.
+1. انتقل إلى مركز توافق Microsoft 365 **وسجّل الدخول** باستخدام حساب المسؤول العالمي لـ Microsoft 365.
 
-2. حدد **نقاط التوافق** على جزء التنقل الأيسر. يجب عليك بعد ذلك رؤية [لوحة معلومات نقاط الامتثال الخاصة بك مع درجاتك.](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-setup#understand-the-compliance-score-dashboard)
+2. حدد **نقاط التوافق** على جزء التنقل الأيسر. يجب عليك بعد ذلك رؤية [لوحة معلومات نقاط التوافق الخاصة بك مع درجاتك](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-setup#understand-the-compliance-score-dashboard).
  
 
 **لمزيد من المعلومات حول:**
 
-- إعداد أذونات الوصول لنقاط التوافق، راجع [منح المستخدمين حق الوصول إلى مركز الامتثال & أمان Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center).
-- العمل مع إجراءات التحسين في نقاط الامتثال، راجع [العمل بنقاط الامتثال](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score).
-- كيفية حساب نقاط الامتثال، راجع [منهجية نقاط الامتثال](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology).
-- نقاط الامتثال مقابل مدير الامتثال، راجع [العلاقة بمدير الامتثال](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager).
+- إعداد أذونات الوصول لتسجيل التوافق، راجع [منح المستخدمين حق الوصول إلى مراكز التوافق & الأمان Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center).
+- العمل مع إجراءات التحسين في نقاط التوافق، راجع [العمل مع نقاط التوافق](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score).
+- كيفية حساب نقاط الامتثال، راجع [منهجية نقاط التوافق](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology).
+- نقاط التوافق مقابل مدير الامتثال، راجع [العلاقة مع مدير التوافق](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager).
 

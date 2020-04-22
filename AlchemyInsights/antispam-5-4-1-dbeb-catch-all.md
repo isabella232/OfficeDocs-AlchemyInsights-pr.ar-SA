@@ -1,5 +1,5 @@
 ---
-title: مضاد البريد المزعج 5.4.1 DBEB القبض علي جميع
+title: مكافحة البريد المزعج 5.4.1 DBEB الصيد للجميع
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001209"
 - "3167"
-ms.openlocfilehash: 4f531a063d63aff239ef7dead869bb526e17fb35
-ms.sourcegitcommit: 2591e1f56e8943bddb9d3b77ba5b494ac49d4f30
+ms.openlocfilehash: ad0f4c691a5e06306dbb408f4d66a4e00609e4d5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "38672420"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707898"
 ---
-# <a name="fix-delivery-issues-for-error-code-550-541-relay-access-denied"></a>إصلاح مشكلات التسليم لرمز الخطا 550 5.4.1 رفض الوصول ترحيل
+# <a name="fix-delivery-issues-for-error-code-550-541-relay-access-denied"></a>إصلاح مشكلات التسليم لرمز الخطأ 550 5.4.1 ترحيل الوصول رفض
 
-تحدث هذه [المشكلة عند التحقق لمعرفه ما إذا كان عنوان البريد الكتروني صالح لمنع الحالات الاحتياطية](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-directory-based-edge-blocking) عند إدخال شبكه 365 Office. جرب ما يلي:
+تحدث هذه المشكلة عند [التحقق لمعرفة ما إذا كان عنوان البريد الإلكتروني صالحلمنع الارتدادعند](https://docs.microsoft.com/exchange/mail-flow-best-practices/use-directory-based-edge-blocking) إدخال شبكة Microsoft. جرّب ما يلي:
 
-1. تحديد ما إذا كانت المشكلة محدده إلى مجال بأكمله أو عنوان بريد الكتروني واحد:
-    - المجال بأكمله: في بعض الأحيان يحتاج المجال إلى مزامنة; حاول [تعيين المجال إلى داخلي ثم العودة إلى مخول](https://docs.microsoft.com/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains).
-    - عنوان البريد الكتروني المفرد: في بعض الأحيان يجب ان تتم مزامنة العنوان; تغيير عنوان الوكيل smtp ثم تغييره مره أخرى يمكن ان تساعد.
-2. تحديد ما إذا كانت المشكلة محدده إلى مجموعه أو مجلد عمومي. بالنسبة لبعض أنواع الكائنات ، قد تحتاج إلى إنشاء يدويا في Azure Active Directory.
+1. تحديد ما إذا كانت المشكلة خاصة بنطاق بأكمله أو عنوان بريد إلكتروني واحد:
+    - المجال بأكمله: في بعض الأحيان يجب مزامنة المجال; حاول [تعيين المجال إلى داخلي ثم العودة إلى "موثوقة".](https://docs.microsoft.com/exchange/mail-flow-best-practices/manage-accepted-domains/manage-accepted-domains)
+    - عنوان بريد إلكتروني واحد: في بعض الأحيان يجب مزامنة العنوان. تغيير عنوان وكيل smtp ومن ثم تغييره مرة أخرى يمكن أن يساعد.
+2. تحديد ما إذا كانت المشكلة خاصة بمجموعة أو مجلد عام. بالنسبة لبعض أنواع الكائنات، قد تحتاج الكائنات إلى إنشاء يدوياً في Azure Active Directory.
 
-إذا كنت بحاجه إلى مساعده اضافيه ، يرجى فتح تذكره دعم وتحديد نطاق المشكلة (بما في ذلك نوع الكائن الذي ترسله اليه) حتى نتمكن من مساعدتك بشكل أفضل.
+إذا كنت بحاجة إلى مساعدة إضافية، يرجى فتح تذكرة دعم وتحديد نطاق المشكلة (بما في ذلك نوع الكائن الذي ترسل إليه) حتى نتمكن من مساعدتك بشكل أفضل.

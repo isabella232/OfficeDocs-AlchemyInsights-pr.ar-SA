@@ -1,9 +1,9 @@
 ---
-title: 127 الحصول على خطأ تينانتاكسيسبلوكيديكسسيبشن عند الوصول إلى البريد الإلكتروني؟
+title: 127 الحصول على خطأ TenantAccessBlockedException عند الوصول إلى البريد الإلكتروني؟
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 4/9/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 3727c037d323a042b8ba97e0fd01ca1481a76669
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 5249783915d125703c1c5d4b650e99b0f0a7c909
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36523966"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708890"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>الحصول على خطأ تينانتاكسيسبلوكيديكسسيبشن عند الوصول إلى البريد الإلكتروني؟
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>الحصول على خطأ TenantAccessBlockedException عند الوصول إلى البريد الإلكتروني؟
 
-هناك عدة أسباب مختلفة لماذا قد تتلقى هذا الخطأ. على سبيل المثال:
+هناك بعض الأسباب المختلفة التي قد تتلقى هذا الخطأ. على سبيل المثال:
 
-- التحقق من صحة على **فوترة** الاشتراك \> صفحة [& المنتجات أو الخدمات](https://portal.office.com/adminportal/home#/subscriptions) في مركز مسؤول Microsoft 365.
+- تحقق من صلاحية اشتراكك في صفحة [خدمات & منتجات](https://portal.office.com/adminportal/home#/subscriptions) **الفوترة** \> في مركز إدارة Microsoft 365.
 
-- التحقق من وجود أي متجاوزة الاستحقاق الإعلامات على **الفواتير** \> صفحة [شجرة & المدفوعات](https://portal.office.com/adminportal/home#/billoverview) في مركز مسؤول Microsoft 365.
+- تحقق من وجود أي إشعارات مستحقة سابقة في صفحة [المدفوعات & فواتير](https://portal.office.com/adminportal/home#/billoverview) **الفوترة** \> في مركز إدارة Microsoft 365.
 
-- الفوترة والاشتراكات للحساب الخاص بك قد تم مؤخرا تحديث، قد يستغرق وقت لنشر التغييرات. حاول مرة أخرى في بضع دقائق، وإذا استمرت المشكلة، اتصل بنا.
+- إذا تم تحديث الفوترة والاشتراكات لحسابك مؤخرًا، فقد يستغرق نشر التغييرات بعض الوقت. حاول مرة أخرى في بضع دقائق، وإذا استمرت المشكلة، اتصل بنا.

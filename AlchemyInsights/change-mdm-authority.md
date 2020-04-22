@@ -2,20 +2,20 @@
 title: تغيير سلطة MDM
 ms.author: sirkkuw
 author: Sirkkuw
-ms.date: 12/4/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 08c51aa6-cffc-456b-91fb-185f0d636afb
-ms.openlocfilehash: 91ccb74e00ab6d2b5e78c7b0f5a0b1c4790defb8
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: dd0489fad201f97c22eb2c80934816186fd26a20
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770950"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706778"
 ---
-# <a name="change-intune-mdm-authority"></a>تغيير سلطة MDM Intune
+# <a name="change-intune-mdm-authority"></a>تغيير سلطة Intune MDM
 
 يمكنك تغيير سلطة MDM الخاصة بك دون فتح حالة دعم. راجع المستندات التالية للحصول على الإرشادات:
   
@@ -23,12 +23,12 @@ ms.locfileid: "41770950"
     
 - [تغيير سلطة MDM الخاصة بك من Intune مستقل إلى إدارة التكوين](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)
     
- **MDM السلطة التعايش**
+ **MDM سلطة التعايش**
   
-- يمكنك تشغيل كل من سلطات MDM بشكل متزامن إذا كان لديك بالفعل Office 365 MDM ممكّنًا ولكنك تريد تجربة Intune MDM.
+- يمكن أن يكون لديك كل من سلطات MDM نشطة بشكل متزامن إذا كان لديك بالفعل Office 365 MDM ممكّن ولكنك تريد تجربة Intune MDM.
     
-- يمكن للمسؤولين الذين لديهم بالفعل O365 MDM النشطة ببساطة علامة فينتون MDM كنشطة من بوابة أزور.
+- يمكن للمسؤولين الذين لديهم بالفعل O365 MDM نشطة ببساطة وضع علامة Intune MDM كنشط من بوابة Azure.
     
-- إذا كان لديك Intune MDM ولكنك تريد الاستفادة من Office 365 MDM: الرجاء فتح تذكرة أدناه وسيساعد وكيل الدعم في تمكين هذا لك.
+- إذا كان لديك Intune MDM ولكنك تريد الاستفادة من Office 365 MDM: يرجى فتح تذكرة أدناه وسيساعد وكيل الدعم في تمكين هذا لك.
     
 

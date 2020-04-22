@@ -3,31 +3,31 @@ title: تكوين الإشراف
 ms.author: robmazz
 author: robmazz
 manager: laurawi
-ms.date: 6/10/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000549
-ms.openlocfilehash: 0e693de897fe083e1afd9093789367bc58220846
-ms.sourcegitcommit: fbc613525a6302e61d78388ae821f842f186ad03
+ms.openlocfilehash: 28c8070d9042e876263ff5e94e0a69bd53998a67
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/10/2019
-ms.locfileid: "34813811"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705900"
 ---
-# <a name="configure-supervision-policies"></a>تكوين نهج الإشراف
+# <a name="configure-supervision-policies"></a>تكوين نُهج الإشراف
 
-نهج الإشراف في Office 365 و Microsoft 365 تسمح لك بمراقبة البريد الإلكتروني Exchange، Skype للأعمال التجارية عبر الإنترنت والفرق Microsoft والاتصالات الطرف الثالث المرسلة داخل المؤسسة وخارجها. فحص الرسائل المراقبة للتأكد من أنها تتوافق مع سياسات المؤسسة وإدارة المخاطر والامتثال للوائح المعايير وحلها بتصنيف نوع المراجعين المعينة.
+تسمح لك سياسات الإشراف في Microsoft 365 بمراقبة البريد الإلكتروني Exchange وSkype for Business Online وفرق Microsoft واتصالات الجهات الخارجية المرسلة داخل مؤسستك وخارجها. يمكن للمراجعين المعينين فحص الرسائل المراقبة للتأكد من توافقها مع سياسات مؤسستك وإدارة المخاطر ومعايير الامتثال التنظيمي وحلها بنوع تصنيف.
 
-لاستخدام نهج الإشراف في المؤسسة الخاصة بك، تحتاج إلى:
+لاستخدام نُهج الإشراف في مؤسستك، تحتاج إلى:
 
-- تحديد اتصالات لمراقبة.
-- تقرر الذين سيتم إجراء مراجعة الاتصالات.
-- إعداد سياسات الإشراف
+- تحديد الاتصالات لمراقبة.
+- حدد من سيقوم بإجراء مراجعة الاتصالات.
+- سياسات الإشراف على الإعداد
 
 التعرف على المزيد:
 
-- [نظرة عامة حول نهج الإشراف](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)
-- [تكوين نهج الإشراف](https://docs.microsoft.com/office365/securitycompliance/configure-supervision-policies)
+- [نظرة عامة على سياسات الإشراف](https://docs.microsoft.com/office365/securitycompliance/supervision-policies)
+- [تكوين نُهج الإشراف](https://docs.microsoft.com/office365/securitycompliance/configure-supervision-policies)

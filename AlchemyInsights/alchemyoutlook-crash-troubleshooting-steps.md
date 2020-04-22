@@ -1,5 +1,5 @@
 ---
-title: الخيمياء - خطوات استكشاف أخطاء تعطل Outlook وإصلاحها
+title: خيمياء - Outlook تحطم استكشاف الأخطاء وإصلاحها الخطوات
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,22 +13,22 @@ ms.custom:
 - "1800016"
 ROBOTS: NOINDEX, NOFOLLOW
 ms.assetid: dbd710ec-cdeb-473f-aab4-bdf99de29610
-ms.openlocfilehash: 0d35793c5222c89828133e6ace98d8b53860107b
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 03b9c57f8254aea779929135ae45857c799f50de
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36737090"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708342"
 ---
-# <a name="outlook-crash-troubleshooting-steps"></a>خطوات استكشاف أخطاء تعطل Outlook وإصلاحها
+# <a name="outlook-crash-troubleshooting-steps"></a>الخطوات لاستكشاف أخطاء تعطل Outlook وإصلاحها
 
-إذا كنت تواجه مشكلات تعطل سطح المكتب Outlook، ابدأ باتباع الخطوات الثلاث أدناه، والتي يتم سرد كافة بالتفصيل في هذه المقالة: [كيفية استكشاف المشكلات التي تتسبب في تعطل Outlook أو التوقف عن الاستجابة عند استخدامها مع Office 365.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
+إذا كنت تواجه مشكلات تعطل سطح المكتب Outlook، ابدأ باتباع الخطوات الثلاث أدناه، والتي يتم سردها بالتفصيل في هذه المقالة: [كيفية استكشاف الأخطاء وإصلاحها المشكلات التي تتسبب في تعطل Outlook أو إيقاف الاستجابة.](https://docs.microsoft.com/exchange/troubleshoot/outlook-crashes/crash-issues)
   
 الخطوة 1: التحقيق في المشكلات المحتملة مع الوظائف الإضافية.
   
 الخطوة 2: إصلاح Outlook وتشغيل [أداة مساعد الدعم والاسترداد](https://aka.ms/SaRA-OutlookWontStart) لاستكشاف أخطاء بدء تشغيل Outlook على الجهاز المتأثر.
   
-الخطوة ش3: إنشاء ملف تعريف Outlook جديد أو تشغيل [أداة ملف تعريف Outlook](https://aka.ms/SaRA-OutlookSetupProfile) على الجهاز المتأثر.
+الخطوة 3: إنشاء ملف تعريف Outlook جديد أو تشغيل [أداة ملف تعريف Outlook](https://aka.ms/SaRA-OutlookSetupProfile) على الجهاز المتأثر.
   
-إذا حدثت المشكلة بعد تحديث ولم تنجح الخطوات المذكورة أعلاه، فقد تحتاج إلى العودة إلى بنية سابقة. راجع [كيفية الرجوع إلى إصدار سابق من Office 2016 انقر لتشغيل](https://support.microsoft.com/help/2770432).
+إذا حدثت هذه المشكلة بعد عملية تحديث ولم تنجح الخطوات المذكورة أعلاه، فقد تحتاج للعودة إلى نسخة سابقة. راجع [كيفية الرجوع إلى إصدار سابق من Office 2016 انقر للتشغيل](https://support.microsoft.com/help/2770432).
   

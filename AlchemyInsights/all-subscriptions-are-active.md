@@ -1,9 +1,9 @@
 ---
-title: تكون كافة الاشتراكات النشطة
+title: جميع الاشتراكات نشطة
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/20/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "458"
 - "1500020"
 ms.assetid: 71122d4a-df0b-4fa5-b921-41ce3ac49916
-ms.openlocfilehash: b91e12002a58e206d03142b3ab8b9090dfafacd5
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: b5db40da2928fb4c2775057822a714cf1136158b
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36386211"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708234"
 ---
-# <a name="all-subscriptions-are-active"></a>تكون كافة الاشتراكات النشطة
+# <a name="all-subscriptions-are-active"></a>جميع الاشتراكات نشطة
 
-تعتبر الاشتراكات الخاصة بك نشطة. يمكن التحقق من ذلك بالانتقال إلى **الدفع** \> صفحة [الاشتراكات](https://go.microsoft.com/fwlink/p/?linkid=842054) . يتم ترتيب الاشتراكات الخاصة بك حسب الحالة، مع الاشتراك النشط في الجزء العلوي. يمكن مشاهدة معلومات إضافية، مثل طريقة الدفع وعدد التراخيص، باختيار الاشتراك.
+اشتراكاتك نشطة. يمكن التحقق من ذلك عن طريق الانتقال إلى صفحة [اشتراكات](https://go.microsoft.com/fwlink/p/?linkid=842054) **الفوترة.** \> يتم ترتيب اشتراكاتك حسب الحالة، مع الاشتراكات النشطة في الأعلى. يمكن رؤية معلومات إضافية، مثل عدد التراخيص وطريقة الدفع، عن طريق اختيار الاشتراك.
   
-إذا كنت تواجه مشاكل في الخدمة الخاصة بك، استخدم الخيار "أدعوك" التحدث إلى مهندس دعم.
+إذا كنت تواجه مشاكل في خدمتك، فاستخدم خيار "دعنا نتصل بك" للتحدث إلى مهندس دعم.

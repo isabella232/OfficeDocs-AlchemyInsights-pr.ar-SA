@@ -2,7 +2,7 @@
 title: 959 تغيير اسم العرض
 ms.author: pdigia
 author: pebaum
-ms.date: 7/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,25 +11,25 @@ ms.custom:
 - "959"
 - "1800022"
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
-ms.openlocfilehash: 410c2ba8fd51220b531651a7c830934dc27d4a07
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 182211bfa48a4015a3a9847b66674838338d9fa6
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36736708"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43706958"
 ---
 # <a name="change-your-display-name"></a>تغيير اسم العرض
   
-لتغيير اسم العرض الخاص بك في Outlook ، اتبع الخطوات التالية.
+لتغيير اسم العرض في Outlook، استخدم الخطوات التالية.
   
-1. في Outlook ، **حدد إعدادات** **حساب إعدادات** \> حساب **الملف** \> .
+1. في Outlook، حدد إعدادات حساب **إعدادات** \> **Account Settings**حساب **الملف** \> .
 
-2. حدد حساب البريد الكتروني ثم حدد **تغيير**.
+2. حدد حساب البريد الإلكتروني ثم حدد **تغيير**.
 
     > [!NOTE]
-    > إذا لم تشاهد الخيار لتغيير اسم العرض الخاص بك ، فمن المحتمل انك تستخدم حساب بريد الكتروني ل Microsoft Exchange. في هذه الحالة ، تحتاج إلى الاتصال بالمسؤول لتغيير اسم العرض الخاص بك. راجع [تغيير اسم المستخدم وعنوان البريد الكتروني في Office 365](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).
+    > إذا كنت لا ترى خيار تغيير اسم العرض، فمن المحتمل أنك تستخدم حساب بريد إلكتروني من Microsoft Exchange. في هذه الحالة، تحتاج إلى الاتصال بالمسؤول لتغيير اسم العرض. راجع [تغيير اسم مستخدم وعنوان بريد إلكتروني](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address).
   
-3. بعد تغيير اسم العرض ، انقر فوق **"موافق"** لحفظ التغييرات. قد يستغرق الأمر بضع ساعات لكي تنعكس التغييرات في مؤسستك.
+3. بعد تغيير اسم العرض، انقر فوق **موافق** لحفظ التغييرات. قد يستغرق الأمر بضع ساعات حتى تعكس التغييرات في جميع أنحاء مؤسستك.
 
-لمزيد من المعلومات ، راجع [تغيير اسم العرض الذي يراه مستلمو البريد الكتروني](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).
+لمزيد من المعلومات، راجع [تغيير اسم العرض الذي يراه مستلمو البريد الإلكتروني](https://support.office.com/article/2b53331a-ba2a-4803-88dc-ac9fe376c8a9.aspx).
   

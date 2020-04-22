@@ -1,9 +1,9 @@
 ---
-title: كيفيه تكوين محركات أقراص الشبكة المعينة وإصلاحها
+title: كيفية تكوين محركات أقراص الشبكة المعينة واستكشاف هاوها
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
-ms.date: 11/01/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "5300002"
 - "3180"
 ms.assetid: ''
-ms.openlocfilehash: f4cde10b1d0fec60ca0f724c3d9cf2c2a7ded83a
-ms.sourcegitcommit: eeaaf0174dcad24f04f8979dfa7e78fffe1962aa
+ms.openlocfilehash: 99842cacb86859109d81fdaff7d31b9032b6d3bf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/04/2019
-ms.locfileid: "37962396"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43707210"
 ---
-# <a name="how-to-configure-and-troubleshoot-mapped-network-drives"></a>كيفيه تكوين محركات أقراص الشبكة المعينة وإصلاحها
+# <a name="how-to-configure-and-troubleshoot-mapped-network-drives"></a>كيفية تكوين محركات أقراص الشبكة المعينة واستكشاف هاوها
 
-تعيين مكتبه كمحرك أقراص شبكه مؤقت ومعتمد فقط من خلال Internet Explorer. بدلا من ذلك ، [مزامنة ملفات SharePoint مع عميل المزامنة اندريف الجديد](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88) الذي يوفر [الملفات عند الطلب](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e). الوصول إلى كافة الملفات الخاصة بك في OneDrive دون استخدام مساحة التخزين المحلية.
+تعيين مكتبة كمحرك أقراص شبكة اتصال مؤقت ومعتمد فقط من خلال Internet Explorer. بدلاً من ذلك، [مزامنة ملفات SharePoint مع عميل مزامنة OneDrive الجديد](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88) الذي يوفر [الملفات عند الطلب](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e). الوصول إلى جميع الملفات الخاصة بك في OneDrive دون استخدام مساحة التخزين المحلية.
 
-* [استكشاف أخطاء محركات أقراص الشبكة المعينة التي تتصل ب SharePoint علي الإنترنت وإصلاحها](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)
+* [استكشاف محركات أقراص الشبكة المعينة التي تتصل بـ SharePoint Online](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)

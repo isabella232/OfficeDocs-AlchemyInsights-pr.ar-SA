@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "2558"
 - "9000571"
-ms.openlocfilehash: b28865ff1da434a254c9051183074be35cdd0252
-ms.sourcegitcommit: 9b2b162ad651e2c3d9d0c746f67a78334592f076
+ms.openlocfilehash: ac760b417ad98b9d5bb6be4b92e60074ab93ceb3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/17/2020
-ms.locfileid: "43547949"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43708674"
 ---
 # <a name="fixing-the-office-apps-your-account-is-in-a-bad-state-error"></a>إصلاح تطبيقات Office "حسابك في حالة سيئة" خطأ
 
@@ -27,5 +27,5 @@ ms.locfileid: "43547949"
   **ملاحظة:** تم تغيير مسارات التسجيل لـ Office 2016 إلى 16.0. على سبيل المثال، \Software\Microsoft\Office\16.0\Common\Identity\
 - إذا حدث الخطأ أثناء الاتصال بـ Office 365 باستخدام Office 2013، [قم بتمكين المصادقة الحديثة](https://docs.microsoft.com/office365/admin/security-and-compliance/enable-modern-authentication) لعميل Office.
 
-لمزيد من المعلومات، راجع [كيفية استكشاف الأخطاء وإصلاحها التطبيقات غير المستعرض التي لا يمكن تسجيل الدخول إلى Office 365 أو Azure أو Intune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1).
+لمزيد من المعلومات، راجع [كيفية استكشاف الأخطاء وإصلاحها التطبيقات غير المستعرض التي لا يمكن تسجيل الدخول إلى Microsoft 365 أو Azure أو Intune](https://support.office.com/article/how-to-troubleshoot-non-browser-apps-that-can-t-sign-in-to-office-365-azure-or-intune-3ba1b268-66f6-462c-b0e5-070f5c2603c1).
 
