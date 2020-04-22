@@ -3,7 +3,7 @@ title: كيفية إعادة تنشيط وإدارة التجديد
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 6/6/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,37 +13,37 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 5b9674920eb28cd48805ecab72cdf6f4149d62e3
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: a0e06904289b026b498aadf09c426473b11e9662
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36739300"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763420"
 ---
-# <a name="how-to-reactivate-and-manage-recurring-billing"></a><span data-ttu-id="f9f06-102">كيفية إعادة تنشيط الفوترة المتكررة وإدارتها</span><span class="sxs-lookup"><span data-stu-id="f9f06-102">How to reactivate and manage recurring billing</span></span>
+# <a name="how-to-reactivate-and-manage-recurring-billing"></a><span data-ttu-id="dfe00-102">كيفية إعادة تنشيط الفوترة المتكررة وإدارتها</span><span class="sxs-lookup"><span data-stu-id="dfe00-102">How to reactivate and manage recurring billing</span></span>
 
-<span data-ttu-id="f9f06-103">يبدو أن لديك اشتراك انتهت مدة صلاحيته.</span><span class="sxs-lookup"><span data-stu-id="f9f06-103">Looks like you have a subscription that has expired.</span></span> <span data-ttu-id="f9f06-104">إذا كنت ترغب في إعادة تنشيطه، وهنا كيف.</span><span class="sxs-lookup"><span data-stu-id="f9f06-104">If you would like to reactivate it, here's how.</span></span>
+<span data-ttu-id="dfe00-103">يبدو أن لديك اشتراك انتهت صلاحيته.</span><span class="sxs-lookup"><span data-stu-id="dfe00-103">Looks like you have a subscription that has expired.</span></span> <span data-ttu-id="dfe00-104">إذا كنت ترغب في إعادة تنشيطه، فإليك كيفية ذلك.</span><span class="sxs-lookup"><span data-stu-id="dfe00-104">If you would like to reactivate it, here's how.</span></span>
   
-1. <span data-ttu-id="f9f06-105">في مركز المسؤول، انتقل إلى صفحة خدمات منتجات **الفوترة** \> [&](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="f9f06-105">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="dfe00-105">في مركز الإدارة، انتقل إلى صفحة **الفوترة** \> [المنتجات والخدمات](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="dfe00-105">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="f9f06-106">ابحث عن الاشتراك الذي تريد إعادة تنشيطه.</span><span class="sxs-lookup"><span data-stu-id="f9f06-106">Find the subscription that you want to reactivate.</span></span> <span data-ttu-id="f9f06-107">في قسم **الفوترة،** حدد **إعادة تنشيط**.</span><span class="sxs-lookup"><span data-stu-id="f9f06-107">In the **Billing** section, select  **Reactivate**.</span></span>
+2. <span data-ttu-id="dfe00-106">ابحث عن الاشتراك الذي تريد إعادة تنشيطه.</span><span class="sxs-lookup"><span data-stu-id="dfe00-106">Find the subscription that you want to reactivate.</span></span> <span data-ttu-id="dfe00-107">في قسم **الفوترة،** حدد **إعادة تنشيط**.</span><span class="sxs-lookup"><span data-stu-id="dfe00-107">In the **Billing** section, select  **Reactivate**.</span></span>
 
-    <span data-ttu-id="f9f06-108">إذا لم تشاهد **إعادة التنشيط** كخيار، استخدم الزر "بحاجة إلى مساعدة" للتحدث إلى مهندس دعم لإعادة تنشيط اشتراكك.</span><span class="sxs-lookup"><span data-stu-id="f9f06-108">If you do not see **Reactivate** as an option, use the "Need help" button to talk to a support engineer to reactivate your subscription.</span></span>
+    <span data-ttu-id="dfe00-108">إذا كنت لا ترى **إعادة التنشيط** كخيار، فاستخدم الزر "الحاجة إلى المساعدة" للتحدث إلى مهندس دعم لإعادة تنشيط اشتراكك.</span><span class="sxs-lookup"><span data-stu-id="dfe00-108">If you do not see **Reactivate** as an option, use the "Need help" button to talk to a support engineer to reactivate your subscription.</span></span>
 
-3. <span data-ttu-id="f9f06-109">تأكيد تفاصيل الدفع الخاصة بك.</span><span class="sxs-lookup"><span data-stu-id="f9f06-109">Confirm your payment details.</span></span> <span data-ttu-id="f9f06-110">يمكنك تحديث معلومات الدفع الحالية هنا.</span><span class="sxs-lookup"><span data-stu-id="f9f06-110">You can update your existing payment information here.</span></span> <span data-ttu-id="f9f06-111">عند الانتهاء من إدخال طريقة الدفع، حدد **إعادة تنشيط**.</span><span class="sxs-lookup"><span data-stu-id="f9f06-111">When you're finished entering your payment method, select **Reactivate**.</span></span>
+3. <span data-ttu-id="dfe00-109">قم بتأكيد تفاصيل الدفع.</span><span class="sxs-lookup"><span data-stu-id="dfe00-109">Confirm your payment details.</span></span> <span data-ttu-id="dfe00-110">يمكنك تحديث معلومات الدفع الحالية هنا.</span><span class="sxs-lookup"><span data-stu-id="dfe00-110">You can update your existing payment information here.</span></span> <span data-ttu-id="dfe00-111">عند الانتهاء من إدخال طريقة الدفع الخاصة بك، حدد **إعادة تنشيط**.</span><span class="sxs-lookup"><span data-stu-id="dfe00-111">When you're finished entering your payment method, select **Reactivate**.</span></span>
 
-<span data-ttu-id="f9f06-112">لمعرفة المزيد، راجع [إعادة تنشيط اشتراكك](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="f9f06-112">To learn more, see [Reactivate your subscription](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span></span> 
+<span data-ttu-id="dfe00-112">للتعرّف على المزيد، اطلع على [إعادة تنشيط الاشتراك](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="dfe00-112">To learn more, see [Reactivate your subscription](https://docs.microsoft.com//office365/admin/subscriptions-and-billing/reactivate-your-subscription).</span></span> 
 
-<span data-ttu-id="f9f06-113">لإدارة الفوترة الشهرية أو السنوية، يمكنك تبديل **الفوترة المتكررة** أو إيقاف تشغيلها.</span><span class="sxs-lookup"><span data-stu-id="f9f06-113">To manage monthly or yearly billing you can toggle **Recurring billing** on or off.</span></span>
+<span data-ttu-id="dfe00-113">لإدارة الفوترة الشهرية أو السنوية، يمكنك تبديل **الفوترة المتكررة** أو إيقاف تشغيلها.</span><span class="sxs-lookup"><span data-stu-id="dfe00-113">To manage monthly or yearly billing you can toggle **Recurring billing** on or off.</span></span>
   
-1. <span data-ttu-id="f9f06-114">في مركز المسؤول، انتقل إلى صفحة خدمات منتجات **الفوترة** \> [&](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="f9f06-114">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="dfe00-114">في مركز الإدارة، انتقل إلى صفحة **الفوترة** \> [المنتجات والخدمات](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="dfe00-114">In the admin center, go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
 
-2. <span data-ttu-id="f9f06-115">اختر الاشتراك الذي تريد إدارة الفوترة المتكررة له.</span><span class="sxs-lookup"><span data-stu-id="f9f06-115">Choose the subscription for which you want to manage recurring billing.</span></span>
+2. <span data-ttu-id="dfe00-115">اختر الاشتراك المراد إدارة الفوترة المتكررة الخاصة به.</span><span class="sxs-lookup"><span data-stu-id="dfe00-115">Choose the subscription for which you want to manage recurring billing.</span></span>
 
-3. <span data-ttu-id="f9f06-116">ضمن **الفوترة**، بجوار **تجديد** أو **انتهاء الصلاحية**، حدد **تحرير**.</span><span class="sxs-lookup"><span data-stu-id="f9f06-116">Under **Billing**, next to **Renews on** or **Expiring on**, select **edit**.</span></span>
+3. <span data-ttu-id="dfe00-116">ضمن **الفوترة**، بجوار **التجديد أو** انتهاء **الصلاحية ،** حدد تحرير **.**</span><span class="sxs-lookup"><span data-stu-id="dfe00-116">Under **Billing**, next to **Renews on** or **Expiring on**, select **edit**.</span></span>
 
-4. <span data-ttu-id="f9f06-117">في جزء **إعدادات الفوترة المتكررة،** حدد **إيقاف التشغيل** لإيقاف تشغيله.</span><span class="sxs-lookup"><span data-stu-id="f9f06-117">In the **Recurring billing settings** pane, select **Turn OFF** to turn it off.</span></span> <span data-ttu-id="f9f06-118">إذا تم إيقاف تشغيل الفوترة المتكررة بالفعل، فحدد **شهريًا** أو **مرة واحدة** لتشغيله.</span><span class="sxs-lookup"><span data-stu-id="f9f06-118">If recurring billing is already turned off, select **Monthly** or **Once** to turn it on.</span></span>
+4. <span data-ttu-id="dfe00-117">في جزء **إعدادات الفوترة المتكررة،** حدد **إيقاف تشغيله** لإيقاف تشغيله.</span><span class="sxs-lookup"><span data-stu-id="dfe00-117">In the **Recurring billing settings** pane, select **Turn OFF** to turn it off.</span></span> <span data-ttu-id="dfe00-118">إذا تم إيقاف الفوترة المتكررة بالفعل، فحدد **شهريًا** أو **مرة واحدة** لتشغيلها.</span><span class="sxs-lookup"><span data-stu-id="dfe00-118">If recurring billing is already turned off, select **Monthly** or **Once** to turn it on.</span></span>
 
-5. <span data-ttu-id="f9f06-119">حدد **إرسال تغيير**.</span><span class="sxs-lookup"><span data-stu-id="f9f06-119">Select **Submit change**.</span></span>
+5. <span data-ttu-id="dfe00-119">حدد **إرسال التغيير**.</span><span class="sxs-lookup"><span data-stu-id="dfe00-119">Select **Submit change**.</span></span>
 
-<span data-ttu-id="f9f06-120">لمعرفة المزيد، راجع [إيقاف تشغيل الفوترة المتكررة أو تشغيل](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).</span><span class="sxs-lookup"><span data-stu-id="f9f06-120">To learn more, see [Turn recurring billing off or on](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).</span></span>
+<span data-ttu-id="dfe00-120">للحصول على مزيد من المعلومات، اطلع على [تشغيل الفوترة المتكررة أو إيقاف تشغيلها](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).</span><span class="sxs-lookup"><span data-stu-id="dfe00-120">To learn more, see [Turn recurring billing off or on](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).</span></span>
