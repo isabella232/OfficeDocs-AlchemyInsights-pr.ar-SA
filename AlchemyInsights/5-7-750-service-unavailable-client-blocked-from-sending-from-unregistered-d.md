@@ -1,9 +1,9 @@
 ---
-title: 1048 5.7.750 خدمة غير متوفرة. عميل حظر إرسال من مجالات غير مسجلة
+title: 1048 5.7.750 خدمة غير متوفرة. تم حظر العميل من الإرسال من المجالات غير المسجلة
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 9/28/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,15 +12,15 @@ ms.assetid: 8cf6d70b-9a78-4f04-ac59-7ffcf44ffd22
 ms.custom:
 - "1048"
 - "3100026"
-ms.openlocfilehash: 7126b4de7f7d8861afdb22af2540d6910c1d014f
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 48b9c2de27f8d7f52215c3a3d547bdf746a3a4cd
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36494442"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43676700"
 ---
-# <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a>5.7.750 منع العميل من إرسال من المجال غير مسجلة
+# <a name="57750-client-blocked-from-sending-from-unregistered-domain"></a>5.7.750 عميل محظور من الإرسال من المجال غير المسجل
 
-يظهر هذا الخطأ عند كبيرة حجم الرسائل المرسلة من المجالات التي لا يتم توفير في Office 365 (إضافة مجالات مقبولة والتحقق من صحتها).
+يحدث الخطأ عند إرسال كمية كبيرة من الرسائل من المجالات التي لم يتم توفيرها في المستأجر الخاص بك (تمت إضافتها كمجالات مقبولة والتحقق من صحتها).
 
-لتجنب هذا الخطأ، يمكنك استخدام موصل تدفق بريد المستندة إلى شهادة حيث المجال الشهادة مجال المتوفرة، أو يمكنك توفير كافة المجالات الإرسال.
+لتجنب هذا الخطأ، يمكنك استخدام موصل تدفق بريد يستند إلى الشهادة حيث مجال الشهادة هو مجال تم توفيره، أو يمكنك توفير كافة مجالات الإرسال.

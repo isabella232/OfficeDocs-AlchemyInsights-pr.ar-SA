@@ -10,25 +10,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: e7bfabe1555bb94e915f8544d460deecce6171be
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 049ef5acd80d64e00315ba07f274567e6a251904
+ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770338"
+ms.lasthandoff: 04/21/2020
+ms.locfileid: "43642131"
 ---
-# <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>المشكلات عند إنشاء موقع متصل بمجموعة في SharePoint
+# <a name="issues-when-creating-a-group-connected-site-in-sharepoint"></a>مشكلات عند إنشاء موقع متصل بمجموعة في SharePoint
 
-1. تواجه بعض المشكلات الشائعة عند إنشاء موقع متصل بمجموعة أو إعادة إنشائه.
-إذا قمت بحذف مجموعة وموقعمتصل بها وترغب في إنشاء موقع آخر بنفس عنوان URL، فستحتاج إلى إزالة الموقع السابق نهائيًا.
+1. بعض المشكلات الشائعة التي تمت مواجهتها عند إنشاء موقع متصل بمجموعة أو إعادة إنشائه.
+إذا حذفت مجموعة وموقعها المتصل وترغب في إنشاء موقع آخر بنفس عنوان URL، فستحتاج إلى إزالة الموقع السابق نهائيًا.
 
    - تحميل [SPO إدارة شل](https://support.office.com/article/introduction-to-the-sharepoint-online-management-shell-c16941c3-19b4-4710-8056-34c034493429)
    - لمزيد من المعلومات حول البدء باستخدام Powershell، راجع [البدء باستخدام SharePoint Online Management Shell](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite).
-   - إزالة الموقع من المواقع المحذوفة باستخدام [إزالة-SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) Powershell cmdlet. مطلوب Powershell لحذف مواقع المجموعة بشكل دائم.
+   - قم بإزالة الموقع من المواقع المحذوفة باستخدام [cmdlet إزالة SPODeletedSite](https://docs.microsoft.com/powershell/module/sharepoint-online/remove-sposite?view=sharepoint-ps) Powershell. Powershell مطلوب لحذف مواقع المجموعة بشكل دائم.
 
-1. إذا كنت تقوم بإنشاء موقع متصل بمجموعة وتتلقى تحذيرًا: **توجد بالفعل مجموعة أخرى تحمل نفس الاسم المستعار**، فتحقق من المجموعات الموجودة من Office [365 من مركز الإدارة](https://admin.microsoft.com/AdminPortal/Home#/groups). لحل المشكلة، احذف المجموعة الموجودة إذا لم تعد هناك حاجة إليها أو قم بإنشاء الموقع باسم مستعار مختلف معين.
+1. إذا كنت تقوم بإنشاء موقع متصل بمجموعة وتلقي تحذير: **توجد بالفعل مجموعة أخرى بنفس الاسم المستعار،** فتحقق من المجموعات الموجودة من مركز إدارة Microsoft [365](https://admin.microsoft.com/AdminPortal/Home#/groups). لحل المشكلة، احذف المجموعة الموجودة إذا لم تعد هناك حاجة إليها أو قم بإنشاء الموقع باسم مستعار مختلف معين.
 
-1. هناك طرق مختلفة لإنشاء واستخدام المجموعات الحديثة باستخدام SharePoint.
+1. هناك طرق مختلفة لإنشاء واستخدام المجموعات الحديثة مع SharePoint.
 
    - يمكنك توصيل المواقع الموجودة بمجموعة Office 365. لمزيد من المعلومات، راجع [توصيل مجموعة Office 365 باستخدام واجهة مستخدم SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface).
    - لإنشاء موقع متصل بمجموعة Office 365، ستحتاج إلى إنشاء [موقع فريق](https://admin.microsoft.com/sharepoint).

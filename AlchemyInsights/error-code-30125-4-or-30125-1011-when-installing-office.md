@@ -1,8 +1,8 @@
 ---
-title: رمز الخطأ 30125/1011 عند تثبيت Office أو 30125-4
+title: رمز الخطأ 30125-4 أو 30125-1011 عند تثبيت Office
 ms.author: pebaum
 author: pebaum
-ms.date: 1/17/2019
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ms.prod: office-online-server
@@ -12,26 +12,26 @@ ms.custom:
 - "983"
 - "2000020"
 ms.assetid: e8b46cc3-4dde-4386-8bc0-c21b0ef708b3
-ms.openlocfilehash: e57c0c5fd35f54c6fff70965e0010f3d013a8fe7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 4853344968d0516e975cb71c5a92d070bdc454cb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36527011"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703049"
 ---
-# <a name="error-code-30125-4-or-30125-1011-when-installing-office"></a>رمز الخطأ 30125/1011 عند تثبيت Office أو 30125-4
+# <a name="error-code-30125-4-or-30125-1011-when-installing-office"></a>رمز الخطأ 30125-4 أو 30125-1011 عند تثبيت Office
 
-قد ترى هذا الخطأ إذا كان برنامج مكافحة الفيروسات أو جدار الحماية، إعدادات الوكيل أو اتصال تمنعك من تثبيت Office. فيما يلي بعض الإجراءات التي يمكنك محاولة حل المشكلة:
+قد ترى هذا الخطأ إذا منعك برنامج مكافحة الفيروسات أو جدار الحماية أو إعدادات الوكيل أو الاتصال من تثبيت Office. فيما يلي بعض الأشياء التي يمكنك محاولة إصلاح المشكلة:
   
-- أعد تشغيل الكمبيوتر ثم إعادة تثبيت Office
+- إعادة تشغيل الكمبيوتر وإعادة تثبيت Office
 
-- تثبيت Office باستخدام [Office المثبت غير متصل](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
+- تثبيت Office باستخدام [مثبت Office دون اتصال](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA)
 
-- إيقاف مؤقت إعدادات الوكيل
+- إيقاف تشغيل إعدادات الوكيل مؤقتًا
 
-- مؤقتاً إيقاف تشغيل برنامج مكافحة الفيروسات
+- إيقاف تشغيل برامج مكافحة الفيروسات مؤقتًا
 
-- مؤقتاً إيقاف تشغيل جدار الحماية
+- إيقاف تشغيل جدار الحماية مؤقتًا
 
-لمزيد من المعلومات راجع [رمز الخطأ 30125/1011 عند تثبيت Office أو 30125-4](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612?wt.mc_id=Alchemy_ClientDIA)
+لمزيد من المعلومات راجع [رمز الخطأ 30125-4 أو 30125-1011 عند تثبيت Office](https://support.office.com/article/7bfabec6-76be-4cde-880e-819a9c569612?wt.mc_id=Alchemy_ClientDIA)
   

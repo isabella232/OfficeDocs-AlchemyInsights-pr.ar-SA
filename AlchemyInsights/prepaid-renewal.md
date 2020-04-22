@@ -1,9 +1,9 @@
 ---
-title: تجديد الدفع المسبق
+title: التجديد المسبق الدفع
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 4/16/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,26 +13,26 @@ ms.custom:
 - "662"
 - "1500012"
 ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: ccfc1b392f789e42c2bfbd545f8a7abdeb5ef022
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: bc477ddfc30c987ba25627b7b095c6d8592b8808
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36666683"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666764"
 ---
-# <a name="prepaid-office-365-renewal"></a>تجديد مكتب 365 مسبق الدفع
+# <a name="prepaid-microsoft-365-renewal"></a>تجديد Microsoft 365 المدفوع مسبقًا
 
-1. في مركز المسؤول، انتقل **** \> إلى صفحة خدمات منتجات الفوترة [&](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. في مركز الإدارة، انتقل إلى صفحة **الفوترة** \> [المنتجات والخدمات](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. ابحث عن الاشتراك الذي تريد توسيعه. في قسم **الفوترة،** حدد **توسيع تاريخ الانتهاء**.
+2. ابحث عن الاشتراك الذي تريد توسيعه. في قسم **الفوترة،** حدد **تمديد تاريخ الانتهاء**.
 
-3. في جزء **الاشتراك التوسيع،** حدد **استخدام مفتاح منتج جديد وغير مستخدم**، ثم حدد **التالي**.
+3. في جزء **الاشتراك الموسع،** حدد **استخدام مفتاح منتج جديد وغير مستخدم،** ثم حدد **التالي**.
 
 4. أدخل مفتاح المنتج، ثم حدد **التالي**.
 
 > [!NOTE]
-> إذا كان لديك أكثر من مفتاح منتج واحد، يمكنك تحديد **إضافة مفتاح منتج آخر** لإدخالها.
+> إذا كان لديك أكثر من مفتاح منتج واحد، يمكنك تحديد **إضافة مفتاح منتج آخر** لإدخاله.
 
-5. راجع تفاصيل طلبك، ثم حدد **استبدال**.
+5. راجع تفاصيل طلبك، ثم حدد **استرداد**.
 
-لمعرفة المزيد، راجع [إضافة تراخيص إلى اشتراك مدفوع مقابل استخدام مفتاح منتج أو توسيعه](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key).
+لمعرفة المزيد، راجع إضافة تراخيص إلى اشتراك مدفوع مقابل [استخدام مفتاح منتج أو توسيعه.](https://docs.microsoft.com/office365/admin/misc/add-licenses-using-product-key)

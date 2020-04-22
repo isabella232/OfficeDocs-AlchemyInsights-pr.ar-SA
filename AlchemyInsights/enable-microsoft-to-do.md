@@ -1,9 +1,9 @@
 ---
-title: تمكين Microsoft علي القيام به
+title: تمكين Microsoft للقيام
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.date: 3/1/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,21 +11,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 339f925f-91c8-4a1d-902b-f920e58999df
-ms.openlocfilehash: 09c80696c75189dbfc0b810f55cefa4a92b97392
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 5221f9937d46897303bbe02ee4d13cd72ebe9ffb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36527530"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703486"
 ---
-# <a name="how-to-enable-microsoft-to-do"></a>كيفيه تمكين Microsoft القيام به
+# <a name="how-to-enable-microsoft-to-do"></a>كيفية تمكين Microsoft للقيام
 
-لكي تتمكن من استخدام Microsoft للقيام بذلك ، يجب علي المسؤول تمكين التطبيق علي حساب كل مستخدم. انتقل إلى [صفحه الوظائف الاضافيه للخدمات &amp; ](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) من صفحه إعدادات مسؤول Office 365 لتمكين القيام به لكل مستخدم. 
+من أجل استخدام Microsoft To-Do، يجب على المسؤول تمكين التطبيق على حساب كل مستخدم. انتقل إلى [ &amp; صفحة الوظائف الإضافية للخدمات](https://portal.office.com/adminportal/home#/Settings/ServicesAndAddIns) في صفحة إعدادات مسؤول Microsoft 365 لتمكين "القيام" لكل مستخدم.
   
-تستخدم Microsoft للقيام بالميزات في Exchange عبر الإنترنت لمزامنة وتخزين العناصر الخاصة بالمستخدمين. لكي تتمكن من استخدام Microsoft للقيام بذلك ، يحتاج المستخدم إلى علبه بريد Exchange عبر إنترنت صالحه.
+يستخدم Microsoft To-Do الميزات في Exchange Online لمزامنة عناصر المستخدمين الخاصة بـ Do-to.. وتخزينها. من أجل استخدام Microsoft إلى-Do، يحتاج المستخدم إلى علبة بريد Exchange Online صالحة.
   
-للحصول علي معلومات اضافيه ، راجع [أداره معاينه المهام ل Microsoft](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).
+للحصول على معلومات إضافية، راجع [إدارة معاينة المهام من Microsoft](https://support.office.com/article/490c1a8c-2333-4952-8125-841afadb9620.aspx).
   
- **ملاحظه**: إذا تلقيت خطا 501 عند محاولة تسجيل [http://todo.microsoft.com](http://todo.microsoft.com)الدخول ، حاول. [https://to-do.microsoft.com](https://to-do.microsoft.com)
+ **ملاحظة:** إذا تلقيت خطأ 501 عند [https://todo.microsoft.com](https://todo.microsoft.com)محاولة [https://to-do.microsoft.com](https://to-do.microsoft.com)تسجيل الدخول ، حاول .
   
 

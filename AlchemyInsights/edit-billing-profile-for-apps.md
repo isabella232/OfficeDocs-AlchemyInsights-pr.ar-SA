@@ -1,9 +1,9 @@
 ---
-title: تحرير ملف تعريف الفوترة للتطبيقات
+title: تحرير ملف الفوترة للتطبيقات
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 07/09/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000564"
 - "2423"
-ms.openlocfilehash: 6edfe19d9b4f75f93e80fac3f36d6b94b40f661a
-ms.sourcegitcommit: f507896c3909cfd02395d3214ab49f7a08f021e3
+ms.openlocfilehash: f20bba47e9618a2fca656917cfaf45600a1f496c
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/09/2019
-ms.locfileid: "35606545"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43703882"
 ---
-# <a name="edit-billing-profile-for-apps"></a>تحرير ملف تعريف الفوترة للتطبيقات
+# <a name="edit-billing-profile-for-apps"></a>تحرير ملف الفوترة للتطبيقات
 
-## <a name="to-change-the-billing-profile-on-apps"></a>لتغيير التشكيل الجانبي الفوترة على تطبيقات
+## <a name="to-change-the-billing-profile-on-apps"></a>لتغيير ملف الفوترة على التطبيقات
 
-1. انتقل إلى **الدفع** > [& المنتجات أو الخدمات](https://go.microsoft.com/fwlink/p/?linkid=842054) الصفحة، ثم اختر علامة التبويب **التطبيقات** .
+1. انتقل إلى صفحة[خدمات & منتجات](https://go.microsoft.com/fwlink/p/?linkid=842054) **الفوترة،** > ثم اختر علامة التبويب **التطبيقات.**
 
-2. ابحث عن وحدد التطبيق الذي تريد إدارته.  
+2. ابحث عن التطبيق الذي تريد إدارته وحدده.  
 
-3. بجوار **الشخصية الفوترة**، حدد **تحرير** واختيار تعريف الفوترة بإقرانه مع التطبيق.
+3. بجوار **ملف الفوترة،** حدد **تحرير** ملف تعريف الفوترة الذي ترغب في ربطه بالتطبيق واختره.
 
 ## <a name="edit-billing-profiles"></a>تحرير ملفات تعريف الفوترة
 
-1. انتقل إلى **الدفع** > [شجرة & المدفوعات](https://go.microsoft.com/fwlink/p/?linkid=848039) الصفحة، ثم اختر **ملفات الدفع**.
+1. انتقل إلى صفحة **الفواتير** > [& المدفوعات،](https://go.microsoft.com/fwlink/p/?linkid=848039) ثم اختر **ملفات تعريف الفوترة**.
 
-2. اختر ملف الفوترة من القائمة تحرير.
+2. اختر ملف تعريف الفوترة من القائمة لـ تحريرها.

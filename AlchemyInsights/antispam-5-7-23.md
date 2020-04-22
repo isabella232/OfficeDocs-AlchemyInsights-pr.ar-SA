@@ -1,5 +1,5 @@
 ---
-title: مضاد البريد المزعج-5.7.23
+title: مكافحة البريد المزعج - 5.7.23
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3156"
 - "9001196"
-ms.openlocfilehash: 9c9bc2d04fb8efaa5e75194b4ca09316d24e018e
-ms.sourcegitcommit: 07b47d7f3ca191363e6bc84140e8e01524d6f08e
+ms.openlocfilehash: 307b738c40c620d057e68eff7d218c8c9b5eb665
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37682016"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43676484"
 ---
-# <a name="fix-email-delivery-issues-for-error-code-5723"></a>إصلاح مشكلات تسليم البريد الكتروني لرمز الخطا 5.7.23
+# <a name="fix-email-delivery-issues-for-error-code-5723"></a>إصلاح مشكلات تسليم البريد الإلكتروني لرمز الخطأ 5.7.23
 
-تحقق من سجل DNS SPF للمجال الخاص بك في مدقق سجلات SPF أو DNS المتوفرة للعامة علي الويب.
+تحقق من سجل DNS SPF للمجال الخاص بك في مدقق سجل SPF أو DNS متوفر بشكل عام على الويب.
 
-تحقق من ان الرسالة الصادرة لم يتم تعريفها كرسائل غير مرغوب فيها بواسطة Office 365 وتوجيهها عبر [تجمع التسليم عالي المخاطر](https://docs.microsoft.com/office365/SecurityCompliance/high-risk-delivery-pool-for-outbound-messages). الرسائل في تجمع التسليم عاليه المخاطر لن تمر الشيكات SPF ، التالي لن تكون مقبوله من قبل مؤسسه البريد الكتروني الوجهة.
+تحقق من أن الرسالة الصادرة لم يتم تعريفها كرسائل غير مرغوب فيها من قبل Microsoft وتم توجيهها من خلال [تجمع التسليم عالي الخطورة](https://docs.microsoft.com/office365/SecurityCompliance/high-risk-delivery-pool-for-outbound-messages). لن تجتاز الرسائل الموجودة في تجمع التسليم عالي المخاطر شيكات SPF، وبالتالي لن يتم قبولها من قبل مؤسسة البريد الإلكتروني الوجهة.
 
-إذا استمرت المشكلة ، قد تحتاج إلى الاتصال بمسؤول مضيف البريد الذي تحاول إرسال البريد الكتروني. قم بتدوين الخطا الخارجي المفصل المتوفر في رسالة الارتداد.  قد لا يتمكن دعم Office 365 من المساعدة بشكل أكبر.
+إذا استمرت المشكلة، فقد تحتاج إلى الاتصال بمسؤول مضيف البريد الذي تحاول إرسال بريد إلكتروني إليه. دوّن الخطأ الخارجي المفصل المتوفر في رسالة الارتداد. قد لا يتمكن دعم Microsoft من المساعدة بشكل أكبر.

@@ -1,9 +1,9 @@
 ---
-title: نشر أفرقة مستقلة أو مع عمليات تثبيت Office جديد أو موجود
+title: نشر الفرق كوحدة مستقلة أو مع عمليات تثبيت Office جديدة أو موجودة
 ms.author: danbrown
 author: DHB-MSFT
 manager: laurawi
-ms.date: 08/01/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000660"
 - "2509"
-ms.openlocfilehash: 3318e1b17cc99e927e1011f7ca9eca8dec616d59
-ms.sourcegitcommit: 4600dd4fb577bf5f5482a24616c2d9a6b81e8052
+ms.openlocfilehash: 4b843407f05db207f3b676c03c7088d3d0ba062e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/01/2019
-ms.locfileid: "36054218"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704620"
 ---
-# <a name="deploying-teams-as-standalone-or-with-new-or-existing-office-installations"></a>نشر أفرقة مستقلة أو مع عمليات تثبيت Office جديد أو موجود
+# <a name="deploying-teams-as-standalone-or-with-new-or-existing-office-installations"></a>نشر الفرق كوحدة مستقلة أو مع عمليات تثبيت Office جديدة أو موجودة
 
-الفرق Microsoft الآن مدرجة كجزء من ***عمليات التثبيت الجديدة*** من Office 365 ProPlus Office 365 الأعمال ومكتب لجنة الهدنة العسكرية. لمزيد من المعلومات، راجع [عندما فرق Microsoft ستبدأ يتم تضمينها مع عمليات تثبيت جديد ل Office؟](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
+يتم الآن تضمين Microsoft Teams كجزء من ***عمليات التثبيت الجديدة*** لتطبيقات Microsoft 365 للمؤسسات وMicrosoft 365 Apps للأعمال وOffice for Mac. لمزيد من المعلومات، راجع [متى سيتم تضمين Microsoft Teams مع عمليات التثبيت الجديدة من Office؟](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-office-365-proplus)
 
-بالإضافة إلى ذلك، بدءاً من الإصدار 1906 في القناة شهريا، الفرق سيكون ***إضافة إلى المنشآت القائمة*** Office 365 ProPlus (ومكتب الأعمال 365) على أجهزة تشغيل Windows عند تحديث تثبيت موجود للإصدار الأحدث. لمزيد من المعلومات، راجع [ما حول المنشآت القائمة من Office؟](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
-
-> [!NOTE]
-> إذا لم ترغب في الانتظار لجدولة هذه العملية التمهيدية، يمكنك نشر فرق كمستقل للمستخدمين [اتباع هذه الإرشادات](https://docs.microsoft.com/MicrosoftTeams/msi-deployment) أو يمكنك جعل المستخدمين تثبيت الفرق لأنفسهم من [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads).
-
-إذا لم يكن مؤسستك جاهزة لنشر أفرقة، لدينا على الخطوات التي يمكنك اتخاذها ***استبعاد الفرق*** من منشآت [جديدة](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-office-365-proplus) أو [موجودة](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) من Office. إذا كنت تريد الفرق بتثبيت، ولكن لا تريد الفرق ليتم تشغيله تلقائياً للمستخدم بعد تثبيته، راجع [منع Microsoft فرق من بدء التشغيل تلقائياً بعد التثبيت](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).
-
-***إلغاء تثبيت فرق*** من جهاز يقوم بتشغيل Windows، راجع [إزالة تثبيت Microsoft الفرق](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81). لتنظيف فرق Microsoft من المستخدمين أو الأجهزة الهدف متعددة، راجع [مسح نشر فرق Microsoft](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).
-
-إذا كنت تستخدم أجهزة الكمبيوتر المشتركة أو خدمات سطح المكتب البعيد (RDS) "البنية التحتية" سطح المكتب الظاهري (VDI)، راجع [الكمبيوتر المشتركة وبيئات VDI مع فرق Microsoft](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams).
-
-إذا كنت تستخدم Macلنظام التشغيل Office، راجع [تثبيت Microsoft الفرق في نظام التشغيل Mac](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
+بالإضافة إلى ذلك، بدءًا من الإصدار 1906 في القناة الشهرية، ستتم إضافة الفرق ***إلى عمليات التثبيت الحالية*** لتطبيقات Microsoft 365 للمؤسسات (وMicrosoft 365 Apps for business) على الأجهزة التي تعمل بنظام التشغيل Windows عند تحديث التثبيت الحالي إلى أحدث إصدار. لمزيد من المعلومات، راجع [ماذا عن عمليات التثبيت الحالية لـ Office؟](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-office-365-proplus)
 
 > [!NOTE]
-> بعد تثبيت الفرق من [تحديثه تلقائياً](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) كل أسبوعين تقريبا مع الميزات الجديدة والتحديثات الجودة. 
+> إذا كنت لا تريد الانتظار لهذا الجدول التمهيدي، يمكنك نشر Teams كمستقل للمستخدمين باتباع [هذه الإرشادات](https://docs.microsoft.com/MicrosoftTeams/msi-deployment) أو يمكنك [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads)أن تدع المستخدمين يقومون بتثبيت Teams لأنفسهم من .
+
+إذا لم تكن مؤسستك مستعدة لنشر Teams، فلدينا الخطوات التي يمكنك اتخاذها ***لاستبعاد الفرق*** من عمليات التثبيت [الجديدة](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-office-365-proplus) أو [الحالية](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) في Office. إذا كنت تريد تثبيت الفرق، ولكنك لا تريد أن تبدأ الفرق تلقائيًا للمستخدم بعد تثبيته، فراجع [منع Microsoft Teams من البدء تلقائيًا بعد التثبيت](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).
+
+***لإلغاء تثبيت "الفرق"*** من جهاز يعمل بنظام التشغيل Windows، راجع [إلغاء تثبيت "فرق Microsoft".](https://support.office.com/article/3b159754-3c26-4952-abe7-57d27f5f4c81) لتنظيف Microsoft Teams من أجهزة أو مستخدمين مستهدفين متعددة، راجع [تنظيف نشر Microsoft Teams](https://docs.microsoft.com/microsoftteams/scripts/powershell-script-teams-deployment-clean-up).
+
+إذا كنت تستخدم أجهزة كمبيوتر مشتركة أو خدمات سطح المكتب البعيد (RDS) أو البنية التحتية لسطح المكتب الظاهري (VDI)، فراجع [بيئات الكمبيوتر المشتركة وبيئات VDI مع Microsoft Teams](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams).
+
+إذا كنت تستخدم Office for Mac، فراجع [عمليات تثبيت Microsoft Teams على Mac](https://docs.microsoft.com/deployoffice/teams-install#microsoft-teams-installations-on-a-mac).
+
+> [!NOTE]
+> بعد تثبيت Teams، يتم [تحديثه تلقائيًا](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) كل أسبوعين تقريبًا باستخدام ميزات جديدة وتحديثات عالية الجودة. 

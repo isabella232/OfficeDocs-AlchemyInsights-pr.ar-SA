@@ -1,9 +1,9 @@
 ---
-title: رفض بطاقة الائتمان
+title: بطاقة الائتمان المرفوضة
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: d02f2cfdc867e54896945a8c9efd119a9b87a5d3
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 6664bb1b3c34c7bc78c516d7437711e2ac05673d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665143"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43705072"
 ---
-# <a name="declined-credit-card"></a>رفض بطاقة الائتمان
+# <a name="declined-credit-card"></a>بطاقة الائتمان المرفوضة
 
-إذا دفعت بواسطة بطاقة الائتمان، ورفض بطاقة الائتمان الخاصة بك، سوف تتلقى رسالة بريد إلكتروني يتيح لك معرفة أن لم نتمكن من معالجة الدفع. انقر نقراً مزدوجاً فوق [تفاصيل بطاقة الائتمان](https://go.microsoft.com/fwlink/p/?linkid=842054) -رقم البطاقة تاريخ انتهاء الصلاحية، الاسم على بطاقة الائتمان، وعنوان، بما في ذلك المدينة والولاية والرمز البريدي-تظهر تماما كما هي موجودة على بطاقة الائتمان وكشف بطاقة الائتمان الخاصة بك. يمكنك تحديث معلومات بطاقة الائتمان الخاصة بك وإرسال المدفوعات مباشرة باستخدام خيار **تسوية الرصيد** في الصفحة [& المنتجات أو الخدمات](https://go.microsoft.com/fwlink/p/?linkid=842054) . 
+إذا كنت تدفع عن طريق بطاقة الائتمان، وتم رفض بطاقة الائتمان الخاصة بك، فسوف تتلقى رسالة بريد إلكتروني تعلم أننا غير قادرين على معالجة الدفع. تحقق مرة أخرى من أن [تفاصيل بطاقة الائتمان](https://go.microsoft.com/fwlink/p/?linkid=842054) - رقم البطاقة وتاريخ انتهاء الصلاحية والاسم على بطاقة الائتمان والعنوان ، بما في ذلك المدينة والولاية والرمز البريدي - تظهر تمامًا كما تظهر على بطاقة الائتمان وبيان بطاقة الائتمان الخاصة بك. يمكنك تحديث معلومات بطاقة الائتمان الخاصة بك وإرسال الدفعة على الفور باستخدام خيار **تسوية الرصيد** في صفحة [الخدمات & المنتجات.](https://go.microsoft.com/fwlink/p/?linkid=842054) 
 
-لمزيد من المعلومات، راجع "ماذا يحدث إذا انتهت صلاحية بطاقة الائتمان والدفع متجاوزة الاستحقاق؟" في [دفع الخاص بك Office 365 للاشتراك في العمل](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due).
+لمعرفة المزيد، راجع "ماذا لو انتهت صلاحية بطاقتي الائتمانية وانتهت مدفوعاتي بعد الاستحقاق؟" في [الدفع لمايكروسوفت 365 للاشتراك في الأعمال التجارية.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/pay-for-your-subscription#what-if-my-credit-card-was-declined-and-my-payment-is-past-due)
   
-إذا استمر ظهور رسالة "رفض"، اتصل بالبنك الذي تتعامل معه. من المحتمل أن بطاقة الائتمان الخاصة بك غير نشطة — على سبيل المثال، إذا تلقيت مؤخرا بطاقة الائتمان في المراسلات مع تاريخ انتهاء صلاحية محدثة، قد لا تزال تحتاج لتنشيطه. البنك الخاص بك يمكن أن أقول لكم إذا لم تتم الموافقة بطاقة الائتمان للمعاملات على الإنترنت الدولية أو المتكررة.
+إذا كنت لا تزال ترى الرسالة "المرفوضة"، فاتصل بالبنك الذي تتعامل معه. من المحتمل ألا تكون بطاقة الائتمان الخاصة بك نشطة ، على سبيل المثال ، إذا تلقيت بطاقة الائتمان مؤخرًا في البريد مع تاريخ انتهاء صلاحية محدث ، فقد تحتاج إلى تنشيطها. يمكن للبنك الذي تتعامل معه أيضًا أن يخبرك إذا لم تتم الموافقة على بطاقة الائتمان الخاصة بك للمعاملات عبر الإنترنت أو الدولية أو المتكررة.
   
-لمزيد من المعلومات راجع [استكشاف الأخطاء وإصلاحها بطاقات الائتمان والحسابات البنكية](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+لمزيد من المعلومات راجع [استكشاف الأخطاء وإصلاحها بطاقات الائتمان والحسابات المصرفية](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).

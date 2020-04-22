@@ -1,9 +1,9 @@
 ---
-title: منع تحميل الملفات من SharePoint أو اندريف
+title: منع تنزيل الملفات من SharePoint أو OneDrive
 ms.author: pebaum
 author: pebaum
 manager: matteva
-ms.date: 08/06/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.custom:
 - "2523"
 - "9000213"
-ms.openlocfilehash: 07056849ba8926c5bd34709990b65057a62e5602
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 46309de245df34a90c9cb0bcee6df2a8c6527c3f
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40054365"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666872"
 ---
-# <a name="prevent-files-from-being-downloaded-from-sharepoint-or-onedrive"></a>منع تحميل الملفات من SharePoint أو اندريف
+# <a name="prevent-files-from-being-downloaded-from-sharepoint-or-onedrive"></a>منع تنزيل الملفات من SharePoint أو OneDrive
 
-هناك العديد من الطرق التي يمكن استخدامها لمنع أو حظر التنزيلات من الحدوث. يرجى زيارة الروابط أدناه للأساليب المعنية:
+هناك طرق مختلفة يمكن استخدامها لمنع أو حظر التنزيلات من الحدوث. يرجى زيارة الروابط أدناه للحصول على الطرق ذات الصلة:
 
-- [تحميل ملف الحظر مع الوصول المشروط AD Azure](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
+- [حظر تنزيل الملف مع الوصول المشروط إلى Azure AD](https://docs.microsoft.com/cloud-app-security/use-case-proxy-block-session-aad#create-a-block-download-policy-for-unmanaged-devices)
 
-- [التحكم في الوصول من الاجهزه غير المدارة](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
+- [التحكم في الوصول من الأجهزة غير المدارة](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-- [تكوين نهج IRM علي مكتبات مستندات SharePoint للحد من تنزيل المحتوي](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center)
+- [تكوين نُهج IRM على مكتبات مستندات SharePoint للحد من تنزيل المحتوى](https://docs.microsoft.com/office365/securitycompliance/set-up-irm-in-sp-admin-center)

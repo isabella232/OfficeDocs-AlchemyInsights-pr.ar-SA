@@ -1,9 +1,9 @@
 ---
-title: بوويرابس 1575 وتدفق Microsoft تخطيط ملحق
+title: 1575-PowerApps ومايكروسوفت تدفق تمديد الخطة
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 03/04/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "1575"
 - "9000087"
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: fbb0088756590e73d3236a46051e489b35e0ced5
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 18a73855a31cb1a701a3f3559156793ee5a80ecf
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554683"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43667016"
 ---
-# <a name="powerapps-and-microsoft-flow-plan-extension"></a>ملحق خطة بوويرابس وتدفق Microsoft
+# <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps ومايكروسوفت تدفق تمديد الخطة
 
-إذا كنت تنوي طلب ملحق خطة **تدفق Microsoft** أو **بوويرابس** والمستأجر الخاص بك لديه بالفعل المتواجدين لأحد الميزات التالية، ليست هناك حاجة إرسال طلب دعم.
+إذا كنت تنوي طلب إضافة خطة **لـ Microsoft Flow** أو **PowerApps** والمستأجر لديك بالفعل مستخدمين نشطين لإحدى الميزات التالية، فلا حاجة لتقديم طلب دعم.
 
-- تكوين ونشر الروابط مخصصة في بوويرابس وتدفق Microsoft
-- دمج إجراءات HTTP مخصصة في تدفق خارج SharePoint وأندريف
-- تكامل البيانات الداخلية من خلال بوابة بيانات داخلي
+- إنشاء ونشر موصلات مخصصة في PowerApps وMicrosoft Flow
+- إجراءات مخصصة HTTP مدمجة في التدفق خارج SharePoint و OneDrive
+- دمج البيانات الداخلية من خلال بوابة البيانات الداخلية
 
-سيحصل العملاء مع المستخدمين النشطين من هذه الميزات ملحق تلقائي حتى 31 كانون الثاني/يناير 2020، أو انقضاء فترة الاشتراك القائمة Office 365، أيهما أطول.
+سيحصل العملاء الذين لديهم مستخدمين نشطين على هذه الميزات على إضافة تلقائية حتى 31 يناير 2020 أو انتهاء مدة اشتراك Microsoft 365 الحالية، أيهما أطول.

@@ -1,47 +1,47 @@
 ---
-title: تقييد الوصول في SharePoint أو اندريف
+title: تقييد الوصول في SharePoint أو OneDrive
 ms.author: pebaum
 author: pebaum
-ms.date: 8/7/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: 242388af3ae8887616fc123f24502a8e5ac8dfbe
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 39aa8cd6e649eca4a1e196eeb589a825364d0977
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40053752"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43692752"
 ---
-# <a name="restrict-access-in-sharepoint-or-onedrive"></a>تقييد الوصول في SharePoint أو اندريف
+# <a name="restrict-access-in-sharepoint-or-onedrive"></a>تقييد الوصول في SharePoint أو OneDrive
 
-هناك العديد من الطرق لتقييد الوصول إلى خدمات SharePoint علي الإنترنت/اندريف. هذه الطرق المختلفة لتقييد الوصول موضحه أدناه. 
+هناك العديد من الطرق لتقييد الوصول إلى خدمات SharePoint Online/OneDrive. وفيما يلي طرق تقييد الوصول المختلفة هذه. 
 
-**تقييد الأذونات**
+**تقييد الإذن**
 
-في SharePoint علي الإنترنت و اندريف للعمل ، ونحن تقييد الوصول إلى العناصر مثل المواقع والملفات والمجلدات عن طريق منح حق الوصول إلى تلك المجموعات/الافراد الذين يجب ان يكون الوصول.
+في SharePoint Online و OneDrive للأعمال، نقيد الوصول إلى عناصر مثل المواقع والملفات والمجلدات من خلال منح حق الوصول فقط إلى تلك المجموعات /الأفراد الذين يجب أن يكون لديهم حق الوصول.
 
-- [تخصيص أذونات لقائمه أو مكتبه SharePoint](https://support.office.com/article/Customize-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
+- [تخصيص أذونات لقائمة SharePoint أو مكتبة](https://support.office.com/article/Customize-permissions-for-a-SharePoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
 
 - [تخصيص أذونات موقع SharePoint](https://docs.microsoft.com/sharepoint/customize-sharepoint-site-permissions)
 
-- [تغيير الأذونات علي مجلد فرعي](https://support.office.com/article/Change-the-permissions-on-a-subfolder-5427BD7C-F20A-4F75-8CF2-5359DD45A1A6)
+- [تغيير الأذونات على مجلد فرعي](https://support.office.com/article/Change-the-permissions-on-a-subfolder-5427BD7C-F20A-4F75-8CF2-5359DD45A1A6)
 
-- [التحكم في الوصول من الاجهزه غير المدارة](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
+- [التحكم في الوصول من الأجهزة غير المدارة](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
 
-كمسؤول SharePoint أو العمومية في Office 365 ، يمكنك حظر أو تقييد الوصول إلى محتوي SharePoint و OneDrive من الاجهزه غير المدارة (تلك غير المختلطة AD منضمة أو متوافقة في اينتوني).
+كـ SharePoint أو مسؤول عمومي، يمكنك حظر أو تقييد الوصول إلى محتوى SharePoint وOneDrive من الأجهزة غير المدارة (تلك التي لا ينضم إليها الإعلان المختلط أو متوافقمعها في Intune).
 
 **تقييد موقع الشبكة**
 
-بصفتك مسؤول تكنولوجيا الاتصال ، يمكنك التحكم في الوصول إلى موارد SharePoint و OneDrive استنادا إلى مواقع الشبكة المعرفة التي تثق بها. ويعرف هذا أيضا باسم النهج المستند إلى الموقع. لمزيد من المعلومات ، الرجاء مراجعه [التحكم بالوصول إلى SharePoint علي الإنترنت والبيانات اندريف استنادا إلى موقع شبكه الاتصال](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+كمسؤول تكنولوجيا المعلومات، يمكنك التحكم في الوصول إلى موارد SharePoint و OneDrive استنادًا إلى مواقع الشبكة المحددة التي تثق بها. ويُعرف هذا أيضًا باسم النهج المستند إلى الموقع. لمزيد من المعلومات، يرجى الاطلاع [على التحكم في الوصول إلى بيانات SharePoint Online و OneDrive استنادًا إلى موقع الشبكة](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 
 **تقييد قفل الموقع** 
 
-داخل SharePoint علي الإنترنت لديك القدرة علي تامين مجموعه موقع ، لذلك لا أحد لديه حق الوصول. يتم تعيين هذا عبر PowerShell و [Shell أداره SharePoint علي الإنترنت](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps) باستخدام الخاصية [مجموعه sposite](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) -lockstate.
+داخل SharePoint Online لديك القدرة على تأمين مجموعة مواقع ، لذلك لا أحد لديه حق الوصول. يتم تعيين هذا عبر PowerShell [وSharePoint إدارة الإنترنت شل](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps) باستخدام [خاصية Set-SPOSite-LockState.](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps)
 
-**تقييد المستخدمين من إنشاء مواقع أو مواقعه فرعيه**
+**تقييد المستخدمين من إنشاء مواقع أو مواقع فرعية**
 
-كمسؤول SharePoint أو المسؤول العمومي Office 365 ، يمكنك السماح للمستخدمين إنشاء وأداره مواقع SharePoint الخاصة بهم ، وتحديد اي نوع من المواقع التي يمكن إنشاؤها ، وتحديد موقع المواقع. لمزيد من المعلومات ، الرجاء مراجعه [أداره إنشاء الموقع في SharePoint علي الإنترنت](https://docs.microsoft.com/sharepoint/manage-site-creation)
+كمسؤول SharePoint أو مسؤول عالمي، يمكنك السماح للمستخدمين بإنشاء مواقع SharePoint الخاصة بهم وإدارتها، وتحديد نوع المواقع التي يمكنهم إنشاؤها، وتحديد موقع المواقع. لمزيد من المعلومات، يرجى [الاطلاع على إدارة إنشاء الموقع في SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation)
 

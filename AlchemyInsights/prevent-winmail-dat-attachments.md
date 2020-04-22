@@ -1,32 +1,32 @@
 ---
-title: 2589 منع مرفقات Winmail.dat في رسائل البريد الإلكتروني من المؤسسة الخاصة بك
+title: 2589 تعليمات منع مرفقات Winmail.dat في رسائل البريد الإلكتروني من مؤسستك
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 2589
 ms.assetid: ''
-ms.openlocfilehash: 41ab3f22499994cda5883834ff54e5767c69265b
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 5336d4087e0a7579b68d6d97073726d020c89b47
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391083"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666728"
 ---
-# <a name="help-prevent-winmaildat-attachments-in-email-messages-from-your-organization"></a>منع مرفقات Winmail.dat في رسائل البريد الإلكتروني من المؤسسة الخاصة بك
+# <a name="help-prevent-winmaildat-attachments-in-email-messages-from-your-organization"></a>المساعدة في منع مرفقات Winmail.dat في رسائل البريد الإلكتروني من مؤسستك
 
-كمسؤول، جرب الخطوات التالية:
+كمسؤول، جرّب الخطوات التالية:
 
-1. فتح [مركز مسؤول Exchange](https://outlook.office365.com/ecp/).
+1. افتح [مركز إدارة Exchange](https://outlook.office365.com/ecp/).
 
-2. انتقل إلى **تدفق البريد** > **مجالات البعيد**.
+2. انتقل إلى مجالات **تدفق** > البريد**البعيد**.
 
-3. حدد المجال البعيد الافتراضي المسمى **الافتراضي**، ومن ثم انقر فوق **تحرير**.
+3. حدد المجال البعيد الافتراضي المسمى **الافتراضي**، ثم انقر فوق **تحرير**.
 
-4. في المقطع **تنسيق استخدام النص المنسق** ، حدد **ابدأ**.
+4. في قسم **استخدام تنسيق النص الغني،** حدد **أبداً**.
 
-لمزيد من المعلومات، راجع [تحديد تنسيق الرسالة الخاصة بالمجالات البعيد](https://docs.microsoft.com/Exchange/mail-flow-best-practices/remote-domains/remote-domains#specifying-message-format).
+لمزيد من المعلومات، راجع [تحديد تنسيق الرسالة للمجالات البعيدة](https://docs.microsoft.com/Exchange/mail-flow-best-practices/remote-domains/remote-domains#specifying-message-format).

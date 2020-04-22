@@ -1,8 +1,8 @@
 ---
-title: أداره مجموعه بدون ترخيص Exchange
+title: إدارة مجموعة بدون ترخيص تبادل
 ms.author: pebaum
 author: pebaum
-ms.date: 5/23/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.assetid: edef2e23-72cf-4a76-8a51-0b26182187cc
 ms.custom:
 - "79"
 - "1200018"
-ms.openlocfilehash: f117cc1dc55e1786a9f6bc500314877e97df3f5e
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 7170f98a1f874f5f44badc82247e1e933f9972d8
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049252"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43671156"
 ---
-# <a name="manage-a-group-without-an-exchange-license"></a>أداره مجموعه بدون ترخيص Exchange
+# <a name="manage-a-group-without-an-exchange-license"></a>إدارة مجموعة بدون ترخيص تبادل
 
-إذا لم يكن لديك حساب مسؤول Office 365 علبه بريد ، قد تحصل علي خطا حول ترخيص منتج مفقود عند محاولة تحرير مجموعه 365 Office.
+إذا لم يكن لدى حساب المسؤول صندوق بريد، فقد تحصل على خطأ حول ترخيص منتج مفقود عند محاولة تحرير مجموعة Office 365.
   
-لأنك المشرف المستاجر ، فمن الممكن بالنسبة لك لتحرير مجموعه حتى ولو لم يكن لديك ترخيص Exchange. فقط انتقل إلى \> **مجموعات** [مركز مسؤول Exchange](https://outlook.office365.com/ecp.aspx) لأداره مجموعه 365 Office.
+نظرًا لأنك المشرف المستأجر، فمن الممكن بالنسبة لك تحرير مجموعة على الرغم من عدم وجود ترخيص Exchange. ما عليك سوى الانتقال إلى **مجموعات** [Exchange Admin Center](https://outlook.office365.com/ecp.aspx) \> لإدارة مجموعة Office 365.
   
-إذا كنت ترغب في تحرير المجموعات في مركز الاداره ، فقم باضافه ترخيص Exchange إلى حساب المسؤول الخاص بك. تحتاج إلى الانتظار حتى يتم إنشاء علبه البريد بشكل كامل قبل ان تتمكن من تحرير مجموعه.
+إذا كنت ترغب في تحرير المجموعات في مركز المسؤول، فأضف ترخيص Exchange إلى حساب المسؤول. تحتاج إلى الانتظار حتى يتم إنشاء علبة البريد بالكامل قبل أن تتمكن من تحرير مجموعة.
   

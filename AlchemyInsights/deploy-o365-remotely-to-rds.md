@@ -1,9 +1,9 @@
 ---
-title: نشر Office 365 ProPlus للاستخدام المشترك علي RDS أو ملقم المحطة الطرفية أو VDI
+title: نشر تطبيقات Microsoft 365 للمؤسسات للاستخدام المشترك على RDS أو Terminal Server أو VDI
 ms.author: v-todmc
 author: todmccoy
 manager: mnirkhe
-ms.date: 12/9/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,40 +12,40 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: 2312cca9ebf5dad1322bc98335cef6a6bc81f03e
-ms.sourcegitcommit: cbbd46fa9a32873c5446d9fd5a532cea0300b795
+ms.openlocfilehash: ddd44d40e9430ee31b8b734450dde0defef229d7
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/10/2019
-ms.locfileid: "39959447"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43704692"
 ---
-# <a name="deploying-office-365-proplus-for-shared-use-on-rds-terminal-server-or-vdi"></a>نشر Office 365 ProPlus للاستخدام المشترك علي RDS أو ملقم المحطة الطرفية أو VDI
+# <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>نشر تطبيقات Microsoft 365 للمؤسسات للاستخدام المشترك على RDS أو Terminal Server أو VDI
 
-لنشر Office 365 ProPlus باستخدام خدمات سطح المكتب البعيد (RDS) ، المسمية سابقا "الخدمات الطرفية":
-- يجب ان يكون لديك Microsoft 365 لخطه العمل أو خطه Office 365 التي تتضمن Office 365 ProPlus ، مثل Office 365 المؤسسة E3 أو المؤسسة E5.
+لنشر تطبيقات Microsoft 365 للمؤسسات باستخدام خدمات سطح المكتب البعيد (RDS)، التي كانت تسمى سابقًا خدمات المحطة الطرفية:
+- يجب أن يكون لديك خطة Microsoft 365 For Business أو خطة Office 365 التي تتضمن تطبيقات Microsoft 365 للمؤسسات، مثل Office 365 Enterprise E3 أو Enterprise E5.
    > [!NOTE] 
-   > لا تتضمن خطط office 365 الاعمال والمكتب 365 Premium الاعمال Office 365 ProPlus.
+   > لا تتضمن تطبيقات Microsoft 365 للأعمال وخطط Microsoft 365 Business Premium Standard تطبيقات Microsoft 365 للمؤسسات.
 - يجب تمكين [تنشيط الكمبيوتر المشترك](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
 
 > [!NOTE]
-> يمكنك أيضا تحميل وتشغيل [مساعد الدعم والاسترداد ل Microsoft](https://aka.ms/SaRA_OfficeSCA_M365Portal) لتثبيت Office 365 proplus في وضع تنشيط الكمبيوتر المشترك.
+> يمكنك أيضًا تنزيل [وتشغيل مساعد دعم واسترداد Microsoft](https://aka.ms/SaRA_OfficeSCA_M365Portal) لتثبيت تطبيقات Microsoft 365 للمؤسسات في وضع تنشيط الكمبيوتر المشترك.
 
-لمزيد من المعلومات حول المتطلبات الاساسيه وإرشادات الاعداد وإرشادات حول عمليات التثبيت المخصصة باستخدام أداه نشر Office ، راجع [نشر office 365 ProPlus باستخدام "خدمات سطح المكتب البعيد](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services)".
+لمزيد من المعلومات حول المتطلبات الأساسية وإرشادات الإعداد والإرشادات حول عمليات التثبيت المخصصة باستخدام أداة نشر Office، راجع [نشر تطبيقات Microsoft 365 للمؤسسات باستخدام خدمات سطح المكتب البعيد](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
 
 لإصلاح الأخطاء المتعلقة بتنشيط الكمبيوتر المشترك:
-- راجع [استكشاف المشكلات وإصلاحها مع تنشيط الكمبيوتر المشترك ل Office 365 ProPlus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
-- راجع [أعاده تعيين حاله تنشيط ProPlus ل Office 365](https://go.microsoft.com/fwlink/?linkid=2109218).
+- راجع [استكشاف الأخطاء وإصلاحها مع تنشيط الكمبيوتر المشترك لتطبيقات Microsoft 365 للمؤسسات](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
+- راجع [إعادة تعيين تطبيقات Microsoft 365 لحالة تفعيل المؤسسة](https://go.microsoft.com/fwlink/?linkid=2109218).
 
-إذا كنت ترغب في تثبيت Office 365 ProPlus علي RDS من مركز مسؤول Microsoft 365 ، ***الذي يستخدم إعدادات التثبيت الافتراضية***، اتبع الخطوات التالية:
+إذا كنت ترغب في تثبيت تطبيقات Microsoft 365 للمؤسسات على RDS من مركز إدارة Microsoft 365، ***والذي يستخدم إعدادات التثبيت الافتراضية،*** فاستخدم الخطوات التالية:
 
-1.  تحقق من خطه Office 365 التي لديك. [تعلم كيف](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have).
-2.  إذا لزم الأمر ، قم بالتبديل إلى خطه 365 Office مختلفه. [تعلم كيف](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan).
-3.  إذا كان Office مثبتا بالفعل علي ملقم RDS باستخدام إيه خطط Office 365 أخرى ، إلغاء تثبيته. علي سبيل المثال ، عن طريق الانتقال إلى >  **لوحه التحكم****إلغاء تثبيت برنامج**. إلغاء [التثبيت باستخدام دعم Microsoft ومساعد الاسترداد](https://aka.ms/SARA-OfficeUninstall-Alchemy) إذا كنت قيد التشغيل في المشكلات.
-4.  علي ملقم RDS تسجيل الدخول إلى مركز مسؤول Microsoft 365 مع حساب المسؤول [وتثبيت Office 365 ProPlus](https://portal.office.com/OLS/MySoftware.aspx).
-5.  بعد تثبيت Office ، ***لا تقم بفتح أو تسجيل*** الدخول إلى اي من تطبيقات office.
-6.  علي ملقم RDS تمكين تنشيط الكمبيوتر المشتركة عن طريق تحرير التسجيل باتباع الخطوات التالية:
-   1. انقر نقرا ايمن فوق زر Windows في الزاوية السفلية اليسرى من الشاشة وحدد **تشغيل**. في المربع فتح ، اكتب **regedit**، ثم حدد **موافق**.
-   2. حدد **نعم** عند المطالبة بالسماح لمحرر التسجيل باجراء تغييرات علي جهازك.
-   3. في "محرر التسجيل" ، أضافه قيمه سلسله من **Sharedالكمبيوادالترخيص** مع اعداد من 1 ضمن HKEY_LOCAL_MACHINE \ البرنامج النصي \ Microsoft \Wic\clortorun\contate.
-   4. علي ملقم RDS ***تسجيل الدخول كمستخدم نهائي*** [وتحقق من تمكين تنشيط الكمبيوتر المشتركة ل Office 365 proplus](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+1.    تحقق من الاشتراك الذي لديك. [تعرف على كيفية](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have).
+2.    إذا لزم الأمر، قم بالتبديل إلى اشتراك مختلف. [تعرف على كيفية](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan).
+3.    إذا تم تثبيت Office بالفعل على خادم RDS باستخدام أي اشتراكات Microsoft أخرى، فقم بإلغاء تثبيته. على سبيل المثال، عن طريق الانتقال إلى **لوحة** > التحكم**إلغاء تثبيت برنامج**. إلغاء التثبيت باستخدام [مساعد دعم Microsoft والاسترداد](https://aka.ms/SARA-OfficeUninstall-Alchemy) إذا كنت تقوم بمشكلات.
+4.    على خادم RDS، قم بتسجيل الدخول إلى مركز إدارة Microsoft 365 باستخدام حساب المسؤول [وتثبيت تطبيقات Microsoft 365 للمؤسسات](https://portal.office.com/OLS/MySoftware.aspx).
+5.    بعد تثبيت Office، ***لا تفتح أو تسجل الدخول*** إلى أي تطبيقات Office.
+6.    على ملقم RDS، تمكين تنشيط الكمبيوتر المشترك عن طريق تحرير التسجيل باتباع الخطوات التالية:
+   1. انقر بزر Windows في الزاوية اليسرى السفلى من الشاشة وحدد **تشغيل**. في المربع المفتوح، اكتب **regedit،** ثم حدد **موافق**.
+   2. حدد **نعم** عندما تتم مطالبتك بالسماح لمحرر التسجيل بإجراء تغييرات على جهازك.
+   3. في محرر التسجيل، قم بإضافة قيمة سلسلة من **SharedComputerLicensing** مع إعداد 1 تحت HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
+   4. على خادم RDS، ***قم بتسجيل الدخول كمستخدم نهائي*** وتحقق من تمكين تنشيط الكمبيوتر المشترك لتطبيقات Microsoft [365 للمؤسسات](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
 

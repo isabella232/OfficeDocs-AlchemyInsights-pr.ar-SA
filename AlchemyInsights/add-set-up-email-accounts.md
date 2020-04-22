@@ -1,9 +1,9 @@
 ---
-title: 1800018 أضافه/اعداد حسابات البريد الكتروني
+title: 1800018 إضافة/ إعداد حسابات البريد الإلكتروني
 ms.author: pdigia
 author: pebaum
 manager: scotv
-ms.date: 9/17/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,16 +13,16 @@ ms.custom:
 - "935"
 - "1800018"
 ms.assetid: 20ea6700-31b5-4491-aaf3-40ddd775e8a3
-ms.openlocfilehash: 67420eb543762a42a93c7f727ea5bb5345e00bc8
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: def94c6645a609ba2b24593e0439bb7fce0d3beb
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36737968"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43671408"
 ---
-# <a name="problems-setting-up-an-exchange-email-account-in-outlook"></a>مشاكل اعداد حساب بريد الكتروني Exchange في Outlook
+# <a name="problems-setting-up-an-exchange-email-account-in-outlook"></a>مشاكل في إعداد حساب بريد إلكتروني Exchange في Outlook
 
-إذا كنت تواجه مشكلات في اعداد حساب Exchange في Outlook ، يمكنك تشغيل [أداه اعداد حساب outlook](https://aka.ms/SaRA-OutlookSetupProfile) علي الجهاز المتاثر. فانه سيتم اجراء الشيكات المختلفة وتوفير الحلول الممكنة لمشكله اعداد الحساب الخاص بك.
+إذا كنت تواجه مشاكل في إعداد حساب Exchange في Outlook، يمكنك تشغيل [أداة إعداد حساب Outlook](https://aka.ms/SaRA-OutlookSetupProfile) على الجهاز المتأثر. فإنه سيتم تنفيذ عمليات التحقق المختلفة وتوفير الحلول الممكنة لمشكلة إعداد حسابك.
   
-إذا كنت لا تزال تواجه [مشكلات ، راجع يتعذر علي Outlook اعداد ملف تعريف جديد باستخدام الاكتشاف التلقائي exchange لعلبه بريد Exchange عبر إنترنت في Office 365](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover).
+إذا كنت لا تزال تواجه مشكلات، [راجع Outlook لا يمكن إعداد ملف تعريف جديد باستخدام Exchange Autodiscover لعلبة بريد Exchange Online](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover).
   

@@ -1,9 +1,9 @@
 ---
-title: تدفق Microsoft المتخصصة الدعم
+title: دعم مايكروسوفت تدفق المتخصصة
 ms.author: pebaum
 author: pebaum
 manager: mnirke
-ms.date: 3/23/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2464"
 - "9000627"
-ms.openlocfilehash: 59cfe196492f90ff18902b8678b4322a0135533c
-ms.sourcegitcommit: f856d46a325c517fc29d935c27f21b77c4219e66
+ms.openlocfilehash: 6d40629c1259a78803302d6a23a96b50236561b5
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/24/2019
-ms.locfileid: "35199224"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43698549"
 ---
-# <a name="microsoft-flow-specialized-support"></a>تدفق Microsoft المتخصصة الدعم
+# <a name="microsoft-flow-specialized-support"></a>دعم مايكروسوفت تدفق المتخصصة
 
-لدعم تدفق Microsoft المتخصصة الرجاء الانتقال إلى [مركز الطاقة لمسؤولي النظام الأساسي](https://aka.ms/flowadminsupport)الجديد. المدخل الجديد يوفر مسار مباشر للدعم المساعد هو الأمثل لتدفق Microsoft ومنتجات النظام الأساسي الطاقة الأخرى.
+للحصول على دعم Microsoft Flow المتخصص، يرجى الانتقال إلى [مركز إدارة منصة الطاقة](https://aka.ms/flowadminsupport)الجديد . توفر البوابة الجديدة مسارًا أكثر مباشرة للدعم المساعد الذي تم تحسينه لمنتجات Microsoft Flow وغيرها من منتجات نظام Power الأساسي.
 
 التعرف على المزيد:
-- [معلومات حول تراخيص Microsoft تدفق حر](https://go.microsoft.com/fwlink/?linkid=2095610)
-- [تدفق في المؤسسة الخاصة بك الأسئلة المتداولة](https://go.microsoft.com/fwlink/?linkid=2072608)
-- [Office 365 و Dynamics 365 الخطط التي تتضمن التدفق Microsoft](https://go.microsoft.com/fwlink/?linkid=2072406)
-- [تدفق Microsoft للفوترة ومسائل القياس](https://go.microsoft.com/fwlink/?linkid=2072612)
+- [معلومات حول تراخيص Microsoft Flow Free](https://go.microsoft.com/fwlink/?linkid=2095610)
+- [التدفق في الأسئلة الشائعة حول مؤسستك](https://go.microsoft.com/fwlink/?linkid=2072608)
+- [مايكروسوفت 365 وديناميات 365 الخطط التي تشمل مايكروسوفت تدفق](https://go.microsoft.com/fwlink/?linkid=2072406)
+- [مايكروسوفت تدفق الفواتير وأسئلة القياس](https://go.microsoft.com/fwlink/?linkid=2072612)
