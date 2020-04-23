@@ -11,15 +11,15 @@ ms.custom:
 - "955"
 - "1300007"
 ms.assetid: 88731c82-90d4-4019-a627-8ca6a82224af
-ms.openlocfilehash: 52ab5336858c0013667be721dc865fdccf71bfa0
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 7fda732dc49e4e01b2dc0fcbf0fcde83b4dcbab4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36739624"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722363"
 ---
-# <a name="configure-multi-factor-authentication-in-office-365"></a><span data-ttu-id="d80fa-102">تكوين المصادقة متعددة العوامل في Office 365</span><span class="sxs-lookup"><span data-stu-id="d80fa-102">Configure multi-factor authentication in Office 365</span></span>
+# <a name="configure-multi-factor-authentication"></a><span data-ttu-id="e22d3-102">تكوين مصادقة متعددة العوامل</span><span class="sxs-lookup"><span data-stu-id="e22d3-102">Configure multi-factor authentication</span></span>
 
-<span data-ttu-id="d80fa-103">لتكوين MFA، راجع [إعداد المصادقة متعددة العوامل لمستخدمي Office 365](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).</span><span class="sxs-lookup"><span data-stu-id="d80fa-103">To configure MFA, see [Set up multi-factor authentication for Office 365 users](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).</span></span>
+<span data-ttu-id="e22d3-103">لتكوين MFA، راجع [إعداد مصادقة متعددة العوامل](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).</span><span class="sxs-lookup"><span data-stu-id="e22d3-103">To configure MFA, see [Set up multi-factor authentication](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication).</span></span>
 
-<span data-ttu-id="d80fa-104">لاحظ أنك تحتاج إلى أن تكون مسؤول عمومي Office 365 لتمكين وتكوين وزارة الخارجية.</span><span class="sxs-lookup"><span data-stu-id="d80fa-104">Note that you need to be an Office 365 global admin to enable and configure MFA.</span></span>
+<span data-ttu-id="e22d3-104">لاحظ أنك تحتاج إلى أن تكون مسؤولًا عموميًا لتمكين MFA وتكوينه.</span><span class="sxs-lookup"><span data-stu-id="e22d3-104">Note that you need to be a global admin to enable and configure MFA.</span></span>
