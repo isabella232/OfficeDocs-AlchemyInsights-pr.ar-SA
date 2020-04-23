@@ -1,8 +1,8 @@
 ---
-title: التحضير لاستخدام TLS 1.2 في Office 365
+title: التحضير لاستخدام أمان طبقة النقل TLS 1.2 في Microsoft 365
 ms.author: pebaum
 author: pebaum
-ms.date: 10/30/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.custom:
 - "1266"
 - "1600052"
 ms.assetid: d5c84f5c-a3ca-4abd-8633-7e9ff01328a9
-ms.openlocfilehash: ef04b5b6ab6c365359b6973cbd56d5d1e833554b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 319a5b089da94c8a2dcf7aef7d9e1bf791490d08
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36554752"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43666877"
 ---
-# <a name="prepare-for-use-of-tls-12-in-office-365"></a>التحضير لاستخدام TLS 1.2 في Office 365
+# <a name="prepare-for-use-of-tls-12-in-microsoft-365"></a>التحضير لاستخدام أمان طبقة النقل TLS 1.2 في Microsoft 365
 
-اعتباراً من 31 أكتوبر 2018،سيستمر Office 365 في النقل إلى TLS 1.2. يعني هذا أن Microsoft لن تعمل على حل المشاكل الجديدة التي تواجه العملاء أو الأجهزة أو الخدمات المتصلة بخدمات Office 365 باستخدام الإصدارين 1.0 و1.1 من TLS. **لا يعني ذلك أن خدمات Office 365 ستحظر اتصالات الإصدارين 1.1 و1.0 من TLS.** سيتم تحديد تاريخ الإهمال النهائي بناءً على استخدام العميل وحالة القدم الحالية لأمان TLS. بعد اتخاذ القرار، سيكون هناك إعلان سابق لذلك بستة أشهر إلا إذا تبين لنا وجود اختراق، في هذه الحالة قد نحتاج إلى اتخاذ إجراء في فترة أقل من ستة أشهر لحماية العملاء المستخدمين للخدمات.
+اعتباراً من 31 أكتوبر 2018، سيستمر Microsoft 365 في الانتقال إلى TLS 1.2. يعني هذا أن Microsoft لن تعمل على حل المشاكل الجديدة التي تواجه العملاء أو الأجهزة أو الخدمات المتصلة بخدمات Office 365 باستخدام الإصدارين 1.0 و1.1 من TLS. **لا يعني ذلك أن Microsoft 365 سيقوم بحظر اتصالات TLS 1.0 و1.1.** سيتم تحديد تاريخ الإهمال النهائي بناءً على استخدام العميل وحالة القدم الحالية لأمان TLS. بعد اتخاذ القرار، سيكون هناك إعلان سابق لذلك بستة أشهر إلا إذا تبين لنا وجود اختراق، في هذه الحالة قد نحتاج إلى اتخاذ إجراء في فترة أقل من ستة أشهر لحماية العملاء المستخدمين للخدمات.
   
-يوصى بشدة لكل الخوادم والعملاء المتصلين بخدمات Office 365 بضرورة تمكين TLS 1.2 في أسرع وقت ممكن.
+يوصى بضرورة تمكين كل الخوادم أو برامج العميل المتصلة بـ Microsoft 365 لـ TLS 1.2 في أسرع وقت ممكن.
   
-لمزيد من المعلومات اطلع على [التحضير لاستخدام TLS 1.2 في Office 365.](https://support.microsoft.com/help/4057306/preparing-for-tls-1-2-in-office-365)
+للحصول على مزيد من المعلومات، اطلع على [التحضير لـ TLS 1.2 في Microsoft 365.](https://support.microsoft.com/help/4057306/preparing-for-tls-1-2-in-office-365)
   

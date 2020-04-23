@@ -10,16 +10,16 @@ localization_priority: Priority
 ms.custom:
 - "595"
 - "3100017"
-ms.openlocfilehash: 394fb3f3ddb432f45f7410f69627c80f66adb7d8
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 74581bcadf668d5d40c7dcc6d9ac2635875c29fe
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36664811"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43712589"
 ---
 # <a name="are-you-getting-too-much-spam-or-phish-in-your-mailbox"></a>هل تحصل على كمية كبيرة من البريد العشوائي أو التصيد الاحتيالي في علبة البريد الخاصة بك ؟
 
-راجع [كيفية تقليل البريد الإلكتروني العشوائي في Office 365](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) لاستكشاف أخطاء البريد العشوائي وإصلاحها.
+اطلع على [كيفية التقليل من رسائل البريد العشوائي](https://docs.microsoft.com/office365/securitycompliance/reduce-spam-email) لاستكشاف أخطاء البريد العشوائي وإصلاحها.
   
 أفضل طريقة للإبلاغ عن هذه الأنواع من المشاكل هي عن طريق:
   

@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002310"
 - "4487"
-ms.openlocfilehash: 0f583f8d4cf0706e1210d5b844dc566c7ae58d98
-ms.sourcegitcommit: aff07e85010fe85c026218ef8d64ab721f7fe0b5
+ms.openlocfilehash: d40c8c07bb80c20b0f09521df334fdb99d96ac04
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43116360"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43722607"
 ---
 # <a name="resolve-office-activation-error-0xd000000c"></a>حل خطا تنشيط Office 0xD000000C
 
-- تأكد من أن الإنترنت يعمل علي جهاز Mac الذي تحاول التثبيت عليه. يمكنك القيام بذلك عن طريق فتح مستعرض الإنترنت والانتقال إلى www.microsoft.com. إذا تم تحميل الصفحة، فهذا يعني أن اتصال الإنترنت يعمل.
+- تأكد من أن الإنترنت يعمل علي جهاز Mac الذي تحاول التثبيت عليه. يمكنك القيام بذلك عن طريق فتح مستعرض الإنترنت والانتقال إلى [Microsoft](https://www.microsoft.com). إذا تم تحميل الصفحة، فهذا يعني أن اتصال الإنترنت يعمل.
 
 - قم بإنهاء كل تطبيقات Office.
 

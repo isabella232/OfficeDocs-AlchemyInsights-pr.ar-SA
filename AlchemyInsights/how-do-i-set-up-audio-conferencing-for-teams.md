@@ -12,16 +12,16 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: 98dbb9049b3dad42237598ad86572164ebefd1d0
-ms.sourcegitcommit: a5c7bbf1ee499bdcbfed9a677daab19772eeae05
+ms.openlocfilehash: f43149ff7cf420dd046fa8adadbb2048ba7af410
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42692382"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43709926"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – المؤتمرات الصوتية
 
-هل تحتاج إلى المساعدة في تشغيل المؤتمرات الصوتية أو إعدادها في Microsoft Teams؟ هل تم إنشاء هذا المستخدم مؤخراً؟  إذا كان الأمر كذلك، ستحتاج إلى الانتظار من 2 إلى 24 ساعة لتصبح الإعدادات سارية المفعول.    
+هل تحتاج إلى المساعدة في تشغيل المؤتمرات الصوتية أو إعدادها في Microsoft Teams؟ هل تم إنشاء هذا المستخدم مؤخراً؟  إذا كان الأمر كذلك، ستحتاج إلى الانتظار من 2 إلى 24 ساعة لتصبح الإعدادات سارية المفعول.
 
 للتحقق من أن المستخدم مرخص لعقد المؤتمرات الصوتية ولديه رقم المكالمات الافتراضي:
 
@@ -39,4 +39,4 @@ ms.locfileid: "42692382"
 
 7. حدد المستخدم المطلوب وتحقق من أنه يتوفر لدى المستخدم **رقم المكالمات الافتراضي**.
 
-للحصول على مزيد من المعلومات راجع [خطط المكالمات لـ Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) أو اتصل بفريق الفوترة التجارية من Microsoft لمساعدتك في الأسئلة المتعلقة بالترخيص.
+للحصول على مزيد من المعلومات، راجع [خطط الاتصال](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) أو اتصل بفريق الفوترة التجارية لـ Microsoft لمساعدتك فيما يخص أسئلة الترخيص.

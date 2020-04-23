@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "428"
 - "1500016"
-ms.openlocfilehash: b5f22ebd28afb742e483576009a7844c0058e918
-ms.sourcegitcommit: 92e9a649532f5231ceedcafc4d14b8ad18d517c2
+ms.openlocfilehash: 560228d28399db175615126fca50d3578d79a83a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/31/2020
-ms.locfileid: "43059867"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720052"
 ---
 # <a name="update-credit-card-information"></a>تحديث معلومات بطاقة الائتمان
 
@@ -40,4 +40,4 @@ ms.locfileid: "43059867"
 
 إذا واجهت مشاكل أثناء تحميل الصفحة، فحاول فتح صفحة الويب في مستعرض آخر، أو حاول فتح الصفحة في نافذة مستعرض خاص، مثل نافذة InPrivate في Microsoft Edge أو نافذة incognito في Google Chrome. 
 
-للحصول على مزيد من المعلومات، اطلع على [إضافة بطاقة ائتمان أو حساب مصرفي أو تحديثه أو إزالته في Office 365 for Business](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) و[استكشاف أخطاء بطاقات الائتمان والحسابات المصرفية وإصلاحها](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+للحصول على مزيد من المعلومات، اطلع على [إضافة بطاقة ائتمان أو حساب مصرفي أو تحديثه أو إزالته في Microsoft 365 للأعمال](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account) و[استكشاف أخطاء بطاقات الائتمان والحسابات المصرفية وإصلاحها](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).

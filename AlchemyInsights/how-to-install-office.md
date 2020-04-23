@@ -12,16 +12,16 @@ ms.assetid: a371aee9-9c76-4951-89c5-e9e48811eded
 ms.custom:
 - "904"
 - "2000023"
-ms.openlocfilehash: 3a940182e831c03e040e5bb2dd9c73adcfd2c7b0
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 623222ee0cfe9cd5798e341149b439e887a998e4
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36735448"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759139"
 ---
 # <a name="how-to-install-office"></a>كيفية تثبيت Office
 
-لتثبيت تطبيقات عميل Office، تأكد من أنه يتوفر لديك اشتراك أعمال مثل Office 365 Business Premium أو Office 365 Business أو Office 365 Education.
+لتثبيت تطبيقات عميل Office، تأكد من أن لديك اشتراكاً للأعمال مثل Microsoft 365 Business Premium أو تطبيقات Microsoft 365 للأعمال أو Office 365 Education.
   
 *ملاحظة: يُعد [Office Home and Business](https://products.office.com/home-and-business) أحد منتجات [Office للمنزل](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) وليس جزءاً من اشتراك أعمال. للحصول على إرشادات معينة حول Visio أو Project، اطلّع على [تثبيت Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710) أو [تثبيت Project](https://support.office.com/article/7059249b-d9fe-4d61-ab96-5c5bf435f281)*.
 

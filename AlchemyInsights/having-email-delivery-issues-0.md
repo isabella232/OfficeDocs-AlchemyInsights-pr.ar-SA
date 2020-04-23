@@ -2,7 +2,7 @@
 title: هل تواجه مشاكل في تسليم البريد الإلكتروني ؟
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 8/21/2017
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,12 +13,12 @@ ms.custom:
 - "875"
 - "876"
 - "3100010"
-ms.openlocfilehash: 031b79da47892b4449bfd3d6f1157d1c41e60473
-ms.sourcegitcommit: a256e8680379c006287ae30996763051c4d9ff85
+ms.openlocfilehash: 1737c1f78da348cb09cbdd1ff110b0b766fcd505
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36739768"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43710250"
 ---
 # <a name="having-email-delivery-issues"></a>هل تواجه مشاكل في تسليم البريد الإلكتروني ؟
 
@@ -26,7 +26,7 @@ ms.locfileid: "36739768"
   
 {HealthCheckString}
   
-لم يتم تكوين سجلات NS أو MX لإعدادات المجال (DNS) بشكل صحيح لتسليم البريد الإلكتروني لخدمة Office 365. يمكنك أيضاً الرجوع إلى [إنشاء سجلات DNS على أي موفر استضافة DNS لـ Office 365](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) للحصول على الإرشادات.
+إن سجلات خادم الاسم (NS) أو MX الخاصة بإعدادات المجال (DNS) هي غير مكونة بشكل صحيح لتسليم البريد الإلكتروني إلى حساب Microsoft الخاص بك. يمكنك الرجوع إلى [إنشاء سجلات DNS على أي موفر استضافة DNS](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) للحصول على إرشادات مفصلة.
   
 لإصلاح ذلك، الرجاء الانتقال إلى صفحة [المجالات](https://admin.microsoft.com/adminportal/home#/Domains) في مركز مسؤولي Microsoft 365، وسوف نقدم لك المساعدة في ذلك.
   

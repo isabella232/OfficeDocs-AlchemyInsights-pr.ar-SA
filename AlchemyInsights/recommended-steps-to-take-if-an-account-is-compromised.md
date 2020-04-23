@@ -9,16 +9,16 @@ localization_priority: Priority
 ms.custom:
 - "957"
 - "3100016"
-ms.openlocfilehash: 08904708dd19104179c3f97f6734d8af725a4512
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 616107f1a5297b38637118e93ee6bfb918640ab3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36745420"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719291"
 ---
 # <a name="recommended-steps-to-take-if-an-account-is-compromised"></a>الخطوات الموصى بها للتنفيذ في حالة اختراق حساب
 
-[فيديو: إصلاح حساب Office 365 مخترق](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
+[فيديو: إصلاح حساب مخترق](https://www.microsoft.com/videoplayer/embed/RE2jvOb?pid=ocpVideo0-innerdiv-oneplayer&amp;postJsllMsg=true&amp;maskLevel=20&amp;autoplay=true)
   
 1. [إعادة تعيين كلمة المرور الخاصة بالمستخدم](https://docs.microsoft.com/office365/admin/add-users/reset-passwords) فورًا. لا تقم بتوصيل كلمة المرور الجديدة عبر البريد الإلكتروني إلى المستخدم النهائي.
 
@@ -30,5 +30,5 @@ ms.locfileid: "36745420"
 
 5. إزالة حساب المستخدم من أي [مجموعات الأدوار الإدارية](https://docs.microsoft.com//office365/admin/add-users/assign-admin-roles) حتى تكون متأكداً من أن الحساب لم يعد مخترقاً.
 
-لتقليل احتمالية حدوث خرق للبيانات أو للحساب في المستقبل، نوصي بقراءة [ مخطط الأمان لـ Office 365](https://docs.microsoft.com//office365/securitycompliance/security-roadmap).
+لتقليل احتمالية حدوث خرق للبيانات أو للحساب في المستقبل، نوصي بقراءة [ مخطط أمان Microsoft 365](https://docs.microsoft.com//office365/securitycompliance/security-roadmap) الخاص بنا.
   
