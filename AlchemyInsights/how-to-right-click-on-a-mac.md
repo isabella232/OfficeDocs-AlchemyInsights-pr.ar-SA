@@ -1,9 +1,9 @@
 ---
-title: 8000063 كيف بزر الفأرة الأيمن على نظام التشغيل Mac
+title: 8000063 كيفية النقر بزر الماوس الأيمن على ماك
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 9/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,16 +12,16 @@ ms.custom:
 - "1071"
 - "8000063"
 ms.assetid: a34d2a91-e1bd-44fe-8124-a084cbf9f38b
-ms.openlocfilehash: 236da9aeac882d9a44373372a93910863fa18469
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 8fbfb43cd50040f861ae9975f4703b49eb10f6ec
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36539952"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43763384"
 ---
-# <a name="how-to-right-click-on-a-mac"></a>كيف بزر الفأرة الأيمن على نظام التشغيل Mac
+# <a name="how-to-right-click-on-a-mac"></a>كيفية النقر بزر الماوس الأيمن على ماك
 
-على أجهزة كمبيوتر ماكنتوش، انقر بالزر الأيمن يعرف ثانوي أو انقر عنصر التحكم. إذا لم يحتوي الماوس أو لوحة التتبع أو جهاز إدخال آخر زر الأيمن أو بطريقة أخرى القيام بالنقر بالزر الأيمن، اضغط باستمرار على **مفتاح** على لوحة المفاتيح أثناء النقر.
+على أجهزة كمبيوتر Mac، يُعرف النقر بزر الماوس الأيمن بالنقر فوق ثانوي أو نقرة تحكم. إذا لم يتضمن الماوس أو لوحة التتبع أو جهاز الإدخال الآخر زر النقر الأيمن أو طريقة أخرى لإجراء النقر بزر الماوس الأيمن، فاضغط باستمرار على **مفتاح التحكم** على لوحة المفاتيح أثناء النقر.
   
-لمزيد من المعلومات، انتقل إلى [دعم أبل](https://go.microsoft.com/fwlink/?linkid=2022220&amp;clcid=0x409).
+لمزيد من المعلومات، انتقل إلى [دعم Apple](https://go.microsoft.com/fwlink/?linkid=2022220&amp;clcid=0x409).
   

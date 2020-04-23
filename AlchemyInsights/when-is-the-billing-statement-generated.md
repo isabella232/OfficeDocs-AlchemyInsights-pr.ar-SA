@@ -1,9 +1,9 @@
 ---
-title: عندما يتم إنشاء بيان الفوترة؟
+title: متى يتم إنشاء كشف حساب الفواتير؟
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,15 @@ ms.custom:
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: 15ffb86313b4dbb6fb0ea839cccb079e8cf221eb
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0b6fda6245b66d938b21d7513229691e8161e7ae
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36530842"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759355"
 ---
-# <a name="when-is-the-billing-statement-generated"></a>عندما يتم إنشاء بيان الفوترة
+# <a name="when-is-the-billing-statement-generated"></a>متى يتم إنشاء كشف حساب الفوترة
 
-كل شهر سوف تتلقى رسالة بريد إلكتروني تخبرك أن يتوفر فيها بيان الفوترة الجديد الخاص بك في مركز مسؤول Microsoft 365. تحتوي الفاتورة على صفحتين. الصفحة 1 ملخص لفاتورة ويحتوي على معلومات عامة حول الفاتورة، أمر، المبلغ المستحق، كيفية سداد، وكيفية الاتصال بالدعم. 2 صفحة تحتوي على تفاصيل حول نشاط الفوترة للاشتراك.
+ستتلقى كل شهر بريدًا إلكترونيًا يخبرك بتوفر كشف حساب الفوترة الجديد في مركز إدارة Microsoft 365. تحتوي الفاتورة على صفحتين. الصفحة 1 هي ملخص الفاتورة، وتحتوي على معلومات عامة حول الفاتورة والترتيب والمبلغ المستحق وكيفية إجراء الدفع وكيفية الاتصال بالدعم. تحتوي الصفحة 2 على تفاصيل حول نشاط الفوترة لكل اشتراك.
   
-لمعرفة المزيد حول مفاهيم الفوترة، راجع [فهم الفاتورة](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice).
+لمعرفة المزيد عن مفاهيم الفوترة، راجع [فهم الفاتورة](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/understand-your-invoice).

@@ -1,9 +1,9 @@
 ---
-title: منح المستخدمين حق الوصول إلى SharePoint و OneDrive
+title: منح المستخدمين حق الوصول إلى SharePoint وOneDrive
 ms.author: pebaum
 author: pebaum
 manager: scotv
-ms.date: 11/14/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,24 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: cebb7a4a-33e1-474e-a5d0-dbd02a80b1e9
-ms.openlocfilehash: eead51d6d16206de19bca213d6df72dbb6b66c8b
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 0bdc2fa97ad1fe8b3280411babaaf2bd685a644d
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051916"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721683"
 ---
-# <a name="give-users-access-to-sharepoint-and-onedrive"></a>منح المستخدمين حق الوصول إلى SharePoint و OneDrive
+# <a name="give-users-access-to-sharepoint-and-onedrive"></a>منح المستخدمين حق الوصول إلى SharePoint وOneDrive
 
 > [!NOTE]
-> إذا كان موقع اندريف أو SharePoint غير متوفر للعديد من المستخدمين الذين كان لديهم حق الوصول مسبقا ، قد تكون هناك مشكله خدمه مؤقته. [التحقق من لوحه معلومات صحة الخدمة](https://portal.office.com/adminportal/home#/servicehealth)
+> إذا كان موقع OneDrive أو SharePoint غير متوفر للعديد من المستخدمين الذين سبق لهم الوصول، فقد تكون هناك مشكلة في الخدمة المؤقتة. [التحقق من لوحة معلومات صحة الخدمة](https://portal.office.com/adminportal/home#/servicehealth)
   
-إذا كنت تريد ان يتمكن الأشخاص في مؤسستك من تسجيل الدخول واستخدام SharePoint و OneDrive ، ستحتاج إلى أضافه حسابات لهم والتاكد من حصولهم علي ترخيص يمنحهم حق الوصول إلى SharePoint و OneDrive. أسهل طريقه لأضافه مستخدمين في مركز مسؤول Microsoft 365.
+إذا كنت تريد أن يتمكن الأشخاص في مؤسستك من تسجيل الدخول واستخدام SharePoint و OneDrive، فستحتاج إلى إضافة حسابات لهم والتأكد من حصولهم على ترخيص يتيح لهم الوصول إلى SharePoint و OneDrive. أسهل طريقة لإضافة المستخدمين هي في مركز إدارة Microsoft 365.
   
-1. انتقل إلى [صفحه المستخدمين النشطين في مركز مسؤول Microsoft 365](https://portal.office.com/adminportal/home#/users)، ثم انقر فوق **أضافه مستخدم**.
+1. انتقل إلى [صفحة المستخدمين النشطين في مركز إدارة Microsoft 365،](https://portal.office.com/adminportal/home#/users)ثم انقر فوق **إضافة مستخدم**.
     
-2. أملا المعلومات للمستخدم ، وتاكد من انه ضمن **تراخيص المنتجات**، يتم تعيين ترخيص وتحديد **SharePoint علي الإنترنت** . 
+2. قم بتعبئة المعلومات الخاصة بالمستخدم، وتأكد من أنه بموجب **تراخيص المنتج،** يتم تعيين ترخيص وتحديد **SharePoint Online.** 
     
-لاحظ انه في حاله السماح بالمشاركة الخارجية في مؤسستك ، يمكن للمستخدمين مشاركه محتوي SharePoint و OneDrive مع أشخاص خارج المؤسسة. لا تحتاج إلى منح تراخيص المستخدمين الخارجيين هذه. لا تحتاج أيضا إلى أضافه حسابات لهم ، ما لم يتم تعيين المشاركة إلى "المستخدمين الخارجيين الموجودين فقط". في هذه الحالة ، إذا لم يكن الأشخاص في دليل مؤسستك ، ستحتاج إلى اضافتهم كمستخدمين ضيوف في مركز مسؤول Azure AD.
+لاحظ أنه إذا سمحت بالمشاركة الخارجية في مؤسستك، يمكن للمستخدمين مشاركة محتوى SharePoint وOneDrive مع أشخاص خارج المؤسسة. لا تحتاج إلى منح تراخيص المستخدمين الخارجيين هؤلاء. لا تحتاج أيضًا إلى إضافة حسابات لها، ما لم يتم تعيين المشاركة إلى "المستخدمين الخارجيين الموجودين فقط". في هذه الحالة، إذا لم يكن الأشخاص في دليل مؤسستك، فستحتاج إلى إضافتهم كمستخدمين ضيوف في مركز إدارة Azure AD.
   
 

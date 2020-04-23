@@ -1,9 +1,9 @@
 ---
-title: 1489-permissions-required-for-ediscovery-searches
+title: 1489-أذونات المطلوبة للبحث عن ediscovery
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1489
 ms.assetid: ''
-ms.openlocfilehash: 4e937861381ba5ba00c7ffb544dc4f6cb3502bc7
-ms.sourcegitcommit: 9d78905c512192ffc4675468abd2efc5f2e4baf4
+ms.openlocfilehash: 412466d1366527dc319191cd88915e36519fec7e
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/23/2019
-ms.locfileid: "32372115"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758885"
 ---
-# <a name="permissions-required-for-ediscovery-searches"></a>الأذونات المطلوبة لإجراء عمليات بحث eDiscovery
+# <a name="permissions-required-for-ediscovery-searches"></a>الأذونات المطلوبة لعمليات البحث في eDiscovery
 
-لإجراء "عمليات بحث محتوى" في & أمان مركز التوافق، يجب أن يكون مستخدم على الأقل يجب أن تكون عضوا في مجموعة أدوار إدارة eDiscovery، مما يسمح بإجراء عمليات البحث ومكان يحتوي على علب البريد ومواقع SharePoint ومواقع أندريف. أعضاء يمكن أيضا إنشاء وإدارة الحالات eDiscovery، إضافة وإزالة الأعضاء إلى قضية إنشاء وتحرير "محتوى البحث" والوصول إلى بيانات الحالة في eDiscovery المتقدمة.
+لإجراء عمليات البحث عن المحتوى في مركز التوافق & الأمان، يجب أن يكون المستخدم على الأقل عضواً في مجموعة أدوار مدير eDiscovery، والتي تسمح له بإجراء عمليات البحث ووضع عمليات التخزين على صناديق البريد ومواقع SharePoint ومواقع OneDrive. يمكن للأعضاء أيضًا إنشاء حالات eDiscovery وإدارتها، وإضافة الأعضاء وإزالتها إلى حالة، وإنشاء عمليات بحث المحتوى وتحريرها، والوصول إلى بيانات الحالة في eDiscovery المتقدم.
 
-لإجراء عمليات بحث eDiscovery في نفس المكان في مركز مسؤول Exchange (شرق)، يجب أن يكون المستخدم عضوا في مجموعة أدوار "إدارة الاكتشاف" في Exchange عبر إنترنت.
+لإجراء عمليات البحث eDiscovery في مكان في مركز إدارة Exchange (EAC)، يجب أن يكون المستخدم عضواً في مجموعة أدوار إدارة الاكتشاف في Exchange Online.
 
 لمزيد من المعلومات حول أذونات eDiscovery، راجع: 
 
-- [تعيين أذونات eDiscovery في & أمان مركز التوافق](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)
+- [تعيين أذونات eDiscovery في مركز التوافق & الأمان](https://docs.microsoft.com/office365/securitycompliance/assign-ediscovery-permissions)
 
 - [تعيين أذونات eDiscovery في Exchange](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/assign-ediscovery-permissions)
 
-**ملاحظة**: بعد تعيين أذونات eDiscovery، قد تحتاج إلى الانتظار لبضع دقائق للأذونات للنشر.
+**ملاحظة:** بعد تعيين أذونات eDiscovery، قد تحتاج إلى الانتظار بضع دقائق حتى يتم نشر الأذونات.

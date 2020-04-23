@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 24bd59fde3373382edfd1a79066368e064d0bfc5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6ee827bd51f4fb3b4c6abc6c1b7154783dcd3e8c
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713273"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43787969"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>أداة البحث عن المحتوى للعثور على المعلومات ذات الصلة
 
-استخدم أداة البحث عن المحتوى في مركز التوافق & الأمان للعثور بسرعة على البريد الإلكتروني في صناديق بريد Exchange والمستندات الموجودة في مواقع SharePoint ومواقع OneDrive ومحادثات المراسلة الفورية في Skype for Business. يمكنك استخدام أداة البحث عن المحتوى للبحث عن محادثات البريد الإلكتروني والمستندات والمراسلة الفورية في أدوات تعاون Office 365 مثل Microsoft Teams ومجموعات Office 365.
+استخدم أداة البحث عن المحتوى في مركز التوافق & الأمان للعثور بسرعة على البريد الإلكتروني في صناديق بريد Exchange والمستندات الموجودة في مواقع SharePoint ومواقع OneDrive ومحادثات المراسلة الفورية في Skype for Business. يمكنك استخدام أداة البحث عن المحتوى للبحث عن محادثات البريد الإلكتروني والمستندات والمراسلة الفورية في أدوات تعاون Microsoft 365 مثل Microsoft Teams وOffice 365 Groups.
 
 
 قبل استخدام ["البحث عن المحتوى"](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) من [مركز التوافق & الأمان،](https://sip.protection.office.com/homepage)ستحتاج إلى إكمال إعدادات التكوين بما في ذلك [تكوين الأذونات](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search) [وإعداد سرعات التنزيل](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) [وإعدادات التصدير](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results).
@@ -28,4 +28,4 @@ ms.locfileid: "43713273"
 
 بعد مراجعة إعدادات التكوين وقيود البحث عن المحتوى، راجع [استخدام "بحث المحتوى"</a> للبحث عن العناصر الموجودة مثل البريد الإلكتروني والمستندات ومحادثات المراسلة الفورية في مؤسستك.](https://docs.microsoft.com/office365/securitycompliance/content-search)
 
-للحصول على خطوة بخطوة كاملة من البحث عن المحتوى، راجع [البحث عن المحتوى في Office 365](https://docs.microsoft.com/office365/securitycompliance/search-for-content) لمزيد من المعلومات.
+للحصول على خطوة بخطوة كاملة من البحث عن المحتوى، راجع [البحث عن المحتوى في Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/search-for-content) لمزيد من المعلومات.

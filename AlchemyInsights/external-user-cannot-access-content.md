@@ -1,5 +1,5 @@
 ---
-title: يتعذر علي المستخدم الخارجي الوصول إلى المحتوي
+title: لا يمكن للمستخدم الخارجي الوصول إلى المحتوى
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,22 +11,17 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2382"
-ms.openlocfilehash: f64a1fb03d951fea5de86a8dd91669f3aa0f7067
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 1702dcbf833b5f320620f9f6cc2f84aa3ab4c1d3
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049720"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43788617"
 ---
-# <a name="external-user-cannot-access-sharepoint-or-onedrive-content"></a>يتعذر علي المستخدم الخارجي الوصول إلى محتوي SharePoint أو OneDrive
+# <a name="external-user-cannot-access-sharepoint-or-onedrive-content"></a>لا يمكن للمستخدم الخارجي الوصول إلى محتوى SharePoint أو OneDrive
 
-إذا تمت دعوه مستخدم خارجي وكان غير قادر علي الوصول إلى المحتوي ، يرجى محاولة زيارة الروابط أدناه:
+إذا تمت دعوة مستخدم خارجي ولم يتمكن من الوصول إلى المحتوى، يرجى محاولة زيارة الروابط أدناه:
 
-- ["تم رفض الوصول" ، "تحتاج إلى اذن للوصول إلى هذا الموقع" ، أو "المستخدم لم يتم العثور عليه في الدليل" أخطاء في SharePoint علي الإنترنت و اندريف للعمل](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- [خطا "نهج مؤسستك لا تسمح لك بالمشاركة مع هؤلاء المستخدمين" عند مشاركه عنصر أو موقع في SharePoint علي الإنترنت أو اندريف للعمل](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- [يتم الرمادي خيارات المشاركة عند المشاركة من SharePoint علي الإنترنت أو اندريف](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
-- [ظهور رسالة خطا عند قبول مستخدم خارجي دعوه SharePoint علي الإنترنت باستخدام حساب آخر](https://docs.microsoft.com/sharepoint/support/sharing-and-permissions/error-when-external-user-accepts-an-invitation-by-using-another-account)
-- [أخطاء مشاركه OSE في SharePoint و OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message)
-
-
-
+- [يتلقى المستخدمون الخارجيون أخطاء في الأذونات عند الوصول إلى موقع](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- ["لا تسمح لك سياسات مؤسستك بالمشاركة مع هؤلاء المستخدمين" عند مشاركة عنصر أو موقع في SharePoint Online أو OneDrive للأعمال](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [خيارات المشاركة رمادية عند المشاركة من SharePoint Online أو OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)

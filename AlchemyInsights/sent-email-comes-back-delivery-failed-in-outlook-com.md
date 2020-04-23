@@ -1,9 +1,9 @@
 ---
-title: 8000044 البريد الإلكتروني المرسلة عودة 'فشل التسليم' في Outlook.com
+title: 8000044 البريد الإلكتروني المرسل يعود 'فشل التسليم' في Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
-ms.date: 5/30/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,14 +12,14 @@ ms.custom:
 - "791"
 - "8000044"
 ms.assetid: 24e6767e-ff7c-414a-b348-1fc10901f9ab
-ms.openlocfilehash: 864b05fb1814df6696aecf5fc0ff25a325521461
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 031b9b8af26d6cfcfabb04ff7b3f408b42015b2d
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36550970"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43758274"
 ---
-# <a name="sent-email-comes-back-delivery-failed"></a>البريد الإلكتروني المرسلة عودة "فشل التسليم"
+# <a name="sent-email-comes-back-delivery-failed"></a>البريد الإلكتروني المرسل يعود "فشل التسليم"
 
-يمكن أن يحدث فشل التسليم، أو رسائل البريد الإلكتروني التي تأتي مرة أخرى كتسليم، لعدد من الأسباب. لمزيد من المعلومات حول رسائل الخطأ الأكثر شيوعاً، جنبا إلى جنب مع الحلول المقترحة، راجع [البريد الإلكتروني المرسلة في Outlook.com عودة "فشل التسليم"](https://support.office.com/article/45e048ac-f7b1-4c0f-b525-081cb34f1062?wt.mc_id=Office_Outlook_com_Alchemy).
+يمكن أن تحدث حالات فشل التسليم، أو رسائل البريد الإلكتروني التي تعود كرسائل غير قابلة للتسليم، لعدد من الأسباب. لمعرفة المزيد عن رسائل الخطأ الأكثر شيوعًا، إلى جانب الحلول المقترحة، راجع [البريد الإلكتروني المرسل في Outlook.com يعود "فشل التسليم".](https://support.office.com/article/45e048ac-f7b1-4c0f-b525-081cb34f1062?wt.mc_id=Office_Outlook_com_Alchemy)
   

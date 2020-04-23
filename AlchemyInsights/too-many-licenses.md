@@ -1,9 +1,9 @@
 ---
-title: عدد كبير جداً من تراخيص؟
+title: الكثير من التراخيص؟
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/2/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,23 +13,23 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 4ee87eacd784acee9f4e1a34012076f907e4d46a
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: 0974b856aa79d0377ed350e5ece3d2be30991772
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665927"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43759895"
 ---
-# <a name="too-many-licenses"></a>عدد كبير جداً من تراخيص؟
+# <a name="too-many-licenses"></a>الكثير من التراخيص؟
 
-إذا كنت تعتقد أن كنت يتم فوترة لعدد كبير جداً من تراخيص Office 365، يعود ذلك عادة بعد شراء المزيد من التراخيص فتحتاج.
+إذا كنت تعتقد أنك تتم محاسبتك على العديد من التراخيص ، فهذا يرجع عادة ً إلى شراء المزيد من التراخيص ، فأنت بحاجة إليها.
   
-**تقليل عدد التراخيص التي تم شراؤها**
+**تقليل عدد التراخيص المشتراة**
   
-1. في مركز الإدارة، انتقل إلى **الدفع** \> صفحة [& المنتجات أو الخدمات](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+1. في مركز الإدارة، انتقل إلى صفحة **الفوترة** \> [المنتجات والخدمات](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
-2. البحث عن الاشتراك الذي تريد إزالة التراخيص، ثم حدد **إضافة/إزالة التراخيص**.
+2. ابحث عن الاشتراك الذي تريد إزالة التراخيص منه، ثم حدد **إضافة/إزالة التراخيص**.
 
-3. في المربع **إجمالي التراخيص** ، أدخل إجمالي عدد التراخيص التي تحتاج لهذا الاشتراك، وثم حدد **تغيير الإرسال**. على سبيل المثال، إذا كان لديك تراخيص 110 وتريد إزالة 5 منهم، أدخل 105.
+3. في مربع **إجمالي التراخيص،** أدخل العدد الإجمالي للتراخيص التي تحتاجها لهذا الاشتراك، ثم حدد **إرسال التغيير**. على سبيل المثال، إذا كان لديك 110 تراخيص وتريد إزالة 5 منها، أدخل 105.
 
-لمزيد من المعلومات، راجع [إزالة التراخيص من 365 Office الخاص بك للاشتراك في العمل](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription).
+لمعرفة المزيد، راجع [إزالة التراخيص من Microsoft 365 للاشتراك في الأعمال.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)

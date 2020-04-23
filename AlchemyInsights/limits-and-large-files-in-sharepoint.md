@@ -3,7 +3,7 @@ title: الحدود والملفات الكبيرة في SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
-ms.date: 3/1/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bda3a75d-23f8-44d9-a23a-0abbfdccf131
-ms.openlocfilehash: 20ab2b7effa92a6b3765f6469de2966cbd84e1be
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 78c952dc27e2a201c3379dcce62d0c2ee7dc26d6
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36497574"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43762700"
 ---
-# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>الملفات التي لا يمكن تحميلها إلى SharePoint علي الإنترنت
+# <a name="files-that-cant-be-uploaded-to-sharepoint-online"></a>الملفات التي لا يمكن تحميلها إلى SharePoint Online
 
-إذا لم يتم تحميل ملف إلى SharePoint علي الإنترنت ، تاكد من:
+إذا لم يتم تحميل ملف إلى SharePoint Online، فتأكد من:
   
-- انها اقل من 15 غيغابايت في الحجم.
+- انها أقل من 15 غيغابايت في الحجم.
     
-- المسار بأكمله ، بما في ذلك اسم الملف ، اقل من 400 حرفا.
+- المسار بأكمله، بما في ذلك اسم الملف، أقل من 400 حرف.
     
-- لا يحتوي اسم الملف علي الأحرف \* " \< \> : ؟ / \ | وليس علي قائمه [أسماء غير صالحه](https://go.microsoft.com/fwlink/?linkid=866430).
+- اسم الملف لا يحتوي على الأحرف \< \> " \* : ؟ / \ | وليس على قائمة الأسماء [غير الصالحة.](https://go.microsoft.com/fwlink/?linkid=866430)
     
-إذا كنت تحاول تحميل الملف باستخدام تطبيق OneDrive لسطح المكتب ، فراجع [القيود والقيود عند مزامنة الملفات والمجلدات](http://go.microsoft.com/fwlink/p/?LinkID=717734) أو [إصلاح مشاكل المزامنة في onedrive](https://go.microsoft.com/fwlink/?linkid=866431).
+إذا كنت تحاول تحميل الملف باستخدام تطبيق سطح مكتب OneDrive، فراجع [القيود والقيود عند مزامنة الملفات والمجلدات](httpsbv://go.microsoft.com/fwlink/p/?LinkID=717734) أو [إصلاح مشاكل مزامنة OneDrive](https://go.microsoft.com/fwlink/?linkid=866431).
   
 
