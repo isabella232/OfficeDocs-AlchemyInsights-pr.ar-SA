@@ -10,16 +10,16 @@ ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
 ms.custom:
 - "1161"
 - "5200019"
-ms.openlocfilehash: 9cd49502102ee89df0e714d0bca86e87733cb6b3
-ms.sourcegitcommit: d02e2b73aa7d0453d7baca1ea5a186cf6081d022
+ms.openlocfilehash: 8798987db5e39e5f49aceac458ae985e2c3d6b21
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43030351"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43787357"
 ---
 # <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online أو OneDrive "إعداد"
 
-عند إضافة مستخدم إلى مستأجر Office 365 موجود، قد يرى رموز SharePoint Online أو OneDrive للأعمال المدرجة كـ "إعداد" أو "ما زلنا نعمل على إعداد الملفات" حتى يتم الانتهاء من عملية التوفير. اتبع [دليل استكشاف الأخطاء وإصلاحها](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) هذا للحصول على المساعدة.
+عند إضافة مستخدم إلى مستأجر موجود، قد يرى رموز SharePoint Online أو OneDrive للأعمال المدرجة كرموز "إعداد" أو "ما زلنا نعمل على إعداد الملفات" حتى يتم الانتهاء من عملية التوفير. اتبع [دليل استكشاف الأخطاء وإصلاحها](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) هذا للحصول على المساعدة.
 
 إذا مرت أكثر من 24 ساعة منذ أن رأيت هذه المشكلة لأول مرة، يرجى تسجيل حالة دعم.
 

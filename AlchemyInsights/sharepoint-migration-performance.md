@@ -12,21 +12,19 @@ ms.custom:
 - "5300030"
 - "2700"
 - "3179"
-ms.openlocfilehash: 500406e0f19610fe884df1faf3537aa7cb947e47
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
+ms.openlocfilehash: dd2500d970a46e95686a8eb6bf1b7fa733b353dd
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43552694"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789289"
 ---
 # <a name="sharepoint-migration-performance-guidance"></a>إرشادات أداء الترحيل في SharePoint
 
-يمكن أن يتأثر أداء الترحيل بالبنية الأساسية للشبكة وحجم الملف ووقت الترحيل والتقييد. سيساعدك معرفة ذلك في تخطيط الترحيل وزيادة فعاليته.
+يمكن أن يتأثر أداء الترحيل بالبنية الأساسية للشبكة وحجم الملف ووقت الترحيل والتقييد.
 
 للحصول على مزيد من المعلومات، الرجاء زيارة:
 
 - [إرشادات عامة حول أداء الترحيل](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed)
 
 - [تجنب التقييد أو الحظر في SharePoint Online](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
-
-- [تنزيل أداة الترحيل في SharePoint وتثبيتها](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
