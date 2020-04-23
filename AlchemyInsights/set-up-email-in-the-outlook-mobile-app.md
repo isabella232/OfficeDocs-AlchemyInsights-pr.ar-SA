@@ -1,9 +1,9 @@
 ---
-title: 1800014 اعداد البريد الكتروني في تطبيق Outlook للجوال
+title: 1800014 إعداد البريد الإلكتروني في تطبيق Outlook للجوال
 ms.author: anahitab
 author: anahitab
 manager: dansimp
-ms.date: 4/12/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: get-started-article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,31 +15,31 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: 4bada589fa55fc78233d13f44566b919ab2d15b9
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: c11537636e276fe9997566bcd0f799bb3ee57282
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36734152"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43767560"
 ---
-# <a name="set-up-email-in-the-outlook-mobile-app"></a>اعداد البريد الكتروني في تطبيق Outlook للجوال
+# <a name="set-up-email-in-the-outlook-mobile-app"></a>إعداد البريد الإلكتروني في تطبيق Outlook للجوال
 
-1. حدد **البدء** إذا كانت هذه هي المرة الاولي التي يتم فيها اعداد البريد الكتروني في تطبيق الجوال. والا ، انقر فوق **القائمة** ثم انقر فوق **إعدادات** \> **أضافه** \> حساب **البريد الكتروني أضافه**حساب.
+1. حدد **البدء** إذا كانت المرة الأولى التي تقيم فيها البريد الإلكتروني في تطبيق الجوّال. خلاف ذلك، اضغط على **القائمة** ثم اضغط على **الإعدادات** \> **إضافة حساب** \> **إضافة حساب البريد الإلكتروني**.
 
-2. ادخل عنوان البريد الكتروني الكامل وانقر علي **متابعه** أو **أضافه حساب**.
+2. أدخل عنوان بريدك الإلكتروني الكامل واضغط على **متابعة** الحساب أو **إضافته**.
 
-3. ادخل كلمه مرور حساب البريد الكتروني وانقر **علي تسجيل الدخول** أو **التالي**.
+3. أدخل كلمة مرور حساب البريد الإلكتروني واضغط على **تسجيل الدخول** أو **التالي**.
 
-4. إذا تم تمكين [المصادقة متعددة العوامل](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) ، تحقق من استخدام الأسلوب الذي قمت باعداده (رمز 6 أرقام أو مكالمة هاتفيه أو تطبيق مصادقه Microsoft).
+4. إذا تم تمكين [المصادقة متعددة العوامل،](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) تحقق من استخدام الطريقة التي قمت بإعدادها (رمز مكون من 6 أرقام أو مكالمة هاتفية أو تطبيق Microsoft Authenticator).
 
-5. إذا كانت سياسات أداره تكنولوجيا التقنية الاضافيه في مكانها ، فانقر فوق **تنشيط** لتمكينها.
+5. في حالة وضع نُهج إضافية لمسؤول تكنولوجيا المعلومات، اضغط على **تنشيط** لتمكينها.
 
-6. قد يطلب Outlook الاذن للوصول إلى التقويم وجات الاتصال والمعلومات الأخرى. حدد **نعم** أو **السماح**.
+6. قد يطلب Outlook إذنًا للوصول إلى التقويم وجهات الاتصال والمعلومات الأخرى. حدد **نعم** أو **السماح**.
 
-الحصول علي تفاصيل اعداد تعليمات [لبرنامج Outlook لالروبوت](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) أو [outlook لدائره الرقابة](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) الخارجية هنا.
+احصل على تعليمات مفصلة لإعداد [Outlook لنظام Android](https://support.office.com/article/886db551-8dfa-4fd5-b835-f8e532091872.aspx) أو Outlook لنظام التشغيل [iOS](https://support.office.com/article/b2de2161-cc1d-49ef-9ef9-81acd1c8e234.aspx) هنا.
   
- **هل تحتاج إلى مساعده ؟**
+ **هل تحتاج إلى مساعدة؟**
   
-- [استكشاف أخطاء اعداد البريد الكتروني وإصلاحها علي الجوال](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
+- [استكشاف إعدادات البريد الإلكتروني وإصلاحها على الهاتف المحمول](https://support.office.com/article/a264ef01-9c88-48fb-9285-7017e4f31f02.aspx)
 
-- [الحصول علي مساعده في التطبيق ل Outlook لدائره الرقابة الخارجية والروبوت](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)
+- [احصل على مساعدة داخل التطبيق لـ Outlook لنظامي iOS وAndroid](https://support.office.com/article/218a22d1-9fa5-4889-b689-de1c63493243.aspx#ID0EAABAAA=Contact_Support)

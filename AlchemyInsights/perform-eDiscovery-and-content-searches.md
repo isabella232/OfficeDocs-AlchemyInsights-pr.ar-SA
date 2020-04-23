@@ -1,9 +1,9 @@
 ---
-title: 1488-perform-eDiscovery-and-content-searches
+title: 1488-perform-eDiscovery-و-بحث المحتوى
 ms.author: markjjo
 author: markjjo
 manager: lauraw
-ms.date: ''
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,25 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 15f5a26c34e32d1f77b73d57e9518b1bb1e68320
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 561a27cc71b6eec918acc2fac911f8b3b18fd097
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36555220"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43764715"
 ---
-# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>كيفية إجراء "عمليات البحث المحتوى" والبحث eDiscovery
+# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>كيفية إجراء عمليات البحث عن المحتوى وعمليات البحث eDiscovery
 
-استخدم أداة "البحث عن المحتوى" في & أمان مركز التوافق العثور بسرعة على البريد الإلكتروني في صندوق بريد Exchange أو المستندات الموجودة في مواقع SharePoint وحساب أندريف والمحادثات في Skype لأعمال المراسلة الفورية. يمكنك أيضا استخدام "أداة البحث المحتوى" للبحث عن البريد الإلكتروني والمستندات ومحادثات المراسلة الفورية في Office 365 أدوات التعاون مثل Office 365 المجموعات والفرق Microsoft.
+استخدم أداة البحث عن المحتوى في مركز التوافق & الأمان للعثور بسرعة على البريد الإلكتروني في صناديق بريد Exchange والمستندات الموجودة في مواقع SharePoint وحساب OneDrive ومحادثات المراسلة الفورية في Skype for Business. يمكنك أيضًا استخدام أداة البحث عن المحتوى للبحث عن محادثات البريد الإلكتروني والمستندات والمراسلة الفورية في أدوات تعاون Microsoft 365 مثل Microsoft Teams ومجموعات Office 365.
 
-**للقيام ببحث محتوى**
+**لإجراء بحث عن المحتوى**
 
-1. انتقل إلى [& أمان مركز التوافق](https://protection.office.com) وتسجيل الدخول.
-2. انقر فوق **البحث في المحتوى > البحث**.
+1. انتقل إلى [مركز التوافق & الأمان](https://protection.office.com) وتسجيل الدخول.
+2. انقر على **البحث > البحث عن المحتوى**.
 3. انقر فوق **بحث جديد** لإنشاء بحث جديد.
-4. أدخل شروط البحث المطلوبة بما في ذلك مواقع المحتوى والكلمات الأساسية.  
-5. انقر فوق **حفظ تشغيل &** اسم البحث، بدء تشغيله، ثم قم بمعاينة النتائج.
+4. أدخل شروط البحث المطلوبة بما في ذلك الكلمات الرئيسية ومواقع المحتوى.  
+5. انقر فوق **حفظ & تشغيل** لتسمية البحث، وبدء تشغيله، ثم معاينة النتائج.
 
-للحصول على إرشادات مفصلة حول محتوى البحث، تصدير النتائج وإنشاء حالات eDiscovery للاحتفاظ بالبيانات، راجع [البحث في المحتوى](https://docs.microsoft.com/office365/securitycompliance/content-search) و [حالات eDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
+للحصول على إرشادات تفصيلية حول عمليات البحث عن المحتوى وتصدير النتائج وإنشاء حالات eDiscovery للاحتفاظ بالبيانات، راجع [حالات البحث عن المحتوى](https://docs.microsoft.com/office365/securitycompliance/content-search) [وeDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
 
-فهم النتائج المزيد عن "البحث في المحتوى" بمراجعة [شروط وحدود](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) و [تحقق جزئيا فهرسة العناصر](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) وغيرها أن تكون على علم بها.
+فهم المزيد عن بحث المحتوى من خلال مراجعة [المتطلبات والحدود](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) [والتحقيق في العناصر المفهرسة جزئيًا](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) والنتائج الأخرى لتكون على علم بها.

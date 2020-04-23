@@ -1,41 +1,41 @@
 ---
-title: استكشاف أخطاء رسائل "رفض الوصول" وإصلاحها
+title: استكشاف أخطاء الوصول الرسائل المرفوضة
 ms.author: pebaum
 author: pebaum
-ms.date: 6/29/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: d678b57a-53ad-4414-9423-d8726a0c532f
-ms.openlocfilehash: 913324524e4b04ee7eb552bcc4efad1b493ab319
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: a1541aa401efbc03e8a6104ba435c7fdf20a977a
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051808"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43742130"
 ---
-# <a name="troubleshoot-access-denied-messages"></a>استكشاف أخطاء رسائل "رفض الوصول" وإصلاحها
+# <a name="troubleshoot-access-denied-messages"></a>استكشاف أخطاء الوصول الرسائل المرفوضة
 
-إذا كنت تتلقي رسالة رفض وصول عند محاولة استعراض موقع Sharepoint علي الإنترنت ، الرجاء مراجعه المقالات أدناه.
+إذا كنت تتلقى رسالة رفض الوصول عند محاولة تصفح موقع Sharepoint Online، يرجى الاطلاع على المقالات التالية.
 
-**أضافه وترخيص المستخدم**
+**إضافة المستخدم وترخيصه**
 
-تاكد من [تعيين التراخيص للمستخدمين في Office 365 للعمل](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).
+تأكد من [تعيين تراخيص للمستخدمين في Microsoft 365 للأعمال](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?view=o365-worldwide&amp;tabs=One).
 
 **تعيين الأذونات**
 
-إذا تم تعيين ترخيص Sharepoint للمستخدم ولا يزال يتلقى رسالة تم رفض الوصول اليها ، الرجاء التاكد من ان لديهم [مستوي الاذن المناسب المعين](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
+إذا تم تعيين ترخيص Sharepoint للمستخدم ولا يزال يتلقى رسالة رفض الوصول، يرجى التأكد من أن لديهم [مستوى الإذن المناسب المعين](https://docs.microsoft.com/sharepoint/understanding-permission-levels).
 
-**النظر في استخدام ميزه طلب الوصول**
+**فكر في استخدام ميزة طلب الوصول**
 
-تسمح ميزه [طلب الوصول](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) للأشخاص بطلب الوصول إلى المحتوي الذي ليس لديهم حاليا اذن لرؤيته. 
+تسمح ميزة [طلب الوصول](https://support.office.com/article/Set-up-and-manage-access-requests-94B26E0B-2822-49D4-929A-8455698654B3) للأشخاص بطلب الوصول إلى المحتوى الذي ليس لديهم إذن برؤيته حاليًا. 
 
-**السماح لبرنامج نصي مخصص قد يؤدي إلى رفض الوصول المشكلات**
+**قد يؤدي السماح بالبرنامج النصي المخصص إلى رفض الوصول إلى المشكلات**
 
-هناك بعض وحدات السيناريو حيث قد تكون ميزه "السماح البرنامج النصي المخصص" تقديم رفض وصول. للحصول علي قائمه بالميزات المتاثره ، اعتبارات الأمان والقدرة علي تعطيل الميزة. الرجاء زيارة [البرنامج النصي المخصص أو السماح به أو منعه](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
+هناك بعض السيناريوهات حيث قد تكون ميزة "السماح بالبرنامج النصي المخصص" تقديم حق الوصول المرفوض. للحصول على قائمة بالميزات المتأثرة، اعتبارات الأمان والقدرة على تعطيل الميزة. يرجى زيارة ، [والسماح أو منع البرنامج النصي مخصص](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
-ملاحظه: إذا كان موقع اندريف أو SharePoint غير متوفر لعده مستخدمين كان لديهم حق الوصول مسبقا ، فقد تكون هناك مشكله خدمه مؤقته. [تحقق من لوحه معلومات صحة الخدمة](https://portal.office.com/adminportal/home#/servicehealth).
+ملاحظة: إذا كان موقع OneDrive أو SharePoint غير متوفر للعديد من المستخدمين الذين سبق لهم الوصول، فقد تكون هناك مشكلة في الخدمة المؤقتة. [تحقق من لوحة معلومات صحة الخدمة](https://portal.office.com/adminportal/home#/servicehealth).
 
 
   

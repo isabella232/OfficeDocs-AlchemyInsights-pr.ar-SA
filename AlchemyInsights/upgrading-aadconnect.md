@@ -1,9 +1,9 @@
 ---
-title: 932 آدكونيكت الترقية
+title: 932 ترقية AADConnect
 ms.author: chrisda
 author: chrisda
 manager: dansimp
-ms.date: 6/8/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,23 +12,23 @@ ms.custom:
 - "932"
 - "1300025"
 ms.assetid: 8f43f36c-9722-43a4-b0de-c5341c06dac5
-ms.openlocfilehash: ff3f74348599788edd8ce0991fe49bb6a54b55af
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: fcc5fddb5cfd15407d0533449035317d187931ed
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36506070"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43766480"
 ---
-# <a name="upgrade-azure-ad-connect"></a>ترقية الإعلان Azure الاتصال
+# <a name="upgrade-azure-ad-connect"></a>ترقية اتصال Azure AD
 
-بشكل افتراضي، يتم تمكين تحديث تلقائي للاتصال الإعلان أزور، التي تساعد على ضمان أنك تقوم بتشغيل أحدث إصدار. للتحقق من إعدادات الترقية التلقائية، استخدم cmdlet **الحصول على أدسينكاوتوبجرادي** في PowerShell الإعلان Azure. Cmdlet سيتم إرجاع إحدى القيم التالية:
+بشكل افتراضي، يتم تمكين الترقية التلقائية لـ Azure AD Connect، مما يساعد على ضمان تشغيل أحدث إصدار. للتحقق من إعدادات الترقية التلقائية، استخدم **cmdlet Get-ADSyncAutoUpgrade** في Azure AD PowerShell. سيعود cmdlet إحدى القيم التالية:
 
-- **تمكين**: تمكين التحديث التلقائي.
+- **ممكّن:** تم تمكين الترقية التلقائية.
 
-- **تعطيل**: تم تعطيل التحديث التلقائي.
+- **معطل:** تم تعطيل الترقية التلقائية.
 
-- **معلق**: النظام لم تعد مؤهلة للحصول على تحديثات تلقائية. لا يمكنك تكوين هذه القيمة؛ يتم تعيينها بواسطة النظام.
+- **مع وقف التنفيذ:** لم يعد النظام مؤهلاً لتلقي ترقيات تلقائية. لا يمكنك تكوين هذه القيمة; تم تعيينها من قبل النظام.
 
-لمزيد من المعلومات، راجع [تحديث تلقائي](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade).
+لمزيد من المعلومات، راجع [الترقية التلقائية](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade).
 
-لتنزيل أحدث إصدار من الاتصال الإعلان أزور، انتقل إلى [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594).
+لتحميل أحدث إصدار من Azure AD [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594)Connect، انتقل إلى .

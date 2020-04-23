@@ -1,9 +1,9 @@
 ---
-title: تحديد Outlook.com 8000090 كافة
+title: 8000090 Outlook.com اختيار الكل
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,17 +12,17 @@ ms.custom:
 - "1410"
 - "1411"
 - "8000090"
-ms.openlocfilehash: 6efc18bb8c906f273083026985ec21acfe0429ee
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: bc4bf01b12e3864fc0112ef3e20410d2f7ccb0b5
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36535306"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43743584"
 ---
-# <a name="how-to-select-all-in-outlookcom"></a>كيف يتم "تحديد الكل" في Outlook.com
+# <a name="how-to-select-all-in-outlookcom"></a>كيفية "تحديد الكل" في Outlook.com
 
-يمكنك فقط تحديد كافة إذا تظهر كافة الرسائل. وهذا لمنع الأعمال غير المقصود لا يمكنك مشاهدة الرسائل.
+يمكنك تحديد الكل فقط إذا كانت كافة الرسائل مرئية. هذا لمنع الإجراءات العرضية على الرسائل التي لا يمكنك رؤيتها.
 
-**CTRL + النقر** لتحديد عدة رسائل فردية.
+**CTRL + انقر فوق** يحدد رسائل فردية متعددة.
 
-**SHIFT + نقرة** لتحديد كافة الرسائل بين تحديد الرسالة الأولى والأخيرة.
+**SHIFT + انقر فوق** يحدد كافة الرسائل بين الرسالة الأولى والأخيرة التي تحددها.

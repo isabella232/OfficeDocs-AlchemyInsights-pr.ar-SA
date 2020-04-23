@@ -1,9 +1,9 @@
 ---
-title: Office 365 لخطط غير ربحية والتسعير
+title: Office 365 للخطط والتسعير غير الربحي
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 3/1/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,19 +13,19 @@ ms.custom:
 - "478"
 - "1500026"
 ms.assetid: e6ec87f5-98d4-444d-b1e7-dc36cd60f064
-ms.openlocfilehash: 503ed30c3a9c1d8ab67d964a6c03a1886d9bcefd
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 3841ea04e5fac7492372adaa27258ef66b6879ee
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390571"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761549"
 ---
-# <a name="office-365-for-nonprofit-plans-and-pricing"></a>Office 365 لخطط غير ربحية والتسعير
+# <a name="office-365-for-nonprofit-plans-and-pricing"></a>Office 365 للخطط والتسعير غير الربحي
 
-يمكن تلقي Office 365 غير ربحية كتبرع المنظمات غير الربحية مؤهل أو الترقية إلى الميزات المتقدمة في خصم كبير. للتأهل لخطة 365 Office غير ربحية، يجب مسك [الخيرية المعترف بها](https://go.microsoft.com/fwlink/p/?LinkID=330253) في البلد وتسجيل Microsoft لسياسة عدم التمييز. تحتفظ Microsoft بالحق في التحقق من الأهلية في أي وقت وتعليق الخدمة للمؤسسات غير صالحة.
+يمكن للمنظمات غير الربحية المؤهلة الحصول على Office 365 Nonprofit كتبرع أو ترقية إلى الميزات المتقدمة بخصم كبير. للتأهل لخطة Office 365 غير الربحية، يجب أن تكون لديك [حالة خيرية معترف بها](https://go.microsoft.com/fwlink/p/?LinkID=330253) في بلدك وأن توقع سياسة عدم التمييز التي تنتهجها Microsoft. تحتفظ Microsoft بالحق في التحقق من الأهلية في أي وقت وتعليق الخدمة للمؤسسات غير المؤهلة.
   
-راجع [أسئلة وأجوبة](https://products.office.com/nonprofit/office-365-nonprofit) لأسئلة إضافية عن هذا العرض.
+راجع [الأسئلة الشائعة](https://products.office.com/nonprofit/office-365-nonprofit) للحصول على أسئلة إضافية حول هذا العرض.
   
-- [مراجعة الخطط غير ربحية](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)
+- [مراجعة الخطط غير الربحية](https://products.office.com/nonprofit/office-365-nonprofit-plans-and-pricing?tab=1)
 
-- [مقارنة كافة خطط Office 365](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [مقارنة جميع اشتراكات Microsoft 365](https://products.office.com/business/compare-more-office-365-for-business-plans)

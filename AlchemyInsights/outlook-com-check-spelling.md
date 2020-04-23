@@ -1,9 +1,9 @@
 ---
-title: التدقيق الإملائي في Outlook.com
+title: التحقق من الهجاء في Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "213"
 - "8000007"
 ms.assetid: 7f2a5cfc-c555-4325-927e-7f3c7c884200
-ms.openlocfilehash: 9b581ccc1d0ca50dfb635aa3b9a2a2bb3339c6a7
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a6d1706990e9989b13a1a9fb48bb78b56ae6856a
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36547010"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43760579"
 ---
-# <a name="use-your-browser-to-check-spelling"></a>استخدام المستعرض للتدقيق الإملائي
+# <a name="use-your-browser-to-check-spelling"></a>استخدام المتصفح للتحقق من الهجاء
 
-على الرغم من أنه ليس لديه Outlook.com موجه دالة التحقق، العديد من مستعرضات ويب تلقائياً التدقيق الإملائي، بما في ذلك حافة Microsoft Internet Explorer 10 والإصدارات الأحدث والإصدارات الحالية من فايرفوكس وكروم سفاري. تحقق من الخيارات الخاصة بمستعرض ويب الخاص بك لمزيد من المعلومات حول كيفية إجراء التدقيق الإملائي.
+على الرغم من أن Outlook.com ليس لديها وظيفة التدقيق الإملائي، العديد من متصفحات الويب تحقق تلقائيا الإملائي الخاص بك، بما في ذلك مايكروسوفت الحافة، إنترنت إكسبلورر 10 والإصدارات الأحدث، والإصدارات الحالية من فايرفوكس، كروم، وسفاري. تحقق من الخيارات المتاحة لمستعرض الويب لمعرفة المزيد حول كيفية التحقق من الهجاء.

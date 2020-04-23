@@ -1,9 +1,9 @@
 ---
-title: Office 365 لخطط الأعمال والتسعير
+title: مايكروسوفت 365 لخطط العمل والتسعير
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
-ms.date: 2/28/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,13 +13,13 @@ ms.custom:
 - "475"
 - "1500026"
 ms.assetid: 6c0a83cc-4ad4-4e6b-a8ae-89fec74e1675
-ms.openlocfilehash: 6e97c87e7937e766d0df06b366890f43f2484938
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: 6223af98f37b51c4084b7f2d47507e6d1228c1f5
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36390679"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761621"
 ---
-# <a name="compare-office-365-for-business"></a>مقارنة Office 365 للشركات
+# <a name="compare-microsoft-365-for-business"></a>مقارنة Microsoft 365 للأعمال
 
-هناك ثلاث خطط مختلفة مع Office 365 للعمل. [مقارنة Office 365 لخطط الأعمال والتسعير](https://products.office.com/compare-all-microsoft-office-products?tab=2).  
+هناك ثلاث خطط مختلفة متوفرة مع Microsoft 365 للأعمال. [قارن Microsoft 365 لخطط الأعمال والتسعير.](https://products.office.com/compare-all-microsoft-office-products?tab=2)  

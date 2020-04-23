@@ -1,8 +1,8 @@
 ---
-title: تحتاج إلى تثبيت Office 2013
+title: الحاجة إلى تثبيت Office 2013
 ms.author: janellem
 author: janellem
-ms.date: 12/17/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,16 +11,16 @@ ms.custom:
 - "907"
 - "2000023"
 ms.assetid: b1cc6839-6bda-4e63-9d3d-c5e3d7313042
-ms.openlocfilehash: 2acc0b82f6793c4b5a36b71b9574262c559e3aee
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: a4f59ecd50b92c52e15c4394b467adbaf92b11ff
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36538692"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43761837"
 ---
-# <a name="office-2013-is-no-longer-supported-in-office-365-subscriptions"></a>Office 2013 لم تعد معتمدة في الاشتراكات Office 365
+# <a name="office-2013-is-no-longer-supported-in-microsoft-365-subscriptions"></a>لم يعد Office 2013 معتمدًا في اشتراكات Microsoft 365
 
-منذ 28 شباط/فبراير 2017، Office 2013 لم تعد معتمدة في الاشتراكات Office 365.
+منذ 28 فبراير 2017، لم يعد Office 2013 معتمدًا في اشتراكات Microsoft 365.
   
-لضمان أمان مجموعة Office الخاصة بك والحصول على كافة الميزات الحديثة، تثبيت أحدث إصدار من Office مجاناً كجزء من اشتراك Office 365. راجع [ترقية المستخدمين لعميل Office آخر](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client).
+لضمان أمان جناح Office والحصول على جميع أحدث الميزات، قم بتثبيت أحدث إصدار من Office مجانًا كجزء من اشتراك Microsoft 365. راجع [ترقية المستخدمين إلى أحدث عميل Office](https://docs.microsoft.com/office365/admin/setup/upgrade-users-to-latest-office-client).
   
