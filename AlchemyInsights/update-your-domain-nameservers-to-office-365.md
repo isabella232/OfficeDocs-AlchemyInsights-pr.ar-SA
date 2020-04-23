@@ -1,8 +1,8 @@
 ---
-title: تحديث خوادم أسماء المجال إلى Office 365
+title: تحديث خوادم أسماء المجال للإشارة إلى Microsoft
 ms.author: v-crytho
 author: CrystalThomasMS
-ms.date: 5/3/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,18 +11,18 @@ ms.assetid: 5d38b331-a0e8-4937-8bda-4f8f715e1976
 ms.custom:
 - "6"
 - "14"
-ms.openlocfilehash: 23d49c734148739ede0d5e5b53430a42b606c831
-ms.sourcegitcommit: 037331d71f06750d972c0b6278b23bb15c4806ca
+ms.openlocfilehash: b49ca9422f582f906fc6c108c85cc26150474548
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/18/2019
-ms.locfileid: "36742145"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719980"
 ---
-# <a name="update-your-domain-nameservers-to-office-365"></a>تحديث خوادم أسماء المجال إلى Office 365
+# <a name="update-your-domain-nameservers-to-point-to-microsoft"></a>تحديث خوادم أسماء المجال للإشارة إلى Microsoft
 
 ملاحظة: قد تستغرق تغييرات خادم الأسماء أحياناً ما يصل إلى 48 ساعة ليتم نشرها.
   
-لإعداد مجالك في Office 365، يجب تحديث خوادم الأسماء لدى جهة التسجيل. إنشاء سجلات خادم الأسماء أو تحريرها لدى جهة تسجيل المجالات.
+لإعداد نطاقك مع Microsoft، يجب تحديث خوادم الأسماء في المسجل. إنشاء سجلات خادم الأسماء أو تحريرها لدى جهة تسجيل المجالات.
   
 1. انتقل إلى موقع جهة تسجيل المجالات على ويب وابحث عن المنطقة التي يمكنك فيها تحرير خوادم الأسماء.
 
@@ -34,5 +34,5 @@ ms.locfileid: "36742145"
 
 3. حفظ التغييرات.
 
-يمكنك أيضاً العثور على إرشادات مفصلة في هذه المقالة: [تغيير أسماء الخوادم لإعداد Office 365 لدى أي جهة تسجيل مجالات](https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
+يمكنك أيضًا العثور على إرشادات تفصيلية في هذه المقالة: [تغيير خوادم الأسماء لإعداد Microsoft 365 مع أي مسجل نطاق](https://docs.microsoft.com/office365/admin/get-help-with-domains/change-nameservers-at-any-domain-registrar)
   

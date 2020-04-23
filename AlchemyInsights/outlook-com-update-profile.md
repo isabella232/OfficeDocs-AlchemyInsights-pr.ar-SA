@@ -1,24 +1,24 @@
 ---
-title: 8000036 تغيير الصورة الشخصية/الاسم في Outlook.com
+title: 8000036 تغيير ملف التعريف الموافقة المسبقة عن علم / الاسم في Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 2/28/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000036
-ms.openlocfilehash: e18742425546d9d455d56fdf400338a45361633b
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: d3e2f8c326bcac939ad7f6eadb8e3d5060620054
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36511330"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43719363"
 ---
-# <a name="change-my-profile-picture-or-name-in-outlookcom"></a>تغيير صوره الملف الشخصي أو الاسم الخاص بي في Outlook.com
+# <a name="change-my-profile-picture-or-name-in-outlookcom"></a>تغيير صورة الملف الشخصي أو اسمي في Outlook.com
 
-1. انتقل إلى [معلومات حساب Microsoft الخاص بك](https://go.microsoft.com/fwlink/p/?linkid=860841).
-1. حدد **تحرير الاسم** أو **تغيير الصورة**.
+1. انتقل إلى [معلومات حساب Microsoft .](https://go.microsoft.com/fwlink/p/?linkid=860841)
+1. حدد **تحرير الاسم** أو تغيير **الصورة**.
 
-يرجى السماح بما يصل إلى 24 ساعة لإدخال تغييرات علي صوره ملفك الشخصي أو اسمك لتدخل حيز التنفيذ.
+يُرجى السماح بدخول التغييرات على صورة ملفك الشخصي أو اسمك حيز التنفيذ لمدة تصل إلى 24 ساعة.

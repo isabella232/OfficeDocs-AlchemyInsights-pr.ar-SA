@@ -1,35 +1,35 @@
 ---
-title: أداره ملفات تعريف المستخدمين في الخوض
+title: إدارة ملفات تعريف المستخدمين في Delve
 ms.author: ponincev
 author: pebaum
-ms.date: 9/12/2018
+ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e595481a-91de-431d-bf86-d7610ff3b6a7
-ms.openlocfilehash: cae756bf9a9ffa247cafd5fd76e913f3185bdb28
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 73061d23b7deec176f0695dcfb1895eebc428df9
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36497178"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43720526"
 ---
-# <a name="manage-user-profiles-in-delve"></a>أداره ملفات تعريف المستخدمين في الخوض
+# <a name="manage-user-profiles-in-delve"></a>إدارة ملفات تعريف المستخدمين في Delve
 
-يتيح office الخوض المستخدمين أداره التشكيل الجانبي للمستخدم 365 Office الخاصة بهم. يمكن للمستخدمين:
+يتيح Office Delve للمستخدمين إدارة ملف تعريف المستخدم الخاص بهم. يمكن للمستخدمين:
   
 - عرض معلوماتهم وتحديثها
     
-- الاحتفاظ ببعض المعلومات خاصه
+- الحفاظ على خصوصية بعض المعلومات
     
-- تغيير ملف التعريف أو صوره الغلاف
+- تغيير ملفهم الشخصي أو صورة الغلاف
     
-- تغيير تنسيق اللغة والوقت لخوض
+- تغيير تنسيق اللغة والوقت لـ Delve
     
 > [!NOTE]
-> إذا قام أحد المستخدمين بتحديث صوره ملف التعريف الخاصة بهم ولم يظهر التغيير في SharePoint أو OneDrive ، فاطلب منهم فتح مستعرض ويب ، أو [الانتقال إلى Office.com](https://www.office.com)، أو تسجيل الدخول باستخدام حساب العمل أو المدرسة ، ثم النقر فوق OneDrive أو تجانب SharePoint. سيؤدي هذا إلى المطالبة بمزامنة صوره ملف التعريف. قد يحتاج المستخدم إلى محاولة إكمال هذه الخطوات باستخدام الإصدار الخاص من المستعرض الخاص بهم. 
+> إذا حدّث أحد المستخدمين صورة ملفه الشخصي ولم يظهر التغيير في SharePoint أو OneDrive، فاطلب منه فتح مستعرض ويب، [ثم انتقل إلى Office.com،](https://www.office.com)وتسجيل الدخول باستخدام حسابه في العمل أو المدرسة، ثم انقر فوق لوحة OneDrive أو SharePoint. سيؤدي ذلك إلى مزامنة صورة ملف التعريف. قد يحتاج المستخدم إلى محاولة إكمال هذه الخطوات مع الإصدار الخاص من المستعرض الخاص به. 
   
-[مزيد من المعلومات حول تحديث ملفات التعريف في الخوض](https://go.microsoft.com/fwlink/?linkid=735070)
+[مزيد من المعلومات حول تحديث ملفات التعريف في Delve](https://go.microsoft.com/fwlink/?linkid=735070)
   
 
