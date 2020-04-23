@@ -1,9 +1,9 @@
 ---
-title: كيفية جعل نظرة Outlook.com جديدة مثل القديم
+title: كيفية جعل Outlook.com الجديدة تبدو وكأنها واحدة قديمة
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 6/20/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,23 +11,23 @@ localization_priority: Normal
 ms.custom:
 - "8000035"
 - "794"
-ms.openlocfilehash: 34ff4a6a78b6b362c7929e77e8369d2d6e05c868
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: dc254df10c21521e65c53e478288938e0bb1c3f3
+ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36497502"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43721679"
 ---
-# <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>كيفية جعل نظرة Outlook.com جديدة مثل الإصدار القديم
+# <a name="how-to-make-the-new-outlookcom-look-like-the-old-version"></a>كيفية جعل Outlook.com الجديدة تبدو وكأنها الإصدار القديم
 
-فيما يلي بعض الإعدادات التي يمكنك تغييرها لجعل نظرة Outlook.com جديدة مثل الإصدار القديم:
+فيما يلي بعض الإعدادات التي يمكنك تغييرها لجعل Outlook.com الجديد يبدو وكأنه الإصدار القديم:
 
-1. الانتقال إلى [إعدادات التخطيط](https://outlook.live.com/mail/options/mail/layout).
-1. ضمن **علبة الوارد المركزة**، حدد **عدم فرز الرسائل**.
-1. إطار **رسالة المؤسسة**، حدد **أحدث الرسائل في الأعلى**.
-1. ضمن **الصورة المرسل**، حدد **عدم إظهار الصور المرسل**.
-1. ضمن **"جزء القراءة"**، حدد **إخفاء "جزء القراءة"**.
-1. ضمن **معاينة رسالة النص**، حدد **إظهار معاينة النص**.
-1. ضمن **معاينة مضمنة**، حدد **عدم إظهار المرفقات في قائمة الرسائل**.
+1. انتقل إلى [إعدادات التخطيط](https://outlook.live.com/mail/options/mail/layout).
+1. ضمن **البريد الوارد المركز،** حدد **عدم فرز رسائلي**.
+1. ضمن **مؤسسة الرسائل،** حدد **أحدث الرسائل في الأعلى**.
+1. ضمن **صورة المرسل،** حدد **عدم عرض صور المرسل**.
+1. ضمن **جزء القراءة،** حدد **إخفاء جزء القراءة**.
+1. ضمن **نص معاينة الرسالة،** حدد **إظهار نص المعاينة**.
+1. ضمن **معاينات المضمنة،** حدد **عدم إظهار المرفقات في قائمة الرسائل**.
 
-لتغيير إعدادات البريد بحيث تبدو علبة الوارد الخاصة بك ويعمل بالطريقة التي تريدها، راجع [تغيير مظهر علبة البريد الخاصة بك في Outlook الجديد على الويب و Outlook.com](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).
+لتغيير إعدادات البريد بحيث يبدو علبة الوارد وينوبه بالطريقة التي تريدها، راجع [تغيير مظهر صندوق البريد الخاص بك في Outlook.com وOutlook الجديد على الويب](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).
