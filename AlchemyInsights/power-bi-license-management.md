@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002564"
 - "4969"
-ms.openlocfilehash: 8b2342c1e4b7311c59ac7b3b6191de223bfc17ae
-ms.sourcegitcommit: fdfd41c2bfb2d45003b3906e6469377384a91cb5
+ms.openlocfilehash: 3a6a683e283b524d20da51d074aea417fe569b90
+ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2020
-ms.locfileid: "43509274"
+ms.lasthandoff: 04/24/2020
+ms.locfileid: "43799074"
 ---
 # <a name="power-bi-license-management"></a>إدارة تراخيص Power BI
 
@@ -26,6 +26,6 @@ ms.locfileid: "43509274"
 
 - **لتعيين** تراخيص Power BI انتقل إلى **الفوترة > [التراخيص](https://go.microsoft.com/fwlink/p/?linkid=842264)**. للحصول على مزيد من المعلومات، اطلع على [تعيين التراخيص](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide). 
 
-- **لإضافة/إزالة** تراخيص Power BI انتقل إلى **الفوترة > [شراء الخدمات](https://go.microsoft.com/fwlink/p/?linkid=868433)**. للحصول على مزيد من المعلومات، اطلع على [إضافة/إزالة التراخيص](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription). 
+- لـ**إضافة/إزالة** تراخيص Power BI، انتقل إلى **الفوترة > [المنتجات والخدمات](https://go.microsoft.com/fwlink/p/?linkid=842054)**، وابحث عن الاشتراك الذي تريد إضافة التراخيص إليه أو إزالتها، ثم انقر فوق **إضافة/إزالة التراخيص**.
 
 للحصول على مزيد من المعلومات، راجع [إدارة تراخيص الاشتراكات](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription). 

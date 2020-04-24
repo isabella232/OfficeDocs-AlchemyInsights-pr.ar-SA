@@ -12,12 +12,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 81b80d76530327767bc58adf2e06e5b7ae265f18
-ms.sourcegitcommit: 7d787b8c5af223e2711b4c2a2ca55ce2bdc25aea
+ms.openlocfilehash: d61d4484c720db51e7377201067008192940d1f8
+ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/19/2020
-ms.locfileid: "42856770"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43739423"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>المشكلات الشائعة في تطبيق Teams بالنسبة لعملاء التعليم
 
@@ -42,15 +42,15 @@ ms.locfileid: "42856770"
     3. تأكد من أن المستخدم لديه تراخيص محددة للمؤتمرات الصوتية وMicrosoft Teams وSkype for Business Online (الخطة 2).
     4. في مراكز إدارة المستخدمين انقر فوق **عرض الكل** ثم** Teams**.
     5. في مركز إدارة Microsoft Teams، انقر فوق **البوابة القديمة**.
-    6. في مركز إدارة Skype for Business، انقر فوق **المؤتمرات الصوتية** ومن ثم **المستخدمين**.
+    6. في مركز إدارة Skype for Business، انقر فوق **المؤتمرات الصوتية** ثم **المستخدمين**.
     7. حدد المستخدم المطلوب وتحقق من توفر "رقم المكالمات الخارجية الافتراضي" لدى المستخدم.
 
-    للحصول على مزيد من المعلومات، راجع [خطط المكالمات لـ Office 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) أو اتصل بفريق الفوترة التجارية من Microsoft لمساعدتك في الأسئلة المتعلقة بالترخيص.
+    للحصول على مزيد من المعلومات، راجع [خطط الاتصال](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) أو اتصل بفريق Microsoft للفوترة التجارية لمساعدتك فيما يخص أسئلة الترخيص.
 
     موارد إضافية
 
     - [الاجتماعات والمؤتمرات في Microsoft Teams](https://docs.microsoft.com/microsoftteams/deploy-meetings-microsoft-teams-landing-page)
-    - [المؤتمرات الصوتية من Office 365](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
+    - [المؤتمرات الصوتية](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)
 
 - **نُهج الاجتماعات**: يتم استخدام نُهج الاجتماع للتحكم في الميزات المتوفرة للمشاركين في الاجتماع للاجتماعات المجدولة بواسطة المستخدمين في مؤسستك. بعد إنشاء نهج وإجراء التغييرات الخاصة بك، يمكنك تعيين المستخدمين إلى النهج.
 
