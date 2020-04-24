@@ -3,7 +3,7 @@ title: حظر المرسلين أو إلغاء حظرهم في Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 04/21/2020
+ms.date: 04/23/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -15,21 +15,20 @@ ms.custom:
 - "8000015"
 - "8000017"
 ms.assetid: 2ef840ec-7e1a-4df2-944b-d643fe08bd8f
-ms.openlocfilehash: 67bd05e8d2effa325e152ca568748d4cd92930cf
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b6a80faa0542f3f68ac431e4ccd7b59894e8eeb9
+ms.sourcegitcommit: 86881d80c859e68bdf9d301a2df6ca9d75e086a0
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43717751"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43793942"
 ---
 # <a name="block-or-unblock-senders"></a>حظر المرسلين أو إلغاء حظرهم
 
-الرسائل من عناوين البريد الإلكتروني أو المجالات على المرسلين المحظورين تذهب مباشرة إلى مجلد Outlook غير الهام. تتم إزالة البريد الإلكتروني تلقائيًا من مجلد البريد الإلكتروني غير الهام بعد 30 يومًا ولا يمكن استرداده. حدد عنصرًا لمعرفة متى ستتم إزالته.
+لن تصل الرسائل من عناوين البريد الإلكتروني أو النطاقات الموجودة في قائمة المرسلين المحظورة إلى صندوق البريد Outlook.com.
 
 **من البريد الوارد:**
 
 - في قائمة الرسائل، حدد الرسالة ثم حدد**كتلة** **غير هام** > .
-- **ملاحظة:** لن يؤدي حظر عنصر موجود بالفعل في مجلد البريد الإلكتروني غير الهام إلى حذفه.
 
 **من الإعدادات:**
 
@@ -40,4 +39,4 @@ ms.locfileid: "43717751"
 
 لإلغاء حظر المرسل، حدد رمز المهملات بجوار عنوان البريد الإلكتروني أو النطاق الذي تريد إلغاء حظره.
 
-لمعرفة المزيد، راجع [وضع علامة على البريد الإلكتروني كمرسلغير هام أو مرسلين للحظر في Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+لمعرفة المزيد، راجع [حظر مرسلي البريد الإلكتروني أو وضع علامة على البريد الإلكتروني كغير هام](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
