@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002444"
 - "4776"
-ms.openlocfilehash: e631beacddb6829eb226e889b67439118ffb2a05
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: df3a236ca99df07cb162d884bd718db6efcf6d65
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764464"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43787753"
 ---
 # <a name="set-up-a-microsoft-365-business-subscription"></a>إعداد اشتراك Microsoft 365 Business
 
-للاطلاع على إرشادات خطوة بخطوة، الرجاء الرجوع إلى [إعداد Office 365 للأعمال ](https://docs.microsoft.com/microsoft-365/admin/setup/setup?view=o365-worldwide) ليساعدك على إعداد اشتراك Business الخاص بك. 
+للاطلاع على الإرشادات خطوة بخطوة، رجاءً راجع [إعداد Microsoft 365 للأعمال ](https://docs.microsoft.com/microsoft-365/admin/setup/setup?view=o365-worldwide) ليساعدك على إعداد اشتراك Business الخاص بك. 
 
 **مزيد من الموارد المفيدة**
 

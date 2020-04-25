@@ -13,12 +13,12 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 32aca6055d80a2ab0f9d9a355b4c9f8912c676c1
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1ff40dad69c2bf30d56118065eecc83e91b79be1
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43709854"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43787897"
 ---
 # <a name="how-do-i-update-my-credit-card-information"></a>كيف يمكنني تحديث معلومات بطاقتي الائتمانية؟
 
@@ -30,6 +30,6 @@ ms.locfileid: "43709854"
 
 4. قم بتحديث معلومات بطاقة الائتمان أو الحساب البنكي (الاسم الموجود على بطاقة الائتمان أو الحساب البنكي أو عنوان الفاتورة أو رقم الهاتف أو تاريخ انتهاء الصلاحية) حسب الحاجة، ثم حدد **حفظ** > **تم**.
 
-للتعرّف على المزيد، اطلع على [إضافة بطاقة ائتمان أو حساب بنكي أو تحديثهما أو إزالتهما في Office 365 للأعمال](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
+للتعرّف على المزيد، اطلع على [إضافة بطاقة ائتمان أو حساب بنكي أو تحديثهما أو إزالتهما](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).
 
 **ملاحظة**: إذا تم شراء الاشتراك من قبل مسؤول آخر، فلن تتمكن من تحديث معلومات بطاقة الائتمان أو الحساب المصرفي لها. إذا أوشكت صلاحية بطاقة الائتمان على الانتهاء ولم يتمكن المسؤول الآخر من تحديث المعلومات، يمكنك تفادي انقطاع الخدمة عن طريق إضافة بطاقة ائتمان مختلفة أو حساب مصرفي جديد للاشتراك.

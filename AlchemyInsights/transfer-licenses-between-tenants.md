@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500021"
 - "4689"
-ms.openlocfilehash: c31415c4191ebcf50acc8095de3ba6cf31661aa9
-ms.sourcegitcommit: 843146bbf5de98126acb5808598dd533f40bea6a
+ms.openlocfilehash: 19366565b8ecef5e89a2deb9fa1b4ff2476246cf
+ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43191088"
+ms.lasthandoff: 04/23/2020
+ms.locfileid: "43789433"
 ---
 # <a name="transfer-licenses-between-tenants"></a>نقل التراخيص بين المستأجرين
 
-لا يمكن نقل تراخيص Office 365 بين مؤسستين (مستأجرين). 
+لا يمكن نقل التراخيص بين مؤسستين (مستأجرين). 
 
 - إذا لم تعد تخطط لاستخدام المستأجر الذي تريد النقل منه، يمكنك [إلغاء الاشتراك](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/subscriptions) و[شراء مستأجر](https://products.office.com/compare-all-microsoft-office-products-b?rtc=1&activetab=tab:primaryr2) (الهدف) جديد.
 

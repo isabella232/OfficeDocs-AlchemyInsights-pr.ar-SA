@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002248"
 - "4540"
-ms.openlocfilehash: cfc87c49ccb1198341f0e49f409db454a5837ba9
-ms.sourcegitcommit: ce5264af70dfc92aa35ea10d1b2df49a6820b4e5
+ms.openlocfilehash: 7a44c443fa6c469e10a6ac9253567c2266c2db7f
+ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/27/2020
-ms.locfileid: "43027864"
+ms.lasthandoff: 04/22/2020
+ms.locfileid: "43784786"
 ---
 # <a name="remove-teams-dial-in-conferencing-number"></a>إزالة رقم المشاركة بالطلب من داخل المؤتمر في Teams
 
@@ -24,7 +24,7 @@ ms.locfileid: "43027864"
 
 يحدد رقم الهاتف الافتراضي لوصلة المؤتمر معرف المتصل الذي سيُستخدم عند إجراء مكالمة خارجية من قبل مشارك أو منظم من داخل الاجتماع.
 
-1. سجّل الدخول إلى Office 365 باستخدام حساب العمل الخاص بك.
+1. يمكنك تسجيل الدخول باستخدام حساب العمل.
 
 2. انتقل إلى **مركز مسؤولي Microsoft 365**.
 
