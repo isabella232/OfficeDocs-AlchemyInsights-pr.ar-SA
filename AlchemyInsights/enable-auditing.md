@@ -12,12 +12,12 @@ ms.custom:
 - "286"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 385b8de6c6451e13418c615a32f1502a70f5fdcb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 858228acdd884257fc68ceb99799a08e9cc0a0f8
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703630"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908403"
 ---
 # <a name="enable-and-search-the-audit-log"></a>تمكين سجل التدقيق والبحث عنه
 
@@ -31,7 +31,7 @@ ms.locfileid: "43703630"
 
 - يتم تمكين تدقيق علبة البريد بشكل افتراضي في Microsoft 365. لمزيد من المعلومات، راجع [هذه المقالة](https://docs.microsoft.com/office365/securitycompliance/enable-mailbox-auditing).
 
-- لا تدعم صناديق بريد مجموعة Office 365 وصناديق بريد المجلدات العامة في Exchange Online تسجيل التدقيق.
+- لا تدعم صناديق بريد مجموعة Microsoft 365 وصناديق بريد المجلدات العامة في Exchange Online تسجيل التدقيق.
 
 **SharePoint وOneDrive**
 

@@ -10,19 +10,19 @@ ms.collection: Adm_O365
 ms.assetid:
 - "9000153"
 - "1692"
-ms.openlocfilehash: 4ca60a0e433439f4eded0876a2e13c01a9c3a726
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 46d482f7dfdded0dd5d777e3c6890dcef0a1ea5c
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767704"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912809"
 ---
 # <a name="modernize-your-classic-sharepoint-experience"></a>تحديث تجربة SharePoint الكلاسيكية
 
 لإجراء التبديل إلى واجهة المستخدم الحديثة، راجع الموارد التالية:
 
 - [إنشاء **مواقع حديثة** ](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d) (موقع الفريق أو موقع الاتصال). استخدم [SharePoint Look Book](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) لإنشاء إنترانت جميلة وقوية تربط مكان العمل. انظر [الأمثلة](https://lookbook.microsoft.com/) والحصول على [تصميم التوجيه.](https://spdesign.azurewebsites.net/)
-- [قم بتوصيل موقعك **بمجموعة Office 365** ](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group) لزيادة التعاون عبر Microsoft 365.
+- [قم بتوصيل موقعك **بمجموعة Microsoft 365** ](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group) لزيادة التعاون عبر Microsoft 365.
 - التحويل إلى **القائمة الحديثة وتجربة المكتبة** من خلال تمكين [القوائم والمكتبات من الظهور في واجهة المستخدم الحديثة.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)
 - تحويل **صفحات الموقع** من **ويكي**الكلاسيكية ، **جزء الويب**، والصفحات **الرئيسية** إلى صفحات حديثة من [جانب العميل.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages) يوفر [ماسح تحديث SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-scanner) معلومات عن استخدام الصفحة حول صفحات الويكي وجزء الويب الحالي لمساعدتك في تحديد أولويات تحويل الصفحة.
 

@@ -1,5 +1,5 @@
 ---
-title: فرق التوجيه الترقية
+title: إرشادات ترقية الفرق
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,25 +11,27 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: b35cb349aadf146079331370bb872ab24f4a8fef
-ms.sourcegitcommit: 358e7ed05c262f909bfa9ed0df730e1fd89266b8
+ms.openlocfilehash: 045ea1814c0b6189ec25195202bf0f1def255f23
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/27/2019
-ms.locfileid: "39626299"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908763"
 ---
-# <a name="microsoft-teams-upgrade"></a>ترقيه فرق Microsoft
+# <a name="microsoft-teams-upgrade"></a>ترقية فرق Microsoft
 
-سواء كنت بدات للتو مع الفرق ، وباستخدام الفرق بالفعل إلى جانب سكايب للشركات ، أو علي استعداد للترقية ، ونحن نريد ان نضمن لديك كل ما تحتاجه للتنقل رحله ناجحه إلى الفرق. لمزيد من المعلومات يرجى زيارة الروابط أدناه.
+**هام:** يمكننا المساعدة في إصلاح هذا لك باستخدام تشخيص الدعم، ولكن يبدو أنك لا تستخدم مركز الإدارة الجديد. لاستخدام مركز المسؤول الجديد، قم بتمرير التبديل في أعلى اليمين الذي يقول **مركز المسؤول الجديد** إلى اليمين. باستخدام مركز المسؤول الجديد، انقر فوق **أداة الحاجة إلى المساعدة،** اكتب "ترقية الفرق"، ثم اتبع المطالبات لتشغيل التشخيص.
 
-[الشروع في التشغيل باستخدام ترقيه فرق Microsoft](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+سواء كنت قد بدأت للتو مع Teams، أو تستخدم بالفعل فرق ًا إلى جانب Skype for Business، أو جاهزة للترقية، فإننا نريد التأكد من أن لديك كل ما تحتاجه للتنقل في رحلة ناجحة إلى Teams. لمزيد من المعلومات يرجى زيارة الروابط أدناه.
 
-[خطه للترقية الخاصة بك](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
+[البدء في ترقية Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
 
-[فهم فرق Microsoft و Skype للتعايش التجاري](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+[التخطيط للترقية](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
 
-[تنفيذ الترقية من سكايب "الاعمال التجارية عبر الإنترنت" إلى فرق](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
+[فهم فرق Microsoft وSkype للتعايش التجاري](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
 
-[اجراء الترقية من Skype للعمل المحلي إلى الفرق](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[تنفيذ الترقية من Skype for Business Online إلى Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
+
+[تنفيذ الترقية من Skype for Business في أماكن العمل إلى الفرق](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[التحقق من حاله سكايب "الاعمال التجارية عبر الإنترنت" إلى فرق الترقية مع PowerShell](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[التحقق من حالة ترقية Skype for Business Online إلى Teams باستخدام PowerShell](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)

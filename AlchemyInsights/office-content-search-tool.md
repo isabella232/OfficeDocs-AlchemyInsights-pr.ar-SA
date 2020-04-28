@@ -10,16 +10,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 6ee827bd51f4fb3b4c6abc6c1b7154783dcd3e8c
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 59b70e78779661523ac16bdb8221dfc41abcde21
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43787969"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912245"
 ---
 # <a name="content-search-tool-to-find-relevant-info"></a>أداة البحث عن المحتوى للعثور على المعلومات ذات الصلة
 
-استخدم أداة البحث عن المحتوى في مركز التوافق & الأمان للعثور بسرعة على البريد الإلكتروني في صناديق بريد Exchange والمستندات الموجودة في مواقع SharePoint ومواقع OneDrive ومحادثات المراسلة الفورية في Skype for Business. يمكنك استخدام أداة البحث عن المحتوى للبحث عن محادثات البريد الإلكتروني والمستندات والمراسلة الفورية في أدوات تعاون Microsoft 365 مثل Microsoft Teams وOffice 365 Groups.
+استخدم أداة البحث عن المحتوى في مركز التوافق & الأمان للعثور بسرعة على البريد الإلكتروني في صناديق بريد Exchange والمستندات الموجودة في مواقع SharePoint ومواقع OneDrive ومحادثات المراسلة الفورية في Skype for Business. يمكنك استخدام أداة البحث عن المحتوى للبحث عن محادثات البريد الإلكتروني والمستندات والمراسلة الفورية في أدوات تعاون Microsoft 365 مثل Microsoft Teams ومجموعات Microsoft 365.
 
 
 قبل استخدام ["البحث عن المحتوى"](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) من [مركز التوافق & الأمان،](https://sip.protection.office.com/homepage)ستحتاج إلى إكمال إعدادات التكوين بما في ذلك [تكوين الأذونات](https://docs.microsoft.com/office365/securitycompliance/permissions-filtering-for-content-search) [وإعداد سرعات التنزيل](https://docs.microsoft.com/office365/securitycompliance/increase-download-speeds-when-exporting-ediscovery-results) [وإعدادات التصدير](https://docs.microsoft.com/office365/securitycompliance/disable-reports-when-you-export-content-search-results).

@@ -1,5 +1,5 @@
 ---
-title: تعليمات لإخفاء/إظهار المجموعة من قائمه العناوين
+title: إرشادات لإخفاء/إلغاء إخفاء المجموعة من قائمة العناوين
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "3161"
-ms.openlocfilehash: d0e0285701f1a5f308bdc682abaddf5cc2d34120
-ms.sourcegitcommit: defe2c412567b596fa8c3ab52111bde712ebb314
+ms.openlocfilehash: 61ba34e6d554831da712a92401f26fabb02c26b7
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/29/2019
-ms.locfileid: "37768896"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43908331"
 ---
-# <a name="hide-office-365-group-from-address-list-gal"></a>إخفاء مجموعه 365 Office من قائمه العناوين (GAL)
+# <a name="hide-microsoft-365-group-from-address-list-gal"></a>إخفاء مجموعة Microsoft 365 من قائمة العناوين (GAL)
 
-لإخفاء مجموعه 365 Office من قوائم العناوين (GAL) من عملاء Exchange (مثل Outlook أو OWA) ، استخدم الأمر التالي في shell EXO:
+لإخفاء مجموعة Microsoft 365 من قوائم العناوين (GAL) لعملاء Exchange (مثل Outlook أو OWA)، استخدم الأمر التالي في EXO shell:
 
 `Set-UnifiedGroup -Identity GroupName -HiddenFromAddressListsEnabled:$true`
 
-لإخفاء مجموعه 365 Office من ان تكون مرئية لعملاء Exchange ، استخدم الأمر التالي في shell EXO:
+لإخفاء مجموعة Microsoft 365 من أن تكون مرئية لعملاء Exchange، استخدم الأمر التالي في EXO shell:
 
 `Set-unifiedGroup -Identity GroupName -HiddenFromExchangeClientsEnabled:$true
 Check this article for detailed instructions`

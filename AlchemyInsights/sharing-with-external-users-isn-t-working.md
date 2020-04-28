@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d3d0b69b-214e-4859-8957-621fd6306b30
-ms.openlocfilehash: 285535d6144825f0935bf72579a483260c2f2bd6
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 37da77c73b3abbdcf9cb2b9c4c43f31eea3c0a49
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767236"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912989"
 ---
 # <a name="fix-problems-sharing-sharepoint-content-with-external-users"></a>إصلاح مشاكل مشاركة محتوى SharePoint مع مستخدمين خارجيين
 
@@ -32,7 +32,7 @@ ms.locfileid: "43767236"
     
 2. حدد الموقع أو المواقع، وعلى الشريط، انقر فوق **مشاركة**.
     
-لموقع فريق ينتمي إلى مجموعة Office 365 أو موقع اتصال:
+لموقع فريق ينتمي إلى مجموعة Microsoft 365 أو موقع اتصال:
   
 - تحتوي أنواع المواقع الجديدة هذه على نفس إعداد المشاركة مثل الإعداد على مستوى المؤسسة، ما لم يسمح الإعداد على مستوى المؤسسة بمشاركة الملفات باستخدام ارتباطات لا تتطلب تسجيل الدخول. في هذه الحالة، تسمح المواقع بالمشاركة مع المستخدمين الخارجيين الجدد والحاليين الذين يقومون بتسجيل الدخول. لتغيير الإعداد لمواقع معينة، استخدم مركز مسؤول SharePoint الجديد أو PowerShell. [تعرّف على المزيد](https://go.microsoft.com/fwlink/?linkid=871863).
     

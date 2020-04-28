@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 67aaea23-025c-4af6-a826-bf97cec216ef
-ms.openlocfilehash: e397923c13f01f436667d488523c8bc1641c2b37
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 71c36191b4310cf573059dd85a0a8471ecc30c52
+ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710502"
+ms.lasthandoff: 04/27/2020
+ms.locfileid: "43912881"
 ---
 # <a name="user-permissions-in-sharepoint-and-onedrive"></a>أذونات المستخدم في SharePoint وOneDrive
 
@@ -27,7 +27,7 @@ ms.locfileid: "43710502"
   
 1. افتح الموقع في مستعرض ويب.
     
-2. إذا كان الموقع ينتمي إلى مجموعة Office 365، فانقر فوق رمز الإعدادات في أعلى اليمين، ثم انقر فوق **أذونات الموقع**. انقر على **دعوة الأشخاص**، ثم اختر إضافة أعضاء إلى مجموعة Office 365 أو مشاركة الموقع فقط. 
+2. إذا كان الموقع ينتمي إلى مجموعة Microsoft 365، فانقر فوق رمز الإعدادات في أعلى اليمين، ثم انقر فوق **أذونات الموقع**. انقر على **دعوة الأشخاص**، ثم اختر إضافة أعضاء إلى مجموعة Microsoft 365 أو مشاركة الموقع فقط. 
     
     بالنسبة لموقع اتصال، انقر فوق **مشاركة الموقع** في أعلى اليمين، وأدخل اسم الشخص، ثم حدد مستوى الإذن (اقرأ أو تحرير أو تحكم كامل). 
     
