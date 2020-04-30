@@ -1,5 +1,5 @@
 ---
-title: عرض الفاتورة
+title: عرض فاتورتي
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -12,17 +12,19 @@ ms.custom:
 - "437"
 - "1500005"
 ms.assetid: 464d32fd-2487-4885-af0f-d4096b694861
-ms.openlocfilehash: 10a38a78db566642e723c9068631df4dafd06cc1
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.openlocfilehash: ecd676c586d177146f8a833146c384fcf549eb38
+ms.sourcegitcommit: fbaa2ce2cfb4d56d8c4cf2fa2d95489bdfcb7ff0
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/29/2019
-ms.locfileid: "36665675"
+ms.lasthandoff: 04/30/2020
+ms.locfileid: "43947733"
 ---
-# <a name="view-my-bill"></a>عرض الفاتورة
+# <a name="view-my-bill"></a>عرض فاتورتي
 
-1. في مركز مسؤول Microsoft 365، انتقل إلى **الدفع** \> صفحة [شجرة & المدفوعات](https://go.microsoft.com/fwlink/p/?linkid=848039) .
+1. في مركز إدارة Microsoft 365، انتقل إلى صفحة **الفواتير &** \> [المدفوعات.](https://go.microsoft.com/fwlink/p/?linkid=848039)
 
-2. حدد نطاق تاريخ من القائمة المنسدلة، ومن ثم اختر الأمر الذي تريد عرضه.
+2. حدد نطاق ًا زمنيًا من القائمة المنسدلة، ثم اختر الترتيب الذي تريد عرضه.
 
-لمزيد من المعلومات راجع [عرض الفاتورة أو الفاتورة الخاصة بك](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
+3. لطباعة الفاتورة، قم بتنزيل الفاتورة كملف PDF وانقر فوق **طباعة**.
+
+للحصول على مزيد من التفاصيل، اطلع على [عرض فاتورتك](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
