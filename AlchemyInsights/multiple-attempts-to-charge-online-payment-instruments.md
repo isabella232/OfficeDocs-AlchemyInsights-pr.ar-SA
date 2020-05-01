@@ -13,13 +13,21 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: 596be276cf7df2d8e451350c0833b2c410153252
-ms.sourcegitcommit: cead49883943b0eb413f8cf4be617a32b5099cb6
+ms.openlocfilehash: 9e7505978ef80f3aba44e69dc7b5f7ab9c1780d5
+ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/24/2020
-ms.locfileid: "43799110"
+ms.lasthandoff: 05/01/2020
+ms.locfileid: "43957893"
 ---
-# <a name="multiple-attempts-to-charge-online-payment-instruments"></a>محاولات متعددة لتحصيل رسوم من أدوات الدفع عبر الإنترنت
+# <a name="past-due-account"></a>الحساب المستحق الماضي؟
 
-وإذا لم تنجح هذه التهمة، سيستمر النظام في محاولة تسوية الرصيد خلال الأسابيع القليلة المقبلة. يمكنك إجراء تحديثات على معلومات الدفع الخاصة بك في أي وقت لضمان نجاح محاولة الشحن التالية. لمزيد من المعلومات، راجع [إضافة بطاقة ائتمان أو حساب مصرفي أو تحديثهما أو إزالتهما في Microsoft 365 للأعمال.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)
+يمكن رفض الدفع لعدة أسباب، بما في ذلك إذا انتهت صلاحية بطاقة الائتمان. يمكنك استخدام ميزة **تسوية الرصيد** في أي وقت لتغيير معلومات بطاقة الائتمان الخاصة بك وإعادة إرسال الدفع على الفور.
+
+1. في مركز الإدارة، انتقل إلى ** [خدمات](https://go.microsoft.com/fwlink/p/?linkid=842054)& منتجات الفوترة >.**
+ابحث عن الاشتراك مع الرصيد المستحق. في قسم **الفوترة،** بجوار **الاشتراك لديه دفعة مستحقة سابقة،** انقر فوق تسوية **الرصيد** لدفع الرصيد المستحق بالكامل.
+2. إذا كنت تمتلك بطاقة الائتمان، يمكنك تغيير تاريخ انتهاء الصلاحية، أو اختيار بطاقة مختلفة، أو [إضافة بطاقة جديدة.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide)
+3. إذا كنت لا تملك بطاقة الائتمان، يمكنك اختيار بطاقة ائتمان مختلفة أو [إضافة بطاقة جديدة.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide)
+4. بعد الانتهاء من التحديثات، انقر فوق **حفظ**.
+
+**ملاحظة:** بعد إجراء الدفع، قد يظل الإخطار المستحق السابق مرئيًا لفترة قصيرة من الزمن. يرجى الانتظار **48 ساعة** على الأقل قبل الاتصال بالدعم.
