@@ -1,5 +1,5 @@
 ---
-title: كيفية شراء Office 365 للمنظمات غير الربحية
+title: 'مايكروسوفت 365 للمنظمات غير الربحية - تمت الموافقة عليها '
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,19 +13,21 @@ ms.custom:
 - "340"
 - "1500010"
 ms.assetid: 870f4834-a10c-49cd-ac5f-ccb1f0a9215f
-ms.openlocfilehash: 83eb3cb797ebb7c0e2c3ce0e9449390e71d05341
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3ea3245e1ea17c253412b384cb4d60fc94195f16
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763564"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005173"
 ---
-# <a name="how-to-purchase-office-365-for-non-profits"></a>كيفية شراء Office 365 للمنظمات غير الربحية
+# <a name="microsoft-365-for-nonprofits---approved"></a>مايكروسوفت 365 للمنظمات غير الربحية - تمت الموافقة عليها
 
-تمت الموافقة على حالتك كمؤسسة غير ربحية مؤهلة من Microsoft. للشراء:
-  
+تمت الموافقة على حالتك كمؤسسة غير ربحية مؤهلة من Microsoft. يمكنك إكمال عملية الشراء من مركز إدارة Microsoft 365.
+
 1. في مركز المشرف، انتقل إلى صفحة [خدمات شراء](https://go.microsoft.com/fwlink/p/?linkid=868433) **الفوترة.** \>
 
-2. اختر من القائمة ضمن **الخطط غير الربحية.**
+2. اختر من القائمة ضمن **خطط عدم الربح.**
 
 3. مرر فوق الاشتراك الذي تريد شرائه، واختر **شراء الآن**.
+
+لمزيد من المعلومات، راجع [موارد Microsoft 365 للمؤسسات غير الربحية](https://www.microsoft.com/nonprofits/microsoft-365) أو [مبيعات جهات الاتصال.](https://www.microsoft.com/nonprofits/contact-us)

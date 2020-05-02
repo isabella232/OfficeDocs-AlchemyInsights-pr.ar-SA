@@ -12,19 +12,19 @@ ms.custom:
 - "922"
 - "1800021"
 ms.assetid: 469de984-cec1-45ca-94ab-f70bc6b28fff
-ms.openlocfilehash: a03c0f7f3d456e56896df2153305186252e9508f
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b940edc8911a02c5084091d70cf1d9f27081717f
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43724543"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005245"
 ---
-# <a name="inbox-rules"></a>قواعد البريد الوارد
+# <a name="inbox-rules-in-outlook-desktop"></a>قواعد البريد الوارد في سطح مكتب Outlook
 
-لمزيد من المعلومات حول استخدام قواعد علبة الوارد في صندوق البريد الخاص بك، راجع:
+1. انتقل إلى **ملف > إدارة القواعد & التنبيهات** لفتح مربع حوار القواعد **والتنبيهات.**
+2. في علامة التبويب **قواعد البريد الإلكتروني،** انقر فوق **قاعدة جديدة**.
+3. حدد أحد القوالب من **الخطوة 1**. للبدء من قاعدة فارغة، حدد **تطبيق قاعدة على الرسائل التي أتلقاها أو تطبيق قاعدة على الرسائل التي أرسلها**.
+4. في **الخطوة 2: تحرير مربع وصف القاعدة**، انقر على أي خيارات مسطرة لتعيينها. على سبيل المثال، إذا قمت بتحديد **رسائل وضع علامة من شخص ما للمتابعة** في الخطوة 1، فانقر فوق الأشخاص أو المجموعة **العامة** لتحديد رسائل المرسلين الذين تريد وضع علامة عليها؛ ثم انقر فوق **متابعة في هذا الوقت** لتحديد علامة وتاريخ متابعة.
+5. انقر فوق **التالي**.
 
-- [إدارة رسائل البريد الإلكتروني باستخدام القواعد في Outlook للكمبيوتر الشخصي](https://support.office.com/article/c24f5dea-9465-4df4-ad17-a50704d66c59.aspx)
-
-- [إدارة الرسائل باستخدام قواعد البريد الوارد في Outlook على الويب](https://support.office.com/article/8400435c-f14e-4272-9004-1548bb1848f2.aspx)
-
-يمكنك أيضًا إدارة قواعد علبة الوارد في Exchange Online PowerShell. لمزيد من المعلومات، راجع [Get-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/get-inboxrule) (عرض)، [New-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/new-inboxrule) (إنشاء)، [إزالة InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/remove-inboxrule) (حذف)، [تعيين-InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/set-inboxrule) (تعديل موجود)، [تعطيل InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/disable-inboxrule) (تعطيل الموجودة)، [وتمكين InboxRule](https://docs.microsoft.com/powershell/module/exchange/mailboxes/enable-inboxrule) (تمكين الموجودة).
+للحصول على معلومات إضافية حول كيفية العمل مع قواعد البريد الوارد يرجى [الاطلاع على إدارة رسائل البريد الإلكتروني باستخدام القواعد](https://support.office.com/article/manage-email-messages-by-using-rules-c24f5dea-9465-4df4-ad17-a50704d66c59).

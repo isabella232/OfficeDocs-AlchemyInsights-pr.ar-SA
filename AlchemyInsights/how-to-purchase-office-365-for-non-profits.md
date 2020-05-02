@@ -1,5 +1,5 @@
 ---
-title: كيفية شراء Office 365 للمنظمات غير الربحية
+title: مايكروسوفت 365 للمنظمات غير الربحية -- قيد الاستعراض
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -13,13 +13,15 @@ ms.custom:
 - "341"
 - "1500010"
 ms.assetid: aaeb8a90-8265-410f-a495-734ae5e75a76
-ms.openlocfilehash: 5cf2d792c3884b3121ba6dd42d3ec1fb96615aba
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d09512a707b3c3c500d5908cebef932c6e62f921
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763528"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005209"
 ---
-# <a name="how-to-purchase-office-365-for-non-profits"></a>كيفية شراء Office 365 للمنظمات غير الربحية
+# <a name="microsoft-365-for-nonprofits---under-review"></a>مايكروسوفت 365 للمنظمات غير الربحية -- قيد الاستعراض
 
-تتم مراجعة أهليتك كمؤسسة غير ربحية مؤهلة من Microsoft. يمكنك أن تتوقع تلقي إشعار حول تحديد أهليتك قبل انتهاء صلاحية الإصدار التجريبي. يمكنك تتبع حالة التطبيق الخاص بك [هنا](https://eligibilityweb.azurewebsites.net/).
+تتم **مراجعة**أهليتك كمنظمة غير ربحية مؤهلة من Microsoft. يمكنك أن تتوقع تلقي إشعار حول تحديد أهليتك **بعد 48 ساعة** من وقت تقديمك. يُرجى السماح باستقبال هذا الإخطار لمدة **48 ساعة** على الأقل قبل فتح طلب الخدمة. 
+
+لمزيد من المعلومات، راجع [Microsoft 365 للمؤسسات غير الربحية](https://www.microsoft.com/nonprofits/microsoft-365). 

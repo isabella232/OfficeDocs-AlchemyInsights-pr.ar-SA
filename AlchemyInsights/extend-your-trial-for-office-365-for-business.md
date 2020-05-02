@@ -12,16 +12,16 @@ ms.custom:
 - "95"
 - "1400006"
 ms.assetid: c3fffed1-33b2-4382-ae99-c3a4816497e6
-ms.openlocfilehash: 46dd8532d920c33d2bd82c1cea752944b3a99866
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: e39bfd064d5a1a712e87cb026851b6a4cc4ff8a5
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43702869"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005317"
 ---
 # <a name="extend-your-trial-for-microsoft-365-for-business"></a>تمديد الإصدار التجريبي لـ Microsoft 365 للأعمال
 
-يمكنك تمديد الإصدار التجريبي لفترة 30 يومًا أخرى. يمكنك أن تفعل هذا مرة واحدة فقط.
+يمكنك تمديد فترة الإصدار التجريبي لمدة 30 يومًا. بعد ذلك التجريبية تذهب إلى [فترة سماح](https://docs.microsoft.com/alchemyinsights/grace-period-for-microsoft-365-free-trial)إضافية لمدة 30 يوما. اتبع الخطوات التالية لتمديد الإصدار التجريبي:
   
 1. في مركز المشرف، انتقل إلى [خدمات & منتجات](https://portal.office.com/adminportal/home#/subscriptions) **الفوترة.** \>
 
