@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3418"
 - "9001424"
-ms.openlocfilehash: 5a1184201e5d9bd58837cb28072da0bf972e16dc
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 0500e998a457c074517b098e95acbd698c4e6b08
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766804"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010530"
 ---
 # <a name="fixing-the-office-apps-the-products-we-found-in-your-account-cant-be-used-to-activate-message"></a>إصلاح تطبيقات Office "لا يمكن استخدام المنتجات التي وجدناها في حسابك لتنشيط" الرسالة
 
@@ -29,8 +29,8 @@ ms.locfileid: "43766804"
 - قم بتشغيل [مستكشف أخطاء التنشيط ومصلحها](https://aka.ms/SARA-OfficeActivation-Alchemy) وأعد تشغيل الكمبيوتر.
 - على الجهاز المتأثر، [أعد تعيين حالة تنشيط Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-لسيناريوهات الكمبيوتر المشتركة، راجع [استكشاف الأخطاء وإصلاحها مع تنشيط الكمبيوتر المشترك لتطبيقات Microsoft 365 للمؤسسات](https://docs.microsoft.com/deployoffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
+لسيناريوهات الكمبيوتر المشتركة، راجع [استكشاف الأخطاء وإصلاحها مع تنشيط الكمبيوتر المشترك لتطبيقات Microsoft 365 للمؤسسات](https://docs.microsoft.com/deployoffice/troubleshoot-shared-computer-activation).
 
 لمزيد من المعلومات، اطلع على: 
-- [يظهر إشعار اشتراك عند فتح تطبيق Microsoft 365](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb)
+- [ظهور إشعار اشتراك عند فتح تطبيق Microsoft 365](https://support.office.com/article/4cabe32c-f594-4c0e-9191-3d3ade10cceb)
 - [استكشاف مشكلات تنشيط Office وإصلاحها](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380)

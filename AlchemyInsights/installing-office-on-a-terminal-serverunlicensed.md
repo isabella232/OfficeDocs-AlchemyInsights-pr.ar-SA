@@ -10,12 +10,12 @@ ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: 7252efdc0f55b8923e685ec89f9b3c63882aa6b0
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6e952513679c9ac66f8de2b43d6d243cf17ff789
+ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763204"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44010601"
 ---
 # <a name="installing-office-on-a-terminal-server"></a>تثبيت Office على خادم المحطة الطرفية
 
@@ -23,7 +23,7 @@ ms.locfileid: "43763204"
   
 - يجب أن يكون لديك اشتراك Microsoft 365 يتضمن تطبيقات Microsoft 365 للمؤسسات، مثل Office 365 Enterprise E3 أو Enterprise E5. لا تتضمن تطبيقات Microsoft 365 للأعمال وتطبيقات Microsoft 365 لخطط Premium للأعمال تطبيقات Microsoft 365 للمؤسسات.
 
-- تحتاج إلى تمكين [تنشيط الكمبيوتر المشترك](https://docs.microsoft.com/DeployOffice/overview-of-shared-computer-activation-for-office-365-proplus).
+- تحتاج إلى تمكين [تنشيط الكمبيوتر المشترك](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation).
 
 إذا كنت ترغب في تثبيت تطبيقات Microsoft 365 للمؤسسات على RDS من مركز إدارة Microsoft 365، ***والذي يستخدم إعدادات التثبيت الافتراضية،*** فاستخدم الخطوات التالية.
 
@@ -48,9 +48,9 @@ ms.locfileid: "43763204"
 
 3. في محرر التسجيل، قم بإضافة قيمة سلسلة من **SharedComputerLicensing** مع إعداد 1 تحت HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
 
-7. على خادم RDS، ***قم بتسجيل الدخول كمستخدم نهائي*** وتحقق من تمكين تنشيط الكمبيوتر المشترك لتطبيقات Microsoft [365 للمؤسسات](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus#verify-that-activation-for-office-365-proplus-succeeded).
+7. على خادم RDS، ***قم بتسجيل الدخول كمستخدم نهائي*** وتحقق من تمكين تنشيط الكمبيوتر المشترك لتطبيقات Microsoft [365 للمؤسسات](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded).
 
-لمزيد من التفاصيل حول المتطلبات الأساسية وإرشادات الإعداد والإرشادات حول المنشآت المخصصة باستخدام أداة نشر Office، يرجى الاطلاع [على نشر تطبيقات Microsoft 365 للمؤسسات باستخدام خدمات سطح المكتب البعيد](https://docs.microsoft.com/DeployOffice/deploy-office-365-proplus-by-using-remote-desktop-services).
+لمزيد من التفاصيل حول المتطلبات الأساسية وإرشادات الإعداد والإرشادات حول المنشآت المخصصة باستخدام أداة نشر Office، يرجى الاطلاع [على نشر تطبيقات Microsoft 365 للمؤسسات باستخدام خدمات سطح المكتب البعيد](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services).
   
-لإصلاح الأخطاء المتعلقة بتنشيط الكمبيوتر المشترك، يرجى الاطلاع على [مشكلات استكشاف الأخطاء وإصلاحها المتعلقة بتنشيط الكمبيوتر المشترك لتطبيقات Microsoft 365 للمؤسسات](https://docs.microsoft.com/DeployOffice/troubleshoot-issues-with-shared-computer-activation-for-office-365-proplus).
+لإصلاح الأخطاء المتعلقة بتنشيط الكمبيوتر المشترك، يرجى الاطلاع على [مشكلات استكشاف الأخطاء وإصلاحها المتعلقة بتنشيط الكمبيوتر المشترك لتطبيقات Microsoft 365 للمؤسسات](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation).
   
