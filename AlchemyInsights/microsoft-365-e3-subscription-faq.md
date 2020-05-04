@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002554"
 - "5392"
-ms.openlocfilehash: 0a34f3a449313325adac1907af952dbe0c68f1f4
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 56968133f06444badfdf2d0d7823e374a08302d5
+ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912032"
+ms.lasthandoff: 04/29/2020
+ms.locfileid: "43943951"
 ---
 # <a name="microsoft-365-e3-subscription-and-license-management-faq"></a>الأسئلة المتداولة حول الاشتراك في Microsoft 365 E3 وإدارة ترخيصه
 
@@ -28,6 +28,6 @@ ms.locfileid: "43912032"
 - **لإلغاء** تراخيص E3، انتقل إلى **الفوترة > [المنتجات & الخدمات](https://go.microsoft.com/fwlink/p/?linkid=842054)**، انقر فوق **الإعدادات والخدمات**، وانقر فوق **إلغاء الاشتراك**. للمزيد من المعلومات، راجع [إلغاء اشتراكك](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
 - **لتنشيط** اشتراك E3، راجع [تنشيط اشتراكك](https://docs.microsoft.com/alchemyinsights/activate-your-office-365-subscription).
 - **لإعادة تنشيط** اشتراك E3، راجع [إعادة تنشيط اشتراكك](https://docs.microsoft.com/alchemyinsights/reactivate-your-subscription).
-- لتمديد الإصدار التجريبي E3، راجع [تمديد فترة الإصدار التجريبي](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
+- لـ **تمديد** إصدار E3 التجريبي، راجع [تمديد فترة الإصدار التجريبي الخاص بك](https://docs.microsoft.com/alchemyinsights/extend-your-trial-for-office-365-for-business).
 
 للحصول على مزيد من المعلومات، راجع [إدارة تراخيص الاشتراكات](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
