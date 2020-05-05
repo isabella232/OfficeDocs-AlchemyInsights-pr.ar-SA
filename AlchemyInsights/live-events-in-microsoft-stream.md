@@ -1,5 +1,5 @@
 ---
-title: أحداث مباشرة في Microsoft Stream
+title: الأحداث المباشرة في Microsoft Stream
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001511"
 - "3571"
-ms.openlocfilehash: c2d87ae326da3a99e46b0d71f5dcf3b48cb16c22
-ms.sourcegitcommit: a92e2bad1e89367307e78a514b8c4e456640daff
+ms.openlocfilehash: 41bbec42eeaba3545937700eee23573879133644
+ms.sourcegitcommit: 264b782ac2fba8ffd84524180dc4f7d60b45e9a4
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/21/2020
-ms.locfileid: "42564070"
+ms.lasthandoff: 05/04/2020
+ms.locfileid: "44015712"
 ---
-# <a name="live-events-in-microsoft-stream"></a>أحداث مباشرة في Microsoft Stream
+# <a name="live-events-in-microsoft-stream"></a>الأحداث المباشرة في Microsoft Stream
 
-يمكنك إنشاء أحداث مباشرة باستخدام Microsoft Stream عبر المؤسسة. يمكنك جدولة الأحداث المباشرة وإنتاجها وتسليمها لمجموعة متنوعة من السيناريوهات مثل الأحداث على مستوى الشركة وتحديثات القيادة والمزيد.
+يمكنك إنشاء أحداث مباشرة باستخدام Microsoft Stream عبر المؤسسة. يمكنك جدولة الأحداث المباشرة وإنتاجها وتقديمها لمجموعة متنوعة من السيناريوهات مثل الأحداث على مستوى الشركة وتحديثات القيادة والمزيد.
 
-- [أحداث مباشرة في Microsoft Stream](https://docs.microsoft.com/stream/live-event-overview)
 - [إنشاء حدث مباشر في Microsoft Stream](https://docs.microsoft.com/stream/live-create-event)
-- [ابدأ بالأحداث المباشرة لفرق Microsoft](https://support.office.com/article/get-started-with-microsoft-teams-live-events-d077fec2-a058-483e-9ab5-1494afda578a)
+- [ابدأ بأحداث بث مباشر لفرق Microsoft](https://support.office.com/article/get-started-with-microsoft-teams-live-events-d077fec2-a058-483e-9ab5-1494afda578a)
 - [تكوين الترميز للبث المباشر في Microsoft Stream](https://docs.microsoft.com/stream/live-encoder-setup)
