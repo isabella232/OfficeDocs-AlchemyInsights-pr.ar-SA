@@ -1,5 +1,5 @@
 ---
-title: شراء خطط Microsoft 365 Education
+title: Microsoft 365 for Education - معتمد
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,14 +12,14 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: 92ba04baad82b6c9ced2533fb67d99d0c39ab3a3
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
+ms.openlocfilehash: 915d625dbf8726787e9bcd45e0cf7b025e90ead9
+ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43789361"
+ms.lasthandoff: 05/02/2020
+ms.locfileid: "44005389"
 ---
-# <a name="purchase-microsoft-365-education-plans"></a>شراء خطط Microsoft 365 Education
+# <a name="microsoft-365-for-education---approved"></a>Microsoft 365 for Education - معتمد
 
 تم اعتمادك لاستخدام Microsoft 365 Education.  للشراء:
 
@@ -28,6 +28,8 @@ ms.locfileid: "43789361"
 2. اختر من القائمة الموجودة ضمن **خطط Education‏**.
 
 3. مرر مؤشر الماوس فوق الاشتراك الذي ترغب في شرائه، وبعد ذلك انقر فوق **الشراء الآن**.
+
+4. [إعداد](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant)مستأجر Microsoft 365 Education الخاص بك.
 
 **تشغيل الفرق**
 
