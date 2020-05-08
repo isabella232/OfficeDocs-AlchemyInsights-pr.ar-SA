@@ -1,5 +1,5 @@
 ---
-title: خدمات & المنتجات
+title: منتجاتك
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3736"
-ms.openlocfilehash: d2d1599809c3c36c9a46e47a3caf3ccf32c38c8c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 19acf6d8ab01c0599c088eb44ddea45377e36567
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758777"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44062848"
 ---
-# <a name="products--services"></a>خدمات & المنتجات
+# <a name="your-products"></a>منتجاتك
 
-يمكنك العثور على الاشتراكات التي تملكها مؤسستك في صفحة[**خدمات & منتجات**](https://go.microsoft.com/fwlink/p/?linkid=842054) **الفوترة.** >  فيما يلي بعض النقاط البارزة في هذه الصفحة بالإضافة إلى روابط لمزيد من المعلومات حول كل ميزة:
+يمكنك العثور على الاشتراكات التي تملكها مؤسستك في صفحة **الفوترة** > **[لمنتجاتك.](https://go.microsoft.com/fwlink/p/?linkid=842054)** فيما يلي بعض النقاط البارزة في هذه الصفحة بالإضافة إلى روابط لمزيد من المعلومات حول كل ميزة:
 
 1. إدارة عدد التراخيص التي تم شراؤها لكل اشتراك بالإضافة إلى عدد التراخيص التي يتم استخدامها.  **ملاحظة:** لا تزال التراخيص غير المستخدمة (غير المعينة لمستخدم) مشحونة.  لكي لا يتم تحصيل رسوم على التراخيص غير المستخدمة، قلل من عدد التراخيص التي تم شراؤها. للحصول على معلومات حول كيفية إضافة التراخيص أو إزالتها من الاشتراك، راجع [كيفية إضافة التراخيص أو تقليلها](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
 
