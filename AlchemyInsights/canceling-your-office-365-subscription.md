@@ -12,25 +12,25 @@ ms.custom:
 - "4"
 - "1400001"
 ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: 210510bf13ef3838d8f005b51222034039876426
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: edd8b4abdaf35ea3b58515dfaa0a1afbd0a525c8
+ms.sourcegitcommit: cc7b6f00275adaab90f702d48e65500434f11e83
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43711402"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44086661"
 ---
-# <a name="canceling-your-subscription"></a><span data-ttu-id="911d7-102">إلغاء اشتراكك؟</span><span class="sxs-lookup"><span data-stu-id="911d7-102">Canceling your subscription?</span></span>
+# <a name="canceling-your-subscription"></a><span data-ttu-id="d546b-102">إلغاء اشتراكك؟</span><span class="sxs-lookup"><span data-stu-id="d546b-102">Canceling your subscription?</span></span>
 
-<span data-ttu-id="911d7-103">سنكون آسفين لرؤيتك تذهب، ولكن إذا كنت ترغب في إلغاء اشتراكك، فإليك خياراتك:</span><span class="sxs-lookup"><span data-stu-id="911d7-103">We'll be sorry to see you go, but if you want to cancel your subscription, here are your options:</span></span>
+<span data-ttu-id="d546b-103">سنكون آسفين لرؤيتك تذهب، ولكن إذا كنت ترغب في إلغاء اشتراكك، فإليك خياراتك:</span><span class="sxs-lookup"><span data-stu-id="d546b-103">We'll be sorry to see you go, but if you want to cancel your subscription, here are your options:</span></span>
   
-- <span data-ttu-id="911d7-104">إذا كنت عميلًا تجريبيًا ، فلا يوجد شيء لإلغاء.</span><span class="sxs-lookup"><span data-stu-id="911d7-104">If you are a trial customer, there is nothing to cancel.</span></span> <span data-ttu-id="911d7-105">تنتهي صلاحية الاشتراكات التجريبية تلقائيًا ما لم تقدم طريقة دفع.</span><span class="sxs-lookup"><span data-stu-id="911d7-105">Trial subscriptions expire automatically unless you provide a payment method.</span></span>
+- <span data-ttu-id="d546b-104">إذا كنت عميلًا تجريبيًا ، فلا يوجد شيء لإلغاء.</span><span class="sxs-lookup"><span data-stu-id="d546b-104">If you are a trial customer, there is nothing to cancel.</span></span> <span data-ttu-id="d546b-105">تنتهي صلاحية الاشتراكات التجريبية تلقائيًا ما لم تقدم طريقة دفع.</span><span class="sxs-lookup"><span data-stu-id="d546b-105">Trial subscriptions expire automatically unless you provide a payment method.</span></span>
 
-- <span data-ttu-id="911d7-106">إذا كان لديك أقل من 25 ترخيصًا معينًا، يمكنك إلغاء اشتراكك عبر الإنترنت.</span><span class="sxs-lookup"><span data-stu-id="911d7-106">If you have fewer than 25 assigned licenses, you can cancel your subscription online.</span></span> <span data-ttu-id="911d7-107">انتقل إلى صفحة [خدمات & منتجات](https://go.microsoft.com/fwlink/p/?linkid=842054) **الفوترة.** \></span><span class="sxs-lookup"><span data-stu-id="911d7-107">Go to the **Billing** \> [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span> <span data-ttu-id="911d7-108">في قسم **الإجراءات & الإعدادات،** اختر **إلغاء الاشتراك**.</span><span class="sxs-lookup"><span data-stu-id="911d7-108">In the **Settings & Actions** section, choose **Cancel subscription**.</span></span>
+- <span data-ttu-id="d546b-106">إذا كان لديك أقل من 25 ترخيصًا معينًا، يمكنك إلغاء اشتراكك عبر الإنترنت.</span><span class="sxs-lookup"><span data-stu-id="d546b-106">If you have fewer than 25 assigned licenses, you can cancel your subscription online.</span></span> <span data-ttu-id="d546b-107">انتقل إلى صفحة **الفوترة** \> **[لمنتجاتك.](https://go.microsoft.com/fwlink/p/?linkid=842054)**</span><span class="sxs-lookup"><span data-stu-id="d546b-107">Go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span> <span data-ttu-id="d546b-108">في قسم **الإجراءات & الإعدادات،** اختر **إلغاء الاشتراك**.</span><span class="sxs-lookup"><span data-stu-id="d546b-108">In the **Settings & Actions** section, choose **Cancel subscription**.</span></span>
 
-- <span data-ttu-id="911d7-109">إذا كان لديك أكثر من 25 ترخيصًا معينًا، يمكنك إما إزالة المستخدمين حتى يكون لديك أقل من 25 ترخيصًا، أو استخدام خيار "دعنا نتصل بك" للتحدث إلى مهندس دعم.</span><span class="sxs-lookup"><span data-stu-id="911d7-109">If you have more than 25 assigned licenses, you can either remove users until you have fewer than 25, or use the "Let us call you" option to talk to a support engineer.</span></span>
+- <span data-ttu-id="d546b-109">إذا كان لديك أكثر من 25 ترخيصًا معينًا، يمكنك إزالة المستخدمين حتى يكون لديك أقل من 25.</span><span class="sxs-lookup"><span data-stu-id="d546b-109">If you have more than 25 assigned licenses, you can remove users until you have fewer than 25.</span></span>
   
-<span data-ttu-id="911d7-110">**استرداد الأموال: سيتم إرجاع أي رصيد تناسبي إليك خلال دورة الفوترة التالية.**</span><span class="sxs-lookup"><span data-stu-id="911d7-110">**Refund: Any prorated credit will be returned to you within the next billing cycle.**</span></span> 
+<span data-ttu-id="d546b-110">**استرداد الأموال: سيتم إرجاع أي رصيد تناسبي إليك خلال دورة الفوترة التالية.**</span><span class="sxs-lookup"><span data-stu-id="d546b-110">**Refund: Any prorated credit will be returned to you within the next billing cycle.**</span></span> 
 
-<span data-ttu-id="911d7-111">**ملاحظة:** إذا كنت لا ترى خيار الإلغاء، انقر على الاشتراك لعرض التفاصيل ويجب أن تشاهد خيار **إلغاء الاشتراك** في **الإعدادات & الإجراءات**.</span><span class="sxs-lookup"><span data-stu-id="911d7-111">**Note**: If you do not see the option to cancel, click on the subscription to view the details and you should see the **Cancel subscription** option in **Settings & Actions**.</span></span> 
+<span data-ttu-id="d546b-111">**ملاحظة:** إذا كنت لا ترى خيار الإلغاء، انقر على الاشتراك لعرض التفاصيل ويجب أن تشاهد خيار **إلغاء الاشتراك** في **الإعدادات & الإجراءات**.</span><span class="sxs-lookup"><span data-stu-id="d546b-111">**Note**: If you do not see the option to cancel, click on the subscription to view the details and you should see the **Cancel subscription** option in **Settings & Actions**.</span></span> 
 
-<span data-ttu-id="911d7-112">لمعرفة المزيد، راجع [إلغاء اشتراكك](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="911d7-112">To learn more, see [Cancel your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span></span>
+<span data-ttu-id="d546b-112">لمعرفة المزيد، راجع [إلغاء اشتراكك](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="d546b-112">To learn more, see [Cancel your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span></span>
