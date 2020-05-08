@@ -13,15 +13,15 @@ ms.custom:
 - "458"
 - "1500020"
 ms.assetid: 71122d4a-df0b-4fa5-b921-41ce3ac49916
-ms.openlocfilehash: b5db40da2928fb4c2775057822a714cf1136158b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 54619d2b5012ec100f8e1b25c49cec6f821375dd
+ms.sourcegitcommit: cc7b6f00275adaab90f702d48e65500434f11e83
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708234"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44086875"
 ---
 # <a name="all-subscriptions-are-active"></a>جميع الاشتراكات نشطة
 
-اشتراكاتك نشطة. يمكن التحقق من ذلك عن طريق الانتقال إلى صفحة [اشتراكات](https://go.microsoft.com/fwlink/p/?linkid=842054) **الفوترة.** \> يتم ترتيب اشتراكاتك حسب الحالة، مع الاشتراكات النشطة في الأعلى. يمكن رؤية معلومات إضافية، مثل عدد التراخيص وطريقة الدفع، عن طريق اختيار الاشتراك.
+اشتراكاتك نشطة. يمكن التحقق من ذلك عن طريق الانتقال إلى صفحة **الفوترة** \> [لمنتجاتك.](https://go.microsoft.com/fwlink/p/?linkid=842054) يتم ترتيب اشتراكاتك حسب الحالة، مع الاشتراكات النشطة في الأعلى. يمكن رؤية معلومات إضافية، مثل عدد التراخيص وطريقة الدفع، عن طريق اختيار الاشتراك.
   
-إذا كنت تواجه مشاكل في خدمتك، فاستخدم خيار "دعنا نتصل بك" للتحدث إلى مهندس دعم.
+إذا كنت تبحث عن إزالة اشتراكاتك النشطة أو إغلاق حسابك، فراجع [كيفية إغلاق حسابك](https://docs.microsoft.com/microsoft-365/commerce/close-your-account?view=o365-worldwide).

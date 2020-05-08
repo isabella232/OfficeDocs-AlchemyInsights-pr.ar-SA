@@ -12,12 +12,12 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: b7436583f6aa8e0fe22c1bff71271a94b3de583c
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 4fc934fcf9c1af0cd68aa20d5dc31d3d82264965
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43787861"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063532"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>كيفية إجراء عملية شراء Microsoft 365
 
@@ -25,13 +25,13 @@ ms.locfileid: "43787861"
   
 - لشراء خطة، انتقل إلى صفحة [خدمات شراء](https://go.microsoft.com/fwlink/p/?linkid=868433) **الفوترة.** \>
 
-- لشراء تراخيص إضافية، انتقل إلى صفحة [خدمات & منتجات](https://go.microsoft.com/fwlink/p/?linkid=842054) **الفوترة.** \> اختر الاشتراك الذي تريد إضافة تراخيص إليه، ثم حدد **إضافة/إزالة التراخيص**.
+- لشراء تراخيص إضافية، انتقل إلى صفحة **الفوترة** \> **[لمنتجاتك.](https://go.microsoft.com/fwlink/p/?linkid=842054)** اختر الاشتراك الذي تريد إضافة تراخيص إليه، ثم حدد **إضافة/إزالة التراخيص**.
   
 لمعرفة المزيد، راجع [شراء تراخيص Microsoft 365 للاشتراك في الأعمال.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)
 
 **استكشاف الأخطاء وإصلاحها**
 
-إذا واجهت مشاكل أثناء تحميل الصفحة، فحاول فتح صفحة الويب في مستعرض آخر، أو حاول فتح الصفحة في نافذة مستعرض خاص، مثل نافذة InPrivate في Microsoft Edge أو نافذة incognito في Google Chrome. 
+إذا واجهت مشاكل أثناء تحميل الصفحة، فحاول فتح صفحة الويب في مستعرض آخر، أو حاول فتح الصفحة في نافذة مستعرض خاص، مثل نافذة InPrivate في Microsoft Edge أو نافذة incognito في Google Chrome.
 
 **موارد إضافية**
   

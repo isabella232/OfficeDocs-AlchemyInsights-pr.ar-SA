@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500008"
 - "2443"
-ms.openlocfilehash: c7656c23142f9dcf649f0cf6294d105603b109eb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: cac8564d4939d498b2bd0e40a971b3c4d4ed09da
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762628"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44063856"
 ---
 # <a name="manage-app-licenses"></a>إدارة تراخيص التطبيقات
 
 ## <a name="to-change-license-quantity"></a>لتغيير كمية الترخيص
 
-1. انتقل إلى صفحة[خدمات & منتجات](https://go.microsoft.com/fwlink/p/?linkid=842054) **الفوترة،** > ثم اختر علامة التبويب **التطبيقات.**
+1. انتقل إلى صفحة **الفوترة** > **[لمنتجاتك،](https://go.microsoft.com/fwlink/p/?linkid=842054)** ثم اختر علامة التبويب **التطبيقات.**
 
 2. ابحث عن التطبيق الذي تريد إدارته وحدده.  
 
@@ -33,7 +33,7 @@ ms.locfileid: "43762628"
 
 ## <a name="to-assign-app-licenses"></a>لتعيين تراخيص التطبيق
 
-1. انتقل إلى صفحة[خدمات & منتجات](https://go.microsoft.com/fwlink/p/?linkid=842054) **الفوترة،** > ثم اختر علامة التبويب **التطبيقات.**
+1. انتقل إلى صفحة **الفوترة** > **[لمنتجاتك،](https://go.microsoft.com/fwlink/p/?linkid=842054)** ثم اختر علامة التبويب **التطبيقات.**
 
 2. ابحث عن التطبيق الذي تريد إدارته وحدده.  
 

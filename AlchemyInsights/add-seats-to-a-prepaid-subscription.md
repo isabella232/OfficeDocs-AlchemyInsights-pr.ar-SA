@@ -13,18 +13,18 @@ ms.custom:
 - "663"
 - "1500007"
 ms.assetid: 9595e2e7-5f72-4b08-9e16-183fc6e9c108
-ms.openlocfilehash: e2d9c25b12a11e933cf0ff40436c717172621af7
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4a91b71d297edd9331d955ece8c11c2d1eb86d29
+ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43671444"
+ms.lasthandoff: 05/06/2020
+ms.locfileid: "44061947"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>إضافة مقاعد إلى اشتراك مسبق الدفع
 
 يتم إصدار التراخيص المدفوعة مسبقًا لك كرمز أبجدية رقمية مكون من 25 حرفًا. بعد شراء التراخيص التي تحتاجها، يمكنك إضافتها إلى اشتراكك. 
 
-1. في مركز المشرف، انتقل إلى صفحة[خدمات & منتجات](https://go.microsoft.com/fwlink/p/?linkid=842054) **الفوترة.** > 
+1. في مركز المشرف، انتقل إلى صفحة **الفوترة** > **[لمنتجاتك.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. ابحث عن الاشتراك الذي تريد إضافة تراخيص إليه. في قسم **التراخيص،** حدد **إضافة المزيد من التراخيص**.
 

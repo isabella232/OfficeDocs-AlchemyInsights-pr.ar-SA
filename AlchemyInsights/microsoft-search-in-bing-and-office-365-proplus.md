@@ -6,19 +6,21 @@ ms.audience: ITPro
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.openlocfilehash: a508fdb6d9a01975559954fef3565149dfa59e9e
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 33cd96e37701339047d5e3bb1e49f60d37facc53
+ms.sourcegitcommit: ba88139a3d02e45d54a232fa24b706e3cc1c6f81
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762304"
+ms.lasthandoff: 05/05/2020
+ms.locfileid: "44043024"
 ---
 # <a name="microsoft-search-in-bing-and-microsoft-365-apps-for-enterprise"></a>البحث من Microsoft في Bing وMicrosoft 365 Apps for enterprise
 
-بدءاً من إصدار 2002 من Microsoft 365 Apps for enterprise، سيتم تثبيت ملحق البحث من Microsoft في Bing يجعل Bing هو محرك البحث الافتراضي لمستعرض الويب Google Chrome فقط على أجهزة في مواقع معينة.
+يتوفر "البحث من Microsoft" بشكل ***اختياري*** في ملحق Bing لمستعرض Google Chrome مع Microsoft 365 Apps for enterprise (المسمى مسبقاً Office 365 ProPlus)، بدءاً من الإصدار 2005. يتوفر هذا الملحق في مواقع معينة للأجهزة المتصلة بالمجال التي تعمل بنظام التشغيل Windows. إذا قررت نشر هذا الملحق، فسيتم تعيين Bing كمحرك البحث الافتراضي.
 
-**إذا كنت لا تريد تثبيت الملحق، [اتبع هذه الخطوات](https://docs.microsoft.com/deployoffice/microsoft-search-bing#how-to-exclude-the-extension-for-microsoft-search-in-bing-from-being-installed).**
+لتثبيت الملحق، يجب عليك ***الاشتراك*** من خلال تكوين إعداد في قسم "البحث من Microsoft" في مركز مسؤولي Microsoft 365.
 
-حتى بعد تثبيت الملحق، يمكن للمستخدمين بسهولة إيقاف استخدام Bing كمحرك البحث الافتراضي علي الأجهزة الخاصة بهم باستخدام [بشكل بسيط من خلال مفتاحي التبديل تشغيل/إيقاف تشغيل](https://docs.microsoft.com/deployoffice/microsoft-search-bing#change-whether-bing-is-the-default-search-engine-for-google-chrome) أو يمكنك [إزالة الملحق](https://docs.microsoft.com/deployoffice/microsoft-search-bing#how-to-remove-the-extension-after-its-been-installed) من أجهزة متعددة في مؤسستك.
+يعتمد نشر هذا الملحق***الاختياري*** أيضاً على خدمة في الخلفية، والمضمنة في Microsoft 365 Apps for enterprise، بدءاً من الإصدار 2005. إذا لم تكن الخدمة في الخلفية مثبتة، فلن يتم تثبيت الملحق.
 
-لدينا مقالة مساعدة مفصلة متوفرة لمساعدتك في فهم المزيد حول هذا التغيير [هنا](https://docs.microsoft.com/deployoffice/microsoft-search-bing).
+حتى بعد تثبيت الملحق، يمكن للمستخدمين بسهولة التوقف عن استخدام Bing كمحرك البحث الافتراضي باستخدام التبديل البسيط بين التشغيل وإيقاف التشغيل.
+
+للحصول على مزيد من المعلومات حول نشر هذا الملحق ***الاختياري***، راجع ["البحث من Microsoft" في Bing و Microsoft 365 Apps for enterprise](https://docs.microsoft.com/deployoffice/microsoft-search-bing).
