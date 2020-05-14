@@ -14,20 +14,20 @@ ms.custom:
 - "1400001"
 ms.assetid: dc0504f1-00ad-4769-be87-492ad98e42f0
 ms.openlocfilehash: abe3f6950fa9e35eb3154832ebdaffd42bd5dc50
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44059064"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a><span data-ttu-id="b1b1f-102">إلغاء اشتراك Microsoft 365؟</span><span class="sxs-lookup"><span data-stu-id="b1b1f-102">Canceling your Microsoft 365 subscription?</span></span>
+# <a name="canceling-your-microsoft-365-subscription"></a><span data-ttu-id="cc017-102">إلغاء اشتراك Microsoft 365؟</span><span class="sxs-lookup"><span data-stu-id="cc017-102">Canceling your Microsoft 365 subscription?</span></span>
 
-<span data-ttu-id="b1b1f-103">نحن آسفون لرؤيتك تذهب!</span><span class="sxs-lookup"><span data-stu-id="b1b1f-103">We're sorry to see you go!</span></span>
+<span data-ttu-id="cc017-103">نحن آسفون لرؤيتك تذهب!</span><span class="sxs-lookup"><span data-stu-id="cc017-103">We're sorry to see you go!</span></span>
   
-<span data-ttu-id="b1b1f-104">استنادًا إلى بيانات مؤسستك، نعتقد أن جميع اشتراكاتك الحالية تحتوي على أقل من 25 مقعدًا.</span><span class="sxs-lookup"><span data-stu-id="b1b1f-104">Based on your organization data, we believe all your current subscriptions have less than 25 seats.</span></span> <span data-ttu-id="b1b1f-105">لإلغاء اشتراكك عبر الإنترنت، انتقل إلى صفحة **الفوترة** \> **[لمنتجاتك.](https://go.microsoft.com/fwlink/p/?linkid=842054)**</span><span class="sxs-lookup"><span data-stu-id="b1b1f-105">To cancel your subscription online, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span> <span data-ttu-id="b1b1f-106">في قسم **الإجراءات & الإعدادات،** اختر **إلغاء الاشتراك**.</span><span class="sxs-lookup"><span data-stu-id="b1b1f-106">In the **Settings & Actions** section, choose **Cancel subscription**.</span></span>
+<span data-ttu-id="cc017-104">استنادًا إلى بيانات مؤسستك، نعتقد أن جميع اشتراكاتك الحالية تحتوي على أقل من 25 مقعدًا.</span><span class="sxs-lookup"><span data-stu-id="cc017-104">Based on your organization data, we believe all your current subscriptions have less than 25 seats.</span></span> <span data-ttu-id="cc017-105">لإلغاء اشتراكك عبر الإنترنت، انتقل إلى صفحة **الفوترة** \> **[لمنتجاتك.](https://go.microsoft.com/fwlink/p/?linkid=842054)**</span><span class="sxs-lookup"><span data-stu-id="cc017-105">To cancel your subscription online, go to the **Billing** \> **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span> <span data-ttu-id="cc017-106">في قسم **الإجراءات & الإعدادات،** اختر **إلغاء الاشتراك**.</span><span class="sxs-lookup"><span data-stu-id="cc017-106">In the **Settings & Actions** section, choose **Cancel subscription**.</span></span>
   
-<span data-ttu-id="b1b1f-107">**استرداد الأموال: سيتم إرجاع أي رصيد تناسبي إليك خلال دورة الفوترة التالية.**</span><span class="sxs-lookup"><span data-stu-id="b1b1f-107">**Refund: Any prorated credit will be returned to you within the next billing cycle.**</span></span> 
+<span data-ttu-id="cc017-107">**استرداد الأموال: سيتم إرجاع أي رصيد تناسبي إليك خلال دورة الفوترة التالية.**</span><span class="sxs-lookup"><span data-stu-id="cc017-107">**Refund: Any prorated credit will be returned to you within the next billing cycle.**</span></span> 
 
-<span data-ttu-id="b1b1f-108">**ملاحظة:** إذا كنت لا ترى خيار الإلغاء، انقر على الاشتراك لعرض التفاصيل ويجب أن تشاهد خيار **إلغاء الاشتراك** في **الإعدادات & الإجراءات**.</span><span class="sxs-lookup"><span data-stu-id="b1b1f-108">**Note**: If you do not see the option to cancel, click on the subscription to view the details and you should see the **Cancel subscription** option in **Settings & Actions**.</span></span> 
+<span data-ttu-id="cc017-108">**ملاحظة:** إذا كنت لا ترى خيار الإلغاء، انقر على الاشتراك لعرض التفاصيل ويجب أن تشاهد خيار **إلغاء الاشتراك** في **الإعدادات & الإجراءات**.</span><span class="sxs-lookup"><span data-stu-id="cc017-108">**Note**: If you do not see the option to cancel, click on the subscription to view the details and you should see the **Cancel subscription** option in **Settings & Actions**.</span></span> 
 
-<span data-ttu-id="b1b1f-109">لمعرفة المزيد، راجع [إلغاء اشتراكك](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="b1b1f-109">To learn more, see [Cancel your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span></span> 
+<span data-ttu-id="cc017-109">لمعرفة المزيد، راجع [إلغاء اشتراكك](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span><span class="sxs-lookup"><span data-stu-id="cc017-109">To learn more, see [Cancel your subscription](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).</span></span> 
