@@ -14,10 +14,10 @@ ms.custom:
 - "1500026"
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
 ms.openlocfilehash: da471e392abd5d5a732206fd7306f48975268b74
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44058414"
 ---
 # <a name="compare-upgrade-or-purchase-subscriptions"></a>مقارنة اشتراكات الشراء أو ترقيتها أو شرائها
@@ -28,4 +28,4 @@ ms.locfileid: "44058414"
   
 إذا كانت مؤسستك قد اشترت بالفعل اشتراكات وتهتم بتغيير خطة مختلفة، فيمكنك القيام بذلك من مركز إدارة Microsoft 365. انتقل إلى صفحة **الفوترة** \> [لمنتجاتك،](https://go.microsoft.com/fwlink/p/?linkid=842054) وحدد الاشتراك الذي تريد تغييره، ثم اختر علامة التبويب **الترقية** لعرض قائمة الخطط الجديدة المتوفرة.
   
-يمكن لمؤسستك أيضًا مزج الاشتراكات ومطابقتها لتلبية احتياجات المستخدمين ومتطلبات ميزاتهم. من مركز المشرف، انتقل إلى صفحة [خدمات شراء](https://go.microsoft.com/fwlink/p/?linkid=868433) **الفوترة.** \>
+يمكن لمؤسستك أيضًا مزج الاشتراكات ومطابقتها لتلبية احتياجات المستخدمين ومتطلبات ميزاتهم. من مركز المشرف، انتقل **Billing** إلى صفحة خدمات \> [شراء](https://go.microsoft.com/fwlink/p/?linkid=868433) الفوترة.

@@ -12,10 +12,10 @@ ms.custom:
 - "9001519"
 - "3576"
 ms.openlocfilehash: 5c1ee37397981e70d141b5bc5a7880209b236a61
-ms.sourcegitcommit: d1aad215f8aa636ba89c93a13a0c9d90e997f752
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/06/2020
+ms.lasthandoff: 05/13/2020
 ms.locfileid: "44062451"
 ---
 # <a name="find-and-activate-my-product-key"></a>البحث عن مفتاح المنتج وتنشيطه
@@ -32,7 +32,7 @@ ms.locfileid: "44062451"
 
 **ملاحظة:** لاستخدام مفتاح منتج لتمديد تاريخ انتهاء الصلاحية أو إضافة ترخيص إلى اشتراك Microsoft 365 Business Premium Standard الحالي، تحتاج إلى مفتاح جديد وغير مستخدم لنفس اشتراك Microsoft 365.  لن يعمل إدخال مفتاح منتج Microsoft 365 الأصلي لأنه لا يمكن استخدام مفتاح تم استرداده بالفعل مرة أخرى.
 
-1. في مركز المشرف، انتقل إلى صفحة **الفوترة** > **[لمنتجاتك.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. في مركز المشرف، انتقل إلى صفحة **الفوترة**  >  **[لمنتجاتك.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. ابحث عن الاشتراك الذي تريد تمديد تاريخ انتهاء الصلاحية إليه أو إضافة تراخيص له.  انقر فوق [تمديد تاريخ الانتهاء](https://go.microsoft.com/fwlink/p/?linkid=842054) أو إضافة المزيد من [التراخيص](https://go.microsoft.com/fwlink/p/?linkid=842054).
 
