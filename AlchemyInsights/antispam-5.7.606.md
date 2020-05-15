@@ -11,13 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3155"
 - "9001195"
-ms.openlocfilehash: 377e7d3164f7732246e1c1980bc1d0b0ccc8ebbb
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: bc554215f0fd50c8b0a1788715bcb44c17ee51ab
+ms.sourcegitcommit: 1697031e86a07e44b8937ffaca809229ba2be754
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43712625"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44232316"
 ---
-# <a name="banned-sending-ip"></a><span data-ttu-id="cc4a5-102">حظر إرسال IP</span><span class="sxs-lookup"><span data-stu-id="cc4a5-102">Banned sending IP</span></span>
+# <a name="banned-sending-ip"></a><span data-ttu-id="567c8-102">حظر إرسال IP</span><span class="sxs-lookup"><span data-stu-id="567c8-102">Banned sending IP</span></span>
 
-<span data-ttu-id="cc4a5-103">عند إرسال بريد إلى Microsoft 365، قد يواجه المرسل هذا الخطأ.</span><span class="sxs-lookup"><span data-stu-id="cc4a5-103">When sending mail to Microsoft 365, a sender might experience this error.</span></span> <span data-ttu-id="cc4a5-104">يحتاج المرسل إلى https://sender.office.com زيارة التعليمات واتباعها.</span><span class="sxs-lookup"><span data-stu-id="cc4a5-104">The sender needs to visit https://sender.office.com and follow the instructions.</span></span>  <span data-ttu-id="cc4a5-105">إذا لم يتلقوا رسالة تحقق من البوابة الإلكترونية، فأخبرهم بالتحقق من مجلد الرسائل غير المرغوب فيها و/أو حاولوا باستخدام عنوان بريد إلكتروني مختلف.</span><span class="sxs-lookup"><span data-stu-id="cc4a5-105">If they do not receive a verification email from the portal, have them check the spam folder and/or try with a different email address.</span></span>
+<span data-ttu-id="567c8-103">عند الإرسال إلى مستلم Office 365، قد يواجه المرسل هذا الخطأ.</span><span class="sxs-lookup"><span data-stu-id="567c8-103">When sending to an Office 365 recipient, a sender might experience this error.</span></span> <span data-ttu-id="567c8-104">يحتاج المرسل إلى زيارة [Office 365 Anti-Spam IP Delist Portal](https://sender.office.com/) وتوفير عنوان البريد الإلكتروني وعنوان IP الخاص به الذي يحتاج إلى رفع اسمه من القائمة.</span><span class="sxs-lookup"><span data-stu-id="567c8-104">The sender needs to visit [Office 365 Anti-Spam IP Delist Portal](https://sender.office.com/) and provide their email address and IP address that needs to be delisted.</span></span> <span data-ttu-id="567c8-105">إذا لم يتلقوا رسالة تحقق من البوابة الإلكترونية، فأخبرهم بالتحقق من مجلد الرسائل غير المرغوب فيها و/أو حاولوا باستخدام عنوان بريد إلكتروني مختلف.</span><span class="sxs-lookup"><span data-stu-id="567c8-105">If they do not receive a verification email from the portal, have them check the spam folder and/or try with a different email address.</span></span> 
+
+- <span data-ttu-id="567c8-106">للحصول على إرشادات تفصيلية، راجع [استخدام بوابة الشطب لإزالة نفسك من قائمة المرسلين المحظورين](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-the-delist-portal-to-remove-yourself-from-the-office-365-blocked-senders-lis?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="567c8-106">For detailed instructions, see [Use the delist portal to remove yourself from the blocked senders list](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-the-delist-portal-to-remove-yourself-from-the-office-365-blocked-senders-lis?view=o365-worldwide).</span></span>
