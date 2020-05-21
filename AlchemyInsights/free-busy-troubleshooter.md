@@ -12,14 +12,15 @@ ms.custom:
 - "607"
 - "3800005"
 ms.assetid: 69e8da45-4d29-48ea-8279-d35313367216
-ms.openlocfilehash: ad797642c1734fe479993a26f13f8bb08dad7e1c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 6a580de2c963a53654499f1715dad7f3bb36c706
+ms.sourcegitcommit: bd7c03d4e994abb45c43510adca20b7600a87091
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765039"
+ms.lasthandoff: 05/20/2020
+ms.locfileid: "44331258"
 ---
-# <a name="issues-seeing-calendar-freebusy-information"></a>مشكلات رؤية معلومات التقويم الحرة/المشغولة
+# <a name="troubleshooting-steps-for-calendar-availability-freebusy"></a>خطوات استكشاف الأخطاء وإصلاحها لتوفر التقويم (مجاني/مشغول)
 
-إذا لم تتمكن من رؤية معلومات التقويم الحرة/المشغولة في التقويمات الأخرى، أو إذا لم يتمكن أشخاص آخرون من رؤية معلومات حرة/مشغولة في التقويم، فاستخدم [مساعد دعم Microsoft والاسترداد](https://diagnostics.office.com/).
-  
+بشكل عام أفضل أداة لاستكشاف الأخطاء وإصلاحها الحرة / مشغول المشكلات هو [محلل الاتصال عن بعد Exchange (RCA)](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy) لمعرفة أين هو فشل. وسوف تعطيك RCA سجلا مفصلا لما عملت وما فشلت مع رسائل خطأ محددة يمكنك البحث عن إيجاد حلول. كما أن لديها ارتباط إلى [مساعد دعم Microsoft واسترداد](https://diagnostics.office.com/).
+
+أداة أخرى جيدة لمحاولة هو [أداة التحقق من التقويم لOutlook](https://www.microsoft.com/download/details.aspx?id=28786) إذا كان المستخدم لديه Outlook.
