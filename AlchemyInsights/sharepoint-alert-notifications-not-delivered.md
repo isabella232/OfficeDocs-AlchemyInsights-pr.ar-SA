@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "1655"
-ms.openlocfilehash: a422805d11a128909e1be7bf5d08b24efc132e23
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 363f3c79a3b62f3017e6c873f1be3dd195cab883
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742034"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343087"
 ---
 # <a name="sharepoint-alert-notifications-not-delivered"></a>لم يتم تسليم إشعارات تنبيه SharePoint
 
@@ -33,15 +33,6 @@ ms.locfileid: "43742034"
 
 - لا يمكن إرسال تنبيهات إلى مجموعة التوزيع، يتم دعم مجموعات الأمان وO365 فقط.
 - لا يمكنك تخصيص قوالب البريد الإلكتروني التنبيه; تحتاج إلى استخدام Microsoft FLOW أو SharePoint مصمم سير العمل لتحقيق تلك.
-
-مزيد من المعلومات:
-
-- **إعداد التنبيه:** لمزيد من المعلومات حول إعداد التنبيهات، راجع [إنشاء تنبيه للحصول على إشعار عند تغيير ملف أو مجلد في SharePoint](https://support.office.com/article/create-an-alert-to-get-notified-when-a-file-or-folder-changes-in-sharepoint-e5a79e7b-a146-46da-a9ef-d65409ba8918).
-- **استكشاف التنبيهات وإصلاحها:** لمزيد من المعلومات حول تنبيهات استكشاف الأخطاء وإصلاحها، راجع [عدم تلقي المستخدمين إشعارات تنبيه SharePoint Online](https://docs.microsoft.com/sharepoint/support/sites/no-alert-notifications).
-- **سياسات تنبيه الامتثال المتقدمة O365:** لمزيد من المعلومات حول إعداد هذه التنبيهات، راجع [سياسات تنبيه التوافق](https://docs.microsoft.com/office365/securitycompliance/alert-policies).
-- **سجلات تدقيق SharePoint و OneDrive:** لمزيد من المعلومات حول كيفية استرداد هذه الأحداث، راجع [البحث في سجل التدقيق](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance#search-the-audit-log).
-- **التنبيهات المرسلة عن طريق الحماية المتقدمة من التهديدات:** راجع [ATP لـ SharePoint و OneDrive](https://docs.microsoft.com/office365/securitycompliance/atp-for-spo-odb-and-teams).
-- **التنبيهات المرسلة من قبل سياسات منع فقدان البيانات:** راجع [إشعارات البريد الإلكتروني لسياسات DLP](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
 
 ## <a name="related-topics"></a>موضوعات ذات صلة
 
