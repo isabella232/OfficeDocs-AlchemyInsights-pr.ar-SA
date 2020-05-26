@@ -11,13 +11,19 @@ ms.custom:
 - "898"
 - "3800014"
 ms.assetid: 70bff353-d2e9-47ee-bccc-d59758efe8eb
-ms.openlocfilehash: 46a114987abc185d1ca5f390fc212fd6873b01e2
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: ed86cba4427e900074f37ebbb524fa657f73570f
+ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43762880"
+ms.lasthandoff: 05/26/2020
+ms.locfileid: "44373022"
 ---
-# <a name="learn-about-external-calendar-sharing-options"></a><span data-ttu-id="ee474-102">تعرف على خيارات مشاركة التقويم الخارجية</span><span class="sxs-lookup"><span data-stu-id="ee474-102">Learn about external calendar sharing options</span></span>
+# <a name="exchange-online-collaboration-options"></a><span data-ttu-id="9ba82-102">خيارات التعاون عبر الإنترنت</span><span class="sxs-lookup"><span data-stu-id="9ba82-102">Exchange Online collaboration options</span></span>
 
-<span data-ttu-id="ee474-103">إذا كنت بحاجة إلى جدولة الاجتماعات مع أشخاص خارج مؤسستك، فإن Microsoft 365 يتيح لك توفير التقويمات "للمستخدمين الخارجيين"، أولئك الذين يحتاجون إلى رؤية وقت مجاني/مشغول ولكن ليس لديهم حسابات مستخدمين لبيئة Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="ee474-103">If you need to schedule meetings with people outside your organization, Microsoft 365 enables you to make calendars available to "external users," those who need to see free/busy time but don't have user accounts for your Microsoft 365 environment.</span></span> <span data-ttu-id="ee474-104">لمزيد من المعلومات، راجع [مشاركة التقويمات مع المستخدمين الخارجيين](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users).</span><span class="sxs-lookup"><span data-stu-id="ee474-104">For more information, see [Share calendars with external users](https://docs.microsoft.com/office365/admin/manage/share-calendars-with-external-users).</span></span>
+- <span data-ttu-id="9ba82-103">للحصول على **نظرة عامة على مشاركة التقويم الخارجي،** راجع المشاركة في Exchange [Online](https://technet.microsoft.com/library/jj916670%28v=exchg.150%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="9ba82-103">To get an **overview of external calendar sharing**, see [Sharing in Exchange Online](https://technet.microsoft.com/library/jj916670%28v=exchg.150%29.aspx).</span></span>
+
+- <span data-ttu-id="9ba82-104">**لمشاركة التقويمات مع مؤسسة Office 365 أخرى،** راجع [علاقات المؤسسة في Exchange Online](https://technet.microsoft.com/library/jj916658%28v=exchg.150%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="9ba82-104">To **share calendars with another Office 365 organization**, see [Organization relationships in Exchange Online](https://technet.microsoft.com/library/jj916658%28v=exchg.150%29.aspx).</span></span>
+
+- <span data-ttu-id="9ba82-105">للتحكم **في كيفية مشاركة المستخدمين للتقويمات الخاصة بهم مع أشخاص خارج مؤسستك،** راجع [سياسات المشاركة في Exchange Online](https://technet.microsoft.com/library/jj916673%28v=exchg.150%29.aspx).</span><span class="sxs-lookup"><span data-stu-id="9ba82-105">To **control how your users share their calendars with people outside your organization**, see [Sharing policies in Exchange Online](https://technet.microsoft.com/library/jj916673%28v=exchg.150%29.aspx).</span></span>
+
+- <span data-ttu-id="9ba82-106">لمشاهدة **التحسينات** التي يتم إجراؤها في مشاركة التقويم، راجع [مشاركة التقويم في Microsoft 365](https://support.office.com/article/calendar-sharing-in-microsoft-365-b576ecc3-0945-4d75-85f1-5efafb8a37b4).</span><span class="sxs-lookup"><span data-stu-id="9ba82-106">To see **improvements** being made in calendar sharing, see [Calendar sharing in Microsoft 365](https://support.office.com/article/calendar-sharing-in-microsoft-365-b576ecc3-0945-4d75-85f1-5efafb8a37b4).</span></span>
