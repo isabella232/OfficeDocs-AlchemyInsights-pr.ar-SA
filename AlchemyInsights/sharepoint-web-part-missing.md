@@ -1,5 +1,5 @@
 ---
-title: مشروع تطبيق ويب مفقود من مجموعه مواقع SharePoint
+title: محرر المحتوى أو أجزاء ويب محرر البرنامج النصي مفقودة
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -9,19 +9,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000207
-ms.openlocfilehash: 84a35512366f8f0b7bc5b1001adb5cb2d13d67e4
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: 86ba18efc4bd466a12f32d82288d37ec1032e348
+ms.sourcegitcommit: 82af227ac6d075e748e27c4ce6bdcf56628559cb
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40050944"
+ms.lasthandoff: 05/28/2020
+ms.locfileid: "44407301"
 ---
-# <a name="missing-web-part-in-sharepoint-site-collection"></a>جزء ويب مفقود في مجموعه مواقع SharePoint
+# <a name="content-editor-or-script-editor-web-parts-are-missing"></a>محرر المحتوى أو أجزاء ويب محرر البرنامج النصي مفقودة
 
-إذا كنت تفتقد جزء ويب الذي تستخدمه لرؤيته ، فمن المحتمل انك تحاول أضافه [جزء ويب كلاسيكي علي صفحه حديثه](https://support.office.com/article/classic-and-modern-web-part-experiences-3fdae6c3-8fc1-49ab-8708-8c104b882e64). من المهم ان نلاحظ ان الصفحات الحديثة يمكن ان تستخدم فقط أجزاء الويب الحديثة والصفحات الكلاسيكية يمكن فقط استخدام أجزاء الويب الكلاسيكية. العديد من أجزاء الويب الحديثة الوفاء بنفس الأغراض كما أجزاء الويب الكلاسيكية ، ولكن ستري الاختلافات في المظهر والوظائف.
+إذا كنت في عداد المفقودين جزء على شبكة الإنترنت كنت تستخدم لرؤية، على سبيل المثال **محرر المحتوى أو جزء ويب محرر البرنامج النصي،** فمن الممكن كنت تحاول إضافة جزء ويب الكلاسيكية على صفحة [حديثة](https://support.office.com/article/classic-and-modern-web-part-experiences-3fdae6c3-8fc1-49ab-8708-8c104b882e64). من المهم ملاحظة أن الصفحات الحديثة يمكن أن تستخدم فقط أجزاء الويب الحديثة والصفحات الكلاسيكية يمكن أن تستخدم أجزاء الويب الكلاسيكية فقط. العديد من أجزاء الويب الحديثة الوفاء بنفس الأغراض مثل أجزاء الويب الكلاسيكية ، ولكن سترى اختلافات في المظهر والأداء الوظيفي.
 
-هناك العديد من أجزاء ويب التي لا تظهر بسبب [اعداد البرنامج النصي المخصص](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)، الذي تم تعطيله بشكل افتراضي علي المواقع الحديثة. 
+هناك العديد من أجزاء الويب التي لا تظهر بسبب [إعداد البرنامج النصي المخصص](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)، والذي يتم تعطيله افتراضيًا على المواقع الحديثة. 
 
-للحصول علي قائمه بأجزاء ويب غير متوفرة ، يرجى الاطلاع علي [الميزات المتاثره عند حظر البرنامج النصي المخصص](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script#features-affected-when-custom-script-is-blocked).
+للحصول على قائمة بأجزاء الويب غير المتوفرة، يرجى الاطلاع على [الميزات المتأثرة عند حظر البرنامج النصي المخصص](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script#features-affected-when-custom-script-is-blocked).
 
- لمزيد من المعلومات حول التاثيرات الامنيه لبرنامج نصي مخصص ، راجع [اعتبارات الأمان الخاصة بالسماح بالبرنامج النصي المخصص](https://docs.microsoft.com/sharepoint/security-considerations-of-allowing-custom-script).
+لمزيد من المعلومات حول الآثار الأمنية للنص المخصص، راجع [اعتبارات الأمان للسماح بالبرنامج النصي المخصص](https://docs.microsoft.com/sharepoint/security-considerations-of-allowing-custom-script).
