@@ -11,12 +11,12 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: 2023593e281170cea0b055c54d18ef307c4c7ea7
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
-ms.translationtype: HT
+ms.openlocfilehash: be1136f7fd4575d482d38ee70163e5252d4ffbca
+ms.sourcegitcommit: 5296874062b16f945d9a7a7a9ab29ec53686310b
+ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767020"
+ms.lasthandoff: 05/21/2020
+ms.locfileid: "44343168"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>استكشاف مشاكل "فتح باستخدام المستكشف" وإصلاحها في SharePoint Online
 
@@ -28,9 +28,6 @@ ms.locfileid: "43767020"
 - [نسخ ملفات المكتبة أو نقلها باستخدام الأمر فتح بواسطة المستكشف](https://support.office.com/article/copy-or-move-library-files-by-using-open-with-explorer-aaee7bfb-e2a1-42ee-8fc0-bcc0754f04d2)
 
 > **ملاحظة:**
+>- "فتح بواسطة المستكشف" معتمد فقط في Internet Explorer 10 أو 11. لا يعمل "فتح بواسطة المستكشف" في Windows باستخدام Microsoft Edge أو Google Chrome أو Mozilla Firefox أو علي النظام الأساسي Mac. ونظراً لهذا السبب، فقد يكون خيار "طريقة عرض المستكشف" باللون الرمادي.
 >
 >- لا يظهر الزر "فتح بواسطة المستكشف" في تجربة المكتبة الجديدة. حدد القائمة المنسدلة **عرض** في الزاوية العلوية اليسرى (اسم التغييرات المنسدلة استناداً إلى طريقة العرض الحالية)، ثم حدد **عرض في مستكشف الملفات**.
->
->- "فتح بواسطة المستكشف" معتمد فقط في Internet Explorer 10 أو 11. لا يعمل "فتح بواسطة المستكشف" في Windows باستخدام Microsoft Edge أو Google Chrome أو Mozilla Firefox أو علي النظام الأساسي Mac. ونظراً لهذا السبب، فقد يكون خيار "طريقة عرض المستكشف" باللون الرمادي.
-
-
