@@ -13,12 +13,12 @@ ms.custom:
 - "446"
 - "1500018"
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: f1ff1053898a11d5256a21a5da301aba3dbb2642
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 44751ea0b8036875750e5e22ef300623c2590f97
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765256"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44418059"
 ---
 # <a name="when-is-my-credit-card-charged"></a>متى يتم تحصيل رسوم من بطاقتي الائتمانية؟
 
@@ -26,4 +26,4 @@ ms.locfileid: "43765256"
   
 تحدث الرسوم المتكررة في غضون يوم واحد من إنشاء الفاتورة.
   
-وإذا لم تنجح هذه التهمة، سيستمر النظام في محاولة تسوية الرصيد خلال الأسابيع القليلة المقبلة. يمكنك إجراء تحديثات على معلومات الدفع الخاصة بك في أي وقت لضمان نجاح محاولة الشحن التالية. لمزيد من المعلومات، راجع [إضافة بطاقة ائتمان أو حساب مصرفي أو تحديثهما أو إزالتهما في Microsoft 365 للأعمال.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account)
+وإذا لم تنجح هذه التهمة، سيستمر النظام في محاولة تسوية الرصيد خلال الأسابيع القليلة المقبلة. يمكنك إجراء تحديثات على معلومات الدفع الخاصة بك في أي وقت لضمان نجاح محاولة الشحن التالية. لمزيد من المعلومات، راجع [إدارة طرق الدفع](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

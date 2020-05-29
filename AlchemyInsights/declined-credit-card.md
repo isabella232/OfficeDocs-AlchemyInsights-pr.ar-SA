@@ -13,12 +13,12 @@ ms.custom:
 - "443"
 - "1500018"
 ms.assetid: 4e6d34b3-e3e5-4fcd-a52e-34b54746feeb
-ms.openlocfilehash: 47b5fb62d613dca665c0151baa31c2fea08db610
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: c3968ef0ac4926fae3e8a0f988c464471f740a94
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062271"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44417591"
 ---
 # <a name="declined-credit-card"></a>بطاقة الائتمان المرفوضة
 
@@ -28,4 +28,4 @@ ms.locfileid: "44062271"
   
 إذا كنت لا تزال ترى الرسالة "المرفوضة"، فاتصل بالبنك الذي تتعامل معه. من المحتمل ألا تكون بطاقة الائتمان الخاصة بك نشطة ، على سبيل المثال ، إذا تلقيت بطاقة الائتمان مؤخرًا في البريد مع تاريخ انتهاء صلاحية محدث ، فقد تحتاج إلى تنشيطها. يمكن للبنك الذي تتعامل معه أيضًا أن يخبرك إذا لم تتم الموافقة على بطاقة الائتمان الخاصة بك للمعاملات عبر الإنترنت أو الدولية أو المتكررة.
   
-لمزيد من المعلومات راجع [استكشاف الأخطاء وإصلاحها بطاقات الائتمان والحسابات المصرفية](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account#troubleshooting-credit-cards-and-bank-accounts).
+للحصول على معلومات إضافية راجع [إدارة طرق الدفع](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

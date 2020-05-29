@@ -13,21 +13,21 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: 9e7505978ef80f3aba44e69dc7b5f7ab9c1780d5
-ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
+ms.openlocfilehash: 57e1ed7c7f85f14bb7f78bb8d3e7b844ed5a7a44
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43957893"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44418275"
 ---
 # <a name="past-due-account"></a>الحساب المستحق الماضي؟
 
-يمكن رفض الدفع لعدة أسباب، بما في ذلك إذا انتهت صلاحية بطاقة الائتمان. يمكنك استخدام ميزة **تسوية الرصيد** في أي وقت لتغيير معلومات بطاقة الائتمان الخاصة بك وإعادة إرسال الدفع على الفور.
+يمكن رفض الدفع لعدة أسباب، بما في ذلك إذا انتهت صلاحية بطاقة الائتمان. يمكنك استخدام ميزة **تسوية الرصيد** في أي وقت لتغيير معلومات بطاقة الائتمان وإعادة إرسال الدفع فورًا.
 
 1. في مركز الإدارة، انتقل إلى ** [خدمات](https://go.microsoft.com/fwlink/p/?linkid=842054)& منتجات الفوترة >.**
 ابحث عن الاشتراك مع الرصيد المستحق. في قسم **الفوترة،** بجوار **الاشتراك لديه دفعة مستحقة سابقة،** انقر فوق تسوية **الرصيد** لدفع الرصيد المستحق بالكامل.
-2. إذا كنت تمتلك بطاقة الائتمان، يمكنك تغيير تاريخ انتهاء الصلاحية، أو اختيار بطاقة مختلفة، أو [إضافة بطاقة جديدة.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide)
-3. إذا كنت لا تملك بطاقة الائتمان، يمكنك اختيار بطاقة ائتمان مختلفة أو [إضافة بطاقة جديدة.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account?view=o365-worldwide)
+2. إذا كنت تمتلك بطاقة الائتمان، يمكنك تغيير تاريخ انتهاء الصلاحية، أو اختيار بطاقة مختلفة، أو [إضافة بطاقة جديدة.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide)
+3. إذا كنت لا تملك بطاقة الائتمان، يمكنك اختيار بطاقة ائتمان مختلفة أو [إضافة بطاقة جديدة.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods?view=o365-worldwide)
 4. بعد الانتهاء من التحديثات، انقر فوق **حفظ**.
 
 **ملاحظة:** بعد إجراء الدفع، قد يظل الإخطار المستحق السابق مرئيًا لفترة قصيرة من الزمن. يرجى الانتظار **48 ساعة** على الأقل قبل الاتصال بالدعم.
