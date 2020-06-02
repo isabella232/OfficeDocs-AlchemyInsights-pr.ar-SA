@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1829
 ms.assetid: ''
-ms.openlocfilehash: 01d9bc598a0293b15969a4e3292fb3f9abab10db
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: daed49214bd683c28d7947095ed6d4fd792cd0f3
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43714465"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507121"
 ---
 # <a name="ediscovery-issues"></a>مشكلات eDiscovery
 
@@ -30,8 +30,8 @@ ms.locfileid: "43714465"
 
 لمزيد من المعلومات، اطلع على:
 
-- [بحث المحتوى](https://docs.microsoft.com/office365/securitycompliance/content-search)
+- [بحث المحتوى](https://docs.microsoft.com/microsoft-365/compliance/content-search)
 
-- [حالات eDiscovery في مركز التوافق & الأمان](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases)
+- [حالات eDiscovery في مركز التوافق & الأمان](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
 
-- [حل eDiscovery المتقدم في Microsoft 365](https://docs.microsoft.com/office365/securitycompliance/compliance20/overview-ediscovery-20)
+- [حل eDiscovery المتقدم في Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/overview-ediscovery-20)

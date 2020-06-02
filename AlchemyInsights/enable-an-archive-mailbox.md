@@ -10,12 +10,12 @@ ms.custom:
 - "307"
 - "3100008"
 ms.assetid: e1a5fab7-d3a5-4d4c-8ee2-0edf4ec9b76b
-ms.openlocfilehash: 5f5fea1e442b489bc81d9f6c4213e302c80f4ea7
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 2eecb51a2a6bf2e0741b7ee14dca16f8e0ad4c61
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43788653"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507013"
 ---
 # <a name="enable-an-archive-mailbox"></a>تمكين صندوق بريد أرشيفي
 
@@ -23,11 +23,11 @@ ms.locfileid: "43788653"
   
 فيما يلي كيفية إنشاء صندوق بريد أرشيفي:
   
-1. انتقل [https://protection.office.com](https://protection.office.com)إلى .
+1. انتقل إلى [https://protection.office.com](https://protection.office.com) .
 
 2. تسجيل الدخول إلى Microsoft 365 باستخدام حساب المسؤول الخاص بك.
 
-3. في الجزء الأيسر من &amp; مركز التوافق الأمني، حدد **أرشيف** **حوكمة** \> المعلومات .
+3. في الجزء الأيسر من &amp; مركز التوافق الأمني، حدد أرشيف **حوكمة المعلومات** \> **Archive**.
 
 4. حدد المستخدم الذي تريد تمكين صندوق بريد الأرشيف الذي تريد تمكينه.
 
@@ -43,7 +43,7 @@ ms.locfileid: "43788653"
 
 1. انتقل إلى [مركز إدارة Exchange](https://outlook.office365.com/ecp) وسجّل الدخول باستخدام حساب المسؤول.
 
-2. انتقل إلى **المستلمين** > **المشتركة**.
+2. انتقل إلى **المستلمين**  >  **المشتركة**.
 
 3. حدد علبة البريد المشتركة.
 
@@ -51,6 +51,6 @@ ms.locfileid: "43788653"
 
 لمزيد من المعلومات، اطلع على:
   
-- [تمكين صناديق بريد الأرشيف](https://docs.microsoft.com/office365/securitycompliance/enable-archive-mailboxes)
+- [تمكين صناديق بريد الأرشيف](https://docs.microsoft.com/microsoft-365/compliance/enable-archive-mailboxes)
 
 - [إعداد سياسة الأرشيف والحذف](https://docs.microsoft.com//office365/securitycompliance/set-up-an-archive-and-deletion-policy-for-mailboxes)

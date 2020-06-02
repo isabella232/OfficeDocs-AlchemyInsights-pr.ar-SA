@@ -12,12 +12,12 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 7d31f6bcbd464b7428092b6fd6ff9f9582db2a8b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 9369878b62a5abe79bd215487bea6cabb0e80f06
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704364"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507429"
 ---
 # <a name="dlp-policy-tip-issues"></a>مشكلات تلميح نهج DLP
 
@@ -29,11 +29,11 @@ ms.locfileid: "43704364"
   
 لتكوين تلميحات النهج حول نهج DLP الخاص بك في مركز الأمان والامتثال في وضع التنفيذ الكامل، قم بما يلي:
   
-- تأكد من **تمكين** تلميحات السياسة على قاعدة DLP باستخدام الخطوات [هنا](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips).
+- تأكد من **تمكين** تلميحات السياسة على قاعدة DLP باستخدام الخطوات [هنا](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips).
 
-- تأكد من **تطابق المحتوى** الخاص بك مع ما هو **مطلوب** لتشغيل القاعدة الموضحة في هذه المقالة [هنا](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+- تأكد من **تطابق المحتوى** الخاص بك مع ما هو **مطلوب** لتشغيل القاعدة الموضحة في هذه المقالة [هنا](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
 
-- يتم عرض تلميحات النهج في كل من OWA و Outlook. ومع ذلك، عند استخدام **Outlook 2013 أو أحدث،** يتم عرض تلميحات النهج فقط تحت ظروف معينة. يتم سرد هذه الشروط هنا: [الشروط المعتمدة لـ Outlook 2013 أو أحدث لعرض تلميحات النهج](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips#outlook-2013-and-later-supports-showing-policy-tips-for-only-some-conditions)
+- يتم عرض تلميحات النهج في كل من OWA و Outlook. ومع ذلك، عند استخدام **Outlook 2013 أو أحدث،** يتم عرض تلميحات النهج فقط تحت ظروف معينة. يتم سرد هذه الشروط هنا: [الشروط المعتمدة لـ Outlook 2013 أو أحدث لعرض تلميحات النهج](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
 
-للحصول على معلومات إضافية حول نصائح سياسة DLP، راجع: [إظهار نصائح السياسة لسياسات DLP](https://docs.microsoft.com/office365/securitycompliance/use-notifications-and-policy-tips)
+للحصول على معلومات إضافية حول نصائح سياسة DLP، راجع: [إظهار نصائح السياسة لسياسات DLP](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)
   

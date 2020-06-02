@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: 51512b29f8d37ce6c39ece5bb704cb01e88e463d
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: fe051cd1dac899dc9bb19d275c352ec6585b6a93
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010241"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507573"
 ---
 # <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>نشر تطبيقات Microsoft 365 للمؤسسات للاستخدام المشترك على RDS أو Terminal Server أو VDI
 
@@ -38,9 +38,9 @@ ms.locfileid: "44010241"
 
 إذا كنت ترغب في تثبيت تطبيقات Microsoft 365 للمؤسسات على RDS من مركز إدارة Microsoft 365، ***والذي يستخدم إعدادات التثبيت الافتراضية،*** فاستخدم الخطوات التالية:
 
-1.    تحقق من الاشتراك الذي لديك. [تعرف على كيفية](https://docs.microsoft.com/office365/admin/admin-overview/what-subscription-do-i-have).
-2.    إذا لزم الأمر، قم بالتبديل إلى اشتراك مختلف. [تعرف على كيفية](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/switch-to-a-different-plan).
-3.    إذا تم تثبيت Office بالفعل على خادم RDS باستخدام أي اشتراكات Microsoft أخرى، فقم بإلغاء تثبيته. على سبيل المثال، عن طريق الانتقال إلى **لوحة** > التحكم**إلغاء تثبيت برنامج**. إلغاء التثبيت باستخدام [مساعد دعم Microsoft والاسترداد](https://aka.ms/SARA-OfficeUninstall-Alchemy) إذا كنت تقوم بمشكلات.
+1.    تحقق من الاشتراك الذي لديك. [تعرف على كيفية](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have).
+2.    إذا لزم الأمر، قم بالتبديل إلى اشتراك مختلف. [تعرف على كيفية](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
+3.    إذا تم تثبيت Office بالفعل على خادم RDS باستخدام أي اشتراكات Microsoft أخرى، فقم بإلغاء تثبيته. على سبيل المثال، عن طريق الانتقال إلى **لوحة التحكم**إلغاء  >  **تثبيت برنامج**. إلغاء التثبيت باستخدام [مساعد دعم Microsoft والاسترداد](https://aka.ms/SARA-OfficeUninstall-Alchemy) إذا كنت تقوم بمشكلات.
 4.    على خادم RDS، قم بتسجيل الدخول إلى مركز إدارة Microsoft 365 باستخدام حساب المسؤول [وتثبيت تطبيقات Microsoft 365 للمؤسسات](https://portal.office.com/OLS/MySoftware.aspx).
 5.    بعد تثبيت Office، ***لا تفتح أو تسجل الدخول*** إلى أي تطبيقات Office.
 6.    على ملقم RDS، تمكين تنشيط الكمبيوتر المشترك عن طريق تحرير التسجيل باتباع الخطوات التالية:

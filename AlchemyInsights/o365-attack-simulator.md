@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: 74bd2dd62b24aaf6c9d7b387ab1d97ddab31e902
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3dae4768ca62757ce7f92dfc527078c963d72742
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713453"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506725"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>محاكاة الهجوم في مايكروسوفت 365
 
 - هل تفتقد محاكي الهجوم؟ يتطلب محاكي الهجوم **Office 365 خطة متقدمة للحماية من التهديدات 2 (خطة ATP 2)** أو **Office 365 Enterprise E5**. **لا** يتم تضمين محاكي الهجوم في Office 365 خطة الحماية المتقدمة من التهديدات 1 (خطة ATP 1) أو Office 365 Enterprise E3 أو أي تطبيقات Microsoft 365 لاشتراكات الأعمال.
 
-- يتطلب الحساب الذي تستخدمه لإطلاق هجمات محاكاة أذونات المسؤول أو مسؤول الأمان العمومية والمصادقة متعددة العوامل (MFA). لمزيد من المعلومات حول متطلبات محاكي الهجوم، راجع [هذا الموضوع](https://docs.microsoft.com/office365/securitycompliance/attack-simulator#before-you-begin).
+- يتطلب الحساب الذي تستخدمه لإطلاق هجمات محاكاة أذونات المسؤول أو مسؤول الأمان العمومية والمصادقة متعددة العوامل (MFA). لمزيد من المعلومات حول متطلبات محاكي الهجوم، راجع [هذا الموضوع](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
 
 - أشياء هامة لمعرفة عن محاكاة هجوم **كلمة مرور القوة الغاشمة:**
 

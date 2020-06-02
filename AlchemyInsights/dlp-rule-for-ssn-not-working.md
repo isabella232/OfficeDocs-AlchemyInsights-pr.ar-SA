@@ -12,12 +12,12 @@ ms.custom:
 - "1242"
 - "3200001"
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
-ms.openlocfilehash: 5af843c2b70b5b2e1aaf82c9f01356546929d840
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 35859bce89ef1ae9b6a9e706fc316b0ee6cd27d1
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43788689"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44507357"
 ---
 # <a name="dlp-issues-with-social-security-numbers"></a>DLP القضايا مع أرقام الضمان الاجتماعي
 
@@ -29,7 +29,7 @@ ms.locfileid: "43788689"
   
 على سبيل المثال، بالنسبة لسياسة SSN التي تم تكوينها بمستوى ثقة 85%، يتم تقييم ما يلي ويجب الكشف عنها حتى تقوم القاعدة بتشغيلها:
   
-- **[التنسيق:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#format-80)** 9 أرقام، والتي قد تكون في نمط منسق أو غير منسق
+- **[التنسيق:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-80)** 9 أرقام، والتي قد تكون في نمط منسق أو غير منسق
 
 - **[نمط:](https://msconnect.microsoft.com/https:/docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80)** أربع وظائف تبحث عن SSNs في أربعة أنماط مختلفة:
 
@@ -41,15 +41,15 @@ ms.locfileid: "43788689"
 
   - Func_randomized_unformatted_ssn يجد SSNs ما بعد 2011 التي لم يتم تنسيقها كتسعة أرقام متتالية (ddddddddd)
 
-- **[المجموع الاختياري:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#checksum-79)** لا، لا يوجد المجموع الاختياري
+- **[المجموع الاختياري:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-79)** لا، لا يوجد المجموع الاختياري
 
-- **[التعريف:](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#definition-80)** سياسة DLP واثقة بنسبة 85٪ من أنها اكتشفت هذا النوع من المعلومات الحساسة إذا، على مقربة من 300 حرف:
+- **[التعريف:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-80)** سياسة DLP واثقة بنسبة 85٪ من أنها اكتشفت هذا النوع من المعلومات الحساسة إذا، على مقربة من 300 حرف:
 
-  - Func_ssn [الدالة](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80) العثور على المحتوى الذي يطابق النمط.
+  - Func_ssn [الدالة](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-80) العثور على المحتوى الذي يطابق النمط.
 
-  - تم العثور على كلمة رئيسية من [Keyword_ssn.](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#keyword_ssn) ومن أمثلة الكلمات الرئيسية: *الضمان الاجتماعي، الضمان الاجتماعي#، Soc Sec، SSN* . على سبيل المثال، سيتم تشغيل العينة التالية لسياسة DLP SSN: **SSN: 489-36-8350**
+  - تم العثور على كلمة رئيسية من [Keyword_ssn.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#keyword_ssn) ومن أمثلة الكلمات الرئيسية: *الضمان الاجتماعي، الضمان الاجتماعي#، Soc Sec، SSN* . على سبيل المثال، سيتم تشغيل العينة التالية لسياسة DLP SSN: **SSN: 489-36-8350**
   
-لمزيد من المعلومات حول ما هو مطلوب لSSNs ليتم الكشف عن المحتوى الخاص بك، راجع المقطع التالي في هذه المقالة: [ما أنواع المعلومات الحساسة البحث عن SSNs](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#us-social-security-number-ssn)
+لمزيد من المعلومات حول ما هو مطلوب لSSNs ليتم الكشف عن المحتوى الخاص بك، راجع المقطع التالي في هذه المقالة: [ما أنواع المعلومات الحساسة البحث عن SSNs](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-social-security-number-ssn)
   
-باستخدام نوع معلومات حساسة مضمن ة مختلفة، راجع المقالة التالية للحصول على معلومات حول ما هو مطلوب للأنواع الأخرى: [ما تبحث عنه أنواع المعلومات الحساسة](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for)
+باستخدام نوع معلومات حساسة مضمن ة مختلفة، راجع المقالة التالية للحصول على معلومات حول ما هو مطلوب للأنواع الأخرى: [ما تبحث عنه أنواع المعلومات الحساسة](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   
