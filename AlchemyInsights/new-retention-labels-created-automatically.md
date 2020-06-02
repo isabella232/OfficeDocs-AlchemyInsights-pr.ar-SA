@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "1958"
 - "9000331"
-ms.openlocfilehash: b0c88acfdc6f3eb94d4eb7e1eb30a4b4b5f5e83b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 05cd5bb076d16e6d15422ef3491d9c051ad09731
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713489"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511747"
 ---
 # <a name="new-retention-labels-created-automatically"></a>تسميات الاحتفاظ الجديدة التي تم إنشاؤها تلقائيًا
 
-قد ترى [ثلاث تسميات استبقاء جديدة](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager#default-retention-labels-and-label-policy) تم إنشاؤها تلقائيًا في مؤسستك ضمن تسميات **الاحتفاظ** في مركز مسؤول الأمان أو التوافق. أسماء التسمية هي:
+قد ترى [ثلاث تسميات استبقاء جديدة](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager) تم إنشاؤها تلقائيًا في مؤسستك ضمن تسميات **الاحتفاظ** في مركز مسؤول الأمان أو التوافق. أسماء التسمية هي:
 
 - الإجراءات التشغيلية
 - الأعمال العامة
@@ -29,8 +29,8 @@ ms.locfileid: "43713489"
 
 سيحدث هذا في المرة الأولى التي تختار **فيها خطة الملفات** إذا لم يتم إنشاء تسميات استبقاء أخرى. يتم إنشاء هذه التسميات تلقائيًا، وإذا لزم الأمر، يمكن إزالتها إذا لم يتم تطبيقها بعد على المحتوى. لإزالة التسميات:
 
-1. في مركز مسؤول الأمان أو التوافق، اختر علامة التبويب**الاحتفاظ** **بتسميات** >  **التصنيفات.** > 
+1. في مركز مسؤول الأمان أو **Classifications**التوافق، اختر  >  علامة التبويب الاحتفاظ**بتسميات التصنيفات.**  >  **Retention**
 
-1. حدد تسميات الاحتفاظ التي تريد إزالتها > **حذف التسمية** > **نعم** لحذف التسمية.
+1. حدد تسميات الاحتفاظ التي تريد إزالتها > **حذف**  >  **التسمية نعم** لحذف التسمية.
 
-باستخدام إدارة خطة الملفات، يمكنك إدارة تسميات وسياسات الاحتفاظ في مؤسستك - لمزيد من المعلومات، راجع [نظرة عامة على إدارة خطة الملفات](https://docs.microsoft.com/office365/securitycompliance/file-plan-manager).
+باستخدام إدارة خطة الملفات، يمكنك إدارة تسميات وسياسات الاحتفاظ في مؤسستك - لمزيد من المعلومات، راجع [نظرة عامة على إدارة خطة الملفات](https://docs.microsoft.com/microsoft-365/compliance/file-plan-manager).

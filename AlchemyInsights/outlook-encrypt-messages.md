@@ -9,12 +9,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 9000329
-ms.openlocfilehash: 7184ffd68f56639a8bcb87e9c6cab88388868103
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6bbbf8722dacb8b7d5191d57ce1055a48dcb4dd0
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764859"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511495"
 ---
 # <a name="encrypt-email-messages-in-outlook"></a>تشفير رسائل البريد الإلكتروني في Outlook
 
@@ -24,7 +24,7 @@ ms.locfileid: "43764859"
 
 - إذا كنت تستخدم Outlook على الويب **(OWA**سابقاً): عند إنشاء رسالة بريد إلكتروني، ما عليك سوى النقر فوق **حماية** في OWA. سيؤدي ذلك إلى تطبيق إذن "عدم إعادة التوجيه". انقر فوق **تغيير الإذن** واختر **تشفير** لتشفير الرسالة فقط.
 
-- في حالة استخدام **عميل Outlook:** لإرسال رسالة مشفرة من Outlook 2013 أو 2016، أو Outlook 2016 لنظام التشغيل Mac، حدد**أذونات** **الخيارات،** > ثم حدد خيار الحماية الذي تحتاجه.
+- في حالة استخدام **عميل Outlook:** لإرسال رسالة مشفرة من Outlook 2013 أو 2016، أو Outlook 2016 لنظام التشغيل Mac، حدد **أذونات الخيارات،**  >  **Permissions**ثم حدد خيار الحماية الذي تحتاجه.
 
-- لتشفير كافة رسائل البريد الإلكتروني المرسلة **تلقائيًا** إلى مستلمين معينين أو مؤسسات شريكة خارجية، تحتاج إلى إنشاء قاعدة نقل تدفق بريد في مركز Exchange Admin. يتم توفير تعليمات مفصلة في [هذه المقالة الدعم](https://docs.microsoft.com/office365/securitycompliance/define-mail-flow-rules-to-encrypt-email#create-a-mail-flow-rule-to-encrypt-email-messages-with-the-new-ome-capabilities).
+- لتشفير كافة رسائل البريد الإلكتروني المرسلة **تلقائيًا** إلى مستلمين معينين أو مؤسسات شريكة خارجية، تحتاج إلى إنشاء قاعدة نقل تدفق بريد في مركز Exchange Admin. يتم توفير تعليمات مفصلة في [هذه المقالة الدعم](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email#create-mail-flow-rules-to-encrypt-email-messages-with-the-new-ome-capabilities).
 

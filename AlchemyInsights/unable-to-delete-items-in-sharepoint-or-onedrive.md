@@ -11,18 +11,18 @@ ms.custom:
 - "2377"
 - "9000255"
 ms.assetid: ''
-ms.openlocfilehash: abfcb91c6040aeed759d697ca63546ccea8ede97
-ms.sourcegitcommit: c5e800313a6f211386a384716e5fa18e7fcc8c1c
+ms.openlocfilehash: 8647b65c52a782ca48ca58bb2700556db528796b
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/28/2020
-ms.locfileid: "41571212"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44511963"
 ---
 # <a name="unable-to-delete-items"></a>غير قادر على حذف العناصر
 
-يمكن أن تتسبب نُهج الاحتفاظ في حدوث ذلك، تحتاج إما إلى تعطيل أو استبعاد احتجاز كل منهما الذي يسبب هذه المشكلة. بعد إزالة نهج الاحتفاظ أو الانتظار، قد يستغرق الأمر ما يصل إلى 24 ساعة حتى يسري التغيير. تأكد من عدم وجود إعداد [نهج الاحتفاظ](https://docs.microsoft.com/office365/securitycompliance/retention-policies) على العنصر.
+يمكن أن تتسبب نُهج الاحتفاظ في ذلك، تحتاج إما إلى تعطيل أو استبعاد الاحتفاظ المعني الذي يسبب هذه المشكلة. بعد إزالة سياسة الاحتفاظ أو الانتظار، قد يستغرق التغيير ما يصل إلى 24 ساعة حتى يدخل التغيير حيز التنفيذ. تأكد من عدم وجود إعداد [نهج الاحتفاظ](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) على العنصر.
 
-قد يكون الموقع قد تجاوز حد التخزين وزيادة [حصة الموقع وحذف](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) العنصر.
+قد يكون الموقع قد تجاوز حد التخزين وزيادة [حصة الموقع النسبية](https://docs.microsoft.com/powershell/module/sharepoint-online/set-sposite?view=sharepoint-ps) وحذف العنصر.
 
 تأكد من عدم [سحب](https://support.office.com/article/check-out-check-in-or-discard-changes-to-files-in-a-library-7e2c12a9-a874-4393-9511-1378a700f6de) العنصر إلى مستخدم آخر.
 

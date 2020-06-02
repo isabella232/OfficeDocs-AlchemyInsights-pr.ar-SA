@@ -15,22 +15,22 @@ ms.custom:
 - "1800014"
 - "1800018"
 ms.assetid: d2b46122-b59a-4b94-9cae-5e42be819022
-ms.openlocfilehash: c11537636e276fe9997566bcd0f799bb3ee57282
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 6cd6d3c36b8c9c50b5ea98aafa2145c502960f89
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767560"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512469"
 ---
 # <a name="set-up-email-in-the-outlook-mobile-app"></a>إعداد البريد الإلكتروني في تطبيق Outlook للجوال
 
-1. حدد **البدء** إذا كانت المرة الأولى التي تقيم فيها البريد الإلكتروني في تطبيق الجوّال. خلاف ذلك، اضغط على **القائمة** ثم اضغط على **الإعدادات** \> **إضافة حساب** \> **إضافة حساب البريد الإلكتروني**.
+1. حدد **البدء** إذا كانت المرة الأولى التي تقيم فيها البريد الإلكتروني في تطبيق الجوّال. خلاف ذلك، اضغط على **القائمة** ثم اضغط على **الإعدادات** \> **إضافة حساب** إضافة حساب البريد \> **الإلكتروني**.
 
 2. أدخل عنوان بريدك الإلكتروني الكامل واضغط على **متابعة** الحساب أو **إضافته**.
 
 3. أدخل كلمة مرور حساب البريد الإلكتروني واضغط على **تسجيل الدخول** أو **التالي**.
 
-4. إذا تم تمكين [المصادقة متعددة العوامل،](https://docs.microsoft.com/office365/admin/security-and-compliance/set-up-multi-factor-authentication) تحقق من استخدام الطريقة التي قمت بإعدادها (رمز مكون من 6 أرقام أو مكالمة هاتفية أو تطبيق Microsoft Authenticator).
+4. إذا تم تمكين [المصادقة متعددة العوامل،](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication) تحقق من استخدام الطريقة التي قمت بإعدادها (رمز مكون من 6 أرقام أو مكالمة هاتفية أو تطبيق Microsoft Authenticator).
 
 5. في حالة وضع نُهج إضافية لمسؤول تكنولوجيا المعلومات، اضغط على **تنشيط** لتمكينها.
 
