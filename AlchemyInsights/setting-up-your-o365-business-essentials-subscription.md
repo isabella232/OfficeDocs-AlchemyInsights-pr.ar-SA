@@ -8,12 +8,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: df781750-3d27-4077-ab0f-b9ea764ad5fa
-ms.openlocfilehash: 271d067fc44da56e0de60634c31cfbdff24b6020
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f49272fb05e3d251a55851d0f7e8ac32111899e6
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767776"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509335"
 ---
 # <a name="setting-up-your-o365-business-essentials-subscription"></a>إعداد اشتراك O365 أساسيات الأعمال
 
@@ -23,11 +23,11 @@ ms.locfileid: "43767776"
     
 - انتقل إلى [مركز إدارة Microsoft 365](https://login.partner.microsoftonline.cn/).
     
-- لبدء المعالج، اختر **الانتقال إلى الإعداد**. لمعرفة المزيد، راجع [إضافة مجال إلى Microsoft 365](https://docs.microsoft.com/office365/admin/setup/add-domain).
+- لبدء المعالج، اختر **الانتقال إلى الإعداد**. لمعرفة المزيد، راجع [إضافة مجال إلى Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain).
     
 استيراد البريد الإلكتروني
   
-- نقل البريد الإلكتروني وجهات الاتصال الموجودة من أنظمة البريد الإلكتروني الأخرى إلى صندوق بريد Microsoft 365 حتى تتمكن من رؤية كل شيء في مكان واحد. لخيارات الترحيل، [ترحيل البريد الإلكتروني وجهات الاتصال إلى Microsoft 365](https://docs.microsoft.com/office365/admin/setup/migrate-email-and-contacts-admin).
+- نقل البريد الإلكتروني وجهات الاتصال الموجودة من أنظمة البريد الإلكتروني الأخرى إلى صندوق بريد Microsoft 365 حتى تتمكن من رؤية كل شيء في مكان واحد. لخيارات الترحيل، [ترحيل البريد الإلكتروني وجهات الاتصال إلى Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/migrate-email-and-contacts-admin).
     
 - ربط حسابات البريد الإلكتروني
     
@@ -41,6 +41,6 @@ ms.locfileid: "43767776"
   
 - لمعرفة مواقع التخزين الأفضل لنشاطك التجاري، راجع [مكان تخزين الملفات في Microsoft 365](https://support.office.com/article/c7c20284-bc94-47f4-9728-d28e9daf0790.aspx). يحصل الجميع على موقع تخزين سحابة **OneDrive** تلقائيًا عند إنشاء حسابات Microsoft 365 لهم. باستخدام OneDrive، يمكنك الوصول إلى الملفات عبر أجهزة الكمبيوتر والهواتف والأجهزة اللوحية. 
     
-يمكن العثور على خطوات تفصيلية للإعداد في [هذه المقالة](https://docs.microsoft.com/office365/admin/setup/setup).
+يمكن العثور على خطوات تفصيلية للإعداد في [هذه المقالة](https://docs.microsoft.com/microsoft-365/admin/setup/setup).
   
 

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: ec9820f693cd40a6f724e5c244fb1b028cde1eea
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f4d79613a48b789b601124ce8db57479e3cd62cc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765976"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508651"
 ---
 # <a name="install-visio"></a>تثبيت Visio
 
@@ -25,7 +25,7 @@ ms.locfileid: "43765976"
 
 **ملاحظة**: Visio خطة أون لاين 1 لا تشمل إصدار سطح المكتب من Visio ، لذلك لا يمكن التثبيت.
 
-إذا كان لديك اشتراك في Visio Online Plan 2، يجب [تعيين ترخيص](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) لمستخدم أو لن يكون لديه خيار لتثبيت Visio من عمليات التثبيت **الخاصة بي** في بوابة [حسابي](https://portal.office.com/account#installs). 
+إذا كان لديك اشتراك في Visio Online Plan 2، يجب [تعيين ترخيص](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) لمستخدم أو لن يكون لديه خيار لتثبيت Visio من عمليات التثبيت **الخاصة بي** في بوابة [حسابي](https://portal.office.com/account#installs). 
 
 ترتبط إصدارات الترخيص غير المجمع من Visio Standard أو Visio Professional بحسابات Microsoft ولا يمكن إدارتها في مركز المسؤول. لتثبيت هذه الإصدارات، يجب على المستخدمين تسجيل الدخول إلى [account.microsoft.com](https://account.microsoft.com) مع حساب Microsoft المقترن بهذا الإصدار من Visio.
 

@@ -9,16 +9,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1388
 ms.assetid: ''
-ms.openlocfilehash: d23a816d4eef065f800eaee60829d57dc1e7177f
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 0acaed476dbd06bc933bf466f9bf6116413a44bb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43645659"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509371"
 ---
 # <a name="setup-dkim"></a>إعداد DKIM
 
-الإرشادات الكاملة لتكوين DKIM للمجالات المخصصة في Microsoft 365 [هنا](https://docs.microsoft.com/office365/SecurityCompliance/use-dkim-to-validate-outbound-email#what-you-need-to-do-to-manually-set-up-dkim-in-office-365).
+الإرشادات الكاملة لتكوين DKIM للمجالات المخصصة في Microsoft 365 [هنا](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim).
 
 1. **لكل** مجال مخصص، تحتاج إلى إنشاء **سجلين** DKIM CNAME في خدمة استضافة DNS الخاصة بنطاقك (عادةً، مسجل النطاق). على سبيل المثال، تتطلب contoso.com fourthcoffee.com أربعة سجلات DKIM CNAME: اثنان contoso.com واثنين fourthcoffee.com.
 
@@ -36,7 +36,7 @@ ms.locfileid: "43645659"
 
      **TTL**: 3600
 
-   \<DomainGUID\> هو النص إلى `.mail.protection.outlook.com` اليسار في سجل MX المخصص للمجال المخصص `contoso-com` (على سبيل المثال، للمجال contoso.com). \<Domain\> هو المجال الذي استخدمته عند الاشتراك في Microsoft 365 (على سبيل المثال، contoso.onmicrosoft.com).
+   \<DomainGUID\>هو النص إلى اليسار `.mail.protection.outlook.com` في سجل MX المخصص للمجال المخصص (على سبيل المثال، `contoso-com` للمجال contoso.com). \<InitialDomain\>هو المجال الذي استخدمته عند الاشتراك في Microsoft 365 (على سبيل المثال، contoso.onmicrosoft.com).
 
 2. بعد إنشاء سجلات CNAME للمجالات المخصصة، أكمل الإرشادات التالية:
 
@@ -46,6 +46,6 @@ ms.locfileid: "43645659"
 
    ج. في التنقل السفلي الأيسر، قم بتوسيع **المسؤول** واختيار **Exchange**.
 
-   د. انتقل إلى **حماية** > **DKIM**.
+   د. انتقل **Protection**إلى  >  **حماية DKIM**.
 
    ه. حدد المجال ثم اختر **تمكين** **رسائل التوقيع لهذا المجال مع توقيعات DKIM**. كرر هذه الخطوة لكل مجال مخصص.

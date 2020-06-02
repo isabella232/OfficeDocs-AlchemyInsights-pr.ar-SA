@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4373"
-ms.openlocfilehash: 95a994d6a49ee8737a6ebcb196314f92776d8482
-ms.sourcegitcommit: 2afad0b107d03cd8c4de0b85b5bee38a13a7960d
-ms.translationtype: MT
+ms.openlocfilehash: 22eeb6ba32e4e943efa2495a477ff394f3c135db
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/26/2020
-ms.locfileid: "44492891"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508363"
 ---
 # <a name="automatic-classification-not-behaving-as-expected-with-the-aip-client"></a>التصنيف التلقائي لا يتصرف كما هو متوقع مع عميل AIP
 
 التصنيف التلقائي لا يتصرف كما هو متوقع، استخدم الإرشادات الموصى بها التالية:
 
-1. إذا كنت تواجه مشكلات في وضع العلامات التلقائي، فراجع [كيفية تكوين شروط التصنيف التلقائي والموصى به لحماية معلومات Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) وما تبحث عنه أنواع المعلومات [الحساسة](https://docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for).
+1. إذا كنت تواجه مشكلات في وضع العلامات التلقائي، فراجع [كيفية تكوين شروط التصنيف التلقائي والموصى به لحماية معلومات Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-classification) وما تبحث عنه أنواع المعلومات [الحساسة](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
 2. تحقق مما إذا كنت تستخدم نُهج ًا ذات نطاق لم يتم تكوينها بشكل صحيح: [كيفية تكوين نهج حماية المعلومات Azure لمستخدمين محددين باستخدام نُهج ذات نطاق](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
 3. إذا لم يكن وضع العلامات التلقائي ة يعمل مع Outlook عند إرفاق مستند مسمى، فتحقق من عدم `DRMEncryptProperty` تعريفه كما هو موضح هنا: إعدادات التسجيل [IRM للأمان](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options).
 4. إذا كنت تستخدم [أنواع المعلومات المضمنة](https://support.office.com/article/What-the-sensitive-information-types-look-for-fd505979-76be-4d9f-b459-abef3fc9e86b) لسياسة حماية معلومات Azure، فتحقق من تطابق المحتوى مع التنسيق المتوقع.

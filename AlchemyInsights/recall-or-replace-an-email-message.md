@@ -13,12 +13,12 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: e541620a499b02a7206579ffcc505ceb4e632a4c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: e958dab159e4dcc11f9c068bded3aa06ccd65c15
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742742"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509443"
 ---
 # <a name="recall-or-replace-an-email-message-in-microsoft-365"></a>استدعاء رسالة بريد إلكتروني أو استبدالها في Microsoft 365
 
@@ -30,7 +30,7 @@ ms.locfileid: "43742742"
 
 1. في جزء المجلد الموجود على يسار إطار Outlook، اختر مجلد العناصر المرسلة.
 2. افتح الرسالة التي تريد تذكرها. يجب النقر نقراً مزدوجاً لفتح الرسالة. لن يسمح لك تحديد الرسالة بحيث تظهر في جزء القراءة بتذكر الرسالة.
-3. من علامة التبويب الرسالة، حدد **الإجراءات** > **استدعاء هذه الرسالة**.
+3. من علامة التبويب الرسالة، حدد **الإجراءات**  >  **استدعاء هذه الرسالة**.
 4. اختر **حذف نسخ غير مقروءة من هذه الرسالة** أو حذف النسخ غير **المقروءة واستبدالها برسالة جديدة**، ثم حدد **موافق**.
 5. إذا كنت ترسل رسالة بديلة، فقم بإنشاء الرسالة، ثم حدد **إرسال**.
 6. يعتمد نجاح أو فشل استدعاء رسالة على إعدادات المستلمين في Outlook.
@@ -39,7 +39,7 @@ ms.locfileid: "43742742"
 
 ***البحث عن رسائل البريد الإلكتروني وحذفها في مؤسستك*** للبحث عن رسائل البريد الإلكتروني وحذفها في مؤسستك، يكون الأمر أسهل إذا كنت مسؤولاً عالمياً. إذا لم تكن مسؤولاً عمومياً، يجب إضافة حسابك إلى مجموعة أدوار مدير eDiscovery، أو إلى دور إدارة بحث التوافق. لحذف الرسائل، ستحتاج إلى الانضمام إلى مجموعة أدوار إدارة المؤسسة أو دور إدارة البحث والتطهير. يتم تعيين أذونات لهذه الأدوار في [مركز التوافق & الأمان](https://protection.office.com/).
 
-1. [إنشاء بحث محتوى](https://docs.microsoft.com/office365/securitycompliance/content-search) للعثور على الرسالة لحذفها.
+1. [إنشاء بحث محتوى](https://docs.microsoft.com/microsoft-365/compliance/content-search) للعثور على الرسالة لحذفها.
 2. [الاتصال بالأمان & مركز الامتثال PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps)مركز . 
 
 إذا كنت تستخدم MFA، راجع [الاتصال بأمان Microsoft 365 & مركز التوافق PowerShell باستخدام المصادقة متعددة العوامل](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 

@@ -12,12 +12,12 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 156fd0044cdc42230ace0a5db16f49af572bb6fa
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 592eb92e4b0fe0f9da2fa20bb93ffa4fbbb76662
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716447"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44508939"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>تحديد وقت تكوين إعادة توجيه البريد الإلكتروني الخارجي على صناديق البريد
 
@@ -25,7 +25,7 @@ ms.locfileid: "43716447"
 
 1. تسجيل الدخول إلى [مركز التوافق & الأمان Microsoft 365](https://protection.office.com/).
 
-2. انتقل إلى صفحة البحث في**سجل تدقيق** **البحث.** > 
+2. انتقل إلى **Search**صفحة البحث في  >  **سجل تدقيق** البحث.
 
 3. حدد نطاق التاريخ في **حقول تاريخ البدء** وتاريخ **الانتهاء.** لا تحتاج إلى تحديد اسم مستخدم. تحقق من تعيين حقل **الأنشطة** **لإظهار النتائج لكافة الأنشطة**.
 
@@ -39,4 +39,4 @@ ms.locfileid: "43716447"
 
 - **معرف المستخدم:** المستخدم الذي قام بتكوين إعادة توجيه البريد الإلكتروني على علبة البريد في حقل **ObjectId.**
 
-لمزيد من المعلومات، راجع [تحديد من قام بإعداد إعادة توجيه البريد الإلكتروني لعلبة بريد](https://docs.microsoft.com/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-who-set-up-email-forwarding-for-a-mailbox).
+لمزيد من المعلومات، راجع [تحديد من قام بإعداد إعادة توجيه البريد الإلكتروني لعلبة بريد](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#determine-who-set-up-email-forwarding-for-a-mailbox).

@@ -12,12 +12,12 @@ ms.custom:
 - "531"
 - "1400007"
 ms.assetid: c45da4c9-ba12-4ceb-8eda-94331a6a97e4
-ms.openlocfilehash: 4fc934fcf9c1af0cd68aa20d5dc31d3d82264965
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: eae0ffdadf9f43b70c35992a03fce764b9299300
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063532"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509191"
 ---
 # <a name="how-to-make-a-microsoft-365-purchase"></a>كيفية إجراء عملية شراء Microsoft 365
 
@@ -27,7 +27,7 @@ ms.locfileid: "44063532"
 
 - لشراء تراخيص إضافية، انتقل إلى صفحة **الفوترة** \> **[لمنتجاتك.](https://go.microsoft.com/fwlink/p/?linkid=842054)** اختر الاشتراك الذي تريد إضافة تراخيص إليه، ثم حدد **إضافة/إزالة التراخيص**.
   
-لمعرفة المزيد، راجع [شراء تراخيص Microsoft 365 للاشتراك في الأعمال.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/buy-licenses)
+لمعرفة المزيد، راجع [شراء تراخيص Microsoft 365 للاشتراك في الأعمال.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
 **استكشاف الأخطاء وإصلاحها**
 
@@ -35,6 +35,6 @@ ms.locfileid: "44063532"
 
 **موارد إضافية**
   
-- [تعيين تراخيص للمستخدمين في Microsoft 365 للأعمال](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [تعيين تراخيص للمستخدمين في Microsoft 365 للأعمال](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
 
-- [إلغاء Microsoft 365 للأعمال](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription)
+- [إلغاء Microsoft 365 للأعمال](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
