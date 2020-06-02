@@ -1,5 +1,5 @@
 ---
-title: استكشاف أخطاء مشاكل المزامنة OneNote
+title: استكشاف مشكلات مزامنة OneNote وإصلاحها
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,26 +12,26 @@ ms.custom:
 - "9000555"
 - "2405"
 ms.openlocfilehash: 970fe688becc30ea1eb644793388a316d1878f30
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36559396"
 ---
-# <a name="troubleshoot-onenote-sync-issues"></a>استكشاف مشاكل المزامنة OneNote
+# <a name="troubleshoot-onenote-sync-issues"></a>استكشاف مشكلات مزامنة OneNote وإصلاحها
 
-* لمعالجة أكثر شيوعاً قضايا تتصل بمزامنة OneNote، الرجاء استخدام الخطوات في [إصلاح المشاكل عندما يتعذر مزامنة OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).
+* لمعالجة المشكلات الأكثر شيوعًا المتعلقة بمزامنة OneNote، يُرجى استخدام الخطوات في [مشكلات الإصلاح عندما لا يمكنك مزامنة OneNote](https://support.office.com/article/Fix-issues-when-you-can-t-sync-OneNote-299495ef-66d1-448f-90c1-b785a6968d45).
 
-إذا تم تخزين دفتر الملاحظات الذي لا يقوم بمزامنة على أندريف أو الإصدارات الأحدث من SharePoint، حاول فتح دفتر الملاحظات في OneNote للويب (www.onenote.com). هذا يساعد في تحديد إذا كان المشكلة بالخادم أو بواسطة OneNote.
+إذا تم تخزين دفتر الملاحظات الذي لن تتم مزامنته على OneDrive أو على إصدارات أحدث من SharePoint، فجرّب فتح دفتر الملاحظات في OneNote للويب (عند www.onenote.com). يمكن أن يساعد هذا في تحديد ما إذا كانت المشكلة ناتجة عن الملقم أو بواسطة OneNote.
 
-1. في OneNote، انقر فوق **ملف** > **المعلومات**.
+1. في OneNote، انقر فوق **معلومات الملف**  >  **Info**.
 
-2. انقر نقراً مزدوجاً فوق العنوان المبين أدناه اسم دفتر الملاحظات المتأثرة، وانقر فوق **نسخ**.
+2. انقر بزر الماوس الأيمن على عنوان URL المبين أسفل اسم دفتر الملاحظات المتأثر، وانقر فوق **نسخ**.
 
-3. في مستعرض ويب، انقر فوق مربع العنوان ومن ثم اضغط **Ctrl + V** للصق عنوان URL المنسوخ.
+3. في مستعرض ويب، انقر فوق مربع العنوان، ثم اضغط **على Ctrl + V** للصق عنوان URL المنسوخ.
 
-4. اضغط **Enter** ثم تحميل دفتر الملاحظات في OneNote للويب.
+4. اضغط **على إدخال** لتحميل ثم دفتر الملاحظات في OneNote للويب.
 
-إذا كنت غير قادر على فتح دفتر الملاحظات في OneNote لصفحة ويب وتظهر التغييرات، فقد يكون سبب المشكلة بإصدار OneNote سطح المكتب. إغلاق وإعادة فتح دفتر الملاحظات عادة مسح ونجاح إعادة تعيين الاتصال.
+إذا لم تتمكن من فتح دفتر الملاحظات في OneNote للويب وظهرت التغييرات، فقد تكون المشكلة ناتجة عن إصدار سطح المكتب من OneNote. عادةً ما يؤدي إغلاق دفتر الملاحظات وإعادة فتحه إلى مسح الاتصال وإعادة تعيينه بنجاح.
 
-* نوصي باتباع الخطوات الموجودة في [تحديث تثبيت Office](https://support.office.com/article/Install-Office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5) تثبيت آخر التحديثات OneNote على الكمبيوتر الخاص بك. إذا كنت في نظام التشغيل Mac، اتبع الخطوات الموجودة في [البحث عن Macلنظام التشغيل Office التحديثات تلقائياً](https://support.office.com/article/update-office-for-mac-automatically-bfd1e497-c24d-4754-92ab-910a4074d7c1).
+* نوصي باتباع الخطوات في [تثبيت تحديثات Office](https://support.office.com/article/Install-Office-updates-2ab296f3-7f03-43a2-8e50-46de917611c5) لتثبيت آخر تحديثات OneNote على جهاز الكمبيوتر الخاص بك. إذا كنت على جهاز Mac، فاتبع الخطوات في [التحقق من تحديثات Office for Mac تلقائيًا](https://support.office.com/article/update-office-for-mac-automatically-bfd1e497-c24d-4754-92ab-910a4074d7c1).
