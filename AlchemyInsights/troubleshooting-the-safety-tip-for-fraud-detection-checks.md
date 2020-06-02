@@ -13,12 +13,12 @@ ms.assetid: 96ebe3c5-66ea-4662-98b7-052c2181c2f3
 ms.custom:
 - "275"
 - "3100004"
-ms.openlocfilehash: 61159391f7a9876750cd7fefc40c54054fb9bec9
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 74913492a086de688067d588e95dd87e6946743b
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43759499"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44504970"
 ---
 # <a name="troubleshooting-the-safety-tip-for-fraud-detection-checks"></a>استكشاف أخطاء معلومات الأمان للتحقق من اكتشاف الاحتيال
 
@@ -28,6 +28,6 @@ ms.locfileid: "43759499"
   
 فيما يلي بعض الروابط الأخرى التي يمكن أن تساعد:
   
-- [كيف تستخدم Microsoft إطار نهج المرسل (SPF) لمنع الانتحال](https://docs.microsoft.com/office365/SecurityCompliance/how-office-365-uses-spf-to-prevent-spoofing)
+- [كيف تستخدم Microsoft إطار نهج المرسل (SPF) لمنع الانتحال](https://docs.microsoft.com/microsoft-365/security/office-365-security/how-office-365-uses-spf-to-prevent-spoofing)
 
-- [إعداد SPF للمساعدة في منع الانتحال](https://docs.microsoft.com/office365/SecurityCompliance/set-up-spf-in-office-365-to-help-prevent-spoofing)
+- [إعداد SPF للمساعدة في منع الانتحال](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing)

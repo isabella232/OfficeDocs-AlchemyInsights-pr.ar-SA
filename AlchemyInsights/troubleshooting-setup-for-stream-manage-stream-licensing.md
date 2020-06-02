@@ -1,5 +1,5 @@
 ---
-title: استكشاف أخطاء الاعداد ل دفق-أداره ترخيص الدفق
+title: استكشاف الأخطاء وإصلاحها الإعداد للدفق - إدارة ترخيص الدفق
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1339"
 - "2800001"
-ms.openlocfilehash: 9ec942641f04c1649aa3e6ba1e4485f4e4f95d4d
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 8477d8e474c6e15efdfd49313406e105e7b9f8d8
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36742612"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505006"
 ---
-# <a name="managing-microsoft-stream-licenses"></a>أداره تراخيص دفق Microsoft
+# <a name="managing-microsoft-stream-licenses"></a>إدارة تراخيص Microsoft Stream
 
-**مهم:** يجب ان تكون في دور "مسؤول المستاجر" لتنفيذ العمليات الموصوفة في هذا الموضوع.
+**هام:** يجب أن تكون في دور "مسؤول المستأجر" لتنفيذ العمليات الموضحة في هذا الموضوع.
 
-تحتاج إلى ان تكون اما مسؤول عمومي أو مسؤول أداره المستخدم. لمزيد من المعلومات ، راجع [حول ادوار المسؤول](https://docs.microsoft.com/office365/admin/add-users/about-admin-roles).
+يجب أن تكون إما مسؤول ًا عموميًا أو مسؤولًا عن إدارة المستخدم. لمزيد من المعلومات، راجع [حول أدوار المسؤول](https://docs.microsoft.com/microsoft-365/admin/add-users/about-admin-roles).
 
-يمكنك تعيين [التراخيص لحسابات المستخدمين باستخدام Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).
+يمكنك تعيين [تراخيص لحسابات المستخدمين باستخدام Office 365 PowerShell](https://go.microsoft.com/fwlink/p/?linkid=850410).

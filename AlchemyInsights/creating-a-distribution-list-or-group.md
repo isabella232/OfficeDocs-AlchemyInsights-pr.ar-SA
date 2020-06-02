@@ -12,15 +12,15 @@ ms.custom:
 - "711"
 - "3"
 ms.assetid: fcb272e6-1a2e-4299-be0d-55934e72bc51
-ms.openlocfilehash: a7a895df16fe5c8121ae2919c71e1fdd11898771
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 1a3b7ce9d59496475156799f8d536659700c2992
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43908619"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505818"
 ---
 # <a name="create-distribution-groups"></a>إنشاء مجموعات التوزيع
 
-يمكنك استخدام مجموعات التوزيع (المعروفة أيضًا باسم قوائم التوزيع) لتسليم رسائل البريد الإلكتروني لمجموعات من الأشخاص داخل مؤسستك وخارجها. خلقها أمر سهل! للحصول على إرشادات، راجع [إنشاء قوائم توزيع في مركز إدارة Microsoft 365](https://docs.microsoft.com/office365/admin/setup/create-distribution-lists).
+يمكنك استخدام مجموعات التوزيع (المعروفة أيضًا باسم قوائم التوزيع) لتسليم رسائل البريد الإلكتروني لمجموعات من الأشخاص داخل مؤسستك وخارجها. خلقها أمر سهل! للحصول على إرشادات، راجع [إنشاء قوائم توزيع في مركز إدارة Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/create-distribution-lists).
 
 **ملاحظة:** يحتاج المسؤول إلى إدارة عضوية مجموعة توزيع. إذا كنت تريد من المستخدمين إدارة قوائم عضوية المجموعة الخاصة بهم، فقد تحتاج إلى مراعاة [مجموعات Microsoft 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) بدلاً من ذلك.

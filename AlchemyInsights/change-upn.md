@@ -11,18 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f61d1335-2b63-4eaf-91f6-3a773c0fd610
-ms.openlocfilehash: 4ea3c9e8cd2e90aa8dc5a3ec00b19245627398c3
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1bc503732b8aba2b509dc48e97434c2d4bc55c65
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706344"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505998"
 ---
 # <a name="change-a-users-email-address"></a>تغيير عنوان البريد الإلكتروني للمستخدم
 
 تغيير عنوان البريد الإلكتروني لشخص ما أمر سهل! ما عليك سوى اتباع الخطوات التالية:
   
-1. في مركز إدارة Microsoft 365، انتقل إلى صفحة [المستخدمين،](https://go.microsoft.com/fwlink/p/?linkid=834822) أو اختر **المستخدمين** \> **النشطين**.
+1. في مركز إدارة Microsoft 365، انتقل إلى صفحة [المستخدمين،](https://go.microsoft.com/fwlink/p/?linkid=834822) أو اختر **Users** \> **المستخدمين النشطين**.
     
 2. حدد المستخدم.
     
@@ -38,6 +38,6 @@ ms.locfileid: "43706344"
     
 6. اختر **حفظ**، ثم **إغلاق**، والانتهاء من ذلك!
     
-ألم يكن ذلك سهلاً؟ لمزيد من التفاصيل والخطوات مع لقطات الشاشة، راجع هذه المقالة: [تغيير اسم المستخدم وعنوان البريد الإلكتروني](https://docs.microsoft.com/office365/admin/add-users/change-a-user-name-and-email-address)
+ألم يكن ذلك سهلاً؟ لمزيد من التفاصيل والخطوات مع لقطات الشاشة، راجع هذه المقالة: [تغيير اسم المستخدم وعنوان البريد الإلكتروني](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address)
   
 

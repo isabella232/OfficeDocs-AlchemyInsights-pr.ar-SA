@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000175"
 - "1714"
-ms.openlocfilehash: f59aad4f971de7de55cc4a160c18b552527cd393
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 53d515fe30d9a34b350ee7f767acd83a45501779
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43706670"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44506034"
 ---
 # <a name="change-organization-profile"></a>تغيير ملف تعريف المؤسسة
 
-تغيير اسم الشركة والعنوان ومعلومات الاتصال الفنية والمزيد في مركز المسؤول في صفحة[ملف تعريف مؤسسة](https://go.microsoft.com/fwlink/p/?linkid=2067339) **الإعدادات.** > 
+تغيير اسم الشركة والعنوان ومعلومات الاتصال الفنية والمزيد في مركز المسؤول في صفحة ملف تعريف مؤسسة **الإعدادات.**  >  [Organization profile](https://go.microsoft.com/fwlink/p/?linkid=2067339)
 
 تأكد من ملء جميع الحقول المطلوبة التي تم وضع علامة عليها * لتمكين حفظ التغييرات.
 
-[الاطلاع على مزيد من المعلومات حول تغيير عنوان الفواتير أو العنوان](https://docs.microsoft.com/office365/admin/manage/change-address-contact-and-more).
+[الاطلاع على مزيد من المعلومات حول تغيير عنوان الفواتير أو العنوان](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more).

@@ -9,18 +9,18 @@ ms.prod: office-online-server
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c060815d-1d3f-4a13-81c2-0377bbeda202
-ms.openlocfilehash: 9a6e59f5798130856ba3d82e8d233c2c79e462a7
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: a8aba717c826a929eda4977ad279ce7f1ac4ce70
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911531"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505674"
 ---
 # <a name="delete-a-site-from-the-new-sharepoint-admin-center"></a>حذف موقع من مركز مسؤول SharePoint الجديد
 
 باستخدام مركز إدارة SharePoint الجديد، يمكنك حذف كل من المواقع الكلاسيكية والحديثة. حدد **المواقع النشطة،** وحدد الموقع، ثم حدد **حذف**. [لعرض واستعادة المواقع المحذوفة في مركز مسؤول SharePoint الجديد،](https://docs.microsoft.com/sharepoint/view-and-restore-deleted-sites-in-new-admin-center)حدد **المواقع المحذوفة**. لمزيد من المعلومات، راجع [حذف موقع في مركز مسؤول SharePoint الجديد](https://docs.microsoft.com/sharepoint/delete-site-collection#delete-a-site-in-the-new-sharepoint-admin-center).
 
-**هام:** إذا كان الموقع جزءًا من نهج الاحتفاظ، فقد لا تتمكن من حذفه حتى تتم إزالة الموقع من [نهج مركز إدارة توافق الأمان &amp; ](https://protection.office.com/?rfr=AdminCenter#/homepage). راجع [نظرة عامة على سياسات الاحتفاظ](https://docs.microsoft.com/office365/securitycompliance/retention-policies#content-in-onedrive-accounts-and-sharepoint-sites) لمزيد من المعلومات. 
+**هام:** إذا كان الموقع جزءًا من نهج الاحتفاظ، فقد لا تتمكن من حذفه حتى تتم إزالة الموقع من [نهج مركز إدارة توافق &amp; الأمان](https://protection.office.com/?rfr=AdminCenter#/homepage). راجع [نظرة عامة على سياسات الاحتفاظ](https://docs.microsoft.com/microsoft-365/compliance/retention-policies) لمزيد من المعلومات. 
 
 نصائح:
 - يمكن لمسؤولي SharePoint الآن حذف المواقع التي تنتمي إلى **مجموعات Microsoft 365**. سيؤدي ذلك إلى حذف المجموعة وكافة مواردها، بما في ذلك علبة بريد Outlook والتقويم وأية قنوات "فرق". لمزيد من المعلومات، راجع [حذف موقع SharePoint](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
