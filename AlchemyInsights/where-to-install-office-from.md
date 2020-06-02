@@ -11,16 +11,16 @@ ms.custom:
 - "913"
 - "2000023"
 ms.assetid: caf090c7-4270-4a75-a873-cb8d094dcd82
-ms.openlocfilehash: f525cd085d3691c100df6ed6c3c1a06685fcc6b9
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 71f6df27d6cecc08286562b14e4e219b99df289d
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765148"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509515"
 ---
 # <a name="install-office"></a>تثبيت Office
 
-لتثبيت Office، يجب أن يكون لدى المستخدمين [Microsoft 365 لمنتج الأعمال](https://support.office.com/article/f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=Alchemy_ClientDIA) الذي يتضمن تطبيقات سطح المكتب [وترخيص معين](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users).
+لتثبيت Office، يجب أن يكون لدى المستخدمين [Microsoft 365 لمنتج الأعمال](https://support.office.com/article/f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=Alchemy_ClientDIA) الذي يتضمن تطبيقات سطح المكتب [وترخيص معين](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
   
 يمكن بعد ذلك تثبيت Office باتباع الخطوات التالية:
   

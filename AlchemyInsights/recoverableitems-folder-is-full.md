@@ -12,12 +12,12 @@ ms.custom:
 - "1336"
 - "3700003"
 ms.assetid: a3a923e8-fece-4a26-b8b6-00970d75275e
-ms.openlocfilehash: fb10b792981040bdcf4661b8aff30733c2438212
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4f0cba480fcc05114abd8f370b84e9a37e5f2804
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720239"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510739"
 ---
 # <a name="the-recoverable-items-folder-is-full"></a>مجلد العناصر القابلة للاسترداد ممتلئ
 
@@ -33,12 +33,12 @@ ms.locfileid: "43720239"
 
 - بالنسبة لصناديق البريد التي تم تمكين تسجيل تدقيق علبة البريد، لا يمكن حفظ إدخالات سجل تدقيق علبة البريد في المجلد الفرعي للتدقيقات في مجلد العناصر القابلة للاسترداد.
 
-بالنسبة لصناديق البريد غير المعلّقة، `Search-Mailbox -SearchDumpsterOnly -DeleteContent` يمكن للمسؤولين استخدام الأمر في Exchange Online PowerShell لحذف العناصر الموجودة في مجلد العناصر القابلة للاسترداد. لمزيد من المعلومات، راجع المواضيع التالية:
+بالنسبة لصناديق البريد غير المعلّقة، يمكن للمسؤولين استخدام `Search-Mailbox -SearchDumpsterOnly -DeleteContent` الأمر في Exchange Online PowerShell لحذف العناصر الموجودة في مجلد العناصر القابلة للاسترداد. لمزيد من المعلومات، راجع المواضيع التالية:
 
-- [البحث عن الرسائل وحذفها](https://docs.microsoft.com/office365/securitycompliance/search-for-and-delete-messagesadmin-help)
+- [البحث عن الرسائل وحذفها](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messagesadmin-help)
 
 - [البحث - علبة البريد](https://docs.microsoft.com/powershell/module/exchange/mailboxes/Search-Mailbox)
 
-بالنسبة لصناديق البريد التي هي في الانتظار، يجب على المسؤولين إزالة الانتظار قبل أن يتمكنوا من حذف العناصر من مجلد العناصر القابلة للاسترداد. لمزيد من المعلومات، راجع [حذف العناصر الموجودة في مجلد العناصر القابلة للاسترداد لصناديق البريد المستندة إلى مجموعة النظراء الموجودة في الانتظار](https://docs.microsoft.com/office365/securitycompliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
+بالنسبة لصناديق البريد التي هي في الانتظار، يجب على المسؤولين إزالة الانتظار قبل أن يتمكنوا من حذف العناصر من مجلد العناصر القابلة للاسترداد. لمزيد من المعلومات، راجع [حذف العناصر الموجودة في مجلد العناصر القابلة للاسترداد لصناديق البريد المستندة إلى مجموعة النظراء الموجودة في الانتظار](https://docs.microsoft.com/microsoft-365/compliance/delete-items-in-the-recoverable-items-folder-of-mailboxes-on-hold).
 
-للمساعدة في منع مجلد العناصر القابلة للاسترداد من أن يصبح ممتلئًا، يمكن للمسؤولين زيادة حد التخزين لمجلد العناصر القابلة للاسترداد لصناديق البريد قيد الانتظار وإعداد نهج الاحتفاظ بعلبة البريد الذي ينقل العناصر من مجلد العناصر القابلة للاسترداد إلى صندوق بريد أرشيف المستخدم. راجع [زيادة حصة العناصر القابلة للاسترداد لصناديق البريد في الانتظار](https://docs.microsoft.com/office365/securitycompliance/increase-the-recoverable-quota-for-mailboxes-on-hold).
+للمساعدة في منع مجلد العناصر القابلة للاسترداد من أن يصبح ممتلئًا، يمكن للمسؤولين زيادة حد التخزين لمجلد العناصر القابلة للاسترداد لصناديق البريد قيد الانتظار وإعداد نهج الاحتفاظ بعلبة البريد الذي ينقل العناصر من مجلد العناصر القابلة للاسترداد إلى صندوق بريد أرشيف المستخدم. راجع [زيادة حصة العناصر القابلة للاسترداد لصناديق البريد في الانتظار](https://docs.microsoft.com/microsoft-365/compliance/increase-the-recoverable-quota-for-mailboxes-on-hold).

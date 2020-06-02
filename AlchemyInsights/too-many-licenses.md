@@ -13,12 +13,12 @@ ms.custom:
 - "540"
 - "1500027"
 ms.assetid: 73aa19fa-9334-4499-be2c-b6f9fe7b7b2b
-ms.openlocfilehash: 3ba7f9a7e18951454cfea3d65915b4862d697753
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 0dd3817c829252571ea8ad8354a451a0bb43deb6
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063964"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510451"
 ---
 # <a name="too-many-licenses"></a>الكثير من التراخيص؟
 
@@ -32,4 +32,4 @@ ms.locfileid: "44063964"
 
 3. في مربع **إجمالي التراخيص،** أدخل العدد الإجمالي للتراخيص التي تحتاجها لهذا الاشتراك، ثم حدد **إرسال التغيير**. على سبيل المثال، إذا كان لديك 110 تراخيص وتريد إزالة 5 منها، أدخل 105.
 
-لمعرفة المزيد، راجع [إزالة التراخيص من Microsoft 365 للاشتراك في الأعمال.](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/remove-licenses-from-subscription)
+لمعرفة المزيد، راجع [إزالة التراخيص من Microsoft 365 للاشتراك في الأعمال.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)

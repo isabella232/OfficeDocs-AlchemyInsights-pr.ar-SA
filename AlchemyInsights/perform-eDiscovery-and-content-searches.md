@@ -13,12 +13,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 42b80a798ca05831a3cdfa15130ab2751bc1d152
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: 76e14abce4e493cec4869279ff9a8d2ce4debf0f
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911818"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510163"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>كيفية إجراء عمليات البحث عن المحتوى وعمليات البحث eDiscovery
 
@@ -32,6 +32,6 @@ ms.locfileid: "43911818"
 4. أدخل شروط البحث المطلوبة بما في ذلك الكلمات الرئيسية ومواقع المحتوى.  
 5. انقر فوق **حفظ & تشغيل** لتسمية البحث، وبدء تشغيله، ثم معاينة النتائج.
 
-للحصول على إرشادات تفصيلية حول عمليات البحث عن المحتوى وتصدير النتائج وإنشاء حالات eDiscovery للاحتفاظ بالبيانات، راجع [حالات البحث عن المحتوى](https://docs.microsoft.com/office365/securitycompliance/content-search) [وeDiscovery](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases).
+للحصول على إرشادات تفصيلية حول عمليات البحث عن المحتوى وتصدير النتائج وإنشاء حالات eDiscovery للاحتفاظ بالبيانات، راجع [حالات البحث عن المحتوى](https://docs.microsoft.com/microsoft-365/compliance/content-search) [وeDiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases).
 
-فهم المزيد عن بحث المحتوى من خلال مراجعة [المتطلبات والحدود](https://docs.microsoft.com/office365/securitycompliance/limits-for-content-search) [والتحقيق في العناصر المفهرسة جزئيًا](https://docs.microsoft.com/office365/securitycompliance/investigating-partially-indexed-items-in-ediscovery) والنتائج الأخرى لتكون على علم بها.
+فهم المزيد عن بحث المحتوى من خلال مراجعة [المتطلبات والحدود](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search) [والتحقيق في العناصر المفهرسة جزئيًا](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery) والنتائج الأخرى لتكون على علم بها.

@@ -7,12 +7,12 @@ ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1afe2f6d-bf4f-4fe7-87c6-25fd86bd89a5
-ms.openlocfilehash: a8c5dd6e75c35be185cea1bf3ffb733b5f5b61d2
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 8748aaa6e41a138dc8dd9121de92c4097edc5556
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761410"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44510883"
 ---
 # <a name="onedrive-missing-files-or-folders"></a>OneDrive: الملفات أو المجلدات المفقودة
 
@@ -29,7 +29,7 @@ ms.locfileid: "43761410"
 
 **استخدم تسجيل التدقيق أو جزء نشاط الملف للتحقق من محفوظات الملف**.
 
-تحقق من [تقارير التدقيق](https://docs.microsoft.com/office365/securitycompliance/search-the-audit-log-in-security-and-compliance) عن طريق التنقل [هنا](https://sip.protection.office.com/).
+تحقق من [تقارير التدقيق](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance) عن طريق التنقل [هنا](https://sip.protection.office.com/).
 
 
 استخدم [جزء نشاط الملف](https://support.office.com/article/File-activity-in-a-document-library-6105ecda-1dd0-4f6f-9542-102bf5c0ffe0) للتحقق من محفوظات الملف.
