@@ -10,12 +10,12 @@ ms.assetid: db38c1dd-e61b-48cd-8f52-40add3dc5632
 ms.custom:
 - "66"
 - "4000001"
-ms.openlocfilehash: 9f72e8d263c0cef611e2fe19964141d68633e8a3
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
-ms.translationtype: HT
+ms.openlocfilehash: 320879e2654062e66e44481946869350bc6454eb
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765832"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509479"
 ---
 # <a name="issue-with-skype-for-business"></a>هل تواجه مشكلة في استخدام Skype for Business ؟
 
@@ -23,7 +23,7 @@ ms.locfileid: "43765832"
   
 {HealthCheckString}
   
-لم يتم تكوين سجلات NS أو CNAME أو SRV الخاصة بإعدادات المجال (DNS) بشكل صحيح لـ Skype for Business. يمكنك الرجوع إلى [إنشاء سجلات DNS على أي موفر استضافة DNS](https://docs.microsoft.com/office365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) للحصول على إرشادات مفصلة.
+لم يتم تكوين سجلات NS أو CNAME أو SRV الخاصة بإعدادات المجال (DNS) بشكل صحيح لـ Skype for Business. يمكنك الرجوع إلى [إنشاء سجلات DNS على أي موفر استضافة DNS](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) للحصول على إرشادات مفصلة.
   
 لإصلاح ذلك، الرجاء الانتقال إلى صفحة [المجالات](https://admin.microsoft.com/adminportal/home#/Domains) في مركز مسؤولي Microsoft 365، وسوف نقدم لك المساعدة في ذلك.
   

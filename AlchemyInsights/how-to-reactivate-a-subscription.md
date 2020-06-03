@@ -13,18 +13,18 @@ ms.custom:
 - "441"
 - "1500017"
 ms.assetid: 7dc125f8-491d-4bc2-a2f2-b73c7bda3035
-ms.openlocfilehash: 3754bc626264cf8eefe116bccaa0fac60384f55d
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 10a38f9234d969e8729211b56cd7d3a90bf05de3
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43763492"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44509119"
 ---
 # <a name="how-to-reactivate-a-subscription"></a>كيفية إعادة تنشيط اشتراك
 
 إذا انتهت صلاحية اشتراكك أو تم إلغاؤه أو تعطيله بواسطة Microsoft، يمكنك إعادة تنشيطه في مركز مسؤولي Microsoft 365.
   
-1. في مركز الإدارة، انتقل إلى صفحة **الفوترة** \> [المنتجات والخدمات](https://go.microsoft.com/fwlink/p/?linkid=842054).
+1. في مركز المشرف، انتقل إلى صفحة **الفوترة** \> **[لمنتجاتك.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. ابحث عن الاشتراك الذي تريد إعادة تنشيطه. في قسم **الفوترة**، اختر **إعادة تنشيط**.
 
@@ -32,4 +32,4 @@ ms.locfileid: "43763492"
 
 3. قم بتأكيد تفاصيل الدفع. يمكنك تحديث معلومات الدفع الحالية هنا. عند الانتهاء من إدخال طريقة الدفع، اختر **إعادة تنشيط**.
 
-للتعرّف على المزيد، اطلع على [إعادة تنشيط الاشتراك](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/reactivate-your-subscription).
+للتعرّف على المزيد، اطلع على [إعادة تنشيط الاشتراك](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

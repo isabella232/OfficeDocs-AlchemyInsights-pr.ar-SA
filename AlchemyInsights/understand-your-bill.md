@@ -12,12 +12,12 @@ ms.custom:
 - "1500005"
 - "4728"
 - "4727"
-ms.openlocfilehash: a8b1c378856adaa13bcd33d8bc185a093f990e2f
-ms.sourcegitcommit: 73be3a06e159a56595cdeb5ef095aa9d9b16073b
-ms.translationtype: HT
+ms.openlocfilehash: 53e92b44277d239c927d13e63a6437c4ec9d0996
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43158387"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44512361"
 ---
 # <a name="understand-your-bill"></a>فهم فاتورتك
 
@@ -27,7 +27,7 @@ ms.locfileid: "43158387"
 
 2. حدد نطاق التاريخ من القائمة المنسدلة ثم اختر الطلب المراد مراجعته أو انقر فوق ارتباط **تنزيل الفاتورة بتنسيق pdf** لعرض نسخة من الفاتورة.
 
-للحصول على مزيد من التفاصيل، اطلع على [عرض فاتورتك](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/view-your-bill-or-invoice).
+للحصول على مزيد من التفاصيل، اطلع على [عرض فاتورتك](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice).
 
 **فهم فاتورتك**
 

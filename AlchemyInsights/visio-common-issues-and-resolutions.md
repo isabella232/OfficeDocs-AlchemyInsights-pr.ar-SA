@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002484"
 - "4825"
-ms.openlocfilehash: 433aa9606347be69a070077d376771396fb12f30
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 2310ae0d9b719830fc9d0e937909ff988eb9f2bd
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722519"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505186"
 ---
 # <a name="visio-common-issues-and-resolutions"></a>مشاكل Teams الشائعة وحلولها
 
@@ -24,13 +24,13 @@ ms.locfileid: "43722519"
 
 **خيارات Visio Online**
 
-- يتم بيع Visio في صورة [تطبيق مستقل](https://products.office.com/visio/flowchart-software). يمكن للمسؤولين شراء [اشتراك Visio](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription) من مركز مسؤولي Microsoft 365.
+- يتم بيع Visio في صورة [تطبيق مستقل](https://products.office.com/visio/flowchart-software). يمكن للمسؤولين شراء [اشتراك Visio](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription) من مركز إدارة Microsoft 365.
 
 - يوفر Visio [خطط اشتراكات مختلفة](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options). في حالة افتقاد أي ميزة في Visio اطلع على [مقارنة خيارات Visio](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options) للتعرّف على المزيد حول الاختلافات بين الخطة 1 والخطة 2.  لاحظ أن خطة Visio Online 1 لا تتضمن إصداراً لسطح المكتب من Visio.
 
 **تنزيل Visio وتثبيته وتنشيطه**
 
-- لتثبيت تطبيق Visio لسطح المكتب وتنشيطه باستخدام خطة Visio Online 2، يجب أن يتم تعيين [ترخيص Visio](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) لمستخدم أولاً.
+- لتثبيت تطبيق Visio لسطح المكتب وتنشيطه باستخدام خطة Visio Online 2، يجب أن يتم تعيين [ترخيص Visio](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) لمستخدم أولاً.
 
 - تثبيت Visio من المدخل "حسابي" إذا لم يكن مثبتاً بالفعل. للحصول على المساعدة، راجع [تثبيت Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710).
 
@@ -40,7 +40,7 @@ ms.locfileid: "43722519"
 
 **Visio على جهاز Mac**
 
-لا يتوفر تطبيق Visio لسطح المكتب لأجهزة Mac. وعلي الرغم من ذلك، يستطيع المستخدمون الذين لديهم [ترخيص Visio Online](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/assign-licenses-to-users) صالح [عرض الرسوم التخطيطية وإنشائها وتحريرها](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc) في Visio Online في مستعرض ويب.
+لا يتوفر تطبيق Visio لسطح المكتب لأجهزة Mac. وعلي الرغم من ذلك، يستطيع المستخدمون الذين لديهم [ترخيص Visio Online](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) صالح [عرض الرسوم التخطيطية وإنشائها وتحريرها](https://support.office.com/article/06f04845-91b8-4e8f-881f-a43c970735fc) في Visio Online في مستعرض ويب.
 
 **الرسوم التخطيطية والقوالب والأشكال والموصلات**
 

@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: ead72a182c65999258ac628b92d14a958c849bc4
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
-ms.translationtype: HT
+ms.openlocfilehash: 28b8c977979c9174fc5fabd7a5c7376bb2109c03
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43182252"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505078"
 ---
 # <a name="office-apps-message---couldnt-find-office-licenses-associated"></a>رسالة تطبيقات Office- تعذر العثور علي تراخيص Office ذات الصلة
 
 لإصلاح هذا الخطأ، حاول القيام بالخطوات التالية:
 
-- إزالة [ترخيص Office](https://docs.microsoft.com/office365/admin/manage/assign-licenses-to-users?view=o365-worldwide) وإعادة تعيينها للمستخدم المتأثر.
+- إزالة [ترخيص Office](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) وإعادة تعيينها للمستخدم المتأثر.
 
 - فتح أحد تطبيقات Office، و[تسجيل الخروج](https://support.office.com/article/sign-out-of-office-5a20dc11-47e9-4b6f-945d-478cb6d92071)من أي حسابات مستخدم حالية.
 
@@ -44,4 +44,4 @@ ms.locfileid: "43182252"
 
 [المنتج غير المرخص وأخطاء التنشيط في Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)
 
-[نطاقات عناوين IP وعناوين URL في Office 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+[مايكروسوفت 365 عناوين URL ونطاقات عناوين بروتوكول الإنترنت](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)

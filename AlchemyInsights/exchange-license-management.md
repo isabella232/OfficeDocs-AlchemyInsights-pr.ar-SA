@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002548"
 - "5149"
-ms.openlocfilehash: 296b77e6b1596732c58e5caa21954225eb31e3ec
-ms.sourcegitcommit: 87aa36e3ff4835efb120a320c5169bfa77199ec4
-ms.translationtype: HT
+ms.openlocfilehash: f653fefccc435b80198ea6097d845549ccec56bf
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43991072"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44505602"
 ---
 # <a name="exchange-license-management"></a>إدارة تراخيص Exchange
 
@@ -27,6 +27,6 @@ ms.locfileid: "43991072"
 - لـ **تبديل الخطط**، راجع [تبديل خطط Microsoft 365 for business يدوياً](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
 - من أجل **تعيين** تراخيص Exchange، انتقل إلى **الفوترة > [التراخيص](https://go.microsoft.com/fwlink/p/?linkid=842264)**، حدد الاشتراك، وحدد المستخدمين، وانقر فوق **تعيين التراخيص**. لمعرفة المزيد من المعلومات، اطلع على [تعيين التراخيص](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
 - **لإضافة/إزالة** تراخيص Exchange، انتقل إلى **الفوترة > [المنتجات والخدمات](https://go.microsoft.com/fwlink/p/?linkid=842054)** وانقر فوق **إضافة/إزالة التراخيص**. لمعرفة المزيد من المعلومات، اطلع على [إضافة/إزالة التراخيص](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
-- من أجل **إلغاء** تراخيص Exchange، انتقل إلى **الفوترة > [المنتجات & الخدمات](https://go.microsoft.com/fwlink/p/?linkid=842054)،** وحدد **الإعدادات والإجراءات**، وانقر فوق **إلغاء الاشتراك**. للمزيد من المعلومات، راجع [إلغاء اشتراكك](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/cancel-your-subscription).
+- من أجل **إلغاء** تراخيص Exchange، انتقل إلى **الفوترة > [المنتجات & الخدمات](https://go.microsoft.com/fwlink/p/?linkid=842054)،** وحدد **الإعدادات والإجراءات**، وانقر فوق **إلغاء الاشتراك**. للمزيد من المعلومات، راجع [إلغاء اشتراكك](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
 للحصول على مزيد من المعلومات، راجع [إدارة تراخيص الاشتراكات](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
