@@ -1,5 +1,5 @@
 ---
-title: خدمة الحادث قيد التقدم
+title: حادث الخدمة قيد التقدم
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,18 +13,18 @@ ms.custom:
 - "1600011"
 - "9000287"
 ms.openlocfilehash: 56593d5cc395799f7d253553e5f806d9f9b196e3
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36666287"
 ---
-# <a name="service-incident-in-progress"></a>خدمة الحادث قيد التقدم
+# <a name="service-incident-in-progress"></a>حادث الخدمة قيد التقدم
 
-قد تتأثر بحوادث خدمة أو الاستشارية التي يجري التحقيق حاليا. يمكنك التحقق من الحالة الأخيرة بالانتقال إلى صفحة [صيانة الخدمة](https://admin.microsoft.com/adminportal/home#/servicehealth) .
+قد تتأثر بحادث خدمة أو استشاري يتم التحقيق معه حاليًا. يمكنك التحقق من أحدث حالة عن طريق الانتقال إلى صفحة [صحة الخدمة.](https://admin.microsoft.com/adminportal/home#/servicehealth)
   
-تسهيلا لعملك، يمكنك العثور على موجز لهذا الحادث أدناه:
+لراحتك، يمكنك العثور على ملخص لهذا الحادث أدناه:
   
-> **الحادث رقم:** [{إينسيدينتيد}](https://admin.microsoft.com/adminportal/home#/servicehealth)
+> **رقم الحادث:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
-> يؤثر الوصف: {إيمباكتديسكريبشن}
+> وصف التأثير: {ImpactDescription}

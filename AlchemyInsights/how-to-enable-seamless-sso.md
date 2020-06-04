@@ -13,25 +13,25 @@ ms.custom:
 - "1300012"
 ms.assetid: 80c88b2d-adb1-4e45-8eff-aaa80403b5b6
 ms.openlocfilehash: 3cf751bc42322067c4b7cd9b5facb933430f2b87
-ms.sourcegitcommit: b3e55405af384e868fcd32ea794eb15d1356c3fc
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/29/2019
+ms.lasthandoff: 06/02/2020
 ms.locfileid: "36663839"
 ---
 # <a name="how-to-enable-seamless-sso"></a>كيفية تمكين SSO السلس
 
-تمكين SSO السلس من خلال [الاتصال الإعلان Azure](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).
+تمكين SSO السلس من خلال [اتصال الإعلانية Azure](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect).
   
-إذا كنت تفعل تثبيت حديثة ل Azure الاتصال الإعلان، اختر [مسار التثبيت المخصص](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom). في صفحة **تسجيل دخول المستخدم** ، حدد الخيار **تمكين تسجيل الدخول الأحادي** .
+إذا كنت تقوم بتثبيت جديد لـ Azure AD Connect، فاختر [مسار التثبيت المخصص.](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-get-started-custom) في صفحة **تسجيل دخول المستخدم،** اختر خيار **تمكين تسجيل الدخول الفردي.**
   
 للتحقق من تمكين SSO السلس بشكل صحيح:
   
-1. تسجيل الدخول إلى [المركز الإداري Azure Active Directory](https://aad.portal.azure.com) كمسؤول. العالمية
+1. تسجيل الدخول إلى [مركز Azure Active Directory الإداري](https://aad.portal.azure.com) كمسؤول عمومي.
 
 2. حدد **Azure Active Directory** في الجزء الأيسر.
 
-3. تحقق من ذلك السلس تسجيل الدخول الأحادي **ممكن**.
+3. تحقق من **تمكين**تسجيل الدخول الفردي السلس .
 
-لمزيد من المعلومات، راجع [أزور نشط الدليل السلس تسجيل الدخول الأحادي: البدء السريع](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
+لمعرفة المزيد، راجع [Azure Active Directory السلس تسجيل الدخول الفردي: بداية سريعة](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-sso-quick-start).
   
