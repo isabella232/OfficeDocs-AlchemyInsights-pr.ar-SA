@@ -11,12 +11,12 @@ localization_priority: Normal
 ms.custom:
 - "1831"
 - "9000243"
-ms.openlocfilehash: 6f82c9fc69e8c5fcb68be53ca49e70131bf02802
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 060c4e75961e77038ae3cfc4236d075e713ed521
+ms.sourcegitcommit: cd5283431f0b4ce289427c63cd27e5b36173a9da
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43744756"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "44545757"
 ---
 # <a name="outlookcom-premium"></a>قسط Outlook.com
 
@@ -27,4 +27,4 @@ ms.locfileid: "43744756"
 **مشتركون جدد**
 
 - نحن آسفون ، ولكن Outlook.com بريميوم مغلق الآن أمام المشتركين الجدد.
-- يتم الآن تضمين العديد من [الميزات والمزايا](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2?wt.mc_id=Office_Outlook_com_Alchemy) مع [الاشتراكات في Office 365 Home و Office 365 Personal](https://go.microsoft.com/fwlink/?linkid=2017122).
+- يتم تضمين العديد من [الميزات والفوائد](https://support.office.com/article/78c6089c-7faf-44f5-82e2-efa9ebb921d2?wt.mc_id=Office_Outlook_com_Alchemy) الآن مع [الاشتراكات في Microsoft 365 Home و Microsoft 365 Personal](https://go.microsoft.com/fwlink/?linkid=2017122).
