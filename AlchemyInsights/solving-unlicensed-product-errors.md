@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3412"
 - "9001428"
-ms.openlocfilehash: b629f24014a789b1f9847f62e725f726d4199027
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 89d0e589329d40f17c36baa54868154be0f5b887
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511999"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44582726"
 ---
 # <a name="suggestions-for-solving-unlicensed-product-errors"></a>اقتراحات لحل أخطاء "المنتج غير المرخص"
 
@@ -26,7 +26,7 @@ ms.locfileid: "44511999"
 - تأكد من وجود اشتراك يسمح بتراخيص العميل، مثل Microsoft 365 Apps للأعمال أو Business Premium، [وتأكد من أن المستخدم لديه ترخيص معين](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). 
 - تأكد من أن المستخدم يقوم بتسجيل الدخول إلى Office بنفس الحساب الذي تم تعيينه للترخيص.
 - تحقق من [صفحة صحة الخدمة](https://docs.microsoft.com/office365/enterprise/view-service-health) لمعرفة ما إذا كانت هناك أية مشاكل معروفة في الخدمة.
-- تحقق من جدار الحماية وبرامج مكافحة الفيروسات وإعدادات الوكيل للتأكد من أنها لا تمنع وصول تطبيقات Office إلى الإنترنت. راجع [عناوين URL ونطاقات عناوين IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+- تحقق من جدار الحماية وبرامج مكافحة الفيروسات وإعدادات الوكيل للتأكد من أنها لا تمنع وصول تطبيقات Microsoft 365 إلى الإنترنت. راجع [عناوين URL ونطاقات عناوين IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
 يمكنك أيضًا تجربة إجراءات استكشاف الأخطاء وإصلاحها التالية: 
 
