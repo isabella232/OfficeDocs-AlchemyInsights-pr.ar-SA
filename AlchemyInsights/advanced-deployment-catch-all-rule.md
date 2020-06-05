@@ -11,16 +11,16 @@ ms.custom:
 - "871"
 - "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: 89497cbfc6c8df3c86a15734b8e044859770cc08
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: f7ec27c09add390cc75a7b4ce606b68c7d55f632
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710898"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580838"
 ---
-# <a name="deploy-office-apps"></a>نشر تطبيقات Office
+# <a name="deploy-microsoft-365-apps"></a>نشر تطبيقات Microsoft 365
 
-لنشر تطبيقات Office للعديد من المستخدمين النهائيين عبر أداة نشر Office أو Microsoft Endpoint Configuration Manager كجزء من صورة قرص نظام التشغيل أو في سيناريو كمبيوتر مشترك باستخدام Windows Server مع خدمات سطح المكتب البعيد (RDS) أو خدمات المحطة الطرفية، فكر في استخدام دليل الخطوة خطوة في **تطبيقات Microsoft 365 لمستشار نشر المؤسسة**.
+لنشر تطبيقات Microsoft 365 إلى العديد من المستخدمين النهائيين عبر أداة نشر Office أو Microsoft Endpoint Configuration Manager، كجزء من صورة قرص نظام التشغيل، أو في سيناريو كمبيوتر مشترك باستخدام Windows Server مع خدمات سطح المكتب البعيد (RDS) أو خدمات المحطة الطرفية، فكر في استخدام دليل الخطوة خطوة في **تطبيقات Microsoft 365 لمستشار نشر المؤسسة**.
   
-للبدء، تأكد من تسجيل الدخول كمسؤول مستأجر أو مشرف عمومي، ثم انقر [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance)هنا: .
+للبدء، تأكد من تسجيل الدخول كمسؤول مستأجر أو مشرف عمومي، ثم انقر هنا: [https://aka.ms/proplusguidance](https://aka.ms/proplusguidance) .
   

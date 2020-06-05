@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1778"
 - "9000181"
-ms.openlocfilehash: 1326eca02044014a8e9c072fcc3e4cd3a41c7a9f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: df64022f6ad684e2af3eac080068536b7a167b74
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511639"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581002"
 ---
 # <a name="sensitivity-labels-not-appearing"></a>تسميات الحساسية التي لا تظهر
 
 تسمح لك تسميات الحساسية بتصنيف المحتوى الحساس والمساعدة في حمايته. يمكن إنشاؤها في مركز التوافق Microsoft 365 أو مركز أمان Microsoft 365 أو مركز التوافق & أمان Microsoft 365 ضمن تصنيف > تسميات الحساسية. لمعرفة المزيد عن هذه [الميزة،](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)راجع نظرة عامة على تسميات الحساسية .
 
-إذا قمت بتكوين تسميات الحساسية الخاصة بك ولكنها لا تظهر في تطبيقات Office، فتحقق مما يلي:
+إذا قمت بتكوين تسميات الحساسية الخاصة بك ولكنها لا تظهر في تطبيقات Microsoft 365، فتحقق مما يلي:
 
 - تأكد من [نشر](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels#what-label-policies-can-do) تسمية الحساسية للمستخدمين والمجموعات التي تريدها.
 

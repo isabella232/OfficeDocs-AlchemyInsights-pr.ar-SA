@@ -11,20 +11,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3408"
 - "9001423"
-ms.openlocfilehash: 56accf68f2cf41dbe6119281b74e2cb56b702789
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b46bac60633ad9a006b9446919b8c99e221b07e4
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716159"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581862"
 ---
-# <a name="fixing-the-office-apps-we-are-unable-to-connect-right-now-message"></a>إصلاح رسالة تطبيقات Office "نحن غير قادرين على الاتصال الآن"
+# <a name="fixing-the-microsoft-365-apps-we-are-unable-to-connect-right-now-message"></a>إصلاح رسالة تطبيقات Microsoft 365 "نحن غير قادرين على الاتصال الآن"
 
 إذا تلقيت هذه الرسالة، فجرّب ما يلي:
 
-1. تحقق من جدار الحماية وبرامج مكافحة الفيروسات وإعدادات الوكيل للتأكد من أنها لا تمنع الوصول إلى الإنترنت إلى تطبيقات Office. راجع [عناوين URL لـ Microsoft ونطاقات عناوين IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. تحقق من جدار الحماية وبرامج مكافحة الفيروسات وإعدادات الوكيل للتأكد من أنها لا تمنع الوصول إلى الإنترنت إلى تطبيقات Microsoft 365. راجع [عناوين URL لـ Microsoft ونطاقات عناوين IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-2. انتقل إلى **بدء** > **تشغيل**، ثم اكتب **services.msc**. تأكد من تشغيل كافة الخدمات التالية:
+2. انتقل إلى **بدء**  >  **تشغيل**، ثم اكتب **services.msc**. تأكد من تشغيل كافة الخدمات التالية:
     - الأجهزة المتصلة بالشبكة الإعداد التلقائي
     - خدمة قائمة الشبكة
     - التوعية بموقع الشبكة

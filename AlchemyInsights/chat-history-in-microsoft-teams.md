@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2668"
 - "9000738"
-ms.openlocfilehash: 172b1a144b892a35a915502b08cea2834eb85c94
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: ab241752d969acab237779c514d89b2a0c30c222
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505962"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580572"
 ---
 # <a name="viewing-chat-history-in-microsoft-teams"></a>عرض محفوظات الدردشة في Microsoft Teams
 
-لعرض محفوظات دردشة الفرق، يمكنك استخدام [بحث المحتوى](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) من مركز التوافق [& الأمان](https://sip.protection.office.com/insightdashboard)، حيث يمكنك البحث في صندوق البريد المقترن بمجموعة Microsoft 365 أو فريق Microsoft. 
+لعرض محفوظات دردشة الفرق، يمكنك استخدام [بحث المحتوى](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) من مركز التوافق [& الأمان](https://sip.protection.office.com/insightdashboard)، حيث يمكنك البحث في علبة البريد المقترنة بمجموعة Microsoft 365 أو فريق Microsoft. 
 
 راجع [البحث عن فرق Microsoft ومجموعات Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/content-search) للتعرف على إمكانيات البحث من مركز الأمان والامتثال. 
 

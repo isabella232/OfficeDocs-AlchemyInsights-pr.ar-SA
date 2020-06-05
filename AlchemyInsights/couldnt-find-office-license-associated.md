@@ -1,5 +1,5 @@
 ---
-title: تعذر العثور على تطبيقات Office في العثور على الرسائل المرتبطة بتراخيص المكاتب
+title: تعذر العثور على تطبيقات Microsoft 365 للوصول إلى التراخيص المكتبية المرتبطة بالرسالة
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,18 +11,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3421"
 - "9001426"
-ms.openlocfilehash: 887be4bee2bd1562bdc3b29783e9deafe47d8d57
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 65ffae1a784f841cb08a5df52b02671a4526d9d4
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505854"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580428"
 ---
-# <a name="fixing-the-office-apps-couldnt-find-office-licenses-associated-message"></a>إصلاح تطبيقات Office "تعذر العثور على تراخيص Office المقترنة" الرسالة
+# <a name="fixing-the-microsoft-365-apps-couldnt-find-office-licenses-associated-message"></a>إصلاح رسالة تطبيقات Microsoft 365 "تعذر العثور على تراخيص المكاتب المرتبطة"
 
 إذا تلقيت هذه الرسالة، فجرّب ما يلي:
 
-1. تحقق من جدار الحماية وبرامج مكافحة الفيروسات وإعدادات الوكيل للتأكد من أنها لا تمنع الوصول إلى الإنترنت إلى تطبيقات Office. راجع [عناوين URL 365 Microsoft ونطاقات عناوين IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. تحقق من جدار الحماية وبرامج مكافحة الفيروسات وإعدادات الوكيل للتأكد من أنها لا تمنع الوصول إلى الإنترنت إلى تطبيقات Microsoft 365. راجع [عناوين URL 365 Microsoft ونطاقات عناوين IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 2. إزالة [ترخيص Office وإعادة تعيينه](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) للمستخدم المتأثر. 
 3. افتح تطبيق Office [وسجّل الخروج](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071) من أي حسابات مستخدمين موجودة.
 4. انتقل إلى إعدادات **Accounts**Windows >  >  **حسابات البريد الإلكتروني & الحسابات**، وإزالة كافة حسابات العمل باستثناء الحساب المتأثر.

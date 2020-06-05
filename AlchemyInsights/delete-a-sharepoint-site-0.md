@@ -11,14 +11,14 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 612410700b00f02e524ada86d505883fb0f2d0fe
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: a409a3e5916895573db73593c297ce425ab65a88
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911567"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580284"
 ---
-# <a name="delete-sites-that-belong-to-an-microsoft-365-group"></a>حذف المواقع التي تنتمي إلى مجموعة Microsoft 365
+# <a name="delete-sites-that-belong-to-a-microsoft-365-group"></a>حذف المواقع التي تنتمي إلى مجموعة Microsoft 365
 
 عندما يقوم المستخدمون بإنشاء موقع فريق جديد من SharePoint Home أو إنشاء موقع فريق جديد من مركز مسؤول SharePoint الجديد، يتم إنشاء مجموعة Microsoft 365 المقابلة تلقائيًا. كما يتم إنشاء مواقع فريق Microsoft 365 المتصلة بالمجموعة عند إنشاء مجموعة Microsoft 365 أو فريق في Microsoft Teams. لحذف موقع SharePoint ينتمي إلى مجموعة Microsoft 365، تحتاج إلى حذف مجموعة Microsoft 365 نفسها. 
   

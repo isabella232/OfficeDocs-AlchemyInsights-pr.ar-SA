@@ -1,5 +1,5 @@
 ---
-title: رسالة تطبيقات Office- تعذر العثور علي تراخيص Office ذات الصلة
+title: رسالة تطبيقات Microsoft 365 - تعذر العثور على تراخيص Office المرتبطة
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 28b8c977979c9174fc5fabd7a5c7376bb2109c03
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 08996a2e78e098fa6415d2b65dd609d0fdee5232
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505078"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581638"
 ---
-# <a name="office-apps-message---couldnt-find-office-licenses-associated"></a>رسالة تطبيقات Office- تعذر العثور علي تراخيص Office ذات الصلة
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>رسالة تطبيقات Microsoft 365 - تعذر العثور على تراخيص Office المرتبطة
 
 لإصلاح هذا الخطأ، حاول القيام بالخطوات التالية:
 
@@ -38,7 +38,7 @@ ms.locfileid: "44505078"
 
 - إعادة تعيين حالة تنشيط Office. راجع [إعادة تعيين تطبيقات Microsoft 365 لحالة تفعيل المؤسسة](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-- تحقق من جدار الحماية وإعدادات برنامج الحماية من الفيروسات وإعدادات الوكيل للتأكد من عدم حظر وصول تطبيقات Office إلى الإنترنت. 
+- تحقق من جدار الحماية وبرامج مكافحة الفيروسات وإعدادات الوكيل للتأكد من أنها لا تمنع وصول تطبيقات Microsoft 365 إلى الإنترنت. 
 
 للحصول على حلول إضافية لاستكشاف الأخطاء وإصلاحها، اطلع على:
 
