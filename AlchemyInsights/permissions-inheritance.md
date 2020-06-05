@@ -3,7 +3,7 @@ title: توريث الأذونات
 ms.author: mikeplum
 author: MikePlumleyMSFT
 manager: scotv
-ms.date: 8/7/2018
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bb5c440a-ca70-4dc6-b517-688e80551101
-ms.openlocfilehash: 6322ca12902be2612f65b6388a650300b257a95e
-ms.sourcegitcommit: 0b06093dabd685f76cc39b1d7c0f8b03883b6e79
+ms.openlocfilehash: 791085593433dcad9b800fdea8c7ea4a878604e7
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/25/2019
-ms.locfileid: "36554932"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581038"
 ---
-# <a name="how-permissions-inheritance-works-in-sharepoint"></a>كيفيه عمل توريث الأذونات في SharePoint
+# <a name="how-permissions-inheritance-works-in-sharepoint"></a>كيفية عمل توريث الأذونات في SharePoint
 
-بشكل افتراضي ، يتم توريث الأذونات في SharePoint من اعلي في التسلسل الهرمي. لذلك يرث ملف الأذونات الخاصة به من المجلد ، الذي يرث الأذونات الخاصة به من المكتبة ، التي ترث الأذونات الخاصة به من الموقع ، الذي يرث الأذونات الخاصة به من مجموعه الموقع.
+بشكل افتراضي، يتم توريث الأذونات في SharePoint من أعلى في التسلسل الهرمي. لذلك يرث ملف أذوناته من المجلد الذي يرث أذوناته من المكتبة، التي ترث أذوناتها من الموقع، الذي يرث أذوناته من مجموعة الموقع.
   
-للحصول علي معلومات حول أزاله الأذونات الفريدة واستعاده التوريث ، راجع [تحرير الأذونات وأدارتها لقائمه أو مكتبه](https://go.microsoft.com/fwlink/?linkid=869946).
+للحصول على معلومات حول إزالة أذونات فريدة واستعادة الميراث، راجع [تحرير الأذونات وإدارتها لقائمة أو مكتبة](https://go.microsoft.com/fwlink/?linkid=869946).
   
 

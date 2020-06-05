@@ -1,9 +1,9 @@
 ---
-title: إعادة توجيه Outlook.com 9000239
+title: 9000239 Outlook.com إعادة التوجيه
 ms.author: daeite
 author: daeite
 manager: joallard
-ms.date: 3/1/2019
+ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.custom:
 - "1824"
 - "9000239"
-ms.openlocfilehash: bae54d14b18f5028c2ac8c87f4b4880ea0add72b
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 076495158637543eebced2a11cfb0e8468626450
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "36536602"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581074"
 ---
 # <a name="forwarding-email-in-outlookcom"></a>إعادة توجيه البريد الإلكتروني في Outlook.com
 
 لإعادة توجيه رسالة واحدة في كل مرة:
 
-1. في قائمة الرسائل الخاصة بك، اختر الرسالة التي تريد إعادة توجيهها.
-2. في الزاوية العليا من جزء الرسالة، حدد السهم المتجه **إلى الأمام** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gEDFxMthdQ+ZQAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAArUlEQVQ4jWP8////fwYaACZaGDp4DH7//BXDT6ob/P4UQ13pUganedeJM/w/CeDHg4P/Y8P7/lvNvfb/BwG1JBlMiuEkG0ys4WQZTIzhZBtMyHCKDMZnOAssdVydNZNBZ9NnolMfBli3myFXWpphljsf6cmNFBcPvjCmSaqgSTqmSc6jTVnx4eT/nGjiDP3///9/xv//ia+a3j9/xcAlKcbAToRakgwmBdCsagIAC/hmjI0mmroAAAAASUVORK5CYII=' />
+1. في قائمة الرسائل، اختر الرسالة التي تريد إعادة توجيهها.
+2. في الزاوية العليا من جزء الرسالة، حدد السهم **إلى الأمام** <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4gEDFxMthdQ+ZQAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAArUlEQVQ4jWP8////fwYaACZaGDp4DH7//BXDT6ob/P4UQ13pUganedeJM/w/CeDHg4P/Y8P7/lvNvfb/BwG1JBlMiuEkG0ys4WQZTIzhZBtMyHCKDMZnOAssdVydNZNBZ9NnolMfBli3myFXWpphljsf6cmNFBcPvjCmSaqgSTqmSc6jTVnx4eT/nGjiDP3///9/xv//ia+a3j9/xcAlKcbAToRakgwmBdCsagIAC/hmjI0mmroAAAAASUVORK5CYII=' />
 .
-3. اكتب الرسالة، ثم حدد **إرسال**.
+3. اكتب رسالتك ثم حدد **إرسال**.
 
-إعادة توجيه كافة الرسائل تلقائياً:
+لإعادة توجيه كافة الرسائل تلقائيًا:
 
-1. فتح الخاص بك [إعدادات إعادة التوجيه](https://outlook.live.com/mail/options/mail/forwarding/forwardingOption).
-2. حدد **تمكين إعادة توجيه**، قم بإدخال إعادة توجيه عنوان البريد الإلكتروني وحدد **حفظ**.
+1. افتح [إعدادات إعادة التوجيه](https://outlook.live.com/mail/options/mail/forwarding/forwardingOption).
+2. حدد **تمكين إعادة التوجيه،** وأدخل عنوان البريد الإلكتروني إعادة التوجيه، وحدد **حفظ**.
 
-معرفة المزيد حول [إعادة التوجيه التلقائي في Outlook.com](https://support.office.com/article/6246987c-6c8f-4144-b255-14fc07007dad?wt.mc_id=Office_Outlook_com_Alchemy).
+تعرف على المزيد حول [إعادة التوجيه التلقائي في Outlook.com](https://support.office.com/article/6246987c-6c8f-4144-b255-14fc07007dad?wt.mc_id=Office_Outlook_com_Alchemy).

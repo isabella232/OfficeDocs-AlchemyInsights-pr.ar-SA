@@ -1,5 +1,5 @@
 ---
-title: المؤتمرات PSTN
+title: مؤتمرات PSTN
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,18 +12,18 @@ ms.custom:
 - "9000698"
 - "2645"
 - "2593"
-ms.openlocfilehash: 4a5f95a1f21c5c78c80088145632d37cb9acb6d5
-ms.sourcegitcommit: 4448b08828384f4a7f97bfd2621f18188c24a1cf
+ms.openlocfilehash: e7492d024667509e3766b4fd2569518d54ed5767
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/30/2019
-ms.locfileid: "37316623"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581434"
 ---
-# <a name="pstn-calling-with-skype-for-business-online"></a>استدعاء PSTN مع سكايب "الاعمال التجارية عبر الإنترنت"
+# <a name="pstn-calling-with-skype-for-business-online"></a>PSTN الاتصال مع سكايب للأعمال التجارية عبر الإنترنت
 
-لاجراء مكالمات PSTN في Office 365 ، تحتاج إلى [office 365 خطه](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) الاتصال أو اتصال مع البنية التحتية الهاتفية pstn الداخلية الخاصة بك. لمزيد من المعلومات ، راجع الموارد التالية: 
+لإجراء مكالمات PSTN في Microsoft 365، تحتاج إلى [خطة اتصال Microsoft 365](https://docs.microsoft.com/microsoftteams/what-is-phone-system-in-office-365#more-about-calling-plans) أو اتصال بالبنية التحتية الهاتفية الخاصة بك في PSTN. لمزيد من المعلومات، راجع الموارد التالية: 
 
-- [توفر البلد والمنطقة للمؤتمرات الصوتية وخطط الاتصال](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans) 
-- [الاسئله الشائعة للمؤتمرات الصوتية](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
-- [أضافه الأموال وأداره ارصده الاتصالات](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)
-- [لا يمكن للمتصلين PSTN الانضمام سكايب لاتصال الطلب الهاتفي العمل في المؤتمر](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)
+- [توافر البلد والمنطقة للمؤتمرات الصوتية وخطط الاتصال](https://docs.microsoft.com/microsoftteams/country-and-region-availability-for-audio-conferencing-and-calling-plans/country-and-region-availability-for-audio-conferencing-and-calling-plans) 
+- [أسئلة شائعة لعقد المؤتمرات الصوتية](https://docs.microsoft.com/microsoftteams/audio-conferencing-common-questions)
+- [إضافة الأموال وإدارة اعتمادات الاتصالات](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits)
+- [لا يمكن لمتصلي PSTN الانضمام إلى مكالمة هاتفية عبر الهاتف الهاتفي عبر Skype for Business](https://docs.microsoft.com/SkypeForBusiness/troubleshoot/online-conferencing/pstn-callers-cant-join-dial-in-call)
