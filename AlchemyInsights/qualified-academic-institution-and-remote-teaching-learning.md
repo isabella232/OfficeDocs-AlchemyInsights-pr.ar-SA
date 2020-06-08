@@ -10,22 +10,22 @@ ms.custom: ''
 ms.assetid:
 - "1500009"
 - "4495"
-ms.openlocfilehash: e2ca0e13aa569536d9d529aaa1eef05bb0fa49d2
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 8d1a8cf65ccbf4cb6d1549ec58593bccc31feb01
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43764679"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44062703"
 ---
 # <a name="microsoft-qualified-academic-institution-and-remote-teaching-and-learning"></a>المؤسسات الأكاديمية المؤهلة في Microsoft والتدريس والتعلم عن بعد
 
-لبدء استخدام Microsoft for Education، تفضّل بزيارة هذا [الموقع](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans) وقم بالتسجيل.
+للبدء باستخدام Office 365 للتعليم، قم بزيارة هذا [الموقع](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans) والاشتراك.
 
-سيكون لديك الإصدار التجريبي من Office 365 A1 لهيئة التدريس والإصدار التجريبي من Office 365 A1 للطلاب بينما يتم مراجعة أهلية مؤسستك.  تأكد من إضافة مجال، لأنه يساعد على تسريع وتيرة عملية الموافقة.
+سيكون لديك الإصدار التجريبي من Office 365 A1 لهيئة التدريس والإصدار التجريبي من Office 365 A1 للطلاب بينما يتم مراجعة أهلية مؤسستك. تأكد من إضافة مجال، لأنه يساعد على تسريع وتيرة عملية الموافقة.
 
 ستتلقى رسالة بريد إلكتروني تعلمك ما إذا تمت الموافقة على أهلية مؤسستك أم لا.  
 
-عندما تتم الموافقة عليك، يمكنك الانتقال إلى علامة تبويب [شراء الخدمات](https://admin.microsoft.com/Adminportal/Home#/catalog) لمركز مسؤولي Microsoft لشراء الاشتراكات.
+عند الموافقة، يمكنك الانتقال إلى علامة التبويب [خدمات الشراء](https://admin.microsoft.com/Adminportal/Home#/catalog) في مركز إدارة Microsoft 365 لشراء الاشتراكات.
 
 **التدريس والتعلم عن بعد**
 

@@ -17,12 +17,12 @@ ms.custom:
 - "5160"
 - "9002663"
 - "5168"
-ms.openlocfilehash: a0a9c43fe163fd8bbb45181394d3fcbba9d082f7
-ms.sourcegitcommit: 4df75b03f8ceac72f68f012eeb28b78d2f2616f8
-ms.translationtype: HT
+ms.openlocfilehash: 21475c335e30bcaf5b08557c793a62fbf9b5fdf3
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/01/2020
-ms.locfileid: "43957965"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44064308"
 ---
 # <a name="switch-to-a-different-microsoft-365-for-business-plan"></a>التبديل إلى خطة مختلفة من Microsoft 365 for business
 
@@ -32,4 +32,4 @@ ms.locfileid: "43957965"
 
 - في بعض الحالات، يُتوفر [زر تبديل الخطط](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan#use-the-switch-plans-button) ليقودك خلال عملية تبديل الخطط.
 
-للمزيد من المعلومات، اطلع على التبديل إلى خطة مختلفة من [ Microsoft 365 for business](https://docs.microsoft.com/ar-SA/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
+للمزيد من المعلومات، اطلع على التبديل إلى خطة مختلفة من [ Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).

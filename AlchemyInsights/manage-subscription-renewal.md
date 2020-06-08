@@ -12,18 +12,18 @@ ms.custom:
 - "1500012"
 - "4568"
 - "4730"
-ms.openlocfilehash: 1f54b65f9e20bed4f69bdd08dbbbc3b03a1a22e5
-ms.sourcegitcommit: cad7ec134efdac7130911bfee6cb4a59ad882e39
-ms.translationtype: HT
+ms.openlocfilehash: d6b6f52a454744ecc8f77b180ae697cb7a830f5c
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43195083"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44062956"
 ---
 # <a name="manage-subscription-renewal"></a>إدارة تجديد الاشتراك
 
 لإدارة الفوترة الشهرية أو السنوية، يمكنك تشغيل **الفوترة المتكررة** أو إيقاف تشغيلها.
 
-1. في مركز الإدارة، انتقل إلى صفحة **الفوترة > [ المنتجات والخدمات](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
+1. في مركز المشرف، انتقل إلى صفحة **الفوترة**  >  **[لمنتجاتك.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. اختر الاشتراك المراد إدارة الفوترة المتكررة الخاصة به.
 
@@ -33,4 +33,4 @@ ms.locfileid: "43195083"
 
 5. انقر فوق **إرسال التغيير**.
 
-للحصول على مزيد من المعلومات، اطلع على [تشغيل الفوترة المتكررة أو إيقاف تشغيلها](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/renew-your-subscription#turn-recurring-billing-off-or-on).
+للحصول على مزيد من المعلومات، اطلع على [تشغيل الفوترة المتكررة أو إيقاف تشغيلها](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

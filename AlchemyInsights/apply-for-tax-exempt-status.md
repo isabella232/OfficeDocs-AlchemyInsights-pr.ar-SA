@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500034"
 - "4895"
-ms.openlocfilehash: 91b34fb686206bd3b5e215bb5ed7cb7847028929
-ms.sourcegitcommit: c061f1dfa6f557a9ec083dd030b73b121d9864ea
-ms.translationtype: HT
+ms.openlocfilehash: ee5f1ea743de64d5c367753a1ab1b5e058c13076
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/14/2020
-ms.locfileid: "43286414"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44061839"
 ---
 # <a name="apply-for-tax-exempt-status"></a>التقدم بطلب إعفاء من الضريبة
 
-الرجاء تجهيز الوثائق التالية. يجب عليك [بدء طلب خدمة](https://docs.microsoft.com/office365/admin/contact-support-for-business-products) لإنشاء طلب إعفاء من الضريبة.
+الرجاء تجهيز الوثائق التالية. يجب عليك [بدء طلب خدمة](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) لإنشاء طلب إعفاء من الضريبة.
 
 - **الولايات المتحدة** - الرجاء تجهيز **شهادة الإعفاء من ضريبة المبيعات**.
 
@@ -32,4 +32,4 @@ ms.locfileid: "43286414"
 
 - **بورتوريكو** - الرجاء تجهيز شهادة **Certificado de Compras Exentas**.
 
-للحصول على مزيد من المعلومات، اطلع على [معلومات الضريبة](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information?view=o365-worldwide).
+للحصول على مزيد من المعلومات، اطلع على [معلومات الضريبة](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/tax-information).

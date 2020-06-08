@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5027"
-ms.openlocfilehash: da49fb3e5d7a6a4697259897133461cdc9e340ad
-ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
-ms.translationtype: HT
+ms.openlocfilehash: 45b4e7d420ed7a69d5be8e86852292b00a5f2ef2
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43944006"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44204296"
 ---
 # <a name="azure-information-protection-aip-client-installation"></a>حماية البيانات في Azure: تثبيت عميل AIP
 
@@ -33,4 +33,8 @@ ms.locfileid: "43944006"
 
 4. إذا كنت لا تزال تواجه مشكلات في تثبيت العميل نفسه بعد تشغيل الأداة المذكورة أعلاه، فقم بتحديد موقع المجلد **%temp%** وقم بتوفير ملفات سجل تثبيت العميل التي تبدأ بـ Microsoft_Azure_Information_Protection_XXXXXXXXXX.log.
 
-5. إذا نجح التثبيت وما زلت تواجه مشكلات باستخدام AIP، فالرجاء تحديد "موضوع الدعم" المناسب للحلول ذات الصلة.
+لمزيد من المعلومات:
+
+- مراجعة [وثائق حماية المعلومات Azure (AIP)](https://docs.microsoft.com/azure/information-protection/what-is-information-protection) [ومتطلبات](https://docs.microsoft.com/azure/information-protection/get-started/requirements) الإعداد والموقع لتنزيل [عميل AIP](https://www.microsoft.com/download/details.aspx?id=53018).
+
+- للحصول على معلومات اشتراك Azure، راجع [اشتراكات وميزات حماية المعلومات Azure](https://azure.microsoft.com/pricing/details/information-protection).

@@ -1,5 +1,5 @@
 ---
-title: رسالة تطبيقات Office - عذراً، قام حساب آخر من مؤسستك بتسجيل الدخول بالفعل
+title: رسالة تطبيقات Microsoft 365 - عذراً، تم تسجيل حساب آخر من مؤسستك بالفعل
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001422"
 - "3407"
-ms.openlocfilehash: 5c5dfd24ccb3e31ce56db8be4f4aebcf60bfcb69
-ms.sourcegitcommit: 940169c0edf638b5086d70cc275049f01dcff3cf
-ms.translationtype: HT
+ms.openlocfilehash: 60a51c2a45e76391b132b92bb03059864bffb2ed
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/08/2020
-ms.locfileid: "43182239"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576907"
 ---
-# <a name="office-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>رسالة تطبيقات Office - عذراً، قام حساب آخر من مؤسستك بتسجيل الدخول بالفعل
+# <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>رسالة تطبيقات Microsoft 365 - عذراً، تم تسجيل حساب آخر من مؤسستك بالفعل
 
 لإصلاح هذا الخطأ، حاول القيام بالخطوات التالية:
 

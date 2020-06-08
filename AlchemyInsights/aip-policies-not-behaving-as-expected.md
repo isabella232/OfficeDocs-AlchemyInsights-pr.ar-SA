@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4780"
-ms.openlocfilehash: 527556fcb02525eb88ea992c38a2ddfcba6f9453
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: HT
+ms.openlocfilehash: 91308850c06485bdd11e81bd130770aefb247118
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506545"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44580752"
 ---
 # <a name="aip-policies-not-behaving-as-expected"></a>AIP: السياسات لا تتصرف كما هو متوقع
 
@@ -39,5 +39,5 @@ ms.locfileid: "44506545"
 
 - [كيفية تكوين تسمية للعلامات المرئية لحماية معلومات Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-markings)
 - [مراجعة وثائق حماية المعلومات Azure](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
-- [استخدام تسميات الحساسية في تطبيقات Office](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
+- [استخدام تسميات الحساسية في تطبيقات Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
 

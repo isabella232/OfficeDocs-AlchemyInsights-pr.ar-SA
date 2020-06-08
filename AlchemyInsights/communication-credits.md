@@ -1,5 +1,5 @@
 ---
-title: أرصدة الاتصالات
+title: اعتمادات الاتصال
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,27 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002395"
 - "4683"
-ms.openlocfilehash: c22500656e8a1ffa20728699744a69c28b3b5159
-ms.sourcegitcommit: 73be3a06e159a56595cdeb5ef095aa9d9b16073b
-ms.translationtype: HT
+ms.openlocfilehash: a4f9b04ed0fc51d9c5a79c12162ca57a75ea7eb3
+ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/06/2020
-ms.locfileid: "43158467"
+ms.lasthandoff: 06/02/2020
+ms.locfileid: "44204224"
 ---
-# <a name="communication-credits"></a>أرصدة الاتصالات
+# <a name="communication-credits"></a>اعتمادات الاتصال
 
-أرصدة الاتصالات هي طريقة سهلة لدفع قيمة دقائق خطط الاتصال والمؤتمرات الصوتية.  ستحتاج إلى إعداد أرصدة الاتصالات إذا كنت تريد استخدام الأرقام المجانية مع Skype for Business وMicrosoft Teams.  بالإضافة إلى ذلك، نحن نوصي بأن تقوم بإعداد أرصدة الاتصالات لمستخدمي خطط الاتصال (المحلية أو الدولية) والمؤتمرات الصوتية لديك الذين هم بحاجة إلى التمتع بالقدرة على المشاركة بالطلب من خارج المؤتمر إلى أي وجهة.
+اعتمادات الاتصال هي طريقة مريحة لدفع لمؤتمرات الصوت ودقائق خطة الاتصال. ستحتاج إلى إعداد أرصدة الاتصالات إذا كنت تريد استخدام الأرقام المجانية مع Skype for Business وMicrosoft Teams.
 
-بصفتك مسؤولاً، يمكنك إضافة الأموال يدوياً أو إعداد الدفع التلقائي، وهو الإجراء الذي نوصي به.  تقوم خاصية الدفع التلقائي بملء رصيدك عندما ينخفض عن المبلغ المحدد الذي قمت بتعيينه.  يمكنك تحديث خيارات الدفع الخاصة بك في أي وقت. على **الفوترة > [صفحة المنتجات والخدمات](https://go.microsoft.com/fwlink/p/?linkid=842054)** حدد اشتراك أرصدة الاتصالات وقم بالتحديث.
+- لإعداد أرصدة الاتصال، راجع [إعداد أرصدة الاتصال لمؤسستك.](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) 
 
-1. إذا كنت تريد إضافة المزيد من الأموال بدون إعداد الدفع التلقائي، فانقر فوق **إضافة أموال إضافية** في منطقة الاستهلاك وأدخل المبلغ المراد إضافته.
+- لإضافة أموال ائتمان الاتصالات وإدارتها، راجع [إضافة أموال وإدارة اعتمادات الاتصالات.](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits) 
 
-2. لإعداد الدفع التلقائي أو تغيير مبالغ الدفع التلقائي، فانقر فوق **تعديل إعدادات الدفع** في مقطع الفوترة أو **إعدادات الدفع التلقائي** بجانب أسفل الصفحة.  
-
-3. أدخل مبلغ الدفع.  يمثل هذا المبلغ الكمية المراد إضافتها مع كل دفع.  
-
-4. أدخل قيمة في حقل **عند انخفاض الرصيد إلى **.  هذا هو الرصيد الذي سيقوم بتشغيل الدفع.
-
-5. انقر فوق **حفظ التغييرات**.
-
-للحصول على مزيد من المعلومات حول إضافة أموال أرصدة الاتصالات وإدارتها، اطلع على[إضافة الأموال وإدارة أرصدة الاتصالات](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits). اطلع أيضاً على [إعداد أرصدة الاتصالات لمؤسستك](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization).
+لمزيد من المعلومات، راجع [ما هي اعتمادات الاتصال؟](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)

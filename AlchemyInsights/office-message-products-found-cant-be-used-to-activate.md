@@ -1,5 +1,5 @@
 ---
-title: رسالة تطبيقات Office - المنتجات التي عثرنا عليها في حسابك لا يمكن استخدامها للتنشيط
+title: رسالة تطبيقات Microsoft 365 - لا يمكن استخدام المنتجات التي وجدناها في حسابك لتنشيطها
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002311"
 - "4490"
-ms.openlocfilehash: f373666f51eabc6b141497475445800799296b4d
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
-ms.translationtype: HT
+ms.openlocfilehash: 7eb169dd74d647f196ca2dd93652bf5d970d68d1
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010709"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581602"
 ---
-# <a name="office-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a>رسالة تطبيقات Office - المنتجات التي عثرنا عليها في حسابك لا يمكن استخدامها للتنشيط
+# <a name="microsoft-365-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a>رسالة تطبيقات Microsoft 365 - لا يمكن استخدام المنتجات التي وجدناها في حسابك لتنشيطها
 
 - تحقق من أن [حالة الاشتراك](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription)الخاص بك صالحة وان المستخدم المتأثر لديه [ترخيص صالح معين](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) ومتصل بالإنترنت. 
 
@@ -26,7 +26,7 @@ ms.locfileid: "44010709"
 
 - قم بتشغيل [مستكشف أخطاء التنشيط ومصلحها](https://aka.ms/SARA-OfficeActivation-Alchemy) وأعد تشغيل الكمبيوتر.
 
-- علي الجهاز المتأثر، [قم بإعادة تعيين حالة تنشيط Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- علي الجهاز المتأثر، [قم بإعادة تعيين حالة تنشيط Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 لسيناريوهات أجهزة الكمبيوتر المشتركة، راجع [استكشاف الأخطاء وإصلاحها في تنشيط الكمبيوتر المشترك لـ Microsoft 365 Apps](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)
 

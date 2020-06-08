@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001718"
 - "3811"
-ms.openlocfilehash: 7347b214f69b5f07f15c379e30435530da0c3d44
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
-ms.translationtype: HT
+ms.openlocfilehash: af61ac8c1e798fbeb0b328a8fb5b6a45f955c864
+ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
+ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43911747"
+ms.lasthandoff: 06/04/2020
+ms.locfileid: "44563346"
 ---
 # <a name="recover-deleted-plans"></a>استرداد الخطط المحذوفة
 
-- يمكن فقط لمالكي الخطط حذف خطة. لتتمكن من [حذف خطة أو مهمة](https://support.microsoft.com/ar-SA/office/delete-a-task-or-plan-39e10e78-13f0-446d-94cd-9e562648497a.)، اتبع الإرشادات الواردة في حذف مهمة أو خطة.  **ملاحظة**: إذا تم حذف خطة بشكل نهائي، فلن يمكن استردادها. وعلى نفس النحو، لا يمكن استرداد مهمة محذوف. إذا قمت بحذف مهمة عن طريق الخطأ، فعليك إعادة إنشائها من البداية.
+- يمكن فقط لمالكي الخطط حذف خطة. لتتمكن من [حذف خطة أو مهمة](https://support.microsoft.com/office/39e10e78-13f0-446d-94cd-9e562648497a.)، اتبع الإرشادات الواردة في حذف مهمة أو خطة.  **ملاحظة**: إذا تم حذف خطة بشكل نهائي، فلن يمكن استردادها. وعلى نفس النحو، لا يمكن استرداد مهمة محذوف. إذا قمت بحذف مهمة عن طريق الخطأ، فعليك إعادة إنشائها من البداية.
 
 - إذا كان حذف خطتك ناجماً عن حذف مجموعة، فقد تتمكن من استرداد المجموعة ومحتوياتها. اتبع الإرشادات الواردة في استرداد [مجموعة Microsoft 365 محذوفة](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group?view=o365-worldwide) لاسترداد المجموعة والمحتوى المقترن بها.
 

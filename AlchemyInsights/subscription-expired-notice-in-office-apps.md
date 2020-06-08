@@ -1,5 +1,5 @@
 ---
-title: رسالة إشعار "انتهاء صلاحية الاشتراك" في تطبيقات Office
+title: إشعار انتهاء صلاحية الاشتراك في تطبيقات Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,14 +11,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1905"
-ms.openlocfilehash: 19ec94291497cd6cf3758e1ee2bb3c7c3631f001
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
-ms.translationtype: HT
+ms.openlocfilehash: be5fece97854e4967133f74cfb51728dab853b5f
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43789253"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44576691"
 ---
-# <a name="subscription-expired-notice-in-office-apps"></a>رسالة إشعار "انتهاء صلاحية الاشتراك" في تطبيقات Office
+# <a name="subscription-expired-notice-in-microsoft-365-apps"></a>إشعار "انتهاء صلاحية الاشتراك" في تطبيقات Microsoft 365
 
 - اطلع على [صفحة Service Health](https://docs.microsoft.com/office365/enterprise/view-service-health) لمعرفة ما إذا كانت هناك أي مشكلات معروفة في الخدمة.
 
@@ -30,7 +30,7 @@ ms.locfileid: "43789253"
 
 - قم بتشغيل [مستكشف أخطاء التنشيط ومصلحها](https://aka.ms/SARA-OfficeActivation-Alchemy) وأعد تشغيل الكمبيوتر.
 
-- علي الجهاز المتأثر، [قم بإعادة تعيين حالة تنشيط Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).
+- علي الجهاز المتأثر، [قم بإعادة تعيين حالة تنشيط Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
 للاطلاع على الإرشادات المفصلة، راجع: 
 

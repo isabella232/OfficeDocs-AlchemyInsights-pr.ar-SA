@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4373"
-ms.openlocfilehash: 22eeb6ba32e4e943efa2495a477ff394f3c135db
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
-ms.translationtype: HT
+ms.openlocfilehash: 8c79ab50e7ddbda0cf61eb9a95279f6c42cc515c
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508363"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581182"
 ---
 # <a name="automatic-classification-not-behaving-as-expected-with-the-aip-client"></a>التصنيف التلقائي لا يتصرف كما هو متوقع مع عميل AIP
 
@@ -26,7 +26,7 @@ ms.locfileid: "44508363"
 2. تحقق مما إذا كنت تستخدم نُهج ًا ذات نطاق لم يتم تكوينها بشكل صحيح: [كيفية تكوين نهج حماية المعلومات Azure لمستخدمين محددين باستخدام نُهج ذات نطاق](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
 3. إذا لم يكن وضع العلامات التلقائي ة يعمل مع Outlook عند إرفاق مستند مسمى، فتحقق من عدم `DRMEncryptProperty` تعريفه كما هو موضح هنا: إعدادات التسجيل [IRM للأمان](https://docs.microsoft.com/deployoffice/security/protect-sensitive-messages-and-documents-by-using-irm-in-office#office-2016-irm-registry-key-options).
 4. إذا كنت تستخدم [أنواع المعلومات المضمنة](https://support.office.com/article/What-the-sensitive-information-types-look-for-fd505979-76be-4d9f-b459-abef3fc9e86b) لسياسة حماية معلومات Azure، فتحقق من تطابق المحتوى مع التنسيق المتوقع.
-5. تحقق من تكوين التسمية بشكل مناسب **للتلقائي** أو **الموصى به**. (تتوفر وضع العلامات**التلقائية** لجميع تطبيقات Office، في حين يتوفر **الموصى به** لجميع تطبيقات Office باستثناء Outlook.)
+5. تحقق من تكوين التسمية بشكل مناسب **للتلقائي** أو **الموصى به**. (يتوفر وضع العلامات**التلقائية** لجميع تطبيقات Microsoft 365، في حين يتوفر **الموصى به** لجميع تطبيقات Microsoft 365 باستثناء Outlook.)
 6. لا يمكنك استخدام التصنيف التلقائي للمستندات ورسائل البريد الإلكتروني التي تم تصنيفها يدويًا مسبقًا أو تم تصنيفها تلقائيًا مسبقًا بتصنيف أعلى.  لمزيد من المعلومات، [راجع: كيفية تطبيق التسميات التلقائية أو الموصى بها](https://docs.microsoft.com/azure/information-protection/configure-policy-classification#how-automatic-or-recommended-labels-are-applied).
 7. إذا كنت لا تزال تواجه مشكلات، يرجى جمع سجلات عملاء حماية المعلومات Azure وإرفاق السجلات المصدرة بتذكرة الدعم الخاصة بك. لتصدير سجلات حماية المعلومات Azure:
     - افتح مستند Office أو أنشئ بريدًا إلكترونيًا جديدًا في Outlook.

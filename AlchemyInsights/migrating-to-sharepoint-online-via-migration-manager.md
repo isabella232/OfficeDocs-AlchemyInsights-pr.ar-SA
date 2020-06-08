@@ -11,21 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "3192"
-ms.openlocfilehash: ad9e9d929664ecdfd796e977891d83f80f557333
-ms.sourcegitcommit: 04484c73b96bf76d1b50796b3e8913f49095c4f3
-ms.translationtype: HT
+ms.openlocfilehash: 0f4386d7981217143806c557ecac6bc40f973105
+ms.sourcegitcommit: b398afd92d4259f893c25b48aec65921e6cc68d6
+ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/18/2020
-ms.locfileid: "43552693"
+ms.lasthandoff: 05/16/2020
+ms.locfileid: "44268723"
 ---
 # <a name="migrating-to-sharepoint-online-via-migration-manager"></a>الترحيل إلى SharePoint Online بواسطة "إدارة الترحيل"
-
-**إدارة الترحيل**
 
 ترشدك إدارة الترحيل خلال إعداد العملاء وإنشاء المهام، وتوجد في مركز إدارة SharePoint الحديث. يمكنك تحديد الإعدادات العامة أو الخاصة بمستوي المهام وعرض تقدم المهام بشكل كامل، وتنزيل الملخصات المجمعة والتقارير على مستوى المهام.
 
 - [بدء استخدام "إدارة الترحيل"](https://docs.microsoft.com/sharepointmigration/mm-get-started)
-
-- [إعداد عملاء إدارة الترحيل](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
-
-- [إعدادات إدارة الترحيل](https://docs.microsoft.com/sharepointmigration/mm-settings)

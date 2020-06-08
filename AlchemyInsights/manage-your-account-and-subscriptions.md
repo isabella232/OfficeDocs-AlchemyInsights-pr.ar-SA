@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "4560"
-ms.openlocfilehash: 3dc0d7481db5acae34a2186c9d63358c431c17f9
-ms.sourcegitcommit: c31b37ec6a107308bcbfdf5dfee72843c782700c
-ms.translationtype: HT
+ms.openlocfilehash: cc48ba0409eedd4e00cdc18de710663c85efa0cd
+ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/02/2020
-ms.locfileid: "43102511"
+ms.lasthandoff: 05/29/2020
+ms.locfileid: "44418095"
 ---
 # <a name="manage-your-account-and-subscriptions"></a>إدارة الحسابات والاشتراكات
 
@@ -33,13 +33,13 @@ ms.locfileid: "43102511"
 
 - [التدريس والتعلم عن بُعد في Office 365 Education](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu)
 
-**من خلال مركز إدارة Microsoft 365، يمكنك الآتي**: 
+**داخل مركز إدارة Microsoft 365 يمكنك:** 
 
 - [عرض الفاتورة](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/view-your-bill-or-invoice) 
 
 - [فهم الفاتورة](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice)
 
-- [إضافة طرق دفع أو تحديثها أو إزالتها](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/add-update-or-remove-credit-card-or-bank-account)
+- [إدارة طرق الدفع](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
 
 **إدارة الاشتراكات والتراخيص** 
 

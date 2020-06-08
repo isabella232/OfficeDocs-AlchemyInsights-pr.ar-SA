@@ -12,18 +12,18 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: 915d625dbf8726787e9bcd45e0cf7b025e90ead9
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
-ms.translationtype: HT
+ms.openlocfilehash: a4b079ceb87e87fd50f04f6edbd5d2cb23a27429
+ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005389"
+ms.lasthandoff: 05/13/2020
+ms.locfileid: "44062812"
 ---
 # <a name="microsoft-365-for-education---approved"></a>Microsoft 365 for Education - معتمد
 
-تم اعتمادك لاستخدام Microsoft 365 Education.  للشراء:
+تم اعتمادك لاستخدام Office 365 Education.  للشراء:
 
-1. انتقل إلى **[الفوترة > خدمات الشراء](https://portal.office.com/AdminPortal/Home#/catalog)**.
+1. انتقل **Billing**إلى  >  [خدمات شراء](https://portal.office.com/AdminPortal/Home#/catalog)الفوترة .
 
 2. اختر من القائمة الموجودة ضمن **خطط Education‏**.
 
@@ -33,10 +33,10 @@ ms.locfileid: "44005389"
 
 **تشغيل الفرق**
 
-- لتشغيل Microsoft Teams لجميع المستخدمين، انتقل إلى **[الإعدادات > إعدادات > Microsoft Teams](https://admin.microsoft.com/Adminportal/Home#/SettingsMultiPivot/:/Settings/L1/SkypeTeams)** وانقر فوق مربع الاختيار **تشغيل Microsoft Teams لجميع المستخدمين**.  انقر فوق **حفظ التغييرات**.
+- لتشغيل Microsoft Teams لكافة المستخدمين، انتقل إلى **إعدادات**  >  **إعدادات**  >  [Microsoft Teams](https://admin.microsoft.com/Adminportal/Home#/SettingsMultiPivot/:/Settings/L1/SkypeTeams) وانقر على تشغيل Microsoft Teams **لكافة المستخدمين** في خانة الاختيار. انقر فوق **حفظ التغييرات**.
 
 **التدريس والتعلم عن بُعد**
 
-- رجاءً اطلع على [التدريس والتعلم عن بُعد في Microsoft 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) للتعرّف على الإرشادات الأحدث لإعداد التخطيط للدروس والاجتماع الظاهري ومشاركة المحتوى مع الطلاب في مؤسستك التعليمية.
+- الرجاء الاطلاع على [التدريس والتعلم عن بعد في Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) للتعرّف على الدليل الأحدث لإعداد التخطيط للدروس والاجتماع الظاهري ومشاركة المحتوى مع الطلاب في مؤسستك التعليمية.
 
 - هناك إرشادات تكنولوجيا المعلومات الإضافية في [بدء العمل باستخدام Microsoft Teams للتعلم عن بُعد](https://docs.microsoft.com/MicrosoftTeams/remote-learning-edu) و[الانتقال إلى التعلم عن بُعد](https://www.microsoft.com/education/remote-learning).
