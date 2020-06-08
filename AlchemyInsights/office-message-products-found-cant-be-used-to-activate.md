@@ -1,5 +1,5 @@
 ---
-title: رسالة تطبيقات Office - المنتجات التي عثرنا عليها في حسابك لا يمكن استخدامها للتنشيط
+title: رسالة تطبيقات Microsoft 365 - لا يمكن استخدام المنتجات التي وجدناها في حسابك لتنشيطها
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,29 +11,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002311"
 - "4490"
-ms.openlocfilehash: f373666f51eabc6b141497475445800799296b4d
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
-ms.translationtype: HT
+ms.openlocfilehash: 7eb169dd74d647f196ca2dd93652bf5d970d68d1
+ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010709"
+ms.lasthandoff: 06/05/2020
+ms.locfileid: "44581602"
 ---
-# <a name="office-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a><span data-ttu-id="ea3af-102">رسالة تطبيقات Office - المنتجات التي عثرنا عليها في حسابك لا يمكن استخدامها للتنشيط</span><span class="sxs-lookup"><span data-stu-id="ea3af-102">Office apps message - The products we found in your account can't be used to activate</span></span>
+# <a name="microsoft-365-apps-message---the-products-we-found-in-your-account-cant-be-used-to-activate"></a><span data-ttu-id="e5d4b-102">رسالة تطبيقات Microsoft 365 - لا يمكن استخدام المنتجات التي وجدناها في حسابك لتنشيطها</span><span class="sxs-lookup"><span data-stu-id="e5d4b-102">Microsoft 365 apps message - The products we found in your account can't be used to activate</span></span>
 
-- <span data-ttu-id="ea3af-103">تحقق من أن [حالة الاشتراك](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription)الخاص بك صالحة وان المستخدم المتأثر لديه [ترخيص صالح معين](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) ومتصل بالإنترنت.</span><span class="sxs-lookup"><span data-stu-id="ea3af-103">Verify that your [subscription status](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) is valid and that the affected user has a [valid license assigned](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) and is connected to the Internet.</span></span> 
+- <span data-ttu-id="e5d4b-103">تحقق من أن [حالة الاشتراك](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription)الخاص بك صالحة وان المستخدم المتأثر لديه [ترخيص صالح معين](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) ومتصل بالإنترنت.</span><span class="sxs-lookup"><span data-stu-id="e5d4b-103">Verify that your [subscription status](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) is valid and that the affected user has a [valid license assigned](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA) and is connected to the Internet.</span></span> 
 
-- <span data-ttu-id="ea3af-104">افتح تطبيق Office، وانقر فوق **ملف > حساب** وسجل الخروج من كل الحسابات.</span><span class="sxs-lookup"><span data-stu-id="ea3af-104">Open an Office App, click **File > Account** and Sign Out of all accounts.</span></span> <span data-ttu-id="ea3af-105">قم بتسجيل الدخول مرة أخرى باستخدام حساب مستخدم لديه ترخيص صالح.</span><span class="sxs-lookup"><span data-stu-id="ea3af-105">Sign In again using a user account with a valid license.</span></span> <span data-ttu-id="ea3af-106">للحصول على معلومات مفصلة، راجع [حسابات في Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).</span><span class="sxs-lookup"><span data-stu-id="ea3af-106">For detailed information, see [Accounts in Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).</span></span>
+- <span data-ttu-id="e5d4b-104">افتح تطبيق Office، وانقر فوق **ملف > حساب** وسجل الخروج من كل الحسابات.</span><span class="sxs-lookup"><span data-stu-id="e5d4b-104">Open an Office App, click **File > Account** and Sign Out of all accounts.</span></span> <span data-ttu-id="e5d4b-105">قم بتسجيل الدخول مرة أخرى باستخدام حساب مستخدم لديه ترخيص صالح.</span><span class="sxs-lookup"><span data-stu-id="e5d4b-105">Sign In again using a user account with a valid license.</span></span> <span data-ttu-id="e5d4b-106">للحصول على معلومات مفصلة، راجع [حسابات في Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).</span><span class="sxs-lookup"><span data-stu-id="e5d4b-106">For detailed information, see [Accounts in Office](https://support.office.com/article/accounts-in-office-628ea040-f265-49de-b986-be09c3ebf8a9).</span></span>
 
-- <span data-ttu-id="ea3af-107">قم بتشغيل [مستكشف أخطاء التنشيط ومصلحها](https://aka.ms/SARA-OfficeActivation-Alchemy) وأعد تشغيل الكمبيوتر.</span><span class="sxs-lookup"><span data-stu-id="ea3af-107">Run the [Activation Troubleshooter](https://aka.ms/SARA-OfficeActivation-Alchemy) and restart the computer.</span></span>
+- <span data-ttu-id="e5d4b-107">قم بتشغيل [مستكشف أخطاء التنشيط ومصلحها](https://aka.ms/SARA-OfficeActivation-Alchemy) وأعد تشغيل الكمبيوتر.</span><span class="sxs-lookup"><span data-stu-id="e5d4b-107">Run the [Activation Troubleshooter](https://aka.ms/SARA-OfficeActivation-Alchemy) and restart the computer.</span></span>
 
-- <span data-ttu-id="ea3af-108">علي الجهاز المتأثر، [قم بإعادة تعيين حالة تنشيط Office](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).</span><span class="sxs-lookup"><span data-stu-id="ea3af-108">On the affected machine, [Reset Office activation state](https://techcommunity.microsoft.com/t5/Office-365-ProPlus/Reset-Office-365-ProPlus-activation-state/td-p/331632).</span></span>
+- <span data-ttu-id="e5d4b-108">علي الجهاز المتأثر، [قم بإعادة تعيين حالة تنشيط Office](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).</span><span class="sxs-lookup"><span data-stu-id="e5d4b-108">On the affected machine, [Reset Office activation state](https://docs.microsoft.com/office/troubleshoot/activation/reset-office-365-proplus-activation-state).</span></span>
 
-<span data-ttu-id="ea3af-109">لسيناريوهات أجهزة الكمبيوتر المشتركة، راجع [استكشاف الأخطاء وإصلاحها في تنشيط الكمبيوتر المشترك لـ Microsoft 365 Apps](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)</span><span class="sxs-lookup"><span data-stu-id="ea3af-109">For Shared Computer Scenarios, see [Troubleshoot issues with shared computer activation for Microsoft 365 Apps](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)</span></span>
+<span data-ttu-id="e5d4b-109">لسيناريوهات أجهزة الكمبيوتر المشتركة، راجع [استكشاف الأخطاء وإصلاحها في تنشيط الكمبيوتر المشترك لـ Microsoft 365 Apps](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)</span><span class="sxs-lookup"><span data-stu-id="e5d4b-109">For Shared Computer Scenarios, see [Troubleshoot issues with shared computer activation for Microsoft 365 Apps](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)</span></span>
 
-<span data-ttu-id="ea3af-110">لمزيد من المعلومات، اطلع على:</span><span class="sxs-lookup"><span data-stu-id="ea3af-110">For more information, see:</span></span> 
+<span data-ttu-id="e5d4b-110">لمزيد من المعلومات، اطلع على:</span><span class="sxs-lookup"><span data-stu-id="e5d4b-110">For more information, see:</span></span> 
 
-- [<span data-ttu-id="ea3af-111">استكشاف أخطاء تنشيط Office وإصلاحها</span><span class="sxs-lookup"><span data-stu-id="ea3af-111">Troubleshoot Office Activation Issues</span></span>](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)
+- [<span data-ttu-id="e5d4b-111">استكشاف أخطاء تنشيط Office وإصلاحها</span><span class="sxs-lookup"><span data-stu-id="e5d4b-111">Troubleshoot Office Activation Issues</span></span>](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)
 
-- [<span data-ttu-id="ea3af-112">خطأ في Office "المنتجات التي عثرنا عليها في حسابك لا يمكن استخدامها للتنشيط"</span><span class="sxs-lookup"><span data-stu-id="ea3af-112">Office error "The products we found in your account can't be used to activate"</span></span>](https://support.office.com/article/office-error-the-products-we-found-in-your-account-can-t-be-used-to-activate-c9f9a0b3-5aae-4131-8077-21e6a59f141e)
+- [<span data-ttu-id="e5d4b-112">خطأ في Office "المنتجات التي عثرنا عليها في حسابك لا يمكن استخدامها للتنشيط"</span><span class="sxs-lookup"><span data-stu-id="e5d4b-112">Office error "The products we found in your account can't be used to activate"</span></span>](https://support.office.com/article/office-error-the-products-we-found-in-your-account-can-t-be-used-to-activate-c9f9a0b3-5aae-4131-8077-21e6a59f141e)
 
-- <span data-ttu-id="ea3af-113">[ظهور إشعار يتعلق بالاشتراك عند فتح تطبيق Office 365‏](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb).</span><span class="sxs-lookup"><span data-stu-id="ea3af-113">[A subscription notice appears when I open an Office 365 application](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb).</span></span>
+- <span data-ttu-id="e5d4b-113">[ظهور إشعار يتعلق بالاشتراك عند فتح تطبيق Office 365‏](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb).</span><span class="sxs-lookup"><span data-stu-id="e5d4b-113">[A subscription notice appears when I open an Office 365 application](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb).</span></span>

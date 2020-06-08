@@ -11,13 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002319"
 - "4503"
-ms.openlocfilehash: 059655cfcf6ca013d08032ed73b31dd7c470d92b
-ms.sourcegitcommit: 6010e6b55f6d3057f9038979cda3987df12aae93
-ms.translationtype: HT
+- "9002471"
+- "4818"
+ms.openlocfilehash: fbb496290d6e8a45cd339cc4c4c07906c35767f9
+ms.sourcegitcommit: 497705a43e9317bf1d7519223f90a4d6a8c1c5db
+ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "43231517"
+ms.lasthandoff: 06/03/2020
+ms.locfileid: "44534716"
 ---
-# <a name="get-support-with-microsoft-365"></a><span data-ttu-id="f6560-102">الحصول على الدعم في Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="f6560-102">Get support with Microsoft 365</span></span>
+# <a name="get-support-with-microsoft-365"></a><span data-ttu-id="1a696-102">الحصول على الدعم في Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="1a696-102">Get support with Microsoft 365</span></span>
 
-<span data-ttu-id="f6560-103">لكي تتمكن من العثور على الموارد المناسبة لمشكلتك، سنحتاج إلى مزيد من المعلومات المفصلة.</span><span class="sxs-lookup"><span data-stu-id="f6560-103">In order to find the right resources for your issue, we'll need more detailed information.</span></span> <span data-ttu-id="f6560-104">الرجاء إعادة كتابة مشكلتك مع تضمين أسماء المنتجات أو الميزات أو الأخطاء المحددة وإرسال الاستعلام مرة أخرى.</span><span class="sxs-lookup"><span data-stu-id="f6560-104">Please restate your issue and include specific product names, features, or errors and submit your query again.</span></span>
+<span data-ttu-id="1a696-103">لكي تتمكن من العثور على الموارد المناسبة لمشكلتك، سنحتاج إلى مزيد من المعلومات المفصلة.</span><span class="sxs-lookup"><span data-stu-id="1a696-103">In order to find the right resources for your issue, we'll need more detailed information.</span></span> <span data-ttu-id="1a696-104">يُرجى إعادة ذكر مشكلتك وتضمين أسماء منتجات أو ميزات أو أخطاء محددة وإرسال استعلام البحث مرة أخرى.</span><span class="sxs-lookup"><span data-stu-id="1a696-104">Please restate your issue and include specific product names, features, or errors and submit your search query again.</span></span>
+

@@ -13,15 +13,25 @@ ms.custom:
 - "1581"
 - "9000089"
 ms.assetid: ''
-ms.openlocfilehash: 91777a95b705b64799627be6602757381f128ea1
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
-ms.translationtype: HT
+ms.openlocfilehash: 2342ef1c2b00ff8e22e05faaf45f0dcc2cebbe41
+ms.sourcegitcommit: a3f07a022f492281ef5a8e485347cd60beee5a71
+ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43682063"
+ms.lasthandoff: 05/08/2020
+ms.locfileid: "44163804"
 ---
-# <a name="open-and-use-a-shared-mailbox-in-outlook-on-the-web"></a><span data-ttu-id="c59ee-102">فتح علبة بريد مشتركة واستخدامها في Outlook على الويب</span><span class="sxs-lookup"><span data-stu-id="c59ee-102">Open and use a shared mailbox in Outlook on the web</span></span>
+# <a name="open-and-use-a-shared-mailbox-in-outlook"></a><span data-ttu-id="7b4d6-102">فتح صندوق بريد مشترك واستخدامه في Outlook</span><span class="sxs-lookup"><span data-stu-id="7b4d6-102">Open and use a shared mailbox in Outlook</span></span>
 
-<span data-ttu-id="c59ee-103">لا يتم عرض علب البريد المشتركة التي يمكنك الوصول إليها تلقائياً في Outlook على الويب (المعروف سابقاً باسم Outlook Web App).</span><span class="sxs-lookup"><span data-stu-id="c59ee-103">Shared mailboxes that you have access to aren't automatically displayed in Outlook on the web (formerly known as Outlook Web App).</span></span>
+<span data-ttu-id="7b4d6-103">تسمح صناديق البريد المشتركة لمجموعة من الأشخاص بمراقبة البريد الإلكتروني وإرساله من عنوان بريد إلكتروني شائع.</span><span class="sxs-lookup"><span data-stu-id="7b4d6-103">Shared mailboxes allow a group of people to monitor and send email from a common email address.</span></span> 
 
-<span data-ttu-id="c59ee-104">يمكنك عرض علبة البريد المشتركة وعلبة البريد الأساسية معاً أو فتح علبة البريد المشتركة في نافذة مستعرض منفصلة.</span><span class="sxs-lookup"><span data-stu-id="c59ee-104">You can display the shared mailbox and your primary mailbox together or open the shared mailbox in a separate browser window.</span></span> <span data-ttu-id="c59ee-105">لتلقي إعلامات رسالة جديدة لعلبة البريد المشتركة، أنت بحاجة لفتح علبة البريد المشتركة في نافذة مستعرض منفصلة.</span><span class="sxs-lookup"><span data-stu-id="c59ee-105">To receive new message notifications for the shared mailbox, you need to open the shared mailbox in a separate browser window.</span></span> <span data-ttu-id="c59ee-106">للحصول على مزيد من المعلومات، اطلع على [فتح علبة بريد مشتركة واستخدامها في Outlook Web App](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207).</span><span class="sxs-lookup"><span data-stu-id="c59ee-106">For more information, see [Open and use a shared mailbox in Outlook Web App](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207).</span></span>
+<span data-ttu-id="7b4d6-104">**ملاحظة:** يحتاج مسؤول Microsoft 365 إلى إنشاء صندوق البريد المشترك وإضافته كعضو.</span><span class="sxs-lookup"><span data-stu-id="7b4d6-104">**Note**: Your Microsoft 365 admin needs to create the shared mailbox and add you as a member.</span></span>
+
+<span data-ttu-id="7b4d6-105">راجع ما يلي لمعرفة كيفية فتح واستخدام علبة البريد المشتركة:</span><span class="sxs-lookup"><span data-stu-id="7b4d6-105">See the following to learn how to open and use the shared mailbox:</span></span>
+
+- [<span data-ttu-id="7b4d6-106">إضافة صندوق بريد مشترك إلى Outlook على الويب</span><span class="sxs-lookup"><span data-stu-id="7b4d6-106">Add a shared mailbox to Outlook on the web</span></span>](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-on-the-web-98b5a90d-4e38-415d-a030-f09a4cd28207)
+
+- [<span data-ttu-id="7b4d6-107">فتح صندوق بريد مشترك واستخدامه في Outlook لنظام التشغيل Windows</span><span class="sxs-lookup"><span data-stu-id="7b4d6-107">Open and use a shared mailbox in Outlook for Windows</span></span>](https://support.office.com/article/open-and-use-a-shared-mailbox-in-outlook-d94a8e9e-21f1-4240-808b-de9c9c088afd)
+
+- [<span data-ttu-id="7b4d6-108">فتح مجلد مشترك أو صندوق بريد مشترك في Outlook لنظام التشغيل Mac</span><span class="sxs-lookup"><span data-stu-id="7b4d6-108">Open a shared folder or mailbox in Outlook for Mac</span></span>](https://support.office.com/article/Open-a-shared-folder-or-mailbox-in-Outlook-for-Mac-6ecc39c5-5577-4a1d-b18c-bbdc92972cb2)
+
+- [<span data-ttu-id="7b4d6-109">إضافة صندوق بريد مشترك إلى Outlook Mobile (Outlook لنظام التشغيل iOS & Android)</span><span class="sxs-lookup"><span data-stu-id="7b4d6-109">Add a shared mailbox to Outlook mobile (Outlook for iOS & Android)</span></span>](https://support.office.com/article/Add-a-shared-mailbox-to-Outlook-mobile-f866242c-81b2-472e-8776-6c49c5473c9f)

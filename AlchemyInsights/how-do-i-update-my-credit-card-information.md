@@ -13,23 +13,19 @@ ms.custom:
 - "430"
 - "1500001"
 ms.assetid: 2f1bd3a4-a577-47f4-9ec4-5e094ccc7ee2
-ms.openlocfilehash: 1ff40dad69c2bf30d56118065eecc83e91b79be1
-ms.sourcegitcommit: 89ae9e8b36d1980f89f07b016fff0ec48f96b620
-ms.translationtype: HT
+ms.openlocfilehash: 83932ba5857df7bd65a5544a7dde8be5cdd58ccd
+ms.sourcegitcommit: e3a1f96200bc58dc8a5b3597cc2600e71c4bd266
+ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/23/2020
-ms.locfileid: "43787897"
+ms.lasthandoff: 05/14/2020
+ms.locfileid: "44225255"
 ---
-# <a name="how-do-i-update-my-credit-card-information"></a><span data-ttu-id="13955-102">كيف يمكنني تحديث معلومات بطاقتي الائتمانية؟</span><span class="sxs-lookup"><span data-stu-id="13955-102">How do I update my credit card information?</span></span>
+# <a name="how-do-i-update-my-credit-card-information"></a><span data-ttu-id="01751-102">كيف يمكنني تحديث معلومات بطاقتي الائتمانية؟</span><span class="sxs-lookup"><span data-stu-id="01751-102">How do I update my credit card information?</span></span>
 
-1. <span data-ttu-id="13955-103">في مركز مسؤولي Microsoft 365، انتقل إلى صفحة **الفوترة** \> [طرق الدفع](https://go.microsoft.com/fwlink/p/?linkid=842054).</span><span class="sxs-lookup"><span data-stu-id="13955-103">In the Microsoft 365 admin center, go to the **Billing** \> [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+1. <span data-ttu-id="01751-103">في مركز المشرف، انتقل **Billing**إلى  >  صفحة طرق دفع**الفواتير & الدفع.**  >  [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806)</span><span class="sxs-lookup"><span data-stu-id="01751-103">In the admin center, go to the **Billing** > **Bills & payments** > [Payment methods](https://go.microsoft.com/fwlink/p/?linkid=2018806) page.</span></span>
+2. <span data-ttu-id="01751-104">حدد صف طريقة الدفع للتحديث.</span><span class="sxs-lookup"><span data-stu-id="01751-104">Select the row of the payment method to update.</span></span> <span data-ttu-id="01751-105">في الجزء الأيمن، حدد **تحرير**.</span><span class="sxs-lookup"><span data-stu-id="01751-105">In the right pane, select **Edit**.</span></span>
+3. <span data-ttu-id="01751-106">قم بتحديث معلومات طريقة الدفع، بما في ذلك الاسم على بطاقة الائتمان أو الخصم أو عنوان الفوترة أو تاريخ انتهاء الصلاحية، ثم حدد **حفظ**.</span><span class="sxs-lookup"><span data-stu-id="01751-106">Update your payment method information, including the name on the credit or debit card, billing address, or expiration date, and then select **Save**.</span></span>
 
-2. <span data-ttu-id="13955-104">في الصفحة **طرق الدفع**، اختر بطاقة الائتمان أو الحساب البنكي الذي تريد تحديثه.</span><span class="sxs-lookup"><span data-stu-id="13955-104">On the **Payment methods** page, pick the credit card or bank account to update.</span></span>
+<span data-ttu-id="01751-107">لمعرفة المزيد، راجع [إدارة طرق الدفع](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).</span><span class="sxs-lookup"><span data-stu-id="01751-107">To learn more, see [Manage payment methods](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).</span></span>
 
-3. <span data-ttu-id="13955-105">لتغيير معلومات بطاقة الائتمان أو الحساب البنكي، حدد **تحرير تفاصيل الدفع**.</span><span class="sxs-lookup"><span data-stu-id="13955-105">To change the credit card or bank account information, select **Edit payment details**.</span></span>
-
-4. <span data-ttu-id="13955-106">قم بتحديث معلومات بطاقة الائتمان أو الحساب البنكي (الاسم الموجود على بطاقة الائتمان أو الحساب البنكي أو عنوان الفاتورة أو رقم الهاتف أو تاريخ انتهاء الصلاحية) حسب الحاجة، ثم حدد **حفظ** > **تم**.</span><span class="sxs-lookup"><span data-stu-id="13955-106">Update your credit card or bank account information (name on the credit card or bank account, billing address phone number, or expiration date) as needed, then select **Save** > **Done**.</span></span>
-
-<span data-ttu-id="13955-107">للتعرّف على المزيد، اطلع على [إضافة بطاقة ائتمان أو حساب بنكي أو تحديثهما أو إزالتهما](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span><span class="sxs-lookup"><span data-stu-id="13955-107">To learn more, see [Add, update, or remove a credit card or bank account](https://docs.microsoft.com/office365/admin/subscriptions-and-billing/add-update-or-remove-credit-card-or-bank-account).</span></span>
-
-<span data-ttu-id="13955-108">**ملاحظة**: إذا تم شراء الاشتراك من قبل مسؤول آخر، فلن تتمكن من تحديث معلومات بطاقة الائتمان أو الحساب المصرفي لها.</span><span class="sxs-lookup"><span data-stu-id="13955-108">**Note**: If another admin purchased the subscription, you won't be able to update the credit card or bank account information for it.</span></span> <span data-ttu-id="13955-109">إذا أوشكت صلاحية بطاقة الائتمان على الانتهاء ولم يتمكن المسؤول الآخر من تحديث المعلومات، يمكنك تفادي انقطاع الخدمة عن طريق إضافة بطاقة ائتمان مختلفة أو حساب مصرفي جديد للاشتراك.</span><span class="sxs-lookup"><span data-stu-id="13955-109">If the credit card is about to expire and the other administrator isn't able to update it, you can prevent service interruption by adding a different credit card or new bank account for the subscription.</span></span>
+<span data-ttu-id="01751-108">**ملاحظة**: إذا تم شراء الاشتراك من قبل مسؤول آخر، فلن تتمكن من تحديث معلومات بطاقة الائتمان أو الحساب المصرفي لها.</span><span class="sxs-lookup"><span data-stu-id="01751-108">**Note**: If another admin purchased the subscription, you won't be able to update the credit card or bank account information for it.</span></span> <span data-ttu-id="01751-109">إذا أوشكت صلاحية بطاقة الائتمان على الانتهاء ولم يتمكن المسؤول الآخر من تحديث المعلومات، يمكنك تفادي انقطاع الخدمة عن طريق إضافة بطاقة ائتمان مختلفة أو حساب مصرفي جديد للاشتراك.</span><span class="sxs-lookup"><span data-stu-id="01751-109">If the credit card is about to expire and the other administrator isn't able to update it, you can prevent service interruption by adding a different credit card or new bank account for the subscription.</span></span>
