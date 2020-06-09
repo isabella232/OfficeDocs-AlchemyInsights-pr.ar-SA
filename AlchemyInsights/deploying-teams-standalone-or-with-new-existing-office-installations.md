@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000660"
 - "2509"
-ms.openlocfilehash: ffa91eaf333792af149feda25f9a377ed591b597
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: 5ec5277a758fc5171c846266787c2fbcf751f21c
+ms.sourcegitcommit: 9816ac4d0fef20558383a491e0e76b79c56323f5
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010205"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44617882"
 ---
 # <a name="deploying-teams-as-standalone-or-with-new-or-existing-office-installations"></a>نشر الفرق كوحدة مستقلة أو مع عمليات تثبيت Office جديدة أو موجودة
 
 يتم الآن تضمين Microsoft Teams كجزء من ***عمليات التثبيت الجديدة*** لتطبيقات Microsoft 365 للمؤسسات وMicrosoft 365 Apps للأعمال وOffice for Mac. لمزيد من المعلومات، راجع [متى سيتم تضمين Microsoft Teams مع عمليات التثبيت الجديدة من Office؟](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
 
-بالإضافة إلى ذلك، بدءًا من الإصدار 1906 في القناة الشهرية، ستتم إضافة الفرق ***إلى عمليات التثبيت الحالية*** لتطبيقات Microsoft 365 للمؤسسات (وMicrosoft 365 Apps for business) على الأجهزة التي تعمل بنظام التشغيل Windows عند تحديث التثبيت الحالي إلى أحدث إصدار. لمزيد من المعلومات، راجع [ماذا عن عمليات التثبيت الحالية لـ Office؟](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
+بالإضافة إلى ذلك، بدءًا من الإصدار 1906 في القناة الحالية ، ستتم إضافة الفرق ***إلى عمليات التثبيت الحالية*** لتطبيقات Microsoft 365 للمؤسسات (وMicrosoft 365 Apps for business) على الأجهزة التي تعمل بنظام التشغيل Windows عند تحديث التثبيت الحالي إلى أحدث إصدار. لمزيد من المعلومات، راجع [ماذا عن عمليات التثبيت الحالية لـ Office؟](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
 
 > [!NOTE]
-> إذا كنت لا تريد الانتظار لهذا الجدول التمهيدي، يمكنك نشر Teams كمستقل للمستخدمين باتباع [هذه الإرشادات](https://docs.microsoft.com/MicrosoftTeams/msi-deployment) أو يمكنك [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads)أن تدع المستخدمين يقومون بتثبيت Teams لأنفسهم من .
+> إذا كنت لا تريد الانتظار لهذا الجدول التمهيدي، يمكنك نشر Teams كمستقل للمستخدمين باتباع [هذه الإرشادات](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)   أو يمكنك أن تدع المستخدمين يقومون بتثبيت Teams لأنفسهم من  [https://teams.microsoft.com/downloads](https://teams.microsoft.com/downloads) .
 
 إذا لم تكن مؤسستك مستعدة لنشر Teams، فلدينا الخطوات التي يمكنك اتخاذها ***لاستبعاد الفرق*** من عمليات التثبيت [الجديدة](https://docs.microsoft.com/deployoffice/teams-install#how-to-exclude-microsoft-teams-from-new-installations-of-microsoft-365-apps) أو [الحالية](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-control-the-installation-of-microsoft-teams) في Office. إذا كنت تريد تثبيت الفرق، ولكنك لا تريد أن تبدأ الفرق تلقائيًا للمستخدم بعد تثبيته، فراجع [منع Microsoft Teams من البدء تلقائيًا بعد التثبيت](https://docs.microsoft.com/deployoffice/teams-install#use-group-policy-to-prevent-microsoft-teams-from-starting-automatically-after-installation).
 
