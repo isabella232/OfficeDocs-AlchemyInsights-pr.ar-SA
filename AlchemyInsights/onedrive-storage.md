@@ -14,26 +14,17 @@ ms.custom:
 - "2398"
 - "9000354"
 ms.assetid: 71fc8106-d11f-46e7-9af0-81708546c437
-ms.openlocfilehash: 625040199ad94749870efd3654af1525dd9c3bca
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: de352e3576665cd3a758ecd488b48f625308ad3d
+ms.sourcegitcommit: 4aa64fe36c18654ebeadf8f34d7a3ff24c3aa230
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40049036"
+ms.lasthandoff: 06/09/2020
+ms.locfileid: "44667835"
 ---
-# <a name="manage-your-onedrive-storage"></a><span data-ttu-id="8c357-102">أداره تخزين OneDrive الخاص بك</span><span class="sxs-lookup"><span data-stu-id="8c357-102">Manage your OneDrive storage</span></span>
+# <a name="manage-your-onedrive-storage"></a><span data-ttu-id="75570-102">إدارة سعة التخزين الخاصة بـ OneDrive</span><span class="sxs-lookup"><span data-stu-id="75570-102">Manage your OneDrive storage</span></span>
 
-<span data-ttu-id="8c357-103">لا تحتسب مساحة التخزين في OneDrive نحو حصة المستاجر الاجماليه.</span><span class="sxs-lookup"><span data-stu-id="8c357-103">OneDrive Storage space does not count toward overall Tenant Quota.</span></span> 
+<span data-ttu-id="75570-103">يمكنك إدارة OneDrive for Business لمعرفة مقدار المساحة التي تستخدمها وتحرير المساحة.</span><span class="sxs-lookup"><span data-stu-id="75570-103">You can manage your OneDrive for Business to see how much space you’re using and free up space.</span></span>  <span data-ttu-id="75570-104">لمزيد من المعلومات يرجى زيارة الروابط أدناه.</span><span class="sxs-lookup"><span data-stu-id="75570-104">For more information visit the links below.</span></span>
 
-<span data-ttu-id="8c357-104">[التعرف علي كيفيه تخصيص مساحة تخزين OneDrive لكل مستخدم/خطه](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user).</span><span class="sxs-lookup"><span data-stu-id="8c357-104">Learn [how OneDrive storage space is allocated per user/plan](https://docs.microsoft.com/office365/servicedescriptions/onedrive-for-business-service-description?redirectedfrom=MSDN#storage-space-per-user).</span></span>
-
-<span data-ttu-id="8c357-105">تعرف [علي مقدار التخزين الذي تستخدمه في OneDrive](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).</span><span class="sxs-lookup"><span data-stu-id="8c357-105">Learn [how much storage you are using in your OneDrive](https://support.office.com/article/manage-your-onedrive-for-business-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).</span></span>
-
-<span data-ttu-id="8c357-106">تعرف [علي كيفيه الحصول علي الحصة النسبية للتخزين في OneDrive باستخدام PowerShell](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614).</span><span class="sxs-lookup"><span data-stu-id="8c357-106">Learn [how to get OneDrive Storage Quota using PowerShell](https://gallery.technet.microsoft.com/scriptcenter/OneDrive-for-Business-0cb45614).</span></span>
-
-<span data-ttu-id="8c357-107">ستوفر Microsoft في البداية 1 تيرابايت لكل مستخدم ، والتي يمكن للمسؤولين زيادتها إلى 5 تيرابايت لكل مستخدم.</span><span class="sxs-lookup"><span data-stu-id="8c357-107">Microsoft will initially provide 1 TB per user, which admins can increase to up to 5 TB per user.</span></span> <span data-ttu-id="8c357-108">[التعرف علي كيفيه تعيين مساحة التخزين الافتراضية لمستخدمي OneDrive](https://docs.microsoft.com/onedrive/set-default-storage-space).</span><span class="sxs-lookup"><span data-stu-id="8c357-108">Learn how to [set the default storage space for OneDrive users](https://docs.microsoft.com/onedrive/set-default-storage-space).</span></span>
-
-<span data-ttu-id="8c357-109">التعرف [علي كيفيه تغيير مساحة التخزين اندريف الخاصة بمستخدم معين](https://docs.microsoft.com/onedrive/change-user-storage).</span><span class="sxs-lookup"><span data-stu-id="8c357-109">Learn [how to change a specific user's OneDrive storage space](https://docs.microsoft.com/onedrive/change-user-storage).</span></span>
-
-<span data-ttu-id="8c357-110">[التعرف علي كيفيه تعيين "المسؤولين العموميين" الحصة النسبية التخزين اندريف لكافة المستخدمين باستخدام PowerShell](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b).</span><span class="sxs-lookup"><span data-stu-id="8c357-110">Learn [how Global Admins can set OneDrive Storage Quota for all users using PowerShell](https://gallery.technet.microsoft.com/office/How-to-set-OneDrive-for-8b61365b).</span></span>
-  
+- [<span data-ttu-id="75570-105">إدارة تخزين OneDrive للأعمال</span><span class="sxs-lookup"><span data-stu-id="75570-105">Manage your OneDrive for Business storage</span></span>](https://support.microsoft.com/office/31519161-059c-4764-b6f8-f5cd29f7fe68)
+- [<span data-ttu-id="75570-106">تغيير مساحة تخزين OneDrive الخاصة بمستخدم معين</span><span class="sxs-lookup"><span data-stu-id="75570-106">Change a specific user's OneDrive storage space</span></span>](https://docs.microsoft.com/onedrive/change-user-storage)
+- [<span data-ttu-id="75570-107">تعيين مساحة التخزين الافتراضية لمستخدمي OneDrive</span><span class="sxs-lookup"><span data-stu-id="75570-107">Set the default storage space for OneDrive users</span></span>](https://docs.microsoft.com/onedrive/set-default-storage-space)
