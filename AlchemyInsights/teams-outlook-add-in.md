@@ -1,5 +1,5 @@
 ---
-title: الوظائف الإضافية لـ "توقعات الفرق"
+title: وظيفة "Outlook" للفرق
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,22 +13,15 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: e71e3bdcc11bf687b486aab634664cfb6eb55fdb
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
+ms.openlocfilehash: e4645f5d589333817d65adffa6d02de9e9bac255
+ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021485"
+ms.lasthandoff: 06/11/2020
+ms.locfileid: "44702193"
 ---
-# <a name="teams-outlook-add-in"></a><span data-ttu-id="70daf-102">الوظائف الإضافية لـ "توقعات الفرق"</span><span class="sxs-lookup"><span data-stu-id="70daf-102">Teams Outlook add-in</span></span>
+# <a name="teams-outlook-add-in"></a><span data-ttu-id="f93f0-102">وظيفة "Outlook" للفرق</span><span class="sxs-lookup"><span data-stu-id="f93f0-102">Teams Outlook add-in</span></span>
 
-<span data-ttu-id="70daf-103">هناك عوامل متعددة قد تتسبب في عدم ظهور الوظيفة الإضافية لفرق العمل، وهي مدرجة [جميعها هنا](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).</span><span class="sxs-lookup"><span data-stu-id="70daf-103">There are multiple factors that could cause your Teams add-in to not appear, and they are all listed [here](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).</span></span>
+<span data-ttu-id="f93f0-103">لاستكشاف أخطاء الوظائف الإضافية في Outlook الفرق المفقودة، تأكد أولاً من تشغيل "تشخيص الخدمة" هنا في "مدخل المسؤول".</span><span class="sxs-lookup"><span data-stu-id="f93f0-103">To troubleshoot a missing Teams Outlook Add-in, first be sure to run the Service Diagnostic here in the Admin Portal.</span></span>  <span data-ttu-id="f93f0-104">إذا كان تشخيص الخدمة يشير إلى أية مشاكل، الرجاء متابعة تحميل وتشغيل [الدعم Microsoft و الاسترداد مساعد](https://aka.ms/SaRA-TeamsAddInScenario) Outlook مساعد الوظيفة الإضافية في **سيناريو** على أجهزة المستخدم المتأثرة لتشخيص وتصحيح أية مشكلات العميل.</span><span class="sxs-lookup"><span data-stu-id="f93f0-104">If the Service Diagnostic indicates no issues, please proceed to download and run the [Microsoft Support and Recovery Assistant](https://aka.ms/SaRA-TeamsAddInScenario) **Teams Outlook Add-in Scenario** on the affected user machines to diagnose and correct any client issues.</span></span>
 
-<span data-ttu-id="70daf-104">**نوصي أولاً بالتحقق من عدم تعطيل الوظيفة الإضافية:**</span><span class="sxs-lookup"><span data-stu-id="70daf-104">**We recommend you first check that the add-in isn’t disabled:**</span></span>
-
-- <span data-ttu-id="70daf-105">في Outlook، انقر فوق **ملف** ثم **خيارات**.</span><span class="sxs-lookup"><span data-stu-id="70daf-105">In Outlook, click **File** and then **Options**.</span></span>
-- <span data-ttu-id="70daf-106">حدد علامة التبويب **الوظائف الإضافية** في مربع حوار **خيارات Outlook.**</span><span class="sxs-lookup"><span data-stu-id="70daf-106">Select the **Add-ins** tab of **Outlook Options** dialog box.</span></span>
-- <span data-ttu-id="70daf-107">تأكد من إدراج **الوظيفة الإضافية لاجتماع فرق Microsoft لـ Microsoft Office** في قائمة الوظائف الإضافية للتطبيق **النشط.**</span><span class="sxs-lookup"><span data-stu-id="70daf-107">Confirm that **Microsoft Teams Meeting Add-in for Microsoft Office** is listed in the **Active Application Add-ins** list.</span></span>
-- <span data-ttu-id="70daf-108">إذا تم سرد الوظيفة الإضافية لاجتماع الفرق في قائمة **الوظائف الإضافية للتطبيق المعطلة،** فحدد **الوظائف الإضافية COM في** **إدارة** ثم انقر فوق **الانتقال...**</span><span class="sxs-lookup"><span data-stu-id="70daf-108">If the Teams Meeting Add-in is listed in the **Disabled Application Add-ins** list, select **COM Add-ins** in **Manage** and then click **Go…**</span></span>
-- <span data-ttu-id="70daf-109">تعيين خانة الاختيار بجوار **Microsoft Teams اجتماع الوظيفة الإضافية لـ Microsoft Office**.</span><span class="sxs-lookup"><span data-stu-id="70daf-109">Set the checkbox next to **Microsoft Teams Meeting Add-in for Microsoft Office**.</span></span>
-- <span data-ttu-id="70daf-110">انقر فوق **موافق** على كافة مربعات الحوار وإعادة تشغيل Outlook.</span><span class="sxs-lookup"><span data-stu-id="70daf-110">Click **OK** on all dialog boxes and restart Outlook.</span></span>
+<span data-ttu-id="f93f0-105">لاستكشاف المشكلة وإصلاحها يدويًا، راجع قائمة العوامل المحتملة التي قد تتسبب في عدم ظهور الوظيفة الإضافية الخاصة بـ Teams [مدرجة هنا](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).</span><span class="sxs-lookup"><span data-stu-id="f93f0-105">To manually troubleshoot the issue, review the list of potential factors that could cause your Teams add-in to not appear listed [here](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).</span></span>
