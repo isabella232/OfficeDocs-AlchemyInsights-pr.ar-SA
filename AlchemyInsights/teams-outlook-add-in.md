@@ -1,5 +1,5 @@
 ---
-title: الوظائف الإضافية لـ "توقعات الفرق"
+title: وظيفة "Outlook" للفرق
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,22 +13,15 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: e71e3bdcc11bf687b486aab634664cfb6eb55fdb
-ms.sourcegitcommit: 1c052f8dada7b7d081c61462396e1de3df682c28
+ms.openlocfilehash: e4645f5d589333817d65adffa6d02de9e9bac255
+ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/05/2020
-ms.locfileid: "44021485"
+ms.lasthandoff: 06/11/2020
+ms.locfileid: "44702193"
 ---
-# <a name="teams-outlook-add-in"></a>الوظائف الإضافية لـ "توقعات الفرق"
+# <a name="teams-outlook-add-in"></a>وظيفة "Outlook" للفرق
 
-هناك عوامل متعددة قد تتسبب في عدم ظهور الوظيفة الإضافية لفرق العمل، وهي مدرجة [جميعها هنا](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
+لاستكشاف أخطاء الوظائف الإضافية في Outlook الفرق المفقودة، تأكد أولاً من تشغيل "تشخيص الخدمة" هنا في "مدخل المسؤول".  إذا كان تشخيص الخدمة يشير إلى أية مشاكل، الرجاء متابعة تحميل وتشغيل [الدعم Microsoft و الاسترداد مساعد](https://aka.ms/SaRA-TeamsAddInScenario) Outlook مساعد الوظيفة الإضافية في **سيناريو** على أجهزة المستخدم المتأثرة لتشخيص وتصحيح أية مشكلات العميل.
 
-**نوصي أولاً بالتحقق من عدم تعطيل الوظيفة الإضافية:**
-
-- في Outlook، انقر فوق **ملف** ثم **خيارات**.
-- حدد علامة التبويب **الوظائف الإضافية** في مربع حوار **خيارات Outlook.**
-- تأكد من إدراج **الوظيفة الإضافية لاجتماع فرق Microsoft لـ Microsoft Office** في قائمة الوظائف الإضافية للتطبيق **النشط.**
-- إذا تم سرد الوظيفة الإضافية لاجتماع الفرق في قائمة **الوظائف الإضافية للتطبيق المعطلة،** فحدد **الوظائف الإضافية COM في** **إدارة** ثم انقر فوق **الانتقال...**
-- تعيين خانة الاختيار بجوار **Microsoft Teams اجتماع الوظيفة الإضافية لـ Microsoft Office**.
-- انقر فوق **موافق** على كافة مربعات الحوار وإعادة تشغيل Outlook.
+لاستكشاف المشكلة وإصلاحها يدويًا، راجع قائمة العوامل المحتملة التي قد تتسبب في عدم ظهور الوظيفة الإضافية الخاصة بـ Teams [مدرجة هنا](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
