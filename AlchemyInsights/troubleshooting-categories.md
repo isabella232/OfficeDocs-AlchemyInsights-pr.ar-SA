@@ -13,14 +13,15 @@ ms.custom:
 - "604"
 - "3800003"
 ms.assetid: dc8c3acf-fe72-4b92-8cdc-6a635502eeb1
-ms.openlocfilehash: a2c6194c515244782eb2111f827a3ea5ed7f7284
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 94143cf349479c5b2e6be87b3a5a11614e0bdfc9
+ms.sourcegitcommit: 722e9a0ed058cb1eab2dd053be2418b60f7d4aac
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43732353"
+ms.lasthandoff: 06/23/2020
+ms.locfileid: "44850760"
 ---
-# <a name="outlook-categories"></a><span data-ttu-id="3e946-102">فئات Outlook</span><span class="sxs-lookup"><span data-stu-id="3e946-102">Outlook categories</span></span>
+# <a name="outlook-categories"></a><span data-ttu-id="9f230-102">فئات التوقعات</span><span class="sxs-lookup"><span data-stu-id="9f230-102">Outlook categories</span></span>
 
-<span data-ttu-id="3e946-103">تسمح لك فئات الألوان بتحديد العناصر المرتبطة بها وتجميعها بسهولة في Microsoft Outlook.</span><span class="sxs-lookup"><span data-stu-id="3e946-103">Color categories allow you to easily identify and group associated items in Microsoft Outlook.</span></span> <span data-ttu-id="3e946-104">لمزيد من المعلومات، راجع [إنشاء فئات الألوان وتعيينها.](https://support.office.com/article/A1FDE97E-15E1-4179-A1A0-8A91EF89B8DC)</span><span class="sxs-lookup"><span data-stu-id="3e946-104">For more information, see [Create and assign color categories](https://support.office.com/article/A1FDE97E-15E1-4179-A1A0-8A91EF89B8DC).</span></span>
-  
+<span data-ttu-id="9f230-103">تنطبق الفئات فقط على العناصر في التقويم الخاص بك.</span><span class="sxs-lookup"><span data-stu-id="9f230-103">Categories only apply to items in your calendar.</span></span> <span data-ttu-id="9f230-104">إذا قمت بتطبيق فئة ملونة على طلب اجتماع أو اجتماع تلقيته من شخص آخر، فستظهر فئة الألوان هذه في التقويم الخاص بك فقط.</span><span class="sxs-lookup"><span data-stu-id="9f230-104">If you apply a color category to a meeting request or a meeting you've received from another person, that color category will only show in your calendar.</span></span>  <span data-ttu-id="9f230-105">إذا قمت بتطبيق فئة ملونة على علبة بريد مشتركة، فإن علبة بريد المفوضين، وصندوق بريد المجموعة، وصندوق بريد الغرفة، وما إلى ذلك، تؤثر فئة الألوان فقط على طريقة العرض الخاصة بك.</span><span class="sxs-lookup"><span data-stu-id="9f230-105">If you apply a color category on a shared mailbox, delegate mailbox, group mailbox, room mailbox, etc. the color category only affects your view.</span></span>
+
+<span data-ttu-id="9f230-106">لمزيد من المعلومات: [تعيين فئة ملونة لموعد تقويم أو اجتماع أو حدث](https://support.microsoft.com/office/750596d9-707d-4412-8c0e-7fdc0fc52527)</span><span class="sxs-lookup"><span data-stu-id="9f230-106">For more information: [Assign a color category to a calendar appointment, meeting, or event](https://support.microsoft.com/office/750596d9-707d-4412-8c0e-7fdc0fc52527)</span></span>
