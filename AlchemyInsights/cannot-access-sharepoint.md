@@ -12,15 +12,15 @@ ms.assetid: ''
 ms.custom:
 - "9000158"
 - "1676"
-ms.openlocfilehash: 5317518d0a27dfdd4d38b4e536d8bd0662b976fe
-ms.sourcegitcommit: f5a3b2f436b00e18cbf337044ea8818726517651
+ms.openlocfilehash: 74f8e9009dd314aab5ce45e9aeff3e3511e4e0c9
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/18/2020
-ms.locfileid: "44278807"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44840878"
 ---
-# <a name="cannot-access-sharepoint"></a><span data-ttu-id="138ad-102">الوصول إلى SharePoint غير ممكن</span><span class="sxs-lookup"><span data-stu-id="138ad-102">Cannot access SharePoint</span></span>
+# <a name="cannot-access-sharepoint"></a><span data-ttu-id="258dc-102">الوصول إلى SharePoint غير ممكن</span><span class="sxs-lookup"><span data-stu-id="258dc-102">Cannot access SharePoint</span></span>
 
-<span data-ttu-id="138ad-103">هناك أسباب عديدة لاحتمالية عدم توفر إمكانية الوصول إلى Microsoft SharePoint أو Microsoft OneDrive.</span><span class="sxs-lookup"><span data-stu-id="138ad-103">There are several reasons why Microsoft SharePoint or Microsoft OneDrive might become inaccessible.</span></span> <span data-ttu-id="138ad-104">إذا لم تتمكن من الوصول إلى SharePoint Online، فاستخدم الإرشادات التالية لاستكشاف هذه المشكلة وإصلاحها.</span><span class="sxs-lookup"><span data-stu-id="138ad-104">If you can't access SharePoint Online, use the following guide to troubleshoot this issue.</span></span>
+<span data-ttu-id="258dc-103">هناك عدة أسباب لماذا SharePoint أو أندريف قد تصبح غير قابلة للوصول.</span><span class="sxs-lookup"><span data-stu-id="258dc-103">There are several reasons why SharePoint or OneDrive might become inaccessible.</span></span> <span data-ttu-id="258dc-104">إذا لم تتمكن من الوصول إلى SharePoint أو OneDrive، استخدم الدليل التالي لاستكشاف هذه المشكلة وإصلاحها.</span><span class="sxs-lookup"><span data-stu-id="258dc-104">If you can't access SharePoint or OneDrive, use the following guide to troubleshoot this issue.</span></span>
 
-- [<span data-ttu-id="138ad-105">تعذر الوصول إلى SharePoint Online</span><span class="sxs-lookup"><span data-stu-id="138ad-105">Unable to access SharePoint Online</span></span>](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)
+- [<span data-ttu-id="258dc-105">غير قادر على الوصول إلى SharePoint أو أندريف</span><span class="sxs-lookup"><span data-stu-id="258dc-105">Unable to Access SharePoint or OneDrive</span></span>](https://docs.microsoft.com/sharepoint/troubleshoot/sharing-and-permissions/sharepoint-online-inaccessible)
