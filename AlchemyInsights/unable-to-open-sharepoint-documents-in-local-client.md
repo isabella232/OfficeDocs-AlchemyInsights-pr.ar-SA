@@ -11,14 +11,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000131"
 - "1827"
-ms.openlocfilehash: ae577b33c37d597477582c6e6ac45304548f97b4
-ms.sourcegitcommit: bd7c03d4e994abb45c43510adca20b7600a87091
-ms.translationtype: MT
+ms.openlocfilehash: af0bbfd4d1a68cf3079b06a17b0d7283f258156b
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
+ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/20/2020
-ms.locfileid: "44357265"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44841058"
 ---
-# <a name="unable-to-open-sharepoint-documents-in-local-client"></a>غير قادر على فتح مستندات Sharepoint في العميل المحلي
+# <a name="unable-to-open-sharepoint-documents-in-local-client"></a>غير قادر على فتح مستندات SharePoint في العميل المحلي
 
-في بعض الأحيان قد تواجه صعوبة في فتح ملفات Office والمستندات من SharePoint في عملاء Office المحليين.
-- [لا يمكن فتح ملفات Office من SharePoint Online](https://docs.microsoft.com/sharepoint/troubleshoot/administration/cant-open-office-files)
+في بعض الأحيان قد تواجه صعوبة في فتح ملفات Office ومستندات من SharePoint أو OneDrive من عملاء Office المحليين.
+
+- [لا يمكن فتح ملفات Office من SharePoint أو أندريف](https://docs.microsoft.com/sharepoint/troubleshoot/administration/cant-open-office-files)
