@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002444"
 - "5493"
-ms.openlocfilehash: 1759240afe18342bd5af205eb36d747803808134
-ms.sourcegitcommit: 07725fcaf073f0ac145f98653b989afdb34c5ad0
-ms.translationtype: HT
+ms.openlocfilehash: 3d2cb4689a0281e0184f2a02ec153208a997e8f7
+ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
+ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/28/2020
-ms.locfileid: "43915002"
+ms.lasthandoff: 06/22/2020
+ms.locfileid: "44840986"
 ---
 # <a name="set-up-a-microsoft-365-education-subscription"></a>إعداد اشتراك Microsoft 365 Education
 
@@ -24,6 +24,5 @@ ms.locfileid: "43915002"
 
 **مزيد من الموارد المفيدة**
 
-- راجع [إعداد مستأجر Office 365 Education](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant) للحصول على نظرة عامة.
-- يمكنك الاطلاع على [بدء استخدام Microsoft 365 Education](https://docs.microsoft.com/education/) لمسؤولي تكنولوجيا المعلومات والمطورين والشركاء. 
-- [قم بإقران حساب Microsoft Store بـ Intune for Education](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/configure-microsoft-store-for-education). 
+- راجع [إنشاء حساب مستأجر Office 365](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant) للحصول على نظرة عامة.
+- راجع [الشروع في العمل مع Microsoft 365 Education](https://docs.microsoft.com/education/) لمسؤولي تكنولوجيا المعلومات والمطورين والشركاء.
