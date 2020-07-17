@@ -14,21 +14,21 @@ ms.custom:
 - "9003071"
 ms.openlocfilehash: a1b792bcb2a73ed89f8cfe74c0b56461dfa465ce
 ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: ar-SA
 ms.lasthandoff: 07/15/2020
 ms.locfileid: "45141294"
 ---
-# <a name="sharepoint-workflows-retiring"></a><span data-ttu-id="32f61-102">مهام سير عمل SharePoint التي يتم سحبها</span><span class="sxs-lookup"><span data-stu-id="32f61-102">SharePoint workflows retiring</span></span>
+# <a name="sharepoint-workflows-retiring"></a><span data-ttu-id="9eba8-102">مهام سير عمل SharePoint التي يتم سحبها</span><span class="sxs-lookup"><span data-stu-id="9eba8-102">SharePoint workflows retiring</span></span>
 
-<span data-ttu-id="32f61-103">يتم الآن تقاعد سير العمل SharePoint 2010 و SharePoint 2013.</span><span class="sxs-lookup"><span data-stu-id="32f61-103">SharePoint 2010 and SharePoint 2013 workflows are being retired.</span></span> <span data-ttu-id="32f61-104">نوصي بالترحيل إلى [Power Automate](https://docs.microsoft.com/power-automate/getting-started) أو إلى حل آخر مدعوم.</span><span class="sxs-lookup"><span data-stu-id="32f61-104">We recommend migrating to [Power Automate](https://docs.microsoft.com/power-automate/getting-started) or another supported solution.</span></span> 
+<span data-ttu-id="9eba8-103">يتم الآن تقاعد سير العمل SharePoint 2010 و SharePoint 2013.</span><span class="sxs-lookup"><span data-stu-id="9eba8-103">SharePoint 2010 and SharePoint 2013 workflows are being retired.</span></span> <span data-ttu-id="9eba8-104">نوصي بالترحيل إلى [Power Automate](https://docs.microsoft.com/power-automate/getting-started) أو إلى حل آخر مدعوم.</span><span class="sxs-lookup"><span data-stu-id="9eba8-104">We recommend migrating to [Power Automate](https://docs.microsoft.com/power-automate/getting-started) or another supported solution.</span></span> 
 
-<span data-ttu-id="32f61-105">التواريخ الرئيسية:</span><span class="sxs-lookup"><span data-stu-id="32f61-105">Key dates:</span></span>
+<span data-ttu-id="9eba8-105">التواريخ الرئيسية:</span><span class="sxs-lookup"><span data-stu-id="9eba8-105">Key dates:</span></span>
 
-- <span data-ttu-id="32f61-106">يتم **إيقاف** تشغيل مهام سير عمل SharePoint 2010 1 أغسطس 2020 لأي مستأجرين تم إنشاؤهم حديثًا.</span><span class="sxs-lookup"><span data-stu-id="32f61-106">August 1, 2020 SharePoint 2010 workflows are **turned off** for any newly created tenants.</span></span>
+- <span data-ttu-id="9eba8-106">يتم **إيقاف** تشغيل مهام سير عمل SharePoint 2010 1 أغسطس 2020 لأي مستأجرين تم إنشاؤهم حديثًا.</span><span class="sxs-lookup"><span data-stu-id="9eba8-106">August 1, 2020 SharePoint 2010 workflows are **turned off** for any newly created tenants.</span></span>
 
-- <span data-ttu-id="32f61-107">تتم **إزالة** خدمات سير العمل 1 نوفمبر 2020 SharePoint 2010 من المستأجرين الحاليين.</span><span class="sxs-lookup"><span data-stu-id="32f61-107">November 1, 2020 SharePoint 2010 workflow services are **removed** from existing tenants.</span></span>
+- <span data-ttu-id="9eba8-107">تتم **إزالة** خدمات سير العمل 1 نوفمبر 2020 SharePoint 2010 من المستأجرين الحاليين.</span><span class="sxs-lookup"><span data-stu-id="9eba8-107">November 1, 2020 SharePoint 2010 workflow services are **removed** from existing tenants.</span></span>
 
-- <span data-ttu-id="32f61-108">يتم **إيقاف** تشغيل مهام سير عمل 1, 2020 SharePoint 2013 من أجل أي مستأجرين تم إنشاؤها حديثاً.</span><span class="sxs-lookup"><span data-stu-id="32f61-108">November 1, 2020 SharePoint 2013 workflows are **turned off** for any newly created tenants.</span></span>
+- <span data-ttu-id="9eba8-108">يتم **إيقاف** تشغيل مهام سير عمل 1, 2020 SharePoint 2013 من أجل أي مستأجرين تم إنشاؤها حديثاً.</span><span class="sxs-lookup"><span data-stu-id="9eba8-108">November 1, 2020 SharePoint 2013 workflows are **turned off** for any newly created tenants.</span></span>
 
-<span data-ttu-id="32f61-109">لمزيد من المعلومات، راجع [دعم سير العمل في SharePoint](https://aka.ms/sp-workflows-support).</span><span class="sxs-lookup"><span data-stu-id="32f61-109">For more info, see [SharePoint Workflows Support](https://aka.ms/sp-workflows-support).</span></span>
+<span data-ttu-id="9eba8-109">لمزيد من المعلومات، راجع [دعم سير العمل في SharePoint](https://aka.ms/sp-workflows-support).</span><span class="sxs-lookup"><span data-stu-id="9eba8-109">For more info, see [SharePoint Workflows Support](https://aka.ms/sp-workflows-support).</span></span>
