@@ -1,5 +1,5 @@
 ---
-title: التحقق من وحدة التخصيب
+title: التحقق من التعليمة العامة
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,17 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500009"
 - "5578"
-ms.openlocfilehash: 7bb3a74137fd6c08165a882923087aac750c6fe4
-ms.sourcegitcommit: f573e83f6eddff471449c1c3f292ba23d139b972
+ms.openlocfilehash: 1889eb9b18f312da00196d575376960bc6b028fd
+ms.sourcegitcommit: 9e44b852d18a2816acac0aacb78cb99b4c114368
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/07/2020
-ms.locfileid: "44138718"
+ms.lasthandoff: 07/22/2020
+ms.locfileid: "45205254"
 ---
-# <a name="edu-verification"></a>التحقق من وحدة التخصيب
+# <a name="edu-verification"></a>التحقق من التعليمة العامة
 
-ستتلقى رسالة بريد إلكتروني تعلمك ما إذا تمت الموافقة على أهلية مؤسستك أم لا.
+في معظم الحالات، تتم معالجة طلبات الأهلية الأكاديمية في غضون 24-48 ساعة. قد تتطلب بعض الطلبات مراجعة أكثر دقة وقد تستغرق المعالجة ما يصل إلى 10 أيام عمل. بمجرد الانتهاء، سنرسل رسالة إلكترونية تتضمن حالة الأهلية في مدرستك.
 
-في بعض الحالات، قد تحتاج إلى الانتظار لمدة تصل إلى 48 ساعة حتى يكتمل التحقق من DNS. يمكنك النقر فوق "سأتحقق لاحقًا" وتعود لاحقًا وسجّل الدخول إلى بوابة Office 365؛ ثم انتقل إلى ** [مركز المسؤول](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/homepage) > الإعدادات** وانقر فوق [النطاقات](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/Domains) للتحقق من إدخال الحالة لنطاقك.
+**مهم** إذا خرجت من معالج التحقق قبل الدخول إلى مجال، يمكنك [استئناف معالج التحقق الأكاديمي](https://go.microsoft.com/fwlink/p/?linkid=2135255) في أي وقت أثناء الفترة التجريبية المجانية.
 
-عند الموافقة، يمكنك الانتقال إلى علامة التبويب **[خدمات الشراء](https://go.microsoft.com/fwlink/p/?linkid=868433)** في مركز إدارة Microsoft لشراء الاشتراكات.
+إذا كنت ترغب في التحقق من حالة المجال الخاص بك، انتقل إلى [مركز إدارة Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2024339). في الصفحة الرئيسية، مرر إلى الأسفل وابحث عن بطاقة **الفوترة.** تشير بطاقة **الفوترة** إلى حالة عملية التحقق (تمت الموافقة عليها أو تعليقها أو رفضها أو إضافة نطاقك).
+
+إذا تم رفض طلبك، راجع [مدرستي غير مؤهلة. ماذا أفعل الآن؟](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/verify-academic-eligibility#my-school-isnt-eligible-what-do-i-do-now)
