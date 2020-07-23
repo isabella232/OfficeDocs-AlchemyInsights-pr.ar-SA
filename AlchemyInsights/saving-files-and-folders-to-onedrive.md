@@ -11,23 +11,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003073"
 - "5903"
-ms.openlocfilehash: 7b9d56bf2b95b534a4936b7f1a1544c40e75f450
-ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
+ms.openlocfilehash: 3bce20c922e3beceb29f06e97184826a3d05fd8c
+ms.sourcegitcommit: fceb55831ea461d2ae2988e30ec0bbb0a705ceb8
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "44846835"
+ms.lasthandoff: 07/23/2020
+ms.locfileid: "45374995"
 ---
 # <a name="saving-files-and-folders-to-onedrive"></a>حفظ الملفات والمجلدات إلى OneDrive
 
-هناك طرق مختلفة لحفظ الملفات وحفظ الملفات إلى OneDrive.
+هناك طرق مختلفة لحفظ الملفات وحفظ الملفات إلى OneDrive. إذا كنت تواجه مشاكل في حفظ الملفات إلى OneDrive، فجرّب ما يلي:
 
-- إذا كنت تواجه مشاكل في حفظ الملفات إلى OneDrive، يمكنك محاولة ما يلي:
-
-- انقر على السحابة الزرقاء في شريط المهام، وانظر إذا كان هناك أي أخطاء يمكنك تصحيحها في النافذة المنبثقة.
-- احفظ الملفات في مكان آخر غير مجلد OneDrive، ثم حاول نقل الملفات مرة أخرى إلى مجلد OneDrive.
-- إعادة تشغيل الجهاز ومحاولة حفظ مرة أخرى. إذا كان أحد التطبيقات مفتوحًا، في كثير من الحالات، يتعذر على OneDrive مزامنة الملف حتى لا يعد التطبيق يستخدمه.
-- حاول إلغاء الربط وإعادة ربط OneDrive. للقيام بذلك، انتقل إلى رمز OneDrive على شريط المهام > انقر بزر الماوس الأيمن فوق > الحساب > إلغاء ربط هذا الكمبيوتر. انقر فوق رمز OneDrive في شريط المهام مرة أخرى ثم تسجيل الدخول.
-- إذا كنت تواجه مشكلة في التخزين، راجع [إدارة OneDrive الخاص بك لوحدة تخزين الأعمال](https://support.microsoft.com/office/31519161-059c-4764-b6f8-f5cd29f7fe68).
+- حدد السحابة الزرقاء في شريط المهام، وقم بتصحيح أي أخطاء تظهر في النافذة المنبثقة.
+- احفظ الملفات في مكان آخر غير مجلد OneDrive الخاص بك، ثم حاول نقل الملفات مرة أخرى إلى مجلد OneDrive.
+- إعادة تشغيل الجهاز ومحاولة حفظ مرة أخرى. في كثير من الحالات، إذا كان تطبيق ما ملف مفتوح، لا يمكن لـ OneDrive مزامنة الملف حتى لا يستخدمه التطبيق.    
+- حاول إلغاء ربط OneDrive وإعادة ربطه عن طريق تحديد رمز OneDrive الأزرق على شريط المهام > **التعليمات & إعدادات**  >  **حساب**إلغاء ربط هذا  >  **الكمبيوتر.** حدد رمز OneDrive الأزرق في شريط المهام مرة أخرى، ثم قم بتسجيل الدخول.
+- إذا كنت تواجه مشكلة في التخزين، راجع [إدارة OneDrive للتخزين في العمل أو المدرسة](https://support.microsoft.com/office/manage-your-onedrive-for-work-or-school-storage-31519161-059c-4764-b6f8-f5cd29f7fe68).
 - لمزيد من المعلومات حول استكشاف الأخطاء وإصلاحها، راجع [إصلاح مشكلات مزامنة OneDrive](https://docs.microsoft.com/alchemyinsights/fix-onedrive-sync-issues).  
-- إذا كنت تبحث عن تخصيص تجربة الحفظ الخاصة بك باستخدام Office وOneDrive، [فُرّك تخصيص تجربة الحفظ في Office](https://support.microsoft.com/office/786200a7-f5f2-4d26-a3ae-b78c60dd5d3b).
+
+إذا كنت تريد تخصيص تجربة الحفظ الخاصة بك باستخدام Office وOneDrive، ف راجع [تخصيص تجربة الحفظ في Office](https://support.microsoft.com/office/customize-the-save-experience-in-office-786200a7-f5f2-4d26-a3ae-b78c60dd5d3b).
