@@ -1,0 +1,31 @@
+---
+title: نقل الملفات من OneDrive.com أو موفر آخر إلى أندريف للعمل
+ms.author: pebaum
+author: pebaum
+manager: scotv
+ms.date: 07/24/2020
+ms.audience: Admin
+ms.topic: article
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "2588"
+- "9000668"
+ms.openlocfilehash: d63156755ec564e252f5289977bbcd5679348a7b
+ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.translationtype: MT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 07/28/2020
+ms.locfileid: "45438681"
+---
+# <a name="move-files-from-onedrivecom-or-another-provider-into-onedrive-for-business"></a><span data-ttu-id="18c67-102">نقل الملفات من OneDrive.com أو موفر آخر إلى أندريف للعمل</span><span class="sxs-lookup"><span data-stu-id="18c67-102">Move files from OneDrive.com or another provider into OneDrive for Business</span></span>
+
+<span data-ttu-id="18c67-103">إذا كان لديك حق الوصول المحلي إلى الملفات، يمكنك نقل الملفات إلى OneDrive for Business عن طريق تحميلها في مستعرض ويب أو باستخدام عميل مزامنة OneDrive.</span><span class="sxs-lookup"><span data-stu-id="18c67-103">If you have local access to your files, you can move files to OneDrive for Business by uploading them in a web browser or by using the OneDrive sync client.</span></span> <span data-ttu-id="18c67-104">لدينا أدوات إضافية لمساعدتك على التحرك:</span><span class="sxs-lookup"><span data-stu-id="18c67-104">We have additional tools to help you move:</span></span>
+
+- <span data-ttu-id="18c67-105">احصل على نظرة عامة شاملة حول الطرق التي يمكنك من خلالها نقل المحتوى إلى OneDrive for Business.</span><span class="sxs-lookup"><span data-stu-id="18c67-105">Get a comprehensive overview of the ways you can move your content to OneDrive for Business.</span></span> <span data-ttu-id="18c67-106">لمزيد من المعلومات، راجع [ترحيل المحتوى إلى Microsoft 365](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).</span><span class="sxs-lookup"><span data-stu-id="18c67-106">For more info, see [Migrate your content to Microsoft 365](https://docs.microsoft.com/sharepointmigration/migrate-to-sharepoint-online).</span></span>
+- <span data-ttu-id="18c67-107">ستحتاج إلى استخدام خطوات مختلفة لنقل دفاتر ملاحظات OneNote.</span><span class="sxs-lookup"><span data-stu-id="18c67-107">You’ll need to use different steps to move your OneNote notebooks.</span></span> <span data-ttu-id="18c67-108">لمزيد من المعلومات، راجع [نقل دفتر ملاحظات OneNote إلى OneDrive](https://support.office.com/article/move-a-onenote-notebook-to-onedrive-0af0a141-0bdf-49ab-9e50-45dbcca44082).</span><span class="sxs-lookup"><span data-stu-id="18c67-108">For more info, see [Move a OneNote notebook to OneDrive](https://support.office.com/article/move-a-onenote-notebook-to-onedrive-0af0a141-0bdf-49ab-9e50-45dbcca44082).</span></span>
+    
+- <span data-ttu-id="18c67-109">إعداد الملفات حسب الطلب.</span><span class="sxs-lookup"><span data-stu-id="18c67-109">Set up Files On Demand.</span></span> <span data-ttu-id="18c67-110">يمكنك استخدام الملفات حسب الطلب لكل من Windows و Mac.</span><span class="sxs-lookup"><span data-stu-id="18c67-110">You can use Files On Demand for both Windows and Mac.</span></span> <span data-ttu-id="18c67-111">لمزيد من المعلومات، راجع [حفظ مساحة القرص باستخدام OneDrive Files On-Demand لـ Windows 10،](https://support.office.com/article/Save-disk-space-with-OneDrive-Files-On-Demand-for-Windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e) ثم حفظ مساحة القرص مع [OneDrive Files On-Demand لنظام التشغيل Mac](https://support.office.com/article/Save-disk-space-with-OneDrive-Files-On-Demand-for-Mac-529f6d53-e572-4922-a585-e7a318c135f0).</span><span class="sxs-lookup"><span data-stu-id="18c67-111">For more info, see [Save disk space with OneDrive Files On-Demand for Windows 10](https://support.office.com/article/Save-disk-space-with-OneDrive-Files-On-Demand-for-Windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e)  and [Save disk space with OneDrive Files On-Demand for Mac](https://support.office.com/article/Save-disk-space-with-OneDrive-Files-On-Demand-for-Mac-529f6d53-e572-4922-a585-e7a318c135f0).</span></span>
+- <span data-ttu-id="18c67-112">قم بعمل نسخة احتياطية من المجلدات الهامة (مجلدات سطح المكتب والمستندات والصور) على كمبيوتر Windows مع النسخ الاحتياطي لمجلد OneDrive للكمبيوتر الشخصي، بحيث تكون محمية ومتاحة على أجهزة أخرى.</span><span class="sxs-lookup"><span data-stu-id="18c67-112">Back up important folders (Desktop, Documents, and Pictures folders) on your Windows PC with OneDrive PC folder backup, so they're protected and available on other devices.</span></span> <span data-ttu-id="18c67-113">لمزيد من المعلومات، راجع [نسخ المستندات والصور ومجلدات سطح المكتب احتياطيًا باستخدام OneDrive](https://support.office.com/article/back-up-your-documents-pictures-and-desktop-folders-with-onedrive-d61a7930-a6fb-4b95-b28a-6552e77c3057) وكيف [يحمي OneDrive بياناتك في مجموعة النظراء](https://support.office.com/article/how-onedrive-safeguards-your-data-in-the-cloud-23c6ea94-3608-48d7-8bf0-80e142edd1e1).</span><span class="sxs-lookup"><span data-stu-id="18c67-113">For more info, see [Back up your Documents, Pictures, and Desktop folders with OneDrive](https://support.office.com/article/back-up-your-documents-pictures-and-desktop-folders-with-onedrive-d61a7930-a6fb-4b95-b28a-6552e77c3057) and [How OneDrive safeguards your data in the cloud](https://support.office.com/article/how-onedrive-safeguards-your-data-in-the-cloud-23c6ea94-3608-48d7-8bf0-80e142edd1e1).</span></span> 
+- <span data-ttu-id="18c67-114">عند نقل الملفات المشتركة إلى OneDrive for Business، يتم التعرف عليها كملفات جديدة، لذا قد ترغب في مشاركة الملفات مرة أخرى.</span><span class="sxs-lookup"><span data-stu-id="18c67-114">When you move shared files to OneDrive for Business, they're recognized as new files, so you might want to share your files again.</span></span> <span data-ttu-id="18c67-115">لمزيد من المعلومات، راجع [مشاركة الملفات في OneDrive للعمل](https://support.office.com/article/Move-files-from-OneDrive-to-OneDrive-for-Business-7fb28cad-7e25-451f-8b4b-2d1a71e5c0e9#sharefiles).</span><span class="sxs-lookup"><span data-stu-id="18c67-115">For more info, see [Share files in OneDrive for Business](https://support.office.com/article/Move-files-from-OneDrive-to-OneDrive-for-Business-7fb28cad-7e25-451f-8b4b-2d1a71e5c0e9#sharefiles).</span></span>
