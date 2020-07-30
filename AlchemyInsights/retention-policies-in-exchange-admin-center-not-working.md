@@ -1,5 +1,5 @@
 ---
-title: سياسات الاحتفاظ في مركز إدارة Exchange لا تعمل
+title: نُهج الاستبقاء في مركز إدارة Exchange لا تعمل
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,38 +12,40 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 3040365b9d686bcbcce60977ee9bdbbaffc70b24
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 4d3ca121c8d22a0900f136f7f2a754dfb5b435f5
+ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44502594"
+ms.lasthandoff: 07/29/2020
+ms.locfileid: "46522794"
 ---
-# <a name="retention-policies-in-exchange-admin-center"></a>سياسات الاحتفاظ في مركز إدارة Exchange
+# <a name="retention-policies-in-exchange-admin-center"></a>نُهج الاستبقاء في مركز إدارة Exchange
 
- **المشكلة:** لا يتم تطبيق نُهج الاحتفاظ التي تم إنشاؤها أو تحديثها حديثًا في مركز Exchange Admin على صناديق البريد أو العناصر التي لا يتم نقلها إلى صندوق بريد الأرشيف أو حذفها. 
+إذا كنت تريد منا تشغيل الشيكات التلقائية للإعدادات المذكورة أدناه، حدد زر العودة <-- في أعلى هذه الصفحة، ثم أدخل عنوان البريد الإلكتروني للمستخدم الذي لديه مشاكل مع سياسات الاستبقاء.
+
+ **المسألة:** نُهج الاستبقاء التي تم إنشاؤها حديثاً أو تحديثها في مركز إدارة Exchange لا يتم تطبيقها على علب البريد أو لا يتم نقل العناصر إلى علبة بريد الأرشيف أو حذفها. 
   
  **الأسباب الجذرية:**
   
-- قد يكون هذا بسبب لم يعالج **"مساعد المجلد المدار"** علبة بريد المستخدم. يحاول "مساعد المجلد المدار" معالجة كل علبة بريد في المؤسسة المستندة إلى مجموعة النظراء مرة كل سبعة أيام. إذا قمت بتغيير علامة الاحتفاظ أو تطبيق نهج استبقاء مختلف على علبة بريد، يمكنك الانتظار حتى يعالج "مساعدة المجلد المدارة" علبة البريد، أو يمكنك تشغيل cmdlet بدء التشغيل المدارة FolderAssistant لبدء تشغيل "مساعد المجلد المدارة" لمعالجة علبة بريد معينة. تشغيل هذا cmdlet مفيد لاختبار أو استكشاف الأخطاء وإصلاحها نهج الاحتفاظ أو إعدادات علامة الاحتفاظ. لمزيد من المعلومات، قم [بزيارة تشغيل مساعد المجلد المدار](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
+- قد يكون هذا بسبب **"مساعد المجلد المدار"** لم تتم معالجة علبة البريد الخاصة بالمستخدم. يحاول "مساعد المجلد المُدار" معالجة كل علبة بريد في المؤسسة المستندة إلى مجموعة النظراء مرة كل سبعة أيام. إذا قمت بتغيير علامة استبقاء أو تطبيق نهج استبقاء مختلف على علبة بريد، يمكنك الانتظار حتى معالجة "مساعدة المجلدات المدارة" علبة البريد، أو يمكنك تشغيل cmdlet Start-ManagedFolderAssistant لبدء "مساعد المجلدات المدارة" لمعالجة علبة بريد معينة. إن تشغيل cmdlet هذا مفيد لاختبار أو استكشاف نهج استبقاء أو إعدادات علامة الاستبقاء وإصلاحها. لمزيد من المعلومات، قم بزيارة [تشغيل مساعد المجلدات المدارة](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
     
-  - **الحل:** تشغيل الأمر التالي لبدء تشغيل "مساعد المجلد المدارة" لعلبة بريد معينة:
+  - **الحل:** تشغيل الأمر التالي لبدء تشغيل "مساعد المجلدات المدارة" لعلبة بريد معينة:
     
   ```
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
   ```
 
-- قد يحدث هذا أيضاً إذا تم **تمكين** **RetentionHold** على علبة البريد. إذا تم وضع علبة البريد على HoldHold، لن تتم معالجة نهج الاحتفاظ على علبة البريد خلال ذلك الوقت. لمزيد من المعلوماتية على إعداد RetentionHold انظر: [احتجاز الاحتفاظ بعلبة البريد](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
+- قد يحدث هذا أيضًا إذا تم **تمكين** **استبقاء** على علبة البريد. إذا تم وضع علبة البريد على استبقاء، لن تتم معالجة نهج الاستبقاء على علبة البريد خلال ذلك الوقت. لمزيد من المعلومات على إعداد الاحتفاظ انظر: [احتجاز الاحتفاظ علبة البريد](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
     
     **حل:**
     
-  - تحقق من حالة إعداد RetentionHold على علبة بريد محددة في [EXO powershell:](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps)
+  - تحقق من حالة إعداد الاحتفاظ على علبة البريد المحددة في [EXO powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps):
     
   ```
   Get-Mailbox -Identity <name of the mailbox> |fl *retentionHold*
   ```
 
-  - تشغيل الأمر التالي **لتعطيل** RetentionHoldعلى علبة بريد معينة:
+  - تشغيل الأمر التالي **لتعطيل** الاحتفاظ على علبة بريد معينة:
     
   ```
   Set-Mailbox -RetentionHoldEnabled $false
@@ -55,10 +57,10 @@ ms.locfileid: "44502594"
   Start-ManagedFolderAssistant -Identity <name of the mailbox>
   ```
 
- **ملاحظة:** إذا كان علبة البريد أصغر من 10 ميغابايت، لن يقوم "مساعد المجلد المدار" بمعالجة علبة البريد تلقائياً.
+ **ملاحظة:** إذا كان علبة بريد أصغر من 10 ميغابايت، مساعد المجلدات المدارة لا تلقائياً معالجة علبة البريد.
  
-لمزيد من المعلومات حول نُهج الاحتفاظ في مركز إدارة Exchange، راجع:
-- [علامات الاحتفاظ وسياسات الاحتفاظ](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
-- [تطبيق نهج الاحتفاظ على علب البريد](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
-- [إضافة علامات الاحتفاظ أو إزالتها](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
-- [كيفية تحديد نوع الانتظار الموضوع على علبة بريد](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)
+لمزيد من المعلومات حول نُهج الاستبقاء في مركز إدارة Exchange، راجع:
+- [علامات الاستبقاء وسياسات الاستبقاء](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
+- [تطبيق نهج استبقاء على علب البريد](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
+- [إضافة علامات الاستبقاء أو إزالتها](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
+- [كيفية تحديد نوع احتجاز وضع على علبة بريد](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)
