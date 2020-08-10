@@ -1,5 +1,5 @@
 ---
-title: تعيين تراخيص المستخدمين أو إزالتها
+title: تعيين تراخيص المستخدمين أو ازالتها
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
@@ -11,19 +11,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 175af24e-b863-42ca-84e5-fb920f472b12
-ms.openlocfilehash: 19dab63d93c4cb6b600e39f38bc1619f1359939c
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 95a2dea28c951fbec3c4818ceb48e7d4e5cbb0e3
+ms.sourcegitcommit: 409cb0b2f43dad077d812b3459cd39ad00c17754
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506358"
+ms.lasthandoff: 08/10/2020
+ms.locfileid: "46603397"
 ---
-# <a name="assign-or-remove-users-licenses"></a>تعيين تراخيص المستخدمين أو إزالتها
+# <a name="assign-or-remove-user-licenses"></a>تعيين تراخيص المستخدمين أو ازالتها
 
-كمسؤول، يمكنك ضبط تراخيص المستخدمين حسب الحاجة. سوف تظهر لك المقالات أدناه كيفية إدارة تراخيص المستخدمين، بما في ذلك:
+بصفتك مسؤولا ، يمكنك ضبط تراخيص المستخدمين كما تقتضي الحاجة. توضح لك هذه المقالات كيفيه أداره تراخيص المستخدمين:
   
-- [تعيين تراخيص للمستخدمين في Microsoft 365 للأعمال](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users)
+- [تعيين تراخيص للمستخدمين في Microsoft 365 for business](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups?context=azure/active-directory/users-groups-roles/context/ugr-context)
 
-- [إلغاء تعيين تراخيص من المستخدمين في Microsoft 365 للأعمال](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/remove-licenses-from-users)
+- [إلغاء تعيين التراخيص من المستخدمين في Microsoft 365 for business](https://docs.microsoft.com/azure/active-directory/fundamentals/license-users-groups?context=azure/active-directory/users-groups-roles/context/ugr-context#remove-a-license)
 
-لم تجب على سؤالك؟ لا توجد مشكلة! استخدم زر "الحاجة إلى المساعدة" للتحدث إلى مهندس دعم.
+الم ترد علي سؤالك ؟ لا توجد مشكلة! استخدم الزر "الحاجة إلى المساعدة" للتحدث إلى مهندس دعم.
