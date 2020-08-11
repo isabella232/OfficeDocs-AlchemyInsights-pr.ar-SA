@@ -1,5 +1,5 @@
 ---
-title: 'كيفية التحقق من نطاقك '
+title: 'كيفيه التحقق من المجال '
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 1aa0b489e9f300f930663532fde7f9022b948bc1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5e6e501d24f1654a73761797cea5499e2c2d0c0e
+ms.sourcegitcommit: 5c424cf68afacdb7a97c01b1e1723f8ebffdefab
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509011"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634293"
 ---
-# <a name="how-to-verify-your-domain"></a>كيفية التحقق من نطاقك
+# <a name="how-to-verify-your-domain"></a>كيفيه التحقق من المجال
 
-للتحقق من نطاقك، ستحتاج إلى إضافة سجل TXT إلى مسجل النطاق الخاص بك للتحقق من امتلاكك لنطاقك. أولاً، اتبع [معالج إضافة مجال](https://portal.office.com/adminportal/home#/Domains/Wizard) بالنقر فوق مجالات **الإعداد،** ثم قم \> **Domains** **بإضافة المجال**.
-  
-اتبع الإرشادات الموجودة في [إنشاء سجلات DNS في أي موفر استضافة DNS](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) لإضافة سجل TXT للتحقق من نطاقك.
+للتحقق من مجال ، اتبع [معالج أضافه مجال](https://portal.office.com/adminportal/home#/Domains/Wizard)، أو انتقل يدويا إلى **إعدادات**  >  **Domains**  >  **أضافه مجال**.
 
-لمشكلات المجالات الأخرى حاول [الأسئلة الشائعة](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)حول المجالات .
+للحصول علي مزيد من المعلومات حول كيفيه أضافه سجل TXT للتحقق من مجالك ، راجع الإرشادات الموجودة في [أضافه سجلات DNS لتوصيل مجالك](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+
+بالنسبة إلى اسئله المجالات الأخرى ، راجع الاسئله [المتداولة حول المجالات](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).
