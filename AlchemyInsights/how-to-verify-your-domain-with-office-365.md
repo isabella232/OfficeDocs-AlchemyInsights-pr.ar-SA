@@ -1,5 +1,5 @@
 ---
-title: 'كيفية التحقق من نطاقك '
+title: 'كيفيه التحقق من المجال '
 ms.author: v-crytho
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: 1aa0b489e9f300f930663532fde7f9022b948bc1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5e6e501d24f1654a73761797cea5499e2c2d0c0e
+ms.sourcegitcommit: 5c424cf68afacdb7a97c01b1e1723f8ebffdefab
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44509011"
+ms.lasthandoff: 08/11/2020
+ms.locfileid: "46634293"
 ---
-# <a name="how-to-verify-your-domain"></a><span data-ttu-id="41df1-102">كيفية التحقق من نطاقك</span><span class="sxs-lookup"><span data-stu-id="41df1-102">How to verify your domain</span></span>
+# <a name="how-to-verify-your-domain"></a><span data-ttu-id="8e455-102">كيفيه التحقق من المجال</span><span class="sxs-lookup"><span data-stu-id="8e455-102">How to verify your domain</span></span>
 
-<span data-ttu-id="41df1-103">للتحقق من نطاقك، ستحتاج إلى إضافة سجل TXT إلى مسجل النطاق الخاص بك للتحقق من امتلاكك لنطاقك.</span><span class="sxs-lookup"><span data-stu-id="41df1-103">To verify your domain, you will need to add a TXT record to your domain registrar to verify that you own your domain.</span></span> <span data-ttu-id="41df1-104">أولاً، اتبع [معالج إضافة مجال](https://portal.office.com/adminportal/home#/Domains/Wizard) بالنقر فوق مجالات **الإعداد،** ثم قم \> **Domains** **بإضافة المجال**.</span><span class="sxs-lookup"><span data-stu-id="41df1-104">First, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains/Wizard) by clicking **Setup** \> **Domains**, and then **Add domain**.</span></span>
-  
-<span data-ttu-id="41df1-105">اتبع الإرشادات الموجودة في [إنشاء سجلات DNS في أي موفر استضافة DNS](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) لإضافة سجل TXT للتحقق من نطاقك.</span><span class="sxs-lookup"><span data-stu-id="41df1-105">Follow the instructions in [Create DNS records at any DNS hosting provider](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider) to add a TXT record to verify your domain.</span></span>
+<span data-ttu-id="8e455-103">للتحقق من مجال ، اتبع [معالج أضافه مجال](https://portal.office.com/adminportal/home#/Domains/Wizard)، أو انتقل يدويا إلى **إعدادات**  >  **Domains**  >  **أضافه مجال**.</span><span class="sxs-lookup"><span data-stu-id="8e455-103">To verify a domain, follow the [Add Domain wizard](https://portal.office.com/adminportal/home#/Domains/Wizard), or manually go to **Setup** > **Domains** > **Add domain**.</span></span>
 
-<span data-ttu-id="41df1-106">لمشكلات المجالات الأخرى حاول [الأسئلة الشائعة](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq)حول المجالات .</span><span class="sxs-lookup"><span data-stu-id="41df1-106">For other domains issues try the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span></span>
+<span data-ttu-id="8e455-104">للحصول علي مزيد من المعلومات حول كيفيه أضافه سجل TXT للتحقق من مجالك ، راجع الإرشادات الموجودة في [أضافه سجلات DNS لتوصيل مجالك](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span><span class="sxs-lookup"><span data-stu-id="8e455-104">For more information about how to add a TXT record to verify your domain, see the instructions in [Add DNS records to connect your domain](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span></span>
+
+<span data-ttu-id="8e455-105">بالنسبة إلى اسئله المجالات الأخرى ، راجع الاسئله [المتداولة حول المجالات](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span><span class="sxs-lookup"><span data-stu-id="8e455-105">For other domains questions, see the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span></span>
