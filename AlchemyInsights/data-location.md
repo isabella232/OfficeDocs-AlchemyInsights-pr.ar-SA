@@ -10,27 +10,15 @@ ms.custom:
 - "945"
 - "5300023"
 ms.assetid: 3bab036c-dbaa-406a-8b73-1e5f31993436
-ms.openlocfilehash: c769c17796d805f88afb4d5b32adb7d4a9bb3ce0
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 571c82d47bea7ca34a204ddd6fc89b7657808a23
+ms.sourcegitcommit: dab885f2cb99057e959fb9be334f5a3a26a64058
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43655269"
+ms.lasthandoff: 08/13/2020
+ms.locfileid: "46665485"
 ---
 # <a name="data-location"></a>موقع البيانات
 
-يمكنك عرض موقع المستأجر الخاص بك في مركز المشرف أو عن طريق الاتصال بExchange Online عبر PowerShell.
+يمكنك عرض موقع المستاجر في مركز الاداره عن طريق الانتقال إلى صفحه [ **ملف تعريف المؤسسة** ](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile) وتحديد **موقع البيانات**.
 
-
-**مركز المشرف:**
-1. تسجيل الدخول إلى [مركز المشرف](https://admin.microsoft.com/Adminportal/Home).
-2. حدد**ملف تعريف مؤسسة** **الإعدادات** > .
-3. ضمن **موقع البيانات،** حدد **عرض التفاصيل**.
-
-
-**Powershell:**
-1. الاتصال بالتبادل عبر الإنترنت باستخدام Windows PowerShell.
-2. تنفيذ [cmdlet الحصول على التنظيمية](https://docs.microsoft.com/powershell/module/exchange/active-directory/get-organizationalunit) لعرض قائمة خصائص المستأجر الخاص بك. 
-3. انظر إلى خاصية OrganizationId.
-
-عندما يكون لديك موقع البيانات لEXO و SPO، يمكنك تحديد موقع البيانات للخدمات الأخرى التي قد تستخدمها من [حيث توجد البيانات الخاصة بك](https://products.office.com/where-is-your-data-located).
+بالنسبة إلى التطبيقات التي لم يتم الاشتراك فيها ، اطلع علي [المكان الذي تم فيه تخزين بيانات عميل Microsoft 365](https://docs.microsoft.com/office365/enterprise/o365-data-locations).
