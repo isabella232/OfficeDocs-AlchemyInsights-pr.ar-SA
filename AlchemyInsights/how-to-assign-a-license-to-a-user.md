@@ -1,8 +1,8 @@
 ---
-title: تعيين التراخيص أو إلغاء تعيينها للمستخدمين
+title: تعيين تراخيص أو إلغاء تعيينها للمستخدمين
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,25 +13,20 @@ ms.custom:
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: c2273d00b8033e9fb9d57c90576118d3788b0504
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2c3b11d51a2b5895c8d90ebef27121561f221334
+ms.sourcegitcommit: 69cf3c185e03a4b1da35c5ca492ee6c74a5d739a
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44495974"
+ms.lasthandoff: 08/13/2020
+ms.locfileid: "46657054"
 ---
-# <a name="assign-or-unassign-licenses-to-users"></a>تعيين التراخيص أو إلغاء تعيينها للمستخدمين
+# <a name="assign-or-unassign-licenses-to-users"></a>تعيين تراخيص أو إلغاء تعيينها للمستخدمين
 
-يحتاج المستخدم إلى ترخيص للوصول إلى الخدمات. فيما يلي خطوات لإضافة ترخيص من مستخدم **أو تغييره أو إزالته.**
+يحتاج المستخدم إلى ترخيص لتتمكن من الوصول إلى الخدمات. فيما يلي خطوات تعيين ترخيص إلى ترخيص أو إلغاء تعيينه من مستخدم.
   
-1. في مركز المشرف، **Users** انتقل إلى \> [المستخدمين النشطين.](https://go.microsoft.com/fwlink/p/?linkid=834822)
+1. في مركز الاداره ، **انتقل إلى المستخدمون** \> [النشطون](https://go.microsoft.com/fwlink/p/?linkid=834822).
+2. حدد صف المستخدم الذي تريد تعيين ترخيص له.
+3. في الجزء الأيسر ، حدد **التراخيص والتطبيقات**.
+4. قم بتوسيع القسم **التراخيص** ، وحدد المربعات الخاصة بالتراخيص التي تريد تعيينها أو إلغاء تعيينها ، ثم حدد **حفظ التغييرات**.
 
-2. حدد اسم المستخدم الذي تريد تعيين ترخيص له أو تغييره أو إزالته.
-
-3. انقر فوق **إدارة تراخيص المنتجات،** وحدد الترخيص الذي تريد تعيينه لهذا المستخدم.
-
-    بشكل افتراضي، يتم تعيين كافة الخدمات المرتبطة بهذا الترخيص تلقائيًا للمستخدم. للحد من الخدمات المتوفرة للمستخدم، قم بمسح خانة الاختيار للخدمات التي لا تريد أن يحصل عليها هذا المستخدم.
-
-4. في الجزء السفلي من الجزء، انقر فوق **حفظ التغييرات**.
-
-لمزيد من المعلومات، راجع [تعيين التراخيص للمستخدمين](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) [وإزالة التراخيص من المستخدمين](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user).
+لمزيد من المعلومات ، راجع [تعيين تراخيص للمستخدمين](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)، وإلغاء [تعيين التراخيص من المستخدمين](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users).
