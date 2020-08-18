@@ -1,7 +1,7 @@
 ---
-title: كيفية إنشاء طلب ملف
-ms.author: v-todmc
-author: todmccoy
+title: كيفيه إنشاء طلب ملف
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001432"
 - "3413"
-ms.openlocfilehash: 68e9774e188df3da83848e03de93f98d6a9df851
-ms.sourcegitcommit: e6d73d240669342fde9d4d25b0ee2838b7e43965
+ms.openlocfilehash: 933681a19d8128c49ed1ddf4494b64d46c12a5f9
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/14/2020
-ms.locfileid: "44235248"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46785976"
 ---
-# <a name="how-to-create-a-file-request"></a>كيفية إنشاء طلب ملف
+# <a name="how-to-create-a-file-request"></a>كيفيه إنشاء طلب ملف
 
-تتيح لك ميزة طلب الملف في OneDrive اختيار مجلد حيث يمكن للآخرين تحميل الملفات باستخدام رابط ترسله لهم. لا يمكن للمستخدمين الذين تطلب ملفات من رؤية ما هو موجود في المجلد - يمكنهم تحميل الملفات إليه فقط.
+تسمح لك ميزه طلب الملفات في OneDrive باختيار مجلد يمكنه للآخرين تحميل الملفات باستخدام ارتباط تقوم بإرسالها اليه. يتعذر علي المستخدمين الذين تطلبوا الملفات الاطلاع علي محتوي المجلد--يمكنهم فقط تحميل الملفات اليه.
 
-**ملاحظة:** يجب على المسؤول تمكين [ارتباطات أي شخص](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off) في OneDrive لطلبات الملفات للعمل.
+**ملاحظه**: يجب ان يقوم المسؤول بتمكين [اي ارتباطات](https://docs.microsoft.com/sharepoint/turn-external-sharing-on-or-off) في OneDrive for file للعمل.
 
-- لمزيد من المعلومات، راجع [إنشاء طلب ملف](https://support.office.com/article/create-a-file-request-f54aa7f8-2589-4421-b351-d415fc3b83af).
+- للحصول علي مزيد من المعلومات ، راجع [إنشاء طلب ملف](https://support.office.com/article/create-a-file-request-f54aa7f8-2589-4421-b351-d415fc3b83af).

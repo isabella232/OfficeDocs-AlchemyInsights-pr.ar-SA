@@ -1,7 +1,7 @@
 ---
-title: حذف العناصر أو إفراغ سلة المهملات لموقع SharePoint
-ms.author: v-todmc
-author: todmccoy
+title: حذف العناصر أو إفراغ سله المحذوفات لموقع SharePoint
+ms.author: pebaum
+author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000209"
 - "3175"
-ms.openlocfilehash: f035104d3a9c2a3d5c82d9753497fa5f4c9e6319
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3f0202e2ccab6dda22b451c6633ed59ea61df3ed
+ms.sourcegitcommit: 90f37eebec9aaa9e49c2cf4d201152c5e20e384b
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43704856"
+ms.lasthandoff: 08/17/2020
+ms.locfileid: "46786012"
 ---
-# <a name="delete-items-or-empty-the-recycle-bin-of-a-sharepoint-site"></a>حذف العناصر أو إفراغ سلة المهملات لموقع SharePoint 
+# <a name="delete-items-or-empty-the-recycle-bin-of-a-sharepoint-site"></a>حذف العناصر أو إفراغ سله المحذوفات لموقع SharePoint 
 
-عند حذف عنصر من مكتبة مستندات SharePoint أو قائمة، لا تتم إزالته على الفور من SharePoint. تدخل العناصر المحذوفة إلى موقع سلة المهملات لفترة من الوقت. خلال ذلك الوقت، يمكنك استعادة العناصر التي حذفتها إلى موقعها الأصلي، أو إزالتها لتحرير مساحة التخزين.
+عندما تحذف عنصرا من قائمه أو مكتبه مستندات SharePoint ، فلا تتم ازالته علي الفور من SharePoint. تنتقل العناصر المحذوفة إلى سله محذوفات الموقع لفتره زمنيه. خلال هذا الوقت ، يمكنك استعاده العناصر التي حذفتها إلى موقعها الأصلي ، أو ازالتها لتحرير مساحة التخزين.
 
-[حذف العناصر أو إفراغ سلة المهملات لموقع SharePoint](https://support.office.com/article/2e713599-d13e-40d6-96dc-66f0a366f74e)
+[حذف العناصر أو إفراغ سله المحذوفات لموقع SharePoint](https://support.office.com/article/2e713599-d13e-40d6-96dc-66f0a366f74e)
