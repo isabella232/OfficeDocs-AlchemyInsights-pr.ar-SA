@@ -1,5 +1,5 @@
 ---
-title: التقاعد من أدوات eDiscovery تراث
+title: تقاعد أدوات eDiscovery القديمة
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,44 +11,44 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001487"
 - "3523"
-ms.openlocfilehash: 262cca0feee17d1f929a5a94a4dd6c1ec317f6ec
-ms.sourcegitcommit: 6bf1d945b4fd6a1fe37d00c5ea99adea7eef9910
+ms.openlocfilehash: 94cd2127240be5faacd397ba6255fdb16e364308
+ms.sourcegitcommit: d4fc2a03af69e28e96075812d040fdd34d2e23f0
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/21/2020
-ms.locfileid: "43650555"
+ms.lasthandoff: 08/26/2020
+ms.locfileid: "46902607"
 ---
-# <a name="retirement-of-legacy-ediscovery-tools"></a>التقاعد من أدوات eDiscovery تراث
+# <a name="retirement-of-legacy-ediscovery-tools"></a>تقاعد أدوات eDiscovery القديمة
 
-نتيجة لوظيفة eDiscovery الجديدة والمحسنة في مركز Microsoft 365 Compliance، سيتم سحب أدوات وأوامر eDiscovery القديمة التالية في الأشهر المقبلة:
+نتيجة لوجود وظيفة eDiscovery الجديدة والمحسنة في مركز توافق Microsoft 365 ، سيتم إيقاف أدوات eDiscovery القديمة التالية والكوماندليتس في الأشهر القادمة:
 
-- [في مكان eDiscovery](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) وفي [مكان يحمل](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds) في مركز إدارة Exchange.
+- [وضع eDiscovery](https://docs.microsoft.com/exchange/security-and-compliance/in-place-ediscovery/in-place-ediscovery) الموضعي [والتعليق الموضعي](https://docs.microsoft.com/exchange/security-and-compliance/create-or-remove-in-place-holds) في مركز أداره Exchange.
 
-- cmdlets PowerShell تبادل عبر الإنترنت التي تدعم في مكان eDiscovery وفي مكان يحمل. (يتم تعريف هذه cmdlets بشكل جماعي على أنها cmdlets *-MailboxSearch.) وهذا يشمل cmdlets التالية:
+- أوامر cmdlets في Exchange Online PowerShell التي تدعم قوائم eDiscovery الموضعية والموضعية. (يتم تعريف كل أوامر cmdlets التالية ك *-مايلبوكسسيرتش cmdlets). يتضمن هذا الاجراء أوامر cmdlets التالية:
 
-    - [بحث علبة بريد جديدة](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/new-mailboxsearch)
-    - [بدء-علبة بريدالبحث](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/start-mailboxsearch)
-    - [إيقاف علبة البريدالبحث](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/stop-mailboxsearch)
-    - [تعيين صندوق بريد البحث](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/set-mailboxsearch)
+    - [جديد-ميلبوكسسيرتش](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/new-mailboxsearch)
+    - [تاريخ البدء ميلبوكسسيرتش](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/start-mailboxsearch)
+    - [إيقاف الميلبوكسسيرتش](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/stop-mailboxsearch)
+    - [ميلبوكسسيرتش](https://docs.microsoft.com/powershell/module/exchange/policy-and-compliance-content-search/set-mailboxsearch)
 
-- [cmdlet البحث علبة البريد](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) في تبادل PowerShell عبر الإنترنت.
-- العمليات التالية في واجهة برمجة تطبيقات خدمات ويب Exchange:
-    - [GetSearchableMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getsearchablemailboxes-operation)
-    - [SetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
-    - [GetHoldOnMailboxes](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
+- [البحث-علبه البريد](https://docs.microsoft.com/powershell/module/exchange/mailboxes/search-mailbox?view=exchange-ps) Cmdlet في Exchange Online PowerShell.
+- العمليات التالية في واجهه برمجه تطبيقات Exchange Web Services:
+    - [جيتسيرتشابليميلبوكسيس](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getsearchablemailboxes-operation)
+    - [سيثولدونمايلبوكسيس](https://docs.microsoft.com/exchange/client-developer/web-service-reference/setholdonmailboxes-operation)
+    - [جيثولدونمايلبوكسيس](https://docs.microsoft.com/exchange/client-developer/web-service-reference/getholdonmailboxes-operation)
 
-- [متقدمة eDiscovery v1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
+- [EDiscovery المتقدمة v 1.0](https://docs.microsoft.com/microsoft-365/compliance/office-365-advanced-ediscovery)
 
-**الجدول الزمني للتقاعد:**
-- 1 أبريل 2020: لن تتمكن من إنشاء عمليات بحث جديدة وعمليات التحمل، ولكن لا يزال بإمكانك تشغيل عمليات البحث الحالية وتعديلها وحذفها على مسؤوليتك الخاصة. لن يدعم دعم Microsoft بعد الآن في مكان eDiscovery & يحمل في EAC.
+**الخط الزمني لتقاعد المدة**:
+- **1 يوليو 2020** لم يعد بإمكانك إنشاء عمليات بحث وقوائم احتجاز جديده ، ولكن يمكنك تشغيل عمليات البحث الموجودة وتحريرها وحذفها علي مسؤوليتك الخاصة. لم يعد دعم Microsoft أكثر دعما في وضع eDiscovery الموضعي & القوائم في EAC.
+    
+- **1 أكتوبر 2020** سيتم وضع وظيفة الوظائف الاضافيه لقوائم الاحتجاز في ال& مكان في القائمة المنسدلة في وضع القراءة فقط ، التالي يمكنك فقط أزاله عمليات البحث والقوائم الموجودة.
 
-- 1 يوليو 2020: سيتم وضع وظيفة eDiscovery & في مكان هاوية في EAC في وضع القراءة فقط. وهذا يعني أنك لن تتمكن إلا من إزالة عمليات البحث الحالية وعمليات الرفع.
+**لمزيد من المعلومات ، راجع**:
 
-**لمزيد من المعلومات، راجع:**
-
- - [ترحيل عمليات البحث القديمة eDiscovery وتحتجز إلى مركز الامتثال Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
- - [التقاعد من أدوات eDiscovery القديمة](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
- - [الأسئلة الشائعة حول eDiscovery في مكان ويحمل في مكان](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
+ - [ترحيل عمليات بحث eDiscovery القديمة وقوائم الاحتجاز إلى مركز توافق Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/migrate-legacy-ediscovery-searches-and-holds)
+ - [تقاعد أدوات eDiscovery القديمة](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement)
+ - [اسئله حول eDiscovery الموضعي والتعليقات الموضعية](https://docs.microsoft.com/microsoft-365/compliance/legacy-ediscovery-retirement#faqs-about-in-place-ediscovery-and-in-place-holds)
 
 
 
