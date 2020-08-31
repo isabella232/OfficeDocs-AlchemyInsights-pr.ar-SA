@@ -1,5 +1,5 @@
 ---
-title: استخدام موقع ويب Wix مع Office 365 تم شراؤها أو إدارتها
+title: استخدام موقع Wix علي ويب مع المجالات التي تم شراؤها أو ادارتها في Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,16 +11,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001516"
 - "3582"
-ms.openlocfilehash: 64dfe6082bea1e468eae78bf1576fde398e4c28a
-ms.sourcegitcommit: 3ca312535d950105ee829e037f0ff8f1ddbbae72
-ms.translationtype: MT
+ms.openlocfilehash: 522392d41aa8f84f1f4684ccdbd37d68636be07e
+ms.sourcegitcommit: cbed17334557c1dfa471623f8d5e735f72e697da
+ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/11/2020
-ms.locfileid: "44707641"
+ms.lasthandoff: 08/28/2020
+ms.locfileid: "47300680"
 ---
-# <a name="using-wix-website-with-office-365-purchased-or-managed-domains"></a>استخدام موقع ويب Wix مع Office 365 تم شراؤها أو إدارتها
+# <a name="using-wix-website-with-office-365-purchased-or-managed-domains"></a>استخدام موقع Wix علي ويب مع المجالات التي تم شراؤها أو ادارتها في Office 365
 
-- [تحديث سجلات DNS للحفاظ على موقعك الإلكتروني مع موفر الاستضافة الحالي](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider)
-- مقالة Wix "الاتصال بمجال إلى Wix باستخدام أسلوب الإشارة" توصي باستخدام الإشارة (إضافة سجلات DNS لكل الارتباط أعلاه) بدلاً من تغيير خوادم الأسماء عند استخدام Office 365
-- إذا كنت لا تزال تختار لتغيير خوادم الأسماء إلى Wix ، فستحتاج بعد ذلك إلى [إنشاء سجلات DNS في Wix لـ Microsoft](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-wix?view=o365-worldwide)
-- إذا تم شراء المجال الخاص بك من Microsoft لا يمكن تغيير خوادم الأسماء. إذا كان لديك لتغيير أسماء الملقمات المجال Microsoft شراؤها سوف تحتاج إلى [نقلها إلى موفر استضافة آخر بعد 60 يوما](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq#can-i-transfer-a-domain-i-purchased-from-microsoft-to-another-provider)
+- [تحديث سجلات DNS للاحتفاظ بموقعك علي ويب مع موفر الاستضافة الحالي](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider)
+- Wix المقالة "الاتصال بمجال إلى Wix باستخدام أسلوب التاشير" لاستخدام الاشاره (أضافه سجلات DNS لكل ارتباط أعلاه) بدلا من تغيير خوادم الأسماء عند استخدام Office 365
+- إذا ما زلت تريد تغيير خوادم الأسماء إلى Wix ، ستحتاج إلى  [إنشاء سجلات DNS في Wix ل Microsoft](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-wix?view=o365-worldwide)
+- إذا تم شراء مجالك من Microsoft ، فلا يمكن تغيير خوادم الأسماء. إذا كان عليك تغيير خوادم الأسماء ، فيجب نقل المجال الذي اشتريته Microsoft  [إلى موفر استضافه آخر بعد 60 يوما](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host)

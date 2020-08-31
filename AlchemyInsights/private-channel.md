@@ -1,5 +1,5 @@
 ---
-title: قناة خاصة
+title: قناه خاصه
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,32 +11,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "3205"
-ms.openlocfilehash: be518df0d40123c1f0da6596bd6e2e91a0c2c8fa
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
+ms.openlocfilehash: 418cedd25f040cc6ed296a0e8ea8a80579dec6a1
+ms.sourcegitcommit: a09884e7169f9aa290f60a4c8fa4eeb80d53ee49
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005425"
+ms.lasthandoff: 08/31/2020
+ms.locfileid: "47316186"
 ---
-# <a name="private-channels-in-microsoft-teams"></a>القنوات الخاصة في فرق Microsoft
+# <a name="private-channels-in-microsoft-teams"></a>القناات الخاصة في فرق Microsoft
 
-القنوات الخاصة هي ميزة جديدة في Microsoft Teams. لاحظ أنه لا يمكن تحويل القنوات الخاصة من القنوات القياسية أو العكس بالعكس.
+تنشئ القناات الخاصة في فرق Microsoft المسافات المركز عليها للتعاون داخل الفرق. يمكن فقط للمستخدمين في الفريق مالكي القناة الخاصة أو أعضاء بها الوصول إلى القناة. يمكن إضافة كل الأشخاص، بما في ذلك الضيوف، كعضو في قناة خاصة طالما أنهم أعضاء بالفعل في الفريق.
 
-للحصول على تفاصيل حول القنوات الخاصة، مثل معلومات حول [إنشاء القنوات الخاصة والعضوية](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) [ومواقع SharePoint الخاصة،](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)راجع [القنوات الخاصة في Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels). 
+لمعرفه المزيد ، أبدا باستخدام [القناات الخاصة في فرق Microsoft](https://docs.microsoft.com/MicrosoftTeams/private-channels). يتضمن ذلك معلومات مثل [إنشاء القناة الخاصة والعضوية](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) [ومواقع SharePoint الخاصة بالقناة الخاصة](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).
 
-**ملاحظة:** نظرًا لأن التكوين للاحتفاظ برسائل القناة الخاصة غير معتمد بعد، فلن يكون لدى المستأجرين الذين لديهم نُهج الاحتفاظ ممكّنة قنوات خاصة ممكّنة بشكل افتراضي. يمكن تمكين القنوات الخاصة في مركز إدارة Teams. أيضاً، لاحظ أنه في حين أن الاحتفاظ برسائل القناة الخاصة غير معتمد، يتم دعم الاحتفاظ بالملفات المشتركة في القنوات الخاصة.
+**هل تحتاج إلى مالك فريق جديد ؟**
 
-**هل تحتاج إلى مالك فريق جديد؟**
+إذا غادر مالك القناة الخاصة مؤسستك أو إذا تمت ازالته من المجموعة ، ستتم ترقيه عضو القناة الخاصة بشكل تلقائي ليكون مالك القناة الخاصة.
 
-إذا غادر مالك قناتك الخاصة، يمكنك إضافة مالك فريق جديد عبر Teams Powershell.
-
-
-- انتقل إلى [هنا](https://www.powershellgallery.com/packages/MicrosoftTeams/1.0.6) لتثبيت فرق Powershell.
-
-هنا هو cmdlet سوف تحتاج:
-
-`
-    Add-TeamChannelUser -GroupId <group_id> -DisplayName "<channel_name>" -User <UPN> -Role Owner
-`
-
-لمزيد من المعلومات حول فرق Powershell، راجع [نظرة عامة على Teams PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview).
+بإمكان المسؤولين أيضا الاطلاع علي [أداره دوره حياه القناات الخاصة في فرق Microsoft](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) لمعرفه المزيد حول السياسات لأداره الأشخاص الذين يمكنهم إنشاء القناات الخاصة ، بالاضافه إلى طرق لمساعدتك علي إنشاء استعلامات لقوائم eDiscovery أو القانونية.
