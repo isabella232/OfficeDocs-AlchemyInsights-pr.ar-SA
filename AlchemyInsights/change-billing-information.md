@@ -1,8 +1,8 @@
 ---
 title: تغيير معلومات الفوترة
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,12 +11,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002555"
 - "4942"
-ms.openlocfilehash: 73901995d95cb7cb73170ebec129eb57f5e15e45
-ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.openlocfilehash: 2b37a0078f617f86b203d0b364f183d87b9db34d
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44417627"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364646"
 ---
 # <a name="change-billing-information"></a>تغيير معلومات الفوترة
 
@@ -24,5 +24,5 @@ ms.locfileid: "44417627"
 
 - تغيير [عنوان الفوترة](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses) الخاص بك.
 - بتغيير [طريقة الدفع](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) الخاصة بك وكيفية [الدفع مقابل اشتراكك](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
-- بتغيير [معدل تكرار الدفع](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency) الخاص بك إلى شهري أو سنوي.
+- يمكنك تغيير [تكرار الفوترة](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency) إلى شهريا أو سنويا.
 - إدارة [ملفات تعريف الفوترة](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-billing-profiles) الخاصة بك.

@@ -1,8 +1,8 @@
 ---
-title: تغيير عدد المرات التي تدفع فيها
+title: تغيير عدد مرات الدفع
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,20 +14,22 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: d58e23d1174097af6a6a8b548a89c382cce2a012
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: c07867d1eb448c89e30dc499bc1fcb19a63a823b
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "43939642"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364574"
 ---
-# <a name="change-how-often-you-pay"></a>تغيير عدد المرات التي تدفع فيها
+# <a name="change-how-often-you-pay"></a>تغيير عدد مرات الدفع
 
-لتغيير عدد المرات التي تتم فيها محاسبتك ودفع الاشتراك، أكمل الخطوات التالية في مركز إدارة Microsoft 365. 
-1. انتقل إلى **الفوترة > [المنتجات والخدمات](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-2. ابحث عن الاشتراك الذي تريد تغييره. في قسم **الفوترة،** بجوار **الفوترة شهريًا** أو **التي يتم فوترها سنويًا،** انقر فوق **تحرير**. 
-3. اختر الخيار لمقدار المرات التي تريد فيها الفواتير، ثم انقر فوق **تغيير**.
+لتغيير عدد المرات التي تقوم فيها بالفوترة والدفع للحصول علي اشتراك ، أكمل الخطوات التالية في مركز أداره Microsoft 365.
 
-**ملاحظة:** الفواتير الشهرية أو السنوية هي الخيارات الوحيدة.
+1. انتقل إلى صفحه **الفوترة**  >  [الخاصة بالمنتجات](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. علي علامة التبويب **المنتجات** ، حدد الاشتراك الذي تريد تغييره. 
+3. في صفحه تفاصيل الاشتراك ، في المقطع **إعدادات الاشتراك والدفع** ، حدد **تحرير تكرار الفوترة**.
+4. في الجزء **تحرير تكرار الفوترة** ، شووسي الخيار الخاص بمدي تكرار الفاتورة ، ثم حدد **تغيير**.
 
-لمزيد من المعلومات، راجع [تغيير تكرار الدفع.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide)
+**ملاحظه**: ان الفوترة الشهرية أو السنوية هي الخيارات الوحيدة.
+
+لمعرفة المزيد من المعلومات، اطلع على [تغيير معدل تكرار الفوترة](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
