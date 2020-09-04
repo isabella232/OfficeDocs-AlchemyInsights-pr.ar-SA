@@ -1,8 +1,8 @@
 ---
-title: تغيير عدد المرات التي تدفع فيها
+title: تغيير عدد مرات الدفع
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,20 +14,22 @@ ms.custom:
 - "469"
 - "4552"
 - "1500025"
-ms.openlocfilehash: d58e23d1174097af6a6a8b548a89c382cce2a012
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: c07867d1eb448c89e30dc499bc1fcb19a63a823b
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "43939642"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364574"
 ---
-# <a name="change-how-often-you-pay"></a><span data-ttu-id="80835-102">تغيير عدد المرات التي تدفع فيها</span><span class="sxs-lookup"><span data-stu-id="80835-102">Change how often you pay</span></span>
+# <a name="change-how-often-you-pay"></a><span data-ttu-id="adb29-102">تغيير عدد مرات الدفع</span><span class="sxs-lookup"><span data-stu-id="adb29-102">Change how often you pay</span></span>
 
-<span data-ttu-id="80835-103">لتغيير عدد المرات التي تتم فيها محاسبتك ودفع الاشتراك، أكمل الخطوات التالية في مركز إدارة Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="80835-103">To change how often you are you are billed and paying for a subscription, complete the following steps in the Microsoft 365 admin center.</span></span> 
-1. <span data-ttu-id="80835-104">انتقل إلى **الفوترة > [المنتجات والخدمات](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span><span class="sxs-lookup"><span data-stu-id="80835-104">Go to **Billing > [Products & services](https://go.microsoft.com/fwlink/p/?linkid=842054)**.</span></span>
-2. <span data-ttu-id="80835-105">ابحث عن الاشتراك الذي تريد تغييره.</span><span class="sxs-lookup"><span data-stu-id="80835-105">Find the subscription you want to change.</span></span> <span data-ttu-id="80835-106">في قسم **الفوترة،** بجوار **الفوترة شهريًا** أو **التي يتم فوترها سنويًا،** انقر فوق **تحرير**.</span><span class="sxs-lookup"><span data-stu-id="80835-106">In the **Billing** section, next to **Billed monthly** or **Billed annually**, click **Edit**.</span></span> 
-3. <span data-ttu-id="80835-107">اختر الخيار لمقدار المرات التي تريد فيها الفواتير، ثم انقر فوق **تغيير**.</span><span class="sxs-lookup"><span data-stu-id="80835-107">Choose the option for how often you want to be billed, then click **Change**.</span></span>
+<span data-ttu-id="adb29-103">لتغيير عدد المرات التي تقوم فيها بالفوترة والدفع للحصول علي اشتراك ، أكمل الخطوات التالية في مركز أداره Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="adb29-103">To change how often you are you are billed and paying for a subscription, complete the following steps in the Microsoft 365 admin center.</span></span>
 
-<span data-ttu-id="80835-108">**ملاحظة:** الفواتير الشهرية أو السنوية هي الخيارات الوحيدة.</span><span class="sxs-lookup"><span data-stu-id="80835-108">**Note**: Monthly or Annual billing are the only options.</span></span>
+1. <span data-ttu-id="adb29-104">انتقل إلى صفحه **الفوترة**  >  [الخاصة بالمنتجات](https://go.microsoft.com/fwlink/p/?linkid=842054) .</span><span class="sxs-lookup"><span data-stu-id="adb29-104">Go to the **Billing** > [Your products](https://go.microsoft.com/fwlink/p/?linkid=842054) page.</span></span>
+2. <span data-ttu-id="adb29-105">علي علامة التبويب **المنتجات** ، حدد الاشتراك الذي تريد تغييره.</span><span class="sxs-lookup"><span data-stu-id="adb29-105">On the **Products** tab, select the subscription that you want to change.</span></span> 
+3. <span data-ttu-id="adb29-106">في صفحه تفاصيل الاشتراك ، في المقطع **إعدادات الاشتراك والدفع** ، حدد **تحرير تكرار الفوترة**.</span><span class="sxs-lookup"><span data-stu-id="adb29-106">On the subscription details page, in the **Subscription and payment settings** section, select **Edit billing frequency**.</span></span>
+4. <span data-ttu-id="adb29-107">في الجزء **تحرير تكرار الفوترة** ، شووسي الخيار الخاص بمدي تكرار الفاتورة ، ثم حدد **تغيير**.</span><span class="sxs-lookup"><span data-stu-id="adb29-107">In the **Edit billing frequency** pane, shoose the option for how often you want to be billed, then select **Change**.</span></span>
 
-<span data-ttu-id="80835-109">لمزيد من المعلومات، راجع [تغيير تكرار الدفع.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide)</span><span class="sxs-lookup"><span data-stu-id="80835-109">For more info, see [Change your payment frequency](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency?view=o365-worldwide).</span></span>
+<span data-ttu-id="adb29-108">**ملاحظه**: ان الفوترة الشهرية أو السنوية هي الخيارات الوحيدة.</span><span class="sxs-lookup"><span data-stu-id="adb29-108">**Note**: Monthly or Annual billing are the only options.</span></span>
+
+<span data-ttu-id="adb29-109">لمعرفة المزيد من المعلومات، اطلع على [تغيير معدل تكرار الفوترة](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).</span><span class="sxs-lookup"><span data-stu-id="adb29-109">For more info, see [Change your billing frequency](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).</span></span>
