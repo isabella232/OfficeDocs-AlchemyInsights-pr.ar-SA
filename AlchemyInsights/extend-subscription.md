@@ -1,8 +1,8 @@
 ---
-title: ما هي خياراتي لتمديد
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+title: ما هي الخيارات المتاحة لي للتمديد
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ROBOTS: NOINDEX, NOFOLLOW
@@ -11,19 +11,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1400006"
 - "5832"
-ms.openlocfilehash: e75243e24f609601e3f4d0014a318a55294be7a4
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
-ms.translationtype: MT
+ms.openlocfilehash: 20626d3759cddfbc818da687ce4eafe0c41c843f
+ms.sourcegitcommit: de5f2e8527202ff04f1587f1289ab81e8c804bb2
+ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44707590"
+ms.lasthandoff: 09/03/2020
+ms.locfileid: "47364718"
 ---
-# <a name="what-are-my-options-to-extend"></a>ما هي خياراتي للتمديد؟
+# <a name="what-are-my-options-to-extend"></a>ما هي الخيارات المتاحة لي للتمديد؟
 
-قبل أن يصل الاشتراك إلى تاريخ انتهاء الصلاحية، لديك بعض الخيارات:
+قبل حلول تاريخ انتهاء صلاحية الاشتراك، يتوفر لك بعض الخيارات:
 
-- **تمديد الإصدار التجريبي الخاص بك**.  هل تحتاج إلى مزيد من الوقت لتقييم Microsoft 365؟ في بعض الحالات، قد تكون قادراً على [تمديد فترة المحاكمة.](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial?view=o365-worldwide)  
-- **تمكين الفوترة المتكررة** للاشتراك. إذا تم تشغيل الفوترة المتكررة بالفعل، فلن يكون عليك اتخاذ أي إجراء. سيتم فوترة اشتراكك تلقائيًا، وسيتم تحصيل رسوم منك لمدة سنة أو شهر إضافي، وفقًا لوتيرة الدفع الحالية. إذا قمت لأي سبب من الأسباب بإيقاف تشغيل "الفوترة المتكررة"، يمكنك [دائمًا إعادة تشغيل "الفوترة المتكررة".](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription?view=o365-worldwide)
-- إذا قمت بشراء Microsoft 365 Apps للأعمال باستخدام **بطاقة مسبقة الدفع،** فيمكنك [تشغيل الفوترة المتكررة](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription?view=o365-worldwide) للاشتراك.
-- إذا كنت **أحد عملاء "الترخيص المجمع المفتوح"** الذي لديه اشتراك مدفوع مسبقًا لمدة عام واحد، فاتصل بشريكك لشراء مفتاح منتج جديد. ستتلقى التعليمات عبر البريد الإلكتروني لتفعيل المفتاح الخاص بك في [مركز خدمة الترخيص المجمع.](https://go.microsoft.com/fwlink/p/?LinkID=282016) لمعرفة كيفية العثور على شريك جديد، أو الشريك الذي عملت معه في الماضي، راجع [البحث عن شريكك أو بائع التجزئة](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller?view=o365-worldwide).
-- إذا كان لديك **تطبيقات Microsoft 365 للأعمال ،** فُرّر إدارة [الفوترة المتكررة للاشتراك .](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription?view=o365-worldwide)
+- **تمديد الاشتراك التجريبي**.  هل تحتاج إلى مزيد من الوقت لتقييم Microsoft 365؟ في بعض الحالات، قد تتمكن من [تمديد الفترة التجريبية](https://docs.microsoft.com/microsoft-365/commerce/extend-your-trial).  
+- **تمكين الفوترة المتكررة** للاشتراك. إذا كانت الفوترة المتكررة قيد التشغيل بالفعل، فلن تحتاج إلى اتخاذ أي إجراء. سيتم فرض رسوم على اشتراكك تلقائياً، وسيتم فرض رسوم عليك مقابل سنة أو شهر إضافي، وفقاً لتكرار الفوترة الحالية. إذا قمت بإيقاف تشغيل الفوترة المتكررة لأي سبب، فيمكنك دائماً  [إعادة تشغيل الفوترة المتكررة](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).
+- إذا اشتريت Microsoft 365 Apps for business بواسطة  **بطاقة مدفوعة مسبقاً**، فيمكنك  [تشغيل الفوترة المتكررة](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription)  لاشتراكك.
+- إذا كنت  **عميل ترخيص مجمّع مفتوح**  باشتراك مدفوع مسبقاً لمدة سنة واحدة، فاتصل بشريكك لشراء مفتاح منتج جديد. ستتلقى إرشادات عبر البريد الإلكتروني لتنشيط المفتاح في [مركز خدمة الترخيص المجمّع](https://go.microsoft.com/fwlink/p/?LinkID=282016). لمعرفة كيفية العثور على شريك جديد، أو الشريك الذي تعاملت معه في الماضي، اطلع على [البحث عن شريك أو بائع تجزئة](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller).
+- إذا كان لديك **Microsoft 365 Apps for business**، فاطلع على  [إدارة الفوترة المتكررة للاشتراك](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription).
