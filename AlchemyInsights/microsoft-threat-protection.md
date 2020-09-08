@@ -1,5 +1,5 @@
 ---
-title: حماية التهديدات من Microsoft
+title: حماية التهديد من Microsoft
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -9,19 +9,19 @@ localization_priority: Normal
 ms.custom:
 - "9000760"
 - "3500"
-ms.openlocfilehash: 062dd51724ec6c36775f7f962241bac5807dd660
-ms.sourcegitcommit: ad8b990f0eb9274e68ef599e857ac6c452d3919a
+ms.openlocfilehash: 96562996569a75353a7d4c37b3c16c66d8d65489
+ms.sourcegitcommit: b7bbe4c5419668ce8e84196db382032ca09cd176
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/23/2020
-ms.locfileid: "41277893"
+ms.lasthandoff: 09/08/2020
+ms.locfileid: "47406421"
 ---
-# <a name="microsoft-threat-protection"></a>حماية التهديدات من Microsoft
+# <a name="microsoft-threat-protection"></a>حماية التهديد من Microsoft
 
-- [نظره عامه-MTP](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)
-- [المتطلبات المسبقه](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)
+- [نظره عامه حول MTP](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-protection)
+- [متطلب](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites)
 - [متطلبات الترخيص](https://docs.microsoft.com/microsoft-365/security/mtp/prerequisites#licensing-requirements)
-- [كيفيه تمكين الخطة المتوسطة الأجل](https://docs.microsoft.com/microsoft-365/security/mtp/mtp-enable)
-- [استكشاف الأخطاء وإصلاحها MTP](https://docs.microsoft.com/microsoft-365/security/mtp/troubleshoot)
+- [كيفيه تمكين MTP](https://docs.microsoft.com/microsoft-365/security/mtp/mtp-enable)
+- [استكشاف الأخطاء وإصلاحها في MTP](https://docs.microsoft.com/microsoft-365/security/mtp/troubleshoot)
 
-كيفيه التحقق من الترخيص: تحتاج إلى تعيين اما مسؤول الفوترة أو دور القارئ العمومي في Azure AD لعرض الترخيص الخاص بك. انتقل إلى [مركز الاداره](https://admin.microsoft.com/) وانتقل إلى**تراخيص** **الفوترة** > لعرض التراخيص الموجودة.
+كيفيه التحقق من الترخيص: يجب ان يتم تعيين دور مسؤول الفوترة أو القارئ العمومي في Azure AD لعرض الترخيص. انتقل إلى [مركز الاداره](https://admin.microsoft.com/) وانتقل إلى **تراخيص الفوترة**  >  **Licenses** لعرض التراخيص الموجودة.
