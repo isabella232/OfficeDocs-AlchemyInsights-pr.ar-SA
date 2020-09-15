@@ -1,11 +1,12 @@
 ---
-title: كيفية التحقق من حسابك Outlook.com
+title: كيفيه التحقق من حساب Outlook.com الخاص بك
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,24 +14,24 @@ ms.custom:
 - "696"
 - "8000030"
 ms.assetid: e64b555c-17ec-4389-8068-d36850f09bd3
-ms.openlocfilehash: febcc9c770f6e81ee9bea084a229b530fdcc266a
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 602b4592ac07c655cd807f09e1a286741235e728
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43743404"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47694226"
 ---
-# <a name="how-to-verify-your-outlookcom-account"></a>كيفية التحقق من حسابك Outlook.com
+# <a name="how-to-verify-your-outlookcom-account"></a>كيفيه التحقق من حساب Outlook.com الخاص بك
 
-يساعد التحقق من خطوتين في حمايتك من خلال زيادة صعوبة تسجيل دخول شخص آخر إلى حساب Microsoft الخاص بك. ويستخدم شكلين مختلفين من الهوية: كلمة المرور الخاصة بك، وطريقة الاتصال (المعروفة أيضًا باسم معلومات الأمان).
+يساعدك التحقق علي خطوتين علي حمايتك عن طريق تسهيل تسجيل دخول شخص آخر إلى حساب Microsoft الخاص بك. تستخدم نموذجين مختلفين للهوية: كلمه المرور الخاصة بك وأسلوب جهة اتصال (المعروف أيضا باسم معلومات الأمان).
   
-لتشغيل أو إيقاف تشغيل التحقق من خطوتين:
+لتشغيل التحقق علي خطوتين أو إيقاف تشغيلهما:
   
-1. انتقل إلى [صفحة أساسيات الأمان](https://go.microsoft.com/fwlink/?linkid=842325) وسجّل الدخول باستخدام حساب Microsoft.
+1. انتقل إلى [صفحه أساسيات الأمان](https://go.microsoft.com/fwlink/?linkid=842325) وسجل دخولك باستخدام حساب Microsoft الخاص بك.
 2. حدد **المزيد من خيارات الأمان**.
-3. ضمن **التحقق من خطوتين،** حدد **إعداد التحقق من خطوتين** واتبع الإرشادات.
+3. ضمن **التحقق علي خطوتين**، حدد اعداد **التحقق علي خطوتين** واتبع الإرشادات.
 
-إذا قمت بتشغيل التحقق من خطوتين، فستحتاج دائمًا إلى شكلين من أشكال التعريف. إذا فقدت طريقة الاتصال الخاصة بك، فلن تتمكن كلمة المرور وحدها من إعادة حسابك إلى حسابك - وقد يستغرق الأمر 30 يومًا لاستعادة الوصول.
+إذا قمت بتشغيل التحقق علي خطوتين ، ستحتاج دائما إلى نموذجين من التعريف. إذا فقدت طريقه الاتصال الخاصة بك ، فلن ترجعك كلمه المرور الخاصة بك إلى حسابك-وقد تستغرقك مده 30 يوما لاسترداد حق الوصول.
   
-تعرف على المزيد حول [التحقق من خطوتين.](https://go.microsoft.com/fwlink/?linkid=872270)
+تعرف علي [المزيد حول التحقق علي خطوتين](https://go.microsoft.com/fwlink/?linkid=872270).
   

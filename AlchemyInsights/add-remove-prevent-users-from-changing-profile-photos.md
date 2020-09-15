@@ -1,29 +1,30 @@
 ---
-title: إضافة المستخدمين أو إزالتهم أو منعهم من تغيير صور الملف الشخصي
+title: أضافه المستخدمين أو ازالتهم أو منعهم من تغيير صور ملف التعريف
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001499"
 - "3552"
-ms.openlocfilehash: 3165cd1180cf1c1716692d270e27b1ba9e675c8f
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 58b428e3110c06b8b39d45d327ac514c4245be81
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44061983"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47687781"
 ---
-# <a name="add-remove-or-prevent-users-from-changing-profile-photos"></a>إضافة المستخدمين أو إزالتهم أو منعهم من تغيير صور الملف الشخصي
+# <a name="add-remove-or-prevent-users-from-changing-profile-photos"></a>أضافه المستخدمين أو ازالتهم أو منعهم من تغيير صور ملف التعريف
 
-- **إضافة صور الملف الشخصي:** يمكن إضافة صور الملف الشخصي من قبل مسؤول في [مركز إدارة Microsoft 365 أو المستخدمين النشطين](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) أو [إدارة مستخدم الدليل النشط Azure](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers).  إذا كنت لا ترى خيار "تغيير الصورة"، فتأكد من تعيين ترخيص لهذا المستخدم. يمكن إضافة الصور أو تغييرها من قبل مستخدم في ملف تعريف المستخدم الخاص به من أي خدمة Microsoft 365 عن طريق النقر على الأحرف الأولى / الصورة في أعلى يمين الشاشة. لمزيد من المعلومات حول إضافة صورة ملف تعريف، راجع [إضافة صورة ملفك الشخصي إلى Microsoft 365](https://support.office.com/article/add-your-profile-photo-to-office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7).
+- **أضافه صور ملف التعريف:** يمكن أضافه صور ملف التعريف بواسطة مسؤول في [مركز أداره Microsoft 365 أو المستخدمون النشطون](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) أو  [أداره مستخدمي Azure active](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers)directory.  إذا لم يظهر الخيار "تغيير الصورة" ، فتاكد من تعيين ترخيص لهذا المستخدم. يمكن أضافه الصور أو تغييرها بواسطة أحد المستخدمين في ملف تعريف المستخدم الخاص بهم من اي خدمه Microsoft 365 بالنقر فوق الأحرف الاستهلالية/الصورة في الزاوية العلوية اليسرى من الشاشة. للحصول علي مزيد من المعلومات حول أضافه صوره ملف تعريف ، راجع [أضافه صوره ملف التعريف إلى Microsoft 365](https://support.office.com/article/add-your-profile-photo-to-office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7).
 
-- **إزالة صور الملف الشخصي:** يمكن إزالة صور الملف الشخصي من قبل مسؤول في [إدارة مستخدم Azure Active Directory](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers) أو بواسطة مستخدم في ملف تعريف مستخدم Microsoft Teams الخاص به.
+- **أزاله صور ملف التعريف:** يمكن أزاله صور ملف التعريف بواسطة مسؤول في [أداره مستخدمي Azure active](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers) directory أو بواسطة مستخدم في ملف تعريف المستخدم لفرق Microsoft.
 
-- **حظر تغييرات صورة الملف الشخصي:** يمكن حظر تغييرات الصور لجميع Microsoft 365* عن طريق إضافة نهج Outlook Web App لكل المقالة أو [تأمين الصور أو تقييد الأذونات لتغيير صورة ملف Microsoft 365 الشخصي](https://answers.microsoft.com/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d).
+- **حظر تغييرات صور ملف التعريف:** يمكن حظر تغييرات الصور لكل من Microsoft 365 * عن طريق أضافه نهج Outlook Web App لكل مقاله ، [أو تامين الصور أو تقييد الأذونات لتغيير صوره ملف تعريف Microsoft 365](https://answers.microsoft.com/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d).
 
-*يرجى ملاحظة أن Microsoft Teams لا تدعم حاليًا نهج Outlook Web App لمنع تغييرات الصور ولكنها تخطط لإضافة دعم لهذه الميزة في أوائل عام 2020.
+* يرجى ملاحظه ان فرق Microsoft لا تدعم حاليا نهج Outlook Web App لحظر تغييرات الصور ولكنها تخطط لأضافه دعم لهذه الميزة في 2020 المبكر.

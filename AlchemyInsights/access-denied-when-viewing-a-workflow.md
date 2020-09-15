@@ -1,31 +1,32 @@
 ---
-title: تم رفض الوصول عند عرض سير عمل
+title: رفض الوصول عند عرض سير عمل
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: c576bf88225582f2577e0b59506a7482cf9f38d5
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 710775e8b2dee98969df7a4c8410a3e61181aaf6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43687317"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47688789"
 ---
-# <a name="access-denied-when-viewing-a-workflow"></a>تم رفض الوصول عند عرض سير عمل
+# <a name="access-denied-when-viewing-a-workflow"></a>رفض الوصول عند عرض سير عمل
 
-يمكن أن تفشل سير عمل SharePoint 2013 التي تحاول إرسال بريد إلكتروني إلى مجموعة SharePoint مع رسالة خطأ "رفض الوصول" إذا لم يتم تعيين عضوية مجموعة SharePoint إلى الجميع.
+يمكن ان تفشل مهام سير عمل SharePoint 2013 التي تحاول إرسال رسالة بريد الكتروني إلى مجموعه SharePoint مع ظهور رسالة الخطا "رفض الوصول" إذا لم يتم تعيين عضويه مجموعه SharePoint إلى الجميع.
   
- **لحل هذه المشكلة، قم بالخطوات التالية:**
+ **لحل هذه المشكلة ، قم بتنفيذ الخطوات التالية:**
   
- 1. السماح للجميع برؤية أعضاء مجموعة SharePoint.
+ 1. اسمح لجميع برؤية أعضاء مجموعه SharePoint.
   
- 2. قم بإزالة مجموعة SharePoint من سطر To أو CC من البريد الإلكتروني.
+ 2. أزاله مجموعه SharePoint من السطر "إلى" أو "نسخه" في البريد الكتروني.
   
- 3. إضافة المستخدمين بشكل صريح إلى سطر إلى أو نسخة إذا تعذر تغيير رؤية العضوية لمجموعة SharePoint.
+ 3. أضف المستخدمين بشكل صريح إلى السطر إلى أو نسخه إذا تعذر تغيير امكانيه رؤية العضوية لمجموعه SharePoint.
   
-للاطلاع على مزيد من التفاصيل يرجى الرجوع إلى [HTTP غير مصرح به إلى / _vti_bin/client.svc/sp.utility.utility.SendEmail.](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409)
+لعرض المزيد من التفاصيل يرجى الاشاره إلى [HTTP غير مرخص ل/_vti_bin/client.svc/sp.utilities.utility.sendemail](https://go.microsoft.com/fwlink/?linkid=2044694&amp;clcid=0x409).
   

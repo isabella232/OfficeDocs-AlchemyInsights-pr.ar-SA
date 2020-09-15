@@ -1,56 +1,57 @@
 ---
-title: تثبيت المكتب على خادم المحطة الطرفية - غير مرخص
+title: تثبيت office علي خادم محطه طرفيه-غير مرخص
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "917"
 - "2000020"
 ms.assetid: b1074430-489e-4d49-bfe4-3d8783d8073c
-ms.openlocfilehash: c781e9fd492ff97bc80667956e6609b3d40b28b4
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 1d862f60e7a8a4c90c83f4538e57972b0c0547da
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508615"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663104"
 ---
-# <a name="installing-office-on-a-terminal-server"></a>تثبيت Office على خادم المحطة الطرفية
+# <a name="installing-office-on-a-terminal-server"></a>تثبيت Office علي خادم محطه طرفيه
 
-لنشر تطبيقات Microsoft 365 للمؤسسات على خادم Windows باستخدام خدمات سطح المكتب البعيد (RDS)، التي كانت تسمى سابقًا خدمات المحطة الطرفية:
+بالنسبة إلى نشر تطبيقات Microsoft 365 للمؤسسة علي Windows Server باستخدام خدمات سطح المكتب البعيد (RDS) ، المسمية السابق الخدمات الطرفية:
   
-- يجب أن يكون لديك اشتراك Microsoft 365 يتضمن تطبيقات Microsoft 365 للمؤسسات، مثل Office 365 Enterprise E3 أو Enterprise E5. لا تتضمن تطبيقات Microsoft 365 للأعمال وتطبيقات Microsoft 365 لخطط Premium للأعمال تطبيقات Microsoft 365 للمؤسسات.
+- يجب ان يتوفر لديك اشتراك Microsoft 365 يتضمن تطبيقات Microsoft 365 ل enterprise ، مثل Office 365 Enterprise E3 أو Enterprise E5. لا تشمل تطبيقات Microsoft 365 للاعمال وتطبيقات Microsoft 365 لخطط business Premium تطبيقات Microsoft 365 ل enterprise.
 
-- تحتاج إلى تمكين [تنشيط الكمبيوتر المشترك](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation).
+- أنت بحاجه إلى تمكين [تنشيط الكمبيوتر المشترك](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation).
 
-إذا كنت ترغب في تثبيت تطبيقات Microsoft 365 للمؤسسات على RDS من مركز إدارة Microsoft 365، ***والذي يستخدم إعدادات التثبيت الافتراضية،*** فاستخدم الخطوات التالية.
+إذا كنت تريد تثبيت تطبيقات Microsoft 365 ل enterprise علي RDS من Microsoft 365 admin center ، ***الذي يستخدم إعدادات التثبيت الافتراضية***، فاستخدم الخطوات التالية.
 
 > [!TIP]
-> يمكنك أيضًا تنزيل [وتشغيل مساعد دعم واسترداد Microsoft](https://aka.ms/SaRA_OfficeSCA_M365Portal) لتثبيت تطبيقات Microsoft 365 للمؤسسات في وضع تنشيط الكمبيوتر المشترك.
+> يمكنك أيضا تنزيل [مساعد الإصلاح والدعم من microsoft](https://aka.ms/SaRA_OfficeSCA_M365Portal) وتشغيله لتثبيت تطبيقات microsoft 365 ل enterprise في وضع تنشيط الكمبيوتر المشترك.
   
-1. تحقق من اشتراك Microsoft 365 لديك. [تعرف على كيفية](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have)
+1. تحقق من اشتراك Microsoft 365 لديك. [تعرف علي كيفيه](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have)
 
-2. إذا لزم الأمر، قم بالتبديل إلى اشتراك Microsoft 365 مختلف. [تعرف على كيفية](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
+2. إذا لزم الأمر ، فقم بالتبديل إلى اشتراك آخر في Microsoft 365. [تعرف علي كيفيه](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
 
-3. إذا تم تثبيت Office بالفعل على خادم RDS باستخدام أي اشتراكات Microsoft 365 الأخرى، فقم بإلغاء تثبيته. على سبيل المثال، عن طريق الانتقال إلى لوحة التحكم \> إلغاء تثبيت برنامج. إلغاء التثبيت باستخدام [مساعد دعم Microsoft والاسترداد](https://aka.ms/SARA-OfficeUninstall-Alchemy) إذا كنت تقوم بمشكلات.
+3. إذا كان Office مثبتا بالفعل علي خادم RDS باستخدام اي اشتراكات Microsoft 365 أخرى ، فقم بازاله تثبيته. علي سبيل المثال ، بالانتقال إلى "لوحه التحكم" \> إلغاء تثبيت برنامج. أزاله [التثبيت باستخدام مساعد الإصلاح والدعم من Microsoft](https://aka.ms/SARA-OfficeUninstall-Alchemy) إذا كنت تعمل علي مشاكل.
 
-4. على خادم RDS، قم بتسجيل الدخول إلى مركز إدارة Microsoft 365 باستخدام حساب المسؤول [وتثبيت تطبيقات Microsoft 365 للمؤسسات](https://portal.office.com/OLS/MySoftware.aspx).
+4. في RDS server ، سجل دخولك إلى مركز أداره Microsoft 365 باستخدام حساب المسؤول الخاص بك وقم [بتثبيت تطبيقات Microsoft 365 ل enterprise](https://portal.office.com/OLS/MySoftware.aspx).
 
-5. بعد تثبيت Office، ***لا تفتح أو تسجل الدخول*** إلى أي تطبيقات Office.
+5. بعد تثبيت Office ، ***لا تقم بفتح اي من تطبيقات Office أو تسجيل الدخول*** اليه.
 
-6. على ملقم RDS، تمكين تنشيط الكمبيوتر المشترك عن طريق تحرير التسجيل باتباع الخطوات التالية:
+6. في RDS server ، قم بتمكين تنشيط الكمبيوتر المشترك عن طريق تحرير السجل باتباع الخطوات التالية:
 
-1. انقر بزر Windows في الزاوية اليسرى السفلى من الشاشة وحدد تشغيل. في المربع المفتوح، اكتب **regedit**، ثم حدد موافق.
+1. انقر بزر الماوس الأيمن في الزاوية السفلية اليمني من الشاشة وحدد تشغيل. في المربع فتح ، اكتب **regedit**، ثم حدد موافق.
 
-2. حدد نعم عندما تتم مطالبتك بالسماح لمحرر التسجيل بإجراء تغييرات على جهازك.
+2. حدد نعم عندما تتم مطالبتك بالسماح لمحرر التسجيل باجراء تغييرات علي جهازك.
 
-3. في محرر التسجيل، قم بإضافة قيمة سلسلة من **SharedComputerLicensing** مع إعداد 1 تحت HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
+3. في "محرر السجل" ، أضف قيمه سلسله **شاريدكومبوتيرليسينسينج** باعداد 1 تحت HKEY_LOCAL_MACHINE \software\microsoft \office\clicktorun\configuration.
 
-7. على خادم RDS، ***قم بتسجيل الدخول كمستخدم نهائي*** وتحقق من تمكين تنشيط الكمبيوتر المشترك لتطبيقات Microsoft [365 للمؤسسات](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded).
+7. في RDS server ، ***سجل دخولك كمستخدم نهائي*** [وتحقق من تمكين تنشيط الكمبيوتر المشترك لتطبيقات Microsoft 365 ل enterprise](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded).
 
-لمزيد من التفاصيل حول المتطلبات الأساسية وإرشادات الإعداد والإرشادات حول المنشآت المخصصة باستخدام أداة نشر Office، يرجى الاطلاع [على نشر تطبيقات Microsoft 365 للمؤسسات باستخدام خدمات سطح المكتب البعيد](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services).
+للحصول علي مزيد من التفاصيل حول المتطلبات الاساسيه ، قم باعداد الإرشادات والإرشادات علي التثبيتات المخصصة باستخدام أداه نشر Office ، الرجاء مراجعه [نشر تطبيقات Microsoft 365 للمؤسسة باستخدام خدمات سطح المكتب البعيد](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services).
   
-لإصلاح الأخطاء المتعلقة بتنشيط الكمبيوتر المشترك، يرجى الاطلاع على [مشكلات استكشاف الأخطاء وإصلاحها المتعلقة بتنشيط الكمبيوتر المشترك لتطبيقات Microsoft 365 للمؤسسات](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation).
+لإصلاح الأخطاء المتعلقة بتنشيط الكمبيوتر المشترك ، يرجى مراجعه [استكشاف الأخطاء وإصلاحها في تنشيط الكمبيوتر المشترك لتطبيقات Microsoft 365 ل enterprise](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation).
   
