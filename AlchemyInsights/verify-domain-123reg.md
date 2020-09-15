@@ -1,26 +1,27 @@
 ---
-title: التحقق من نطاقك باستخدام 123-reg.co.uk
+title: التحقق من مجالك باستخدام 123-reg.co.uk
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: e84e56a839754e65eaa0945c68abdedcec1a7733
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 838406ef6dd45fce436a72cd60888cd9498baa35
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766336"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47657515"
 ---
-# <a name="verify-your-domain-with-123-regcouk"></a>التحقق من نطاقك باستخدام 123-reg.co.uk
+# <a name="verify-your-domain-with-123-regcouk"></a>التحقق من مجالك باستخدام 123-reg.co.uk
 
-للتحقق من نطاقك، ستحتاج إلى إضافة سجل TXT إلى مسجل النطاق الخاص بك للتحقق من امتلاكك لنطاقك. 
+للتحقق من مجالك ، ستحتاج إلى أضافه سجل TXT إلى جهة تسجيل المجالات للتحقق من ملكيتك للمجال. 
 
-أولاً، اتبع [معالج إضافة مجال](https://portal.office.com/adminportal/home#/Domains) عن طريق تحديد **مجالات** **الإعدادات،** \> ثم **قم بإضافة مجال**.
+أولا ، اتبع [المعالج أضافه مجال](https://portal.office.com/adminportal/home#/Domains) بتحديد **مجالات الإعدادات** \> **Domains**، ثم **أضف مجالا**.
   
-راجع [إنشاء سجلات DNS في 123-reg.co.uk لـ Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-123-reg-co-uk) للحصول على إرشادات خطوة بخطوة.
+راجع [إنشاء سجلات DNS في 123-reg.co.uk ل Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-123-reg-co-uk) للحصول علي الإرشادات المفصلة خطوه بخطوه.

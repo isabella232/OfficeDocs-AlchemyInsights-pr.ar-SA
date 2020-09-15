@@ -1,10 +1,11 @@
 ---
-title: إرسال طلبات دعم PowerApps أو Microsoft Flow
+title: إرسال طلبات دعم PowerApps أو Microsoft التدفق
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,15 +13,15 @@ ms.custom:
 - "1494"
 - "1495"
 - "6200027"
-ms.openlocfilehash: 9f2ce78def252a7cba32b28d28dea40b6213c3ef
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 0546a222eeb68fd9138a1ab846ebe190ddcbbc0b
+ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "36559468"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47653428"
 ---
-# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>إرسال طلبات دعم PowerApps أو Microsoft Flow
+# <a name="submit-powerapps-or-microsoft-flow-support-requests"></a>إرسال طلبات دعم PowerApps أو Microsoft التدفق
 
-إذا كنت **من عملاء PowerApps** أو **Microsoft Flow،** يرجى إرسال تذكرتك من خلال [مركز إدارة منصة Power الجديد](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819). توفر البوابة الجديدة مسارًا أكثر مباشرة للدعم المساعد الذي تم تحسينه لـ PowerApps ومنتجات منصة Power الأخرى.
+إذا كنت عميل **PowerApps** أو **Microsoft تدفق** الرجاء إرسال بطاقتك عبر [مركز أداره النظام الأساسي للطاقة](https://admin.powerplatform.microsoft.com/support?newTicket&product=15819)الجديد. يوفر المدخل الجديد مسارا مباشرا أكثر إلى الدعم المساعد والذي يتم تحسينه لPowerApps ومنتجات أنظمه الطاقة الأخرى.
 
-[إرسال طلب دعم تدفق Microsoft](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)
+[إرسال طلب دعم التدفق في Microsoft](https://admin.powerplatform.microsoft.com/support?newTicket&product=Flow)
