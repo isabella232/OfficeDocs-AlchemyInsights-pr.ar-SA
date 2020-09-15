@@ -1,33 +1,34 @@
 ---
-title: المساعدة في Apple DEP
+title: تعليمات حول Apple DEP
 ms.author: erikje
 author: erikje
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2506"
-ms.openlocfilehash: 5e027994175dcdbd35ffbc67934d3c31b7ab503a
-ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
+ms.openlocfilehash: b3577ac32be31b213feb172b76843ba884b42a03
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37654283"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47705466"
 ---
-# <a name="help-with-apple-dep"></a>المساعدة في Apple DEP
+# <a name="help-with-apple-dep"></a>تعليمات حول Apple DEP
 
-إذا كان جهاز DEP غير قادر علي التسجيل وتم تمكين وزاره الخارجية (المصادقة متعددة العوامل) ، يرجى تعطيل وزاره الخارجية. وزاره الخارجية غير معتمد حاليا للتسجيل DEP.
+إذا تعذر علي جهاز DEP التسجيل وMFA (المصادقة متعددة العوامل) ، فالرجاء تعطيل MFA. MFA غير معتمد حاليا لتسجيل DEP.
 
-[الشروع في التشغيل باستخدام برنامج تسجيل الاجهزه اينتوني و Apple (DEP)](https://docs.microsoft.com/intune/enrollment/device-enrollment-program-enroll-ios)
+[بدء استخدام برنامج تسجيل الاجهزه في Intune و Apple (DEP)](https://docs.microsoft.com/intune/enrollment/device-enrollment-program-enroll-ios)
 
-[أخطاء وحلول تسجيل iOS الشائعة](https://docs.microsoft.com/intune/enrollment/troubleshoot-ios-enrollment-errors)
+[أخطاء وحلول تسجيلات iOS الشائعة](https://docs.microsoft.com/intune/enrollment/troubleshoot-ios-enrollment-errors)
 
-[استكشاف أخطاء التسجيل العام](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
+[استكشاف أخطاء التسجيل العامة وإصلاحها](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune)
 
-[استخدام بوابه استكشاف الأخطاء وإصلاحها اينتوني لتشخيص وحل فشل التسجيل الشائعة](https://docs.microsoft.com/intune/fundamentals/help-desk-operators)
+[استخدام مدخل Intune لاستكشاف الأخطاء وإصلاحها لتشخيص حالات فشل التسجيل الشائعة وحلها](https://docs.microsoft.com/intune/fundamentals/help-desk-operators)
 
 
