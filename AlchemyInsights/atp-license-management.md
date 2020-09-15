@@ -1,28 +1,29 @@
 ---
-title: إدارة تراخيص الحماية من التهديدات المتقدمة
+title: أداره ترخيص الحماية المتقدمة من المخاطر
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5782"
-ms.openlocfilehash: ae2afd87bf1c838e027103a6e012c40b06dcd629
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
+ms.openlocfilehash: 1c6bf3c43177da2c22bef9350ceb03081bec285e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44707602"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47715368"
 ---
-# <a name="advanced-threat-protection-license-management"></a>إدارة تراخيص الحماية من التهديدات المتقدمة
+# <a name="advanced-threat-protection-license-management"></a>أداره ترخيص الحماية المتقدمة من المخاطر
 
-يمكن إكمال إدارة ترخيص Office 365 مسبقًا للحماية من التهديدات (ATP) في **مركز إدارة Microsoft 365**.
+يمكن إكمال أداره ترخيص Office 365 الخاص بالحماية من المخاطر المتقدمة (ATP) في  **مركز أداره Microsoft 365**.
 
-- لشراء Office 365 Advance Protection، انتقل إلى خدمات شراء **الفواتير**  >  [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433)، وحدد صفحة **الوظائف الإضافية** من **الفئات الأخرى التي قد تهمك**، وحدد خطة الحماية من التهديدات المتقدمة التي تريد شراؤها، وحدد عدد المستخدمين الذين سيستخدمون الحماية من التهديدات المتقدمة. لمزيد من المعلومات، راجع [اشتراك الشراء](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
-- لتعيين تراخيص حماية التهديدات المسبقة من Office 365، انتقل إلى تراخيص **الفوترة**  >  **Licenses**. لمزيد من المعلومات، راجع [تعيين التراخيص](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).  
-- لإضافة/إزالة تراخيص الحماية المسبقة من التهديدات من Office 365، انتقل إلى **"الفواتير"**  >  **للمنتجات الخاصة بك،** والعثور على الاشتراك الذي تريد إضافة أو إزالة التراخيص إليه، وحدد **إضافة/إزالة التراخيص**.  
-- لمزيد من المعلومات، راجع [إضافة أو إزالة ترخيص](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription)s من اشتراك نشاطك التجاري.
+- لشراء الحماية من المخاطر في Office 365 **Billing**، انتقل إلى  >  [خدمات شراء](https://go.microsoft.com/fwlink/p/?linkid=868433)الفوترة ، وحدد صفحه **الوظائف الاضافيه** من **الفئات الأخرى التي قد تهمك**، وحدد خطه الحماية المتقدمة للتهديدات التي تريد شرائها ، وحدد عدد المستخدمين الذين سيستخدمون الحماية المتقدمة من المخاطر. لمزيد من المعلومات ، راجع [شراء الاشتراك](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
+- لتعيين تراخيص الحماية من المخاطر المتقدمة في Office 365 ، انتقل إلى تراخيص **الفوترة**  >  **Licenses**. لمزيد من المعلومات ، راجع  [تعيين التراخيص](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).  
+- لأضافه/أزاله تراخيص الحماية من المخاطر في Office 365 ، انتقل إلى الانتقال إلى **فوتره**  >  **منتجاتك**، وابحث عن الاشتراك الذي تريد أضافه التراخيص اليه أو ازالتها منه ، وحدد **أضافه/أزاله التراخيص**.  
+- لمزيد من المعلومات ، راجع [أضافه الترخيص s أو ازالته](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription)من اشتراكك في العمل.
