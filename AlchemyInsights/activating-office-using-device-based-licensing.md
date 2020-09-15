@@ -1,34 +1,35 @@
 ---
-title: تفعيل المكتب باستخدام الترخيص المستند إلى الجهاز
+title: تنشيط Office باستخدام ترخيص مستند إلى الجهاز
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001420"
 - "3433"
-ms.openlocfilehash: d0ebc7901efb19a433a0c8d6e8f22e5ff969d336
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: ae39e70780607c55dac1d3fac13b41910397d2e7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44504430"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47697868"
 ---
-# <a name="activating-office-using-device-based-licensing"></a>تفعيل المكتب باستخدام الترخيص المستند إلى الجهاز
+# <a name="activating-office-using-device-based-licensing"></a>تنشيط Office باستخدام ترخيص مستند إلى الجهاز
 
 > [!NOTE]
-> يتم الآن إلغاء [تنشيط Office-Based](https://aka.ms/officedba) لعملاء التعليم في الولايات المتحدة. نحن نشجع المؤسسات على التخطيط لترخيص Microsoft 365 Apps for Education (الجهاز) الجديد لعملاء التعليم.
+> [التنشيط القائم علي الاجهزه](https://aka.ms/officedba) من Office للعملاء التعليميين الأمريكيين مهمل الآن. نشجع المؤسسات علي التخطيط للحصول علي تطبيقات Microsoft 365 الجديدة لترخيص التعليم (الجهاز) للعملاء التعليميين.
 
-لتنشيط Office باستخدام الترخيص المستند إلى الجهاز، تحتاج إلى الحصول على ترخيص الوظائف الإضافية لـ Microsoft 365 Apps for Education (الجهاز) المتاح لعملاء التعليم فقط ولا يتوفر إلا من خلال حلول التسجيل من أجل التعليم (EES). يرجى الاطلاع [على متطلبات استخدام الترخيص المستند إلى الجهاز لتطبيقات Microsoft 365 للمؤسسات](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise).
+لتنشيط Office باستخدام الترخيص القائم علي الجهاز ، يجب ان يتوفر لديك ترخيص الوظيفة الاضافيه Microsoft 365 لتعليم البرنامج التعليمي (الجهاز) الذي يتوفر فقط للعملاء التعليميين ، ولا تتوفر الا من خلال التسجيل للحلول التعليمية (اس). الرجاء [الاطلاع علي متطلبات استخدام ترخيص مستند إلى الجهاز لتطبيقات Microsoft 365 ل enterprise](https://docs.microsoft.com/deployoffice/device-based-licensing#requirements-for-using-device-based-licensing-for-microsoft-365-apps-for-enterprise).
 
 
-للحصول على معلومات مفصلة حول الإعداد، راجع:
+للحصول علي معلومات مفصله حول الاعداد ، راجع:
 
-- [خطوات تكوين الترخيص المستند إلى الجهاز لتطبيقات Microsoft 365 للمؤسسات](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
-- [إدارة تراخيص الأجهزة](https://docs.microsoft.com/microsoft-365/admin/misc/manage-licenses-for-devices)
+- [خطوات لتكوين الترخيص المستند إلى الجهاز لتطبيقات Microsoft 365 للمؤسسة](https://docs.microsoft.com/deployoffice/device-based-licensing#steps-to-configure-device-based-licensing-for-microsoft-365-apps-for-enterprise)
+- [أداره التراخيص للاجهزه](https://docs.microsoft.com/microsoft-365/admin/misc/manage-licenses-for-devices)
 
-للحصول على إرشادات استكشاف الأخطاء [وإصلاحها، راجع استكشاف الأخطاء وإصلاحها الترخيص المستند إلى الجهاز لتطبيقات Microsoft 365 للمؤسسات](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise).
+للحصول علي إرشادات استكشاف الأخطاء وإصلاحها ، راجع [استكشاف أخطاء الترخيص المستند إلى الجهاز لتطبيقات Microsoft 365 وإصلاحها](https://docs.microsoft.com/deployoffice/device-based-licensing#troubleshoot-device-based-licensing-for-microsoft-365-apps-for-enterprise).

@@ -1,34 +1,35 @@
 ---
-title: مشكلات تسجيل الدخول إلى تطبيقات Microsoft 365
+title: المشاكل المتعلقة بتسجيل الدخول إلى تطبيقات Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2556"
-ms.openlocfilehash: 4658b4df8a48072b4cc9d72bf503d7911bb5126b
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 3c016b198ad43f35c8149dde71c28a2f7fc3bd38
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44579888"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47695274"
 ---
-# <a name="blank-sign-in-screen-in-microsoft-365-apps"></a>شاشة تسجيل الدخول الفارغة في تطبيقات Microsoft 365
+# <a name="blank-sign-in-screen-in-microsoft-365-apps"></a>شاشه تسجيل الدخول الفارغة في تطبيقات Microsoft 365
 
-لإصلاح هذه المشكلة، حاول ما يلي:
-- تثبيت آخر التحديثات [لـ Windows](https://support.microsoft.com/help/4027667/windows-10-update) و [Office](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5).
-- إعادة تعيين خيارات Internet **Tools**Explorer: انتقل إلى  >  **أدوات خيارات إنترنت**  >  **Advanced**  >  **المتقدمة إعادة تعيين إعدادات إنترنت إكسبلورر** (لاحظ أنك سوف تفقد الإعدادات المخصصة)، ومن ثم حاول تسجيل الدخول إلى Office مرة أخرى.
-- تعطيل حارس تطبيق Windows Defender (WDAG) أو أي جدار حماية مماثل أو برنامج مضاد للفيروسات:
-    1. في لوحة التحكم، انتقل إلى **البرامج،** ثم اختر **تشغيل ميزات Windows أو إيقاف تشغيلها**.
-    2. إذا تم تمكين Windows Defender Application Guard، فحاول تعطيله.<br/>
-    **ملاحظة:** قد تحتاج إلى إعادة تشغيل الكمبيوتر.
-- تأكد من أن Microsoft.AAD.BrokerPlugin [AAD WAM المكونات في](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-1) لا يتم حظرها من قبل أي تطبيق أو جدار الحماية / برنامج مكافحة الفيروسات.
-- [مسح بيانات اعتماد Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) باستخدام إدارة بيانات اعتماد Windows.<br/>
-    **ملاحظة:** تم تغيير مسارات التسجيل لـ Office 2016 إلى 16.0. (على سبيل: \Software\Microsoft\Office\16.0\Common\Identity\)
+لإصلاح هذه المشكلة ، جرب ما يلي:
+- تثبيت آخر التحديثات ل [Windows](https://support.microsoft.com/help/4027667/windows-10-update) و [Office](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5).
+- أعاده تعيين خيارات internet explorer: **Tools**انتقل إلى  >  **أدوات الإنترنت خيارات**  >  أعاده تعيين**متقدمة**  >  **لإعدادات internet Explorer** (لاحظ انك ستفقد الإعدادات المخصصة) ، ثم حاول تسجيل الدخول إلى Office مره أخرى.
+- تعطيل ' حماية التطبيقات ل Windows Defender ' (فداج) أو اي برنامج جدار حماية مشابه أو برامج مكافحه الفيروسات:
+    1. في لوحه التحكم ، انتقل إلى **البرامج**، ثم اختر **تشغيل ميزات Windows أو إيقاف تشغيلها**.
+    2. إذا تم تمكين حماية التطبيقات ل Windows Defender ، فجرب تعطيلها.<br/>
+    **ملاحظه:** قد تحتاج إلى أعاده تشغيل الكمبيوتر.
+- تاكد من انه لم يتم حظر [المكون الإضافي بروكيربلوجين aad](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-1) الخاص ب aad ، بواسطة اي تطبيق أو جدار حماية/برنامج مكافحه الفيروسات.
+- [مسح بيانات اعتماد Office](https://docs.microsoft.com/office/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) باستخدام "أداره بيانات اعتماد Windows".<br/>
+    **ملاحظه:** لقد تغيرت مسارات التسجيل ل Office 2016 إلى 16.0. (علي سبيل المثال: \Software\Microsoft\Office\16.0\Common\Identity\)
 
-لمزيد من المعلومات، راجع [مشكلات "تسجيل الدخول" في "الاتصال" بعد التحديث إلى Office 2016 بناء 16.0.7967 على Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016).
+لمزيد من المعلومات ، راجع [مشاكل الاتصال في تسجيل الدخول بعد التحديث إلى Office 2016 16.0.7967 علي Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016).

@@ -1,32 +1,32 @@
 ---
 title: استكشاف أخطاء التنشيط وإصلاحها
-ms.author: jillz
-author: jillz
+ms.author: pebaum
+author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
-ms.prod: office-online-server
+ms.service: o365-administration
 ms.assetid: 9075ad24-3c60-48be-811b-4c28be4ec14c
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "909"
 - "2000021"
-ms.openlocfilehash: 871db32d7248cade686c12f524b409ce3949a4ae
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 5adce77d75b78ffe56e397690a4e1d888b65b505
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43676412"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47697472"
 ---
 # <a name="activation-troubleshooting"></a>استكشاف أخطاء التنشيط وإصلاحها
 
-في **برامج وميزات** **لوحة** \> التحكم ، ابحث عن Office. يجب أن تشاهد تطبيقات Microsoft 365 للمؤسسات أو Microsoft 365 Apps للأعمال. إذا رأيت أكثر من إصدار واحد من Office مدرج في القائمة، فقم بإلغاء تثبيت الإصدار الذي لا تستخدمه.
+في **Control Panel** \> **البرامج والميزات**في لوحه التحكم ، ابحث عن Office. يجب ان تري تطبيقات Microsoft 365 ل enterprise أو تطبيقات Microsoft 365 للاعمال. إذا رأيت أكثر من إصدار واحد من Office مدرج في القائمة، فقم بإلغاء تثبيت الإصدار الذي لا تستخدمه.
   
-إذا لم تتمكن من إلغاء التثبيت بنجاح باستخدام لوحة التحكم، فاستخدم [مساعد الدعم والاسترداد](https://aka.ms/SARA-OfficeUninstall-Alchemy) لإلغاء تثبيت الإصدار الذي لا تستخدمه.
+إذا لم تتمكن من أزاله التثبيت بنجاح باستخدام لوحه التحكم ، فاستخدم [مساعد الإصلاح والدعم](https://aka.ms/SARA-OfficeUninstall-Alchemy) لأزاله تثبيت الإصدار الذي لا تستخدمه.
   
-إذا كان Office لا يزال غير مرخص، فعد إلى **برامج وميزات** **لوحة** \> التحكم . انقر بزر الماوس الأيمن على تثبيت Office المتبقي، وحدد **تعديل** (أو تغيير)، ثم حدد **الإصلاح عبر الإنترنت**. قد يستغرق الإصلاح عبر الإنترنت بعض الوقت. بعد ذلك، قم بإعادة تشغيل Office وسجل دخولك باستخدام حساب العمل أو المؤسسة التعليمية، إذا تمت مطالبتك بذلك.
+إذا ما زال Office غير مرخص ، فعد إلى برامج **لوحه التحكم** \> **والميزات**. انقر بزر الماوس الأيمن فوق التثبيت المتبقي من Office ، وحدد **تعديل** (أو تغيير) ، ثم حدد **إصلاح عبر الإنترنت**. قد يستغرق الإصلاح عبر الإنترنت بعض الوقت. بعد ذلك، قم بإعادة تشغيل Office وسجل دخولك باستخدام حساب العمل أو المؤسسة التعليمية، إذا تمت مطالبتك بذلك.
   
-إذا كان Office لا يزال غير مرخص، فقم بتنزيل [مستكشف أخطاء التنشيط](https://aka.ms/SARA-OfficeActivation-Alchemy) ثم تشغيله على الجهاز المتأثر لإصلاح مشكلات التنشيط.
+إذا ما زال Office غير مرخص ، فقم بتنزيله ثم قم بتشغيل " [مستكشف أخطاء التنشيط](https://aka.ms/SARA-OfficeActivation-Alchemy) " علي الجهاز المتاثر لإصلاح مشاكل التنشيط.
   
-لمزيد من المعلومات، راجع: [أخطاء المنتج غير المرخص ة والتنشيط في Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
+لمزيد من المعلومات ، راجع: [المنتج غير المرخص وأخطاء التنشيط في Office](https://support.office.com/article/0d23d3c0-c19c-4b2f-9845-5344fedc4380).
