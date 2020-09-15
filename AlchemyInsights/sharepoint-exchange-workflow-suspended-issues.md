@@ -1,33 +1,34 @@
 ---
-title: البدء باستخدام SharePoint علي الإنترنت
+title: بدء استخدام SharePoint Online
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 7ae05f21-eb16-4d71-9e19-4f097eb100d2
-ms.openlocfilehash: 285c580d69efb369fa6a60066165123e3c91b0a7
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: bba89489cb75555e1f508224de223bee04e1d665
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051628"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47700694"
 ---
 # <a name="workflows-in-sharepoint"></a>مهام سير العمل في SharePoint
 
-إذا لم يتم إرسال مهام سير عمل SharePoint رسائل البريد الكتروني ، قد واجهت مؤسستك حدود المرسل Exchange عبر إنترنت.
+إذا لم ترسل مهام سير عمل SharePoint رسائل البريد الكتروني ، فقد تكون مؤسستك واجهت حدود مرسل Exchange Online.
 
-قد تظهر رسالة الخطا "سير العمل معلق" إذا كان لديك أحد العناصر التالية:
+قد تظهر رسالة الخطا "توقف سير العمل مرحليا" إذا كان لديك أحد العناصر التالية:
 
-- لديك سير عمل في SharePoint علي الإنترنت التي تستخدم SharePoint 2010 أو SharePoint 2013 نوع النظام الأساسي سير العمل.
+- لديك سير عمل في SharePoint Online يستخدم نوع النظام الأساسي لسير العمل SharePoint 2010 أو SharePoint 2013.
 
-- يتم تكوين سير العمل لإرسال رسالة بريد الكتروني مخصصه إلى أكثر من 200 المستخدمين في كل مره ، أكثر من 10,000 المستلمين في اليوم الواحد ، أو أكثر من 30 رسالة في الدقيقة الواحدة.
+- تم تكوين سير العمل لإرسال رسالة بريد الكتروني مخصصه إلى أكثر من 200 مستخدمين في نفس الوقت ، أو أكثر من 10,000 مستلم في اليوم ، أو أكثر من 30 رسالة في الدقيقة.
 
-عند تشغيل سير العمل ، لا يتم إرسال رسالة البريد الكتروني ، ولاحظت رسالة الخطا ، يتم تعيين الحالة الداخلية إلى المعلقة أو غير قادر علي إرسال إلى مستلم يتم عرض.
+عند تشغيل سير العمل ، لا يتم إرسال رسالة البريد الكتروني ، وتلاحظ ظهور رسالة الخطا ، يتم تعيين الحالة الداخلية إلى معلق أو تعذر الإرسال إلى المستلم.
 
-لمزيد من المعلومات ، يرجى الرجوع إلى [المقالة](https://docs.microsoft.com/sharepoint/support/workflows/configured-workflow-fails-running)التالية.
+لمزيد من المعلومات ، يرجى مراجعه [المقالة](https://docs.microsoft.com/sharepoint/support/workflows/configured-workflow-fails-running)التالية.
 
