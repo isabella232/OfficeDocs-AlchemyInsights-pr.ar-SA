@@ -1,10 +1,11 @@
 ---
-title: تنشيط اشتراك أو إعادة تنشيطه
+title: تنشيط اشتراك أو أعاده تنشيطه
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,30 +13,30 @@ ms.assetid: 2d59f23f-7aad-4b57-9039-0bd2bbf929a3
 ms.custom:
 - "1500028"
 - "482"
-ms.openlocfilehash: 0f42c1d96b8c1299148226729d71dc02ad5a1038
-ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.openlocfilehash: 1f2bd2d602ac499358940a3ee5c788d725a8db5b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44418023"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47698336"
 ---
-# <a name="activate-or-reactivate-a-subscription"></a>تنشيط اشتراك أو إعادة تنشيطه
+# <a name="activate-or-reactivate-a-subscription"></a>تنشيط اشتراك أو أعاده تنشيطه
 
 **تنشيط اشتراك**
 
 - لمنح المستخدمين إمكانية الوصول إلى خدمة ما، قم بتعيين ترخيص لهم. للحصول على إرشادات حول تعيين التراخيص، راجع [تعيين التراخيص للمستخدمين](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 
-- إذا كان لديك ترخيص معين بالفعل، يمكنك العثور على تطبيقات يمكنك تنزيلها من [صفحة حسابي](https://portal.office.com/account/#installs). توفر هذه الصفحة قائمة بالتطبيقات المتوفرة لك للتنزيل استنادًا إلى التراخيص التي تم تعيينها.
+- إذا كان لديك ترخيص معين بالفعل، يمكنك العثور على تطبيقات يمكنك تنزيلها من [صفحة حسابي](https://portal.office.com/account/#installs). توفر هذه الصفحة قائمه بالتطبيقات المتوفرة للتنزيل بالاستناد إلى التراخيص التي تم تعيينها.
 
-- إذا كنت قد قمت بالفعل بتنزيل تطبيقات Office، فقد تحتاج إلى تسجيل الدخول إلى التطبيقات باستخدام حساب العمل أو المدرسة. يمكنك القيام بذلك في أي تطبيق من تطبيقات Office (Word وExcel وغيرها) عن طريق النقر فوق **ملف > الحساب** (بالقرب من الجزء السفلي). ضمن معلومات المستخدم انقر فوق **تبديل الحساب**. لمزيد من المعلومات قراءة [تثبيت تطبيقات Office](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
+- إذا قمت بالفعل بتنزيل تطبيقات Office ، فقد تحتاج إلى تسجيل الدخول إلى التطبيقات باستخدام حساب العمل أو المؤسسة التعليمية. يمكنك القيام بذلك في أي تطبيق من تطبيقات Office (Word وExcel وغيرها) عن طريق النقر فوق **ملف > الحساب** (بالقرب من الجزء السفلي). ضمن معلومات المستخدم انقر فوق **تبديل الحساب**. للحصول علي مزيد من المعلومات ، أقرا [تطبيقات Office](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
 
 **إعادة تنشيط اشتراك**
 
-إذا انتهت صلاحية اشتراكك، أو تم تعطيله من قبل Microsoft، أو قمت بإلغائه في منتصف مدة الاشتراك، يمكنك إعادة تنشيطه في مركز المسؤول.
+إذا انتهت صلاحيه اشتراكك أو تم تعطيله بواسطة Microsoft أو ألغيته في منتصف فتره الاشتراك ، يمكنك أعاده تنشيطه في مركز الاداره.
   
-1. في مركز إدارة Microsoft 365، انتقل إلى صفحة **الفوترة**  >  [لمنتجاتك.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+1. في مركز أداره Microsoft 365 ، انتقل إلى صفحه **الفوترة**  >  [الخاصة بالمنتجات](https://go.microsoft.com/fwlink/p/?linkid=842054) .
 
-2. اختر الاشتراك الذي تريد إعادة تنشيطه، ثم حدد **إعادة التنشيط**. إذا لم تر **إعادة تنشيط** كإجراء متوفر، [فاتصل بالدعم](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) لإعادة تنشيط الاشتراك.
+2. اختر الاشتراك الذي تريد أعاده تنشيطه ، ثم حدد **أعاده تنشيط**. إذا لم تر **إعادة تنشيط** كإجراء متوفر، [فاتصل بالدعم](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products) لإعادة تنشيط الاشتراك.
 
 3. أدخل تفاصيل الدفع. يمكنك [تحديث معلومات الدفع الحالية](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods) هنا أيضاً.
 
