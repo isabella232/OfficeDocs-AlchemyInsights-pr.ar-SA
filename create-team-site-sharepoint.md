@@ -1,11 +1,12 @@
 ---
-title: كيفية إنشاء موقع فريق في SharePoint
+title: كيفيه إنشاء موقع فريق في SharePoint
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,15 +14,15 @@ ms.custom:
 - "5200004"
 - "3177"
 ms.assetid: ''
-ms.openlocfilehash: eecc92a4851fa7164b5b509c08ab300acef27c25
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 25e40924d1cabc7d2d83e42b39710df4a4174cd5
+ms.sourcegitcommit: 483444ab35ab0e4d410d121562045efde47aa61a
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43676808"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47653311"
 ---
-# <a name="how-to-create-a-team-site-in-sharepoint"></a><span data-ttu-id="7654e-102">كيفية إنشاء موقع فريق في SharePoint</span><span class="sxs-lookup"><span data-stu-id="7654e-102">How to create a team site in SharePoint</span></span>
+# <a name="how-to-create-a-team-site-in-sharepoint"></a><span data-ttu-id="a2f6d-102">كيفيه إنشاء موقع فريق في SharePoint</span><span class="sxs-lookup"><span data-stu-id="a2f6d-102">How to create a team site in SharePoint</span></span>
 
-<span data-ttu-id="7654e-103">أنشئ [موقع فريق](https://support.office.com/article/what-is-a-sharepoint-team-site-75545757-36c3-46a7-beed-0aaa74f0401e) SharePoint Online لتوفير موقع يمكنك فيه أنت وفريقك العمل على المشاريع ومشاركة المعلومات من أي مكان على أي جهاز.</span><span class="sxs-lookup"><span data-stu-id="7654e-103">Create a SharePoint Online [team site](https://support.office.com/article/what-is-a-sharepoint-team-site-75545757-36c3-46a7-beed-0aaa74f0401e) to provide a location where you and your team can work on projects and share information from anywhere on any device.</span></span>
+<span data-ttu-id="a2f6d-103">يمكنك إنشاء [موقع فريق](https://support.office.com/article/what-is-a-sharepoint-team-site-75545757-36c3-46a7-beed-0aaa74f0401e) SharePoint Online لتوفير موقع حيث يمكنك أنت وفريقك العمل علي المشاريع ومشاركه المعلومات من اي مكان علي اي جهاز.</span><span class="sxs-lookup"><span data-stu-id="a2f6d-103">Create a SharePoint Online [team site](https://support.office.com/article/what-is-a-sharepoint-team-site-75545757-36c3-46a7-beed-0aaa74f0401e) to provide a location where you and your team can work on projects and share information from anywhere on any device.</span></span>
 
-* [<span data-ttu-id="7654e-104">إنشاء موقع فريق في SharePoint</span><span class="sxs-lookup"><span data-stu-id="7654e-104">Create a team site in SharePoint</span></span>](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d)
+* [<span data-ttu-id="a2f6d-104">إنشاء موقع فريق في SharePoint</span><span class="sxs-lookup"><span data-stu-id="a2f6d-104">Create a team site in SharePoint</span></span>](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d)
