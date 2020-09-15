@@ -1,26 +1,27 @@
 ---
-title: حظر المصادقة القديمة إلى إعلان Azure مع الوصول الشرطي
+title: حظر المصادقة القديمة في Azure AD باستخدام Access الشرطي
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "5906"
 - "9003122"
-ms.openlocfilehash: 1b2da141d99b25d71147bdd709a6a3191c02a8ae
-ms.sourcegitcommit: 981880f6141278b87da22924a39bb1bb5892bb83
+ms.openlocfilehash: a0bbea487d2ea34c2e4987218eea1276bc34b243
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/22/2020
-ms.locfileid: "44846834"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47685477"
 ---
-# <a name="block-legacy-authentication-to-azure-ad-with-conditional-access"></a>حظر المصادقة القديمة إلى إعلان Azure مع الوصول الشرطي
+# <a name="block-legacy-authentication-to-azure-ad-with-conditional-access"></a>حظر المصادقة القديمة في Azure AD باستخدام Access الشرطي
 
-المستندات الموصى بها:
+المستندات الموصي بها:
 
-- [حظر المصادقة القديمة إلى إعلان Azure مع الوصول الشرطي](https://docs.microsoft.com/azure/active-directory/conditional-access/block-legacy-authentication#next-steps)
-- [منع الوصول عند الكشف عن مخاطر جلسة عمل مع الوصول الشرطي لـ Azure Active Directory](https://docs.microsoft.com/azure/active-directory/conditional-access/app-sign-in-risk)
+- [حظر المصادقة القديمة في Azure AD باستخدام Access الشرطي](https://docs.microsoft.com/azure/active-directory/conditional-access/block-legacy-authentication#next-steps)
+- [حظر الوصول عند اكتشاف مخاطر جلسة عمل باستخدام Access الشرطي ل Azure Active directory](https://docs.microsoft.com/azure/active-directory/conditional-access/app-sign-in-risk)
