@@ -1,27 +1,28 @@
 ---
-title: مكافحة البريد المزعج - 5.7.23
+title: أنتيسبام-5.7.23
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3156"
 - "9001196"
-ms.openlocfilehash: 8122b409a731a5fcc46c718aff1eeda07e26890b
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: ecbce4f0077dc9acab63575c19d40c0675a406ac
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506430"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47717312"
 ---
-# <a name="fix-email-delivery-issues-for-error-code-5723"></a>إصلاح مشكلات تسليم البريد الإلكتروني لرمز الخطأ 5.7.23
+# <a name="fix-email-delivery-issues-for-error-code-5723"></a>إصلاح مشاكل تسليم البريد الكتروني لرمز الخطا 5.7.23
 
-تحقق من سجل DNS SPF للمجال الخاص بك في مدقق سجل SPF أو DNS متوفر بشكل عام على الويب.
+تاكد من ان سجل DNS SPF لمجالك لديك بشكل عام SPF أو مدقق سجلات DNS علي الويب.
 
-تحقق من أن الرسالة الصادرة لم يتم تعريفها كرسائل غير مرغوب فيها من قبل Microsoft وتم توجيهها من خلال [تجمع التسليم عالي الخطورة](https://docs.microsoft.com/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages). لن تجتاز الرسائل الموجودة في تجمع التسليم عالي المخاطر شيكات SPF، وبالتالي لن يتم قبولها من قبل مؤسسة البريد الإلكتروني الوجهة.
+تاكد من ان الرسالة الصادرة لم يتم تحديدها كبريد عشوائي بواسطة Microsoft وموجهه عبر [تجمع التسليم عالي الجودة](https://docs.microsoft.com/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages). لن تنجح الرسائل الموجودة في تجمع التسليم عالي المخاطرة في إيداع SPF ، التالي لن يتم قبولها بواسطة مؤسسه البريد الكتروني الوجهة.
 
-إذا استمرت المشكلة، فقد تحتاج إلى الاتصال بمسؤول مضيف البريد الذي تحاول إرسال بريد إلكتروني إليه. دوّن الخطأ الخارجي المفصل المتوفر في رسالة الارتداد. قد لا يتمكن دعم Microsoft من المساعدة بشكل أكبر.
+إذا استمرت المشكلة ، فقد تحتاج إلى الاتصال بمسؤول مضيف البريد الذي تحاول إرسال البريد الكتروني اليه. قم بتدوين الخطا الخارجي المفصل المتوفر في رسالة وثبات. قد لا يتمكن دعم Microsoft من المساعدة.
