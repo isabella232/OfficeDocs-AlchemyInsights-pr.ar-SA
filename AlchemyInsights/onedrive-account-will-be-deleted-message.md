@@ -1,26 +1,27 @@
 ---
-title: رسالة "سيتم حذف حساب OneDrive"
+title: رسالة ' سيتم حذف حساب OneDrive '
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 16645f44-219e-4f2a-b30b-159a409b790c
-ms.openlocfilehash: 954003081073312562941352b73afe5fa07bd4d1
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: b8e1a4617dc2560b5255b530c121324c5cfb4c1a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761191"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47673304"
 ---
-# <a name="onedrive-account-will-be-deleted-message"></a>رسالة "سيتم حذف حساب OneDrive"
+# <a name="onedrive-account-will-be-deleted-message"></a>الرسالة "سيتم حذف حساب OneDrive"
 
-إذا تلقيت بريدًا إلكترونيًا من email@mail.onedrive.com تحذيرًا من أنه "سيتم حذف حساب OneDrive الخاص بك" فيرجى ملاحظة أن هذا هو حسابك الشخصي OneDrive.com، وليس حساب OneDrive للأعمال. 
+إذا تلقيت رسالة بريد الكتروني من email@mail.onedrive.com تحذير بأنه "سيتم حذف حسابك في OneDrive" ، فالرجاء ملاحظه ان هذا هو حساب OneDrive.com الشخصي الخاص بك ، وليس حساب OneDrive for Business. 
   
-إذا لم تكن متأكدًا مما إذا كنت تستخدم OneDrive الشخصي، فسجّل الدخول إلى onedrive.com لإعادة تنشيط حسابك ومراجعته.
+إذا لم تكن متاكدا مما إذا كنت تستخدم OneDrive الشخصي ، فقم بتسجيل الدخول إلى onedrive.com لأعاده تنشيط حسابك ومراجعته.
   
-لمزيد من المعلومات، راجع [لماذا حصلت على بريد إلكتروني يقول إنه سيتم حذف حسابك؟](https://go.microsoft.com/fwlink/?linkid=2036151&amp;clcid=0x409)
+لمزيد من المعلومات ، راجع [ما سبب ظهور رسالة بريد الكتروني تفيد بأنه سيتم حذف حسابك ؟](https://go.microsoft.com/fwlink/?linkid=2036151&amp;clcid=0x409)
   
 
