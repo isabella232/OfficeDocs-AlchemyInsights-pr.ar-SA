@@ -1,27 +1,28 @@
 ---
-title: البدء مع Intune
+title: بدء استخدام Intune
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3190"
 - "9001217"
-ms.openlocfilehash: 3d6c0797b4cf73d33908ef42191fd7093d645229
-ms.sourcegitcommit: bf87d91fa60bd961bc6c887c4a4be7a3c7665b38
+ms.openlocfilehash: dda42cf553b2b1e37b69f334c0ad426aa7a13d10
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/01/2020
-ms.locfileid: "44492908"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47706330"
 ---
-# <a name="getting-started-with-intune"></a>البدء مع Intune
+# <a name="getting-started-with-intune"></a>بدء استخدام Intune
 
-للحصول على جولة سريعة في Intune ووحدة التحكم الإدارية، تحقق [من معاينة Intune في بوابة Azure](https://docs.microsoft.com/intune/fundamentals/tutorial-walkthrough-intune-portal).
+للحصول علي جولة سريعة حول Intune و "وحده تحكم المسؤول" ، اطلع علي [الإرشادات التفصيلية ل intune في مدخل Azure](https://docs.microsoft.com/intune/fundamentals/tutorial-walkthrough-intune-portal).
 
-إذا كنت ترغب في تجربة Intune أو إعداد نسخة تجريبية، راجع [Quickstart: جرب Microsoft Intune مجانًا](https://docs.microsoft.com/intune/fundamentals/free-trial-sign-up).
+إذا كنت ترغب في تجربه Intune أو اعداد إصدار تجريبي ، فراجع [تشغيل: جرب Microsoft Intune مجانا](https://docs.microsoft.com/intune/fundamentals/free-trial-sign-up).
 
-إذا كان لديك بالفعل Intune وكنت على استعداد للبدء في استخدامه ، راجع دليل [Intune الإعداد.](https://docs.microsoft.com/intune/fundamentals/setup-steps) 
+إذا كان لديك بالفعل Intune وأصبحت جاهزا لبدء استخدامه ، فراجع دليل إعدادات [intune](https://docs.microsoft.com/intune/fundamentals/setup-steps) الخاصة بنا. 
