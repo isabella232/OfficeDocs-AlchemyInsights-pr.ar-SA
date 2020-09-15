@@ -1,11 +1,12 @@
 ---
-title: 124 الحصول على خطأ في الإذن عند الوصول إلى علبة بريد مشتركة في OWA؟
+title: 124 الحصول علي خطا في الأذونات عند الوصول إلى علبه بريد مشتركه في OWA ؟
 ms.author: daeite
 author: daeite
 manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,14 +14,14 @@ ms.custom:
 - "124"
 - "1600022"
 ms.assetid: bc09faec-d78a-4103-b4bb-7967f0ecbf3b
-ms.openlocfilehash: 9305f9b1ec49ea705450a7fdf04e3e12f3f02649
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: ed3e94ba400a2683c2e023a1832bbd16a1e24b65
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44499174"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47706690"
 ---
-# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a><span data-ttu-id="3cfa8-102">الحصول على خطأ إذن عند فتح علبة بريد مشتركة في Outlook على الويب؟</span><span class="sxs-lookup"><span data-stu-id="3cfa8-102">Getting a permission error when opening a shared mailbox in Outlook on the web?</span></span>
+# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a><span data-ttu-id="03065-102">هل حصلت علي خطا في الأذونات عند فتح علبه بريد مشتركه في Outlook علي الويب ؟</span><span class="sxs-lookup"><span data-stu-id="03065-102">Getting a permission error when opening a shared mailbox in Outlook on the web?</span></span>
 
-<span data-ttu-id="3cfa8-103">إذا كنت تحصل على خطأ **شيء حدث خطأ. ليس لديك إذن لفتح صندوق البريد هذا.**</span><span class="sxs-lookup"><span data-stu-id="3cfa8-103">If you get the error **Something went wrong. You don't have permission to open this mailbox.**</span></span> <span data-ttu-id="3cfa8-104">عند محاولة فتح علبة بريد مشتركة في Outlook على الويب، قد لا يكون لدى حسابك إذن للوصول إلى علبة البريد المشتركة.</span><span class="sxs-lookup"><span data-stu-id="3cfa8-104">when you try to open a shared mailbox in Outlook on the web, your account might not have permission to access the shared mailbox.</span></span> <span data-ttu-id="3cfa8-105">يمكن لمسؤول المؤسسة تعيين أذونات حسابك إلى صندوق البريد المشترك باتباع الإرشادات الموجودة في الموضوع [إنشاء علبة بريد مشتركة](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox).</span><span class="sxs-lookup"><span data-stu-id="3cfa8-105">Your organization administrator can assign your account permissions to the shared mailbox by following the instructions in the topic [Create a shared mailbox](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox).</span></span>
+<span data-ttu-id="03065-103">إذا ظهرت رسالة الخطا **. ليس لديك الاذن لفتح علبه البريد هذه.**</span><span class="sxs-lookup"><span data-stu-id="03065-103">If you get the error **Something went wrong. You don't have permission to open this mailbox.**</span></span> <span data-ttu-id="03065-104">عند محاولة فتح علبه بريد مشتركه في Outlook علي الويب ، قد لا يتوفر لدي حسابك اذن الوصول إلى علبه البريد المشتركة.</span><span class="sxs-lookup"><span data-stu-id="03065-104">when you try to open a shared mailbox in Outlook on the web, your account might not have permission to access the shared mailbox.</span></span> <span data-ttu-id="03065-105">يمكن لمسؤول المؤسسة تعيين أذونات الحساب الخاص بك إلى علبه البريد المشتركة باتباع الإرشادات الموجودة في الموضوع [إنشاء علبه بريد مشتركه](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox).</span><span class="sxs-lookup"><span data-stu-id="03065-105">Your organization administrator can assign your account permissions to the shared mailbox by following the instructions in the topic [Create a shared mailbox](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox).</span></span>
   
