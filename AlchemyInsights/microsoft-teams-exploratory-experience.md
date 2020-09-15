@@ -1,27 +1,28 @@
 ---
-title: تجربة استكشافية لـ Microsoft Teams
+title: تجربه الفرق في Microsoft الاستكشافية
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001513"
 - "3572"
-ms.openlocfilehash: 65888cd3d0447b7bf9894498bc64ead443345c8e
-ms.sourcegitcommit: d3477d7e57e196aa195a6eff773f08a33cdfce27
+ms.openlocfilehash: d6d460d90253ded2d093676f351d8250861ac0b9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/12/2020
-ms.locfileid: "42612334"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47674925"
 ---
-# <a name="microsoft-teams-exploratory-experience"></a><span data-ttu-id="6985b-102">تجربة استكشافية لـ Microsoft Teams</span><span class="sxs-lookup"><span data-stu-id="6985b-102">Microsoft Teams Exploratory experience</span></span>
+# <a name="microsoft-teams-exploratory-experience"></a><span data-ttu-id="91fab-102">تجربه الفرق في Microsoft الاستكشافية</span><span class="sxs-lookup"><span data-stu-id="91fab-102">Microsoft Teams Exploratory experience</span></span>
 
-<span data-ttu-id="6985b-103">تتيح تجربة استكشاف Microsoft Teams للمستخدمين في مؤسستك الذين لديهم دليل Azure Active (AAD) وغير مرخصين للفرق بدء تجربة استكشافية للفرق.</span><span class="sxs-lookup"><span data-stu-id="6985b-103">The Microsoft Teams Exploratory experience lets users in your organization who have Azure Active Directory (AAD) and are not licensed for Teams initiate an exploratory experience of Teams.</span></span> <span data-ttu-id="6985b-104">يمكن للمسؤولين تشغيل هذه الميزة أو إيقاف تشغيلها للمستخدمين في المؤسسة الخاصة بهم.</span><span class="sxs-lookup"><span data-stu-id="6985b-104">Admins can switch this feature on or off for users in their organization.</span></span> <span data-ttu-id="6985b-105">(تسمى تجربة Microsoft Commercial Cloud التجريبية السابقة الآن تجربة استكشافية الفرق.)</span><span class="sxs-lookup"><span data-stu-id="6985b-105">(The earlier Microsoft Commercial Cloud Trial is now called The Teams Exploratory experience.)</span></span>
+<span data-ttu-id="91fab-103">تتيح التجربة الاستكشافية لفرق Microsoft للمستخدمين في مؤسستك الذين لديهم Azure Active directory (AAD) وغير مرخصين لفرق العمل لتجربه استكشافيه للفرق.</span><span class="sxs-lookup"><span data-stu-id="91fab-103">The Microsoft Teams Exploratory experience lets users in your organization who have Azure Active Directory (AAD) and are not licensed for Teams initiate an exploratory experience of Teams.</span></span> <span data-ttu-id="91fab-104">يمكن للمسؤولين تشغيل هذه الميزة أو إيقاف تشغيلها للمستخدمين في مؤسستهم.</span><span class="sxs-lookup"><span data-stu-id="91fab-104">Admins can switch this feature on or off for users in their organization.</span></span> <span data-ttu-id="91fab-105">(الإصدار التجريبي من السحابة التجاري من Microsoft السابق يسمي الآن تجربه الفرق الاستكشافية).</span><span class="sxs-lookup"><span data-stu-id="91fab-105">(The earlier Microsoft Commercial Cloud Trial is now called The Teams Exploratory experience.)</span></span>
 
-<span data-ttu-id="6985b-106">تتوفر تجربة استكشاف ية Microsoft Teams بدون أي تكلفة إضافية حتى الذكرى السنوية التالية لإتفاقية المؤسسة أو تجديدها في يناير 2021 أو بعده.</span><span class="sxs-lookup"><span data-stu-id="6985b-106">The Microsoft Teams Exploratory experience is available at no additional cost until your next enterprise agreement anniversary or renewal on or after January 2021.</span></span> <span data-ttu-id="6985b-107">في ذلك الوقت، سيحتاج المستخدمون النهائيون على ترخيص تجربة استكشافية من Microsoft إلى الانتقال إلى ترخيص مدفوع يتضمن Teams.</span><span class="sxs-lookup"><span data-stu-id="6985b-107">At that time, end users on a Microsoft Exploratory experience license will need to move to a paid license that includes Teams.</span></span>
+<span data-ttu-id="91fab-106">يتوفر التجربة الاستكشافية لفرق Microsoft بدون اي تكلفه اضافيه حتى الذكري السنوية التالية لاتفاقيه المؤسسة أو التجديد في 2021 يناير.</span><span class="sxs-lookup"><span data-stu-id="91fab-106">The Microsoft Teams Exploratory experience is available at no additional cost until your next enterprise agreement anniversary or renewal on or after January 2021.</span></span> <span data-ttu-id="91fab-107">في هذا الوقت ، سيحتاج المستخدمون في ترخيص التجربة الاستكشافية ل Microsoft إلى الانتقال إلى ترخيص مدفوع يتضمن الفرق.</span><span class="sxs-lookup"><span data-stu-id="91fab-107">At that time, end users on a Microsoft Exploratory experience license will need to move to a paid license that includes Teams.</span></span>
 
-<span data-ttu-id="6985b-108">لمزيد من المعلومات، يرجى [الاطلاع على إدارة ترخيص استكشافي لـ Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-exploratory/).</span><span class="sxs-lookup"><span data-stu-id="6985b-108">For more information, please see [Managing the Microsoft Teams Exploratory license](https://docs.microsoft.com/microsoftteams/teams-exploratory/).</span></span>
+<span data-ttu-id="91fab-108">لمزيد من المعلومات ، يرجى مراجعه [أداره ترخيص Microsoft الفرق الاستكشافي](https://docs.microsoft.com/microsoftteams/teams-exploratory/).</span><span class="sxs-lookup"><span data-stu-id="91fab-108">For more information, please see [Managing the Microsoft Teams Exploratory license](https://docs.microsoft.com/microsoftteams/teams-exploratory/).</span></span>
