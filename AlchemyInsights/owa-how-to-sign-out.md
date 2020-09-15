@@ -1,32 +1,33 @@
 ---
-title: كيفية تسجيل الخروج من Outlook على الويب
+title: كيفيه تسجيل الخروج من Outlook علي الويب
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "8000008"
 - "1993"
-ms.openlocfilehash: 9c850510881e16ceae5050bcbe06f6897b1e61dd
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 8a6d925d3df47756fcabeb90ebcac73855d675ef
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43742936"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802116"
 ---
-# <a name="how-to-sign-out-of-outlook-on-the-web"></a>كيفية تسجيل الخروج من Outlook على الويب
+# <a name="how-to-sign-out-of-outlook-on-the-web"></a>كيفيه تسجيل الخروج من Outlook علي الويب
 
-لتسجيل الخروج من Outlook على الويب، حدد اسمك أو صورتك في الزاوية اليمنى العليا وحدد **تسجيل الخروج**.
+لتسجيل الخروج من Outlook علي الويب ، حدد الاسم أو الصورة في الزاوية العلوية اليسرى وحدد **تسجيل الخروج**.
 
-لإيقاف تسجيل الدخول تلقائيًا إلى حساب العمل أو المدرسة:
+لإيقاف تسجيل الدخول تلقائيا إلى حساب العمل أو المؤسسة التعليمية:
 
 1. حدد اسمك أو صورتك وحدد **تسجيل الخروج**.
 1. انتقل إلى [Outlook.office.com](https://outlook.office.com/) وحدد **استخدام حساب آخر**.
-1. تسجيل الدخول باستخدام عنوان البريد الإلكتروني الذي تريد استخدامه.
+1. قم بتسجيل الدخول باستخدام عنوان البريد الكتروني الذي تريد استخدامه.
 
-لمعرفة المزيد، راجع [كيفية تسجيل الدخول إلى Outlook أو الخروج منه على الويب](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).
+لمعرفه المزيد ، راجع [كيفيه تسجيل الدخول إلى Outlook علي الويب أو الخروج منه](https://support.office.com/article/763fab4d-0138-4814-b450-37fc286bcb79).

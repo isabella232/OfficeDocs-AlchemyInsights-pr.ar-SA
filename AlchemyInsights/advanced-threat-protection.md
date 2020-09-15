@@ -1,32 +1,33 @@
 ---
-title: Office 365 حماية متقدمة من التهديدات
+title: حماية المخاطر المتقدمة في Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: 5fc3f30e1f08764393dcced94be541b1c6bcc84d
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c6b552a11b2eee647e2e5dc7b93523b03c0e7ea3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506581"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47696608"
 ---
-# <a name="office-365-advanced-threat-protection"></a>Office 365 حماية متقدمة من التهديدات
+# <a name="office-365-advanced-threat-protection"></a>حماية المخاطر المتقدمة في Office 365
 
-- تعد المرفقات الآمنة والروابط الآمنة ومكافحة التصيد الاحتيالي جزءًا من حماية التهديدات المتقدمة من Office 365 (ATP). المشاريع E5، التعليم A5، ومايكروسوفت 365 قسط الأعمال تشمل ATP. تتطلب جميع الخطط الأخرى اشتراكًا إضافيًا في ATP.
+- تعد المرفقات الامنه والارتباطات الامنه والحماية من التصيد الاحتيالي جزءا من الحماية المتقدمة من المخاطر في Office 365. يتضمن Enterprise E5 و التعليم A5 و Microsoft 365 Business Premium ATP. تتطلب كل الخطط الأخرى اشتراك ATP لوظيفة اضافيه.
 
-- تحتاج إلى تعيين التراخيص المناسبة لحماية المستخدمين بواسطة Office 365 ATP. راجع [هذا الموضوع](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) للحصول على إرشادات حول كيفية تطبيق التراخيص بالجملة على المستخدمين.
+- تحتاج إلى تعيين التراخيص المناسبة لحماية المستخدمين بواسطة Office 365 ATP. راجع [هذا الموضوع](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) للحصول علي إرشادات حول كيفيه تطبيق التراخيص المجمعة علي المستخدمين.
 
-- يمكن للمسؤولين العموميين أو مسؤولي الأمان الوصول إلى ميزات Office 365 ATP في مركز التوافق & الأمان في نهج **إدارة التهديدات** \> **Policy**.
+- يمكن للمسؤولين العامين أو مسؤولي الأمان الوصول إلى ميزات ATP ل Office 365 في مركز توافق & الأمان في نهج **التهديد ماناجمينت** \> **Policy**.
 
-- يمكن تحديد نطاق المرفقات الآمنة وسياسات الارتباط الآمن لك المؤسسة بأكملها أو نطاقات محددة أو مجموعات أصغر من المستخدمين.
+- يمكن ان تكون المرفقات الامنه ونهج الارتباطات الامنه خاصه بمؤسسك بالبالكامل أو مجالات معينه أو مجموعات أصغر من المستخدمين.
 
-- لا يوجد نهج ملحق آمن ATP افتراضي. تحتاج إلى [إنشاء نهج](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) وتطبيقه على المستخدمين.
+- لا يوجد نهج افتراضي للمرفقات الامنه في ATP. تحتاج إلى [إنشاء نهج](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) وتطبيقه علي المستخدمين.
 
-- يوجد نهج ارتباطات آمنة ATP افتراضي ينطبق على كل شخص في مؤسستك. للتحرير هذا النهج أو لإنشاء نُهج مخصصة، راجع [هذا الموضوع](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).
+- يوجد نهج افتراضي للارتباطات الامنه في ATP ينطبق علي كل شخص في مؤسستك. لتحرير هذا النهج أو لإنشاء نهج مخصصه ، راجع [هذا الموضوع](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).
