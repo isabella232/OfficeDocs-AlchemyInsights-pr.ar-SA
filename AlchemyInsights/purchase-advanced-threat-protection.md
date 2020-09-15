@@ -1,32 +1,33 @@
 ---
-title: شراء Office 365 الحماية من التهديدات المتقدمة
+title: شراء الحماية المتقدمة من المخاطر في Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-ms.openlocfilehash: 80f3ea749813d6038f9234229f445d6cd43d3637
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
+ms.openlocfilehash: e30cba67127ec47cf39a53cd0fe9b7369243ef16
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44707605"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47693542"
 ---
-# <a name="purchase-office-365-advanced-threat-protection"></a>شراء Office 365 الحماية من التهديدات المتقدمة
+# <a name="purchase-office-365-advanced-threat-protection"></a>شراء الحماية المتقدمة من المخاطر في Office 365
 
-تم تضمين Office 365 متقدمة الحماية من التهديدات (ATP) في بعض الاشتراكات، مثل Microsoft 365 E5، Office 365 E5، Office 365 A5، و Microsoft 365 الأعمال المميزة. إذا كان اشتراكك لا يتضمن 365 ATP Office، يمكنك شراء [ATP خطة 1 أو ATP الخطة 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) كإضافة إلى اشتراك معين. للشراء في مركز إدارة Microsoft 365:
+يتم تضمين الحماية المتقدمة من المخاطر في Office 365 (ATP) في بعض الاشتراكات ، مثل Microsoft 365 E5 و Office 365 E5 و Office 365 A5 و Microsoft 365 Business Premium. إذا لم يتضمن اشتراكك الذي يعمل بنظام التشغيل Microsoft 365 ATP ، فيمكنك شراء خطه [atp 1 أو atp 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) كوظيفة اضافيه لاشتراك معين. للشراء في مركز أداره Microsoft 365:
 
-1. انتقل إلى خدمات شراء **الفواتير**   >   [Purchase services](https://go.microsoft.com/fwlink/p/?linkid=868433).
-2. حدد صفحة **الوظائف الإضافية** من **الفئات الأخرى التي قد تهمك.**
-3. حدد خطة الحماية من التهديدات المتقدمة التي تريد شراؤها. يمكنك تحديد خطة تجريبية هناك أيضًا.
-4. حدد عدد المستخدمين الذين سيستخدمون الحماية من التهديدات المتقدمة.
+1. انتقل إلى **Billing**   >   [خدمات شراء](https://go.microsoft.com/fwlink/p/?linkid=868433)الفوترة.
+2. حدد صفحه **الوظائف الاضافيه**  من **الفئات الأخرى التي قد تثير اهتمامك.**
+3. حدد خطه الحماية المتقدمة للتهديدات التي تريد شرائها. يمكنك تحديد خطه تجريبية أيضا.
+4. حدد عدد المستخدمين الذين سيستخدمون الحماية من المخاطر المتقدمة.
 
-لتعيين التراخيص للمستخدمين، راجع [تعيين التراخيص للمستخدمين](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
+لتعيين التراخيص للمستخدمين ، راجع [تعيين تراخيص للمستخدمين](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
 
 لشراء المزيد من التراخيص أو إزالتها، راجع [إضافة/إٍزالة التراخيص للاشتراك](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).

@@ -1,25 +1,26 @@
 ---
-title: استكشاف أخطاء سيناريوهات التحديث وإصلاحها - أخطاء التجانب
+title: استكشاف أخطاء تحديث السيناريوهات وإصلاحها
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1331"
 - "2500002"
-ms.openlocfilehash: 48004ce28d94eccfffae9dc6f5fdc21100fdd455
-ms.sourcegitcommit: a65d196d00adb70045af5caca9828fe44b951f61
+ms.openlocfilehash: b7e0516dc48709e033efbbc57c198f98bdce7c99
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/04/2019
-ms.locfileid: "36748815"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47690662"
 ---
-# <a name="troubleshooting-refresh-scenarios---tile-errors"></a>استكشاف أخطاء سيناريوهات التحديث وإصلاحها - أخطاء التجانب
+# <a name="troubleshooting-refresh-scenarios---tile-errors"></a>استكشاف أخطاء تحديث السيناريوهات وإصلاحها
 
-إذا واجهت أخطاء تحديث تجانب داخل خدمة Power BI، يرجى الانتظار حوالي 10-15 دقيقة حتى ينعكس التحديث في تجانبات لوحة المعلومات. إذا كان لا يزال لا يظهر، قم بإعادة تثبيت المرئيات بلوحة المعلومات.
+إذا واجهتك أخطاء في تحديث اللوحات ضمن خدمه Power BI ، يرجى الانتظار لمده 10-15 دقيقه لإظهار التحديث في لوحات المعلومات المتجانبه. إذا لم يظهر ، فيمكنك أعاده تثبيت المرئيات إلى لوحه المعلومات.
 
-لمزيد من المعلومات:[https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)
+لمزيد من المعلومات: [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)

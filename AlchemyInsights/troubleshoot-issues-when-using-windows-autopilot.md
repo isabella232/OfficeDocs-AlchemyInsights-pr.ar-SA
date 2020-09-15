@@ -1,26 +1,27 @@
 ---
-title: استكشاف المشكلات وإصلاحها عند استخدام الطيار الألى Windows
+title: استكشاف الأخطاء وإصلاحها عند استخدام Windows AutoPilot
 ms.author: erikje
 author: erikje
 manager: dougeby
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000221"
 - "2490"
-ms.openlocfilehash: 3ae85d61e85bd5ebe39241c8906692f82976b81c
-ms.sourcegitcommit: ee719f011f766fc20d23e935e98d7e33c326183b
+ms.openlocfilehash: 2e5128c19427928eee773a92a57dc71ee756aab1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/24/2019
-ms.locfileid: "37654282"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47690085"
 ---
-# <a name="troubleshoot-issues-when-using-windows-autopilot"></a>استكشاف المشكلات وإصلاحها عند استخدام الطيار الألى Windows
+# <a name="troubleshoot-issues-when-using-windows-autopilot"></a>استكشاف الأخطاء وإصلاحها عند استخدام Windows AutoPilot
 
-إذا كنت تواجه مشكله مع الطيار الألى ، انظر [الطيار الألى استكشاف الأخطاء وإصلاحها](https://docs.microsoft.com/windows/deployment/windows-autopilot/troubleshooting) [والمشاكل المعروفة](https://docs.microsoft.com/windows/deployment/windows-autopilot/known-issues) الصفحات.
+إذا كنت تواجه مشكله في AutoPilot ، فراجع صفحات [استكشاف الأخطاء وإصلاحها في AutoPilot](https://docs.microsoft.com/windows/deployment/windows-autopilot/troubleshooting) [والمشاكل المعروفة](https://docs.microsoft.com/windows/deployment/windows-autopilot/known-issues) .
 
-لمزيد من المعلومات حول اعداد Windows الطيار الألى ، راجع [تسجيل أجهزه windows في اينتوني باستخدام windows الطيار الألى](https://docs.microsoft.com/intune/enrollment/enrollment-autopilot).
+للحصول علي مزيد من المعلومات حول اعداد Windows Autopilot ، راجع [تسجيل أجهزه windows في Intune باستخدام Windows Autopilot](https://docs.microsoft.com/intune/enrollment/enrollment-autopilot).
 
