@@ -1,55 +1,56 @@
 ---
-title: قاعدة DLP لـ SSN لا تعمل
+title: قاعده DLP لعدم العمل
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1242"
 - "3200001"
 ms.assetid: ac265ee6-c946-476e-9bf0-0ea0e8adc98a
-ms.openlocfilehash: 35859bce89ef1ae9b6a9e706fc316b0ee6cd27d1
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: b221e66862ca01074f380fbb8433f8f9cac044cb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507357"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47679356"
 ---
-# <a name="dlp-issues-with-social-security-numbers"></a>DLP القضايا مع أرقام الضمان الاجتماعي
+# <a name="dlp-issues-with-social-security-numbers"></a>مشاكل DLP مع أرقام الأمان الاجتماعي
 
 **هام**: خلال هذه الأوقات غير المسبوقة، نقوم باتخاذ الخطوات اللازمة لضمان توفر خدمات SharePoint Online و OneDrive بشكل كبير – الرجاء زيارة [تعديلات الميزات المؤقتة لـ SharePoint Online](https://aka.ms/ODSPAdjustments) للحصول على مزيد من المعلومات.
 
-**مشكلات DLP مع SSNs**
+**مشاكل DLP مع سنس**
 
-هل تواجه مشاكل مع **منع فقدان البيانات (DLP)** لا تعمل للمحتوى الذي يحتوي على **رقم الضمان الاجتماعي (SSN)** عند استخدام نوع معلومات حساسة في Microsoft 365؟ إذا كان الأمر كذلك، تأكد من أن المحتوى الخاص بك يحتوي على المعلومات المطلوبة لما تبحث عنه سياسة DLP. 
+هل تواجه مشاكل متعلقة **بمنع فقدان البيانات (DLP)** لا تعمل علي المحتوي الذي يحتوي علي **رقم الأمان الاجتماعي (SSN)** عند استخدام نوع معلومات حساس في Microsoft 365 ؟ إذا كان الأمر كذلك ، فتاكد من ان المحتوي يحتوي علي المعلومات المطلوبة لما تبحث عنه نهج DLP. 
   
-على سبيل المثال، بالنسبة لسياسة SSN التي تم تكوينها بمستوى ثقة 85%، يتم تقييم ما يلي ويجب الكشف عنها حتى تقوم القاعدة بتشغيلها:
+علي سبيل المثال ، بالنسبة إلى نهج SSN تم تكوينه باستخدام مستوي الثقة في 85% ، يتم تقييم التالي ويجب الكشف عنه لكي يتم تشغيل القاعدة:
   
-- **[التنسيق:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-80)** 9 أرقام، والتي قد تكون في نمط منسق أو غير منسق
+- **[تنسيق:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-80)** 9 أرقام ، والتي قد تكون بنمط منسق أو غير منسق
 
-- **[نمط:](https://msconnect.microsoft.com/https:/docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80)** أربع وظائف تبحث عن SSNs في أربعة أنماط مختلفة:
+- **[النمط:](https://msconnect.microsoft.com/https:/docs.microsoft.com/office365/securitycompliance/what-the-sensitive-information-types-look-for#pattern-80)** تظهر أربعه دالات لسنس في أربعه نقوش مختلفه:
 
-  - Func_ssn يجد SSNs مع التنسيق القوي قبل عام 2011 التي يتم تنسيقها مع شرطات أو مسافات (ddd-ddddd or ddd ddddddddddddddddddddddddddddddddddddddddd
+  - Func_ssn 2011 البحث عن السنس التي تم تنسيقها باستخدام الشرط أو المسافات (ddd-dd أو ddd إلى dddd)
 
-  - Func_unformatted_ssn يجد SSNs مع التنسيق قوية قبل 2011 التي لم يتم تنسيقها كتسعة أرقام متتالية (ddddddddd)
+  - Func_unformatted_ssn البحث عن السنس مع تنسيق 2011 القوي الذي تمت تهيئته علي انه تسعه أرقام متتالية (دددددددد)
 
-  - Func_randomized_formatted_ssn يجد SSNs ما بعد 2011 التي تم تنسيقها مع شرطات أو مسافات (ddd-ddddd or ddd dddddddddddd)
+  - تعثر الFunc_randomized_formatted_ssn علي 2011 سنس التي تم تنسيقها باستخدام الشرطات أو المسافات (ddd-dd أو ddd dd dddd)
 
-  - Func_randomized_unformatted_ssn يجد SSNs ما بعد 2011 التي لم يتم تنسيقها كتسعة أرقام متتالية (ddddddddd)
+  - تعثر الFunc_randomized_unformatted_ssn علي 2011 سنس التي تم تنسيقها علي انها تسعه أرقام متتالية (دددددددد)
 
-- **[المجموع الاختياري:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-79)** لا، لا يوجد المجموع الاختياري
+- **[المجموع الاختباري:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-79)** لا ، لا توجد مجموعات اختباريه
 
-- **[التعريف:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-80)** سياسة DLP واثقة بنسبة 85٪ من أنها اكتشفت هذا النوع من المعلومات الحساسة إذا، على مقربة من 300 حرف:
+- **[تعريف:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-80)** نهج DLP هو 85% تثق بأنه قد تم اكتشاف هذا النوع من المعلومات الهامه في حال وجوده في غضون أكثر من 300 حرفا:
 
-  - Func_ssn [الدالة](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-80) العثور على المحتوى الذي يطابق النمط.
+  - تعثر [الدالة Func_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-80) علي المحتوي الذي يتطابق مع النمط.
 
-  - تم العثور على كلمة رئيسية من [Keyword_ssn.](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#keyword_ssn) ومن أمثلة الكلمات الرئيسية: *الضمان الاجتماعي، الضمان الاجتماعي#، Soc Sec، SSN* . على سبيل المثال، سيتم تشغيل العينة التالية لسياسة DLP SSN: **SSN: 489-36-8350**
+  - تم العثور علي كلمه أساسيه من [Keyword_ssn](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#keyword_ssn) . تتضمن أمثله الكلمات  *الاساسيه: الأمان الاجتماعي ، الأمان الاجتماعي # ، Soc Sec ، SSN*  . علي سبيل المثال ، سيتم تشغيل النموذج التالي لنهج الاعداد الخاص ب DLP: **SSN: 489-36-8350**
   
-لمزيد من المعلومات حول ما هو مطلوب لSSNs ليتم الكشف عن المحتوى الخاص بك، راجع المقطع التالي في هذه المقالة: [ما أنواع المعلومات الحساسة البحث عن SSNs](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-social-security-number-ssn)
+للحصول علي مزيد من المعلومات حول العناصر المطلوبة لسنس التي سيتم الكشف عنها لمحتويك ، راجع القسم التالي في هذه المقالة: [ما الذي تبحث عنه أنواع المعلومات الهامه لسنس](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-social-security-number-ssn)
   
-باستخدام نوع معلومات حساسة مضمن ة مختلفة، راجع المقالة التالية للحصول على معلومات حول ما هو مطلوب للأنواع الأخرى: [ما تبحث عنه أنواع المعلومات الحساسة](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+باستخدام نوع آخر من المعلومات الحساسة المضمنة ، راجع المقالة التالية للحصول علي معلومات حول ما هو مطلوب للأنواع الأخرى: [ما الذي تبحث عنه أنواع المعلومات الهامه](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   

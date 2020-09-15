@@ -1,10 +1,11 @@
 ---
-title: 1800005 إصلاح مشكلات البحث عن طريق إعادة إنشاء كتالوج البحث الفوري
+title: 1800005 إصلاح مشاكل البحث من خلال أعاده إنشاء كتالوج البحث السريع
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,26 +13,26 @@ ms.custom:
 - "644"
 - "1800005"
 ms.assetid: 812a5c80-db64-43de-a892-f539c5f87174
-ms.openlocfilehash: cf167548c81b11e16aa98cd9a83b619a8087dcb0
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: d9f0048b9c79345714f8e9ab3d5a593ea13771de
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "36664883"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47677590"
 ---
-# <a name="troubleshoot-search-issues"></a>استكشاف مشكلات البحث وإصلاحها
+# <a name="troubleshoot-search-issues"></a>استكشاف مشاكل البحث وإصلاحها
 
-إذا كنت تواجه مشاكل في البحث في Outlook، يرجى الاطلاع على الروابط أدناه للحصول على المساعدة واستكشاف الأخطاء وإصلاحها.
+إذا كنت تواجه مشاكل في البحث في Outlook ، فيرجى مراجعه الارتباطات أدناه للحصول علي التعليمات واستكشاف الأخطاء وإصلاحها.
 
-هذه هي القضايا الأكثر شيوعا، وهي مكان جيد للبدء:
+هذه هي المشاكل الشائعة ، وهي مكان جيد للبدء:
 
-- [بحث Outlook لا يؤدي إلى نتائج](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
-- [بحث Outlook يعيد نتائج غير مكتملة](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
-- [لا يمكن البحث في Outlook العثور على رسائل البريد الإلكتروني القديمة](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
+- [لا يرجع البحث في Outlook اي نتائج](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_noresults)
+- [يقوم بحث Outlook بإرجاع نتائج غير كامله](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_incompleteresults)
+- [يتعذر علي بحث Outlook العثور علي رسائل البريد الكتروني القديمة](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_olderemails)
 
-يمكن العثور على الحلول الممكنة للمشاكل الأقل شيوعًا هنا:
+يمكن العثور علي حلول محتمله للمشاكل الأقل شيوعا:
 
-- [Outlook 2016 فقط: علامة تبويب البحث رمادية](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
-- [علبة البريد المشتركة: مشاكل في نتائج البحث](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
-- [خطأ: سيتم التأثير على أداء البحث بسبب وجود مشكلة في كيفية تكوين Outlook](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
-- [تعرض مجلدات البحث عناصر بيانات شخصية غير متوقعة بدون موضوع](https://support.microsoft.com/help/4035436/outlook-search-folders-show-items-with-blank-subject)
+- [Outlook 2016 فقط: علامة التبويب "بحث" باللون الرمادي](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_greytab)
+- [علبه البريد المشتركة: مشاكل تتعلق بنتائج البحث](https://support.office.com/article/2556b11f-f4d8-46be-b0a7-de33a3f4f066#bkmk_sharedmailbox)
+- [خطا: سيتاثر أداء البحث بسبب مشكله في كيفيه تكوين Outlook](https://support.office.com/article/51c9d2c7-a3db-4358-afdf-50d3a9e57039)
+- [تظهر "مجلدات البحث" عناصر بيرسونميتاداتا غير متوقعه بدون اي موضوع](https://support.microsoft.com/help/4035436/outlook-search-folders-show-items-with-blank-subject)

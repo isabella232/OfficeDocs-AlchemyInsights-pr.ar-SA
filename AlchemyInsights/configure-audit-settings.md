@@ -6,28 +6,29 @@ manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 98b3d4fa-9210-43e8-9faf-7af3dd9d8557
-ms.openlocfilehash: e4718ffb672b9c0e5b78c52b2fcd3e15ae58f7dd
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 03889c763a8ae9a49c83ef4532bbe788d011d293
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705972"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47680958"
 ---
-# <a name="configure-sharepoint-audit-settings"></a>تكوين إعدادات تدقيق SharePoint
+# <a name="configure-sharepoint-audit-settings"></a>تكوين إعدادات التدقيق في SharePoint
 
-يمكن لمسؤولي مجموعة مواقع SharePoint تتبع إجراءات المستخدم على المحتوى عن طريق تكوين إعدادات التدقيق.
+يمكن لمسؤولي مجموعه المواقع المشتركة في SharePoint تعقب إجراءات المستخدمين علي المحتوي بواسطة تكوين إعدادات التدقيق.
   
 1. افتح موقع SharePoint.
     
-2. انقر فوق رمز الإعدادات، ثم انقر فوق **إعدادات الموقع**. إذا كنت لا ترى "إعدادات الموقع"، فانقر فوق **معلومات الموقع،** ثم انقر فوق **عرض كافة إعدادات الموقع**.
+2. انقر فوق الايقونه إعدادات ، ثم انقر فوق **إعدادات الموقع**. إذا لم تتمكن من رؤية "إعدادات الموقع" ، فانقر فوق **معلومات الموقع**، ثم انقر فوق **عرض كافة إعدادات الموقع**.
     
-3. ضمن **إدارة مجموعة الموقع،** حدد **إعدادات تدقيق مجموعة الموقع**. (إذا كنت لا ترى ذلك، انقر فوق **الانتقال إلى إعدادات الموقع المستوى الأعلى** أولاً.) 
+3. ضمن **أداره مجموعه المواقع المشتركة**، حدد **إعدادات تدقيق مجموعه المواقع المشتركة**. (إذا لم تتمكن من رؤيته ، فانقر فوق **الانتقال إلى إعدادات موقع المستوي الأعلى** أولا.) 
     
-للحصول على معلومات حول ما تم تضمينه في تقارير سجل مراجعة SharePoint وكيفية عرضها، راجع [تكوين إعدادات التدقيق لمجموعة موقع](https://go.microsoft.com/fwlink/?linkid=404050).
+للحصول علي معلومات حول الميزات المضمنة في تقارير سجل التدقيق في SharePoint وكيفيه عرضها ، راجع [تكوين إعدادات التدقيق لمجموعه مواقع مشتركه](https://go.microsoft.com/fwlink/?linkid=404050).
   
 
