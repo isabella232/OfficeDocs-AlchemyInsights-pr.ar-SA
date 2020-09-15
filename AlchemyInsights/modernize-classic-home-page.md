@@ -1,33 +1,34 @@
 ---
-title: تحديث الصفحة الرئيسية الكلاسيكية
+title: تحديث مؤثرات الصفحة الرئيسية الكلاسيكية
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: ''
 ms.custom:
 - "3549"
 - "9001496"
-ms.openlocfilehash: e727f40b725cefa8a09c15fe2d65ab3307d4e3e1
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 16da500b8b7e97b9085c8e954fbf75d8c1b90c8a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42600551"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47666713"
 ---
-# <a name="modernize-the-classic-home-page"></a>تحديث الصفحة الرئيسية الكلاسيكية
+# <a name="modernize-the-classic-home-page"></a>تحديث مؤثرات الصفحة الرئيسية الكلاسيكية
 
-يؤثر تحديث حديث على الصفحات الرئيسية لموقع فريق SharePoint الكلاسيكي على الصفحة الرئيسية لمواقع الفريق الكلاسيكية (STS#0) عندما تحتوي الصفحة الرئيسية *على أجزاء ويب افتراضية خارج الصندوق فقط* مثل البدء ومكتبة المستندات وملف الأخبار.
+يؤثر التحديث الأخير علي الصفحات الرئيسية لموقع فريق SharePoint الكلاسيكي علي الصفحة الرئيسية لمواقع الفرق الكلاسيكية (STS # 0) عندما تحتوي الصفحة الرئيسية علي *أجزاء ويب الافتراضية الخاصة بالمربع* مثل بدء الاستخدام ومكتبه المستندات وملف الاخبار.
 
-عرض المشي من خلال التغيير [هنا](https://docs.microsoft.com/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif). 
+يمكنك عرض التغييرات التي يتم تنفيذها [هنا](https://docs.microsoft.com/sharepoint/sharepointonline/media/homepage-upgrade-gif.gif). 
 
-**ملاحظة: لن يتم تحديث مواقع الفريق الكلاسيكية التي تحتوي على محتوى مخصص تلقائيًا.**
+**ملاحظه: لن يتم تلقائيا تحديث مواقع الفريق التقليدية التي تحتوي علي محتوي مخصص.**
 
-* تعرف على المزيد حول معايير التحديث في [تحديث الصفحة الرئيسية الكلاسيكية.](https://docs.microsoft.com/sharepoint/disable-auto-modernization-classic-home-pages#why-update-classic-team-site-home-pages-to-modern)
+* تعرف علي المزيد حول معايير التحديث في [الصفحة الرئيسية الكلاسيكية موديرنيزيشن](https://docs.microsoft.com/sharepoint/disable-auto-modernization-classic-home-pages#why-update-classic-team-site-home-pages-to-modern).
 
-* [ترقية الصفحات الرئيسية الأخرى التي لم تكن جزءًا من التحديث التلقائي.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages)
+* [ترقيه الصفحات الرئيسية الأخرى التي لم تكن جزءا من الموديرنيزيشن التلقائية](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages).
 
-* تعطيل هذه الترقية على مواقع معينة باستخدام [أنماط وممارسات SharePoint (PnP) PowerShell cmdlet](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets).
+* تعطيل هذه الترقية علي مواقع معينه باستخدام [نماذج وممارسات SharePoint (PnP) PowerShell cmdlet](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets).

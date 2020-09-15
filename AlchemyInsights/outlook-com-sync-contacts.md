@@ -1,26 +1,27 @@
 ---
-title: مزامنة جهات الاتصال في Outlook.com
+title: مزامنة جات الاتصال في Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "2404"
 - "8000048"
 - "9000554"
-ms.openlocfilehash: 9c8c5d5fd6c3504dac244d2ed6ed7ac444a10d2a
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 411ed1facbcc60b74340ac06d49bd401a9885add
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43722255"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47666317"
 ---
-# <a name="sync-contacts"></a>مزامنة جهات الاتصال
+# <a name="sync-contacts"></a>مزامنة جات الاتصال
 
-يعمل Outlook على مزامنة جهات الاتصال التي تقوم بإنشائها في [الأشخاص](https://outlook.live.com/people/) عبر الأجهزة والتطبيقات الأخرى، مثل Outlook for Android و Outlook لنظام التشغيل iOS. تعرّف على كيفية [إنشاء جهات اتصال](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01).
+يقوم Outlook بمزامنة جات الاتصال التي تقوم بإنشاءها في [الأشخاص](https://outlook.live.com/people/) عبر الاجهزه والتطبيقات الأخرى ، مثل Outlook for Android و Outlook for iOS. تعرف علي كيفيه [إنشاء جات اتصال](https://support.office.com/article/5b909158-036e-4820-92f7-2a27f57b9f01).
 
-لا تتم مزامنة جهات الاتصال المستوردة (على سبيل المثال، جهات الاتصال من حساب بريد إلكتروني آخر قمت بتوصيله بحساب Outlook.com). تعرّف على كيفية [استيراد جهات الاتصال](https://support.office.com/article/285a3b55-8d93-4ac8-93df-43fffd13b2f1).
+جات الاتصال المستوردة (علي سبيل المثال ، جات الاتصال من حساب بريد الكتروني آخر قمت بتوصيله بحساب Outlook.com الخاص بك) لا تتم مزامنتها. تعرف علي كيفيه [استيراد جات الاتصال](https://support.office.com/article/285a3b55-8d93-4ac8-93df-43fffd13b2f1).
