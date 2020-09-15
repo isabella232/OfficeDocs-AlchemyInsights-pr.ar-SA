@@ -1,24 +1,25 @@
 ---
-title: 8000036 تغيير ملف التعريف الموافقة المسبقة عن علم / الاسم في Outlook.com
+title: 8000036 تغيير صوره/اسم ملف التعريف في Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000036
-ms.openlocfilehash: d3e2f8c326bcac939ad7f6eadb8e3d5060620054
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: bf719490da8142ae193af2825ddb8cf6ad24ac16
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43719363"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47662672"
 ---
-# <a name="change-my-profile-picture-or-name-in-outlookcom"></a><span data-ttu-id="67244-102">تغيير صورة الملف الشخصي أو اسمي في Outlook.com</span><span class="sxs-lookup"><span data-stu-id="67244-102">Change my profile picture or name in Outlook.com</span></span>
+# <a name="change-my-profile-picture-or-name-in-outlookcom"></a><span data-ttu-id="05be7-102">تغيير صوره ملف التعريف أو اسمه في Outlook.com</span><span class="sxs-lookup"><span data-stu-id="05be7-102">Change my profile picture or name in Outlook.com</span></span>
 
-1. <span data-ttu-id="67244-103">انتقل إلى [معلومات حساب Microsoft .](https://go.microsoft.com/fwlink/p/?linkid=860841)</span><span class="sxs-lookup"><span data-stu-id="67244-103">Go to [Your Microsoft account info](https://go.microsoft.com/fwlink/p/?linkid=860841).</span></span>
-1. <span data-ttu-id="67244-104">حدد **تحرير الاسم** أو تغيير **الصورة**.</span><span class="sxs-lookup"><span data-stu-id="67244-104">Select **Edit name** or **Change picture**.</span></span>
+1. <span data-ttu-id="05be7-103">انتقل إلى [معلومات حسابك في Microsoft](https://go.microsoft.com/fwlink/p/?linkid=860841).</span><span class="sxs-lookup"><span data-stu-id="05be7-103">Go to [Your Microsoft account info](https://go.microsoft.com/fwlink/p/?linkid=860841).</span></span>
+1. <span data-ttu-id="05be7-104">حدد **تحرير الاسم** أو **تغيير الصورة**.</span><span class="sxs-lookup"><span data-stu-id="05be7-104">Select **Edit name** or **Change picture**.</span></span>
 
-<span data-ttu-id="67244-105">يُرجى السماح بدخول التغييرات على صورة ملفك الشخصي أو اسمك حيز التنفيذ لمدة تصل إلى 24 ساعة.</span><span class="sxs-lookup"><span data-stu-id="67244-105">Please allow up to 24 hours for changes to your profile photo or name to go into effect.</span></span>
+<span data-ttu-id="05be7-105">يرجى السماح لمده تصل إلى 24 ساعة لاجراء تغييرات علي صوره ملف التعريف أو الاسم التابع لها.</span><span class="sxs-lookup"><span data-stu-id="05be7-105">Please allow up to 24 hours for changes to your profile photo or name to go into effect.</span></span>

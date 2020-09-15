@@ -1,9 +1,10 @@
 ---
-title: حلول Dynamics 365 Portals الموصى بها
+title: الحلول الموصي بها لمداخل Dynamics 365
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -11,27 +12,27 @@ ms.custom:
 - "1454"
 - "1456"
 - "6200009"
-ms.openlocfilehash: afd36494282e3974a903b7f9e4d34521d8e0faf4
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 2c9a60453431bb965fda0c6ac1191f1c24420d3b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "36745492"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47693038"
 ---
-# <a name="dynamics-365-portals-recommended-solutions"></a><span data-ttu-id="56905-102">حلول ديناميات 365 الموصى بها</span><span class="sxs-lookup"><span data-stu-id="56905-102">Dynamics 365 portals recommended solutions</span></span>
+# <a name="dynamics-365-portals-recommended-solutions"></a><span data-ttu-id="07fdc-102">الحلول الموصي بها لمداخل Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="07fdc-102">Dynamics 365 portals recommended solutions</span></span>
 
-* [<span data-ttu-id="56905-103">كيفية عرض خطأ الخادم التفصيلي المعروض على بوابتي</span><span class="sxs-lookup"><span data-stu-id="56905-103">How to view detailed Server Error shown on my portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
+* [<span data-ttu-id="07fdc-103">كيفيه عرض خطا مفصله عن الخادم المبين علي مدخلي</span><span class="sxs-lookup"><span data-stu-id="07fdc-103">How to view detailed Server Error shown on my portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/view-portal-error-log)
 
-* [<span data-ttu-id="56905-104">كيفية إعادة تعيين بوابة</span><span class="sxs-lookup"><span data-stu-id="56905-104">How to reset a portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
+* [<span data-ttu-id="07fdc-104">كيفيه أعاده تعيين مدخل</span><span class="sxs-lookup"><span data-stu-id="07fdc-104">How to reset a portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/reset-portal)
 
-* [<span data-ttu-id="56905-105">كيفية مسح ذاكرة التخزين المؤقت من جانب الخادم لبوابة</span><span class="sxs-lookup"><span data-stu-id="56905-105">How to clear the server-side cache for a portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
+* [<span data-ttu-id="07fdc-105">كيفيه مسح ذاكره التخزين المؤقت من جانب الخادم لمدخل</span><span class="sxs-lookup"><span data-stu-id="07fdc-105">How to clear the server-side cache for a portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/clear-server-side-cache)
 
-* [<span data-ttu-id="56905-106">كيفية تغيير الجمهور ونوع بوابة Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="56905-106">How to change the audience and type of a Dynamics 365 Portal</span></span>](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
+* [<span data-ttu-id="07fdc-106">كيفيه تغيير الجمهور ونوع مدخل Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="07fdc-106">How to change the audience and type of a Dynamics 365 Portal</span></span>](https://support.microsoft.com//help/4091253/how-to-change-the-audience-and-type-of-a-dynamics-365-portal)
 
-* [<span data-ttu-id="56905-107">كيفية تغيير عنوان URL الأساسي للبوابة</span><span class="sxs-lookup"><span data-stu-id="56905-107">How to change the base URL of a portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
+* [<span data-ttu-id="07fdc-107">كيفيه تغيير URL الأساسي لمدخل</span><span class="sxs-lookup"><span data-stu-id="07fdc-107">How to change the base URL of a portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/change-base-url)
 
-* [<span data-ttu-id="56905-108">كيفية تكوين موفر الهوية الخارجي مع المدخل</span><span class="sxs-lookup"><span data-stu-id="56905-108">How to configure external Identity Provider with portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
+* [<span data-ttu-id="07fdc-108">كيفيه تكوين موفر الهوية الخارجية باستخدام المدخل</span><span class="sxs-lookup"><span data-stu-id="07fdc-108">How to configure external Identity Provider with portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/configure-portal-authentication)
 
-* [<span data-ttu-id="56905-109">الأسئلة المتداولة</span><span class="sxs-lookup"><span data-stu-id="56905-109">Frequently Asked Questions</span></span>](https://support.microsoft.com/help/4456128/portal-capabilities-for-dynamics-365-faq)
+* [<span data-ttu-id="07fdc-109">الأسئلة المتداولة</span><span class="sxs-lookup"><span data-stu-id="07fdc-109">Frequently Asked Questions</span></span>](https://support.microsoft.com/help/4456128/portal-capabilities-for-dynamics-365-faq)
 
-* [<span data-ttu-id="56905-110">البدء باستخدام بوابة My Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="56905-110">Getting started with My Dynamics 365 Portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)
+* [<span data-ttu-id="07fdc-110">بدء استخدام مدخل Dynamics 365 الخاص بي</span><span class="sxs-lookup"><span data-stu-id="07fdc-110">Getting started with My Dynamics 365 Portal</span></span>](https://docs.microsoft.com/dynamics365/customer-engagement/portals/manage-sharepoint-documents#step-2-set-up-sharepoint-integration-from-portal-admin-center)
