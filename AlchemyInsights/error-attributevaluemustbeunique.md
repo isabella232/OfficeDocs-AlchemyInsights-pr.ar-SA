@@ -1,33 +1,34 @@
 ---
-title: خطأ AttributeValueMustBeUnique
+title: أتريبوتيفالويموستبيونيك الخطا
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: bf8ac830-6f0c-4616-827d-987616700e59
-ms.openlocfilehash: fa1fdb35f1af250bc98aa61c0e5111f1f1b8aac4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 4627a7ae34b0dd9f16538ef75ac8792672dcc056
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43703161"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47709138"
 ---
-# <a name="error-attributevaluemustbeunique"></a>خطأ: AttributeValueMustBeUnique
+# <a name="error-attributevaluemustbeunique"></a>الخطا: أتريبوتيفالويموستبيونيك
 
-السبب الأكثر شيوعاً للخطأ AttributeValueMustBeUnique هو كائنين مع SourceAnchor مختلفة (immutableId) لها نفس القيمة لخصائص ProxyAddresses و /أو UserPrincipalName. لإصلاح خطأ AttributeValueMustBeUnique:
+السبب الأكثر شيوعا للخطا أتريبوتيفالويموستبيونيك هو كائنين بسورسيانتشور مختلفتين (إيموتابليد) لديهما نفس القيمة للسمات ProxyAddresses و/أو القيم الاساسيه. لإصلاح الخطا أتريبوتيفالويموستبيونيك:
   
-1. تحديد عنوان الوكيل المكرر أو userPrincipalName أو قيمة السمة الأخرى التي تسبب الخطأ. حدد أيضًا أي كائنين (أو أكثر) متورطين في التعارض. يمكن أن يساعدك التقرير الذي تم إنشاؤه بواسطة Azure AD Connect Health للمزامنة في التعرف على الكائنين.
+1. تعرف علي الproxyAddresses المكررة أو قيمه السمة الأخرى التي تتسبب في حدوث الخطا. يمكنك أيضا تحديد الكائنين (أو أكثر) المضمنين في التعارض. يمكن للتقرير الذي تم إنشاؤه بواسطة الحماية في Azure AD Connect للمزامنة مساعدتك في تحديد الكائنين.
     
-2. تحديد الكائن الذي يجب أن يستمر في الحصول على القيمة المكررة والكائن الذي لا يجب.
+2. تحديد العنصر الذي يجب ان يستمر في الحصول علي القيمة المكررة والعنصر الذي لا يجب ان يكون كذلك.
     
-3. إزالة القيمة المكررة من الكائن الذي يجب أن لا يكون هذه القيمة. لاحظ أنه يجب إجراء التغيير في الدليل حيث يتم الحصول على الكائن من. في بعض الحالات، قد تحتاج إلى حذف أحد الكائنات في تعارض.
+3. قم بازاله القيمة المكررة من العنصر الذي لا يجب ان تحتوي علي هذه القيمة. لاحظ انه يجب القيام بالتغيير في الدليل الذي تم فيه المصدر من قبل الكائن. في بعض الحالات ، قد تحتاج إلى حذف أحد العناصر المتعارضة.
     
-4. إذا قمت بالتغيير في الإعلان في أماكن العمل، فدع Azure AD Connect يقوم بمزامنة التغيير حتى يتم إصلاح الخطأ.
+4. إذا قمت بالتغيير في الإعلانات المحلية ، فيمكنك السماح ل Azure AD Connect بمزامنة التغيير الذي حدث فيه الخطا لكي يتم إصلاحه.
     
 
