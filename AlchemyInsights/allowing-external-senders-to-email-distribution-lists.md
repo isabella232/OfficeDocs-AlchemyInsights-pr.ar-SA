@@ -1,10 +1,11 @@
 ---
-title: 714 السماح للمرسلين الخارجيين بقوائم توزيع البريد الإلكتروني
+title: 714 السماح للمرسلين الخارجيين بقوائم توزيع البريد الكتروني
 ms.author: chrisda
 author: chrisda
 manager: dansimp
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,19 +13,19 @@ ms.custom:
 - "714"
 - "3"
 ms.assetid: 9efde695-25b4-4023-bbba-bb2fc5c95b83
-ms.openlocfilehash: 165c84715d38f46f076941ec9eb4a4624ffcd5a6
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 8f3511f0dc8c7951eaa7b0496797584efe2e7d4b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708198"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47718140"
 ---
 # <a name="allow-external-senders-to-send-messages-to-distribution-groups"></a>السماح للمرسلين الخارجيين بإرسال رسائل إلى مجموعات التوزيع
 
-إذا تلقى المستخدمون خارج مؤسستك أخطاء عند إرسال رسائل إلى مجموعات التوزيع، أو إذا كنت تريد التحقق من تكوين مجموعات التوزيع لتلقي البريد من المرسلين الخارجيين، فاتبع الخطوات التالية:
+إذا تلقي المستخدمون من خارج مؤسستك أخطاء عند إرسال الرسائل إلى مجموعات التوزيع الخاصة بك ، أو إذا كنت تريد التاكد من تكوين مجموعات التوزيع الخاصة بك لتلقي البريد الكتروني من المرسلين الخارجيين ، فاتبع الخطوات التالية:
 
-1. في مركز إدارة Microsoft 365، انتقل إلى صفحة[مجموعات](https://portal.office.com/adminportal/home#/groups) **المجموعات.** >   
+1. في مركز أداره Microsoft 365 ، انتقل إلى صفحه مجموعات **المجموعات**  >  [Groups](https://portal.office.com/adminportal/home#/groups) .  
 
-2. حدد مجموعة التوزيع، وفي جزء خصائص المجموعة، حدد علامة التبويب **الإعدادات.**
+2. حدد مجموعه التوزيع ، وفي الجزء خصائص المجموعة ، حدد علامة التبويب **إعدادات** .
 
-3. حدد **السماح للمرسلين الخارجيين بمراسلة هذه المجموعة عبر البريد الإلكتروني،** ثم حدد **حفظ**.
+3. حدد **السماح للمرسلين الخارجيين بإرسال هذه المجموعة بالبريد الكتروني**، ثم حدد **حفظ**.

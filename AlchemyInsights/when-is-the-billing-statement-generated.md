@@ -1,11 +1,12 @@
 ---
-title: متى يتم إنشاء كشف الفوترة؟
+title: متى يتم إنشاء بيان الفوترة ؟
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
 ms.date: 07/24/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,19 +14,19 @@ ms.custom:
 - "494"
 - "1500024"
 ms.assetid: fdbd403f-49d0-4934-9bed-1c67335f2522
-ms.openlocfilehash: 59d122ab05a6c7bee347fad4c3b5e541380dd58d
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: 7ed64f01d3376541eba80013ae354005f2366214
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45431204"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47719184"
 ---
-# <a name="when-is-the-billing-statement-generated"></a>متى يتم إنشاء كشف الفوترة
+# <a name="when-is-the-billing-statement-generated"></a>متى يتم إنشاء بيان الفوترة
 
-يتم تعيين تاريخ كشف الحساب الخاص بك إلى يوم من الشهر بعد إنشاء حسابك. على سبيل المثال، إذا قمت بإنشاء حسابك في 20 يناير، يتم تعيين تاريخ كشف الحساب الخاص بك على 21 لكل شهر لاحق.
+يتم تعيين تاريخ البيانات الخاص بك إلى يوم من الشهر بعد إنشاء حسابك. علي سبيل المثال ، إذا قمت بإنشاء حسابك في 20th من يناير ، سيتم تعيين تاريخ البيانات الخاص بك إلى الشارع الثاني لكل شهر لاحق.
 
-يتم تضمين الرسوم الإضافية التي تحدث أثناء دورة الفوترة النشطة في فاتورة الشهر التالي. يتم سرد تواريخ بدء وانتهاء دورة الفوترة لكل فاتورة في **ملخص الفوترة** للفاتورة.
+يتم تضمين الرسوم الاضافيه التي تحدث اثناء دوره الفوترة النشطة في الفاتورة للشهر التالي. يتم سرد تاريخي البدء والانتهاء لدوره الفوترة لكل فاتورة في **ملخص الفوترة** للفاتورة.
 
-تتم تسوية الدفعات ببطاقة الائتمان و/أو الحساب البنكي (عند الاقتضاء) في اليوم التالي **لتاريخ الفاتورة.**
+تتم تسويه المدفوعات الخاصة ببطاقة الائتمان و/أو الحساب البنكي (حيث يمكن تطبيقها) في اليوم الذي يلي **تاريخ الفاتورة**.
   
-لمعرفة المزيد، راجع [فهم الفاتورة .](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)
+لمعرفه المزيد ، راجع [فهم الفاتورة](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).

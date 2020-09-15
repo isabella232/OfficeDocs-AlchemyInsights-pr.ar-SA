@@ -1,11 +1,12 @@
 ---
-title: خيمياء - تشخيص وحل مشكلات اتصال Outlook
+title: كيمياء-تشخيص مشاكل الاتصال في Outlook وحلها
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,16 +14,16 @@ ms.custom:
 - "167"
 - "1800011"
 ms.assetid: ff6d4c25-bbee-4dc3-b1d2-b72081ecdca2
-ms.openlocfilehash: 1c55dd357cbcdb3f9ff634e96f17139c3aeb56ba
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: b2cce7e7d87558a773e63f518e1a52192fefd92c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43708400"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47718680"
 ---
-# <a name="diagnose-and-resolve-outlook-connectivity-issues"></a>تشخيص مشكلات اتصال Outlook وحلها
+# <a name="diagnose-and-resolve-outlook-connectivity-issues"></a>تشخيص مشاكل الاتصال في Outlook وحلها
 
-لتشخيص وإصلاح مشكلات اتصال Outlook، يمكنك تشغيل [أداة اتصال Outlook](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) على الجهاز المتأثر.
+لتشخيص مشاكل الاتصال في Outlook وإصلاحها ، يمكنك تشغيل [أداه اتصال outlook](https://aka.ms/SaRA-OutlookDisconnect-Alchemy) علي الجهاز المتاثر.
   
-ستقوم هذه الأداة بإجراء فحوصات تشخيصية واقتراح الحلول الممكنة لك لمعالجة مشكلة اتصال Outlook.
+ستنفذ هذه الاداه عمليات التدقيق التشخيصي واقتراح الحلول المحتملة لمعالجه مشكله اتصال Outlook.
   
