@@ -1,25 +1,26 @@
 ---
-title: 9000234 Outlook.com خطأ في الخادم الداخلي
+title: خطا خادم 9000234 Outlook.com داخلي
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1818"
 - "9000234"
-ms.openlocfilehash: 3f21b33866d0fe420c42b0c54350a43c99777f6f
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 10dfff5d88ce5ff7c099ed55b1ecebe606831d64
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43760075"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47671575"
 ---
 # <a name="internal-server-errors-in-outlookcom"></a>أخطاء الخادم الداخلية في Outlook.com
 
-بالطبع لا! إذا رأيت "خطأ 500" أو رسالة "خطأ خادم داخلي"، فهو نحن وليس أنت - آسف على ذلك.
+بالطبع لا! إذا ظهرت رسالة الخطا "Error 500" أو "خطا في الخادم الداخلي" ، فهذا يعني اننا لا ننصحك بذلك.
 
-تحقق من [صفحة حالة خدمة Office](https://portal.office.com/servicestatus) للتأكد من عدم وجود أي شيء آخر يحدث ، ولكن أفضل حل هو أخذ قسط من الراحة لبضع دقائق ، ثم تحديث المتصفح عن طريق الضغط على **CTRL** و **F5**.
+اطلع علي [صفحه حاله خدمه Office](https://portal.office.com/servicestatus) للتاكد من عدم وجود اي شيء آخر قيد التشغيل ، ولكن الحل الأفضل يستغرق وقتا قصيرا لبضع دقائق ، ثم قم بتحديث المستعرض بالضغط علي **CTRL** و **F5**.
