@@ -1,33 +1,34 @@
 ---
-title: إلغاء الحماية المتقدمة من التهديدات
+title: إلغاء الحماية المتقدمة من المخاطر
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5777"
-ms.openlocfilehash: dc228b5c4ebc1bd1f981868e0eb44fa444e7e7da
-ms.sourcegitcommit: e09af4285c6b81ca0a5320fdb811713ac25748c3
+ms.openlocfilehash: 2cf6e79740a4e3a4c265e2ae3a65fde3350fe747
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44707592"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47683677"
 ---
-# <a name="cancel-advanced-threat-protection"></a>إلغاء الحماية المتقدمة من التهديدات
+# <a name="cancel-advanced-threat-protection"></a>إلغاء الحماية المتقدمة من المخاطر
 
-يمكن إلغاء الحماية من التهديدات المتقدمة في **مركز إدارة Microsoft 365**.
+يمكن إلغاء الحماية المتقدمة من المخاطر في **مركز أداره Microsoft 365**.
 
-1. انتقل إلى صفحة **"الفوترة"**  >  [لمنتجاتك.](https://go.microsoft.com/fwlink/p/?linkid=842054)
-2. حدد موقع خطة الحماية من التهديدات المتقدمة لإلغاء.
+1. انتقل إلى صفحه **الفوترة**  >  [الخاصة بالمنتجات](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. حدد موقع خطه الحماية من المخاطر المتقدمة للغاء الأمر.
 3. انقر فوق **إلغاء الاشتراك**.
 
-رد الأموال: سيتم إرجاع أي رصيد مُدَرّي لك خلال دورة الفوترة التالية.
+المبلغ المسترد: سيتم إرجاع اي رصيد نسبي اليك خلال دوره الفوترة التالية.
 
-**ملاحظة**: إذا لم تر خيار الإلغاء، انقر على الاشتراك لعرض التفاصيل ويجب أن ترى خيار **إلغاء الاشتراك** في **الإعدادات & الإجراءات**.
+**ملاحظه**: إذا لم يظهر الخيار للغاء الأمر ، فانقر فوق الاشتراك لعرض التفاصيل ومن المفترض ان تري الخيار **إلغاء الاشتراك** في **إعدادات & الإجراءات**.
 
-لمعرفة المزيد، راجع [إلغاء الاشتراك .](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+لمعرفه المزيد ، راجع [إلغاء الاشتراك](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

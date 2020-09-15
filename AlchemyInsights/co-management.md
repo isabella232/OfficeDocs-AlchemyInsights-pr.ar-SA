@@ -1,38 +1,39 @@
 ---
-title: الإدارة المشتركة
+title: الاداره المشتركة
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1556"
 - "9000080"
-ms.openlocfilehash: bd19ae3bfdf5005fe4e495e78749a393128a2184
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 0f7c5d647e133b092b778c39fddc3c3ae3e7c7fc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41770878"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47681247"
 ---
-# <a name="co-management"></a>الإدارة المشتركة
+# <a name="co-management"></a>الاداره المشتركة
 
-**المتطلبات الأساسية للترحيل من إدارة التكوين الهجين إلى Intune**
+**المتطلبات الاساسيه للترحيل من أداره التكوين المختلطة إلى Intune**
 
 - راجع [هذه المقالة](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-hybridmdm-to-intunesa).
-- [إضافة ترخيص Intune إلى المستخدمين](https://docs.microsoft.com/intune/licenses-assign).
-- استخدم [متصفح Edge](https://www.microsoft.com/windows/microsoft-edge) عند تكوين الإدارة المشتركة.
+- [أضف ترخيص Intune إلى المستخدمين](https://docs.microsoft.com/intune/licenses-assign).
+- استخدم [مستعرض Edge](https://www.microsoft.com/windows/microsoft-edge) عند تكوين الاداره المشتركة.
 
-**كيفية تثبيت عميل إدارة التكوين على الأجهزة التي تديرها Intune**
+**كيفيه تثبيت عميل أداره التكوين علي الاجهزه التي تتم ادارتها في Intune**
 
-انظر [أجهزة Windows التي تديرها MDM .](https://docs.microsoft.com/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm)
+راجع [أجهزه Windows المدارة في Intune](https://docs.microsoft.com/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
 
-**ماذا لو أردت فقط تغيير سلطة MDM؟**
+**ماذا لو كنت أريد تغيير تخويل MDM فقط ؟**
 
-يمكن تغيير سلطة MDM دون فتح حالة دعم. يرجى مراجعة الوثائق التالية للمساعدة في تغيير سلطة MDM الخاصة بك:
+يمكن تغيير تخويل MDM من دون فتح حاله دعم. يرجى مراجعه الوثائق التالية لمساعدتك في تغيير الجهة الموثقة في MDM:
 
-- [تغيير سلطة MDM من إدارة التكوين إلى Intune مستقل](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
-- [تغيير سلطة MDM من Intune مستقل إلى إدارة التكوين](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)
+- [تغيير تخويل MDM من أداره التكوين إلى Intune مستقل](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
+- [تغيير تخويل MDM من Intune مستقل إلى أداره التكوين](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)

@@ -5,6 +5,7 @@ author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,25 +13,25 @@ ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
 - "1400001"
 - "4722"
-ms.openlocfilehash: 2389daa13aa08f394feded5c5cd67839e62734ff
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 0a10e2de14bd42412097d94bb846b34db414cb00
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44061621"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47683510"
 ---
 # <a name="cancel-project-subscription"></a>إلغاء اشتراك المشروع
 
-يمكن للمسؤولين إلغاء اشتراك Project لمؤسساتهم من **مركز إدارة Microsoft 365**.
+يمكن للمسؤولين إلغاء اشتراك المشروع لمؤسستهم من **مركز أداره Microsoft 365**.
 
-1. انتقل إلى صفحة **الفوترة > [منتجاتك.](https://go.microsoft.com/fwlink/p/?linkid=842054) **
+1. انتقل إلى صفحه **الفوترة [الخاصة ب> المنتجات الخاصة بك](https://go.microsoft.com/fwlink/p/?linkid=842054) ** .
 
-2. تحديد موقع خطة المشروع لإلغاء.
+2. حدد موقع خطه المشروع للغاء الأمر.
 
 3. انقر فوق **إلغاء الاشتراك**.
 
-**استرداد الأموال: سيتم إرجاع أي رصيد تناسبي إليك خلال دورة الفوترة التالية.**
+**المبلغ المسترد: سيتم إرجاع اي رصيد نسبي اليك خلال دوره الفوترة التالية.**
 
-**ملاحظة:** إذا كنت لا ترى خيار الإلغاء، انقر على الاشتراك لعرض التفاصيل ويجب أن تشاهد خيار **إلغاء الاشتراك** في **الإعدادات & الإجراءات**.
+**ملاحظه**: إذا لم يظهر الخيار للغاء الأمر ، فانقر فوق الاشتراك لعرض التفاصيل ومن المفترض ان تري الخيار **إلغاء الاشتراك** في **إعدادات & الإجراءات**.
 
-لمعرفة المزيد، راجع [إلغاء اشتراكك](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+لمعرفه المزيد ، راجع [إلغاء الاشتراك](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

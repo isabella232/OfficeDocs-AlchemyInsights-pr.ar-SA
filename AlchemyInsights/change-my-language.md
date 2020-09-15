@@ -1,35 +1,36 @@
 ---
-title: تغيير لغتي
+title: تغيير اللغة
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001112"
 - "3073"
-ms.openlocfilehash: 98f30d8e0a59ee9d735818d670755affbe627d54
-ms.sourcegitcommit: 67015549afcbe05f3b77ea314e2ef7e0e439f9f2
+ms.openlocfilehash: 2bb937c2ac2d95680dd1b247765c42ec0247d9f0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/26/2020
-ms.locfileid: "42286018"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47682957"
 ---
-# <a name="change-my-language"></a>تغيير لغتي
+# <a name="change-my-language"></a>تغيير اللغة
 
-تتم ترجمة تطبيق Outlook تلقائيًا إلى اللغة التي تم تعيين جهازك إليها. 
+يتم تلقائيا ترجمه تطبيق Outlook إلى اللغة التي تم تعيين جهازك اليها. 
 
-(راجع [قائمة اللغات المعتمدة في Outlook](https://acompli.helpshift.com/a/outlook/?s=general-questions&f=in-which-languages-is-your-app-translated).) 
+(راجع [قائمه اللغات المعتمدة في Outlook](https://acompli.helpshift.com/a/outlook/?s=general-questions&f=in-which-languages-is-your-app-translated).) 
 
-**لتغيير اللغة على جهازك:** 
+**لتغيير اللغة الموجودة علي جهازك**: 
 
-**على الروبوت**: 
+**علي نظام التشغيل Android**: 
 
 - إعدادات الجهاز > اللغة والإدخال 
 
-**على دائرة الرقابة الداخلية**: 
+**علي نظام التشغيل iOS**: 
 
-- إعدادات الجهاز > منطقة & اللغة > العامة 
+- إعدادات الجهاز > > اللغة العامة & المنطقة 
