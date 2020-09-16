@@ -1,27 +1,28 @@
 ---
-title: مشاركة مقاطع الفيديو الخاصة بك في Microsoft Stream
+title: مشاركه ملفات الفيديو في Microsoft Stream
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001694"
 - "3772"
-ms.openlocfilehash: 0fdfee4e6675a12921dc7309a76cb9cb8e0cc292
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 622431bc1a06a4f0f919df840320890f99f3eb01
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44015748"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47727302"
 ---
-# <a name="share-your-videos-in-microsoft-stream"></a>مشاركة مقاطع الفيديو الخاصة بك في Microsoft Stream
+# <a name="share-your-videos-in-microsoft-stream"></a>مشاركه ملفات الفيديو في Microsoft Stream
 
-قد ترغب في مشاركة مقاطع الفيديو في Microsoft Stream مع الأشخاص الذين ليس لديهم حق الوصول. هناك طرق مختلفة لمشاركة مقاطع الفيديو الخاصة بك:
+قد تحتاج إلى مشاركه ملفات الفيديو في Microsoft Stream مع الأشخاص الذين لا يمكنهم الوصول اليهم. هناك طرق متعددة لمشاركه ملفات الفيديو:
 
-- [مشاركة مقاطع الفيديو الخاصة بك في Microsoft Stream](https://docs.microsoft.com/stream/portal-share-video)
+- [مشاركه ملفات الفيديو في Microsoft Stream](https://docs.microsoft.com/stream/portal-share-video)
 
-- [الأذونات على الفيديو](https://docs.microsoft.com/stream/portal-share-video#permissions-on-your-video)
+- [الأذونات علي الفيديو](https://docs.microsoft.com/stream/portal-share-video#permissions-on-your-video)

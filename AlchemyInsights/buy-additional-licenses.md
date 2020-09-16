@@ -1,10 +1,11 @@
 ---
-title: شراء تراخيص إضافية
+title: شراء تراخيص اضافيه
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,28 +13,28 @@ ms.custom:
 - "530"
 - "1400007"
 ms.assetid: 75fdfd6d-cae7-40fd-bc50-8674bcd3a771
-ms.openlocfilehash: 6950efae6aef72a3c8198fee97596f640f5968c2
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c228e9e7ffea4c1858c2c17a813b90f064a242a3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44506214"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47725538"
 ---
-# <a name="buy-additional-licenses"></a>شراء تراخيص إضافية
+# <a name="buy-additional-licenses"></a>شراء تراخيص اضافيه
 
-1. في مركز المشرف، انتقل إلى صفحة **الفوترة** \> **[لمنتجاتك.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. في مركز الاداره ، انتقل إلى صفحه **الفوترة** \> **[الخاصة بالمنتجات](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
-2. ابحث عن الاشتراك الذي تريد إضافة تراخيص إليه، ثم حدد **إضافة/إزالة التراخيص**.
+2. ابحث عن الاشتراك الذي تريد أضافه التراخيص اليه ، ثم حدد **أضافه/أزاله التراخيص**.
 
-    [ماذا لو لم أر رابط إضافة/إزالة؟](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+    [ماذا افعل إذا لم يظهر الارتباط أضافه/أزاله ؟](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
 
-3. في مربع **إجمالي التراخيص،** أدخل العدد الإجمالي للتراخيص التي تحتاجها لهذا الاشتراك، ثم اختر **إرسال التغيير**. على سبيل المثال، إذا كان لديك 100 ترخيص وتحتاج إلى إضافة 5 تراخيص أخرى، أدخل 105.
+3. في المربع **إجمالي التراخيص** ، ادخل العدد الإجمالي للتراخيص التي تحتاج اليها لهذا الاشتراك ، ثم اختر **إرسال التغيير**. علي سبيل المثال ، إذا كان لديك تراخيص 100 وكانت بحاجه إلى أضافه 5 المزيد ، فادخل 105.
 
     > [!NOTE]
-    > إذا كنت تدفع ثمن اشتراكك عن طريق بطاقة الائتمان أو الحساب المصرفي، فتتوفر أي تراخيص جديدة تشتريها فور تلقيك تأكيد الطلب. إذا كنت تدفع عن طريق الفاتورة، فقد تضطر إلى انتظار فحص الائتمان قبل توفر التراخيص الجديدة للاستخدام.
+    > إذا كنت تدفع مقابل اشتراكك باستخدام بطاقة الائتمان أو الحساب البنكي ، ستتوفر اي تراخيص جديده تقوم بشراءها مباشره بعد ان تتلقي تاكيد طلب. إذا قمت بالدفع بواسطة الفاتورة ، فقد تحتاج إلى انتظار التحقق من الرصيد قبل توفر التراخيص الجديدة لاستخدامها.
 
-لمعرفة المزيد، راجع [شراء تراخيص Microsoft 365 للاشتراك في الأعمال.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)  
+لمعرفه المزيد ، راجع [شراء التراخيص لاشتراك Microsoft 365 للاعمال](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).  
 
 **موارد إضافية**
 
-- [تعيين تراخيص للمستخدمين في Microsoft 365 للأعمال](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [تعيين تراخيص للمستخدمين في Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
