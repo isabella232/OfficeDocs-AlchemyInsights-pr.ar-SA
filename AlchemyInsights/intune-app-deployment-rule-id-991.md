@@ -1,32 +1,33 @@
 ---
-title: معرف قاعدة نشر التطبيق Intune 991
+title: معرف قاعده نشر تطبيق Intune 991
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "991"
 - "6700004"
 ms.assetid: 1ec12c49-243a-44dc-9084-15863b223078
-ms.openlocfilehash: a22dc9b5298f530846bb20a2d6aac5d22c335b32
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 90e8b8f2d66046f1e74d051343d8dded9d5c8f95
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713993"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47755154"
 ---
-# <a name="intune-app-deployment"></a>نشر التطبيق Intune
+# <a name="intune-app-deployment"></a>نشر تطبيق Intune
 
-نشر التطبيقات مع Intune هو عملية ثلاث خطوات:
+ان نشر التطبيقات باستخدام Intune عبارة عن عمليه ثلاث خطوات:
   
-1. **إضافة تطبيق** - يمكنك إضافة تطبيق App Store أو تحميل تطبيق Line of Business.
+1. **أضافه تطبيق** -يمكنك أضافه تطبيق "متجر التطبيقات" أو تحميل خط تطبيق للاعمال.
 
-2. **تعيين تطبيق** - تحديد نطاق نشر التطبيق.
+2. **تعيين تطبيق** -تحديد نطاق نشر التطبيق.
 
-3. **مراقبة التطبيقات** - عرض حالة تثبيت التطبيقات وسرد التطبيقات المكتشفة وإدارة التطبيقات التي تم شراؤها من متاجر التطبيقات.
+3. **مراقبه التطبيقات** -عرض حاله تثبيت التطبيقات وقائمه التطبيقات المكتشفة وأداره التطبيقات التي تم شراؤها من مخازن التطبيقات.
 
-اقرأ [ما هو إدارة تطبيقات Intune](https://docs.microsoft.com/intune/app-management) للإرشادات التفصيلية والمعلومات حول تكوين التطبيقات وحمايتها.
+أقرا [ما هو أداره تطبيق Intune](https://docs.microsoft.com/intune/app-management) للحصول علي الإرشادات التفصيلية والمعلومات حول تكوين التطبيقات وحمايتها.
   

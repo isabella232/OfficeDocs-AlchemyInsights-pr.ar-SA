@@ -1,11 +1,12 @@
 ---
-title: ترحيل البريد الإلكتروني من G Suite إلى Microsoft 365
+title: ترحيل البريد الكتروني من مجموعه G إلى Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,14 +14,14 @@ ms.custom:
 - "682"
 - "3500008"
 ms.assetid: 09a4c114-ef71-4958-ad1d-d5acdc47cd05
-ms.openlocfilehash: ac8d61e2e5e56fa2df93ebb4c993f7f13bff104e
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: bb550e259d2acb3456d32f496e678ec6ac071e63
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713885"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47754866"
 ---
-# <a name="migrate-email-from-g-suite-to-microsoft-365"></a>ترحيل البريد الإلكتروني من G Suite إلى Microsoft 365
+# <a name="migrate-email-from-g-suite-to-microsoft-365"></a>ترحيل البريد الكتروني من مجموعه G إلى Microsoft 365
 
-لترحيل البريد الإلكتروني من G Suite إلى Microsoft 365، استخدم أدوات الترحيل الخاصة بنا لترحيل البريد الإلكتروني والتقويم وجهات الاتصال: [تنفيذ ترحيل G Suite](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).
+لترحيل البريد الكتروني من المجموعة G إلى Microsoft 365 ، استخدم أدوات الترحيل الخاصة بنا لترحيل البريد الكتروني ، والتقويم ، وجات الاتصال: [اجراء ترحيل لمجموعه G](https://docs.microsoft.com/Exchange/mailbox-migration/perform-g-suite-migration).
   

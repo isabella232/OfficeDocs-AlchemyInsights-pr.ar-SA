@@ -1,28 +1,29 @@
 ---
-title: قضايا مع وزاره الخارجية
+title: المشاكل المتعلقة بالMFA
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
 ms.custom:
 - "2417"
 - "9000557"
-ms.openlocfilehash: a415116b9ba437cb13426896119cd1b40d9ab491
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 718af9bfbc0a64cdfc96528e5062fb96c8d0f2d3
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "37768824"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47755118"
 ---
-# <a name="issues-with-azure-mfa"></a>قضايا مع وزاره الخارجية Azure
-هناك بضعة أشياء للتحقق ما إذا كان المستخدمين لا يمكن تسجيل الدخول باستخدام المصادقة متعددة العوامل (وزاره الخارجية)
+# <a name="issues-with-azure-mfa"></a>المشاكل المتعلقة باستخدام Azure MFA
+هناك بعض الأمور التي يجب التحقق من عدم تمكن المستخدمين من تسجيل الدخول باستخدام مصادقه متعددة العوامل (MFA)
 
-1. قد يتم حظر المستخدم المتاثر في موقع الدليل النشط Azure. إذا كانت هذه هي الحالة ، سيتم تلقائيا رفض محاولات المصادقة لهذا المستخدم المحدد. [الرجاء اتباع الخطوات التالية في هذه المقالة للغاء حظرها.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
+1. قد يكون المستخدم المتاثر محظورا في مدخل Azure Active directory. إذا كانت هذه هي الحالة ، سيتم رفض محاولات المصادقة لهذا المستخدم المحدد تلقائيا. [الرجاء اتباع الخطوات المذكورة في هذه المقالة للغاء حظرها.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-mfasettings#block-and-unblock-users)
 
-2. إذا كان إلغاء حظر المستخدم لم يساعد أو لم يتم حظر المستخدم يمكنك محاولة أعاده تعيين وزاره الخارجية للمستخدم وانها سوف تذهب من خلال عمليه التسجيل مره أخرى. [الرجاء اتباع الخطوات التالية في هذه المقالة.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userdevicesettings#require-users-to-provide-contact-methods-again)
+2. إذا لم يساعدك إلغاء حظر المستخدم أو إذا لم يتم حظر المستخدم ، فيمكنك محاولة أعاده تعيين MFA للمستخدم سيمر علي عمليه التسجيل مره أخرى. [الرجاء اتباع الخطوات الواردة في هذه المقالة.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userdevicesettings#require-users-to-provide-contact-methods-again)
 
-إذا كانت هذه هي المرة الاولي التي قمت بتمكين وزاره الخارجية والمستخدمين غير قادرين علي تسجيل الدخول إلى العملاء غير المستعرضات مثل Outlook ، سكايب ، وما إلى ذلك ، وربما لم يتم تمكين ال (مكتبه مصادقه الدليل النشط) علي الاشتراك O365 الخاص بك. في هذه الحالة سوف تحتاج إلى الاتصال Powershell Exchange عبر الإنترنت وتشغيل هذا cmdlet:  *مجموعه-اورجانيزاتيونكونفيج-OAuth2ClientProfileEnabled: $true*
+إذا كانت هذه هي المرة الاولي التي تقوم فيها بتمكين MFA وكان المستخدمون غير قادرين علي تسجيل الدخول إلى العملاء الذين لا يستخدمون برنامج Outlook ، أو Skype ، وغير ذلك ، فهذا يعني انه لم يتم تمكين الأمر ADAL (مكتبه مصادقه Active directory) علي اشتراكك في O365. في هذه الحالة ستحتاج إلى الاتصال ب Exchange Online Powershell وتشغيل أمر cmdlet هذا:  *Set-get-organizationconfig-OAuth2ClientProfileEnabled: $true*

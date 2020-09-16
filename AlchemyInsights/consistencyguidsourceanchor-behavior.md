@@ -1,33 +1,34 @@
 ---
-title: ConsistencyGuid / سلوك مرساة المصدر
+title: سلوك كونسيستينسيجويد/سورسيانتشور
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 6a44f797-acc7-4cbe-aa5a-47e2581fabf5
-ms.openlocfilehash: 8527e7c2404742a999041f85ed12d78c48cc0d8c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: adac469328485696d1ee1532aa3d6828af0642eb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705720"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47756270"
 ---
-# <a name="consistencyguid--sourceanchor-behavior"></a>ConsistencyGuid / سلوك مرساة المصدر
+# <a name="consistencyguid--sourceanchor-behavior"></a>سلوك كونسيستينسيجويد/سورسينتشور
 
-Azure AD Connect (الإصدار 1.1.524.0 وما بعده) يسهل الآن استخدام msDS-ConsistencyGuid كسمة sourceAnchor. عند استخدام هذه الميزة، يقوم Azure AD Connect بتكوين قواعد المزامنة تلقائيًا إلى:
+يسهل الآن Azure AD Connect (الإصدار 1.1.524.0 وما يليه) استخدام السمة مسدس-كونسيستينسيجويد كسورسينتشور. عند استخدام هذه الميزة ، يقوم Azure AD بتكوين قواعد المزامنة تلقائيا إلى:
   
-- استخدم msDS-ConsistencyGuid كسمة sourceAnchor لكائنات المستخدم. يتم استخدام ObjectGUID لأنواع الكائنات الأخرى.
+- استخدم مسدس-كونسيستينسيجويد كسمه سورسينتشور لكائنات المستخدم. يتم استخدام أوبجيكتجويد لأنواع الكائنات الأخرى.
     
-- لأي كائن مستخدم AD معين داخليًا لا يتم ملء سمة msDS-ConsistencyGuid الخاصة به، يقوم Azure AD Connect بكتابة قيمة objectGUID الخاصة به مرة أخرى إلى سمة msDS-ConsistencyGuid في الدليل النشط الداخلي. بعد ملء السمة msDS-ConsistencyGuid، يقوم Azure AD Connect بعد ذلك بتصدير الكائن إلى Azure AD.
+- بالنسبة إلى اي كائن المستخدم المحلي الخاص بالإعلانات المحددة التي لا يتم تعبئة السمة مسدس الخاصة بها ، فان Azure AD Connect تكتب قيمه أوبجيكتجويد الخاصة بها مره أخرى إلى السمة مسدس-كونسيستينسيجويد في Active Directory المحلي. بعد تعبئة السمة مسدس-كونسيستينسيجويد ، يقوم Azure AD Connect بتصدير الكائن إلى Azure AD.
     
- **ملاحظة:** بمجرد استيراد كائن AD داخلي إلى Azure AD Connect (أي استيراده إلى مساحة موصل الإعلانية والمتوقع في Metaverse)، لا يمكنك تغيير قيمة المصدر Anchor بعد الآن. لتحديد قيمة sourceAnchor لكائن AD داخلي معين، قم بتكوين سمة msDS-ConsistencyGuid قبل استيرادها إلى Azure AD Connect. 
+ **ملاحظه:** بمجرد استيراد كائن الإعلانات المحلي إلى Azure AD Connect (والذي يتم استيراده إلى مساحة موصل الإعلانات وعرضه في ميتافيرسي) ، لا يمكنك تغيير قيمه سورسيانتشور الخاصة به. لتحديد القيمة سورسيانتشور لكائن إعلانات معين في الموقع المحلي ، قم بتكوين سمه مسدس-كونسيستينسيجويد قبل استيرادها إلى Azure AD Connect. 
   
-لمزيد من المعلومات حول SourceAnchor وConsistencyGuid، راجع ما يلي: [Azure AD Connect: مفاهيم التصميم](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
+للحصول علي مزيد من المعلومات حول سورسينتشور و كونسيستينسيجويد ، يمكنك الرجوع إلى ما يلي: [AZURE AD Connect: مفاهيم التصميم](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-design-concepts)
   
 

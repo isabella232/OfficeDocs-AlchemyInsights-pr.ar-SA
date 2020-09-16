@@ -1,25 +1,26 @@
 ---
-title: هل تحتاج إلى مساعدة في Microsoft 365 Business Premium Voice؟
+title: هل تحتاج إلى المساعدة في استخدام صوت Microsoft 365 Business Premium ؟
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001713"
 - "3795"
-ms.openlocfilehash: c9bcc02a31fc9afccee46839af3665d2bdaac0cf
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 8ebede67f5414234553968b0a275d984f87800b8
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43761945"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47754548"
 ---
-# <a name="need-help-with-microsoft-365-business-premium-voice"></a>هل تحتاج إلى مساعدة في Microsoft 365 Business Premium Voice؟
+# <a name="need-help-with-microsoft-365-business-premium-voice"></a>هل تحتاج إلى المساعدة في استخدام صوت Microsoft 365 Business Premium ؟
 
-يجعل Microsoft 365 Business Premium Voice من السهل على المؤسسات الصغيرة والمتوسطة تحويل Microsoft Teams إلى نظام هاتف قوي ومرن. لمزيد من المعلومات حول صوت الأعمال، راجع [ما هو صوت Microsoft 365 Business Premium؟](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)
+يسهل الصوت الخاص ب microsoft 365 Business Premium المؤسسات الصغيرة والمتوسطة لتشغيل فرق Microsoft في نظام الهاتف الفعال والمرن. للحصول علي مزيد من المعلومات حول صوت الاعمال ، راجع [ما هو الصوت في Microsoft 365 Business Premium ؟](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)
 
-إذا كنت قد حصلت بالفعل على Microsoft 365 Business Premium Voice، يمكن أن يساعدك [معالج البدء في](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) الحصول على الأشياء. 
+إذا حصلت بالفعل علي صوت Microsoft 365 Business Premium ، فبامكان [معالج بدء](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) الاستخدام مساعدتك علي الحصول علي المهام. 
