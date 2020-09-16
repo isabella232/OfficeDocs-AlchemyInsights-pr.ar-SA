@@ -1,22 +1,23 @@
 ---
-title: 324 مشاكل مع البريد الإلكتروني (رسائل) الذهاب إلى الوجهة الخطأ
+title: 324 المشاكل المتعلقة بالبريد الكتروني الذي سيتم إرساله إلى وجهه غير صحيحه
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 324
 ms.assetid: 5f6ae28e-cd87-4265-9ad4-d13c201c12da
-ms.openlocfilehash: f7ab266b363c9e7df7de9208720558fea1ed6e37
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 719d6f0c8d33056d93dbfad6f2f32b3949ab1011
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716267"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47769782"
 ---
-# <a name="email-messages-are-going-to-the-wrong-destination"></a>رسائل البريد الإلكتروني تسير إلى الوجهة الخاطئة
+# <a name="email-messages-are-going-to-the-wrong-destination"></a>انتقال رسائل البريد الكتروني إلى وجهه غير صحيحه
 
-يبدو أن لديك مشكلة تدفق البريد. لدينا التشخيصات التي من شأنها أن تساعد في تحديد العديد من المشاكل تدفق البريد المشترك. انقر فوق **تشغيل التشخيصات** أدناه.
+يبدو انه لديك مشكله في تدفق البريد. لدينا تشخيص سيساعدك علي تحديد العديد من مشاكل تدفق البريد الشائعة. انقر فوق **تشغيل التشخيص** أدناه.

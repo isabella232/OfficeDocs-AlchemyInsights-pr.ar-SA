@@ -1,10 +1,11 @@
 ---
-title: حادث الخدمة قيد التقدم
-ms.author: v-crytho
+title: حدث الخدمة قيد التقدم
+ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3d8a7342-327e-43c1-b9a2-2b2b78651cae
@@ -17,19 +18,19 @@ ms.custom:
 - "1600014"
 - "1600017"
 - "1600018"
-ms.openlocfilehash: c9ce8d5cb969f20233565f778f3970b3ae77bd9c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 8da7304ca776700322dff9db351a6ee60cca71dc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43716231"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47767896"
 ---
-# <a name="service-incident-in-progress"></a>حادث الخدمة قيد التقدم
+# <a name="service-incident-in-progress"></a>حدث الخدمة قيد التقدم
 
-قد تتأثر بحادث خدمة أو استشاري يتم التحقيق معه حاليًا. يمكنك التحقق من أحدث حالة عن طريق الانتقال إلى صفحة [صحة الخدمة.](https://admin.microsoft.com/adminportal/home#/servicehealth)
+قد تتاثر بحادث أو نصائح الخدمة التي يتم التحقق منها حاليا. يمكنك التحقق من الحالة الاخيره بالانتقال إلى صفحه [حماية الخدمة](https://admin.microsoft.com/adminportal/home#/servicehealth) .
   
-لراحتك، يمكنك العثور على ملخص لهذا الحادث أدناه:
+لتسهيلك ، يمكنك العثور علي ملخص لهذا الحادث أدناه:
   
-> **رقم الحادث:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
+> **رقم الحدث:**[{إينسيدينتيد}](https://admin.microsoft.com/adminportal/home#/servicehealth)
  
-> وصف التأثير: {ImpactDescription}
+> وصف التاثير: {إيمباكتديسكريبتيون}
