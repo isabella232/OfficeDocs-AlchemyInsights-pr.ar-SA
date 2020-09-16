@@ -1,23 +1,24 @@
 ---
-title: الحصول على وحدة خطأ مخصص لا يتعرف على هذا الخطأ عند تحميل تتبع رسالة؟
+title: الحصول علي وحده خطا مخصصه لا تتعرف علي هذا الخطا عند تنزيل تتبع الرسائل ؟
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001484"
 - "3520"
-ms.openlocfilehash: 39184bef117e29f88be4487a79cb50fd778a94c4
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 3d60a36cea90a78a31263ad78a72855c274e8e08
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43705216"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47731946"
 ---
-# <a name="getting-custom-error-module-does-not-recognize-this-error-when-downloading-a-message-trace"></a>الحصول على "وحدة خطأ مخصص لا يتعرف على هذا الخطأ" عند تحميل تتبع رسالة؟
+# <a name="getting-custom-error-module-does-not-recognize-this-error-when-downloading-a-message-trace"></a>الحصول علي "الوحدة النمطية للخطا المخصصة" لم تتعرف علي هذا الخطا "عند تنزيل تتبع الرسائل ؟
 
-نحن على علم بالمشكلة ونعمل على إصلاح.  في هذه الأثناء، حاول **مسح ذاكرة التخزين المؤقت للمتصفح،** أو استخدام وضع InPrivate لحل هذه المشكلة.
+نحن علي علم بالمشكلة ونعمل علي إصلاحها.  في الوقت نفسه ، حاول **مسح ذاكره التخزين المؤقت للمستعرض**أو استخدام وضع InPrivate لحل هذه المشكلة.

@@ -1,36 +1,37 @@
 ---
-title: تجاوز حد البريد الإلكتروني اليومي. تم تعليق سير العمل.
+title: تم تجاوز حد البريد الكتروني اليومي. تم إيقاف سير العمل.
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "5200020"
 - "1227"
-ms.openlocfilehash: 701c4aef6bfc0c4a2c4570f6dd16dbe4f99efc44
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: dfb42b24f1c2b4b05cb067a82505a6a8b63f277e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580320"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47731550"
 ---
-# <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>تجاوز حد البريد الإلكتروني اليومي. تم تعليق سير العمل.
+# <a name="daily-email-limit-exceeded-workflow-is-suspended"></a>تم تجاوز حد البريد الكتروني اليومي. تم إيقاف سير العمل.
 
-قد يتم تلقي هذا الخطأ في السيناريوهات التالية:
+قد يتم استلام هذا الخطا في السيناريوهات التالية:
 
-- لديك سير عمل في SharePoint Online يستخدم نوع منصة سير عمل SharePoint 2010 أو SharePoint 2013.
-- تم تكوين سير العمل لإرسال رسالة بريد إلكتروني مخصصة إلى أكثر من 200 مستخدم في وقت واحد، أو أكثر من 10,000 مستلم يوميًا، أو أكثر من 30 رسالة في الدقيقة.
-- عند تشغيل سير العمل، لا يتم إرسال رسالة البريد الإلكتروني، وتلاحظ السلوك التالي:
-    - بالنسبة لسير العمل باستخدام نوع النظام الأساسي SharePoint 2013، يمكنك الاستعراض إلى صفحة **حالة سير العمل.** في صفحة حالة سير العمل، يتم تعيين **الحالة الداخلية** إلى **"تم البدء"،** ويعرض بالون المعلومات **غير قادر على الإرسال إلى مستلم**.
+- لديك سير عمل في SharePoint Online يستخدم نوع النظام الأساسي لسير العمل SharePoint 2010 أو SharePoint 2013.
+- تم تكوين سير العمل لإرسال رسالة بريد الكتروني مخصصه إلى أكثر من 200 مستخدمين في نفس الوقت ، أو أكثر من 10,000 مستلم في اليوم ، أو أكثر من 30 رسالة في الدقيقة.
+- عند تشغيل سير العمل ، لا يتم إرسال رسالة البريد الكتروني ، وتلاحظ السلوك التالي:
+    - بالنسبة لسير العمل باستخدام نوع النظام الأساسي ل SharePoint 2013 ، يمكنك الاستعراض وصولا إلى الصفحة " **حاله سير العمل** ". في الصفحة "حاله سير العمل" ، يتم تعيين **الحالة الداخلية** إلى " **تم البدء**" ، ويتم عرض بالون المعلومات **غير قادر علي الإرسال إلى المستلم**.
 
-لحل هذه المشكلة، قم بتكوين سير العمل لإرسال رسائل البريد الإلكتروني دون تجاوز [حدود المرسل Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits). على سبيل المثال، استخدم إيقافمؤقت في سير العمل، أو إرسال البريد الإلكتروني إلى مجموعة Microsoft 365 أو مجموعة توزيع أو مجموعة أمان ممكّنة للبريد، أو إرسال الرسالة إلى أقل من 200 مستلم في كل مرة.
+لحل هذه المشكلة ، قم بتكوين سير العمل لإرسال رسائل البريد الكتروني بدون تجاوز [حدود مرسل Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits#recipientlimits). علي سبيل المثال ، يمكنك استخدام إيقاف مؤقت في سير العمل ، أو إرسال البريد الكتروني إلى مجموعه Microsoft 365 ، أو مجموعه توزيع أو مجموعه أمان ممكنة ، أو إرسال الرسالة إلى اقل من 200 مستلم في الوقت نفسه.
 
 
-لمزيد من المعلومات، راجع [المقالة](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or)التالية .
+لمزيد من المعلومات ، راجع [المقالة](https://support.microsoft.com/help/3150442/daily-email-limit-has-exceeded-and-your-workflow-has-been-suspended-or)التالية.
 
 ## <a name="related-topics"></a>المواضيع ذات الصلة
 - [إنشاء تدفق](https://support.office.com/article/Create-a-flow-for-a-list-or-library-in-SharePoint-Online-or-OneDrive-for-Business-a9c3e03b-0654-46af-a254-20252e580d01) 

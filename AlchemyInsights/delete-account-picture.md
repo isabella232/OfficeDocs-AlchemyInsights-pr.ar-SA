@@ -1,32 +1,33 @@
 ---
-title: حذف صوره الحساب
+title: أزاله صوره الحساب
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3452"
 - "9001439"
-ms.openlocfilehash: 5226da86643db58b39687735b67118796e9c40ad
-ms.sourcegitcommit: 802537a54ef8bde1bdd758ee9a60b6c19d37d6e1
+ms.openlocfilehash: 94d7c783b13632e9fcf0875785fdeab8b8951f93
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/19/2019
-ms.locfileid: "40795925"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47730938"
 ---
 # <a name="delete-an-account-picture-in-windows-10"></a>حذف صوره حساب في Windows 10
 
-تم تصميم Windows للسماح لك بالتبديل بين الصور الثلاثة الاخيره. إذا كنت بحاجه إلى حذف أحد صور حسابك:
+تم تصميم Windows ليسمح لك بالتبديل بين الصور الثلاثة الاخيره. إذا كنت بحاجه إلى حذف أحد صور الحساب:
 
-1. افتح مستكشف الملفات من شريط المهام. إذا لم تشاهد مستكشف الملفات (رمز المجلد) علي شريط المهام ، حدد **بدء** واكتب **مستكشف الملفات**.
+1. افتح مستكشف الملفات من شريط المهام. إذا لم تتمكن من رؤية "مستكشف الملفات" (أيقونه المجلد) علي شريط المهام ، فحدد **بدء** واكتب **مستكشف الملفات**.
 
-2. انتقل إلى المستخدمين\\*c:\users*\appdate\roaming\temp\windows\contaters. 
-    - استبدل *اسمك* باسم الحساب الخاص بك.
-    - إذا كنت غير قادر علي العثور علي المجلد AppData في "مستكشف الملفات" ، قد يكون مخفيا. حدد اعداد **العرض** ، وحدد خانه الاختيار **العناصر المخفية** لإظهار كافة العناصر في مجلد.
+2. انتقل إلى C:\Users \\ *يورنامي*\appdata\roaming\microsoft\windows\accountpictures. 
+    - استبدل *يورنامي* باسم حسابك.
+    - إذا تعذر عليك العثور علي المجلد AppData في "مستكشف الملفات" ، فقد يكون مخفيا. حدد اعداد **طريقه العرض** ، وحدد خانه الاختيار **العناصر المخفية** لإظهار كافة العناصر الموجودة في مجلد.
 
 3. احذف صوره الحساب التي لم تعد تريد استخدامها.
  
