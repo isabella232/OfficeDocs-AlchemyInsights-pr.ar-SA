@@ -1,25 +1,26 @@
 ---
-title: السماح بالبرنامج النصي المخصص لتمكين الميزات
+title: السماح لبرنامج نصي مخصص بتمكين الميزات
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: f2b1b6b4-10c9-4e83-b9cb-529a0b8a3c55
-ms.openlocfilehash: 4fe0384a97e2f40c8d0dd12bafd84d19edaeb386
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: d202ca6e932099f9e68d4e2c5da754b9b56db896
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40051772"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47738948"
 ---
-# <a name="allow-custom-script-to-enable-features"></a>السماح بالبرنامج النصي المخصص لتمكين الميزات
+# <a name="allow-custom-script-to-enable-features"></a>السماح لبرنامج نصي مخصص بتمكين الميزات
 
-قد يحتاج المسؤولون إلى **السماح لبرنامج نصي مخصص** لتمكين ميزات معينه. علي سبيل المثال ، قد يتلقى المستخدمون خطا 403 عند الاتصال ب SharePoint مع مصمم SharePoint. للحصول علي الخطوات التفصيلية ، الامثله والاعتبارات راجع [السماح أو منع البرنامج النصي المخصص](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
+قد يحتاج المسؤولون إلى **السماح لبرنامج نصي مخصص** بتمكين بعض الميزات. علي سبيل المثال ، قد يتلقى المستخدمون خطا 403 عند الاتصال ب SharePoint مع SharePoint Designer. للاطلاع علي الخطوات المفصلة والامثله والاعتبارات ، راجع [السماح بالبرامج النصية المخصصة أو منعها](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
 
-إذا كان المستخدمون يواجهون **خطا 403** مع SharePoint أو اندريف ، يمكنك التحقق من [لوحه معلومات "صحة الخدمة](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) " لتحديد ما إذا كان مشكله معروفه مع دقه في التقدم قبل استدعاء الدعم أو قضاء وقت استكشاف الأخطاء وإصلاحها. قد تكون المشكلة مؤقته جدا وتم تحديدها بالفعل من قبل Microsoft ، ولكن قد يكون هناك فاصل زمني بين تحديد المشكلة والترحيل إلى لوحه معلومات "صحة الخدمة". الرجاء متابعه التحقق من لوحه معلومات "صحة الخدمة" لمزيد من التحديثات.
+إذا واجه المستخدمون **خطا 403** باستخدام SharePoint أو OneDrive ، فيمكنك التحقق من " [لوحه معلومات حماية الخدمة](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) " لتحديد ما إذا كانت هذه المشكلة معروفه عند الاتصال بالدعم ام لا. قد تكون المشكلة مؤقته للغاية وقد تم تعريفها بالفعل بواسطة Microsoft ، ولكن قد يكون هناك متتابع في الوقت بين تعريف المشكلة والترحيل إلى لوحه معلومات حماية الخدمة. يرجى الاستمرار في التحقق من "لوحه معلومات حماية الخدمة" للحصول علي مزيد من التحديثات.
 
