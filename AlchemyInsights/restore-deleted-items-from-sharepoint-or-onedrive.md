@@ -1,39 +1,40 @@
 ---
-title: استعادة العناصر المحذوفة من SharePoint أو OneDrive
-ms.author: stevhord
+title: استعاده العناصر المحذوفة من SharePoint أو OneDrive
+ms.author: pebaum
 author: bentoncity
 manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ab29939b-37fe-4007-aae3-26fa6d2f57fa
-ms.openlocfilehash: 37788c31f4068792956cfff9b89d48c3e9c2f253
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: c53f8db579b93649e0ea370e63428383469ac60c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582510"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47728166"
 ---
-# <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>استعادة العناصر المحذوفة من SharePoint أو OneDrive
+# <a name="restore-deleted-items-from-sharepoint-or-onedrive"></a>استعاده العناصر المحذوفة من SharePoint أو OneDrive
 
-1. انتقل إلى OneDrive أو موقع SharePoint.
+1. انتقل إلى موقعك علي OneDrive أو SharePoint.
     
-2. انقر فوق **سلة المهملات** في الجزء الأيسر. 
+2. انقر فوق **سله المحذوفات** في الجزء الأيمن. 
     
-3. انقر على يسار العناصر أو الملفات التي تريد استعادتها.
+3. انقر إلى يمين العناصر أو الملفات التي تريد استعادتها.
     
-4. انقر فوق **استعادة**. 
+4. انقر فوق **استعاده**. 
     
-عند حذف الملفات والمجلدات والمكتبات والقوائم وعناصر القائمة من موقع SharePoint، فإنها تذهب إلى سلة المهملات، حيث يتم الاحتفاظ بها لمدة 93 يومًا ما لم يحذفها شخص ما من سلة المهملات هذه. إذا تم حذفها من سلة المهملات هذه (تسمى موقع سلة المهملات)، فإنها تذهب إلى مجموعة الموقع Recycle Bin للوقت المتبقي، ثم يتم حذفها نهائيًا. المواقع المحذوفة ومجموعات الموقع تذهب مباشرة إلى مجموعة الموقع سلة المهملات لمدة 93 يوما.
+عند حذف الملفات والمجلدات والمكتبات والقوائم وعناصر القائمة من موقع SharePoint ، فانها تنتقل إلى سله المحذوفات ، حيث يتم الاحتفاظ بها لمده 93 يوما الا إذا قام شخص ما بحذفها من سله المحذوفات هذه. إذا تم حذفها من سله المحذوفات هذه (المسمية "سله محذوفات الموقع") ، ستنتقل إلى سله محذوفات مجموعه المواقع المشتركة للمرة المتبقية ، ثم يتم حذفها بشكل دائم. تنتقل المواقع ومجموعات المواقع المشتركة مباشره إلى سله محذوفات مجموعه المواقع المشتركة لمده 93 يوما.
   
-[استعادة العناصر في سلة المهملات في مجموعة الموقع](https://go.microsoft.com/fwlink/?linkid=867800) (مسؤولو مجموعة الموقع) 
+[استعاده العناصر في سله محذوفات مجموعه المواقع المشتركة](https://go.microsoft.com/fwlink/?linkid=867800) (مسؤولو مجموعه المواقع المشتركة) 
   
-[استعادة مجموعات المواقع المحذوفة](https://go.microsoft.com/fwlink/?linkid=867660) (المسؤولين العموميين أو مسؤولي SharePoint في Microsoft 365) 
+[استعاده مجموعات المواقع المشتركة المحذوفة](https://go.microsoft.com/fwlink/?linkid=867660) (عام أو مسؤولو SharePoint في Microsoft 365) 
   
-بالنسبة للمواقع التي تنتمي إلى مجموعة Microsoft 365، تحتاج إلى استعادة المجموعة لاستعادة الموقع. راجع [استعادة مجموعة Microsoft 365 المحذوفة](https://go.microsoft.com/fwlink/?linkid=867802) (مسؤول عمومي) 
+بالنسبة إلى المواقع التي تنتمي إلى مجموعه Microsoft 365 ، يجب استعاده المجموعة لاستعاده الموقع. راجع [استعاده مجموعه Microsoft 365 المحذوفة](https://go.microsoft.com/fwlink/?linkid=867802) (المسؤول العام) 
   
 
