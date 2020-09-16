@@ -5,25 +5,26 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001213"
 - "3187"
-ms.openlocfilehash: f390c2415e6638b90336c456bd11065bf8d7bc53
-ms.sourcegitcommit: 3f50cd10aac418ef38a1782312b24588b49cefd9
+ms.openlocfilehash: 1997b1e4f0240d132550de441affa3854c22cdc6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/05/2019
-ms.locfileid: "37976076"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47751734"
 ---
-# <a name="como-pagar-com-boleto"></a>كومو باجار كوم بوليتو
+# <a name="como-pagar-com-boleto"></a>Como pagar com boleto
 
-**كومو باجار مينها فاتورا**
+**Como pagar minha fatura**
 
-Você pode باغار sua fatura com boleto bancário ou الناقل الخاص.
+Você pode pagar sua fatura com boleto bancário ou transferência bancária eletrônica.
 
-**كومو باجار كوم بوليتو**
+**Como pagar com  boleto**
 
-O escolher esta opção de pagamento, você receberá أو boleto em سو البريد الكتروني em até 10 dias úteis após البيانات القيام بيدو. Esse boleto terá vencimento de 30 dias após البيانات القيام بيدو ه pode سير باغو م ام بانكو ، كوريوس ، كازا lotérica ه alguns supermercados. 
+Ao escolher  esta opção de pagamento, você receberá o boleto em seu e-mail em até 10 dias úteis após a data do pedido. Esse boleto terá vencimento de 30 dias após a data do pedido e pode ser pago em um banco, correios, casa lotérica e alguns supermercados. 

@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001731"
 - "3830"
-ms.openlocfilehash: 9476b3a4cd38879fa4c4000d3ba603fbb4cc6bff
-ms.sourcegitcommit: a5c7bbf1ee499bdcbfed9a677daab19772eeae05
-ms.translationtype: HT
+ms.openlocfilehash: f41d6cf8cb1bac471ca33d81a867a35080906ae4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/17/2020
-ms.locfileid: "42692509"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47732630"
 ---
 # <a name="create-an-org-wide-team-that-includes-everyone-in-your-organization"></a>إنشاء فريق على مستوى المؤسسة يشمل كل شخص في مؤسستك
 

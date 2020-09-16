@@ -5,23 +5,27 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002463"
 - "5050"
-ms.openlocfilehash: fd7fdf16dc5c1636b1096ef62604e354e12c784e
-ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
-ms.translationtype: HT
+ms.openlocfilehash: 4821fb67a95264c5258d265b9f1d13cea0a321d6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43944002"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47736050"
 ---
-# <a name="teams-notifications"></a>إعلامات Teams
+# <a name="teams-notifications-faq"></a>الاسئله المتداولة حول اعلامات الفرق
 
-في تطبيق Teams لسطح المكتب، هناك طرق متعددة للوصول إلى الإشعارات وإدارتها. لمزيد من تخصيص إعدادات الإعلامات، حدد صورة ملف التعريف في الزاوية العلوية اليسرى من Teams، ثم انتقل إلى **إعدادات > إعلامات النشاط**. من هناك يمكنك ضبط الإشعارات التي تتلقاها وأين تظهر تلك الإشعارات. 
 
-في تطبيقات iOS و Android، اضغط على **المزيد > الإعدادات > الإعلامات** لتخصيص الإعلامات الخاصة بك.
+- يتم [تعيين الاعلامات من قبل المستخدمين](https://support.microsoft.com/office/1cc31834-5fe5-412b-8edb-43fecc78413d)، ولا يمكن للمسؤولين تغيير إعدادات الاعلامات بالنيابة عن المستخدمين. في تطبيق الفرق لسطح المكتب ، حدد صوره ملف التعريف الخاص بك في الزاوية العلوية اليسرى من الفرق ثم انتقل إلى إعدادات اعلامات النشاط>
 
-للحصول علي مزيد من المعلومات، الرجاء مراجعة [ستة أشياء مطلوب معرفتها عن الإعلامات](https://support.microsoft.com/ar-SA/office/six-things-to-know-about-notifications-abb62c60-3d15-4968-b86a-42fea9c22cf4) و [إدارة الإعلامات في Teams](https://support.office.com/article/manage-notifications-in-teams-1cc31834-5fe5-412b-8edb-43fecc78413d#ID0EAABAAA).
+- [استكشاف الأخطاء وإصلاحها لتطبيقات الاجهزه المحمولة للفرق](https://support.microsoft.com/office/6d125ac2-e440-4fab-8e4c-2227a52d460c).
+
+- يمكنك تلقي اعلامات بأربع طرق: من خلال موجز النشاط والدردشة وإشعارات الشعارات والبريد الكتروني. يتم إرسال البريد الكتروني الخاص بالنشاط الذي تم فقدانه عندما تكون غير نشطه في فرق فتره زمنيه. الاطلاع علي [سته أشياء يجب معرفتها حول الاعلامات](https://support.microsoft.com/office/abb62c60-3d15-4968-b86a-42fea9c22cf4) للحصول علي مزيد من المعلومات
+
+للحصول علي مزيد من المعلومات حول اعلامات الفرق ، راجع  [أداره الإشعارات في الفرق](https://support.office.com/article/1cc31834-5fe5-412b-8edb-43fecc78413d#ID0EAABAAA).

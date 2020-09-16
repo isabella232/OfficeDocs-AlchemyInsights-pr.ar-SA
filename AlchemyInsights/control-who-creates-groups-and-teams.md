@@ -1,26 +1,27 @@
 ---
-title: التحكم في من يقوم بإنشاء مجموعات Microsoft 365 وفرق Microsoft
+title: التحكم في الأشخاص الذين ينشئون مجموعات Microsoft 365 وفرق Microsoft
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/14/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "168"
 - "1200029"
-ms.openlocfilehash: d8b5745f89c7fa924ca326d51d9db04d7097709c
-ms.sourcegitcommit: 45c2aaeee58c0be466b76c7f0cd71e796d3c8f76
+ms.openlocfilehash: a36868c367eef0cabbeb9136a7b21e1cfa453a8d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "45141285"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47733242"
 ---
-# <a name="control-who-creates-microsoft-365-groups-and-microsoft-teams"></a>التحكم في من يقوم بإنشاء مجموعات Microsoft 365 وفرق Microsoft
+# <a name="control-who-creates-microsoft-365-groups-and-microsoft-teams"></a>التحكم في الأشخاص الذين ينشئون مجموعات Microsoft 365 وفرق Microsoft
 
-بشكل افتراضي، يمكن لكافة المستخدمين داخل المؤسسة إنشاء مجموعات Microsoft 365 وفرق Microsoft. يمكنك تغيير الافتراضي وتعيين حق إنشاء مجموعات Microsoft 365 أو فرق لمجموعة فرعية من المستخدمين داخل المؤسسة الخاصة بك. يؤثر هذا التغيير أيضاً إنشاء مجموعات من أي خدمة Microsoft 365 مثل Outlook الفرق مخطط وهكذا.
+بشكل افتراضي ، يستطيع كل المستخدمين في المؤسسة إنشاء مجموعات Microsoft 365 وفرق Microsoft. يمكنك تغيير الاعداد الافتراضي وتعيين الحق في إنشاء مجموعات أو فرق Microsoft 365 إلى مجموعه فرعيه من المستخدمين داخل مؤسستك. يؤثر هذا التغيير أيضا علي إنشاء المجموعات من اي خدمه Microsoft 365 مثل Outlook والفرق و Planner وما إلى ذلك.
 
-لمزيد من المعلومات، راجع [إدارة من يمكنه إنشاء مجموعات Microsoft 365](https://support.office.com/article/Manage-who-can-create-Office-365-Groups-4c46c8cb-17d0-44b5-9776-005fced8e618) وفرق [Microsoft](https://aka.ms/rtsf).
+لمزيد من المعلومات ، راجع [أداره الأشخاص الذين يمكنهم إنشاء مجموعات microsoft 365](https://support.office.com/article/Manage-who-can-create-Office-365-Groups-4c46c8cb-17d0-44b5-9776-005fced8e618) [وفرق microsoft](https://aka.ms/rtsf).

@@ -1,30 +1,31 @@
 ---
-title: تعذر جدولة حدث مباشر
+title: تعذر جدوله حدث مباشر
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 08/03/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6139"
 - "9000208"
-ms.openlocfilehash: e898e6dc0e779735b104cd5f304fc9e438b2f9b4
-ms.sourcegitcommit: c32ccdd6e87964f01a56d9a36070e4571ebf1ab1
+ms.openlocfilehash: a0507ee12efb3a076b962de72afda4a612fa1cfd
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "46554761"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47735258"
 ---
-# <a name="unable-to-schedule-a-live-event"></a>تعذر جدولة حدث مباشر
+# <a name="unable-to-schedule-a-live-event"></a>تعذر جدوله حدث مباشر
 
-لا يعتمد ترخيص خطة الخدمة لمؤسستك أحداث "Live" للفرق. تتوفر "الأحداث المباشرة للفرق" فقط لتراخيص E1 وE3 وE5 و A3 و A5 فقط.
+ترخيص خطه الخدمة لمؤسسك لا يدعم احداث الفرق المباشرة. تتوفر احداث الفرق المباشرة فقط لتراخيص E1 و E3 و E5 و A3 و A5.
 
-- لا يوجد لدى معرف المستخدم المتوفر صندوق بريد عبر إنترنت، وهو مطلوب لجدولة الأحداث المباشرة للفرق. اتصل بمسؤول تكنولوجيا المعلومات للحصول على المساعدة. لمزيد من المعلومات، راجع [إنشاء علب بريد المستخدم في Exchange عبر الإنترنت](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes).
+- لا يتضمن معرف المستخدم الذي تم توفيره علبه بريد عبر الإنترنت ، وهي مطلوبه لجدوله حدث الفرق المباشرة. اتصل بمسؤول تكنولوجيا المساعدة الخاص بك للمساعدة. للحصول علي مزيد من المعلومات ، راجع [إنشاء علب بريد المستخدمين في Exchange Online](https://docs.microsoft.com/exchange/recipients-in-exchange-online/create-user-mailboxes).
 
-- ليس لدى مؤسستك ترخيص دفق متوفر أو لم يتم إعداد المستخدم المتوفر بشكل صحيح في مدخل Stream Admin. لمزيد من المعلومات، راجع [الأحداث المباشرة في Microsoft Stream](https://docs.microsoft.com/stream/live-event-overview).
+- لا يتوفر لدي مؤسستك ترخيص تدفق ، أو ان المستخدم المقدم لم يتم اعداده بشكل صحيح في مدخل مسؤول الدفق. للحصول علي مزيد من المعلومات ، راجع [الاحداث المباشرة في Microsoft Stream](https://docs.microsoft.com/stream/live-event-overview).
 
-- توجد مؤسستك في بلد لا يدعم أحداث "الفرق المباشرة" في هذا الوقت. نحن نعمل بجد لتمكين فرق لايف الأحداث في جميع المناطق. لمزيد من المعلومات، راجع [تخطيط الأحداث المباشرة في Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events).
+- مؤسستك في دوله لا تدعم احداث الفرق المباشرة في هذا الوقت. من الصعب تمكين احداث الفرق المباشرة في كل المناطق. لمزيد من المعلومات ، راجع [التخطيط لاحداث مباشره في فرق Microsoft](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events).

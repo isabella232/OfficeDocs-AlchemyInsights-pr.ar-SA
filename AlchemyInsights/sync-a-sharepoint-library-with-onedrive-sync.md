@@ -1,27 +1,28 @@
 ---
-title: مزامنة مكتبة SharePoint مع مزامنة OneDrive
+title: مزامنة مكتبه SharePoint باستخدام مزامنة OneDrive
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9003051"
 - "5797"
-ms.openlocfilehash: 9aa8bd9cf2293092436f547c0fc9cc8ff0528b8a
-ms.sourcegitcommit: 8fdcd2acd31e8a4b9a8a0b91674f397d2f7889c1
+ms.openlocfilehash: fbaca8eb8cc0f79783ce0918c43675594582d8e2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/03/2020
-ms.locfileid: "44568897"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47737399"
 ---
-# <a name="sync-a-sharepoint-library-with-onedrive-sync"></a>مزامنة مكتبة SharePoint مع مزامنة OneDrive
+# <a name="sync-a-sharepoint-library-with-onedrive-sync"></a>مزامنة مكتبه SharePoint باستخدام مزامنة OneDrive
 
-من أجل مزامنة ملفات SharePoint مع القرص الثابت المحلي، أكمل الخطوات التالية:
+لكي تتم مزامنة ملفات SharePoint مع محرك القرص الثابت المحلي ، أكمل الخطوات التالية:
 
-1. انتقل إلى مكتبة المستندات التي ترغب في مزامنتها مع القرص الثابت المحلي.
-2. حدد زر المزامنة من خيارات القائمة.
-3. اتبع خطوة بخطوة لإكمال المزامنة.
+1. انتقل إلى مكتبه المستندات التي ترغب في مزامنتها مع محرك القرص الثابت المحلي.
+2. حدد الزر مزامنة من خيارات القائمة.
+3. اتبع الخطوة بخطوه لإكمال المزامنة.

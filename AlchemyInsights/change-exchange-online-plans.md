@@ -5,27 +5,28 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002450"
 - "4766"
-ms.openlocfilehash: 7762942632fe8480fa432f5326800e0aa57ab242
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: ba79e98fc6e492b408de298a7a09521672b6ab46
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44058703"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47733603"
 ---
 # <a name="change-exchange-online-plans"></a>تغيير خطط Exchange Online
 
 يجب على المسؤولين تبديل الخطط يدوياً. للحصول على الخطوات الكاملة، اطلع على [تبديل خطط Microsoft 365 للأعمال يدوياً](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
 
-1. قم بشراء خطة الاشتراك الجديدة. في مركز إدارة Microsoft 365، انتقل إلى خدمات شراء **الفوترة**  >  **[Purchase Services](https://go.microsoft.com/fwlink/p/?linkid=868433)**. إن أسهل طريقة للبحث عن خطط Exchange هي عن طريق استخدام مربع البحث.
+1. قم بشراء خطة الاشتراك الجديدة. في مركز أداره Microsoft 365 ، انتقل إلى **Billing**  >  **[خدمات شراء](https://go.microsoft.com/fwlink/p/?linkid=868433)** الفوترة. إن أسهل طريقة للبحث عن خطط Exchange هي عن طريق استخدام مربع البحث.
 
-2. اطلع على الاشتراك الجديد والتراخيص. في مركز إدارة Microsoft 365، انتقل إلى **فوترة**  >  **[منتجاتك.](https://go.microsoft.com/fwlink/p/?linkid=842054)** إذا لم يتم إدراج اشتراكك الجديد أو هو غير نشط، [فاطلع على ما ورد هنا](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan#the-upgrade-tab-is-empty).
+2. اطلع على الاشتراك الجديد والتراخيص. في مركز أداره Microsoft 365 ، انتقل إلى **فوتره**  >  **[منتجاتك](https://go.microsoft.com/fwlink/p/?linkid=842054)**. إذا لم يتم إدراج اشتراكك الجديد أو هو غير نشط، [فاطلع على ما ورد هنا](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan#the-upgrade-tab-is-empty).
 
-3. أعد تعيين التراخيص للمستخدمين. في مركز إدارة Microsoft 365، انتقل إلى **Users**  >  **[المستخدمين النشطين](https://go.microsoft.com/fwlink/p/?linkid=834822)** وتعيين التراخيص.
+3. أعد تعيين التراخيص للمستخدمين. في مركز أداره Microsoft 365 ، **انتقل إلى**  >  **[المستخدمون النشطون](https://go.microsoft.com/fwlink/p/?linkid=834822)** وعين التراخيص.
 
-4. [إلغاء اشتراكك](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription) أو [إزالة التراخيص](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses) التي لم تعد بحاجة إليها.
+4. [الغ اشتراكك](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription) أو [أزل التراخيص](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses) التي لم تعد بحاجه اليها.

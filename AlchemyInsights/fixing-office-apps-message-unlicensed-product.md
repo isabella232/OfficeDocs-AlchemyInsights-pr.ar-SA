@@ -1,36 +1,37 @@
 ---
-title: غير قادر على تنشيط Office
+title: تعذر تنشيط Office
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "2000023"
 - "3509"
-ms.openlocfilehash: 875026fe11d3745b587131cf0dd40a28fa005dc5
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 50939456df57920994e464db20e5da54f45f197a
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580140"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47744613"
 ---
-# <a name="unable-to-activate-office"></a>غير قادر على تنشيط Office
+# <a name="unable-to-activate-office"></a>تعذر تنشيط Office
 
 - تحقق مما إذا كانت حالة الاشتراك منتهية الصلاحية.
-- تأكد من وجود اشتراك يسمح بتراخيص العميل، مثل Office 365 Business أو Business Premium، [وتأكد من أن المستخدم لديه ترخيص معين](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users).
+- تاكد من ان لديك اشتراك يسمح لتراخيص العميل ، مثل Office 365 Business أو Business Premium ، [وتاكد من ان المستخدم قد تم تعيين ترخيص له](https://docs.microsoft.com/microsoft-365/admin/subscriptions-and-billing/assign-licenses-to-users).
 - تأكد من أن المستخدم يقوم بتسجيل الدخول إلى Office باستخدام الحساب نفسه الذي تم تعيين ترخيص له.
 - تحقق من [صفحه حماية خدمة Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health) لمعرفه ما إذا كانت هناك أي مشكلات معروفة في الخدمة.
-- تحقق من جدار الحماية وبرامج مكافحة الفيروسات وإعدادات الوكيل للتأكد من أنها لا تمنع وصول تطبيقات Microsoft 365 إلى الإنترنت. الرجاء الاطلاع على [نطاقات عناوين IP وعناوين URL في Office 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges "نطاقات عناوين IP وعناوين URL في Office 365").
+- التحقق من جدار الحماية وبرنامج الحماية من الفيروسات وإعدادات الوكيل للتاكد من انها لا تحظر وصول تطبيقات Microsoft 365 إلى الإنترنت. الرجاء الاطلاع على [نطاقات عناوين IP وعناوين URL في Office 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges "نطاقات عناوين IP وعناوين URL في Office 365").
 
 استخدم إجراءات استكشاف الأخطاء وإصلاحها التالية:
 
 - افتح أحد تطبيقات Office، ثم [قم بتسجيل الخروج](https://support.office.com/article/5a20dc11-47e9-4b6f-945d-478cb6d92071)من أي حسابات مستخدم حالية. [قم بإزالة](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users) و[إعادة تعيين](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users) ترخيص Office، ثم [سجّل الدخول إلى Office](https://support.office.com/article/628ea040-f265-49de-b986-be09c3ebf8a9) باستخدام حساب المستخدم المتأثر.
 - تشغيل ["مستكشف أخطاء التنشيط ومصلحها"](https://aka.ms/SARA-OfficeActivation-Alchemy)
-- [إعادة تعيين حالة تنشيط Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state "إعادة تعيين حالة تنشيط Office")
+- [إعادة تعيين حالة تنشيط Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state "أعاده تعيين حاله تنشيط Office")
 - [قم بإجراء إصلاح Office عبر الإنترنت](https://support.office.com/Article/7821d4b6-7c1d-4205-aa0e-a6b40c5bb88b?wt.mc_id=Alchemy_ClientDIA)
 
 للحصول على حلول إضافية لاستكشاف الأخطاء وإصلاحها، اطلع على:  

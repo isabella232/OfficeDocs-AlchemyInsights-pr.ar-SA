@@ -1,32 +1,33 @@
 ---
-title: تغيير عنوان البريد الإلكتروني لمجموعة Microsoft 365
+title: تغيير عنوان البريد الكتروني لمجموعه Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "4704"
-ms.openlocfilehash: 32968f085a4e9d49f60ef88e4e78bf6c67629556
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
-ms.translationtype: HT
+ms.openlocfilehash: a2605bcd66f61de811ebb6e273e4ef1cff2b0119
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580644"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47733674"
 ---
-# <a name="change-email-address-of-a-microsoft-365-group"></a>تغيير عنوان البريد الإلكتروني لمجموعة Microsoft 365
+# <a name="change-email-address-of-a-microsoft-365-group"></a>تغيير عنوان البريد الكتروني لمجموعه Microsoft 365
 
-يمكنك تغيير عنوان البريد الإلكتروني لمجموعة Microsoft 365 باستخدام مركز المسؤول. ما عليك سوى تحديد المجموعة وتحديد عنوان البريد الإلكتروني @edit.
+يمكنك تغيير عنوان البريد الكتروني لمجموعه Microsoft 365 باستخدام مركز الاداره. ما عليك سوي تحديد المجموعة وتحديد عنوان البريد الكتروني @edit.
 
-يمكنك أيضًا استخدام الأمر EXO PowerShell لتغيير عنوان SMTP الأساسي لمجموعة Microsoft 365:
+يمكنك أيضا استخدام الأمر أكسو PowerShell لتغيير عنوان SMTP الأساسي لمجموعه Microsoft 365:
 
-مجموعة مجموعة موحدة <Group Name> -PrimarySmtpAddress<new SMTP Address>
+Set-أونيفيدجروب <Group Name> -بريماريسمتبادريس <new SMTP Address>
 
-المثال:
+مثال
 
 ```
     Set-UnifiedGroup Marketing -PrimarySmtpAddress marketing@contoso.com

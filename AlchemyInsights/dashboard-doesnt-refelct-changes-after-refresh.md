@@ -1,26 +1,27 @@
 ---
-title: لا تعكس لوحة المعلومات التغييرات بعد التحديث
+title: لا تعكس لوحه المعلومات التغييرات بعد التحديث
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/20/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1318"
 - "2500002"
-ms.openlocfilehash: 14a22250a86496bd8377f2c42cef6b486251bea8
-ms.sourcegitcommit: 9e44b852d18a2816acac0aacb78cb99b4c114368
+ms.openlocfilehash: 11ce68469a095ae3f42d2231c3732e8c04051fc7
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45423250"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47731514"
 ---
-# <a name="dashboard-doesnt-reflect-changes-after-refresh"></a>لا تعكس لوحة المعلومات التغييرات بعد التحديث
+# <a name="dashboard-doesnt-reflect-changes-after-refresh"></a>لا تعكس لوحه المعلومات التغييرات بعد التحديث
 
-إذا لم تعكس لوحة المعلومات التغييرات بعد التحديث، فنتظر حوالي 10 إلى 15 دقيقة حتى ينعكس التحديث في تجانب لوحة المعلومات. إذا كان لا يزال لا تظهر، إعادة تثبيت المرئيات إلى لوحة المعلومات.
+إذا لم تعكس لوحه المعلومات التغييرات بعد التحديث ، فانتظر لمده 10-15 دقيقه لإظهار التحديث في لوحات المعلومات المتجانبه. إذا لم يظهر ، فيمكنك أعاده تثبيت المرئيات إلى لوحه المعلومات.
 
-لمزيد من المعلومات، راجع [استكشاف سيناريوهات التحديث وإصلاحها](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios).
+لمزيد من المعلومات ، راجع [استكشاف أخطاء تحديث السيناريوهات وإصلاحها](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios).

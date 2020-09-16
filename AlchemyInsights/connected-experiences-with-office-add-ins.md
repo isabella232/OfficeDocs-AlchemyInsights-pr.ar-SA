@@ -1,30 +1,31 @@
 ---
-title: تجربة متصلة مع الوظائف الإضافية لـ Office
+title: تجربه متصلة مع وظائف Office الاضافيه
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
-ms.openlocfilehash: 8384b947cd8a7e73ecc383cf297fe7e9224cf130
-ms.sourcegitcommit: a05276bd623466ad211e1f8d9f0c616672dd3640
+ms.openlocfilehash: ca4aa57acfa8f2ddfd5b8ddbaa6d7214cfbb9140
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45197708"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47748275"
 ---
-# <a name="connected-experience-with-office-add-ins"></a>تجربة متصلة مع الوظائف الإضافية لـ Office
+# <a name="connected-experience-with-office-add-ins"></a>تجربه متصلة مع وظائف Office الاضافيه
 
-قد لا تتوفر الوظائف الإضافية لـ Office إذا قام المستخدم أو المسؤول بإيقاف تشغيل التجارب المتصلة.
+قد لا تكون وظائف Office الاضافيه متوفرة إذا قام المستخدم أو المسؤول بإيقاف تشغيل التجربة المتصلة.
 
-قبل تغيير أي إعدادات نهج، راجع [استخدام إعدادات النهج لإدارة عناصر التحكم في الخصوصية لتطبيقات Microsoft 365 للمؤسسات](https://docs.microsoft.com/deployoffice/privacy/manage-privacy-controls).
+قبل تغيير إعدادات النهج ، راجع [استخدام إعدادات النهج لأداره عناصر تحكم الخصوصية لتطبيقات Microsoft 365 ل enterprise](https://docs.microsoft.com/deployoffice/privacy/manage-privacy-controls).
 
-يمكن للمستخدمين تشغيل إعداد الخصوصية أو إيقاف تشغيله باتباع الخطوات التالية:
+يمكن للمستخدمين تشغيل اعداد الخصوصية أو إيقاف تشغيله باتباع الخطوات التالية:
 
-- **> > > خصوصية حساب > > > ملف** 
+- **> حساب > خصوصية الحساب > أداره الإعدادات** 
 
-    ضمن تجارب متصلة، اختر ما إذا كانت هناك تجارب متصلة محددة متوفرة، مثل التجارب لتحليل المحتوى. إذا لم تحدد تجارب معينة في إدارة الإعدادات، تتوفر كافة التجارب المتصلة.
+    ضمن التجارب المتصلة ، اختر ما إذا كانت التجربة المتصلة المعينة متوفرة ، مثل التجارب لتحليل المحتوي. إذا لم تحدد خبرات معينه في أداره الإعدادات ، ستتوفر كل التجربات المتصلة.

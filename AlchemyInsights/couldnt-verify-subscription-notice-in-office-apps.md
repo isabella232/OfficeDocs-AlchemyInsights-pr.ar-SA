@@ -1,24 +1,25 @@
 ---
-title: تعذر التحقق من إشعار الاشتراك في تطبيقات Microsoft 365
+title: تعذر التحقق من اشعار الاشتراك في تطبيقات Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1904"
-ms.openlocfilehash: f2ee65f74bef00c25af7d89608ab23f7a76bbf6d
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 45a5ed79feb2e489af5b93caee29ca4709181d79
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44580392"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47747502"
 ---
-# <a name="couldnt-verify-subscription-notice-in-microsoft-365-apps"></a>إشعار "تعذر التحقق من الاشتراك" في تطبيقات Microsoft 365
+# <a name="couldnt-verify-subscription-notice-in-microsoft-365-apps"></a>اشعار "تعذر التحقق من الاشتراك" في تطبيقات Microsoft 365
 
 - تحقق أن [حالة الاشتراك](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380#bkmk_checksubscription) الخاص بك صالحة، وأن المستخدم المتأثر لديه [ترخيص صالح معين](https://support.office.com/article/997596B5-4173-4627-B915-36ABAC6786DC?wt.mc_id=Alchemy_ClientDIA)، ومتصل بالإنترنت.
 

@@ -1,29 +1,30 @@
 ---
-title: اعتمادات الاتصال
+title: الشكر علي الاتصال
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002395"
 - "4683"
-ms.openlocfilehash: a4f9b04ed0fc51d9c5a79c12162ca57a75ea7eb3
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: e35454836320c5aee23f80aa6f6c04414fb127ef
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44204224"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47733386"
 ---
-# <a name="communication-credits"></a>اعتمادات الاتصال
+# <a name="communication-credits"></a>الشكر علي الاتصال
 
-اعتمادات الاتصال هي طريقة مريحة لدفع لمؤتمرات الصوت ودقائق خطة الاتصال. ستحتاج إلى إعداد أرصدة الاتصالات إذا كنت تريد استخدام الأرقام المجانية مع Skype for Business وMicrosoft Teams.
+ان رصيد الاتصال هو طريقه ملائمة لسداد المؤتمرات الصوتية ودقائق خطه الاتصال. ستحتاج إلى إعداد أرصدة الاتصالات إذا كنت تريد استخدام الأرقام المجانية مع Skype for Business وMicrosoft Teams.
 
-- لإعداد أرصدة الاتصال، راجع [إعداد أرصدة الاتصال لمؤسستك.](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) 
+- لاعداد حسابات الاتصال ، راجع اعداد [الشكر علي الاتصال لمؤسسك](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization). 
 
-- لإضافة أموال ائتمان الاتصالات وإدارتها، راجع [إضافة أموال وإدارة اعتمادات الاتصالات.](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits) 
+- لأضافه ارصده رصيد الاتصالات وأدارتها ، راجع [أضافه أموال وأداره الشكر إلى الاتصالات](https://docs.microsoft.com/microsoftteams/add-funds-and-manage-communications-credits). 
 
-لمزيد من المعلومات، راجع [ما هي اعتمادات الاتصال؟](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)
+لمزيد من المعلومات ، راجع [ما هي الشكر إلى الاتصال ؟](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)
