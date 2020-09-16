@@ -1,28 +1,29 @@
 ---
-title: كيفية إغلاق حساب تحليلات سطح المكتب
+title: كيفيه إغلاق حساب تحليلات سطح المكتب
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000655"
 - "2498"
-ms.openlocfilehash: cf5588cfd6892e3215fc9c0ad50732e0d5847f7e
-ms.sourcegitcommit: 317eeed39c7777a922442992d67733726c41d9e1
+ms.openlocfilehash: 00a15b83c1bdb4b480b3e25d297b4e7afe58905b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/04/2020
-ms.locfileid: "41771094"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47725610"
 ---
-# <a name="working-with-desktop-analytics"></a>العمل مع تحليلات سطح المكتب
+# <a name="working-with-desktop-analytics"></a>استخدام تحليلات سطح المكتب
 
-يبدو أنك تسأل عن تحليلات سطح المكتب. قد نكون قادرين على المساعدة في الحصول على إجابة أكثر دقة إذا قمت بإعادة صياغة سؤالك.
+يبدو انك تسال عن تحليلات سطح المكتب. قد نتمكن من مساعدتك في الحصول علي المزيد من الاجابه الدقيقة إذا قمت باعاده صياغة سؤالك.
 
-- [ما هي تحليلات سطح المكتب؟](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
-- [كيفية إعداد تحليلات سطح المكتب](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
+- [ما المقصود بتحليلات سطح المكتب ؟](https://docs.microsoft.com/configmgr/desktop-analytics/overview)
+- [كيفيه اعداد تحليلات سطح المكتب](https://docs.microsoft.com/configmgr/desktop-analytics/set-up)
 - [الأسئلة المتداولة](https://docs.microsoft.com/configmgr/desktop-analytics/faq)
-- [استكشاف تحليلات سطح المكتب وإصلاحها](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)
+- [استكشاف أخطاء تحليلات سطح المكتب وإصلاحها](https://docs.microsoft.com/configmgr/desktop-analytics/troubleshooting)
