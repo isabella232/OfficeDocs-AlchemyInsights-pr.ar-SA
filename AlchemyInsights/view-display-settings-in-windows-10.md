@@ -5,24 +5,25 @@ author: pebaum
 manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6005"
 - "9003203"
-ms.openlocfilehash: 0dece7cc7b79ee1cef926c80051958286f8876b5
-ms.sourcegitcommit: 32e3ea6af00e012a4a2ff0701584d6866b92fbc3
+ms.openlocfilehash: ccdca6bde14980970af5e00798872e53c9b632dc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "45141273"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47719220"
 ---
-# <a name="view-display-settings-in-windows-10"></a><span data-ttu-id="c4ea4-102">عرض إعدادات العرض في Windows 10</span><span class="sxs-lookup"><span data-stu-id="c4ea4-102">View display settings in Windows 10</span></span>
+# <a name="view-display-settings-in-windows-10"></a><span data-ttu-id="27588-102">عرض إعدادات العرض في Windows 10</span><span class="sxs-lookup"><span data-stu-id="27588-102">View display settings in Windows 10</span></span>
 
-- <span data-ttu-id="c4ea4-103">حدد **بدء**   >  **عرض**   >  **النظام**إعدادات  >  **Display**.</span><span class="sxs-lookup"><span data-stu-id="c4ea4-103">Select **Start**  > **Settings**  > **System** > **Display**.</span></span>
-    -  <span data-ttu-id="c4ea4-104">لتغيير حجم النص والتطبيقات، اختر خيارًا من القائمة المنسدلة ضمن **مقياس التخطيط .**</span><span class="sxs-lookup"><span data-stu-id="c4ea4-104">To change the size of your text and apps, choose an option from the drop-down menu under  **Scale and layout**.</span></span>
-    - <span data-ttu-id="c4ea4-105">لتغيير دقة الشاشة، استخدم القائمة المنسدلة ضمن **دقة العرض**.</span><span class="sxs-lookup"><span data-stu-id="c4ea4-105">To change your screen resolution, use the drop-down menu under **Display resolution**.</span></span>
+- <span data-ttu-id="27588-103">حدد **بدء**   >  **Settings**   >  **عرض النظام**  >  **Display**.</span><span class="sxs-lookup"><span data-stu-id="27588-103">Select **Start**  > **Settings**  > **System** > **Display**.</span></span>
+    -  <span data-ttu-id="27588-104">لتغيير حجم النص والتطبيقات ، حدد أحد الخيارات من القائمة المنسدلة ضمن  **المقياس والتخطيط**.</span><span class="sxs-lookup"><span data-stu-id="27588-104">To change the size of your text and apps, choose an option from the drop-down menu under  **Scale and layout**.</span></span>
+    - <span data-ttu-id="27588-105">لتغيير دقه الشاشة ، استخدم القائمة المنسدلة ضمن **دقه العرض**.</span><span class="sxs-lookup"><span data-stu-id="27588-105">To change your screen resolution, use the drop-down menu under **Display resolution**.</span></span>
      
-      <span data-ttu-id="c4ea4-106">**ملاحظة** تجنب ضبابية أو محتوى منقطة باستخدام الدقة الموصى بها.</span><span class="sxs-lookup"><span data-stu-id="c4ea4-106">**Note** Avoid blurry or pixelated content by using the recommended resolution.</span></span>
-    - <span data-ttu-id="c4ea4-107">لضبط معايرة الألوان، ابحث عن "لون العرض" في مربع بحث الإعدادات، واتبع الإرشادات.</span><span class="sxs-lookup"><span data-stu-id="c4ea4-107">To adjust color calibration, search for "display color" in the Settings search box, and follow the instructions.</span></span> <span data-ttu-id="c4ea4-108">إذا لم تشاهد إعدادًا تبحث عنه، فجرب البحث عنه في مربع البحث على شريط المهام معايرة.</span><span class="sxs-lookup"><span data-stu-id="c4ea4-108">If you don't see a setting you're looking for, try searching for it in the search box on the Calibrate taskbar.</span></span>
+      <span data-ttu-id="27588-106">**ملاحظه** تجنب المحتوي الواضح أو البيكسيلاتيد باستخدام الدقة المستحسنة.</span><span class="sxs-lookup"><span data-stu-id="27588-106">**Note** Avoid blurry or pixelated content by using the recommended resolution.</span></span>
+    - <span data-ttu-id="27588-107">لضبط معايره ألوان ، ابحث عن "لون العرض" في مربع البحث في الإعدادات ، واتبع الإرشادات.</span><span class="sxs-lookup"><span data-stu-id="27588-107">To adjust color calibration, search for "display color" in the Settings search box, and follow the instructions.</span></span> <span data-ttu-id="27588-108">إذا لم تتمكن من رؤية الاعداد الذي تبحث عنه ، فحاول البحث عنه في مربع البحث علي شريط المهام المعايرة.</span><span class="sxs-lookup"><span data-stu-id="27588-108">If you don't see a setting you're looking for, try searching for it in the search box on the Calibrate taskbar.</span></span>
