@@ -1,11 +1,12 @@
 ---
-title: التحقق من نطاقك
+title: التحقق من المجال
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -14,19 +15,19 @@ ms.custom:
 - "48"
 - "8"
 ms.assetid: 81fd176b-3d67-4e52-9ab8-d36602412734
-ms.openlocfilehash: 2c4d8e075d2cf7214b5ef005b856daf7fb0ed53c
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: d30f9b51c0164acd126f214a581ad6cec5eec04e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43710430"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47734293"
 ---
-# <a name="verify-your-domain"></a>التحقق من نطاقك
+# <a name="verify-your-domain"></a>التحقق من المجال
 
- **ربما لم يتم تحديث السجل عبر الإنترنت.**
+ **من المحتمل عدم تحديث السجل عبر الإنترنت.**
   
-عادة ما يستغرق الأمر بضع دقائق فقط حتى نتمكن من رؤية السجل الجديد ، ولكن في بعض الأحيان قد يستغرق الأمر بضع ساعات. 
+عاده ما يستغرق الأمر بضع دقائق فقط لكي يتمكنوا من رؤية السجل الجديد ، ولكن قد يستغرق الأمر بضع ساعات. 
   
-- إذا انتظرت كل هذا الوقت، فتحقق مرة أخرى من أنك قمت بنسخ القيمة الدقيقة ولصقها في سجل التحقق من TXT في مضيف DNS. مشكلة واحدة مشتركة لا تتضمن "MS =" جزء من السجل. نحن بحاجة إلى ذلك أيضا!
+- إذا قمت بالانتهاء من هذا الوقت بالفعل ، فتاكد من انك قمت بنسخ القيمة الصحيحة ولصقها في سجل التحقق من الصحة TXT لدي مضيف DNS. هناك مشكله واحده شائعه لا تتضمن الجزء "MS =" من السجل. نحتاج أيضا إلى ذلك!
 
-- في بعض مضيفي DNS، يجب عليك اتخاذ خطوة إضافية لحفظ ملف المنطقة (حيث يتم تخزين سجل DNS) بحيث سيتم تحديثه عبر الإنترنت. تأكد من حفظ التغييرات حتى تتمكن Microsoft من رؤية السجل والتحقق منه.
+- في بعض مضيفي DNS ، يجب اجراء خطوه اضافيه لحفظ ملف المنطقة (حيث يتم تخزين سجل DNS) بحيث يتم تحديثه عبر الإنترنت. تاكد من انك قمت بحفظ التغييرات التي أجريتها لكي تتمكن Microsoft من رؤية السجل والتحقق منه.
