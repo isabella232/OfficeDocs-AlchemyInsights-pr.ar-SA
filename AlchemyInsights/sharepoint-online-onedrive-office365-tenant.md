@@ -1,26 +1,27 @@
 ---
-title: SharePoint Online أو OneDrive "إعداد"
+title: اعداد SharePoint Online أو OneDrive '
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
 ms.custom:
 - "1161"
 - "5200019"
-ms.openlocfilehash: 8798987db5e39e5f49aceac458ae985e2c3d6b21
-ms.sourcegitcommit: 6a3748f5c05693ca0c19a829287cb8f30635940c
+ms.openlocfilehash: 94e9a69fbc8b3d8f8814a260d29b17c11f76b099
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43787357"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47770979"
 ---
-# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint Online أو OneDrive "إعداد"
+# <a name="sharepoint-online-or-onedrive-setting-up"></a>اعداد SharePoint Online أو OneDrive "
 
-عند إضافة مستخدم إلى مستأجر موجود، قد يرى رموز SharePoint Online أو OneDrive للأعمال المدرجة كرموز "إعداد" أو "ما زلنا نعمل على إعداد الملفات" حتى يتم الانتهاء من عملية التوفير. اتبع [دليل استكشاف الأخطاء وإصلاحها](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) هذا للحصول على المساعدة.
+عند أضافه مستخدم إلى مستاجر حالي ، قد يشاهد أيقونات SharePoint Online أو OneDrive for Business المدرجة بالشكل "اعداد" أو "ما زالنا نعمل علي الحصول علي اعداد الملفات" حتى تكتمل عمليه التوفير. اتبع [دليل استكشاف الأخطاء وإصلاحها](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) للحصول علي التعليمات.
 
-إذا مرت أكثر من 24 ساعة منذ أن رأيت هذه المشكلة لأول مرة، يرجى تسجيل حالة دعم.
+إذا تم تمرير أكثر من 24 ساعة منذ المرة الاولي التي قمت فيها بمشاهده هذه المشكلة ، يرجى تسجيل حاله دعم.
 
-نحن نفهم أن 24 ساعة قد تبدو وكأنها فترة طويلة. في كثير من الحالات، نحن نعمل بالفعل على حل. يرجى من خلالنا أن تعطينا 24 ساعة على الأقل لإكمال الحل.
+نحن علي علم بان 24 ساعة قد تبدو مثل وقت طويل. في حالات كثيره ، نحن نعمل بالفعل علي حل. يرجى تقديم 24 ساعة علي الأقل لإكمال حل.
