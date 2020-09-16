@@ -1,27 +1,28 @@
 ---
-title: فرق للبنية التحتية الظاهرية لسطح المكتب
+title: فرق للبنية الاساسيه لسطح المكتب الافتراضية
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001485"
 - "3521"
-ms.openlocfilehash: 0a8b48cda4109b387e6c2d81104585b194684524
-ms.sourcegitcommit: 9ab422063e5a474c92ed956d42d222b90336fecb
+ms.openlocfilehash: 13bc658ca33d0a61cf8e895b8fd0e0d31bb92abb
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/11/2020
-ms.locfileid: "42599435"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47736419"
 ---
-# <a name="teams-for-virtualized-desktop-infrastructure"></a>فرق للبنية التحتية الظاهرية لسطح المكتب
+# <a name="teams-for-virtualized-desktop-infrastructure"></a>فرق للبنية الاساسيه لسطح المكتب الافتراضية
 
-للحصول على معلومات تفصيلية حول فرق بيئات البنية التحتية الظاهرية لسطح المكتب، راجع [فرق البنية التحتية الظاهرية لسطح المكتب](https://docs.microsoft.com/microsoftteams/teams-for-vdi).
+للحصول علي معلومات مفصله حول فرق العمل في بيئات البنية الاساسيه لسطح المكتب الظاهرية ، راجع [فرق البنية الاساسيه لسطح المكتب](https://docs.microsoft.com/microsoftteams/teams-for-vdi)
 
-يتم تفصيل المشكلات والقيود المعروفة في بيئات VDI في قسم [المشكلات والقيود المعروفة](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations) في نفس المقالة، والذي يتضمن الموضوعات التالية:
- - نشر العميل وتثبيته وإعداده
- - الدعوة والاجتماعات
+يتم تفصيل المشاكل المعروفة والقيود في بيئات VDI في القسم [المشاكل والقيود المعروفة ](https://docs.microsoft.com/microsoftteams/teams-for-vdi#known-issues-and-limitations) في المقالة نفسها التي تتضمن المواضيع التالية:
+ - نشر العميل وتثبيته واعداده
+ - الاتصال والاجتماعات
