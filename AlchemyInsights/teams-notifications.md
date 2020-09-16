@@ -5,23 +5,27 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002463"
 - "5050"
-ms.openlocfilehash: fd7fdf16dc5c1636b1096ef62604e354e12c784e
-ms.sourcegitcommit: 821c0d7cd1937f0a8f54d0210f71b1d3ea374e82
-ms.translationtype: HT
+ms.openlocfilehash: 4821fb67a95264c5258d265b9f1d13cea0a321d6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/29/2020
-ms.locfileid: "43944002"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47736050"
 ---
-# <a name="teams-notifications"></a><span data-ttu-id="0b759-102">إعلامات Teams</span><span class="sxs-lookup"><span data-stu-id="0b759-102">Teams notifications</span></span>
+# <a name="teams-notifications-faq"></a><span data-ttu-id="dc769-102">الاسئله المتداولة حول اعلامات الفرق</span><span class="sxs-lookup"><span data-stu-id="dc769-102">Teams notifications FAQ</span></span>
 
-<span data-ttu-id="0b759-103">في تطبيق Teams لسطح المكتب، هناك طرق متعددة للوصول إلى الإشعارات وإدارتها.</span><span class="sxs-lookup"><span data-stu-id="0b759-103">In the Teams desktop app, there are multiple ways to access and manage notifications.</span></span> <span data-ttu-id="0b759-104">لمزيد من تخصيص إعدادات الإعلامات، حدد صورة ملف التعريف في الزاوية العلوية اليسرى من Teams، ثم انتقل إلى **إعدادات > إعلامات النشاط**.</span><span class="sxs-lookup"><span data-stu-id="0b759-104">To further customize your notification settings, select your profile picture at the top, right corner of Teams, then go to **Settings > Activity Notifications**.</span></span> <span data-ttu-id="0b759-105">من هناك يمكنك ضبط الإشعارات التي تتلقاها وأين تظهر تلك الإشعارات.</span><span class="sxs-lookup"><span data-stu-id="0b759-105">From there you can fine-tune what notifications you receive and where those notifications show up.</span></span> 
 
-<span data-ttu-id="0b759-106">في تطبيقات iOS و Android، اضغط على **المزيد > الإعدادات > الإعلامات** لتخصيص الإعلامات الخاصة بك.</span><span class="sxs-lookup"><span data-stu-id="0b759-106">In iOS and Android apps, tap **More > Settings > Notifications** to customize your notifications.</span></span>
+- <span data-ttu-id="dc769-103">يتم [تعيين الاعلامات من قبل المستخدمين](https://support.microsoft.com/office/1cc31834-5fe5-412b-8edb-43fecc78413d)، ولا يمكن للمسؤولين تغيير إعدادات الاعلامات بالنيابة عن المستخدمين.</span><span class="sxs-lookup"><span data-stu-id="dc769-103">Notifications are [set by users](https://support.microsoft.com/office/1cc31834-5fe5-412b-8edb-43fecc78413d), and Admins cannot change notification settings on users' behalf.</span></span> <span data-ttu-id="dc769-104">في تطبيق الفرق لسطح المكتب ، حدد صوره ملف التعريف الخاص بك في الزاوية العلوية اليسرى من الفرق ثم انتقل إلى إعدادات اعلامات النشاط></span><span class="sxs-lookup"><span data-stu-id="dc769-104">In the Teams Desktop App, select your profile picture at the top right Corner of Teams then go to Settings>Activity Notifications</span></span>
 
-<span data-ttu-id="0b759-107">للحصول علي مزيد من المعلومات، الرجاء مراجعة [ستة أشياء مطلوب معرفتها عن الإعلامات](https://support.microsoft.com/ar-SA/office/six-things-to-know-about-notifications-abb62c60-3d15-4968-b86a-42fea9c22cf4) و [إدارة الإعلامات في Teams](https://support.office.com/article/manage-notifications-in-teams-1cc31834-5fe5-412b-8edb-43fecc78413d#ID0EAABAAA).</span><span class="sxs-lookup"><span data-stu-id="0b759-107">For more information, please see [Six things to know about notifications](https://support.microsoft.com/ar-SA/office/six-things-to-know-about-notifications-abb62c60-3d15-4968-b86a-42fea9c22cf4) and [Manage notifications in Teams](https://support.office.com/article/manage-notifications-in-teams-1cc31834-5fe5-412b-8edb-43fecc78413d#ID0EAABAAA).</span></span>
+- <span data-ttu-id="dc769-105">[استكشاف الأخطاء وإصلاحها لتطبيقات الاجهزه المحمولة للفرق](https://support.microsoft.com/office/6d125ac2-e440-4fab-8e4c-2227a52d460c).</span><span class="sxs-lookup"><span data-stu-id="dc769-105">[Troubleshoot notifications for Teams mobile apps](https://support.microsoft.com/office/6d125ac2-e440-4fab-8e4c-2227a52d460c).</span></span>
+
+- <span data-ttu-id="dc769-106">يمكنك تلقي اعلامات بأربع طرق: من خلال موجز النشاط والدردشة وإشعارات الشعارات والبريد الكتروني.</span><span class="sxs-lookup"><span data-stu-id="dc769-106">You can receive notifications four ways: through the Activity feed, Chat, Banner notifications, and Email.</span></span> <span data-ttu-id="dc769-107">يتم إرسال البريد الكتروني الخاص بالنشاط الذي تم فقدانه عندما تكون غير نشطه في فرق فتره زمنيه.</span><span class="sxs-lookup"><span data-stu-id="dc769-107">The missed activity email is sent when you are inactive on Teams for a period of time.</span></span> <span data-ttu-id="dc769-108">الاطلاع علي [سته أشياء يجب معرفتها حول الاعلامات](https://support.microsoft.com/office/abb62c60-3d15-4968-b86a-42fea9c22cf4) للحصول علي مزيد من المعلومات</span><span class="sxs-lookup"><span data-stu-id="dc769-108">See [Six Things to know about notifications](https://support.microsoft.com/office/abb62c60-3d15-4968-b86a-42fea9c22cf4) for more information</span></span>
+
+<span data-ttu-id="dc769-109">للحصول علي مزيد من المعلومات حول اعلامات الفرق ، راجع  [أداره الإشعارات في الفرق](https://support.office.com/article/1cc31834-5fe5-412b-8edb-43fecc78413d#ID0EAABAAA).</span><span class="sxs-lookup"><span data-stu-id="dc769-109">For more information on Teams notifications, see  [Manage notifications in Teams](https://support.office.com/article/1cc31834-5fe5-412b-8edb-43fecc78413d#ID0EAABAAA).</span></span>
