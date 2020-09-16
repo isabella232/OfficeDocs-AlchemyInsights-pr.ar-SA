@@ -1,30 +1,31 @@
 ---
-title: استكشاف المشاكل المتعلقة بحماية التهديدات المتقدمة من Office 365 (ATP)
+title: استكشاف الأخطاء وإصلاحها في Office 365 الحماية من المخاطر المتقدمة (ATP)
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: f1dc675c8a8217ea2824ad46e029bfa303303e6a
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 4164781a331ec919811332e94636449e9d88430d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44511099"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47758052"
 ---
-# <a name="troubleshoot-issues-with-office-365-atp"></a>استكشاف المشاكل وإصلاحها باستخدام Office 365 ATP
+# <a name="troubleshoot-issues-with-office-365-atp"></a>استكشاف الأخطاء وإصلاحها في Office 365 ATP
 
-- **هل لاحظت تأخيرات في تسليم رسالة البريد الإلكتروني؟** حاول استخدام خيار التسليم الديناميكي لنُهج المرفقات الآمنة ATP. سيؤدي ذلك إلى تجنب تأخير تسليم رسائل البريد الإلكتروني مع حماية المستلمين من الملفات الضارة.
-- **هل تريد الإبلاغ عن إيجابيات كاذبة أو سلبيات كاذبة؟** استخدم هذا الرابط لإرسال الملف للتحليل:[https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
-- **هل تعلم أنه يمكنك تمكين حماية ATP Safe Links للبريد الإلكتروني المرسل بين الأشخاص في مؤسستك؟** اتبع الخطوات التالية:
-    1. انتقل إلى https://protection.office.com ، وتسجيل الدخول.
-    2. انتقل إلى روابط آمنة لسياسة **إدارة**  >  **Policy**  >  **Safe Links**التهديدات.
-    3. ضمن **السياسات التي تنطبق على مستلمين محددين،** قم بتحرير (أو إضافة) نهج.
-    4. حدد **تطبيق ارتباطات آمنة على الرسائل المرسلة داخل المؤسسة**.
-    5. احفظ سياستك، واسمح لحوالي 30 دقيقة للتغييرات الخاصة بك بالعمل في طريقها من خلال مركز البيانات الخاص بك.
-- للحصول على مزيد من المساعدة في ATP، راجع [Office 365 الحماية المتقدمة من التهديدات.](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)
+- هل **تلاحظ التاخيرات مع تسليم رسائل البريد الكتروني**؟ جرب استخدام خيار التسليم الديناميكي لنهج المرفقات الامنه ل ATP. سيؤدي ذلك إلى تجنب حدوث تاخيرات تسليم رسائل البريد الكتروني اثناء حماية المستلمين من الملفات الضارة.
+- **هل تريد الإبلاغ عن خطا بوسيتيفيس أو خطا في النيجاتيف**؟ استخدم هذا الارتباط لإرسال الملف لتحليل: [https://microsoft.com/wdsi/filesubmission](https://microsoft.com/wdsi/filesubmission)
+- **هل تعلم انه يمكنك تمكين حماية الارتباطات الامنه ل ATP للبريد الكتروني المرسل بين الأشخاص في مؤسستك**؟ اتبع الخطوات التالية:
+    1. انتقل إلى https://protection.office.com ، وسجل الدخول.
+    2. انتقل إلى **Threat management**  >  **Policy**  >  **الارتباطات الامنه**لنهج أداره المخاطر.
+    3. ضمن **النهج التي تنطبق علي مستلمين محددين**أو تحرير (أو أضافه) نهج.
+    4. حدد **تطبيق الارتباطات الامنه علي الرسائل المرسلة داخل المؤسسة**.
+    5. يمكنك حفظ النهج ، والسماح لمده 30 دقيقه لتغييراتك في العمل من خلال مركز بياناتك.
+- للحصول علي مزيد من المساعدة في استخدام ATP ، راجع [الحماية المتقدمة من المخاطر في Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp).
