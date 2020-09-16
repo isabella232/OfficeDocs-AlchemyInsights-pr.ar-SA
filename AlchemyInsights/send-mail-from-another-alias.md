@@ -6,6 +6,7 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,17 +14,17 @@ ms.custom:
 - "703"
 - "1"
 ms.assetid: aa1bcbea-c09e-40f1-81ad-e86ad567ae16
-ms.openlocfilehash: 17dfcdb03e875c05116a3553e3160947a5957938
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 045dd451adcb66f84a1aa3f20b7c0b6550e8f2ff
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505258"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47720741"
 ---
-# <a name="send-email-from-an-alias-or-secondary-address"></a><span data-ttu-id="99867-102">إرسال بريد إلكتروني من اسم مستعار أو عنوان ثانوي</span><span class="sxs-lookup"><span data-stu-id="99867-102">Send email from an alias or secondary address</span></span>
+# <a name="send-email-from-an-alias-or-secondary-address"></a><span data-ttu-id="b7fa9-102">إرسال بريد الكتروني من اسم مستعار أو عنوان ثانوي</span><span class="sxs-lookup"><span data-stu-id="b7fa9-102">Send email from an alias or secondary address</span></span>
 
-<span data-ttu-id="99867-103">لا يدعم Microsoft 365 حاليًا إرسال بريد إلكتروني من اسم مستعار أو عنوان بريد إلكتروني ثانوي.</span><span class="sxs-lookup"><span data-stu-id="99867-103">Microsoft 365 does not currently support sending email from an alias or secondary email address.</span></span> <span data-ttu-id="99867-104">يمكن استخدام أسماء مستعارة للبريد الإلكتروني لتلقي رسائل البريد الإلكتروني فقط.</span><span class="sxs-lookup"><span data-stu-id="99867-104">Email aliases can be used to receive emails only.</span></span> <span data-ttu-id="99867-105">إذا كنت ترغب في إرسال بريد إلكتروني من عنوان بريد إلكتروني آخر، فستحتاج إلى إنشاء صندوق بريد مشترك.</span><span class="sxs-lookup"><span data-stu-id="99867-105">If you want to send email from another email address, you need to create a shared mailbox.</span></span> <span data-ttu-id="99867-106">سوف تمنحك علبة البريد المشتركة عنوان بريد إلكتروني آخر، دون الحاجة إلى ترخيص آخر.</span><span class="sxs-lookup"><span data-stu-id="99867-106">The shared mailbox will give you another email address, without requiring another license.</span></span>
+<span data-ttu-id="b7fa9-103">لا يدعم Microsoft 365 حاليا إرسال البريد الكتروني من اسم مستعار أو عنوان بريد الكتروني ثانوي.</span><span class="sxs-lookup"><span data-stu-id="b7fa9-103">Microsoft 365 does not currently support sending email from an alias or secondary email address.</span></span> <span data-ttu-id="b7fa9-104">يمكن استخدام الأسماء المستعارة للبريد الكتروني لتلقي رسائل البريد الكتروني فقط.</span><span class="sxs-lookup"><span data-stu-id="b7fa9-104">Email aliases can be used to receive emails only.</span></span> <span data-ttu-id="b7fa9-105">إذا كنت تريد إرسال رسالة بريد الكتروني من عنوان بريد الكتروني آخر ، ستحتاج إلى إنشاء علبه بريد مشتركه.</span><span class="sxs-lookup"><span data-stu-id="b7fa9-105">If you want to send email from another email address, you need to create a shared mailbox.</span></span> <span data-ttu-id="b7fa9-106">ستزودك علبه البريد المشتركة بعنوان بريد الكتروني آخر ، بدون الحاجة إلى ترخيص آخر.</span><span class="sxs-lookup"><span data-stu-id="b7fa9-106">The shared mailbox will give you another email address, without requiring another license.</span></span>
   
-- [<span data-ttu-id="99867-107">الانتقال إلى هنا لإنشاء صندوق بريد مشترك</span><span class="sxs-lookup"><span data-stu-id="99867-107">Go here to create a shared mailbox</span></span>](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
+- [<span data-ttu-id="b7fa9-107">انتقل إلى هنا لإنشاء علبه بريد مشتركه</span><span class="sxs-lookup"><span data-stu-id="b7fa9-107">Go here to create a shared mailbox</span></span>](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
 
-<span data-ttu-id="99867-108">يمكنك [أيضًا](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) قراءة مقالة إنشاء علبة بريد مشتركة والتي ستخبرك بكل ما تحتاج إلى معرفته حول صناديق البريد المشتركة، بما في ذلك كيفية استخدامها.</span><span class="sxs-lookup"><span data-stu-id="99867-108">You can also read the [Create a shared mailbox](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) article which will tell you everything you need to know about shared mailboxes, including how to use them.</span></span>
+<span data-ttu-id="b7fa9-108">يمكنك أيضا قراءه المقالة [إنشاء علبه بريد مشتركه](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) ستخبرك بكل ما تحتاج إلى معرفته حول علب البريد المشتركة ، بما في ذلك كيفيه استخدامها.</span><span class="sxs-lookup"><span data-stu-id="b7fa9-108">You can also read the [Create a shared mailbox](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) article which will tell you everything you need to know about shared mailboxes, including how to use them.</span></span>
