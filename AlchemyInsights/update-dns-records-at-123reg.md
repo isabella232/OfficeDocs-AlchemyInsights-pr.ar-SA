@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "100001"
 - "5812"
-ms.openlocfilehash: bc62bdbe83844fca700a5e7b20a2367cb244e45e
-ms.sourcegitcommit: 122ac3670a59b056ab2ea82165ec55e7b19c747b
+ms.openlocfilehash: 4afb11bb77436c1a3e39972b63573995f3d88e01
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/08/2020
-ms.locfileid: "44650301"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47657776"
 ---
 # <a name="update-dns-records-at-123-reg"></a>تحديث سجلات DNS في 123-reg
 
-استخدم الروابط أدناه للمساعدة في تحديث سجلات DNS
+استخدام الارتباطات أدناه للمساعدة علي تحديث سجلات DNS
 
 - [إنشاء سجلات DNS في 123-reg.co.uk](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-123-reg-co-uk?view=o365-worldwide)
-- [إضافة سجلات DNS مخصصة أو تحريرها في Office 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain#add-or-edit-custom-dns-records)
+- [أضافه سجلات DNS المخصصة أو تحريرها في Office 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain#add-or-edit-custom-dns-records)
