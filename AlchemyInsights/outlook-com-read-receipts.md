@@ -1,11 +1,12 @@
 ---
-title: قراءة الإيصالات في Outlook.com
+title: قراءه الإيصالات في Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8cae0e22-0dfc-4575-9f62-041aacbd9da9
@@ -14,15 +15,15 @@ ms.custom:
 - "1396"
 - "1397"
 - "8000034"
-ms.openlocfilehash: e9636af661230dd77066d04660c39ef40f4b9126
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 8b610fad6789b57320c3d18d557f1d9e3b9ad65e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43744208"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47723738"
 ---
-# <a name="read-receipts"></a><span data-ttu-id="2b0d7-102">قراءة الإيصالات</span><span class="sxs-lookup"><span data-stu-id="2b0d7-102">Read receipts</span></span>
+# <a name="read-receipts"></a><span data-ttu-id="1ad6a-102">إيصالات القراءة</span><span class="sxs-lookup"><span data-stu-id="1ad6a-102">Read receipts</span></span>
 
-<span data-ttu-id="2b0d7-103">لا يمكنك طلب إيصال قراءة في Outlook.com، ولكن يمكنك طلب إيصالات القراءة للرسائل Outlook.com المرسلة باستخدام Outlook for Windows.</span><span class="sxs-lookup"><span data-stu-id="2b0d7-103">You can't request a read receipt in Outlook.com, but you can request read receipts for Outlook.com messages sent using Outlook for Windows.</span></span> <span data-ttu-id="2b0d7-104">لمعرفة كيفية ذلك، راجع إضافة إيصالات [القراءة وإشعارات التسليم وطلبها.](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy)</span><span class="sxs-lookup"><span data-stu-id="2b0d7-104">To learn how, see [Add and request read receipts and delivery notifications](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
+<span data-ttu-id="1ad6a-103">لا يمكنك طلب إيصال بالقراءة في Outlook.com ، ولكن يمكنك طلب إيصالات بالقراءة لرسائل Outlook.com المرسلة باستخدام Outlook for Windows.</span><span class="sxs-lookup"><span data-stu-id="1ad6a-103">You can't request a read receipt in Outlook.com, but you can request read receipts for Outlook.com messages sent using Outlook for Windows.</span></span> <span data-ttu-id="1ad6a-104">لمعرفه كيفيه اجراء ذلك ، راجع [أضافه إيصالات بالقراءة والتسليم وطلبها](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy).</span><span class="sxs-lookup"><span data-stu-id="1ad6a-104">To learn how, see [Add and request read receipts and delivery notifications](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy).</span></span>
   
-<span data-ttu-id="2b0d7-105">لاختيار كيفية استجابة Outlook.com لطلبات استلام القراءة، انتقل إلى [قراءة إعدادات الاستلام](https://outlook.live.com/mail/options/mail/handling/readReceipts).</span><span class="sxs-lookup"><span data-stu-id="2b0d7-105">To choose how Outlook.com responds to read receipt requests, go to [Read receipt settings](https://outlook.live.com/mail/options/mail/handling/readReceipts).</span></span>
+<span data-ttu-id="1ad6a-105">لاختيار كيفيه استجابه Outlook.com لطلبات إيصالات القراءة ، انتقل إلى [إعدادات إيصالات القراءة](https://outlook.live.com/mail/options/mail/handling/readReceipts).</span><span class="sxs-lookup"><span data-stu-id="1ad6a-105">To choose how Outlook.com responds to read receipt requests, go to [Read receipt settings](https://outlook.live.com/mail/options/mail/handling/readReceipts).</span></span>
