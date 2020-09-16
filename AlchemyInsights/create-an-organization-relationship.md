@@ -1,50 +1,51 @@
 ---
-title: إنشاء علاقة مؤسسة للسماح للمستخدمين بالتعاون مع مؤسسة أخرى
+title: إنشاء علاقة مؤسسه للسماح للمستخدمين بالتعاون مع مؤسسه أخرى
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: 2c6cd6a178c6e012bfe1c8d769b037168ffa3254
-ms.sourcegitcommit: 722e9a0ed058cb1eab2dd053be2418b60f7d4aac
+ms.openlocfilehash: a7ec7b4a8020cfe9a24d1f18af89b02400e6d45e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44862026"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47712720"
 ---
-# <a name="create-an-organization-relationship-to-allow-your-users-to-collaborate-with-another-organization"></a>إنشاء علاقة مؤسسة للسماح للمستخدمين بالتعاون مع مؤسسة أخرى
+# <a name="create-an-organization-relationship-to-allow-your-users-to-collaborate-with-another-organization"></a>إنشاء علاقة مؤسسه للسماح للمستخدمين بالتعاون مع مؤسسه أخرى
 
-1. من لوحة معلومات مركز إدارة Microsoft 365، انتقل إلى **تبادل المسؤول**  >  **Exchange**.
-2. الانتقال إلى مشاركة **المؤسسة**  >  **sharing**.
-3. ضمن **مشاركة المؤسسة**، انقر فوق **جديد** .
-4. في **علاقة المؤسسة الجديدة**، في المربع اسم **العلاقة،** اكتب اسمًا مألوفًا لعلاقة المؤسسة.
-5. في المربع **المجالات للمشاركة مع،** اكتب المجال للمؤسسة الداخلية الخارجية Office 365 أو Exchange التي تريد السماح برؤية التقويمات الخاصة بك. إذا كنت بحاجة إلى إدخال أكثر من مجال واحد، قم بفصل أسماء النطاقات بفاصلة. على سبيل المثال، contoso.com، service.contoso.com.
-6. حدد خانة الاختيار **تمكين مشاركة معلومات متوفر/مشغول للتقويم** لتشغيل مشاركة التقويم مع المجالات التي قمت بإدراجها. تعيين مستوى المشاركة للحصول على معلومات متوفر/مشغول التقويم وتعيين المستخدمين التي يمكن مشاركة معلومات متوفر/مشغول التقويم.  
+1. من لوحه معلومات مركز أداره Microsoft 365 ، انتقل **Admin**إلى  >  **Exchange**admin.
+2. انتقل إلى **مشاركه المؤسسة**  >  **sharing**.
+3. ضمن **مشاركه المؤسسة**، انقر فوق **جديد** .
+4. في **علاقة مؤسسه جديده**، في المربع **اسم العلاقة** ، اكتب اسما مالوفا لعلاقة المؤسسة.
+5. في المربع **المجالات المراد مشاركتها مع** ، اكتب المجال لمؤسسه Office 365 أو Exchange المحلية التي تريد الاطلاع علي التقويمات الخاصة بك. إذا كنت بحاجه إلى إدخال أكثر من مجال واحد ، فقم بفصل أسماء المجالات باستخدام فاصله. علي سبيل المثال ، contoso.com و service.contoso.com.
+6. حدد خانه الاختيار **تمكين مشاركه معلومات التوفر/الانشغال في التقويم** لتشغيل مشاركه التقويم مع المجالات التي قمت بادراجها. تعيين مستوي المشاركة لمعلومات التوفر/الانشغال علي التقويم وتعيين المستخدمين الذين يمكنهم مشاركه معلومات التوفر/الانشغال الخاصة بالتقويم.  
 
-لتعيين مستوى الوصول متوفر/مشغول، حدد أحد ما يلي:
+لتعيين مستوي وصول التوفر/الانشغال ، حدد أحد الخيارات التالية:
 
-- **معلومات متوفر/مشغول التقويم مع الوقت فقط**
+- **معلومات التوفر/الانشغال في التقويم مع الوقت فقط**
 - **التقويم متوفر/مشغول مع الوقت والموضوع والموقع**  
 
- لتعيين المستخدمين الذين سوف مشاركة معلومات متوفر/مشغول التقويم، حدد أحد ما يلي:
+ لتعيين المستخدمين الذين سيشاركون معلومات التوفر/الانشغال الخاصة بالتقويم ، حدد أحد الخيارات التالية:
 
-- **كل شخص في مؤسستك**
-- **مجموعة أمان محددة**  
+- **الجميع في مؤسستك**
+- **مجموعه أمان محدده**  
 
-انقر **فوق استعراض** لاختيار مجموعة الأمان من قائمة، ثم انقر فوق **موافق**.
+انقر فوق **استعراض** لاختيار مجموعه الأمان من القائمة ، ثم انقر فوق **موافق**.
 
-انقر **فوق حفظ** لإنشاء علاقة المؤسسة.  
+انقر فوق **حفظ** لإنشاء علاقة المؤسسة.  
 
-**ملاحظة:** تكوينات المستأجرين لا تدعم جهات الاتصال الشخصية للبحث عن التوفر/الانشغال. يجب تضمين جهات الاتصال في قائمة العناوين العمومية للبحث عن التوفر/الانشغال للعمل.
+**ملاحظه:** لا تعتمد التكوينات عبر المستاجر جات الاتصال الشخصية للبحث عن التوفر/الانشغال. يجب تضمين جات الاتصال في قائمه العناوين العمومية للبحث عن التوفر/الانشغال للعمل.
 
-**لفهم هذا الموضوع بشكل كامل يرجى قراءة:**
+**للحصول علي الفهم الكامل لهذا الموضوع يرجى القراءة:**
 
-- [إنشاء علاقة مؤسسة في Exchange عبر الإنترنت](https://docs.microsoft.com/exchange/sharing/organization-relationships/create-an-organization-relationship)
-- [تعديل علاقة مؤسسة في Exchange عبر الإنترنت](https://docs.microsoft.com/exchange/sharing/organization-relationships/modify-an-organization-relationship)
-- [إزالة علاقة مؤسسة في Exchange عبر الإنترنت](https://docs.microsoft.com/exchange/sharing/organization-relationships/remove-an-organization-relationship)
+- [إنشاء علاقة مؤسسه في Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/create-an-organization-relationship)
+- [تعديل علاقة مؤسسه في Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/modify-an-organization-relationship)
+- [أزاله علاقة مؤسسه في Exchange Online](https://docs.microsoft.com/exchange/sharing/organization-relationships/remove-an-organization-relationship)

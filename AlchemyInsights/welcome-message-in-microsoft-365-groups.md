@@ -5,24 +5,25 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "5685"
-ms.openlocfilehash: d82931ae6978a09e674b00640d1dd413bcce7cfd
-ms.sourcegitcommit: b196100759b29aecd62b693a2bfedbbd25a697c6
+ms.openlocfilehash: de16ca6021441bf6cb781106b7f3da8eed86b0f1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/19/2020
-ms.locfileid: "44357255"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47725826"
 ---
 # <a name="welcome-message-in-microsoft-365-groups"></a>رسالة ترحيب في مجموعات Microsoft 365
 
-سيتلقى المستخدمون الجدد الذين ينضمون إلى مجموعة Microsoft 365 بريدًا إلكترونيًا مرحبًا به إذا كانت خاصية "UnifiedGroupWelcomeMessageEnabled" صحيحة.
+سيتلقى المستخدمون الجدد مجموعه Microsoft 365 رسالة بريد الكتروني ترحيبيه إذا كانت الخاصية "أونيفيدجروبويلكوميميساجينابليد" صحيحه.
 
-في حال كنت ترغب في تعطيل رسالة الترحيب، استخدم الأمر [التالي EXO PowerShell:](https://docs.microsoft.com/powershell/exchange/exchange-online/exchange-online-powershell-v2/exchange-online-powershell-v2?view=exchange-ps)
+في حاله رغبتك في تعطيل رسالة الترحيب ، استخدم الأمر التالي [أكسو PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/exchange-online-powershell-v2/exchange-online-powershell-v2?view=exchange-ps) :
 
 `
 Set-UnifiedGroup <groupname> -UnifiedGroupWelcomeMessageEnabled:$False

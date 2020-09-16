@@ -5,23 +5,24 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002316"
 - "4498"
-ms.openlocfilehash: 51128c9787a445895398c2ce9b56d87a8a81c51d
-ms.sourcegitcommit: 1beed1afb13dd512249db1ea918b1ddb00b0c1ed
+ms.openlocfilehash: 732cc3f098edf13bdac12fa66927ec19ac5c49c9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/15/2020
-ms.locfileid: "44267636"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47710398"
 ---
 # <a name="editing-onenote-notebooks-in-teams"></a>تحرير دفاتر ملاحظات OneNote في الفرق
 
-**هام:** قد ترى الرسالة "نحن نواجه قيودًا مع OneNote في Microsoft Teams. الرجاء استخدام OneNote للويب لتحرير دفتر الملاحظات هذا."  
+**هام**: قد تظهر الرسالة "نواجه قيودا في استخدام OneNote في فرق Microsoft. يرجى استخدام OneNote للويب لتحرير دفتر الملاحظات هذا. "  
 
-راجع [معرف مركز الرسائل: 207439](https://admin.microsoft.com/Adminportal/Home?source=applauncher#MessageCenter?id=MC207439) لمزيد من المعلومات.
+ارجع إلى [معرف مركز الرسائل: 207439](https://admin.microsoft.com/Adminportal/Home?source=applauncher#MessageCenter?id=MC207439) للحصول علي مزيد من المعلومات.
 
 سيتوفر OneNote في Teams على وضع القراءة فقط للمستأجرين التجاريين ومستأجرين قطاع التعليم. للتحرير، الرجاء استخدام OneNote على الويب أو تطبيق سطح المكتب لـ OneNote.

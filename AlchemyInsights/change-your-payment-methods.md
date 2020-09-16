@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1500001"
 - "4858"
-ms.openlocfilehash: bf5a5ac4f9eb5768f986d959b00bdf9767468c6b
-ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.openlocfilehash: d4bc9fde2821a4f0d70d65617bae3998fd4c8a6b
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44417411"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47714387"
 ---
 # <a name="add-update-or-remove-your-payment-methods"></a>إضافة طرق دفع أو تحديثها أو إزالتها
 
@@ -24,10 +25,10 @@ ms.locfileid: "44417411"
 
 - [إضافة طريقة دفع](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#add-a-payment-method).
 
-- [تحديث تفاصيل طريقة الدفع](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#update-payment-method-details)
+- [تحديث تفاصيل طريقه الدفع](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#update-payment-method-details)
 
-- [استبدال طريقة الدفع](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#replace-a-payment-method)
+- [استبدال طريقه دفع](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#replace-a-payment-method)
 
-- [حذف طريقة دفع](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#delete-a-payment-method)
+- [حذف طريقه دفع](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#delete-a-payment-method)
 
 - [استكشاف أخطاء طرق الدفع وإصلاحها](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#troubleshoot-payment-methods)

@@ -1,26 +1,27 @@
 ---
-title: مستخدم واحد لا يرى الوظائف الإضافية في Outlook
+title: مستخدم واحد لا يري الوظائف الاضافيه في Outlook
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
-ms.openlocfilehash: 1f547c3f593b3256bd44f518aacbc36ed1c4c848
-ms.sourcegitcommit: a05276bd623466ad211e1f8d9f0c616672dd3640
+ms.openlocfilehash: 8c99b443a2d83f3ac24362d63cd6363a66a81393
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45197705"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47719652"
 ---
-# <a name="single-user-not-seeing-add-ins-in-outlook"></a>مستخدم واحد لا يرى الوظائف الإضافية في Outlook
+# <a name="single-user-not-seeing-add-ins-in-outlook"></a>مستخدم واحد لا يري الوظائف الاضافيه في Outlook
 
-قد يكون المستخدم جزءاً من دور لا يحتوي على المعلمة AppsForOfficeEnabled الصحيحة. تشغيل هذا cmdlet لمعرفة ما إذا كان الدور الصحيح مقترن مع المستخدم:
+قد يكون المستخدم جزءا من دور لا يحتوي علي معلمه أبسفوروفيسينابليد الصحيحة. قم بتشغيل أمر cmdlet هذا لمعرفه ما إذا كان الدور الصحيح مقترنا بالمستخدم:
 
-الحصول على إدارةRoleAssignment -RoleAssignee user@domain.com -تفويض $false | تنسيق-جدول -دور السيارات،RoleAssigneeName،RoleAssigneeType
+ماناجيمينتروليسيجنمينت-روليسيجني user@domain.com-تفويض $false | تنسيق-الجدول-الدور التلقائي ، روليسيجنينامي ، روليسيجنيتيبي
 
-لمزيد من المعلومات، راجع [تحديد المسؤولين والمستخدمين الذين يمكنهم تثبيت الوظائف الإضافية لـ Outlook وإدارتها](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins).
+للحصول علي مزيد من المعلومات ، راجع [تحديد المسؤولين والمستخدمين الذين يمكنهم تثبيت الوظائف الاضافيه وأدارتها ل Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins).

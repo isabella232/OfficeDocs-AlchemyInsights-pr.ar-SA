@@ -1,24 +1,25 @@
 ---
-title: اعلان
+title: إعلان
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/23/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5152"
 - "9002660"
-ms.openlocfilehash: de64c897f9518d20ef9ac09b2ae1e0e784b92673
-ms.sourcegitcommit: 3fa780811984400c525d66edf46a3196f6290df0
+ms.openlocfilehash: 734aa1628b866d6fe34bfdfa63dd4de36976d2c4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "45423274"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47717816"
 ---
-# <a name="announcement"></a>اعلان
+# <a name="announcement"></a>إعلان
 
-ابق على اتصال وابق منتجًا مع Teams و Microsoft 365، حتى عندما تعمل عن بعد. لمعرفة المزيد، راجع [العمل عن بعد مع Microsoft 365](https://aka.ms/remote-work).
+ابق علي اتصال مع الفرق والبقاء علي اطلاع علي الانتاجيه والعمل باستخدام Microsoft 365 ، حتى وان كنت تعمل عن بعد. لمعرفه المزيد ، راجع [العمل عن بعد باستخدام Microsoft 365](https://aka.ms/remote-work).

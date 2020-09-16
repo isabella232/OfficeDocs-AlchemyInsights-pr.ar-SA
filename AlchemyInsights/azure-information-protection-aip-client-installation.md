@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5027"
-ms.openlocfilehash: 45b4e7d420ed7a69d5be8e86852292b00a5f2ef2
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 230f857bd35f4cf381fc71de04231834fb8d0ee6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44204296"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47714891"
 ---
 # <a name="azure-information-protection-aip-client-installation"></a>حماية البيانات في Azure: تثبيت عميل AIP
 
@@ -35,6 +36,6 @@ ms.locfileid: "44204296"
 
 لمزيد من المعلومات:
 
-- مراجعة [وثائق حماية المعلومات Azure (AIP)](https://docs.microsoft.com/azure/information-protection/what-is-information-protection) [ومتطلبات](https://docs.microsoft.com/azure/information-protection/get-started/requirements) الإعداد والموقع لتنزيل [عميل AIP](https://www.microsoft.com/download/details.aspx?id=53018).
+- راجع [وثائق حماية معلومات Azure (AIP)](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)، [ومتطلبات](https://docs.microsoft.com/azure/information-protection/get-started/requirements) الاعداد والموقع [لتنزيل عميل ip](https://www.microsoft.com/download/details.aspx?id=53018).
 
-- للحصول على معلومات اشتراك Azure، راجع [اشتراكات وميزات حماية المعلومات Azure](https://azure.microsoft.com/pricing/details/information-protection).
+- بالنسبة إلى معلومات اشتراك Azure ، راجع [اشتراكات وميزات حماية البيانات في azure](https://azure.microsoft.com/pricing/details/information-protection).

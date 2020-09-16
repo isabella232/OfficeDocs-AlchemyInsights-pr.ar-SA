@@ -1,10 +1,11 @@
 ---
-title: توصيل موقع SharePoint بمجموعة
+title: توصيل موقع SharePoint بمجموعه
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -13,21 +14,21 @@ ms.custom:
 - "5747"
 - "5200004"
 - "5767"
-ms.openlocfilehash: 1c724a131d42aa2e217b7018ed6b414cb3440a99
-ms.sourcegitcommit: dc149ab45fbc2c974b54fb81156d2bc1b07017bb
+ms.openlocfilehash: f2276ad3dcdc0426bbd255b7d07f2b9a74927bec
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44515616"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47713297"
 ---
-# <a name="connect-a-sharepoint-site-to-a-group"></a>توصيل موقع SharePoint بمجموعة
+# <a name="connect-a-sharepoint-site-to-a-group"></a>توصيل موقع SharePoint بمجموعه
 
-استخدم معالج اتصال المجموعة لتوصيل موقع SharePoint بمجموعة Microsoft 365.
+استخدم معالج اتصال المجموعة لتوصيل موقع SharePoint بمجموعه Microsoft 365.
 
-1. من الموقع الذي ترغب في الاتصال به مجموعة، حدد **الإعدادات (رمز الترس).**
-2. حدد **الاتصال بمجموعة Microsoft 365 الجديدة**.
+1. من الموقع الذي تريد الاتصال به ، حدد  **إعدادات (أيقونه الترس)**.
+2. حدد  **الاتصال بمجموعه Microsoft 365 الجديدة**.
 3. اتبع المعالج لإكمال الاتصال.
 
-**ملاحظة:**  إذا لم يتوفر الاتصال بمجموعة Microsoft 365 الجديدة، فلن يدعم الموقع اتصال ًا جماعيًا.
+**ملاحظه:**  إذا لم يكن الاتصال بمجموعه Microsoft 365 الجديدة متوفرا ، فلن يدعم الموقع اتصال المجموعة.
 
-لمزيد من المعلومات، راجع [الاتصال بمجموعة Office 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
+لمزيد من المعلومات ، راجع  [الاتصال بمجموعه Office 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).

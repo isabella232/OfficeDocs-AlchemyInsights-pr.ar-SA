@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000722"
 - "4812"
-ms.openlocfilehash: f3e8fc56e0eaf47e946ecf039aa49467689fd8e0
-ms.sourcegitcommit: 6010e6b55f6d3057f9038979cda3987df12aae93
-ms.translationtype: HT
+ms.openlocfilehash: 4979375f098f65c703bad813feebcb5df6bd59ad
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/11/2020
-ms.locfileid: "43231515"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47713586"
 ---
 # <a name="compliance-common-issues-and-resolutions"></a>مشاكل التوافق الشائعة وحلولها
 
@@ -31,5 +32,7 @@ ms.locfileid: "43231515"
 - التدقيق في O365: [البحث في سجل التدقيق في O365](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance?view=o365-worldwide).
 
 - تفادي فقدان البيانات (DLP): راجع [نظرة عامة حول تفادي فقدان البيانات (DLP)](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies?view=o365-worldwide) للحصول على مزيد من المعلومات.
+ 
+- تسميات الحساسية: لمعرفه المزيد ، راجع [إنشاء تسميات الحساسية ونهجها وتكوينها](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels).
 
 **ملاحظة**: للحصول على إجابة أكثر تحديداً حول مشكلة التوافق، حاول إعادة صياغة سؤالك بشكل مختصر والمتعلق بالأخطاء التي تواجهها أو الميزات التي تستخدمها.

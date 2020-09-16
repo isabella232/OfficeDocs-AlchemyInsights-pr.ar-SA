@@ -1,28 +1,29 @@
 ---
-title: إجابات على المشكلات الشائعة مع Skype for Business for Mobile
+title: الاجابه علي المشاكل الشائعة في Skype for Business للاجهزه المحمولة
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/30/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5985"
 - "9003195"
-ms.openlocfilehash: 2e3a44bffef4da79d42bbf91c80134d6cc5a8dba
-ms.sourcegitcommit: b9c57ee50d59189784dc57d70a235fe15a9ee6c7
+ms.openlocfilehash: e7e95cb26c847693982f376e6282bae5155f6c7d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "46554738"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47717744"
 ---
-# <a name="answers-to-common-issues-with-skype-for-business-for-mobile"></a>إجابات على المشكلات الشائعة مع Skype for Business for Mobile
+# <a name="answers-to-common-issues-with-skype-for-business-for-mobile"></a>الاجابه علي المشاكل الشائعة في Skype for Business للاجهزه المحمولة
 
-هل تواجه مشكلات في تطبيق Skype for Business على جهاز محمول؟
+هل تواجه مشاكل في تطبيق Skype for Business علي جهاز محمول ؟
 
-- قد لا تتوفر بعض الميزات، مثل وظيفة مجموعة الاستجابة وجهات اتصال العلامات لتنبيهات تغيير الحالة، أو لا يتم دعمها على النظام الأساسي للجوال. تحقق من أن الوظيفة التي تواجهك مشاكل فيها معتمدة هناك. للاطلاع على توفر ميزة الأجهزة المحمولة، راجع [مقارنة ميزات عميل الجوال لـ Skype for Business](https://technet.microsoft.com/library/Dn951412.aspx).
-- إذا كنت تواجه مشكلة تسجيل الدخول على تطبيق Skype لـ Business Mobile، فتأكد من أن طبولوجيا المصادقة لديك مدعومة. للحصول على معلومات مفصلة حول الأسلوب المعتمد، راجع [Skype for Business طبولوجيا معتمدة مع المصادقة الحديثة](https://docs.microsoft.com/skypeforbusiness/plan-your-deployment/modern-authentication/topologies-supported).  
-- إذا لم تجب هذه المعلومات على أسئلتك، افتح تذكرة دعم. جمع أكبر قدر ممكن من المعلومات قبل فتح التذكرة. على سبيل المثال، جمع كافة السجلات والأخطاء الرسائل. لجمع سجلات على جهازك المحمول، انتقل إلى  **إعدادات التطبيق SfB** >   **Settings**  >   **تسجيل**  >   **سجلات إرسال**. يجب أن يتضمن السجل قدر التفاصيل قدر الإمكان من تسجيل الدخول إلى نقطة الفشل.
+- قد لا تتوفر بعض الميزات ، مثل وظائف مجموعه الاستجابة والعلامات لتنبيات تغيير الحالة ، أو المعتمدة علي النظام الأساسي للاجهزه المحمولة. تاكد من ان الوظائف التي تواجه مشكله فيها معتمده هناك. للحصول علي توفر ميزه الاجهزه المحمولة ، راجع [مقارنه ميزات عميل الجوال ل Skype For business](https://technet.microsoft.com/library/Dn951412.aspx).
+- إذا كنت تواجه مشكله في تسجيل الدخول علي تطبيق Skype for Business للاجهزه المحمولة ، فتاكد من ان طبولوجيا المصادقة الخاصة بك معتمده. للحصول علي معلومات مفصله حول الأسلوب المعتمد ، راجع [طبولوجيا Skype For business المعتمدة بواسطة المصادقة الحديثة](https://docs.microsoft.com/skypeforbusiness/plan-your-deployment/modern-authentication/topologies-supported).  
+- إذا لم ترد هذه المعلومات علي أسئلتك ، فافتح تذكره دعم. جمع أكبر قدر ممكن من المعلومات قبل فتح البطاقة. علي سبيل المثال ، قم بتجميع كل السجلات ورسائل الأخطاء. لجمع سجلات علي جهازك المحمول ،  **SfB App**انتقل إلى >   **إعدادات**  >   **التسجيل**  >   **Send logs**في سفب يجب ان يتضمن السجل المزيد من التفاصيل قدر الإمكان من تسجيل الدخول إلى نقطه الفشل.

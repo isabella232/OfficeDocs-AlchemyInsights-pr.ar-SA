@@ -1,27 +1,28 @@
 ---
-title: إيقاف التحديثات المجدولة مؤقتاً
+title: إيقاف مؤقت للتحديثات المجدولة
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/30/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1129"
 - "6700007"
-ms.openlocfilehash: 9dc0f387cf63557e2a1f81ca8f3c3ca9998170ca
-ms.sourcegitcommit: d1c51266e2890f61662f77dceea2ad0c88210015
+ms.openlocfilehash: 13abc7c9201b1897a9c766add4d105ef12f0d66f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "46554746"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47721542"
 ---
-# <a name="pausing-scheduled-updates"></a>إيقاف التحديثات المجدولة مؤقتاً
+# <a name="pausing-scheduled-updates"></a>إيقاف مؤقت للتحديثات المجدولة
 
-عند إصدار أمر إيقاف مؤقت، لا تقوم الأجهزة بمعالجة الأمر حتى يتم إيداعه في Intune في المرة التالية. وبسبب هذا، قد تحتوي أجهزتك على:
+عند إصدار الأمر pause ، لا تعالج الاجهزه الأمر حتى المرة التالية التي يقومون فيها بالإيداع في Intune. بسبب هذا ، قد يكون لديك الاجهزه:
 
-- تثبيت التحديثات المجدولة قبل إيداع.
-- تم إيقاف التشغيل عند إصدار أمر الإيقاف المؤقت. في هذه الحالة، عندما تم تشغيل الأجهزة، قد يكون قد قام بتنزيل التحديثات المجدولة وتثبيتها قبل إيداعها.
+- تثبيت التحديثات المجدولة قبل الإيداع.
+- تم إيقاف تشغيله عند إصدار الأمر pause. في هذه الحالة ، عندما تكون الاجهزه مشغله ، قد قمت بتنزيل التحديثات المجدولة وتثبيتها قبل الإيداع.

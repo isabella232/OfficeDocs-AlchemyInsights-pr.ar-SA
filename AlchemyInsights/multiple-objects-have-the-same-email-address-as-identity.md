@@ -1,48 +1,49 @@
 ---
-title: تحتوي الكائنات المتعددة على نفس عنوان البريد الإلكتروني كـ الهوية
+title: تحتوي العناصر المتعددة علي عنوان البريد الكتروني نفسه كهوية
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/27/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1834"
 - "9000247"
-ms.openlocfilehash: cc932aa7ecbd1e338c409a7a6525e2c4e673b232
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: 05fb43133bc68b71ccdbab44d28679a1f659e762
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45438673"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47724602"
 ---
-# <a name="multiple-objects-have-the-same-email-address-as-identity"></a>تحتوي الكائنات المتعددة على نفس عنوان البريد الإلكتروني كـ الهوية
+# <a name="multiple-objects-have-the-same-email-address-as-identity"></a>تحتوي العناصر المتعددة علي عنوان البريد الكتروني نفسه كهوية
 
 **كائنات متعددة**
 
-أحد الأسباب الشائعة لهذا الخطأ هو عدم القدرة على توجيه طلب Outlook Web Access بشكل صحيح في وجود كائنات متعددة لها نفس عنوان البريد الإلكتروني كهوية. للبحث عن هذه الكائنات، قم بتشغيل الأوامر التالية:
+لا يمكن لأحد الأسباب الشائعة لهذا الخطا توجيه طلب Outlook Web Access بشكل صحيح في حاله وجود عده كائنات تحتوي علي عنوان البريد الكتروني نفسه كهوية. للعثور علي هذه العناصر ، قم بتشغيل الأوامر التالية:
 
-· الحصول على مستلم<email address>
+· الحصول علي المستلم <email address>
 
-· الحصول على المستخدم<email address>
+· الحصول علي المستخدم <email address>
 
-· الحصول على المستخدم <email address> -SoftDeletedUser
+· الحصول علي المستخدم <email address> -سوفتديليتيدوسير
 
-· الحصول على الاتصال<email address>
+· الحصول علي جهة اتصال <email address>
 
-· الحصول على علبة البريد <email address> -PublicFolder
+· الحصول علي علبه بريد <email address> -بوبليكفولدير
 
-· الحصول على علبة البريد <email address> -IncludeSoftDeletedميلبوك
+· الحصول علي علبه بريد <email address> -إينكلوديسوفتديليتيدمايلبوكس
 
-· الحصول على علبة البريد <email address> -غير نشطالبريد الإلكتروني فقط
+· الحصول علي علبه بريد <email address> -إيناكتيفيمايلبوكسونلي
 
-لحل هذه المشكلة، إزالة كائنات متعددة بنفس هوية البريد الإلكتروني وتأكد من وجود كائن واحد مع هوية البريد الإلكتروني المحدد وأن نوع المستلم الخاص به هو UserMailbox.
+لحل هذه المشكلة ، قم بازاله كائنات متعددة باستخدام هويه البريد الكتروني نفسها وتاكد من وجود كائن واحد بهويه البريد الكتروني المحددة ومن ان نوع المستلم الخاص به هو أوسيرمايلبوكس.
 
-**يستخدم نفس العنوان لصناديق البريد الخاصة بالعمل والمستهلك**
+**يتم استخدام العنوان نفسه لعلب بريد الاعمال والعملاء**
 
-سبب آخر هو عند استخدام نفس العنوان لصناديق البريد الأعمال والمستهلك. في هذه الحالة، يجب على المستخدم تغيير الاسم المستعار المستهلك الأساسي حتى يدعم Cafe هذا السيناريو. هذا خطأ دائم لا يذهب بعيدا دون تدخل.
+والسبب الآخر هو عند استخدام العنوان نفسه لعلب بريد العمل والعملاء. في هذه الحالة ، يجب ان يقوم المستخدم بتغيير الاسم المستعار للمستهلك الأساسي الخاص به حتى يعتمد مقهى هذا السيناريو. هذا خطا دائم لا يتم الوصول اليه بدون تدخل.
 
-للحصول على التفاصيل، راجع [تغيير عنوان البريد الإلكتروني أو رقم الهاتف لحساب Microsoft الخاص بك](https://support.microsoft.com/help/11545/microsoft-account-rename-your-personal-account).
+للحصول علي التفاصيل ، راجع [تغيير عنوان البريد الكتروني أو رقم الهاتف لحساب Microsoft الخاص بك](https://support.microsoft.com/help/11545/microsoft-account-rename-your-personal-account).

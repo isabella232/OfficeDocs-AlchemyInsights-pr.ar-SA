@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002883"
 - "5498"
-ms.openlocfilehash: ed88ce1ce99afe0c9ab8ebac7eb0ff8b7e53ea25
-ms.sourcegitcommit: cc7b6f00275adaab90f702d48e65500434f11e83
+ms.openlocfilehash: 73a2c9016d39d40fa4e46cc069dd0d3f45900c10
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/06/2020
-ms.locfileid: "44086839"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47707626"
 ---
 # <a name="get-access-to-microsoft-bookings"></a>الوصول إلى Microsoft Bookings
 
@@ -26,6 +27,6 @@ ms.locfileid: "44086839"
 2. انقر فوق مربع الاختيار **للسماح لمؤسستك باستخدام Bookings** لتمكين الحُجوزات أو تعطيلها لمؤسستك.
 3. انقر فوق **حفظ التغييرات**.
 
-**هام:** يتوفر تطبيق Microsoft Booking للاستخدام بشكل افتراضي **لـ Microsoft 365 Education A3 و A5**و **Microsoft 365 Business Standard (Premium Business سابقاً)** **وMicrosoft 365 Business Premium (الأعمال سابقاً).** تتوفر الحجوزات **لعملاء Enterprise E3 وE5** كإضافة حتى 12 مايو 2020، وعند هذه النقطة سيتم تشغيلها بشكل افتراضي.
+**هام**: تطبيق الحجز من microsoft متوفر للاستخدام بشكل افتراضي ل microsoft 365 الخاص ب **A3 ، A5**، **microsoft 365 business Standard (المعروف سابقا بالشركات الpremiumه)**، و **microsoft 365 business Premium (الشركة السابقة)**. تتوفر الحجوزات **لعملاء Enterprise E3 والE5** كوظيفة اضافيه حتى 12 مايو ، 2020 ، عند النقطة التي سيتم تشغيلها بشكل افتراضي.
 
 للحصول على المزيد من المعلومات، راجع [ الوصول إلى Microsoft Bookings‏](https://support.microsoft.com/en-us/office/get-access-to-microsoft-bookings-5382dc07-aaa5-45c9-8767-502333b214ce).

@@ -1,27 +1,28 @@
 ---
-title: أداء المزامنة أندريف
+title: أداء مزامنة OneDrive
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000343"
 - "5840"
-ms.openlocfilehash: f8d91b6a131b9dcb4558634964e294b2b6815df6
-ms.sourcegitcommit: 4aa64fe36c18654ebeadf8f34d7a3ff24c3aa230
+ms.openlocfilehash: 155134b2ca4885af2779fef292325ae9242d0478
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/09/2020
-ms.locfileid: "44707610"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47729462"
 ---
-# <a name="onedrive-sync-performance"></a>أداء المزامنة أندريف
+# <a name="onedrive-sync-performance"></a>أداء مزامنة OneDrive
 
-إذا كنت تواجه مزامنة أبطأ من المتوقع، أو مشكلات أداء مشابهة مع OneDrive تحقق من الارتباطات التالية:
+إذا كنت تواجه إبطا من المزامنة المتوقعة ، أو مشاكل الأداء المشابهة في OneDrive ، فراجع الارتباطات التالية:
 
-- [تمكين الملفات حسب الطلب](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e)
-- [زيادة سرعة التحميل والتنزيل](https://support.microsoft.com/office/8eeadfb8-501f-406d-997b-98ab6ff67f43?ui=en-us&rs=en-us&ad=us)
-- [إصلاح مشاكل مزامنة OneDrive](https://support.office.com/article/0899b115-05f7-45ec-95b2-e4cc8c4670b2)
+- [تمكين الملفات عند الطلب](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e)
+- [زيادة سرعه التحميل والتنزيل](https://support.microsoft.com/office/8eeadfb8-501f-406d-997b-98ab6ff67f43?ui=en-us&rs=en-us&ad=us)
+- [تصحيح مشاكل مزامنة OneDrive](https://support.office.com/article/0899b115-05f7-45ec-95b2-e4cc8c4670b2)
