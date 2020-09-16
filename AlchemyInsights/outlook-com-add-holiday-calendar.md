@@ -6,23 +6,24 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1812"
 - "9000229"
-ms.openlocfilehash: eca965c64e1c83fcf6b73141541efaf5f0f2912b
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 559685f024c4cf6842aa41fc2e532287ceacae10
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43682027"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47754038"
 ---
-# <a name="add-a-holiday-calendar-in-outlookcom"></a>إضافة تقويم عطلة في Outlook.com
+# <a name="add-a-holiday-calendar-in-outlookcom"></a>أضافه تقويم عطله في Outlook.com
 
-1. في أسفل الصفحة، حدد رمز التقويم <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAASCAMAAAB/2U7WAAAA0lBMVEX///+Pj49ycnLW1tay9PT09LL09PSfy/T0y595ZoyMZnnN9PTl29b09M1mi7D0tpHu9PTX9PS49PSnxPSUuPT09O7W3+nW2eK3yOLu4tn09NectdeZvdavwNR5n8v09LhylLjiyLePnLXUwK/0xKdyhKXWvZlycpTEp4+1nI96iI94ZoxsZozOpYSPiHrLn3mMZnilhHKUcnJobG+MZmxvbGiyjGbi9PTA1PSMsvTZ4u709OKEpc6vt8j01MB4mb3It69meZ+9mXi4lHKqiGafeWYJ39x4AAAAp0lEQVQoz2OAATM5NijQ52NABvJGTEymxkxgAGGpC8ElWQ1kmF3smaHAiY9ZTZsFIcnFzqYsAeMpyrJxcCJJmmgxogA9HUKSCGPBtLiAKA8Dg6QYAwcnhiS/KjevoQiDrgKGJDLAkDSTY+B35OZ1tWTQ58OQ5LHCY6ezDR47gYFgZ2tu7WABDAQMSQ1pBhUlQSlNYSCfoCRKwCMDSMAjogwFgKOMEAAA2iERuleOm5wAAAAASUVORK5CYII=' /> للانتقال [إلى التقويم](https://outlook.live.com/mail/calendar).
-1. في الجزء الأيسر، حدد **إضافة تقويمات التقويم** > **المثيرة للاهتمام أيام** > **العطل**.
-1. حدد تقويم العطلات الذي تريده ثم حدد **X** في الزاوية العليا لحفظ اختيارك وإغلاق نافذة **إضافة التقويم.**
+1. في أسفل الصفحة ، حدد أيقونه التقويم <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAASCAMAAAB/2U7WAAAA0lBMVEX///+Pj49ycnLW1tay9PT09LL09PSfy/T0y595ZoyMZnnN9PTl29b09M1mi7D0tpHu9PTX9PS49PSnxPSUuPT09O7W3+nW2eK3yOLu4tn09NectdeZvdavwNR5n8v09LhylLjiyLePnLXUwK/0xKdyhKXWvZlycpTEp4+1nI96iI94ZoxsZozOpYSPiHrLn3mMZnilhHKUcnJobG+MZmxvbGiyjGbi9PTA1PSMsvTZ4u709OKEpc6vt8j01MB4mb3It69meZ+9mXi4lHKqiGafeWYJ39x4AAAAp0lEQVQoz2OAATM5NijQ52NABvJGTEymxkxgAGGpC8ElWQ1kmF3smaHAiY9ZTZsFIcnFzqYsAeMpyrJxcCJJmmgxogA9HUKSCGPBtLiAKA8Dg6QYAwcnhiS/KjevoQiDrgKGJDLAkDSTY+B35OZ1tWTQ58OQ5LHCY6ezDR47gYFgZ2tu7WABDAQMSQ1pBhUlQSlNYSCfoCRKwCMDSMAjogwFgKOMEAAA2iERuleOm5wAAAAASUVORK5CYII=' /> [للانتقال إلى التقويم](https://outlook.live.com/mail/calendar).
+1. في الجزء الأيمن ، حدد **أضافه**  >  **Interesting Calendars**  >  **أيام العطلات**الشيقة للتقويم.
+1. حدد تقويم العطلات الذي تريده ، ثم حدد **X** في الزاوية العلوية لحفظ اختيارك واغلق نافذه **أضافه تقويم** .
 
-تعرف على المزيد حول [إضافة تقويمات أعياد الميلاد والعطلات أو إزالتها.](https://support.office.com/article/b8e636da-fda8-413f-940e-68396efa49a6?wt.mc_id=Office_Outlook_com_Alchemy)
+تعرف علي [المزيد حول أضافه تقويمات الميلاد والعطلات أو ازالتها](https://support.office.com/article/b8e636da-fda8-413f-940e-68396efa49a6?wt.mc_id=Office_Outlook_com_Alchemy).
