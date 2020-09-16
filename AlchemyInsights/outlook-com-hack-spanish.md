@@ -1,11 +1,12 @@
 ---
-title: 8000066 - القاعدة 2 - Outlook.com اخترق - الإسبانية
+title: 8000066-القاعدة 2-Outlook.com اختراق-الاسبانيه
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -13,17 +14,17 @@ ms.custom:
 - "1140"
 - "8000066"
 - "8000067"
-ms.openlocfilehash: 0149559d03e8f7ceedad9ea74a5610255b0c7ba6
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: f7b66212cbea119b5cfe6d6d131506020c0d6051
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43760183"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47724173"
 ---
-# <a name="han-pirateado-mi-cuenta-de-outlookcom"></a>هان كانبايرادو مي كوينتا دي Outlook.com
+# <a name="han-pirateado-mi-cuenta-de-outlookcom"></a>هان بيراتيدو كوينتا دي Outlook.com
 
-Si su cuenta se ha pirateado significa que alguien robó la contraseña y es posible que esté usando la cuenta para obtener acceso a su información personal o enviar correo no deseado.
+الكوينتا الخاصة بالبح العالي السرعة في البيراتيدو سيجنيفيكا كو الجوين robó الcontraseña البوسيبلي الكو esté الأوساندو
 
-[سيجا لاس instrucciones para recuperar su cuenta.](https://support.office.com/es-es/article/han-pirateado-mi-cuenta-de-outlook-com-35993ac5-ac2f-494e-aacb-5232dda453d8?ui=es-ES&rs=es-ES&ad=ES?wt.mc_id=Office_Outlook_com_Alchemy)
+[سيجا جده إينستروكسيونيس الفقرة ريكوبيرار الكوينتا التالية.](https://support.office.com/es-es/article/han-pirateado-mi-cuenta-de-outlook-com-35993ac5-ac2f-494e-aacb-5232dda453d8?ui=es-ES&rs=es-ES&ad=ES?wt.mc_id=Office_Outlook_com_Alchemy)
 
-Para restablecer la cuenta mediante el teléfono u otro equipo, vaya [a account.microsoft.com](https://go.microsoft.com/fwlink/p/?linkid=836814).
+ريستابليسير الفقرة كوينتا ميديانتي الteléfono u أوترو اكويبو [، فأيا account.microsoft.com.](https://go.microsoft.com/fwlink/p/?linkid=836814)

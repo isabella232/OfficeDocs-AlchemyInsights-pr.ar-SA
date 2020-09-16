@@ -6,24 +6,25 @@ manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1840"
 - "9000250"
-ms.openlocfilehash: 1c60c12be4a9c63c9a077498ef68672d5466dd36
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1285a90e651d915cdff292d102669020ee738a3c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43719327"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47722478"
 ---
 # <a name="outlookcom-updates"></a>تحديثات Outlook.com
 
-**آخر التحديثات**
+**التحديثات الاخيره**
 
-- احصل على المزيد من بريدك الإلكتروني باستخدام Outlook.com الجديد. لقد قمنا بتبسيط البحث لتسهيل العثور على ما تبحث عنه أكثر من أي وقت مضى. تتيح لك الميزات الجديدة مثل الصور ومعاينات المرفقات رؤية الصور والملفات دون مغادرة البريد الوارد. والآن يمكنك إضافة الرموز التعبيرية وصور GIF إلى رسائلك.  [تعرف على المزيد عن Outlook.com الجديد.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+- استفد أكثر من بريدك الكتروني باستخدام Outlook.com الجديد. لقد قمنا بتبسيط البحث لتسهيل العثور علي ما تبحث عنه. تتيح لك الميزات الجديدة مثل الصور ومعاينه المرفقات رؤية الصور والملفات من دون مغادره علبه الوارد. والآن يمكنك أضافه مشاعر وملفات Gif إلى رسائلك.  [تعرف علي المزيد حول Outlook.com الجديد.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
 
-**تحديثات البريد الإلكتروني**
+**تحديثات البريد الكتروني**
 
-- إذا لم يتم تحديث علبة البريد Outlook.com، راجع [إصلاح Outlook.com مشكلات مزامنة البريد الإلكتروني](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).
+- إذا لم يتم تحديث علبه بريد Outlook.com الخاصة بك ، فراجع [إصلاح مشاكل مزامنة البريد الكتروني في Outlook.com](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).
