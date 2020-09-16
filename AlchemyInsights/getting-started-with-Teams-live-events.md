@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: 6ddb1e74d6c7217303da4f21a3bd71cdab3eb871
-ms.sourcegitcommit: 8e093114cd31141664e267a7c7b779398d5fdfa8
+ms.openlocfilehash: 979555a6fba46437adaf7e8c201cb9d6c4a8e965
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/04/2020
-ms.locfileid: "44563605"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47677266"
 ---
 # <a name="getting-started-with-teams-live-events"></a>بدء استخدام أحداث Teams المباشرة
 
@@ -24,7 +25,7 @@ ms.locfileid: "44563605"
 
 لعقد حدث مباشر، ستحتاج لما يلي:
 
-- أولاً، تأكد من أن الفرق الحية الأحداث [متوفرة في بلدك ومنطقتك؛](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability) لم يتم دعم الأحداث المباشرة بعد في بعض البلدان.  إذا قمت بتعيين التراخيص وتعيين النُهج، ولكنك لا تزال غير تتمكن من إنشاء حدث "الفرق المباشرة"، فمن المحتمل أنك في بلد أو منطقة حيث لا تتوفر الأحداث المباشرة بعد.
+- أولا ، تاكد من توفر احداث الفرق المباشرة [في بلدك وإقليمك](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability)؛ لم يتم دعم الاحداث المباشرة بعد في بعض الدول.  إذا قمت بتعيين تراخيص وتعيين نهج ، ولكن لا يزال يتعذر عليك إنشاء حدث فرق مباشر ، فمن المحتمل ان تكون في بلدك أو في منطقه حيث لا تتوفر الاحداث الحية بعد.
 
 - [ترخيص Office 365 Enterprise E1 أو E3 أو E5 أو Office 365 A3 أوA5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). **ملاحظة**: بسبب الزيادة الحالية في استخدام Teams، قد يستغرق تعيين ترخيص Teams إلى مستخدم حوالي 24 ساعة قبل أن يتم إعداده بشكل كامل. إلا أن يتم ذلك، لن تتمكن من تعيين نُهج Teams إليه وقد لا يتوفر له إمكانية الوصول إلى ميزات مثل إجراء مكالمات أو عقد مؤتمرات صوتية.
 

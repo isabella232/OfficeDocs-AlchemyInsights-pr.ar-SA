@@ -1,34 +1,35 @@
 ---
-title: غير قادر على تحميل الملفات
+title: تعذر تنزيل الملفات
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5731"
-ms.openlocfilehash: 4a66a419535de7c91c166ece94d62cce507f39e2
-ms.sourcegitcommit: b10cea11b4975354b91193327b58aa4740d34833
+ms.openlocfilehash: 02fb52dbfa8fa47d04a317601fc7a7b1402836bc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/28/2020
-ms.locfileid: "45438724"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47669162"
 ---
-# <a name="unable-to-download-files"></a>غير قادر على تحميل الملفات
+# <a name="unable-to-download-files"></a>تعذر تنزيل الملفات
 
-- تخضع عمليات التنزيل لهذه الحدود: حد حجم الملف الفردي: 10GB؛ 10GB. إجمالي حجم ملف مضغوط: 20GB; العدد الإجمالي لحد الملفات: 10,000; حد حجم المجلد: 200 ملف.
-- لا يمكن إضافة الملفات أو المجلدات التي تحتوي على علامة تصنيف (#) في اسم الملف أو المجلد إلى ملفات .zip.  
+- تخضع التنزيلات لهذه الحدود: حد حجم الملف الفردي: 10 غيغابايت ؛ الحد الإجمالي لحجم ملف zip: 20 غيغابايت ؛ العدد الإجمالي للملفات: 10,000 ؛ حد حجم المجلد: ملفات 200.
+- لا يمكن أضافه الملفات أو المجلدات التي تحتوي علي علامة التجزئة (#) في اسم الملف أو المجلد إلى ملفات .zip.  
     
-- لا يمكنك تنزيل دفاتر ملاحظات OneNote. إذا قمت بتنزيل مجلد يحتوي على دفتر ملاحظات OneNote، يحتوي الملف .zip على رسالة خطأ في نموذج ملف .txt.  
+- لا يمكنك تنزيل دفاتر ملاحظات OneNote. إذا قمت بتنزيل مجلد يحتوي علي دفتر ملاحظات OneNote ، سيحتوي الملف .zip علي رسالة خطا في شكل ملف txt.  
     
-- لا يمكنك تنزيل الملفات مباشرة من طريقة العرض **المشتركة.** افتح الملف واحفظ نسخة في الموقع الذي تختاره.  
+- لا يمكنك تنزيل الملفات من طريقه العرض **المشتركة**  مباشره. افتح الملف واحفظ نسخه في الموقع الذي تختاره.  
     
-- في أندريف للعمل، لا يمكنك استخدام Internet Explorer لتنزيل مجلدات أو ملفات متعددة. استخدم Microsoft Edge أو Google Chrome لتنزيل مجلدات أو ملفات متعددة.  
+- في OneDrive for Business ، لا يمكنك استخدام Internet Explorer لتنزيل المجلدات أو الملفات المتعددة. استخدم Microsoft Edge أو Google Chrome لتنزيل المجلدات أو الملفات المتعددة.  
     
-- يختفي الزر **تنزيل** أحياناً إذا قمت بتحديث صفحة ويب أثناء عرض مجلد. للتغلب على هذا، يمكنك الانتقال إلى مستوى واحد في دليل المجلد والعودة، أو إغلاق علامة التبويب هذه في المستعرض الخاص بك والانتقال إلى المجلد مرة أخرى.  
+- يختفي الزر " **تنزيل** " في بعض الأحيان إذا قمت بتحديث صفحه ويب اثناء عرض مجلد. لحل هذه المشكلة ، يمكنك الانتقال لاعلي بمقدار مستوي واحد في دليل المجلد والعودة اليه ، أو إغلاق علامة التبويب الموجودة في المستعرض والانتقال إلى المجلد مره أخرى.  
     
-لمزيد من المعلومات، راجع [تنزيل الملفات والمجلدات من OneDrive أو SharePoint](https://support.office.com/article/download-files-and-folders-from-onedrive-or-sharepoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05).
+لمزيد من المعلومات ، راجع [تنزيل الملفات والمجلدات من OneDrive أو SharePoint](https://support.office.com/article/download-files-and-folders-from-onedrive-or-sharepoint-5c7397b7-19c7-4893-84fe-d02e8fa5df05).

@@ -5,21 +5,22 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002393"
 - "4666"
-ms.openlocfilehash: 3cae8f2902de61bd7d182da3f6170d0bf7cba2f4
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: a054546c0422632334030b7767328502e0e44597
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582150"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47691742"
 ---
 # <a name="set-up-skype-for-business-online"></a>إعداد Skype for Business Online
 
 سيتم إيقاف Skype for Business Online في 31 يوليو 2021. [تعرف علي المزيد حول التقاعد والترحيل لـ Microsoft Teams](https://docs.microsoft.com/microsoftteams/skype-for-business-online-retirement).
 
-Skype for Business هو جزء من مجموعة منتجات Microsoft 365. [تعرف علي كيفية تثبيت Skype for Business Online](https://support.office.com/article/Install-Skype-for-Business-Online-8a618bc4-3fc8-4d5f-9d62-cf93a0494800).
+يعتبر Skype for Business جزءا من مجموعه منتجات Microsoft 365. [تعرف علي كيفية تثبيت Skype for Business Online](https://support.office.com/article/Install-Skype-for-Business-Online-8a618bc4-3fc8-4d5f-9d62-cf93a0494800).

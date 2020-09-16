@@ -1,23 +1,24 @@
 ---
-title: أسئلة وأجوبة حول مدير الترحيل
+title: الاسئله المتداولة حول أداره الترحيل
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "5669"
-ms.openlocfilehash: 9fe58236a335613526948f87225e770e512a37d8
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: e9e88acdfde517487f509956c99e496a983d3527
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44354111"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47674277"
 ---
-# <a name="migration-manager-faq"></a>أسئلة وأجوبة حول مدير الترحيل
+# <a name="migration-manager-faq"></a>الاسئله المتداولة حول أداره الترحيل
 
-- راجع [الأسئلة المتداولة فيما يتعلق بمدير الترحيل](https://docs.microsoft.com/sharepointmigration/mm-faqs).
+- راجع [الاسئله المتداولة حول أداره الترحيل](https://docs.microsoft.com/sharepointmigration/mm-faqs).

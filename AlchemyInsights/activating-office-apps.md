@@ -1,24 +1,25 @@
 ---
-title: تفعيل تطبيقات Microsoft 365
+title: تنشيط تطبيقات Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 94f4c8802e511bbb8b42570ac3c4536b61a1c5db
-ms.sourcegitcommit: 462522e6bccde76f6c46795b0eca71320c5d442d
+ms.openlocfilehash: b6945d7e8b201cfc37900bed11bfb64ad1838efc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/15/2020
-ms.locfileid: "44735199"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47697976"
 ---
-# <a name="activating-microsoft-365-apps"></a>تفعيل تطبيقات Microsoft 365
+# <a name="activating-microsoft-365-apps"></a>تنشيط تطبيقات Microsoft 365
 
 لتنشيط Office، اطلع على ما يلي:
 
@@ -26,7 +27,7 @@ ms.locfileid: "44735199"
 
 - [تنشيط Office على جهاز Mac](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**ملاحظة:**  تأكد من أن لديك اشتراك Office 365 أو Microsoft 365 [الذي يتضمن تطبيقات عميل Office،](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)على سبيل المثال، Microsoft 365 Business Standard أو تطبيقات Microsoft 365 للأعمال، أو تطبيقات Microsoft 365 للمؤسسات. بالإضافة إلى ذلك، تأكد من أن حساب المستخدم الذي تستخدمه لتسجيل الدخول إلى تطبيقات Office لديه [ترخيص معين.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+**ملاحظه:**  تاكد من ان لديك اشتراك Office 365 أو Microsoft 365 [يتضمن تطبيقات عميل office](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)، علي سبيل المثال ، Microsoft 365 Business Standard أو microsoft 365 للاعمال أو تطبيقات microsoft 365 ل enterprise. بالاضافه إلى ذلك ، تاكد من [تعيين ترخيص](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)لحساب المستخدم الذي تستخدمه لتسجيل الدخول إلى تطبيقات Office.
 
 لإصلاح مشاكل تنشيط Office، اطلع على ما يلي:
 
@@ -35,7 +36,7 @@ ms.locfileid: "44735199"
 
 - [الخطوات التي يجب اتباعها إذا لم تتمكن من تثبيت Office for Mac أو تنشيطه](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
 
-إذا لم تتمكن من تسجيل الدخول إلى تطبيقات Microsoft 365، فاتبع الخطوات التالية:
+إذا لم تتمكن من تسجيل الدخول إلى تطبيقات Microsoft 365 ، فاتبع الخطوات التالية:
 
 1. افتح تطبيق Office، و[سجّل الخروج](https://go.microsoft.com/fwlink/?linkid=2114082)من أي حساب موجود للمستخدم.
 

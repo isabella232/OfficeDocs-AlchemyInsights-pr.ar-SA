@@ -1,36 +1,41 @@
 ---
-title: إدارة تسجيلات الاجتماعات للتعليم
+title: أداره تسجيلات الاجتماعات للحصول علي التعليم
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 08/03/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6131"
 - "9002530"
-ms.openlocfilehash: d7b56237cb287f619643303fb31c627e258c332d
-ms.sourcegitcommit: c32ccdd6e87964f01a56d9a36070e4571ebf1ab1
+ms.openlocfilehash: 1cc6173c1efcf46081781d5836b71ce19cfa7bc2
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "46554758"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47695058"
 ---
-# <a name="manage-meeting-recordings-for-education"></a>إدارة تسجيلات الاجتماعات للتعليم
+# <a name="manage-meeting-recordings-for-education"></a>أداره تسجيلات الاجتماعات للحصول علي التعليم
 
-نوصي بأن ينظر مسؤولو المؤسسات التعليمية في استخدام حزم السياسات لسلامة الطلاب والمعلمين. لمزيد من المعلومات، راجع ما يلي:
+بدءا من  **20 أغسطس 2020**، عندما يقوم المستخدمون الذين يملكون a1 (بما في ذلك A1 بعلامات
 
-- [حزم النهج في Microsoft Teams](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).  
+للحصول علي مزيد من المعلومات ، بما في ذلك كيفيه حفظ الاجتماع في موقع آخر ، راجع [تحميل تسجيل اجتماعات فرق Microsoft إلى التدفق](https://docs.microsoft.com/stream/portal-upload-teams-meeting-recording).
+
+نوصي بان يقوم مسؤولو المؤسسات التعليمية بالتفكير في استخدام حزم السياسات للحصول علي أمان الطالب والمعلم. لمزيد من المعلومات، راجع ما يلي:
+
+- [حزم النهج في فرق Microsoft](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).  
     
-- [السياسات التي يجب أن يتم تعيينها لسلامة الطالب](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety).
+- [النهج التي يجب تعيينها لامان الطالب](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety).
 
-- [السياسات التي يجب أن تسند للمعلمين](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators).
+- [النهج التي يجب تعيينها للمعلمين](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators).
 
-إذا كنت تريد إدارة القدرة على تسجيل الاجتماعات فقط، فـ راجع [تشغيل التسجيل السحابي أو إيقاف تشغيله](https://docs.microsoft.com/microsoftteams/cloud-recording#turn-on-or-turn-off-cloud-recording).  
+إذا أردت أداره القدرة علي تسجيل الاجتماعات فقط ، فراجع [تشغيل أو إيقاف تشغيل تسجيل السحابة](https://docs.microsoft.com/microsoftteams/cloud-recording#turn-on-or-turn-off-cloud-recording).  
 
-**ملاحظة** تعتمد قدرات تسجيل الاجتماعات للفرق على توفر دفق إقليمي وبلد. إذا لم تتمكن من تسجيل اجتماع، فـ راجع [المناطق التي يستضيف Microsoft Stream البيانات فيها؟](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in). 
+**ملاحظه** تعتمد إمكانيات تسجيل اجتماعات الفرق علي التدفقات الاقليميه ومدي توفر البلد. إذا تعذر عليك تسجيل اجتماع ، فراجع [المناطق التي تستضيف Microsoft Stream البيانات الخاصة بي ؟](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in). 
 
-لمزيد من المعلومات، راجع [الميزة المحدّثة: Microsoft Stream تسجيل التحكم التخزين الإقليمية](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327).
+لمزيد من المعلومات ، راجع [الميزة المحدثة: التحكم الإقليمي لتسجيلات السحابة في Microsoft Stream](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327).

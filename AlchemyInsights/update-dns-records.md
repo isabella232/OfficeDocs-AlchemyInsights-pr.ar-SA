@@ -12,16 +12,16 @@ ms.custom:
 - "39"
 - "41"
 - "100001"
-ms.openlocfilehash: ca580e981036d3c830e55d67f2a79272fe4f27e4
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: de163d4385249e49db76de8997a7f8f3fb3cd198
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508507"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47699326"
 ---
 # <a name="update-dns-records"></a>تحديث سجلات DNS
 
-يعد إعداد سجلات DNS مهمًا لجعل اشتراكك يعمل مع اسم النطاق المخصص. استخدام الارتباطات الموجودة أدناه لإضافة سجلات DNS أو تحديثها.
+يعتبر اعداد سجلات DNS أمرا هاما لتمكين اشتراكك من استخدام اسم مجالك المخصص. استخدام الارتباطات الموجودة أدناه لإضافة سجلات DNS أو تحديثها.
   
-- [إنشاء سجلات DNS في أي موفر استضافة DNS](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)  
+- [إنشاء سجلات DNS لدي اي موفر استضافه DNS](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider)  
 - [إضافة سجلات DNS المخصصة أو تحريرها](https://docs.microsoft.com/microsoft-365/admin/dns/add-or-edit-custom-dns-records)

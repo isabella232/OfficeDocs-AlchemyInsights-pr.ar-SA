@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002459"
 - "3764"
-ms.openlocfilehash: b85eb133644b8ec9ab785bf6668a3df59dda30a3
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 465b61ad0319f533656effa2b6b09f0194260920
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063388"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47676042"
 ---
 # <a name="license-or-account-disabled"></a>تعطل الترخيص أو الحساب
 
@@ -24,11 +25,11 @@ ms.locfileid: "44063388"
 
 **إعادة تنشيط اشتراك**
 
-1. في مركز المشرف، انتقل إلى صفحة **الفوترة**  >  **[لمنتجاتك.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. في مركز الاداره ، انتقل إلى صفحه **الفوترة**  >  **[الخاصة بالمنتجات](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. ابحث عن الاشتراك الذي تريد إعادة تنشيطه.
 
-3. في قسم **الفوترة**، انقر فوق**إعادة تنشيط**. إذا كنت في طريقة عرض **البطاقات،** انقر فوق القطع الناقص بين **الاسم** **والكمية المتوفرة** واختر **إعادة التنشيط** من القائمة.
+3. في قسم **الفوترة**، انقر فوق**إعادة تنشيط**. إذا كنت في طريقه عرض **البطاقات** ، فانقر فوق علامة الحذف الموجودة بين **الاسم** **والكمية المتاحة** واختر **أعاده التنشيط** من القائمة.
 
 **ملاحظة**: إذا لم تتمكن من رؤية الاشتراك الذي تبحث عنه، فقد تحتاج إلى ضبط عامل تصفية**حالة الاشتراك** بالقرب من أعلى الصفحة لـ**الكل**.
 

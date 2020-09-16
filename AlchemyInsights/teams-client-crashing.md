@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002323"
 - "4512"
-ms.openlocfilehash: ac1cc05adfa33626ff34d30dca6c77f1bb96477a
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: 39310233eae83ceb18c6ff82451ae747f3c50048
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44354039"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47691094"
 ---
 # <a name="teams-client-crashing"></a>هل يتوقف عميل Teams عن العمل؟
 
@@ -24,21 +25,21 @@ ms.locfileid: "44354039"
 
 - إذا كنت تستخدم تطبيق سطح المكتب من Teams، [فتأكد من تحديث البرنامج بشكل كامل](https://support.office.com/article/Update-Microsoft-Teams-535a8e4b-45f0-4f6c-8b3d-91bca7a51db1).
 
-- تأكد من إمكانية الوصول إلى كافة [عناوين URL ونطاقات العناوين من Microsoft 365.](https://docs.microsoft.com/microsoftteams/connectivity-issues)
+- تاكد من امكانيه الوصول إلى كل [عناوين url ونطاقات عناوين Microsoft 365](https://docs.microsoft.com/microsoftteams/connectivity-issues) .
 
-- سجّل الدخول باستخدام حساب مسؤول المستأجر وتحقق من [لوحة معلومات صحة الخدمة](https://docs.microsoft.com/office365/enterprise/view-service-health) للتحقق من عدم وجود انقطاع أو تدهور في الخدمة.
+- سجل الدخول باستخدام حساب مسؤول المستاجر الخاص بك ، وتحقق من [لوحه معلومات حماية الخدمة](https://docs.microsoft.com/office365/enterprise/view-service-health) للتحقق من عدم وجود اي انقطاع أو انخفاض في الخدمة.
 
-- إلغاء تثبيت تطبيق الفرق وإعادة تثبيته (رابط)
-    - استعراض إلى %appdata%\Microsoft\teams\المجلد على جهاز الكمبيوتر الخاص بك وحذف كافة الملفات في هذا الدليل.
-    - [قم بتنزيل تطبيق Teams وتثبيته](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy)، وإذا كان ذلك ممكنًا ، قم بتثبيت Teams كمسؤول (انقر على مثبت الفرق وحدد "تشغيل كمسؤول" إذا كان متاحًا).
+- إلغاء تثبيت تطبيق الفرق وأعاده تثبيته (ارتباط)
+    - استعرض وصولا إلى المجلد%appdata%\Microsoft\teams\ علي الكمبيوتر واحذف كل الملفات في هذا الدليل.
+    - قم [بتنزيل تطبيق الفرق وتثبيته](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software#office-DesktopAppDownload-ofoushy)، ويمكنك تثبيت الفرق كمسؤول (بالنقر بزر الماوس الأيمن فوق مثبت الفرق وتحديد "تشغيل كمسؤول" في حال توفره).
 
-إذا كان عميل Teams لا يزال يتعطل، هل يمكنك إعادة إنشاء المشكلة؟ إذا كان الأمر كذلك:
+إذا ما زال عميل الفرق معطلا ، فهل يمكنك أعاده إنتاج المشكلة ؟ إذا كان الأمر كذلك:
 
-1. استخدم مسجل الخطوات لالتقاط خطواتك.
-    - إغلاق كافة التطبيقات غير الضرورية أو السرية.
-    - تشغيل مسجل الخطوات وإعادة إنتاج المشكلة أثناء تسجيل الدخول باستخدام حساب المستخدم المتأثر.
-    - [جمع سجلات الفرق التي تلتقط الخطوات repro المسجلة](https://docs.microsoft.com/microsoftteams/log-files). **ملاحظة:** تأكد من التقاط عنوان تسجيل الدخول للمستخدم المتأثر.
-    - جمع تفريغ و / أو خطأ دلو معلومات (ويندوز). تشغيل Windows Powershell على الجهاز حيث يحدث التعطل وتشغيل الأوامر التالية:
+1. استخدم مسجل الخطوات لتسجيل الخطوات.
+    - اغلق جميع التطبيقات غير الضرورية أو السرية.
+    - أبدا تشغيل مسجل الخطوات واعد إنشاء المشكلة اثناء تسجيل الدخول باستخدام حساب المستخدم المتاثر.
+    - [جمع سجلات الفرق التي تلتقط خطوات أعاده المسجلة](https://docs.microsoft.com/microsoftteams/log-files). **ملاحظه**: تاكد من انك تلتقط عنوان تسجيل الدخول الخاص بالمستخدم المتاثر.
+    - جمع معلومات التفريغ الخاصة بالنسخة الاحتياطية و/أو الخطا (Windows). شغل Windows Powershell علي الجهاز الذي تحدث فيه التعطل وشغل الأوامر التالية:
 
         `
         PS C:\Users\user01> cd $env:temp
@@ -46,4 +47,4 @@ ms.locfileid: "44354039"
         PS C:\Users\user01\AppData\Local\Temp> notepad .\FaultBuckets.txt
         `
     
-2. إرفاق الملف بحالة الدعم الخاصة بك.
+2. قم بإرفاق الملف بحاله الدعم.

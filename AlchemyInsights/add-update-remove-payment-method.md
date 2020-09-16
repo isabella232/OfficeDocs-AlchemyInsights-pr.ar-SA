@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002348"
 - "4574"
-ms.openlocfilehash: 3208773c9c78b7312f0dbc70f6b5cf369db61ef0
-ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.openlocfilehash: 4325aceb334661db2fcc681d731182fa647b890e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44417915"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47687457"
 ---
 # <a name="add-update-or-remove-payment-method"></a>إضافة طريقة دفع أو تحديثها أو إزالتها
 
@@ -24,10 +25,10 @@ ms.locfileid: "44417915"
 
 - لإضافة حساب بنكي كطريقة دفع، اطلع على[إضافة طريقة دفع](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#add-a-payment-method).
 
-- لتحديث المعلومات على حساب مصرفي، راجع [تحديث تفاصيل طريقة الدفع](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#update-payment-method-details).
+- لتحديث المعلومات الموجودة علي حساب بنكي ، راجع [تفاصيل طريقه الدفع](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#update-payment-method-details).
 
-- لتغيير طريقة الدفع من أو إلى حساب مصرفي، راجع [استبدال طريقة دفع](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#replace-a-payment-method).
+- لتغيير طريقه الدفع إلى حساب بنكي أو منه ، راجع [استبدال طريقه دفع](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#replace-a-payment-method).
 
-- لإزالة حساب مصرفي كطريقة دفع، راجع [حذف طريقة دفع](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#delete-a-payment-method).
+- لأزاله حساب بنكي كطريقه دفع ، راجع [حذف طريقه دفع](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#delete-a-payment-method).
 
-لمزيد من المعلومات، راجع [إدارة طرق الدفع](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+لمزيد من المعلومات ، راجع [أداره طرق السداد](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

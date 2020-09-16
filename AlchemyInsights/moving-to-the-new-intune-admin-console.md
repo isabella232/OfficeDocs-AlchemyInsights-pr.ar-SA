@@ -1,28 +1,29 @@
 ---
-title: الانتقال إلى وحدة تحكم المسؤول Intune الجديدة
+title: الانتقال إلى وحده تحكم مسؤول Intune الجديد
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/29/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1791"
 - "9000214"
-ms.openlocfilehash: f558bbec7063aaa6b6c47d98beb0bfb5ac3775a7
-ms.sourcegitcommit: ffbed67c0a16ec423fa1d79b71e48ea4e2d320e1
+ms.openlocfilehash: e99d107bd6d69fd16200e11cd48eacef5a10da23
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "46554724"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47702674"
 ---
-# <a name="moving-to-the-new-intune-admin-console"></a>الانتقال إلى وحدة تحكم المسؤول Intune الجديدة
+# <a name="moving-to-the-new-intune-admin-console"></a>الانتقال إلى وحده تحكم مسؤول Intune الجديد
 
 لمزيد من المعلومات، اطلع على:
 
-- [أين ذهبت ميزة Intune في Azure؟](https://docs.microsoft.com/intune/ui-changes)
+- [أين ذهبت ميزه Intune في Azure ؟](https://docs.microsoft.com/intune/ui-changes)
 
-- [مجموعات Microsoft Intune الكلاسيكية في البوابة Azure](https://docs.microsoft.com/intune/groups-get-started)
+- [المجموعات الكلاسيكية ل Microsoft Intune في مدخل Azure](https://docs.microsoft.com/intune/groups-get-started)

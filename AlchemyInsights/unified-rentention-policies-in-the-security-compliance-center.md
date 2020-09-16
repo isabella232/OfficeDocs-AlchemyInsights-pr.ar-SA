@@ -1,35 +1,36 @@
 ---
-title: نُهج استبقاء موحدة في مركز توافق & الأمان
+title: نهج الاستبقاء الموحدة في مركز توافق & الأمان
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/8/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5745"
 - "9000273"
-ms.openlocfilehash: d9d92e9284f34c7c1edba6af56f02ac88d3cd956
-ms.sourcegitcommit: 4265a9e79db6c2a396aa80ec0ebd467bbaadf366
+ms.openlocfilehash: 0dc9fb2d34e8b2538c6174e401c20a40b216efce
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45088274"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47669198"
 ---
-# <a name="unified-retention-policies-in-the-security--compliance-center"></a>نُهج استبقاء موحدة في مركز توافق & الأمان
+# <a name="unified-retention-policies-in-the-security--compliance-center"></a>نهج الاستبقاء الموحدة في مركز توافق & الأمان
 
-تتيح لك نُهج الاستبقاء إدارة محتوى مؤسستك باستخدام إعدادات الاستبقاء والحذف. يمكنك إنشاء نُهج استبقاء موحدة في مركز التوافق & أمان Office 365 أو في مركز التوافق لـ Microsoft 365. 
+تسمح لك نهج الاستبقاء باداره محتوي المؤسسة باستخدام إعدادات الاستبقاء والحذف. يمكنك إنشاء نهج استبقاء موحده في مركز توافق & أمان Office 365 أو في مركز توافق Microsoft 365. 
 
-1. في [مركز توافق & الأمان](https://go.microsoft.com/fwlink/p/?linkid=2077143)، حدد الاحتفاظ **بحوكمة المعلومات**  >  **Retention**  >  **+إنشاء**. <br/>
-    في [مركز التوافق لـ Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2077149)، حدد **Policies**  >  **بيانات النهج > الاحتفاظ > + نهج الاستبقاء الجديد.**
-2. إضافة **اسم**، **إعدادات**، واختيار **المواقع**.
-3. راجع الإعدادات، ثم حدد **إنشاء هذا النهج** أو **حفظه في وقت لاحق**.  
+1. في [مركز توافق & الأمان](https://go.microsoft.com/fwlink/p/?linkid=2077143)، حدد الاستبقاء المحتفظ بالمعلومات + **Information governance**  >  **Retention**  >  **إنشاء**. <br/>
+    في [مركز توافق Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2077149)، حدد **النهج**  >  **ال> الاحتفاظ بالبيانات > + نهج استبقاء جديد.**
+2. أضف **الاسم** **والإعدادات** **واختر المواقع**.
+3. راجع الإعدادات الخاصة بك ، ثم حدد **إنشاء هذا النهج** أو **حفظ لاحقا**.  
       
-لمزيد من التفاصيل حول نُهج الاستبقاء لمحتوى مثل البريد الإلكتروني لـ Exchange وOneDrive و SharePoint ومحتوى الفرق، راجع [نظرة عامة على نُهج الاستبقاء](https://go.microsoft.com/fwlink/?linkid=2127785).  
+للحصول علي مزيد من التفاصيل حول نهج الاستبقاء لمحتوي مثل البريد الكتروني في Exchange و OneDrive و SharePoint ومحتوي الفرق ، راجع [نظره عامه حول نهج الاستبقاء](https://go.microsoft.com/fwlink/?linkid=2127785).  
     
-إذا كنت تستخدم نُهج الاستبقاء جنبًا إلى جنب في مركز إدارة Exchange ومركز توافق & الأمان، راجع هذه التوصية [لاستخدام نهج استبقاء بدلاً من الميزات القديمة](https://docs.microsoft.com/microsoft-365/compliance/retention-policies?view=o365-worldwide#use-a-retention-policy-instead-of-older-features).  
+إذا كنت تستخدم نهج الاستبقاء جنبا لجنب في مركز أداره Exchange ومركز توافق & الأمان ، فراجع هذه التوصية [لاستخدام نهج استبقاء بدلا من الميزات القديمة](https://docs.microsoft.com/microsoft-365/compliance/retention-policies?view=o365-worldwide#use-a-retention-policy-instead-of-older-features).  
     
-للحصول على معلومات محددة حول الاحتفاظ بـ Teams، راجع [نُهج الاستبقاء في Teams](https://docs.microsoft.com/microsoftteams/retention-policies).
+للحصول علي معلومات معينه حول الاحتفاظ بالفرق ، راجع [نهج الاستبقاء في الفرق](https://docs.microsoft.com/microsoftteams/retention-policies).

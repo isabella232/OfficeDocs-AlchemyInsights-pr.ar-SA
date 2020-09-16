@@ -5,6 +5,7 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
@@ -12,18 +13,18 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: a4b079ceb87e87fd50f04f6edbd5d2cb23a27429
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 324b941f3814876ac28b37aa09737c861e68fe99
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44062812"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47693398"
 ---
 # <a name="microsoft-365-for-education---approved"></a>Microsoft 365 for Education - معتمد
 
 تم اعتمادك لاستخدام Office 365 Education.  للشراء:
 
-1. انتقل **Billing**إلى  >  [خدمات شراء](https://portal.office.com/AdminPortal/Home#/catalog)الفوترة .
+1. انتقل إلى **Billing**  >  [خدمات شراء](https://portal.office.com/AdminPortal/Home#/catalog)الفوترة.
 
 2. اختر من القائمة الموجودة ضمن **خطط Education‏**.
 
@@ -33,7 +34,7 @@ ms.locfileid: "44062812"
 
 **تشغيل الفرق**
 
-- لتشغيل Microsoft Teams لكافة المستخدمين، انتقل إلى **إعدادات**  >  **إعدادات**  >  [Microsoft Teams](https://admin.microsoft.com/Adminportal/Home#/SettingsMultiPivot/:/Settings/L1/SkypeTeams) وانقر على تشغيل Microsoft Teams **لكافة المستخدمين** في خانة الاختيار. انقر فوق **حفظ التغييرات**.
+- لتشغيل فرق microsoft لكافة المستخدمين ، انتقل **إلى**  >  **إعدادات**  >  [فرق microsoft](https://admin.microsoft.com/Adminportal/Home#/SettingsMultiPivot/:/Settings/L1/SkypeTeams) وانقر فوق خانه الاختيار **تشغيل فرق microsoft لكل المستخدمين** . انقر فوق **حفظ التغييرات**.
 
 **التدريس والتعلم عن بُعد**
 

@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002484"
 - "4825"
-ms.openlocfilehash: 2310ae0d9b719830fc9d0e937909ff988eb9f2bd
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 3c534ef21cdefd333d0d0305cd460a0542a63d4e
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505186"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47699254"
 ---
 # <a name="visio-common-issues-and-resolutions"></a>مشاكل Teams الشائعة وحلولها
 
@@ -24,7 +25,7 @@ ms.locfileid: "44505186"
 
 **خيارات Visio Online**
 
-- يتم بيع Visio في صورة [تطبيق مستقل](https://products.office.com/visio/flowchart-software). يمكن للمسؤولين شراء [اشتراك Visio](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription) من مركز إدارة Microsoft 365.
+- يتم بيع Visio في صورة [تطبيق مستقل](https://products.office.com/visio/flowchart-software). يمكن للمسؤولين شراء [اشتراك Visio](https://docs.microsoft.com/alchemyinsights/purchase-visio-subscription) من مركز أداره Microsoft 365.
 
 - يوفر Visio [خطط اشتراكات مختلفة](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options). في حالة افتقاد أي ميزة في Visio اطلع على [مقارنة خيارات Visio](https://products.office.com/visio/microsoft-visio-plans-and-pricing-compare-visio-options) للتعرّف على المزيد حول الاختلافات بين الخطة 1 والخطة 2.  لاحظ أن خطة Visio Online 1 لا تتضمن إصداراً لسطح المكتب من Visio.
 
