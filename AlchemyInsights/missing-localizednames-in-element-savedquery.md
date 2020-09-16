@@ -1,26 +1,27 @@
 ---
-title: "'أسماء مترجمة' مفقودة في العنصر 'savedquery'"
+title: "' لوكاليزيدناميس ' مفقود في العنصر ' سافيدكويري '"
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1739"
 - "9000187"
-ms.openlocfilehash: a891b31e90951be8349a7fda705a14320e22fb3a
-ms.sourcegitcommit: ebb3595422b581eca98a05533f8d82239daec09a
+ms.openlocfilehash: 4b25596ab68cf1723df4fa6a593cef5341c8ff16
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "45423257"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47667109"
 ---
-# <a name="missing-localizednames-in-element-savedquery"></a><span data-ttu-id="4585a-102">'أسماء مترجمة' مفقودة في العنصر 'savedquery'</span><span class="sxs-lookup"><span data-stu-id="4585a-102">Missing 'LocalizedNames' in element 'savedquery'</span></span>
+# <a name="missing-localizednames-in-element-savedquery"></a><span data-ttu-id="1fb30-102">' لوكاليزيدناميس ' مفقود في العنصر ' سافيدكويري '</span><span class="sxs-lookup"><span data-stu-id="1fb30-102">Missing 'LocalizedNames' in element 'savedquery'</span></span>
 
-<span data-ttu-id="4585a-103">للحصول على تعليمات حول 'LocalizedNames' مفقودة، راجع ["العنصر 'savedquery' يحتوي على محتوى غير كامل. قائمة بالعناصر المحتملة المتوقعة: "LocalizedNames" يحدث خطأ عند استيراد حل Dynamics 365](https://support.microsoft.com/help/4463330/the-element-savedquery-has-incomplete-content-list-of-possible-element).</span><span class="sxs-lookup"><span data-stu-id="4585a-103">For help with missing 'LocalizedNames', see ["The element 'savedquery' has incomplete content. List of possible elements expected: 'LocalizedNames'" error occurs when importing a Dynamics 365 solution](https://support.microsoft.com/help/4463330/the-element-savedquery-has-incomplete-content-list-of-possible-element).</span></span>
+<span data-ttu-id="1fb30-103">للحصول علي تعليمات حول ' لوكاليزيدناميس ' مفقود ، راجع ["العنصر" سافيدكويري "علي محتوي غير كامل. قائمه بالعناصر المحتملة المتوقعة: يحدث الخطا ' لوكاليزيدناميس ' "عند استيراد حل Dynamics 365](https://support.microsoft.com/help/4463330/the-element-savedquery-has-incomplete-content-list-of-possible-element).</span><span class="sxs-lookup"><span data-stu-id="1fb30-103">For help with missing 'LocalizedNames', see ["The element 'savedquery' has incomplete content. List of possible elements expected: 'LocalizedNames'" error occurs when importing a Dynamics 365 solution](https://support.microsoft.com/help/4463330/the-element-savedquery-has-incomplete-content-list-of-possible-element).</span></span>
 
-<span data-ttu-id="4585a-104">ابحث عن أحرف خاصة في اسم طريقة العرض التي قد تسبب المشكلة.</span><span class="sxs-lookup"><span data-stu-id="4585a-104">Look for special characters in the view name that might cause the issue.</span></span> <span data-ttu-id="4585a-105">قم بإزالة أية أحرف خاصة في اسم العرض ثم قم بتصدير الحل مرة أخرى.</span><span class="sxs-lookup"><span data-stu-id="4585a-105">Remove any special characters in the view name and export the solution again.</span></span>
+<span data-ttu-id="1fb30-104">ابحث عن أحرف خاصه في اسم طريقه العرض التي قد تؤدي إلى حدوث المشكلة.</span><span class="sxs-lookup"><span data-stu-id="1fb30-104">Look for special characters in the view name that might cause the issue.</span></span> <span data-ttu-id="1fb30-105">قم بازاله اي أحرف خاصه في اسم العرض وتصدير الحل مره أخرى.</span><span class="sxs-lookup"><span data-stu-id="1fb30-105">Remove any special characters in the view name and export the solution again.</span></span>
