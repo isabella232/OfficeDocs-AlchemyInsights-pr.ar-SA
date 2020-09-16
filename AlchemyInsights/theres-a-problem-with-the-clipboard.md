@@ -1,29 +1,30 @@
 ---
-title: هناك مشكلة في الحافظة
+title: ثمة مشكله في الحافظة
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000688"
 - "2580"
-ms.openlocfilehash: dc086f0c43cf307215d8d97a87fdf21d61611d36
-ms.sourcegitcommit: 0e43e19448705f151846e9e9e1e0f47e12938fdf
+ms.openlocfilehash: b66f3bf4eb6b0354b7e30c89dc1b049cb0f5b8ec
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/15/2020
-ms.locfileid: "44263864"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47750258"
 ---
-# <a name="resolving-excel-clipboard-error"></a>حل خطأ حافظة Excel
+# <a name="resolving-excel-clipboard-error"></a>خطا في حل الحافظة في Excel
 
-إذا تلقيت خطأ في Excel يقول: "هناك مشكلة في الحافظة، ولكن لا يزال بإمكانك لصق المحتوى داخل هذا المصنف"، حاول تعطيل ميزة المعاينة المباشرة باتباع الخطوات التالية:
+إذا تلقيت رسالة خطا في Excel تقول ، "توجد مشكله في الحافظة ، ولكن لا يزال بإمكانك لصق المحتوي داخل هذا المصنف ،" جرب تعطيل ميزه المعاينة المباشرة باتباع الخطوات التالية:
 
-1. في Excel، انقر فوق **خيارات الملفات**  >  **Options**.
-3. في مربع حوار **خيارات Excel،** حدد **عام**.
-4. ضمن **خيارات واجهة المستخدم**، قم بمسح تمكين **المعاينة المباشرة**.
+1. في Excel ، انقر **File**فوق  >  **خيارات الملفات**.
+3. في مربع الحوار **خيارات Excel** ، حدد **عام**.
+4. ضمن **خيارات واجهه المستخدم**، قم بإلغاء تحديد **تمكين المعاينة المباشرة**.
 5. انقر فوق **موافق**.
-6. إعادة تشغيل Excel.
+6. أعد تشغيل Excel.

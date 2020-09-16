@@ -1,26 +1,27 @@
 ---
-title: مشكلة التنشيط - لا يسمح الحساب بالتحرير على Mac
+title: مشكله في التنشيط-لا يسمح هذا الحساب بالتحرير علي جهاز Mac
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3409"
 - "9001425"
-ms.openlocfilehash: 4f1c457f4f8f83da0b5146fd7189654428aa5ec4
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: b4304f73ccad60f84c5cc6111de1e425695898e9
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44576943"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47748816"
 ---
-# <a name="fixing-the-microsoft-365-apps-your-account-doesnt-allow-editing-on-a-mac-message"></a>إصلاح تطبيقات Microsoft 365 "لا يسمح حسابك بالتحرير على رسالة Mac"
+# <a name="fixing-the-microsoft-365-apps-your-account-doesnt-allow-editing-on-a-mac-message"></a>إصلاح تطبيقات Microsoft 365 "لا يسمح حسابك بالتحرير علي جهاز Mac"
 
-إذا تلقيت هذه الرسالة، فجرّب ما يلي:
+إذا تلقيت هذه الرسالة ، فجرب ما يلي:
 
 - تأكد من أن لديك اشتراك يسمح لتراخيص العميل، و [تأكد من أن المستخدم لديه ترخيص معين](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users). 
 - تنزيل [أداة إزالة الترخيص](https://support.office.com/article/how-to-remove-office-license-files-on-a-mac-b032c0f6-a431-4dad-83a9-6b727c03b193) وتشغيلها.
