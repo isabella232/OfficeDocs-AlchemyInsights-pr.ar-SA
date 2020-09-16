@@ -1,10 +1,11 @@
 ---
-title: 606 معلومات عن التفويض
+title: 606 معلومات حول التفويض
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,24 +13,24 @@ ms.custom:
 - "606"
 - "3800004"
 ms.assetid: f67467cc-d434-41e1-847c-120412b12c3f
-ms.openlocfilehash: a59ea7fd995fa05179f70ae3a82268363145f3af
-ms.sourcegitcommit: b43f77221f47b50c41197a448a9c26c423ce1ad5
+ms.openlocfilehash: 7fca7eb6af2abdaefe03e1ae5aa5976575183f79
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/15/2019
-ms.locfileid: "36661715"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47755694"
 ---
-# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>استكشاف أخطاء التفويض في Outlook و Outlook علي الويب وإصلاحها
+# <a name="troubleshooting-delegation-in-outlook-and-outlook-on-the-web"></a>استكشاف أخطاء التفويض وإصلاحها في Outlook و Outlook علي الويب
 
 **استكشاف الأخطاء وإصلاحها باستخدام أداه SaRA:**
 
-1. تحميل وتثبيت أداه ساره [هنا](https://aka.ms/SaRA-SkypeForBusinessSignIn).
-1. حدد **Outlook**، ثم أواجه **مشكلات في التقويم الخاص بي**.
+1. قم بتنزيل أداه SaRA وتثبيتها [هنا](https://aka.ms/SaRA-SkypeForBusinessSignIn).
+1. حدد **Outlook**، ثم أواجه **مشاكل في التقويم**.
 1. قل **نعم** للجهاز المتاثر.
-1. أضافه عنوان البريد الكتروني للمستخدم المتاثر.
-1. حدد أواجه **مشاكل مع أذونات المفوض**.
-1. في المطالبة التالية ، إذا كنت الشخص الذي يعطي الأذونات ، ادخل عنوان البريد الكتروني للمفوض الخاص بك. إذا تلقيت أذونات وكانت المفوض ، ادخل عنوان البريد الكتروني للشخص الذي أعطاك الأذونات.
-1. في القائمة التالية ، حدد الخيار الذي يناسب السيناريو الخاص بك.
+1. أضف عنوان البريد الكتروني الخاص بالمستخدم المتاثر.
+1. حدد انا **أواجه مشاكل تتعلق بأذونات المفوضين**.
+1. في المطالبة التالية ، إذا كنت الشخص الذي يمنح الأذونات ، فادخل عنوان البريد الكتروني الخاص بالمفوض. إذا تلقيت أذونات وكانت أنت المفوض ، فادخل عنوان البريد الكتروني للشخص الذي منحك الأذونات.
+1. في القائمة التالية ، حدد الخيار الذي يناسب السيناريو.
 1. في القائمة التالية ، حدد مستوي الأذونات.
-1. في هذه المرحلة ، سوف أداه ساره اجراء الشيكات الألى وسوف توفر لك مع القرار المحتملة أو بدلا من ذلك سوف توفر سجل التشخيص التي يمكن استخدامها لمزيد من استكشاف الأخطاء وإصلاحها.
-1. يمكنك العثور علي السجلات في المجلد نتائج SaRA الموجود في C:\users\susername\appdate\loce\sarrorersult.
+1. في هذه المرحلة ، ستقوم أداه SaRA بالتحققات التلقائية ستوفر لك الدقة المحتملة أو البديلة ان توفر سجلا تشخيصيا يمكن استخدامه لاستكشاف الأخطاء وإصلاحها.
+1. يمكنك العثور علي السجلات في مجلد النتائج الSaRA الموجود في C:\Users\Username\AppData\Local\SaraResults.
