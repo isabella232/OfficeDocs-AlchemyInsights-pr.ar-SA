@@ -1,32 +1,33 @@
 ---
-title: مخزون البرامج مفقود أو غير دقيق
+title: مخزون البرنامج مفقود أو غير دقيق
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6034"
 - "9001470"
-ms.openlocfilehash: 0edafc8fab84ccdabecdc4853fde998ae79a8184
-ms.sourcegitcommit: c078058ee0b77ee1f1496feb2f3a5773e3e3b30d
+ms.openlocfilehash: 9a2013dfdfec32086f3ba029b6f78bffd9fcf79c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45197717"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47665273"
 ---
-# <a name="software-inventory-is-missing-or-inaccurate"></a>مخزون البرامج مفقود أو غير دقيق
+# <a name="software-inventory-is-missing-or-inaccurate"></a>مخزون البرنامج مفقود أو غير دقيق
 
-يوفر مخزون البرامج في خدمة Microsoft Defender ATP اسم المنتج أو البائع، ورقم الإصدار الأخير، ونقاط الضعف ونقاط الضعف التي تم الكشف عنها. لمزيد من المعلومات، راجع [جرد البرامج - إدارة التهديدات والثغرات](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory)الأمنية .
+يوفر مخزون البرامج في خدمه ATP ل Microsoft Defender اسم المنتج أو المورد ، ورقم الإصدار الأخير الخاص به ، والنقاط التي تم اكتشافها. للحصول علي مزيد من المعلومات ، راجع [التهديد وأداره المشكلات المتعلقة بالمخزون](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/tvm-software-inventory).
 
-يمكنك الإبلاغ عن معلومات غامضة أو غير كاملة أو أرقام إصدار غير دقيقة أو معلومات جرد البرامج التي تم إصلاحها باتباع الخطوات التالية.  
+يمكنك الإبلاغ عن المعلومات الغامضة أو غير المكتملة أو أرقام الإصدار غير الدقيقة أو المعلومات الخاصة بمخزون برامج ريميدياتيد باتباع الخطوات التالية.  
 
-1. افتح القائمة المنبثقة للبرامج، وحدد التطبيق في صفحة مخزون البرامج.
-2. حدد **الإبلاغ عن عدم الدقة**، ومن جزء القائمة المنبثقة، حدد فئة من القائمة المنسدلة.
-3. املأ عنوان بريدك الإلكتروني وتفاصيل عدم الدقة.
+1. افتح القائمة المنبثقة البرنامج ، وحدد التطبيق في صفحه مخزون البرنامج.
+2. حدد **التقرير إيناككوراسي**، ومن الجزء المنبثق ، حدد فئة من القائمة المنسدلة.
+3. قم بتعبئة عنوان البريد الكتروني الخاص بك ، وتفاصيل إيناككوراسي.
 4. حدد **إرسال**.</br>
-    يتم إرسال ملاحظاتك على الفور إلى خبراء إدارة الثغرات & التهديد.
+    يتم إرسال ملاحظاتك مباشره إلى التهديد & خبراء أداره الثغرات الامنيه.

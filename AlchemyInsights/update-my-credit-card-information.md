@@ -5,22 +5,23 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "1500001"
 - "430"
-ms.openlocfilehash: 841c06ea5ea3e2d19a6a96671f09075e53342478
-ms.sourcegitcommit: 64ed44e6ada9250cac8ae1621157f78d0de2c49b
+ms.openlocfilehash: 2c16f7afc44ff375ef26e809793edfc32c192429
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/29/2020
-ms.locfileid: "44417447"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47657632"
 ---
 # <a name="update-my-credit-card-information"></a>تحديث معلومات بطاقتي الائتمانية
 
-يمكنك إضافة/إزالة طريقة دفع من **مركز إدارة Microsoft 365**. إذا كانت طريقة الدفع لديك غير مقترنة بأي اشتراكات، يمكنك حذفها على الفور. إذا كان مقترنًا باشتراك، فراجع [إدارة طرق الدفع.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+يمكنك أضافه/أزاله طريقه دفع من **مركز أداره Microsoft 365**. إذا كانت طريقة الدفع لديك غير مقترنة بأي اشتراكات، يمكنك حذفها على الفور. إذا كان مقترنا باشتراك ، فارجع إلى [أداره طرق الدفع](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 1. انتقل إلى **الفوترة > الفواتير والمدفوعات > [أساليب الدفع](https://go.microsoft.com/fwlink/p/?linkid=2018806)**.
 
@@ -28,6 +29,6 @@ ms.locfileid: "44417447"
 
 3. أعلى جزء **حذف طريقة الدفع**، انقر فوق **حذف**.
 
-لمزيد من المعلومات، راجع [إدارة طرق الدفع](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+لمزيد من المعلومات ، راجع [أداره طرق السداد](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 لاستكشاف الأخطاء وإصلاحها، اطلع على [استكشاف أخطاء طرق الدفع وإصلاحها](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#troubleshoot-payment-methods).

@@ -1,50 +1,51 @@
 ---
-title: تكوين متقدم لعميل AIP
+title: التكوين المتقدم لعميل IP
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 08/03/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "4781"
 - "9002277"
-ms.openlocfilehash: 655770684f491337fe92bf742c0ba573949d8439
-ms.sourcegitcommit: 1dada930649a2625eb6d15910b2bfd5e1e00e5b6
+ms.openlocfilehash: 2ef8535c66dabe75418df0b5ae53f27ffd6caca1
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "46554748"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663248"
 ---
-# <a name="aip-client-advanced-configuration"></a>تكوين متقدم لعميل AIP
+# <a name="aip-client-advanced-configuration"></a>التكوين المتقدم لعميل IP
 
-هل تواجه مشاكل مع التكوين المتقدم لعميل AIP؟ إذا كان الأمر كذلك، قم بما يلي:
+هل تواجه مشاكل في التكوين المتقدم لعميل AIP ؟ إذا كان الأمر كذلك ، فقم بما يلي:
 
-1. قد تستخدم نُهجاً مُنْتَمَاهاً لم يتم تكوينها بشكل صحيح. لمزيد من المعلومات، راجع [كيفية تكوين نهج حماية معلومات Azure لمستخدمين محددين باستخدام نُهج محددة النطاق](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
+1. قد تستخدم نهجا في نطاق غير مكونه بشكل صحيح. لمزيد من المعلومات ، راجع [كيفيه تكوين نهج حماية البيانات في Azure لمستخدمين محددين باستخدام نهج ذات نطاق](https://docs.microsoft.com/azure/information-protection/configure-policy-scope).
 
-2. إذا استمرّت في مواجهة المشكلة، راجع الموارد أدناه. إذا ظلت المشكلة دون حل، خذ لقطة شاشة للمشكلة وأرفقها بتذكرة الدعم.
+2. إذا استمرت المشكلة ، فراجع الموارد أدناه. إذا ظلت المشكلة لم يتم حلها ، فخذ لقطه شاشه للمشكلة وأرفقها بتذكره الدعم.
 
-للحصول على موارد إضافية، راجع:
+للحصول علي موارد اضافيه ، راجع:
 
-- [كيفية تكوين إعدادات النهج لحماية معلومات Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-settings)  
+- [كيفيه تكوين إعدادات النهج لحماية البيانات في Azure](https://docs.microsoft.com/azure/information-protection/configure-policy-settings)  
     
-- [دليل المسؤول: تكوينات مخصصة لعميل حماية معلومات Azure](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-customizations)  
+- [دليل المسؤول: تكوينات مخصصه لعميل حماية البيانات في Azure](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-customizations)  
     
-- [ما المقصود بحماية معلومات Azure؟](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)  
+- [ما المقصود بحماية البيانات في Azure ؟](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)  
     
-- [إرشادات كيفية السيناريوهات الشائعة التي تستخدم حماية معلومات Azure](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
+- [إرشادات ارشاديه للسيناريوهات الشائعة التي تستخدم حماية البيانات في Azure](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
     
-- [تكوين نهج حماية معلومات Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy)  
+- [تكوين نهج حماية البيانات في Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy)  
     
-- [نهج حماية معلومات Azure الافتراضي](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-default)  
+- [نهج حماية البيانات الافتراضية في Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-default)  
     
-- [كيفية إنشاء تسمية جديدة لحماية معلومات Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-new-label)  
+- [كيفيه إنشاء تسميه جديده لحماية البيانات في Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-new-label)  
     
-- [كيفية تكوين تسمية لحماية "إدارة الحقوق"](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-protection)  
+- [كيفيه تكوين تسميه لحماية أداره الحقوق](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy-protection)  
     
-- [متطلبات حماية معلومات Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
+- [متطلبات حماية البيانات في Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
 
-- [البرنامج التعليمي: تكوين إعدادات نهج حماية المعلومات Azure وإنشاء تسمية جديدة](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
+- [برنامج تعليمي: تكوين إعدادات نهج حماية البيانات في Azure وإنشاء تسميه جديده](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)

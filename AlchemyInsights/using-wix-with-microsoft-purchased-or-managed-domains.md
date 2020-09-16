@@ -6,18 +6,19 @@ manager: scotv
 ms.date: 08/05/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "5855"
 - "9003096"
-ms.openlocfilehash: f6845c56f05e9cef11362ce601a974b73a154c9a
-ms.sourcegitcommit: 28a319e482e6a8644e87726e1b0e599819df52d0
+ms.openlocfilehash: bef0943c8621043218088abf0deebddf6c19ef50
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "46629332"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47664733"
 ---
 # <a name="using-a-wix-website-with-microsoft-purchased-or-managed-domains"></a>استخدام موقع ويب Wix مع المجالات التي تم شراؤها أو مداره من Microsoft
 
@@ -29,4 +30,4 @@ ms.locfileid: "46629332"
 
 - إذا اخترت تغيير خوادم الأسماء إلى Wix ، فيجب إنشاء سجلات DNS في Wix لشركه Microsoft. لمزيد من المعلومات ، راجع [إنشاء سجلات DNS في Wix ل Microsoft](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-wix).
 
-- إذا تم شراء مجالك من Microsoft ، فلا يمكن تغيير خوادم الأسماء. إذا كان يجب عليك تغيير خوادم الأسماء ، فيجب نقل المجال الذي اشتريته Microsoft إلى موفر استضافه آخر بعد 60 يوما. لمزيد من المعلومات ، راجع [الاسئله المتداولة حول المجالات](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq#can-i-transfer-a-domain-i-purchased-from-microsoft-to-another-provider).
+- إذا تم شراء مجالك من Microsoft ، فلا يمكن تغيير خوادم الأسماء. إذا كان يجب عليك تغيير خوادم الأسماء ، فيجب نقل المجال الذي اشتريته Microsoft إلى موفر استضافه آخر بعد 60 يوما. للحصول علي مزيد من المعلومات ، راجع [نقل مجال من Microsoft إلى مضيف آخر](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host).

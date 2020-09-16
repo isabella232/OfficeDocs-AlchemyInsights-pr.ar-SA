@@ -1,38 +1,39 @@
 ---
-title: 'AIP: تتبع وإلغاء البوابة'
+title: 'AIP: تعقب المدخل وابطاله'
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002281"
 - "5519"
-ms.openlocfilehash: 32cd346c9af145f733b0a62746a0ee1b632fa5ab
-ms.sourcegitcommit: c46b8df485edbd13e8bb4d1b2ba1c2821ddc9da0
+ms.openlocfilehash: af2deff6b1ac8531fca9020277265f1d9d958775
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/23/2020
-ms.locfileid: "44357283"
+ms.lasthandoff: 09/14/2020
+ms.locfileid: "47663140"
 ---
-# <a name="aip-track-and-revoke-portal"></a>AIP: تتبع وإلغاء البوابة
+# <a name="aip-track-and-revoke-portal"></a>AIP: تعقب المدخل وابطاله
 
-استخدم **موقع تتبع المستندات** في بوابة Azure لتعقب المستندات وإبطالها عند استخدام حماية معلومات Azure. يمكن أيضًا استخدام تطبيقات Office (Word و Excel و PowerPoint) ومستكشف الملفات لتعقب المستندات وإبطالها.
+استخدم **موقع تعقب المستندات** في مدخل Azure لتعقب المستندات وابطالها عند استخدام حماية البيانات في Azure. يمكن أيضا استخدام تطبيقات Office (Word و Excel و PowerPoint) و"مستكشف الملفات" لتعقب المستندات وابطالها.
 
-1. في موقع تتبع المستند، انقر فوق **إبطال الوصول**. إلغاء مستند يزيل الوصول من المستخدمين المعتمدين؛ لم يتم حذف المستند.
+1. في موقع تعقب المستندات ، انقر فوق **ابطال الوصول**. يؤدي ابطال مستند إلى أزاله امكانيه الوصول من المستخدمين المخولين ؛ لا يتم حذف المستند.
 2. في تطبيق Office:
-    - افتح المستند المحمي الذي تريد تعقبه أو إبطاله.
-    - في علامة التبويب **الرئيسية،** في مجموعة **الحماية،** انقر فوق **حماية > المسار والإبطال**.
+    - افتح المستند المحمي الذي تريد تعقبه أو ابطاله.
+    - علي علامة التبويب **الصفحة الرئيسية** ، في المجموعة **حماية** ، انقر فوق **حماية ال> التعقب والابطال**.
 
-- للحصول على معلومات إضافية حول تتبع المستند وإلغائه، راجع [المسار والإلغاء](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke).
+- للحصول علي معلومات اضافيه حول تعقب مستند وابطاله ، راجع [تعقب وابطال](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke).
 
-للحصول على معلومات حول استخدام PowerShell لإدارة موقع تتبع المستند، قم بتسجيل المعلومات، راجع ما يلي:
-- [دليل المستخدم: تتبع المستندات وإبطالها عند استخدام حماية معلومات Azure](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke)
-- [دليل المسؤول: تكوين واستخدام تتبع المستندات لحماية معلومات Azure](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-document-tracking)
-- [ترخيص استخدام إدارة الحقوق](https://docs.microsoft.com/azure/information-protection/configure-usage-rights#rights-management-use-license)
-- [مراجعة اشتراكات وميزات حماية المعلومات في Azure](https://azure.microsoft.com/pricing/details/information-protection)
-- [متطلبات حماية المعلومات اللازوردية](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
-- [بدء سريع تعليمي لحماية المعلومات أزور](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
+للحصول علي معلومات حول استخدام PowerShell لأداره موقع تعقب المستندات ، راجع المعلومات التالية:
+- [دليل المستخدم: تعقب المستندات وابطالها عند استخدام حماية البيانات في Azure](https://docs.microsoft.com/azure/information-protection/rms-client/client-track-revoke)
+- [دليل المسؤول: تكوين تعقب المستندات واستخدامه لحماية البيانات في Azure](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-document-tracking)
+- [ترخيص استخدام أداره الحقوق](https://docs.microsoft.com/azure/information-protection/configure-usage-rights#rights-management-use-license)
+- [مراجعه اشتراكات وميزات حماية البيانات في Azure](https://azure.microsoft.com/pricing/details/information-protection)
+- [متطلبات حماية البيانات في Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
+- [البرنامج التعليمي لبدء التشغيل السريع لحماية البيانات في Azure](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
