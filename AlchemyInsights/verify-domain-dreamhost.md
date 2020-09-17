@@ -11,17 +11,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: d44d0bd3eefe0c50e05bff0dab1f3515a1e6ffc2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8f682944a9f06da15bfe61c63db320a0c1cc4028
+ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669018"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47816348"
 ---
-# <a name="verify-your-domain-with-dreamhost"></a>التحقق من مجالك باستخدام دريامهوست
+# <a name="verify-your-domain-with-dreamhost"></a>التحقق من مجالك باستخدام دريمهوست
 
 للتحقق من مجالك ، ستحتاج إلى أضافه سجل TXT إلى جهة تسجيل المجالات للتحقق من ملكيتك للمجال. 
 
-أولا ، اتبع [المعالج أضافه مجال](https://portal.office.com/adminportal/home#/Domains) بتحديد **مجالات الإعدادات** \> **Domains**، ثم **أضف مجالا**.
+أولا ، اتبع [المعالج أضافه مجال](https://admin.microsoft.com/Adminportal#/Domains) بتحديد **مجالات الإعدادات** \> **Domains**، ثم **أضف مجالا**.
   
-راجع [إنشاء سجلات DNS في دريامهوست ل Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-dreamhost) للحصول علي الإرشادات المفصلة خطوه بخطوه.
+راجع [إنشاء سجلات DNS في دريمهوست ل Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-dreamhost) للحصول علي الإرشادات المفصلة خطوه بخطوه.

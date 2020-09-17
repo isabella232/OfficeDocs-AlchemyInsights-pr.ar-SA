@@ -1,26 +1,27 @@
 ---
-title: التحقق من نطاقك باستخدام Hostgator
+title: التحقق من مجالك باستخدام Hostgator
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: aece5e267f5a9a03f374e75643cd9a5e4fa6c21d
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: e364551f50e8c8efdee74842be2fb4fab734bb71
+ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43765400"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47816384"
 ---
-# <a name="verify-your-domain-with-hostgator"></a>التحقق من نطاقك باستخدام Hostgator
+# <a name="verify-your-domain-with-hostgator"></a>التحقق من مجالك باستخدام Hostgator
 
-للتحقق من نطاقك، ستحتاج إلى إضافة سجل TXT إلى مسجل النطاق الخاص بك للتحقق من امتلاكك لنطاقك. 
+للتحقق من مجالك ، ستحتاج إلى أضافه سجل TXT إلى جهة تسجيل المجالات للتحقق من ملكيتك للمجال. 
 
-أولاً، اتبع [معالج إضافة مجال](https://portal.office.com/adminportal/home#/Domains) عن طريق تحديد **مجالات** **الإعدادات،** \> ثم **قم بإضافة مجال**.
+أولا ، اتبع [المعالج أضافه مجال](https://admin.microsoft.com/Adminportal#/Domains) بتحديد **مجالات الإعدادات** \> **Domains**، ثم **أضف مجالا**.
   
-راجع [إنشاء سجلات DNS في Hostgator لـ Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-hostgator) للحصول على إرشادات خطوة بخطوة.
+راجع [إنشاء سجلات DNS في Hostgator ل Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-hostgator) للحصول علي الإرشادات المفصلة خطوه بخطوه.

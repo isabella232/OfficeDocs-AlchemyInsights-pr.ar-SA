@@ -1,26 +1,27 @@
 ---
-title: التحقق من نطاقك باستخدام Cloudflare
+title: التحقق من مجالك باستخدام كلودفلاري
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1"
-ms.openlocfilehash: 481afa2550afd25797133ef6f3fff04111118a8c
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 7f6162fa03fd53e23d048ca7997e0d878279fcc6
+ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43766300"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47816420"
 ---
-# <a name="verify-your-domain-with-cloudflare"></a>التحقق من نطاقك باستخدام Cloudflare
+# <a name="verify-your-domain-with-cloudflare"></a>التحقق من مجالك باستخدام كلودفلاري
 
-للتحقق من نطاقك، ستحتاج إلى إضافة سجل TXT إلى مسجل النطاق الخاص بك للتحقق من امتلاكك لنطاقك. 
+للتحقق من مجالك ، ستحتاج إلى أضافه سجل TXT إلى جهة تسجيل المجالات للتحقق من ملكيتك للمجال. 
 
-أولاً، اتبع [معالج إضافة مجال](https://portal.office.com/adminportal/home#/Domains) عن طريق تحديد **مجالات** **الإعدادات،** \> ثم **قم بإضافة مجال**.
+أولا ، اتبع [المعالج أضافه مجال](https://admin.microsoft.com/Adminportal#/Domains) بتحديد **مجالات الإعدادات** \> **Domains**، ثم **أضف مجالا**.
   
-راجع [إنشاء سجلات DNS في Cloudflare لـ Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-cloudflare) للحصول على إرشادات خطوة بخطوة.
+راجع [إنشاء سجلات DNS في كلودفلاري ل Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-cloudflare) للحصول علي الإرشادات المفصلة خطوه بخطوه.
