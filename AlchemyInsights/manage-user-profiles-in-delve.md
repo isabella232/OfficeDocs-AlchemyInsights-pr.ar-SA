@@ -1,35 +1,36 @@
 ---
-title: إدارة ملفات تعريف المستخدمين في Delve
+title: أداره ملفات تعريف المستخدمين في Delve
 ms.author: ponincev
 author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: e595481a-91de-431d-bf86-d7610ff3b6a7
-ms.openlocfilehash: 73061d23b7deec176f0695dcfb1895eebc428df9
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 38f209e37ff8a5694ae59f7b7b85e1d439d88a3c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43720526"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47811691"
 ---
-# <a name="manage-user-profiles-in-delve"></a>إدارة ملفات تعريف المستخدمين في Delve
+# <a name="manage-user-profiles-in-delve"></a>أداره ملفات تعريف المستخدمين في Delve
 
-يتيح Office Delve للمستخدمين إدارة ملف تعريف المستخدم الخاص بهم. يمكن للمستخدمين:
+يسمح Office Delve للمستخدمين باداره ملف تعريف المستخدم الخاص بهم. يمكن للمستخدمين:
   
-- عرض معلوماتهم وتحديثها
+- عرض المعلومات الخاصة بها وتحديثها
     
-- الحفاظ على خصوصية بعض المعلومات
+- الاحتفاظ ببعض المعلومات خاصه
     
-- تغيير ملفهم الشخصي أو صورة الغلاف
+- تغيير ملف التعريف أو صوره الغلاف
     
-- تغيير تنسيق اللغة والوقت لـ Delve
+- تغيير تنسيق اللغة والوقت في Delve
     
 > [!NOTE]
-> إذا حدّث أحد المستخدمين صورة ملفه الشخصي ولم يظهر التغيير في SharePoint أو OneDrive، فاطلب منه فتح مستعرض ويب، [ثم انتقل إلى Office.com،](https://www.office.com)وتسجيل الدخول باستخدام حسابه في العمل أو المدرسة، ثم انقر فوق لوحة OneDrive أو SharePoint. سيؤدي ذلك إلى مزامنة صورة ملف التعريف. قد يحتاج المستخدم إلى محاولة إكمال هذه الخطوات مع الإصدار الخاص من المستعرض الخاص به. 
+> إذا قام مستخدم بتحديث صوره ملف التعريف الخاص به ولم يظهر التغيير في SharePoint أو OneDrive ، فاطلب منه فتح مستعرض ويب ، [وانتقل إلى Office.com](https://www.office.com)، وسجل الدخول باستخدام حساب العمل أو المؤسسة التعليمية الخاص به ، ثم انقر فوق اللوحة OneDrive أو SharePoint. سيؤدي ذلك إلى مطالبه صوره ملف التعريف المطلوب مزامنتها. قد يحتاج المستخدم إلى محاولة إكمال هذه الخطوات باستخدام الإصدار الخاص من المستعرض الخاص به. 
   
-[مزيد من المعلومات حول تحديث ملفات التعريف في Delve](https://go.microsoft.com/fwlink/?linkid=735070)
+[تعرف علي المزيد حول تحديث ملفات التعريف في Delve](https://go.microsoft.com/fwlink/?linkid=735070)
   
 

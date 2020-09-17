@@ -1,27 +1,28 @@
 ---
-title: إيقاف تشغيل علبة الوارد المركزة
+title: إيقاف تشغيل "علبه وارد المركز عليه"
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
 - "1199"
 - "105"
 - "8000001"
-ms.openlocfilehash: 7059f3ba1886dc1d86f15b40b4fb7e295a9fb478
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: fc9117b3575181641a246f7978caaba5feac163d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43758993"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47811716"
 ---
-# <a name="turn-off-focused-inbox"></a>إيقاف تشغيل علبة الوارد المركزة
+# <a name="turn-off-focused-inbox"></a>إيقاف تشغيل "علبه وارد المركز عليه"
 
-1. في أعلى الصفحة، حدد <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' /> لفتح جزء الإعدادات.
-2. في جزء الإعدادات، قم بنقل تبديل **علبة الوارد المركزة** إلى إيقاف التشغيل.
+1. في اعلي الصفحة ، حدد <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAMAAABhEH5lAAAA51BMVEX6+fj6+fDr+fjK+fj69LRxsuj6+cjY+fi/+fin3ev6+ddMk81HdK5AaatHLn/ntXTrsW5cRmLOk0pAND5KNCl1NCOi3fiGwvjJ3fDBz+F6teFgpdt6stX68c314syTucirtchum8bjz8BQh7/6+b47fbrKtapiian63aFDaaHJuZJiQo36woVabH7ZtHiOQnTHm2wlKmqriWF/cFzVnVTFjlSyeUkrNEmBLkWfaUGsaT67fTrj9Pi19PjO8fiv5vj69OFWm9Pt3aZ1Qo0lNHQ1P2iYTWGOQmHcpV5kRlqvc0mrbERpPzMoEeekAAAAxElEQVQY03WQ5w6CUAyFy3Jv3HsrICoKqLj3fP/nsTcNakjsn9t+bW/OKfyL6iTCc49e/ktuRs2WEhE1U/qgQQfEzGkNyxzVXLdw0ASW+a7BZp3HpJ+cpovUjcv6PYtvSmKj4/SswTMaBgg9FQF5axWysKoson4cGMYCvlEAQDwK7XkZwEVbRBpDPC46ygbAbPl31p4Wvd8nwiRCLnIArJb1ZBD7KFWMkdQLSUVIhowsGaIwzzVHikfVV8lzHPv3OGTfTd4gnRNqGdZ49AAAAABJRU5ErkJggg==' /> لفتح جزء الإعدادات.
+2. في جزء الإعدادات ، انقل المفتاح " **علبه وارد المركز** عليه" إلى إيقاف التشغيل.
 
-لمزيد من المعلومات، راجع [إيقاف تشغيل علبة الوارد المركزة](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2?wt.mc_id=Office_Outlook_com_Alchemy#bkmk_outlookcom).
+لمزيد من المعلومات ، راجع [إيقاف تشغيل علبه وارد المركز](https://support.office.com/article/f714d94d-9e63-4217-9ccb-6cb2986aa1b2?wt.mc_id=Office_Outlook_com_Alchemy#bkmk_outlookcom)عليه.

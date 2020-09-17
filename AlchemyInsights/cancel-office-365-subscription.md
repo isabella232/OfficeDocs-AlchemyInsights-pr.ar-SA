@@ -6,26 +6,27 @@ manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: b53dc3017cb2a47b25e5c603dcbc5e76fb8dc675
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: b663914963361d7a20f4b72b8a75bbdebe7e324c
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508291"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47811813"
 ---
-# <a name="cancelling-your-microsoft-365-subscription"></a>إلغاء اشتراك Microsoft 365؟
+# <a name="cancelling-your-microsoft-365-subscription"></a>هل يتم إلغاء اشتراكك في Microsoft 365 ؟
 
-نأسف لرؤيتك تذهب، ولكن إليك خياراتك لإلغاء اشتراكك:
+ناسف لرؤيتك ، ولكن اليك الخيارات التالية للغاء اشتراكك:
   
-- إذا كنت عميلًا تجريبيًا ، فلا يوجد شيء لإلغاء. تنتهي صلاحية الاشتراكات التجريبية تلقائيًا ما لم تقدم طريقة دفع.
+- إذا كنت عميلا تجريبيا ، فهذا يعني انه لا يمكنك إلغاء الاشتراك. تنتهي صلاحيه الاشتراكات التجريبية تلقائيا الا إذا قمت بتوفير طريقه دفع.
 
-- إذا كان لديك أقل من 25 ترخيصًا معينًا، يمكنك إلغاء اشتراكك عبر الإنترنت. انتقل إلى **فوترة** \> **[منتجاتك.](https://go.microsoft.com/fwlink/p/?linkid=842054)** في قسم **الإجراءات & الإعدادات،** اختر **إلغاء الاشتراك**.
+- إذا كان لديك اقل من 25 ترخيصا معينا ، فيمكنك إلغاء الاشتراك عبر الإنترنت. انتقل إلى **فوتره** \> **[منتجاتك](https://go.microsoft.com/fwlink/p/?linkid=842054)**. في المقطع **إعدادات & الإجراءات** ، اختر **إلغاء الاشتراك**.
 
-- إذا كان لديك أكثر من 25 ترخيصًا معينًا، يمكنك إما إزالة المستخدمين حتى يكون لديك أقل من 25 ترخيصًا، أو استخدام خيار "دعنا نتصل بك" للتحدث إلى مهندس دعم.
+- إذا كان لديك أكثر من 25 ترخيصا معينا ، فيمكنك اما أزاله المستخدمين حتى يكون لديك اقل من 25 ، أو استخدام الخيار "دعنا نتصل بك" للتحدث إلى أحد مهندسي الدعم.
 
-لمعرفة المزيد، راجع [إلغاء اشتراكك](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+لمعرفه المزيد ، راجع [إلغاء الاشتراك](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
