@@ -1,30 +1,31 @@
 ---
-title: أسئلة حول كيفية استخدام أداة نشر Office (ODT)
+title: اسئله حول كيفيه استخدام أداه نشر Office (ODT)
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 3e88e0f3-c86d-4ab8-b076-59d0552318f9
-ms.openlocfilehash: 4aef42df4dde17d15863fca67e41f0ff23e506dc
-ms.sourcegitcommit: 7e06d9ec1dd462cbd882f088c997d012a032f04d
+ms.openlocfilehash: e9f7581fd21cf5ca2d712038c4b73b67d08f3a76
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/04/2020
-ms.locfileid: "44010717"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47774878"
 ---
-# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a><span data-ttu-id="bdded-102">أسئلة حول كيفية استخدام أداة نشر Office (ODT)</span><span class="sxs-lookup"><span data-stu-id="bdded-102">Questions about how to use the Office Deployment Tool (ODT)</span></span>
+# <a name="questions-about-how-to-use-the-office-deployment-tool-odt"></a><span data-ttu-id="601df-102">اسئله حول كيفيه استخدام أداه نشر Office (ODT)</span><span class="sxs-lookup"><span data-stu-id="601df-102">Questions about how to use the Office Deployment Tool (ODT)</span></span>
 
-<span data-ttu-id="bdded-103">تحميل أداة نشر Office من [مركز تنزيل Microsoft](https://go.microsoft.com/fwlink/p/?LinkID=626065).</span><span class="sxs-lookup"><span data-stu-id="bdded-103">Download the Office Deployment Tool from the [Microsoft Download Center](https://go.microsoft.com/fwlink/p/?LinkID=626065).</span></span>
+<span data-ttu-id="601df-103">قم بتنزيل أداه نشر Office من [مركز التنزيل ل Microsoft](https://go.microsoft.com/fwlink/p/?LinkID=626065).</span><span class="sxs-lookup"><span data-stu-id="601df-103">Download the Office Deployment Tool from the [Microsoft Download Center](https://go.microsoft.com/fwlink/p/?LinkID=626065).</span></span>
   
-<span data-ttu-id="bdded-104">بعد تنزيل الملف، قم بتشغيل الملف القابل للتنفيذ ذاتي الاستخراج، والذي يحتوي على أداة نشر Office القابلة للتنفيذ (setup.exe) وملف تكوين عينة (configuration.xml).</span><span class="sxs-lookup"><span data-stu-id="bdded-104">After downloading the file, run the self-extracting executable file, which contains the Office Deployment Tool executable (setup.exe) and a sample configuration file (configuration.xml).</span></span>
+<span data-ttu-id="601df-104">بعد تنزيل الملف ، قم بتشغيل الملف القابل للتنفيذ والاستخراج الذاتي ، الذي يحتوي علي أداه نشر Office القابلة للتنفيذ (setup.exe) وملف تكوين نموذجي (configuration.xml).</span><span class="sxs-lookup"><span data-stu-id="601df-104">After downloading the file, run the self-extracting executable file, which contains the Office Deployment Tool executable (setup.exe) and a sample configuration file (configuration.xml).</span></span>
   
- <span data-ttu-id="bdded-105">**لاستبعاد تطبيقات Microsoft 365 لمنتجات المؤسسات من أجهزة الكمبيوتر العميلة أو إزالتها:**</span><span class="sxs-lookup"><span data-stu-id="bdded-105">**To exclude or remove Microsoft 365 Apps for enterprise products from client computers:**</span></span>
+ <span data-ttu-id="601df-105">**لاستبعاد تطبيقات Microsoft 365 لمنتجات المؤسسة من أجهزه الكمبيوتر العميلة أو ازالتها:**</span><span class="sxs-lookup"><span data-stu-id="601df-105">**To exclude or remove Microsoft 365 Apps for enterprise products from client computers:**</span></span>
   
-<span data-ttu-id="bdded-106">عند تثبيت تطبيقات Microsoft 365 للمؤسسات، يمكنك استبعاد منتجات معينة.</span><span class="sxs-lookup"><span data-stu-id="bdded-106">When installing Microsoft 365 Apps for enterprise, you can exclude specific products.</span></span> <span data-ttu-id="bdded-107">للقيام بذلك، اتبع الخطوات لتثبيت Office مع ODT، ولكن قم بتضمين عنصر ExcludApp في ملف التكوين الخاص بك.</span><span class="sxs-lookup"><span data-stu-id="bdded-107">To do so, follow the steps for installing Office with the ODT, but include the ExcludeApp element in your configuration file.</span></span> <span data-ttu-id="bdded-108">على سبيل المثال، يعمل ملف التكوين هذا على تثبيت كافة تطبيقات Microsoft 365 لمنتجات المؤسسات باستثناء Publisher:</span><span class="sxs-lookup"><span data-stu-id="bdded-108">For example, this configuration file installs all the Microsoft 365 Apps for enterprise products except Publisher:</span></span>
+<span data-ttu-id="601df-106">عند تثبيت تطبيقات Microsoft 365 للمؤسسة ، يمكنك استبعاد منتجات معينه.</span><span class="sxs-lookup"><span data-stu-id="601df-106">When installing Microsoft 365 Apps for enterprise, you can exclude specific products.</span></span> <span data-ttu-id="601df-107">للقيام بذلك ، اتبع الخطوات المتعلقة بتثبيت Office مع ODT ، ولكن قم بتضمين عنصر اكسكلوديب في ملف التكوين.</span><span class="sxs-lookup"><span data-stu-id="601df-107">To do so, follow the steps for installing Office with the ODT, but include the ExcludeApp element in your configuration file.</span></span> <span data-ttu-id="601df-108">علي سبيل المثال ، يقوم ملف التكوين هذا بتثبيت كل تطبيقات Microsoft 365 لمنتجات enterprise باستثناء Publisher:</span><span class="sxs-lookup"><span data-stu-id="601df-108">For example, this configuration file installs all the Microsoft 365 Apps for enterprise products except Publisher:</span></span>
   
 ```
 <Add SourcePath="\\Server\share" Version="15.1.2.3" OfficeClientEdition="32">
@@ -35,6 +36,6 @@ ms.locfileid: "44010717"
 </Add>
 ```
 
-[<span data-ttu-id="bdded-109">نظرة عامة على أداة نشر Office</span><span class="sxs-lookup"><span data-stu-id="bdded-109">Overview of the Office Deployment Tool</span></span>](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool)
+[<span data-ttu-id="601df-109">نظره عامه حول أداه نشر Office</span><span class="sxs-lookup"><span data-stu-id="601df-109">Overview of the Office Deployment Tool</span></span>](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool)
   
 
