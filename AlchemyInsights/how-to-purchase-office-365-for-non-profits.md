@@ -1,11 +1,12 @@
 ---
-title: مايكروسوفت 365 للمنظمات غير الربحية -- قيد الاستعراض
+title: Microsoft 365 ل لمؤسسات غير-ضمن مراجعه
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,15 +14,15 @@ ms.custom:
 - "341"
 - "1500010"
 ms.assetid: aaeb8a90-8265-410f-a495-734ae5e75a76
-ms.openlocfilehash: d09512a707b3c3c500d5908cebef932c6e62f921
-ms.sourcegitcommit: 057d87c9d866fa1371d02350420d13774545c028
+ms.openlocfilehash: e101cc34f28eee2abeae55e0cb5abc078f78bf41
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/02/2020
-ms.locfileid: "44005209"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47779722"
 ---
-# <a name="microsoft-365-for-nonprofits---under-review"></a>مايكروسوفت 365 للمنظمات غير الربحية -- قيد الاستعراض
+# <a name="microsoft-365-for-nonprofits---under-review"></a>Microsoft 365 ل لمؤسسات غير-ضمن مراجعه
 
-تتم **مراجعة**أهليتك كمنظمة غير ربحية مؤهلة من Microsoft. يمكنك أن تتوقع تلقي إشعار حول تحديد أهليتك **بعد 48 ساعة** من وقت تقديمك. يُرجى السماح باستقبال هذا الإخطار لمدة **48 ساعة** على الأقل قبل فتح طلب الخدمة. 
+ان استحقاقك كمؤسسه Nonprofit مؤهله من Microsoft **تحت المراجعة**. توقع تلقي إعلام بشأن تحديد أهليتك بعد **48 ساعة** من وقت الإرسال. رجاءً انتظر **48 ساعة** على الأقل لتلقي هذا الإعلام قبل فتح طلب خدمة. 
 
-لمزيد من المعلومات، راجع [Microsoft 365 للمؤسسات غير الربحية](https://www.microsoft.com/nonprofits/microsoft-365). 
+للحصول علي مزيد من المعلومات ، راجع [Microsoft 365 ل لمؤسسات غير](https://www.microsoft.com/nonprofits/microsoft-365). 
