@@ -1,11 +1,12 @@
 ---
-title: Outlook.com أدلة MSA
+title: Outlook.com MSA
 ms.author: daeite
 author: daeite
 manager: joallard
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
@@ -15,24 +16,24 @@ ms.custom:
 - "1010"
 - "8000060"
 ms.assetid: a4403b0c-6f4c-4e2f-b3bd-4e814de10aff
-ms.openlocfilehash: 79fcfdd0bd7336167b06aac5180411fede3e3607
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 321b19efb4fe33049ac5f2267dce3cfdc2fedb01
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43745888"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47776905"
 ---
 # <a name="security-info-and-security-codes"></a>معلومات الأمان ورموز الأمان
 
-لإضافة معلومات الأمان إلى حساب Microsoft الخاص بك:
+لأضافه معلومات الأمان إلى حساب Microsoft الخاص بك:
 
-1. تسجيل الدخول إلى [أساسيات الأمان](https://account.microsoft.com/security) باستخدام حساب Microsoft الخاص بك.
-1. حدد **معلومات جهة اتصال الأمان**.
-1. حدد **إضافة معلومات الأمان** واتبع الإرشادات لإدخال رقم هاتف أو عنوان بريد إلكتروني.
-1. سوف تتلقى رمز أمان على رقم الهاتف أو عنوان البريد الإلكتروني هذا. أدخل رمز الأمان الذي تلقيته في إطار **إضافة معلومات الأمان** وحدد **التالي**.
+1. سجل دخولك إلى [أساسيات الأمان](https://account.microsoft.com/security) باستخدام حساب Microsoft الخاص بك.
+1. حدد **معلومات جهة الاتصال الامنيه**.
+1. حدد **أضافه معلومات الأمان** واتبع الإرشادات لإدخال رقم هاتف أو عنوان بريد الكتروني.
+1. ستتلقى رمز أمان علي رقم الهاتف أو عنوان البريد الكتروني هذا. ادخل رمز الأمان الذي تلقيته في نافذه **أضافه معلومات الأمان** وحدد **التالي**.
 
-إذا كنت ترغب في إزالة رقم هاتف أو عنوان بريد إلكتروني، فحدد **إزالة** بجواره.
+إذا أردت أزاله رقم هاتف أو عنوان بريد الكتروني ، فحدد **أزاله** إلى جانبه.
 
-إذا كنت ترغب في تغيير رقم الهاتف أو عنوان البريد الإلكتروني الذي يتلقى تنبيهات الأمان، فحدد **تغيير خيارات التنبيه**.
+إذا كنت تريد تغيير رقم الهاتف أو عنوان البريد الكتروني الذي يتلقى تنبيات الأمان ، فحدد **تغيير خيارات التنبيه**.
 
-لمعرفة المزيد، اقرأ [معلومات أمان حساب Microsoft ورموز التحقق](https://support.microsoft.com/help/12428/).
+لمعرفه المزيد ، أقرا [معلومات أمان حساب Microsoft ورموز التحقق من الصحة](https://support.microsoft.com/help/12428/).

@@ -1,37 +1,38 @@
 ---
-title: زيادة حجم علبة البريد لـ SKUs المؤسسة
+title: زيادة حجم علبه البريد لمؤسسات Sku
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e57572ff-0ba7-4782-ba5d-cdac3142ea71
-ms.openlocfilehash: 82917466c3e9f7b1e452f98cac41fa945f0ec736
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 1af9775706a6e40aaed8f23b67a9329efe841090
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44508759"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47778210"
 ---
-# <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>ما يجب القيام به إذا كان حجم علبة البريد الخاص بك بالفعل 100GB
+# <a name="what-to-do-if-your-mailbox-size-is-already-100gb"></a>ما يجب فعله إذا كان حجم علبه البريد 100 غيغابايت بالفعل
 
-مع خطة E3 أو E5، حجم علبة البريد الخاصة بك هو بالفعل 100 غيغابايت، وليس هناك طريقة لزيادتها. بدلاً من ذلك، احذف البريد الإلكتروني القديم، أو قم بتشغيل أرشفة البريد الإلكتروني لتخزينه في السحابة. 
+باستخدام خطه E3 أو E5 ، يكون حجم علبه البريد 100 غيغابايت بالفعل ، ولا توجد طريقه لزيادتها. بدلا من ذلك ، يمكنك حذف البريد الكتروني القديم ، أو تشغيل أرشفه البريد الكتروني لتخزينه في السحابة. 
   
-لتمكين أرشفة البريد الإلكتروني:
+لتمكين أرشفه البريد الكتروني:
   
-1. في مركز إدارة Microsoft 365، انتقل إلى **مراكز الإدارة** \> **Exchange**. 
+1. في مركز أداره Microsoft 365 ، انتقل إلى Exchange **مراكز الاداره** \> **Exchange**. 
     
-2. اختر **صناديق** بريد \> **المستلمين**وحدد علبة بريد. 
+2. اختر **Recipients** \> **علب بريد**المستلمين ، وحدد علبه بريد. 
     
-3. في جزء التفاصيل ضمن **الأرشيف في المكان،** اختر **تمكين**. 
+3. في جزء التفاصيل ضمن **الارشفه الموضعية**، اختر **تمكين**. 
     
-4. بعد بضع دقائق، سيظهر مجلد جديد في Outlook الخاص بالمستخدم على الويب يسمى *الأرشيف في المكان* ، أو في تطبيق Outlook يسمى الأرشيف عبر الإنترنت *- \<name\> * . يمكن للمستخدم سحب البريد الإلكتروني وإفلاته إلى الأرشيف. 
+4. بعد دقائق قليله ، سيظهر المجلد الجديد في Outlook علي الويب الذي يسمي *الارشفه الموضعية* ، أو في تطبيق Outlook يسمي *الارشفه \<name\> المتصلة-* . يمكن للمستخدم سحب البريد الكتروني وإفلاته في الأرشيف. 
     
-يمكنك الوصول إلى كمية غير محدودة من التخزين للأرشفة. لمعرفة المزيد، راجع [تمكين الأرشفة غير المحدودة.](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving)
+يمكنك الوصول إلى كميه مساحة تخزين غير محدوده للارشفه. لمعرفه المزيد ، راجع [تمكين الارشفه غير المحدودة](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving).
   
 
