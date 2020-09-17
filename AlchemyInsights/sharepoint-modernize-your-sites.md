@@ -1,9 +1,10 @@
 ---
-title: تحديث مواقع SharePoint الخاصة بك
+title: تحديث مؤثرات مواقع SharePoint
 ms.author: v-miegge
 author: v-miegge
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: c508f18f-7e74-43ac-bc93-22c71642d454
@@ -11,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000153"
 - "1692"
-ms.openlocfilehash: 802cd3a2492141ebe4fcf7318abb6756c88753b5
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 42b36e13af59c2323ab0db6107174f4b9d652e28
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44582114"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47800559"
 ---
-# <a name="modernize-your-sharepoint-sites"></a><span data-ttu-id="a1e09-102">تحديث مواقع SharePoint الخاصة بك</span><span class="sxs-lookup"><span data-stu-id="a1e09-102">Modernize your SharePoint Sites</span></span>
+# <a name="modernize-your-sharepoint-sites"></a><span data-ttu-id="07ea1-102">تحديث مؤثرات مواقع SharePoint</span><span class="sxs-lookup"><span data-stu-id="07ea1-102">Modernize your SharePoint Sites</span></span>
 
-<span data-ttu-id="a1e09-103">للحصول على نظرة عامة خطوة بخطوة لتحديث مواقع SharePoint الكلاسيكية إلى التجربة الحديثة، راجع [تحديث مواقع SharePoint الكلاسيكية.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites)</span><span class="sxs-lookup"><span data-stu-id="a1e09-103">For a step-by-step overview of modernizing your classic SharePoint Sites to the modern experience, see [Modernize your classic SharePoint Sites](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).</span></span>
+<span data-ttu-id="07ea1-103">للحصول علي نظره عامه مفصله خطوه بخطوه حول موديرنيزينج مواقع SharePoint الكلاسيكية إلى التجربة الحديثة ، راجع [تحديث مؤثرات مواقع sharepoint الكلاسيكية](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).</span><span class="sxs-lookup"><span data-stu-id="07ea1-103">For a step-by-step overview of modernizing your classic SharePoint Sites to the modern experience, see [Modernize your classic SharePoint Sites](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).</span></span>
 
-* <span data-ttu-id="a1e09-104">لزيادة استخدام واجهة المستخدم الحديثة لصفحات موقعك وصفحات القائمة والمكتبة، راجع [تحديث واجهة المستخدم](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface).</span><span class="sxs-lookup"><span data-stu-id="a1e09-104">To maximize the use of the modern user interface for your site pages and list and library pages, see [Modernize the user interface](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface).</span></span>
-* <span data-ttu-id="a1e09-105">لمعرفة المزيد حول كيفية إلغاء حظر القوائم والمكتبات عند استخدام واجهة المستخدم الحديثة، راجع [تعظيم استخدام القوائم والمكتبات الحديثة](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).</span><span class="sxs-lookup"><span data-stu-id="a1e09-105">To learn more about how to unblock your lists and libraries when using the modern user interface, see [Maximize use of modern lists and libraries](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).</span></span>
-* <span data-ttu-id="a1e09-106">لمزيد من المعلومات حول الاتصال بمجموعة Microsoft 365 وإجراء اتصال مجموعة، راجع [الاتصال بمجموعة Microsoft 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).</span><span class="sxs-lookup"><span data-stu-id="a1e09-106">For more information about connecting to a Microsoft 365 group and performing a group-connection, see [Connect to a Microsoft 365 group](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).</span></span>
+* <span data-ttu-id="07ea1-104">لتكبير استخدام واجهه المستخدم الحديثة لصفحات الموقع وصفحات القوائم والمكتبات ، راجع [تحديث مؤثرات واجهه المستخدم](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface).</span><span class="sxs-lookup"><span data-stu-id="07ea1-104">To maximize the use of the modern user interface for your site pages and list and library pages, see [Modernize the user interface](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface).</span></span>
+* <span data-ttu-id="07ea1-105">لمعرفه المزيد حول كيفيه إلغاء حظر القوائم والمكتبات عند استخدام واجهه المستخدم الحديثة ، راجع [التكبير استخدام القوائم والمكتبات الحديثة](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).</span><span class="sxs-lookup"><span data-stu-id="07ea1-105">To learn more about how to unblock your lists and libraries when using the modern user interface, see [Maximize use of modern lists and libraries](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).</span></span>
+* <span data-ttu-id="07ea1-106">للحصول علي مزيد من المعلومات حول الاتصال بمجموعه Microsoft 365 واجراء اتصال مجموعه ، راجع [الاتصال بمجموعه microsoft 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).</span><span class="sxs-lookup"><span data-stu-id="07ea1-106">For more information about connecting to a Microsoft 365 group and performing a group-connection, see [Connect to a Microsoft 365 group](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).</span></span>
 
-<span data-ttu-id="a1e09-107">**هام:** إذا كنت تشعر أنه يجب عرض صفحتك بالفعل في طريقة العرض الحديثة ولم يتم عرضها، يرجى التصفح إلى الصفحة المعنية ونسخ عنوان URL وتوفير عنوان URL كجزء من تفاصيل تذكرة الدعم الخاصة بك.</span><span class="sxs-lookup"><span data-stu-id="a1e09-107">**Important**: If you feel your page should already be displayed in modern view and isn't, please browse to the page in question, copy the URL, and provide the URL as part of the details of your support ticket.</span></span>
+<span data-ttu-id="07ea1-107">**هام**: إذا شعرت بأنه يجب ان تكون الصفحة معروضه بالفعل في طريقه العرض الحديثة ولم تكن موجودة ، فيرجى الاستعراض وصولا إلى الصفحة المطلوبة ، ونسخ عنوان url ، وتوفير عنوان url كجزء من تفاصيل تذكره الدعم.</span><span class="sxs-lookup"><span data-stu-id="07ea1-107">**Important**: If you feel your page should already be displayed in modern view and isn't, please browse to the page in question, copy the URL, and provide the URL as part of the details of your support ticket.</span></span>
