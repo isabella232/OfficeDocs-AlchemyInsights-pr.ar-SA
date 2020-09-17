@@ -1,11 +1,12 @@
 ---
-title: الاشتراك المنتهي الصلاحية
+title: اشتراك منتهي الصلاحية
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: mnirkhe
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -13,20 +14,20 @@ ms.custom:
 - "456"
 - "1500020"
 ms.assetid: 713d37dd-a34c-469f-b96b-99d63e793fe9
-ms.openlocfilehash: 22c90680fbd6b3959f23512d12d84180c142ab90
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 56bd5c85be4316f2c0cdc21f1f49ae5895ca4b97
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44505566"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47782926"
 ---
-# <a name="expired-subscription"></a>الاشتراك المنتهي الصلاحية
+# <a name="expired-subscription"></a>اشتراك منتهي الصلاحية
 
-يبدو أن لديك اشتراك ًا أو أكثر منتهية الصلاحية. إذا كنت ترغب في متابعة الخدمة، يجب إعادة تنشيط الاشتراك، أو إجراء عملية شراء جديدة.
+يبدو ان لديك اشتراكا واحدا أو أكثر انتهت صلاحيته. إذا كنت ترغب في متابعه الخدمة ، فيجب أعاده تنشيط الاشتراك ، أو اجراء عمليه شراء جديده.
   
 **إعادة تنشيط**
   
-1. في مركز المشرف، انتقل إلى صفحة **الفوترة** \> **[لمنتجاتك.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. في مركز الاداره ، انتقل إلى صفحه **الفوترة** \> **[الخاصة بالمنتجات](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
 
 2. ابحث عن الاشتراك الذي تريد إعادة تنشيطه. في قسم **الفوترة**، اختر **إعادة تنشيط**.
 
@@ -36,14 +37,14 @@ ms.locfileid: "44505566"
 
 للتعرّف على المزيد، اطلع على [إعادة تنشيط الاشتراك](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
-**إجراء عملية شراء جديدة**
+**إنشاء شراء جديد**
   
-1. في مركز المشرف، انتقل **Billing** إلى صفحة خدمات \> **[شراء](https://go.microsoft.com/fwlink/p/?linkid=868433)** الفوترة.
+1. في مركز الاداره ، انتقل إلى **Billing** \> صفحه **[خدمات شراء](https://go.microsoft.com/fwlink/p/?linkid=868433)** الفوترة.
 
-2. اختر الاشتراك الذي تريد شراءه، ثم اختر **شراء**.
+2. اختر الاشتراك الذي تريد شراءه ، ثم اختر **شراء**.
 
-3. أدخل عدد التراخيص التي تحتاجها، واختر ما إذا كنت ستدفع كل شهر أو للسنة بأكملها. اختر ما إذا كنت تريد تعيين تراخيص تلقائيًا لكل شخص ليس لديه ترخيص حاليًا. ثم اختر **السحب الآن**.
+3. ادخل عدد التراخيص التي تحتاجها ، واختر ما إذا كنت تريد الدفع كل شهر أو للسنه بأكملها. اختر ما إذا كنت تريد تعيين التراخيص تلقائيا لكل شخص ليس لديه ترخيص حاليا. ثم اختر **السحب الآن**.
 
 4. اتبع الخطوات المتبقية لإكمال السحب.
 
-لمعرفة المزيد، راجع [شراء اشتراك آخر](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription).
+لمعرفه المزيد ، راجع [شراء اشتراك آخر](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription).

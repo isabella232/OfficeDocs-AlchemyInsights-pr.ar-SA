@@ -1,23 +1,24 @@
 ---
-title: يفتح Excel فارغة
+title: يفتح Excel فارغا
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9000707"
 - "2610"
-ms.openlocfilehash: 32546a6fcab15e7712f8008b372fe51250e85853
-ms.sourcegitcommit: 7c90dcc570d32ebd968e3e4e816a7b482890b3a4
+ms.openlocfilehash: a7f3bf370a9f200c158bfe505012136867578dea
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2019
-ms.locfileid: "36391087"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47783430"
 ---
-# <a name="excel-opens-blank"></a>يفتح Excel فارغة
+# <a name="excel-opens-blank"></a>يفتح Excel فارغا
 
-في حالة بدء تشغيل Excel ولكن يعرض شاشة فارغة حيث تتوقع أن يظهر الملف، راجع [استكشاف الأخطاء وإصلاحها Excel فتح فارغة عند النقر المزدوج فوق رمز الملف أو اسم الملف](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank).
+إذا بدا Excel ولكن يعرض شاشه فارغه حيث تتوقع ظهور الملف ، فراجع [استكشاف أخطاء فتح Excel وإصلاحها عند النقر نقرا مزدوجا فوق أيقونه الملف أو اسم الملف](https://docs.microsoft.com/office/troubleshoot/excel/excel-opens-blank).
