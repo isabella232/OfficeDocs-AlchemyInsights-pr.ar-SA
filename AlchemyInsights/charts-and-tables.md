@@ -5,28 +5,29 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "3047"
 - "9000592"
-ms.openlocfilehash: 260c9b74fdd99bb1ecef58307d1ac7629c05909a
-ms.sourcegitcommit: 8e1fa99a781674a79ae5d0385a48be2e209a2386
+ms.openlocfilehash: c0bca112ea345dedc7fa5e9cfa4e65866e6a8aa6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/16/2019
-ms.locfileid: "37554246"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47812462"
 ---
-# <a name="common-issues-with-tables"></a>المشكلات الشائعة مع الجداول 
+# <a name="common-issues-with-tables"></a>المشاكل الشائعة في الجداول 
 
-فيما يلي بعض المواضيع المطلوبة بشكل متكرر والمتعلقة بالعمل مع الجداول والمخططات في Word.
+اليك بعض المواضيع المطلوبة المتعلقة بالعمل مع الجداول والمخططات في Word.
 
-راجع [فتح مستند بعد خطا تلف ملف](https://support.office.com/article/47df9d48-2165-4411-a699-1786ac734bc3) لإصلاح جدول تالف في Word:
+راجع [فتح مستند بعد حدوث خطا تلف في الملف](https://support.office.com/article/47df9d48-2165-4411-a699-1786ac734bc3) لإصلاح جدول تالف في Word:
 
- 1. في Word ، حدد**استعراض** **الملف** > **المفتوح** > .
- 2. حدد الملف مع الجدول التالف.
- 3. حدد السهم المجاور **لفتح**، واختر **فتح وإصلاح**.
+ 1. في Word ، حدد **ملف**  >  **فتح**  >  **الاستعراض**.
+ 2. حدد الملف الذي يتضمن الجدول التالف.
+ 3. حدد السهم الموجود بجانب **فتح**، واختر **فتح وإصلاح**.
 
 [فرز محتويات جدول](https://support.office.com/article/F8392477-4613-49CD-ABA6-7C2E48F1D91F)
 
