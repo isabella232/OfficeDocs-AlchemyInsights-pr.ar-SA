@@ -1,10 +1,11 @@
 ---
-title: تغيير علبة البريد المشتركة إرسال كسلوك
+title: تغيير طريقه إرسال علبه البريد المشتركة كسلوك
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -12,18 +13,18 @@ ms.custom:
 - "623"
 - "3500003"
 ms.assetid: 49fa4633-7c50-40cd-a064-608a21cb0476
-ms.openlocfilehash: 5c5d38356713d1a34f4ae12436fe8a46348d8025
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 6bb54112e775068e567b8cd22313189222287202
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44507861"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47793637"
 ---
-# <a name="changing-shared-mailbox-send-as-behavior"></a><span data-ttu-id="321e9-102">تغيير علبة البريد المشتركة إرسال كسلوك</span><span class="sxs-lookup"><span data-stu-id="321e9-102">Changing shared mailbox Send As behavior</span></span>
+# <a name="changing-shared-mailbox-send-as-behavior"></a><span data-ttu-id="3fd75-102">تغيير طريقه إرسال علبه البريد المشتركة كسلوك</span><span class="sxs-lookup"><span data-stu-id="3fd75-102">Changing shared mailbox Send As behavior</span></span>
 
-<span data-ttu-id="321e9-103">بشكل افتراضي، لا يتم حفظ الرسائل المرسلة من علبة البريد المشتركة إلى مجلد العناصر المرسلة في علبة البريد المشتركة.</span><span class="sxs-lookup"><span data-stu-id="321e9-103">By default, messages sent from the shared mailbox aren't saved to the Sent Items folder of the shared mailbox.</span></span> <span data-ttu-id="321e9-104">بدلاً من ذلك، يتم حفظها إلى مجلد "العناصر المرسلة" للشخص الذي أرسل الرسالة.</span><span class="sxs-lookup"><span data-stu-id="321e9-104">Instead, they are saved to the Sent Items folder of the person who sent the message.</span></span>
+<span data-ttu-id="3fd75-103">بشكل افتراضي ، لا يتم حفظ الرسائل المرسلة من علبه البريد المشتركة في مجلد "العناصر المرسلة" في علبه البريد المشتركة.</span><span class="sxs-lookup"><span data-stu-id="3fd75-103">By default, messages sent from the shared mailbox aren't saved to the Sent Items folder of the shared mailbox.</span></span> <span data-ttu-id="3fd75-104">بدلا من ذلك ، يتم حفظها في مجلد "العناصر المرسلة" الخاص بالشخص الذي أرسل الرسالة.</span><span class="sxs-lookup"><span data-stu-id="3fd75-104">Instead, they are saved to the Sent Items folder of the person who sent the message.</span></span>
   
-<span data-ttu-id="321e9-105">إذا كنت تريد أن يرى جميع الأعضاء البريد الإلكتروني المرسل، في مركز إدارة Microsoft 365، قم بتحرير تفاصيل علبة البريد المشتركة، واختر **العناصر** \> **المرسلة تحرير**.</span><span class="sxs-lookup"><span data-stu-id="321e9-105">If you want all members to see the Sent email, in the Microsoft 365 admin center, edit the shared mailbox details, and choose **Sent items** \> **Edit**.</span></span>
+<span data-ttu-id="3fd75-105">إذا كنت تريد ان يري كل الأعضاء البريد الكتروني المرسل ، في مركز أداره Microsoft 365 ، فقم بتحرير تفاصيل علبه البريد المشتركة ، واختر تحرير **العناصر المرسلة** \> **Edit**.</span><span class="sxs-lookup"><span data-stu-id="3fd75-105">If you want all members to see the Sent email, in the Microsoft 365 admin center, edit the shared mailbox details, and choose **Sent items** \> **Edit**.</span></span>
   
-<span data-ttu-id="321e9-106">لقراءة المزيد، راجع [إنشاء علبة بريد مشتركة](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox).</span><span class="sxs-lookup"><span data-stu-id="321e9-106">To read more, see [Create a shared mailbox](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox).</span></span>
+<span data-ttu-id="3fd75-106">لقراءه المزيد ، راجع [إنشاء علبه بريد مشتركه](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox).</span><span class="sxs-lookup"><span data-stu-id="3fd75-106">To read more, see [Create a shared mailbox](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox).</span></span>
   
