@@ -1,29 +1,30 @@
 ---
-title: بحاجة إلى مساعدة في حساب Outlook.com الخاص بي
+title: هل تحتاج إلى مساعده في حساب Outlook.com الخاص بي
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001104"
 - "3065"
-ms.openlocfilehash: 73a386d338b880c808ec9f620e07b23badf1285f
-ms.sourcegitcommit: 23d217597369d0ca585600f9454171e7c133c30e
+ms.openlocfilehash: 46fe8d21b725083b733fdd9cc0a77b2962ff7c62
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/27/2020
-ms.locfileid: "42288131"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47803268"
 ---
-# <a name="need-help-with-my-outlookcom-account"></a>بحاجة إلى مساعدة في حساب Outlook.com الخاص بي
+# <a name="need-help-with-my-outlookcom-account"></a>هل تحتاج إلى مساعده في حساب Outlook.com الخاص بي
 
-إذا كنت بحاجة إلى مساعدة في خدمة Outlook.com، فقد خصصنا المساعدة لمساعدتك. للحصول على الدعم مباشرة على تطبيق الويب: 
+إذا كنت بحاجه إلى مساعده في خدمه Outlook.com ، فلدينا مساعده مخصصه لمساعدتك. للحصول علي الدعم مباشره علي تطبيق الويب: 
 
-1. انقر على؟ رمز في أعلى يمين الشاشة. 
+1. انقر فوق ؟ في الجزء العلوي الأيسر من الشاشة. 
 
-2. اكتب ما تحتاج إلى مساعدة في مربع المساعدة المعروض على اللوحة المنبثقة وانقر فوق **إرسال**. 
+2. اكتب ما تحتاج إلى مساعده في المربع "تعليمات" المعروض علي اللوحة المنبثقة وانقر فوق **إرسال**. 
 
-3. إذا لم يتم تقديم حل، يرجى التمرير لأسفل اللوحة الجانبية وانقر **فوق البريد الإلكتروني لنا**.
+3. إذا لم يتم تقديم حل ، فيرجى التمرير لأسفل اللوحة الجانبية والنقر فوق **إرسال بريد الكتروني الينا**.

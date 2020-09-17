@@ -5,20 +5,21 @@ author: pebaum
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 889f1e71-fc26-4753-9a2b-14508bc5d38f
-ms.openlocfilehash: 275b9eb7f548b301d3e4bed1e2946faa3a1c2d09
-ms.sourcegitcommit: 55eff703a17e500681d8fa6a87eb067019ade3cc
+ms.openlocfilehash: 1e186ed1394f88c63930f6bcc3eae62ebf3f08e4
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43713165"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802512"
 ---
 # <a name="onedrive-not-responding"></a>OneDrive لا يستجيب
 
-بالنسبة للحسابات التي تم إنشاؤها حديثًا، يحتاج المستخدمون إلى تسجيل الدخول إلى مركز إدارة Microsoft 365 باستخدام حسابهم الخاص وانقر فوق OneDrive لبدء توفير موقع OneDrive يدويًا.
+بالنسبة إلى الحسابات التي تم إنشاؤها حديثا ، يجب علي المستخدمين تسجيل الدخول إلى مركز أداره Microsoft 365 باستخدام حسابهم الخاص والنقر فوق OneDrive لبدء توفير الموقع الخاص ب OneDrive يدويا.
   
-ومع ذلك، إذا كان المستخدم قد نقر بالفعل OneDrive ولم يتم توفير موقعه الشخصي في غضون 24 ساعة، يرجى تسجيل تذكرة دعم للحصول على مزيد من المساعدة.
+علي الرغم من ذلك ، إذا قام المستخدم بالنقر بالفعل فوق OneDrive ولم يتم توفير الموقع الشخصي الخاص به خلال 24 ساعة ، يرجى تسجيل تذكره دعم للحصول علي مزيد من المساعدة.
   
 

@@ -1,24 +1,25 @@
 ---
-title: رسالة تطبيقات Microsoft 365 - تعذر العثور على تراخيص Office المرتبطة
+title: رسالة تطبيقات Microsoft 365-تعذر العثور علي تراخيص Office المقترنة
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 08996a2e78e098fa6415d2b65dd609d0fdee5232
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
+ms.openlocfilehash: 9b997523e17f1130ada52006b5709a012a5c6376
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44581638"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47802764"
 ---
-# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>رسالة تطبيقات Microsoft 365 - تعذر العثور على تراخيص Office المرتبطة
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>رسالة تطبيقات Microsoft 365-تعذر العثور علي تراخيص Office المقترنة
 
 لإصلاح هذا الخطأ، حاول القيام بالخطوات التالية:
 
@@ -38,10 +39,10 @@ ms.locfileid: "44581638"
 
 - إعادة تعيين حالة تنشيط Office. راجع [إعادة تعيين تطبيقات Microsoft 365 لحالة تفعيل المؤسسة](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-- تحقق من جدار الحماية وبرامج مكافحة الفيروسات وإعدادات الوكيل للتأكد من أنها لا تمنع وصول تطبيقات Microsoft 365 إلى الإنترنت. 
+- تحقق من جدار الحماية وبرنامج مكافحه الفيروسات وإعدادات الوكيل للتاكد من انها لا تحظر وصول تطبيقات Microsoft 365 إلى الإنترنت. 
 
 للحصول على حلول إضافية لاستكشاف الأخطاء وإصلاحها، اطلع على:
 
 [المنتج غير المرخص وأخطاء التنشيط في Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)
 
-[مايكروسوفت 365 عناوين URL ونطاقات عناوين بروتوكول الإنترنت](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+[نطاقات عناوين IP و Url ل Microsoft 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)

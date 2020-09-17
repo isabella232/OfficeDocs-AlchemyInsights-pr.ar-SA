@@ -1,30 +1,31 @@
 ---
-title: تحتاج إلى مساعدة في التحقيق في الحوادث في مايكروسوفت المدافع ATP
+title: هل تحتاج إلى مساعده في التحقق من الحوادث في Microsoft Defender ATP
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/16/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6025"
 - "9001221"
-ms.openlocfilehash: c07b4dac5228ce2c39382a70b41b7acaa49d05f5
-ms.sourcegitcommit: c078058ee0b77ee1f1496feb2f3a5773e3e3b30d
-ms.translationtype: MT
+ms.openlocfilehash: fdff256e70a63b1a7a306ea40de4f2a68e39455d
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/16/2020
-ms.locfileid: "45197716"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47803304"
 ---
-# <a name="need-help-investigating-incidents-in-microsoft-defender-atp"></a>تحتاج إلى مساعدة في التحقيق في الحوادث في مايكروسوفت المدافع ATP
+# <a name="need-help-investigating-incidents-in-microsoft-defender-atp"></a>هل تحتاج إلى مساعده في التحقق من الحوادث في Microsoft Defender ATP
 
-إذا كنت بحاجة إلى مساعدة التحقيق في حادث في خدمة ATP المدافعة عن Microsoft، اتبع الخطوات التالية.
+إذا احتجت إلى مساعده في التحقق من مشكله في خدمه ATP ل Microsoft Defender ، فاتبع الخطوات التالية.
 
-1. حدد الحادث وقم بمراجعة التنبيهات التي تم تجميعها مع الحادث. حدد كل تنبيه لمراجعة التفاصيل. للحصول على إرشادات، راجع [التحقق من تنبيهات الحماية من التهديدات المتقدمة من Microsoft Defender](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-alerts).
-2. راجع الأجهزة التي هي جزء من الحادث أو ذات صلة به. للحصول على إرشادات، راجع [التحقق من الأجهزة في قائمة أجهزة ATP المدافعة لـ Microsoft](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-machines).<br/>
+1. حدد الحادث وراجع التنبيات التي تم تجميعها مع الحدث. حدد كل تنبيه لمراجعه التفاصيل. للحصول علي الإرشادات ، راجع [التحقق من تنبيات حماية المخاطر المتقدمة في Microsoft Defender](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-alerts).
+2. راجع الاجهزه التي تشكل جزءا من الحدث أو ذات الصلة به. للحصول علي الإرشادات ، راجع [البحث في الاجهزه في قائمه أجهزه ATP ل Microsoft Defender](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-machines).<br/>
  
-    تسمح لك علامة التبويب "التحقيقات" برؤية جميع التحقيقات التلقائية التي بدأها النظام استجابة لتنبيهات الحوادث.
-3. استخدم الرسم البياني للحوادث لتحديد نقطة الدخول، وإشارات التسوية، والنشاطات المشبوهة الأخرى التي تمت ملاحظتها على الجهاز (الأجهزة). لمزيد من المعلومات، راجع [تصور تهديدات الأمن السيبراني المرتبطة بها](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-incidents#visualizing-associated-cybersecurity-threats).  
+    تسمح لك علامة التبويب استقصاءات برؤية كل الاستقصاءات التلقائية التي يتم تشغيلها بواسطة النظام استجابه لتنبيات الحادث.
+3. استخدم الرسم البياني الحادث لتحديد نقطه الإدخال ومؤشرات التسوية والانشطه المريبة الأخرى علي الجهاز (الاجهزه). للحصول علي مزيد من المعلومات ، راجع [السيبيرسيكوريتي التي تهدد التهديدات المقترنة بها](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/investigate-incidents#visualizing-associated-cybersecurity-threats).  
