@@ -1,9 +1,10 @@
 ---
-title: البحث والهجين
+title: البحث والمختلط
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
@@ -11,18 +12,18 @@ ms.assetid: ''
 ms.custom:
 - "9000653"
 - "2505"
-ms.openlocfilehash: 79b1c47b33e2e5c8b46a93ef2edbb1e9e0c8ff1d
-ms.sourcegitcommit: 0f0186044a3597e42ad14c32ca58e7224344dcfa
+ms.openlocfilehash: b7c837e1230e40077f997fcdea91fcf14e374998
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/15/2019
-ms.locfileid: "40048675"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47774086"
 ---
-# <a name="search-and-hybrid"></a>البحث والهجين
+# <a name="search-and-hybrid"></a>البحث والمختلط
 
-- هل تحتاج إلى معلومات حول البحث المختلط والخارجي في SharePoint علي الإنترنت ؟ إذا كان الأمر كذلك ، راجع [هذه المقالة](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).
+- هل تحتاج إلى معلومات حول البحث المختلط والخارجي في SharePoint Online ؟ إذا كان الأمر كذلك ، فراجع [هذه المقالة](https://docs.microsoft.com/sharepoint/hybrid/hybrid-search-in-sharepoint).
 
-- هل تحتاج إلى معلومات حول التخطيط للبحث المتحد الهجين ؟  إذا كان الأمر كذلك ، راجع [هذه المقالة](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).
+- هل تحتاج إلى معلومات حول التخطيط لعمليه بحث خارجيه مختلطة ؟  إذا كان الأمر كذلك ، فراجع [هذه المقالة](https://docs.microsoft.com/sharepoint/hybrid/plan-hybrid-federated-search).
 
 
 

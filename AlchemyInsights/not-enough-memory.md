@@ -1,32 +1,33 @@
 ---
-title: ذاكرة غير كافية
+title: لا توجد ذاكره كافيه
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "2564"
 - "9000678"
-ms.openlocfilehash: 7215e3a86f9be10f3d6e5471a621aa41583ad33a
-ms.sourcegitcommit: 1d98db8acb9959aba3b5e308a567ade6b62da56c
+ms.openlocfilehash: 0729efa4c4662047c1a5103788ecf129bff2a4ec
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/22/2019
-ms.locfileid: "41969173"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47772573"
 ---
-# <a name="there-isnt-enough-memory-to-complete-this-action"></a>لا توجد ذاكرة كافية لإكمال هذا الإجراء
+# <a name="there-isnt-enough-memory-to-complete-this-action"></a>لا توجد ذاكره كافيه لإكمال هذا الاجراء
 
-عند العمل مع ملف Microsoft Excel، تتلقى إحدى الرسائل التالية:
+عند استخدام ملف Microsoft Excel ، تتلقي أحدي الرسائل التالية:
 
-- يتعذر على Excel إكمال هذه المهمة بالموارد المتوفرة. اختر بيانات أقل أو أغلق التطبيقات الأخرى.
+- يتعذر علي Excel إكمال هذه المهمة باستخدام الموارد المتوفرة. اختر بيانات اقل أو اغلق تطبيقات أخرى.
 - نفاد الذاكرة
-- موارد النظام غير كافية لعرضها بالكامل
-- لا توجد ذاكرة كافية لإكمال هذا الإجراء. حاول استخدام بيانات أقل أو إغلاق تطبيقات أخرى. لزيادة توفر الذاكرة، ضع في اعتبارك: 
+- لا توجد موارد نظام كافيه للعرض بالبالكامل
+- لا توجد ذاكره كافيه لإكمال هذا الاجراء. حاول استخدام بيانات اقل أو إغلاق التطبيقات الأخرى. لزيادة توفر الذاكرة ، ضع في اعتبارك ما يلي: 
     - استخدام إصدار 64 بت من Microsoft Excel.
-    - إضافة ذاكرة إلى جهازك.
+    - أضافه ذاكره إلى جهازك.
 
-لاستكشاف هذه الأخطاء، راجع [كيفية استكشاف أخطاء "الموارد المتوفرة" في Excel](https://docs.microsoft.com/office/troubleshoot/excel/available-resources-errors).
+لاستكشاف هذه الأخطاء وإصلاحها ، راجع [كيفيه استكشاف أخطاء "الموارد المتوفرة" في Excel وإصلاحها](https://docs.microsoft.com/office/troubleshoot/excel/available-resources-errors).
