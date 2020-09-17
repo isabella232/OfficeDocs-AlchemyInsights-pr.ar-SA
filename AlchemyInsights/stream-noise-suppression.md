@@ -1,24 +1,25 @@
 ---
-title: قمع تدفق الضوضاء
+title: منع الضوضاء في تدفق
 ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 07/20/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6068"
 - "9003225"
-ms.openlocfilehash: e383b6bb1bda77b41c1b05823dd537db3040cab2
-ms.sourcegitcommit: b0b050a83db28566b68e3ec09810c6b94280008e
+ms.openlocfilehash: 21db226e971978239c9496898a6855988149fe3f
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/20/2020
-ms.locfileid: "45197733"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795267"
 ---
-# <a name="stream-noise-suppression"></a>قمع تدفق الضوضاء
+# <a name="stream-noise-suppression"></a>منع الضوضاء في تدفق
 
-يسمح منع الضوضاء، عند تشغيله من قبل مالكي الفيديو، للمشاهدين بعزل الكلام عن الأصوات والموسيقى الأخرى أثناء التشغيل. يمكن تشغيل أو إيقاف تشغيل منع الضوضاء لكل فيديو تم تحميله حديثًا. لمزيد من المعلومات، راجع [منع الضوضاء](https://docs.microsoft.com/stream/noise-suppression).
+يسمح منع الضوضاء ، عند تشغيله بواسطة مالكي الفيديو ، للعارضين بعزل الكلام عن الأصوات والموسيقي الأخرى اثناء التشغيل. يمكن تبديل منع الضوضاء أو إيقاف تشغيله لكل فيديو تم تحميله حديثا. لمزيد من المعلومات ، راجع [منع الضوضاء](https://docs.microsoft.com/stream/noise-suppression).

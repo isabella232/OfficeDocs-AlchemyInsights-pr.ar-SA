@@ -1,24 +1,25 @@
 ---
-title: يتم إنشاء صندوق بريد المستخدم الخاص بك
-ms.author: v-crytho
+title: يتم إنشاء علبه بريد المستخدم الخاصة بك
+ms.author: pebaum
 author: CrystalThomasMS
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6037a6c9-a658-43ce-ba6a-8e0a4efbd3c4
 ms.custom:
 - "359"
 - "3500004"
-ms.openlocfilehash: 0e8bf2a8462c599c8c78963e7a53ad88a1755697
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: 5e4903019f4ab1ec478ec8fb13bcfc6f4ed9f884
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44510055"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47796239"
 ---
-# <a name="user-mailbox-creation-is-taking-a-long-time"></a>إنشاء علبة بريد المستخدم يستغرق وقتا طويلا
+# <a name="user-mailbox-creation-is-taking-a-long-time"></a>يستغرق إنشاء علبه بريد المستخدم وقتا طويلا
 
-قد يستغرق الأمر ما يصل إلى 24 ساعة قبل أن يكون صندوق البريد الجديد جاهزًا للاستخدام.
+يمكن ان يستغرق الأمر مده تصل إلى 24 ساعة قبل ان تصبح علبه بريد جديده جاهزه للاستخدام.
   
-إذا كان صندوق بريد المستخدم "إعداد" لأكثر من ساعة، حاول إزالة ترخيص Exchange من المستخدم وإعادة إضافته مرة أخرى، أو [اتصل بالدعم](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?tabs=online).
+إذا تم "تحضير علبه بريد المستخدم" لأكثر من ساعة ، فحاول أزاله ترخيص Exchange من المستخدم وأعاده اضافته ، أو [اتصل بقسم الدعم](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?tabs=online).

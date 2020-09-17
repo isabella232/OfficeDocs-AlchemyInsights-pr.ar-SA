@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 munlocking-an-account s.custom:
 - "9002370"
 - "4605"
-ms.openlocfilehash: d9486254a507e38e91365df39413990ff6737e5a
-ms.sourcegitcommit: 929f8accdca2b8e5be170e0fc8edd527581453d4
-ms.translationtype: HT
+ms.openlocfilehash: 85438f6e4fde8679ae125ce7c89dfbfb0c8cb035
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/12/2020
-ms.locfileid: "43232655"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47795159"
 ---
 # <a name="use-sara-to-diagnose-and-resolve-outlook-authentication-issues"></a>استخدام SaRA لتشخيص المشاكل المتعلقة بمصادقة Outlook وحلها
 
