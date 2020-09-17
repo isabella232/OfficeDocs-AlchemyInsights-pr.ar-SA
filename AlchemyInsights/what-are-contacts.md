@@ -5,18 +5,19 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002613"
 - "5043"
-ms.openlocfilehash: cfbaa36129ddff60ecbe7fcdad40d8079620e52c
-ms.sourcegitcommit: 312ed19d236006962f1b891d2961014959ab1898
-ms.translationtype: HT
+ms.openlocfilehash: 333a058fb37e3962b018e2d745654df341f678a6
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/25/2020
-ms.locfileid: "43812889"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47807286"
 ---
 # <a name="what-are-contacts"></a>ما هي جهات الاتصال؟
 
