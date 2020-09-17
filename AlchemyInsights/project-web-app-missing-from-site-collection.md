@@ -1,27 +1,28 @@
 ---
-title: تطبيق ويب المشروع مفقود من مجموعة موقع SharePoint
+title: Project Web App مفقود من مجموعه المواقع المشتركة في SharePoint
 ms.author: pebaum
 author: pebaum
 manager: pamg
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "1777"
 - "9000207"
-ms.openlocfilehash: 38f8a5590f215494e805cde04326944ef15d0127
-ms.sourcegitcommit: 631cbb5f03e5371f0995e976536d24e9d13746c3
+ms.openlocfilehash: 5b699130b7896c12b757f10356072281b49766ef
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2020
-ms.locfileid: "43767956"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47801567"
 ---
-# <a name="project-web-app-is-missing-from-the-sharepoint-site-collection"></a>تطبيق ويب المشروع مفقود من مجموعة موقع SharePoint
+# <a name="project-web-app-is-missing-from-the-sharepoint-site-collection"></a>Project Web App مفقود من مجموعه المواقع المشتركة في SharePoint
 
-قد يكون تطبيق ويب Project مفقودًا من مجموعة موقع SharePoint للأسباب التالية:
+قد يكون Project Web App مفقودا من مجموعه المواقع المشتركة في SharePoint للأسباب التالية:
 
-1. لدى المؤسسات ترخيص (تراخيص) أساسيات المشروع عبر الإنترنت فقط. سيحتاج المسؤولون إلى إضافة ترخيص Project Online Professional و/أو Premium. سوف يخرج الموقع من القراءة فقط عند هذه النقطة. لمزيد من المعلومات، راجع [مقارنة حلول إدارة المشاريع](https://products.office.com/project/compare-microsoft-project-management-software?tab=1).
-2. واجه المستأجر مشكلة توفير تم فيها تأخير توفير موقع تطبيق ويب المشروع. إذا مرت أكثر من 24 ساعة وكنت لا تزال تواجه المشكلة، يرجى تسجيل تذكرة دعم. نحن نفهم أن 24 ساعة قد تبدو وكأنها فترة طويلة. في كثير من الحالات، نحن نعمل بالفعل على حل. يرجى من خلالنا أن تعطينا 24 ساعة على الأقل لإكمال الحل.
+1. لدي المؤسسات ترخيص (تراخيص) أساسيات Project Online فقط. سيحتاج المسؤولون إلى أضافه ترخيص Project Online و/أو تراخيص Premium. سيتم سحب الموقع للقراءة فقط في هذه المرحلة. لمزيد من المعلومات ، راجع [مقارنه حلول أداره المشاريع](https://products.office.com/project/compare-microsoft-project-management-software?tab=1).
+2. واجه المستاجر مشكله في التقديم التي تم فيها تاخير توفير موقع Project Web App. إذا تم تمرير أكثر من 24 ساعة ، ولكنك ما زلت تواجه المشكلة ، يرجى تسجيل تذكره دعم. نحن علي علم بان 24 ساعة قد تبدو مثل وقت طويل. في حالات كثيره ، نحن نعمل بالفعل علي حل. يرجى تقديم 24 ساعة علي الأقل لإكمال حل.

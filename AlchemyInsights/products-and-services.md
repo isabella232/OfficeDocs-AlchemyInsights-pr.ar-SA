@@ -5,33 +5,34 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9001669"
 - "3736"
-ms.openlocfilehash: 19acf6d8ab01c0599c088eb44ddea45377e36567
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: c7c4e9427bcdd1416a197d8df078be2638da55a0
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44062848"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47799227"
 ---
 # <a name="your-products"></a>منتجاتك
 
-يمكنك العثور على الاشتراكات التي تملكها مؤسستك في صفحة **الفوترة**  >  **[لمنتجاتك.](https://go.microsoft.com/fwlink/p/?linkid=842054)** فيما يلي بعض النقاط البارزة في هذه الصفحة بالإضافة إلى روابط لمزيد من المعلومات حول كل ميزة:
+يمكنك العثور علي الاشتراكات المملوكة لمؤسسك علي صفحه **الفوترة**  >  **[الخاصة بالمنتجات](https://go.microsoft.com/fwlink/p/?linkid=842054)** . فيما يلي بعض عمليات تمييز هذه الصفحة مع ارتباطات للحصول علي مزيد من المعلومات حول كل ميزه:
 
-1. إدارة عدد التراخيص التي تم شراؤها لكل اشتراك بالإضافة إلى عدد التراخيص التي يتم استخدامها.  **ملاحظة:** لا تزال التراخيص غير المستخدمة (غير المعينة لمستخدم) مشحونة.  لكي لا يتم تحصيل رسوم على التراخيص غير المستخدمة، قلل من عدد التراخيص التي تم شراؤها. للحصول على معلومات حول كيفية إضافة التراخيص أو إزالتها من الاشتراك، راجع [كيفية إضافة التراخيص أو تقليلها](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
+1. أداره عدد التراخيص التي تم شراؤها لكل اشتراك في كل الطرق المستخدمة.  **ملاحظه**: لا تزال التراخيص التي لا يتم استخدامها (غير معينه إلى مستخدم) يتم فرض تكلفتها.  لكي لا يتم فرض رسوم علي التراخيص غير المستخدمة ، قم بتقليل عدد التراخيص التي تم شراؤها. للحصول علي معلومات حول كيفيه أضافه التراخيص أو ازالتها من اشتراك ، راجع [كيفيه أضافه التراخيص أو تقليلها](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses).
 
-2. عرض تاريخ التجديد أو انتهاء صلاحية الاشتراك.  يمكنك إدارة التجديد من خلال النقر على رابط **تحرير** بجوار **تجديد/انتهاء الصلاحية** في التاريخ.  راجع [تجديد Microsoft 365 للأعمال لمزيد](https://go.microsoft.com/fwlink/?linkid=2119216) من المعلومات حول كيفية إدارة الفوترة المتكررة.
+2. عرض التجديد أو تاريخ انتهاء صلاحيه الاشتراك.  يمكنك أداره التجديد بالنقر فوق الارتباط **تحرير** الموجود بجانب التاريخ **تجديد/انتهاء** في.  راجع [تجديد Microsoft 365 for business](https://go.microsoft.com/fwlink/?linkid=2119216) للحصول علي مزيد من المعلومات حول كيفيه أداره الفوترة المتكررة.
 
-3. [إعادة تنشيط اشتراك منتهية الصلاحية أو معطل.](https://go.microsoft.com/fwlink/?linkid=2117519)
+3. [أعاده تنشيط اشتراك منتهي الصلاحية أو معطل](https://go.microsoft.com/fwlink/?linkid=2117519).
 
-4. [تحرير طريقة الدفع المستخدمة لدفع الاشتراك.](https://go.microsoft.com/fwlink/?linkid=2117167)
+4. [تحرير طريقه الدفع المستخدمة لسداد الاشتراك](https://go.microsoft.com/fwlink/?linkid=2117167).
 
-5. [تغيير عدد المرات التي تتم فيها محاسبتك.](https://go.microsoft.com/fwlink/?linkid=2119112)
+5. [تغيير عدد المرات التي يتم فيها الفوترة](https://go.microsoft.com/fwlink/?linkid=2119112).
 
 6. [إلغاء الاشتراك](https://go.microsoft.com/fwlink/?linkid=2119113).
 
-يمكنك شراء اشتراكات إضافية **Billing**من صفحة خدمات  >  [**شراء**](https://go.microsoft.com/fwlink/p/?linkid=868433) الفوترة.
+يمكنك شراء اشتراكات اضافيه **Billing**من  >  الصفحة[**خدمات شراء**](https://go.microsoft.com/fwlink/p/?linkid=868433) الفوترة.

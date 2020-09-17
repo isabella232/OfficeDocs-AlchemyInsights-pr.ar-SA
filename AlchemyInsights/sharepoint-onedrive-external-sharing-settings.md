@@ -1,35 +1,36 @@
 ---
-title: تشغيل المشاركة الخارجية أو إيقاف تشغيلها لـ SharePoint
+title: تشغيل المشاركة الخارجية أو إيقاف تشغيلها ل SharePoint
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: e13940be-483f-46ed-a88c-d36bbaf04ad5
-ms.openlocfilehash: 4883c5a8fe77610e86a66637e2e12c3a18fe6e67
-ms.sourcegitcommit: a98b25fa3cac9ebba983f4932881d774880aca93
+ms.openlocfilehash: 09f326274ccd6d5164bac64c81c9b2684748aaba
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44063640"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47800379"
 ---
-# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>رسالة تحذير: لا تسمح لك سياسات مؤسستك بالمشاركة مع هؤلاء المستخدمين
+# <a name="warning-message-your-organizations-policies-dont-allow-you-to-share-with-these-users"></a>رسالة تحذير: لا تسمح لك نهج مؤسستك بالمشاركة مع هؤلاء المستخدمين
 
-قد يواجه المستخدمون رسالة تحذير عند محاولة المشاركة مع المستخدمين الخارجيين لمؤسستك. الرسالة هي أن **سياسات مؤسستك لا تسمح لك بالمشاركة مع هؤلاء المستخدمين. انتقل إلى المشاركة الخارجية في مركز إدارة Microsoft 365 لتمكينه**. يحدث هذا في كثير من الأحيان في المرة الأولى التي تحاول المشاركة مع المستخدمين الخارجيين أو عند المشاركة مع مستخدمين خارجيين جدد.
+قد يواجه المستخدمون رسالة تحذير عند محاولة المشاركة مع مستخدمين خارجيين في مؤسستك. الرسالة هي **نهج المؤسسة لا تسمح لك بالمشاركة مع هؤلاء المستخدمين. انتقل إلى المشاركة الخارجية في مركز أداره Microsoft 365 لتمكينها**. يحدث هذا غالبا في المرة الاولي التي تحاول فيها المشاركة مع مستخدمين خارجيين أو عند المشاركة مع مستخدمين خارجيين جدد.
 
-تحقق من **إعدادات المشاركة الخارجية لـ SharePoint وOneDrive** لمؤسستك.
+تحقق من **إعدادات المشاركة الخارجية ل SharePoint و OneDrive** لمؤسسك.
 
-1. في [مركز إدارة Microsoft 365،](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)حدد **SharePoint**.
-3. حدد **المشاركة** لمشاهدة إعدادات المشاركة الخارجية.
+1. في [مركز أداره Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)، حدد **SharePoint**.
+3. حدد **مشاركه** للاطلاع علي إعدادات المشاركة الخارجية.
 
 تحقق من **إعدادات المشاركة الخارجية** لموقع معين.
 
-1. في [مركز إدارة Microsoft 365،](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)حدد **SharePoint**.
-2. **حدد المواقع النشطة** لرؤية المواقع المتوفرة.
-3. حدد الموقع الذي تريد التحقق منه، ثم حدد زر **المشاركة** الذي يعرض في شريط القوائم للتحقق من إعدادات الموقع.
+1. في [مركز أداره Microsoft 365](https://admin.microsoft.com/AdminPortal/Home#/homepage">https://admin.microsoft.com/)، حدد **SharePoint**.
+2. حدد **المواقع النشطة** للاطلاع علي المواقع المتوفرة.
+3. حدد الموقع الذي تريد التحقق منه ، ثم حدد الزر **مشاركه** الذي يتم عرضه في شريط القوائم للتحقق من إعدادات الموقع.
 
-لمزيد من المعلومات، راجع [نظرة عامة على المشاركة الخارجية](https://docs.microsoft.com/sharepoint/external-sharing-overview).
+لمزيد من المعلومات ، راجع [نظره عامه علي المشاركة الخارجية](https://docs.microsoft.com/sharepoint/external-sharing-overview).

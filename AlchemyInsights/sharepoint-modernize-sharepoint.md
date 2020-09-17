@@ -1,33 +1,34 @@
 ---
-title: تحديث تجربة SharePoint الكلاسيكية
+title: تحديث مؤثرات تجربه SharePoint الكلاسيكية
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid:
 - "9000153"
 - "1692"
-ms.openlocfilehash: 46d482f7dfdded0dd5d777e3c6890dcef0a1ea5c
-ms.sourcegitcommit: 286000b588adef1bbbb28337a9d9e087ec783fa2
+ms.openlocfilehash: ede4bdc938627806bce0651d7811c5fb0ad1cdcc
+ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/27/2020
-ms.locfileid: "43912809"
+ms.lasthandoff: 09/15/2020
+ms.locfileid: "47800595"
 ---
-# <a name="modernize-your-classic-sharepoint-experience"></a>تحديث تجربة SharePoint الكلاسيكية
+# <a name="modernize-your-classic-sharepoint-experience"></a>تحديث مؤثرات تجربه SharePoint الكلاسيكية
 
-لإجراء التبديل إلى واجهة المستخدم الحديثة، راجع الموارد التالية:
+لتمكين التبديل إلى واجهه المستخدم الحديثة ، راجع الموارد التالية:
 
-- [إنشاء **مواقع حديثة** ](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d) (موقع الفريق أو موقع الاتصال). استخدم [SharePoint Look Book](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) لإنشاء إنترانت جميلة وقوية تربط مكان العمل. انظر [الأمثلة](https://lookbook.microsoft.com/) والحصول على [تصميم التوجيه.](https://spdesign.azurewebsites.net/)
-- [قم بتوصيل موقعك **بمجموعة Microsoft 365** ](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group) لزيادة التعاون عبر Microsoft 365.
-- التحويل إلى **القائمة الحديثة وتجربة المكتبة** من خلال تمكين [القوائم والمكتبات من الظهور في واجهة المستخدم الحديثة.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)
-- تحويل **صفحات الموقع** من **ويكي**الكلاسيكية ، **جزء الويب**، والصفحات **الرئيسية** إلى صفحات حديثة من [جانب العميل.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages) يوفر [ماسح تحديث SharePoint](https://docs.microsoft.com/sharepoint/dev/transform/modernize-scanner) معلومات عن استخدام الصفحة حول صفحات الويكي وجزء الويب الحالي لمساعدتك في تحديد أولويات تحويل الصفحة.
+- [إنشاء **مواقع حديثه** ](https://support.office.com/article/create-a-team-site-in-sharepoint-ef10c1e7-15f3-42a3-98aa-b5972711777d) (موقع الفريق أو موقع الاتصالات). استخدم " [كتاب المظهر](https://lookbook.microsoft.com/assets/SharePoint_lookbook_2019.pdf) الخاص ب SharePoint" لإنشاء إنترانت فعاله ورائعه تصل مكان العمل. راجع [الامثله](https://lookbook.microsoft.com/) واحصل علي [دليل تصميم](https://spdesign.azurewebsites.net/).
+- [قم بتوصيل موقعك **بمجموعه microsoft 365** ](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group) لزيادة التعاون في microsoft 365.
+- قم بالتحويل إلى **القائمة الحديثة وتجربه المكتبة** عن طريق [تمكين القوائم والمكتبات من الظهور في واجهه المستخدم الحديثة](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
+- يمكنك تحويل **صفحات الموقع** من **wiki**الكلاسيكي **وجزء ويب**والصفحات **الرئيسية** إلى [صفحات من جانب العميل الحديثة](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-site-pages). يوفر [الماسح الضوئي ل SharePoint موديرنيزيشن](https://docs.microsoft.com/sharepoint/dev/transform/modernize-scanner) معلومات حول استخدام صفحات wiki وأجزاء ويب الحالية لمساعدتك في تحديد الاولويه لتحويل الصفحة.
 
-معلومات إضافية:
+معلومات اضافيه:
 
-- للحصول على نظرة عامة خطوة بخطوة لتحديث تجربة SharePoint الكلاسيكية إلى الحديثة، راجع [تحديث تجربة SharePoint الكلاسيكية.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites)
-- انظر دليل [للتجربة الحديثة.](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience)
-- انظر [تجارب SharePoint الكلاسيكية والحديثة.](https://support.office.com/article/sharepoint-classic-and-modern-experiences-5725c103-505d-4a6e-9350-300d3ec7d73f)
+- للحصول علي نظره عامه مفصله خطوه بخطوه حول موديرنيزينج تجربه SharePoint الكلاسيكية إلى الحديثة ، راجع [تحديث مؤثرات تجربه sharepoint الكلاسيكية الخاصة بك](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
+- راجع دليل [التجربة الحديثة](https://docs.microsoft.com/sharepoint/guide-to-sharepoint-modern-experience).
+- راجع [التجربة الكلاسيكية في SharePoint والحديثة](https://support.office.com/article/sharepoint-classic-and-modern-experiences-5725c103-505d-4a6e-9350-300d3ec7d73f).
