@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001422"
 - "3407"
-ms.openlocfilehash: 0a9678905a58be2b68ad60d0d947483671d6b3b8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c2bb894cf97c094a1648da8db83cbd459da4fda4
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802800"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236004"
 ---
 # <a name="microsoft-365-apps-message---sorry-another-account-from-your-organization-is-already-signed-in"></a>رسالة تطبيقات Microsoft 365-معذره ، تم تسجيل دخول حساب آخر من مؤسستك بالفعل
 
@@ -32,6 +32,8 @@ ms.locfileid: "47802800"
 - النقر فوق الأيقونة **+** لإضافة حسابك أو الاتصال به. إدخال بيانات الاعتماد الخاصة بك والانتظار لحين اكتمال العملية.
 
 - تشغيل تطبيق Office وتسجيل الدخول مرة أخرى إذا لزم الأمر. 
+
+**تلميح** في أجهزه Windows ، يمكننا تشخيص العديد من المشاكل الشائعة في تسجيل الدخول إلى Office وإصلاحها بالنيابة عنك. يمكنك تنزيل  **[مساعد الإصلاح والدعم من Microsoft](https://aka.ms/SaRA-OfficeSignInScenario)** وتشغيله لاستخدام الاداه التلقائية الخاصة بنا.
 
 إذا استمرت المشكلة، فجرب الخطوة التالية: 
 

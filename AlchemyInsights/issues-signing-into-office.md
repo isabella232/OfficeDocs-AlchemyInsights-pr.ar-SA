@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2574"
-ms.openlocfilehash: da1437ae8b09139b531deb8930d5648f908fae93
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a1e9844094dd164ca8bd5fb2a196161a5de0282f
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676941"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236112"
 ---
 # <a name="issues-signing-into-microsoft-365-apps"></a>المشاكل المتعلقة بتسجيل الدخول إلى تطبيقات Microsoft 365
 
@@ -25,6 +25,8 @@ ms.locfileid: "47676941"
 
 - بالنسبة ل Windows ، راجع [توصيات حول حل مشاكل تسجيل الدخول الشائعة](https://docs.microsoft.com/office365/troubleshoot/administration/disabling-adal-wam-not-recommended#recommendations-on-resolving-common-sign-in-issues)
 - بالنسبة إلى Mac ، راجع  [يتعذر عليك تسجيل الدخول إلى تطبيق Office 2016 For Mac](https://docs.microsoft.com/office365/troubleshoot/authentication/sign-in-to-office-2016-for-mac-fail)
+
+**تلميح** في أجهزه Windows ، يمكننا تشخيص العديد من المشاكل الشائعة في تسجيل الدخول إلى Office وإصلاحها بالنيابة عنك. يمكنك تنزيل  **[مساعد الإصلاح والدعم من Microsoft](https://aka.ms/SaRA-OfficeSignInScenario)** وتشغيله لاستخدام الاداه التلقائية الخاصة بنا.
 
 **ملاحظه:**  **لا يوصي بتعطيل**المصادقة الحديثة (ADAL) أو أداره حساب ويب (وأم) لإصلاح مشاكل تسجيل الدخول أو التنشيط. إذا كانت الأخطاء تحدث اثناء الاتصال ب Microsoft 365 باستخدام Office 2013 ، فتاكد من [تمكين المصادقة الحديثة](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/enable-modern-authentication)  لعميل Office.
 

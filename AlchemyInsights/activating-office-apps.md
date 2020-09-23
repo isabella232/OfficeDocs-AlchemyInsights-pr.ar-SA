@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: b6945d7e8b201cfc37900bed11bfb64ad1838efc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0e4fe5401663eaf7a332b7dac6a786a05656f63f
+ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47697976"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48236025"
 ---
 # <a name="activating-microsoft-365-apps"></a>تنشيط تطبيقات Microsoft 365
 
@@ -35,6 +35,8 @@ ms.locfileid: "47697976"
 - [المنتج غير مرخص وأخطاء التنشيط في Office](https://support.office.com/article/unlicensed-product-and-activation-errors-in-office-0d23d3c0-c19c-4b2f-9845-5344fedc4380)
 
 - [الخطوات التي يجب اتباعها إذا لم تتمكن من تثبيت Office for Mac أو تنشيطه](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
+
+**تلميح** في أجهزه Windows ، يمكننا تشخيص العديد من المشاكل الشائعة في تسجيل الدخول إلى Office وإصلاحها بالنيابة عنك. يمكنك تنزيل  **[مساعد الإصلاح والدعم من Microsoft](https://aka.ms/SaRA-OfficeSignInScenario)** وتشغيله لاستخدام الاداه التلقائية الخاصة بنا.
 
 إذا لم تتمكن من تسجيل الدخول إلى تطبيقات Microsoft 365 ، فاتبع الخطوات التالية:
 
