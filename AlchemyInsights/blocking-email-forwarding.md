@@ -14,15 +14,19 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 71ac34539a2eac6b308aa5f42520e7c764524d5e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c0d9ed14f83d3c7d47e1728d5ed9ca3a19412ad2
+ms.sourcegitcommit: f74c9698a31634154ce58dda8b3145bb10685ace
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685441"
+ms.lasthandoff: 09/23/2020
+ms.locfileid: "48219842"
 ---
-# <a name="block-email-forwarding"></a>حظر أعاده توجيه البريد الكتروني
+# <a name="blocking-or-unblocking-email-forwarding"></a>حظر أعاده توجيه البريد الكتروني أو إلغاء حظره
 
-لتعطيل أعاده توجيه البريد الكتروني لعلبه بريد معينه ، راجع [تكوين أعاده توجيه البريد الكتروني](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
+لتمكين أعاده توجيه البريد الكتروني لعلبه بريد معينه أو تعطيلها ، راجع [تكوين أعاده توجيه البريد الكتروني](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
 
-لحظر أعاده توجيه البريد الكتروني للمؤسسة بأكملها ، يمكنك [العديد من الطرق لحظر أعاده توجيه البريد الكتروني التلقائي في Exchange Online](https://blogs.technet.microsoft.com/exchange/2017/12/22/the-many-ways-to-block-automatic-email-forwarding-in-exchange-online/).
+علي مستوي المستاجر ، يتم التحكم في أعاده التوجيه الخارجي باستخدام نهج الحماية من البريد العشوائي الصادر. إذا تم تعيينه إلى إيقاف التشغيل أو التلقائي ، فقد يؤدي ذلك إلى منع أعاده توجيه البريد الكتروني باستخدام "550 5.7.520 Access التالي ، إذا تم تعيين أعاده التوجيه إلى محظور ، فهذا يعني ان الخطا سيشاهده المستخدمون.
+
+إذا تم حظر أعاده التوجيه ، فالرجاء التاكد من تكوين النهج لتمكين الأوتوفوروارد الخارجي. يمكنك التحقق من نهج تصفيه البريد العشوائي الصادر من مركز الأمان والتوافق أو عن طريق تشغيل الأمر هوستيدوتبوندسبامفيلتيربوليسي | fl name, أوتوفورواردينجمودي. إذا كنت تريد اعداد حظر أوتوفوروارد ، سيعلمك الأمر نفسه بحاله النهج الآن.
+
+ملاحظه: يوصي بالاحتفاظ بالأوتوفوروارد الخارجية معطلا علي نهج تصفيه البريد الكتروني الصادر الافتراضي وتمكينها فقط للمستخدمين الذين يحتاجون إلى أعاده توجيه خارجيه عن طريق إنشاء نهج مخصص لهؤلاء المستخدمين. يمكنك قراءه المزيد في [تكوين أعاده توجيه البريد الكتروني الخارجي في Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).
