@@ -15,12 +15,12 @@ ms.custom:
 - "1100001"
 - "3100022"
 ms.assetid: b16d310d-1134-4959-be68-d1c0ad463930
-ms.openlocfilehash: 55f29fae0878917eaf2972ba1dfd3c5b8a26ce54
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67e59182a5053111a08f5fb2be814931a1aa815d
+ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711082"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48277953"
 ---
 # <a name="cant-install-or-run-the-ediscovery-export-tool"></a>هل يتعذر عليك تثبيت أداه تصدير eDiscovery أو تشغيلها ؟
 
@@ -47,4 +47,5 @@ ms.locfileid: "47711082"
 - لقد قمت بتعيين دور التصدير في مركز توافق الأمان ل Microsoft 365 &amp; . بشكل افتراضي ، يتم تعيين هذا الدور فقط إلى مجموعه ادوار أداره eDiscovery. راجع [تعيين أذونات eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions).
 
 للحصول علي مزيد من المعلومات ، راجع [تصدير نتائج البحث في المحتوي](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
-  
+
+إذا كنت تقوم بتصدير أكثر من 100 كيلوبايت ، ستحتاج إلى استخدام Powershell التالي لتنزيل نتائج التصدير:  [تصدير النتائج من أكثر من 100 كيلوبايت علبه بريد](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).

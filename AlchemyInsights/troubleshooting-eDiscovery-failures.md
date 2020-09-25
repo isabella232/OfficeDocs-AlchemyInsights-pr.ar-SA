@@ -14,12 +14,12 @@ ms.custom:
 - "1490"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 6e04773d9c0a5f30b613221ad59fe77096ae39a9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff28f96d64ec14980e9a47b630246b394faf4610
+ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658937"
+ms.lasthandoff: 09/25/2020
+ms.locfileid: "48277826"
 ---
 # <a name="troubleshoot-content-search-errors"></a>استكشاف أخطاء البحث في المحتوي وإصلاحها
 
@@ -36,3 +36,5 @@ ms.locfileid: "47658937"
 أو عند البحث أو التصدير من عدد كبير من علب البريد (عبر علب بريد 100,000) ، هل تحصل علي أخطاء التصدير ؟
 
 بالنسبة إلى هذه الأنواع من الأخطاء ، أعد محاولة البحث عن مواقع المحتوي التي فشلت. راجع  [هذه المقالة](https://docs.microsoft.com/microsoft-365/compliance/retry-failed-content-search) للحصول علي مزيد من المعلومات.
+
+إذا كنت تقوم بتصدير أكثر من 100 كيلوبايت ، ستحتاج إلى استخدام Powershell التالي لتنزيل نتائج التصدير:  [تصدير النتائج من أكثر من 100 كيلوبايت علبه بريد](https://docs.microsoft.com/microsoft-365/compliance/export-search-results?view=o365-worldwide%23exporting-results-from-more-than-100000-mailboxes).
