@@ -1,8 +1,8 @@
 ---
 title: تعطل الترخيص أو الحساب
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002459"
 - "3764"
-ms.openlocfilehash: 465b61ad0319f533656effa2b6b09f0194260920
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 14ce58da129f0a16b280d4fd85a0bc28c2c0282f
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676042"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48286657"
 ---
 # <a name="license-or-account-disabled"></a>تعطل الترخيص أو الحساب
 
@@ -25,14 +25,11 @@ ms.locfileid: "47676042"
 
 **إعادة تنشيط اشتراك**
 
-1. في مركز الاداره ، انتقل إلى صفحه **الفوترة**  >  **[الخاصة بالمنتجات](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-
-2. ابحث عن الاشتراك الذي تريد إعادة تنشيطه.
-
-3. في قسم **الفوترة**، انقر فوق**إعادة تنشيط**. إذا كنت في طريقه عرض **البطاقات** ، فانقر فوق علامة الحذف الموجودة بين **الاسم** **والكمية المتاحة** واختر **أعاده التنشيط** من القائمة.
-
-**ملاحظة**: إذا لم تتمكن من رؤية الاشتراك الذي تبحث عنه، فقد تحتاج إلى ضبط عامل تصفية**حالة الاشتراك** بالقرب من أعلى الصفحة لـ**الكل**.
-
-4. قم بتأكيد تفاصيل الدفع لديك لتحديث معلومات الدفع الموجودة. عند الانتهاء من إدخال طريقة الدفع، انقر فوق **إعادة تنشيط**.
+1. في مركز الاداره ، انتقل إلى صفحه **الفوترة**  >  [الخاصة بالمنتجات](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. علي علامة التبويب **المنتجات** ، ابحث عن الاشتراك الذي تريد أعاده تنشيطه. حدد **المزيد من الإجراءات** (ثلاث نقاط) ، ثم حدد **أعاده تنشيط هذا الاشتراك**.
+    > [!NOTE]
+    > إذا لم تتمكن من رؤية **أعاده تنشيط هذا الاشتراك**، فاتصل بقسم الدعم.
+3. في الجزء **أعاده تنشيط هذا الاشتراك** ، حدد طريقه دفع من القائمة المنسدلة ، أو حدد **أضافه طريقه دفع**.
+4. حدد **حفظ**.
 
 للحصول على مزيد من المعلومات، اطلع على [إعادة تنشيط اشتراكك](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

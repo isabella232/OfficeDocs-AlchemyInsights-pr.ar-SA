@@ -1,8 +1,8 @@
 ---
 title: إدارة تجديد الاشتراك
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,25 +13,20 @@ ms.custom:
 - "1500012"
 - "4568"
 - "4730"
-ms.openlocfilehash: 0c85962d4c1f07a14cea0ef8896359c802fa499d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 17ec34814ffe59ba6370ea046494db6345eff499
+ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47777850"
+ms.lasthandoff: 09/26/2020
+ms.locfileid: "48286909"
 ---
 # <a name="manage-subscription-renewal"></a>إدارة تجديد الاشتراك
 
 لإدارة الفوترة الشهرية أو السنوية، يمكنك تشغيل **الفوترة المتكررة** أو إيقاف تشغيلها.
 
 1. في مركز الاداره ، انتقل إلى صفحه **الفوترة**  >  **[الخاصة بالمنتجات](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
-
-2. اختر الاشتراك المراد إدارة الفوترة المتكررة الخاصة به.
-
-3. ضمن **الفوترة**، بجانب **تاريخ التجديد** أو **تاريخ انتهاء الصلاحية**، انقر فوق **تحرير**.
-
-4. في جزء **إعدادات الفوترة المتكررة**، انقر فوق **إيقاف التشغيل** لإيقافها. إذا كانت الفوترة المتكررة قيد الإيقاف بالفعل، فانقر فوق **شهرياً ** أو **مرة واحدة** لتشغيلها.
-
-5. انقر فوق **إرسال التغيير**.
+2. علي علامة التبويب **منتجات** ، ابحث عن الاشتراك الذي تريد ادارته ، وحدد **مزيد من الإجراءات** (ثلاث نقاط) ، ثم حدد **تحرير الفوترة المتكررة**.
+3. في الجزء **تحرير الفوترة المتكررة** ، حدد **تشغيل**أو **تشغيل أو تجديد أونسيس**أو **إيقاف تشغيل**.
+4. حدد **حفظ**.
 
 للحصول على مزيد من المعلومات، اطلع على [تشغيل الفوترة المتكررة أو إيقاف تشغيلها](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
