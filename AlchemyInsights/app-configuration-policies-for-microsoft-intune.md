@@ -12,15 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700004"
 - "1030"
-ms.openlocfilehash: 3ad5dfd1d1514ddf0e7d221e92d082b2868809c9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "9003770"
+- "6709"
+ms.openlocfilehash: babdff75b53c4a5cab0ae7697369304319d105af
+ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717168"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "48366379"
 ---
 # <a name="app-configuration-policies-for-microsoft-intune"></a>نهج تكوين التطبيق ل Microsoft Intune
 
-توفر نهج تكوين التطبيق في Microsoft Intune إعدادات التكوين لتطبيقات iOS أو Android. تسمح إعدادات التكوين هذه بتخصيص تطبيق. يقتصر دعم نهج التكوين علي إصدارات نظام التشغيل وتطبيقاته.
+يتم استخدام نهج تكوين التطبيق في Microsoft Intune لتوفير إعدادات التكوين لتطبيقات iOS أو Android.. تسمح إعدادات التكوين هذه بتخصيص تطبيق. انتبه إلى وجود قيود علي إصدارات نظام التشغيل والتطبيقات التي تدعم استخدام نهج التكوين.
 
-للحصول علي مزيد من التفاصيل ، راجع [نهج تكوين التطبيق ل Microsoft Intune](https://docs.microsoft.com/intune/app-configuration-policies-overview).
+يرجى مراجعه الوثائق التالية للحصول علي التفاصيل
+
+[نهج تكوين التطبيق ل Microsoft Intune](https://docs.microsoft.com/intune/app-configuration-policies-overview)  
+
+[أضافه نهج تكوين التطبيق لأجهزه iOS المدارة](https://docs.microsoft.com/intune/app-configuration-policies-use-ios)  
+
+[أضافه نهج تكوين التطبيق لأجهزه Android المدارة](https://docs.microsoft.com/intune/app-configuration-policies-use-android)
+
+[أضافه نهج تكوين التطبيق للتطبيقات المدارة بدون تسجيل الجهاز](https://docs.microsoft.com/intune/app-configuration-policies-managed-app)
