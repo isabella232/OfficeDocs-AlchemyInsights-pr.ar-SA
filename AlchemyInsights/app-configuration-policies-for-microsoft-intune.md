@@ -12,15 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700004"
 - "1030"
-ms.openlocfilehash: 3ad5dfd1d1514ddf0e7d221e92d082b2868809c9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "9003770"
+- "6709"
+ms.openlocfilehash: babdff75b53c4a5cab0ae7697369304319d105af
+ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47717168"
+ms.lasthandoff: 10/06/2020
+ms.locfileid: "48366379"
 ---
-# <a name="app-configuration-policies-for-microsoft-intune"></a><span data-ttu-id="05e63-102">نهج تكوين التطبيق ل Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="05e63-102">App Configuration policies for Microsoft Intune</span></span>
+# <a name="app-configuration-policies-for-microsoft-intune"></a><span data-ttu-id="5bf11-102">نهج تكوين التطبيق ل Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="5bf11-102">App Configuration policies for Microsoft Intune</span></span>
 
-<span data-ttu-id="05e63-103">توفر نهج تكوين التطبيق في Microsoft Intune إعدادات التكوين لتطبيقات iOS أو Android.</span><span class="sxs-lookup"><span data-stu-id="05e63-103">App configuration policies in Microsoft Intune provide configuration settings for iOS or Android applications.</span></span> <span data-ttu-id="05e63-104">تسمح إعدادات التكوين هذه بتخصيص تطبيق.</span><span class="sxs-lookup"><span data-stu-id="05e63-104">These configuration settings allow an app to be customized.</span></span> <span data-ttu-id="05e63-105">يقتصر دعم نهج التكوين علي إصدارات نظام التشغيل وتطبيقاته.</span><span class="sxs-lookup"><span data-stu-id="05e63-105">Configuration policy support is limited by operating system versions and applications.</span></span>
+<span data-ttu-id="5bf11-103">يتم استخدام نهج تكوين التطبيق في Microsoft Intune لتوفير إعدادات التكوين لتطبيقات iOS أو Android..</span><span class="sxs-lookup"><span data-stu-id="5bf11-103">App configuration policies in Microsoft Intune are used to provide configuration settings for iOS or Android applications..</span></span> <span data-ttu-id="5bf11-104">تسمح إعدادات التكوين هذه بتخصيص تطبيق.</span><span class="sxs-lookup"><span data-stu-id="5bf11-104">These configuration settings allow an app to be customized.</span></span> <span data-ttu-id="5bf11-105">انتبه إلى وجود قيود علي إصدارات نظام التشغيل والتطبيقات التي تدعم استخدام نهج التكوين.</span><span class="sxs-lookup"><span data-stu-id="5bf11-105">Be aware that there are limitations in respect of which operating system versions and which applications support the use of configuration policies.</span></span>
 
-<span data-ttu-id="05e63-106">للحصول علي مزيد من التفاصيل ، راجع [نهج تكوين التطبيق ل Microsoft Intune](https://docs.microsoft.com/intune/app-configuration-policies-overview).</span><span class="sxs-lookup"><span data-stu-id="05e63-106">For more details, see [App configuration policies for Microsoft Intune](https://docs.microsoft.com/intune/app-configuration-policies-overview).</span></span>
+<span data-ttu-id="5bf11-106">يرجى مراجعه الوثائق التالية للحصول علي التفاصيل</span><span class="sxs-lookup"><span data-stu-id="5bf11-106">Please review the following documentation for details</span></span>
+
+[<span data-ttu-id="5bf11-107">نهج تكوين التطبيق ل Microsoft Intune</span><span class="sxs-lookup"><span data-stu-id="5bf11-107">App configuration policies for Microsoft Intune</span></span>](https://docs.microsoft.com/intune/app-configuration-policies-overview)  
+
+[<span data-ttu-id="5bf11-108">أضافه نهج تكوين التطبيق لأجهزه iOS المدارة</span><span class="sxs-lookup"><span data-stu-id="5bf11-108">Add app configuration policies for managed iOS devices</span></span>](https://docs.microsoft.com/intune/app-configuration-policies-use-ios)  
+
+[<span data-ttu-id="5bf11-109">أضافه نهج تكوين التطبيق لأجهزه Android المدارة</span><span class="sxs-lookup"><span data-stu-id="5bf11-109">Add app configuration policies for managed Android devices</span></span>](https://docs.microsoft.com/intune/app-configuration-policies-use-android)
+
+[<span data-ttu-id="5bf11-110">أضافه نهج تكوين التطبيق للتطبيقات المدارة بدون تسجيل الجهاز</span><span class="sxs-lookup"><span data-stu-id="5bf11-110">Add app configuration policies for managed apps without device enrollment</span></span>](https://docs.microsoft.com/intune/app-configuration-policies-managed-app)
