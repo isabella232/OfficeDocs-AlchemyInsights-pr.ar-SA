@@ -1,8 +1,8 @@
 ---
 title: تغيير خطط Exchange Online
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002450"
 - "4766"
-ms.openlocfilehash: ba79e98fc6e492b408de298a7a09521672b6ab46
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 94a6b02439f1e4884ed1a30d6969ec87b6001564
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733603"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416296"
 ---
 # <a name="change-exchange-online-plans"></a>تغيير خطط Exchange Online
 
-يجب على المسؤولين تبديل الخطط يدوياً. للحصول على الخطوات الكاملة، اطلع على [تبديل خطط Microsoft 365 للأعمال يدوياً](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
+يجب ان يقوم المسؤولون بتغيير الخطط يدويا في مركز أداره Microsoft 365. للحصول علي خطوات كامله ، راجع [تغيير الخطط يدويا](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/change-plans-manually).
 
-1. قم بشراء خطة الاشتراك الجديدة. في مركز أداره Microsoft 365 ، انتقل إلى **Billing**  >  **[خدمات شراء](https://go.microsoft.com/fwlink/p/?linkid=868433)** الفوترة. إن أسهل طريقة للبحث عن خطط Exchange هي عن طريق استخدام مربع البحث.
-
-2. اطلع على الاشتراك الجديد والتراخيص. في مركز أداره Microsoft 365 ، انتقل إلى **فوتره**  >  **[منتجاتك](https://go.microsoft.com/fwlink/p/?linkid=842054)**. إذا لم يتم إدراج اشتراكك الجديد أو هو غير نشط، [فاطلع على ما ورد هنا](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan#the-upgrade-tab-is-empty).
-
-3. أعد تعيين التراخيص للمستخدمين. في مركز أداره Microsoft 365 ، **انتقل إلى**  >  **[المستخدمون النشطون](https://go.microsoft.com/fwlink/p/?linkid=834822)** وعين التراخيص.
-
+1. **قم بشراء خطة الاشتراك الجديدة.** انتقل إلى صفحه **Billing**  >  [خدمات شراء](https://go.microsoft.com/fwlink/p/?linkid=868433) الفوترة واشتري الاشتراك الجديد.
+2. **اطلع على الاشتراك الجديد والتراخيص.** انتقل إلى صفحه **الفوترة**  >  [الخاصة بالمنتجات](https://go.microsoft.com/fwlink/p/?linkid=842054) وتحقق من انه تم ادراج الاشتراك الجديد وان لديه العدد الصحيح من التراخيص.
+3. **أعد تعيين التراخيص للمستخدمين.** انتقل إلى صفحه **Users**  >  [المستخدمون النشطون](https://go.microsoft.com/fwlink/p/?linkid=834822) ، وقم بتعيين التراخيص.
 4. [الغ اشتراكك](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription) أو [أزل التراخيص](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses) التي لم تعد بحاجه اليها.

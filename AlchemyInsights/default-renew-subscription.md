@@ -1,8 +1,8 @@
 ---
-title: سوبسكريبشن التجديد الافتراضي
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+title: سوبسكريبتيون التجديد الافتراضي
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3043"
 - "1500012"
-ms.openlocfilehash: 038c8f55ced056254d3d9fb882dc842e66941263
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 24a3cb1d3600e347af88e422c2c125c096a5d805
+ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745846"
+ms.lasthandoff: 10/10/2020
+ms.locfileid: "48416625"
 ---
 # <a name="renewing-your-subscription"></a>تجديد الاشتراك
 
@@ -25,8 +25,10 @@ ms.locfileid: "47745846"
 
 إذا قمت مسبقا بدفع الاشتراك باستخدام مفتاح المنتج ، ستنتهي صلاحيه اشتراكك في نهاية فتره الاشتراك. يمكنك تشغيل الفوترة المتكررة وتوفير معلومات عن بطاقة الائتمان أو الحساب البنكي بحيث يستمر الاشتراك في كل عام في اليوم الذي اشتركت فيه.
 
-لتشغيل الفوترة المتكررة علي: 
+لتشغيل الفوترة المتكررة علي:
 
-1. انتقل إلى **فوتره**  >  **[منتجاتك](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
-2. اختر الاشتراك الذي تريد أداره الفوترة المتكررة له.
-3. ضمن **الفوترة**، حدد **تحرير** وقم باجراء التغييرات في النافذة **إعدادات الفوترة المتكررة** . 
+1. في مركز الاداره ، انتقل إلى صفحه **الفوترة**  >  [الخاصة بالمنتجات](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. علي علامة التبويب **المنتجات** ، حدد الاشتراك الذي تريد تغييره.
+3. في صفحه تفاصيل الاشتراك ، ضمن **إعدادات الاشتراك والدفع**، حدد **تحرير الفوترة المتكررة**.
+4. في الجزء **تحرير إعدادات الفوترة المتكررة** ، حدد **تشغيل**، **علي ، ولكن تجديد مره واحده**، أو إيقاف **تشغيل**.
+5. حدد **حفظ**. 
