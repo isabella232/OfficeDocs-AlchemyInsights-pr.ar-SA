@@ -13,12 +13,12 @@ ms.custom:
 - "1500012"
 - "4568"
 - "4730"
-ms.openlocfilehash: 17ec34814ffe59ba6370ea046494db6345eff499
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: c5f81c51ed73c70d98a02a0907fa394ddd1134db
+ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48286909"
+ms.lasthandoff: 10/13/2020
+ms.locfileid: "48451342"
 ---
 # <a name="manage-subscription-renewal"></a>إدارة تجديد الاشتراك
 
@@ -30,3 +30,4 @@ ms.locfileid: "48286909"
 4. حدد **حفظ**.
 
 للحصول على مزيد من المعلومات، اطلع على [تشغيل الفوترة المتكررة أو إيقاف تشغيلها](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+
