@@ -1,8 +1,8 @@
 ---
 title: الاشتراك غير نشط بعد الآن
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002453"
 - "4763"
-ms.openlocfilehash: a056a9bf006b2400b94ee52444ab83e71b232348
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 59db84b9068843333ee28f47b9e69cf8b805b184
+ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737544"
+ms.lasthandoff: 10/16/2020
+ms.locfileid: "48489300"
 ---
 # <a name="subscription-no-longer-active"></a>الاشتراك غير نشط بعد الآن
 
-إذا [ظهر إشعار الاشتراك عند فتح تطبيق من تطبيقات Microsoft](https://support.office.com/article/A-subscription-notice-appears-when-I-open-an-Office-365-application-4CABE32C-F594-4C0E-9191-3D3ADE10CCEB)، فمن المحتمل أنك ستحتاج إلى إعادة تنشيط اشتراكك.
+إذا [ظهر اشعار اشتراك](https://support.microsoft.com/office/a-subscription-notice-appears-when-i-open-a-microsoft-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb) عند فتح تطبيق Microsoft ، فمن المحتمل انك تحتاج إلى أعاده تنشيط اشتراكك.
 
 **إعادة تنشيط اشتراك**
 
-1. في مركز الاداره ، انتقل إلى صفحه **الفوترة**  >  **[الخاصة بالمنتجات](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. في مركز الاداره ، انتقل إلى صفحه **الفوترة**  >  [الخاصة بالمنتجات](https://go.microsoft.com/fwlink/p/?linkid=842054) .
+2. علي علامة التبويب **المنتجات** ، ابحث عن الاشتراك الذي تريد أعاده تنشيطه. حدد **المزيد من الإجراءات** (ثلاث نقاط) ، ثم حدد **أعاده تنشيط هذا الاشتراك**.
+3. في الجزء **أعاده تنشيط هذا الاشتراك** ، حدد طريقه دفع من القائمة المنسدلة ، أو حدد **أضافه طريقه دفع**.
+4. حدد **حفظ**.
 
-2. ابحث عن الاشتراك الذي تريد إعادة تنشيطه.
-
-3. في قسم **الفوترة**، انقر فوق**إعادة تنشيط**.  إذا كنت في طريقه عرض **البطاقات** ، فانقر فوق علامة الحذف الموجودة بين **الاسم** **والكمية المتاحة** واختر **أعاده التنشيط** من القائمة.
-
-**ملاحظة**: إذا لم تتمكن من رؤية الاشتراك الذي تبحث عنه، فقد تحتاج إلى ضبط عامل تصفية**حالة الاشتراك** بالقرب من أعلى الصفحة لـ**الكل**.
-
-4. قم بتأكيد تفاصيل الدفع لديك لتحديث معلومات الدفع الموجودة. عند الانتهاء من إدخال طريقة الدفع، انقر فوق **إعادة تنشيط**.
-
-للحصول على مزيد من المعلومات، اطلع على [إعادة تنشيط اشتراكك](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+للتعرّف على المزيد، اطلع على [إعادة تنشيط الاشتراك](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
