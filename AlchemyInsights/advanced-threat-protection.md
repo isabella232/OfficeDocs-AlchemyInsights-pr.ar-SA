@@ -1,5 +1,5 @@
 ---
-title: حماية المخاطر المتقدمة في Office 365
+title: Microsoft Defender ل Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: c6b552a11b2eee647e2e5dc7b93523b03c0e7ea3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a07c56c0977811e286d61f2e7c3336275c3501a2
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696608"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801214"
 ---
-# <a name="office-365-advanced-threat-protection"></a>حماية المخاطر المتقدمة في Office 365
+# <a name="microsoft-defender-for-office-365"></a>Microsoft Defender ل Office 365
 
-- تعد المرفقات الامنه والارتباطات الامنه والحماية من التصيد الاحتيالي جزءا من الحماية المتقدمة من المخاطر في Office 365. يتضمن Enterprise E5 و التعليم A5 و Microsoft 365 Business Premium ATP. تتطلب كل الخطط الأخرى اشتراك ATP لوظيفة اضافيه.
+- تعد المرفقات الامنه والارتباطات الامنه والحماية من التصيد الاحتيالي جزءا من Microsoft Defender ل Office 365 (ATP). يتضمن Enterprise E5 و التعليم A5 و Microsoft 365 Business Premium ATP. تتطلب كل الخطط الأخرى اشتراك ATP لوظيفة اضافيه.
 
 - تحتاج إلى تعيين التراخيص المناسبة لحماية المستخدمين بواسطة Office 365 ATP. راجع [هذا الموضوع](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) للحصول علي إرشادات حول كيفيه تطبيق التراخيص المجمعة علي المستخدمين.
 
-- يمكن للمسؤولين العامين أو مسؤولي الأمان الوصول إلى ميزات ATP ل Office 365 في مركز توافق & الأمان في نهج **التهديد ماناجمينت** \> **Policy**.
+- يمكن للمسؤولين العامين أو مسؤولي الأمان الوصول إلى ميزات ATP ل Office 365 في مركز توافق & الأمان في نهج **التهديد ماناجمينت** \> **Policy** .
 
 - يمكن ان تكون المرفقات الامنه ونهج الارتباطات الامنه خاصه بمؤسسك بالبالكامل أو مجالات معينه أو مجموعات أصغر من المستخدمين.
 

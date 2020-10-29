@@ -1,5 +1,5 @@
 ---
-title: شراء الحماية المتقدمة من المخاطر في Office 365
+title: شراء Microsoft Defender ل Office 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003019"
 - "5758"
-ms.openlocfilehash: e30cba67127ec47cf39a53cd0fe9b7369243ef16
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2a6bc1de817a37868d3955ac4727c39a5e1f318d
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693542"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801128"
 ---
-# <a name="purchase-office-365-advanced-threat-protection"></a>شراء الحماية المتقدمة من المخاطر في Office 365
+# <a name="purchase-microsoft-defender-for-office-365"></a>شراء Microsoft Defender ل Office 365
 
-يتم تضمين الحماية المتقدمة من المخاطر في Office 365 (ATP) في بعض الاشتراكات ، مثل Microsoft 365 E5 و Office 365 E5 و Office 365 A5 و Microsoft 365 Business Premium. إذا لم يتضمن اشتراكك الذي يعمل بنظام التشغيل Microsoft 365 ATP ، فيمكنك شراء خطه [atp 1 أو atp 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) كوظيفة اضافيه لاشتراك معين. للشراء في مركز أداره Microsoft 365:
+يتم تضمين Microsoft Defender ل Office 365 (ATP) في بعض الاشتراكات ، مثل Microsoft 365 E5 و Office 365 E5 و Office 365 A5 و Microsoft 365 Business Premium. إذا لم يتضمن اشتراكك الذي يعمل بنظام التشغيل Microsoft 365 ATP ، فيمكنك شراء خطه [atp 1 أو atp 2](https:/www.microsoft.com/microsoft-365/exchange/advance-threat-protection?market=um#office-ProductsCompare-785zwzq) كوظيفة اضافيه لاشتراك معين. للشراء في مركز أداره Microsoft 365:
 
 1. انتقل إلى **Billing**   >   [خدمات شراء](https://go.microsoft.com/fwlink/p/?linkid=868433)الفوترة.
 2. حدد صفحه **الوظائف الاضافيه**  من **الفئات الأخرى التي قد تثير اهتمامك.**

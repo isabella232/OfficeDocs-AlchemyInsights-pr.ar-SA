@@ -1,5 +1,5 @@
 ---
-title: 9001220 بحث المتقدمة ديتيكتيونس مخصصه
+title: 9001220 بحث المتقدمة ديتيكشنز مخصصه
 ms.author: dolmont
 author: DulceMontemayor
 manager: dansimp
@@ -14,22 +14,22 @@ ms.custom:
 - "3200"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: 935508b3084aee0613d2bd1c2f26a437390f8640
-ms.sourcegitcommit: fc62091696591175280c02c29876530d485c7871
+ms.openlocfilehash: 40351bd7852b69e0ff2ae6f630749ecbc1e0f13b
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/26/2020
-ms.locfileid: "48299677"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801502"
 ---
-# <a name="advanced-hunting-custom-detections"></a>خيارات متقدمة بحث مخصصه ديتيكتيونس
+# <a name="advanced-hunting-custom-detections"></a>خيارات متقدمة بحث مخصصه ديتيكشنز
 
-يمكنك معرفه كيفيه إنشاء قواعد ديتيكتيونس مخصصه وأدارتها استنادا إلى استعلامات بحث المتقدمة. باستخدام ديتيكتيونس المخصصة ، يمكنك بشكل خاص مراقبه الاحداث المتنوعة وحالات النظام ، بما في ذلك نشاط الخرق المشتبه به والاجهزه التي تم تكوينها بشكل غير صحيح. يمكنك القيام بذلك باستخدام قواعد الكشف القابلة للتخصيص التي تقوم تلقائيا بتشغيل التنبيات وإجراءات الاستجابة
+يمكنك معرفه كيفيه إنشاء قواعد ديتيكشنز مخصصه وأدارتها استنادا إلى استعلامات بحث المتقدمة. باستخدام ديتيكشنز المخصصة ، يمكنك بشكل خاص مراقبه الاحداث المتنوعة وحالات النظام ، بما في ذلك نشاط الخرق المشتبه به والاجهزه التي تم تكوينها بشكل غير صحيح. يمكنك القيام بذلك باستخدام قواعد الكشف القابلة للتخصيص التي تقوم تلقائيا بتشغيل التنبيات وإجراءات الاستجابة
   
 إذا كنت تستخدم Microsoft Defender ATP ، فراجع المواضيع التالية للحصول علي التفاصيل: 
-- [نظره عامه حول ديتيكتيونس المخصصة](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/overview-custom-detections)
+- [نظره عامه حول ديتيكشنز المخصصة](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/overview-custom-detections)
 - [إنشاء قواعد كشف مخصصه](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
 - [عرض قواعد الكشف المخصصة وأدارهها](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
 
-إذا كنت تستخدم ميزه الحماية من المخاطر في Microsoft ، فراجع المواضيع التالية للحصول علي التفاصيل: 
-- [نظره عامه حول ديتيكتيونس المخصصة](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detections-overview)
-- [إنشاء قواعد الديتيكتيونس المخصصة وأدارهها](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detection-rules)
+إذا كنت تستخدم Microsoft 365 Defender ، فراجع المواضيع التالية للحصول علي التفاصيل: 
+- [نظره عامه حول ديتيكشنز المخصصة](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detections-overview)
+- [إنشاء قواعد الديتيكشنز المخصصة وأدارهها](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detection-rules)

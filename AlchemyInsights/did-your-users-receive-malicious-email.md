@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002907"
 - "5594"
-ms.openlocfilehash: cbed5a3173ac41820fe183d0347eccd9828db79f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 238ec872acc8398aa3eaa3b1990e524cb7e1fe50
+ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679824"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "48801106"
 ---
 # <a name="did-your-users-receive-malicious-email"></a>هل يتلقى المستخدمون بريدا الكترونيا ضارا ؟
 
@@ -27,6 +27,6 @@ ms.locfileid: "47679824"
 
 - **قم بازاله البريد الكتروني الضار** من علب وارد المستخدمين باتباع الإرشادات الواردة في [هذه المقالة](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization?view=o365-worldwide#more-information). 
 
-    - يمكن للعملاء الذين لديهم **الحماية المتقدمة من المخاطر في Office 365** [الاستفادة من "مستكشف التهديدات" للبحث عن البريد الكتروني المشتبه](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered?view=o365-worldwide#find-and-delete-suspicious-email-that-was-delivered)
+    - بإمكان العملاء الذين يملكون **Microsoft Defender ل Office 365** الاستفادة من ["مستكشف التهديد" للبحث عن البريد الكتروني المشتبه فيه وحذفه](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered?view=o365-worldwide#find-and-delete-suspicious-email-that-was-delivered).
 
 - **حماية** من الملفات وعناوين url الضارة باتباع الإرشادات المتعلقة [بالحماية من عناوين url والملفات الضارة](https://docs.microsoft.com/microsoft-365/security/office-365-security/protect-against-threats?view=o365-worldwide#part-2---protection-from-malicious-urls-and-files).
