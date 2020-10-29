@@ -12,28 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000652"
 - "2494"
-ms.openlocfilehash: 9306f56e2f3b9ba3b06e78e07aa2eb0fe40817e4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c39fec48f791d5cc4a97688cc7b5cd93010403a2
+ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784294"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "48791245"
 ---
 # <a name="enrolling-android-devices-into-intune"></a>تسجيل أجهزه Android في Intune
 
-يدعم Intune تسجيل أجهزه Android التالية:
-- Samsung كنوكس و لحمار مخطط
-- ملف تعريف عمل Android Enterprise
-- Android Enterprise مخصص
-- المدارة بالبالكامل لنظام التشغيل Android
+إذا كنت تبحث عن ترحيل المستخدمين من تسجيل مسؤول جهاز Android إلى Android Enterprise ، الرجاء مراجعه: [نقل أجهزه Android من مسؤول الجهاز إلى أداره ملفات تعريف العمل](https://docs.microsoft.com/mem/intune/enrollment/android-move-device-admin-work-profile).
 
-قبل اعداد التسجيل لأجهزه Android ، [راجع الإصدار التجريبي من متطلبات] ( https://docs.microsoft.com/intune/enrollment/android-enroll .
+يدعم Intune تسجيل أجهزه Android التالية:  
 
-للحصول علي معلومات حول استكشاف أخطاء تسجيل الاجهزه وإصلاحها بشكل عام وبعض أخطاء تسجيل Android ، راجع [استكشاف أخطاء تسجيل الاجهزه وإصلاحها في Microsoft Intune](https://docs.microsoft.com/intune/enrollment/troubleshoot-device-enrollment-in-intune).
+- [Samsung كنوكس ، لحمار مخطط ، مسؤول الجهاز](https://docs.microsoft.com/mem/intune/enrollment/android-enroll-device-administrator)
+- [ملف تعريف عمل Android Enterprise](https://docs.microsoft.com/mem/intune/enrollment/android-enterprise-overview)
+- [Android Enterprise مخصص](https://docs.microsoft.com/mem/intune/enrollment/android-dedicated-devices-fully-managed-enroll)
+- [المدارة بالبالكامل لنظام التشغيل Android](https://docs.microsoft.com/mem/intune/enrollment/android-fully-managed-enroll)
 
-يمكنك أيضا استخدام [المحتوي الذي يصف النصليه استكشاف الأخطاء وإصلاحها في Intune](https://docs.microsoft.com/intune/fundamentals/help-desk-operators) لمساعدتك علي تحديد المشاكل المتعلقة بالانرولمينت التي يواجهها المستخدمون.
+قبل اعداد التسجيل لأجهزه Android ، [راجع المتطلبات المسبق](https://docs.microsoft.com/intune/enrollment/android-enroll).  
 
+للحصول علي معلومات حول استكشاف أخطاء تسجيل الاجهزه وإصلاحها بشكل عام وبعض أخطاء تسجيل Android ، راجع [استكشاف أخطاء تسجيل الاجهزه وإصلاحها في Microsoft Intune](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-android-enrollment).
 
-
-
-
+يمكنك أيضا استخدام المحتوي الذي يصف النصليه استكشاف الأخطاء وإصلاحها في Intune لمساعدتك علي تحديد المشاكل المتعلقة بالانرولمينت التي يواجهها المستخدمون.
