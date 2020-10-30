@@ -1,0 +1,81 @@
+---
+title: الحاجة إلى نسخه من الفاتورة أو الاستخدام
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9003801"
+- "6804"
+ms.openlocfilehash: 5ec935ddd9e273561886831e60c98ae1a542f9da
+ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.translationtype: MT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "48808234"
+---
+# <a name="get-a-copy-of-your-bill-or-usage"></a><span data-ttu-id="19fb7-102">الحصول علي نسخه من الفاتورة أو الاستخدام</span><span class="sxs-lookup"><span data-stu-id="19fb7-102">Get a copy of your bill or usage</span></span>
+
+<span data-ttu-id="19fb7-103">**تنزيل فاتورة Azure (.pdf)**</span><span class="sxs-lookup"><span data-stu-id="19fb7-103">**Download your Azure invoice (.pdf)**</span></span>
+
+1. <span data-ttu-id="19fb7-104">تحديد اشتراكك من [صفحه الاشتراكات](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) في مدخل Azure [كمستخدم له حق الوصول إلى الفواتير](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) ثم تحديد **الفواتير**</span><span class="sxs-lookup"><span data-stu-id="19fb7-104">Select your subscription from the [Subscriptions page](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) in Azure portal as [a user with access to invoices](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) then select **Invoices**</span></span>
+2. <span data-ttu-id="19fb7-105">انقر فوق **تنزيل الفاتورة** لعرض نسخه من فاتورة PDF الخاصة بك.</span><span class="sxs-lookup"><span data-stu-id="19fb7-105">Click **Download Invoice** to view a copy of your PDF invoice.</span></span> <span data-ttu-id="19fb7-106">إذا لم يكن الأمر **متوفرا** ، فراجع [لماذا لا يمكنني رؤية فاتورة لفتره الفوترة الاخيره ؟](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)</span><span class="sxs-lookup"><span data-stu-id="19fb7-106">If it says **Not available** , see [Why don't I see an invoice for the last billing period?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)</span></span>
+3. <span data-ttu-id="19fb7-107">يمكنك أيضا عرض الاستخدام اليومي بالنقر فوق فتره الفوترة للحصول علي PDF من الفاتورة ونسخه من ملف الاستخدام المفصل المفصلة (. CSV): [الحصول علي بيانات الفاتورة والاستخدام](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)</span><span class="sxs-lookup"><span data-stu-id="19fb7-107">You can also view your daily usage by clicking the billing period To obtain a PDF of your invoice and a copy of your detailed daily usage file (.CSV): [Get invoice and usage data](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)</span></span>
+
+<span data-ttu-id="19fb7-108">**الحصول علي فاتورتك في البريد الكتروني (.pdf)**</span><span class="sxs-lookup"><span data-stu-id="19fb7-108">**Get your invoice in email (.pdf)**</span></span>
+
+1. <span data-ttu-id="19fb7-109">حدد اشتراكك من صفحه " [الاشتراكات](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)".</span><span class="sxs-lookup"><span data-stu-id="19fb7-109">Select your subscription from the [Subscriptions page](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).</span></span> <span data-ttu-id="19fb7-110">انقر فوق **الفواتير** ثم **إرسال الفاتورة بالبريد الكتروني**</span><span class="sxs-lookup"><span data-stu-id="19fb7-110">Click **Invoices** then **Email my invoice**</span></span>
+2. <span data-ttu-id="19fb7-111">انقر فوق **الموافقة** واقبل الشروط.</span><span class="sxs-lookup"><span data-stu-id="19fb7-111">Click **opt in** and accept the terms.</span></span> <span data-ttu-id="19fb7-112">سيتعين عليك الاشتراك في كل اشتراك لديك.</span><span class="sxs-lookup"><span data-stu-id="19fb7-112">You will have to opt in for each subscription you own.</span></span> <span data-ttu-id="19fb7-113">ملاحظه: إذا لم تحصل علي بريد الكتروني بعد تنفيذ الخطوات ، فتاكد من ان عنوان البريد الكتروني الخاص بك صحيح في [تفضيلات الاتصالات في ملف التعريف الخاص بك](https://account.windowsazure.com/profile)</span><span class="sxs-lookup"><span data-stu-id="19fb7-113">Note: If you don't get an email after following the steps, make sure your email address is correct in the [communication preferences on your profile](https://account.windowsazure.com/profile)</span></span>
+3. [<span data-ttu-id="19fb7-114">إرسال فواتير Azure مباشره إلى علبه الوارد</span><span class="sxs-lookup"><span data-stu-id="19fb7-114">Azure invoices emailed direct to your inbox</span></span>](https://azure.microsoft.com/blog/azure-email-invoices/)
+
+<span data-ttu-id="19fb7-115">**فهم الاستخدام اليومي:**  
+ [فهم الفاتورة ل Microsoft Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)</span><span class="sxs-lookup"><span data-stu-id="19fb7-115">**Understand daily usage:** 
+[Understand your bill for Microsoft Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)</span></span>  
+
+<span data-ttu-id="19fb7-116">**أداره التكاليف:** [منع التكاليف غير المتوقعة باستخدام الفوترة وأداره التكاليف في Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/getting-started?WT.mc_id=Portal-Microsoft_Azure_Support)</span><span class="sxs-lookup"><span data-stu-id="19fb7-116">**Manage costs:** [Prevent unexpected costs with Azure billing and cost management](https://docs.microsoft.com/azure/cost-management-billing/manage/getting-started?WT.mc_id=Portal-Microsoft_Azure_Support)</span></span>  
+
+<span data-ttu-id="19fb7-117">**اتفاقيه عملاء Microsoft (MCA)** :</span><span class="sxs-lookup"><span data-stu-id="19fb7-117">**Microsoft Customer Agreement (MCA)** :</span></span>
+
+<span data-ttu-id="19fb7-118">تعرف علي  [كيفيه التحقق من الوصول إلى اتفاقيه عملاء Microsoft ؟](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)</span><span class="sxs-lookup"><span data-stu-id="19fb7-118">Learn  [How to Check access to a Microsoft Customer Agreement?](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)</span></span>  
+<span data-ttu-id="19fb7-119">إذا كان لديك [اتفاقيه عملاء Microsoft](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)، فيمكنك تنزيل الاستخدام في [مدخل Azure](https://portal.azure.com/)</span><span class="sxs-lookup"><span data-stu-id="19fb7-119">If you're have a [Microsoft Customer Agreement](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement), you can download usage in the [Azure portal](https://portal.azure.com/)</span></span>
+
+<span data-ttu-id="19fb7-120">**احصل علي فواتير اتفاقيه عملاء Microsoft في البريد الكتروني** :</span><span class="sxs-lookup"><span data-stu-id="19fb7-120">**Get your Microsoft Customer Agreement invoices in email** :</span></span>
+
+<span data-ttu-id="19fb7-121">إذا كان لديك اتفاقيه عملاء Microsoft ، فيمكنك الاشتراك للحصول علي فاتورتك في رسالة بريد الكتروني.</span><span class="sxs-lookup"><span data-stu-id="19fb7-121">If you have a Microsoft Customer Agreement, you can opt in to get your invoice in an email.</span></span> <span data-ttu-id="19fb7-122">سيحصل كل مالكي ملف تعريف الفواتير والمساهمين والقراء ومديري الفواتير علي الفاتورة بالبريد الكتروني.</span><span class="sxs-lookup"><span data-stu-id="19fb7-122">All billing profile Owners, Contributors, Readers, and Invoice managers will get the invoice by email.</span></span> <span data-ttu-id="19fb7-123">يتعذر علي القراء تحديث تفضيل فاتورة البريد الكتروني</span><span class="sxs-lookup"><span data-stu-id="19fb7-123">Readers cannot update the email invoice preference</span></span>
+
+- <span data-ttu-id="19fb7-124">البحث عن **أداره التكاليف + الفوترة** .</span><span class="sxs-lookup"><span data-stu-id="19fb7-124">Search for **Cost Management + Billing** .</span></span> <span data-ttu-id="19fb7-125">حدد **ملف تعريف الفوترة** .</span><span class="sxs-lookup"><span data-stu-id="19fb7-125">Select a **billing profile** .</span></span> <span data-ttu-id="19fb7-126">ضمن إعدادات ، حدد **خصائص**</span><span class="sxs-lookup"><span data-stu-id="19fb7-126">Under Settings, select **Properties**</span></span>
+- <span data-ttu-id="19fb7-127">ضمن فاتورة البريد الكتروني ، حدد **تحديث تفضيل فاتورة البريد الكتروني** .</span><span class="sxs-lookup"><span data-stu-id="19fb7-127">Under Email Invoice, select **Update email invoice preference** .</span></span> <span data-ttu-id="19fb7-128">حدد الاشتراك.</span><span class="sxs-lookup"><span data-stu-id="19fb7-128">Select opt in.</span></span> <span data-ttu-id="19fb7-129">انقر فوق " **تحديث** "</span><span class="sxs-lookup"><span data-stu-id="19fb7-129">Click **Update**</span></span>
+
+<span data-ttu-id="19fb7-130">**اتفاقيه المؤسسة (EA)**</span><span class="sxs-lookup"><span data-stu-id="19fb7-130">**Enterprise Agreement (EA)**</span></span>
+
+<span data-ttu-id="19fb7-131">لعرض بيانات الاستخدام وتنزيلها كعميل EA ، يجب ان تكون مسؤولا علي المؤسسة أو مالك الحساب أو مسؤول القسم مع تمكين نهج رسومات العرض.</span><span class="sxs-lookup"><span data-stu-id="19fb7-131">To view and download usage data as a EA customer, you must be an Enterprise Administrator, Account Owner, or Department Admin with the view charges policy enabled.</span></span>
+
+- <span data-ttu-id="19fb7-132">سجل دخولك إلى مدخل Azure.</span><span class="sxs-lookup"><span data-stu-id="19fb7-132">Sign in to the Azure portal.</span></span> <span data-ttu-id="19fb7-133">البحث عن **أداره التكاليف + الفوترة** .</span><span class="sxs-lookup"><span data-stu-id="19fb7-133">Search for **Cost Management + Billing** .</span></span> <span data-ttu-id="19fb7-134">تحديد ملف تعريف الفوترة</span><span class="sxs-lookup"><span data-stu-id="19fb7-134">Select a billing profile</span></span>
+- <span data-ttu-id="19fb7-135">حدد الاستخدام + الرسوم.</span><span class="sxs-lookup"><span data-stu-id="19fb7-135">Select Usage + charges.</span></span> <span data-ttu-id="19fb7-136">بالنسبة إلى الشهر الذي تريد تنزيله ، حدد تنزيل</span><span class="sxs-lookup"><span data-stu-id="19fb7-136">For the month you want to download, select Download</span></span>
+
+<span data-ttu-id="19fb7-137">**اشتراك Azure موسب**</span><span class="sxs-lookup"><span data-stu-id="19fb7-137">**MOSP Azure subscription**</span></span>  
+[<span data-ttu-id="19fb7-138">تنزيل فاتورة اشتراك موسب Azure</span><span class="sxs-lookup"><span data-stu-id="19fb7-138">Download MOSP Azure subscription invoice</span></span>](https://docs.microsoft.com/azure/cost-management-billing/understand/download-azure-invoice?WT.mc_id=Portal-Microsoft_Azure_Support#download-your-mosp-azure-subscription-invoice)
+
+<span data-ttu-id="19fb7-139">**استكشاف الأخطاء وإصلاحها: تعذر عرض الفاتورة لفتره الفوترة الاخيره ؟**</span><span class="sxs-lookup"><span data-stu-id="19fb7-139">**Troubleshoot: Unable to see invoice for the last billing period?**</span></span>
+
+<span data-ttu-id="19fb7-140">بعض الأسباب المحتملة التي قد لا تظهر فيها فاتورة:</span><span class="sxs-lookup"><span data-stu-id="19fb7-140">Some possible reasons you might not see an invoice:</span></span>
+
+- <span data-ttu-id="19fb7-141">لديك مبلغ رصيد شهري مع اشتراكك الذي لم يتجاوزه أو لديك فتره تجريبية مجانية.</span><span class="sxs-lookup"><span data-stu-id="19fb7-141">You have a monthly credit amount with your subscription that you didn't exceed or you have a Free Trial.</span></span> <span data-ttu-id="19fb7-142">يتم إنشاء فاتورة فقط عندما أو مالا</span><span class="sxs-lookup"><span data-stu-id="19fb7-142">An invoice is only generated when you owe money</span></span>
+- <span data-ttu-id="19fb7-143">انها اقل من 30 يوما من اليوم الذي اشتركت فيه في Azure</span><span class="sxs-lookup"><span data-stu-id="19fb7-143">It's less than 30 days from the day you subscribed to Azure</span></span>
+- <span data-ttu-id="19fb7-144">لم يتم إنشاء الفاتورة حتى الآن.</span><span class="sxs-lookup"><span data-stu-id="19fb7-144">The invoice isn't generated yet.</span></span> <span data-ttu-id="19fb7-145">الانتظار حتى نهاية فتره تحرير الفواتير</span><span class="sxs-lookup"><span data-stu-id="19fb7-145">Wait until the end of the billing period</span></span>
+- <span data-ttu-id="19fb7-146">إذا لم تكن مسؤول الحساب ، فقد لا تكون الفواتير القديمة متوفرة لك في **ملاحظه** : لا تقدم Microsoft تقارير الاستخدام أو بيانات الاستهلاك إلى عملاء Azure CSP.</span><span class="sxs-lookup"><span data-stu-id="19fb7-146">If you're not the Account Administrator, older invoices may not be available to you **Note** : Microsoft doesn't provide any usage reports or consumption data to Azure CSP customers.</span></span> <span data-ttu-id="19fb7-147">بيانات استخدام مركز الشركاء علي الشريك</span><span class="sxs-lookup"><span data-stu-id="19fb7-147">Partner Center usage data is partner-facing</span></span>
+- <span data-ttu-id="19fb7-148">تعرف علي المزيد حول أيو (Azure المفتوحة) الفوترة والاستخدام: [Azure المفتوحة](https://azure.microsoft.com/offers/ms-azr-0111p/)</span><span class="sxs-lookup"><span data-stu-id="19fb7-148">Learn more on AIO (Azure in open) billing and usage: [Azure in open](https://azure.microsoft.com/offers/ms-azr-0111p/)</span></span>
+
+<span data-ttu-id="19fb7-149">**المستندات المستحسنة**</span><span class="sxs-lookup"><span data-stu-id="19fb7-149">**Recommended Documents**</span></span>
+
+- [<span data-ttu-id="19fb7-150">لماذا لا يمكنك رؤية فاتورة ؟</span><span class="sxs-lookup"><span data-stu-id="19fb7-150">Why you might not see an invoice?</span></span>](https://docs.microsoft.com/azure/cost-management-billing/understand/download-azure-invoice?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
+- [<span data-ttu-id="19fb7-151">طلب/تنزيل/عرض فاتورة فوتره Azure وبيانات الاستخدام</span><span class="sxs-lookup"><span data-stu-id="19fb7-151">Request/Download/View your Azure billing invoice and usage data</span></span>](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [<span data-ttu-id="19fb7-152">كيفيه إرسال فواتير Azure مباشره إلى علبه الوارد الخاصة بك</span><span class="sxs-lookup"><span data-stu-id="19fb7-152">How to email Azure invoices directly to your inbox</span></span>](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [<span data-ttu-id="19fb7-153">فهم رسوم الاستخدام المفصلة</span><span class="sxs-lookup"><span data-stu-id="19fb7-153">Understand detailed usage charges</span></span>](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support#csv)
+- [<span data-ttu-id="19fb7-154">فهم الشروط في الفاتورة</span><span class="sxs-lookup"><span data-stu-id="19fb7-154">Understand terms on your invoice</span></span>](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [<span data-ttu-id="19fb7-155">فهم فاتورة Azure CSP</span><span class="sxs-lookup"><span data-stu-id="19fb7-155">Understand Azure CSP invoice</span></span>](https://docs.microsoft.com/partner-center/azure-plan-lp?WT.mc_id=Portal-Microsoft_Azure_Support)

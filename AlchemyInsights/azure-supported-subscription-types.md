@@ -1,0 +1,64 @@
+---
+title: أنواع الاشتراكات المعتمدة
+ms.author: pebaum
+author: pebaum
+manager: mnirkhe
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Priority
+ms.collection: Adm_O365
+ms.custom:
+- "9003560"
+- "6675"
+ms.openlocfilehash: 46bc60435c3f8477e9f274d90c39d0f1c6a523c6
+ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.translationtype: MT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "48807177"
+---
+# <a name="supported-subscription-types"></a><span data-ttu-id="612f4-102">أنواع الاشتراكات المعتمدة</span><span class="sxs-lookup"><span data-stu-id="612f4-102">Supported subscription types</span></span>
+
+<span data-ttu-id="612f4-103">يرجى مراجعه أنواع الاشتراكات المعتمدة لمتابعه المزيد.</span><span class="sxs-lookup"><span data-stu-id="612f4-103">Please review the supported subscription types to proceed further.</span></span>
+
+[<span data-ttu-id="612f4-104">أنواع الاشتراكات المعتمدة</span><span class="sxs-lookup"><span data-stu-id="612f4-104">Supported subscription types</span></span>](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#supported-subscription-types)
+
+<span data-ttu-id="612f4-105">**نقل ملكيه الفوترة**</span><span class="sxs-lookup"><span data-stu-id="612f4-105">**Transfer billing ownership**</span></span>
+
+<span data-ttu-id="612f4-106">مدخل Azure [كمسؤول الحساب](https://ms.portal.azure.com/) لحساب الفوترة الذي يحتوي علي الاشتراك الذي تريد نقله</span><span class="sxs-lookup"><span data-stu-id="612f4-106">Azure portal as the [Account Admin](https://ms.portal.azure.com/) of the billing account that has the subscription you want to transfer</span></span>
+
+- <span data-ttu-id="612f4-107">البحث في **أداره التكاليف + الفوترة** .</span><span class="sxs-lookup"><span data-stu-id="612f4-107">Search on **Cost Management + Billing** .</span></span> <span data-ttu-id="612f4-108">حدد **الاشتراكات** من الجزء الأيسر.</span><span class="sxs-lookup"><span data-stu-id="612f4-108">Select **Subscriptions** from left-pane.</span></span> <span data-ttu-id="612f4-109">استنادا إلى access ، قد تحتاج إلى تحديد نطاق تحرير فواتير **والاشتراكات** أو **اشتراكات Azure** .</span><span class="sxs-lookup"><span data-stu-id="612f4-109">Depending on the access, you may need to select a billing scope and then **Subscriptions** or **Azure subscriptions** .</span></span>
+- <span data-ttu-id="612f4-110">تحديد نقل ملكيه الفوترة للاشتراك الذي تريد نقله</span><span class="sxs-lookup"><span data-stu-id="612f4-110">Select Transfer billing ownership for the subscription you want to transfer</span></span>
+- <span data-ttu-id="612f4-111">ادخل عنوان البريد الكتروني للمستخدم الذي يكون مسؤول الفوترة الخاص بالحساب الذي سيكون مالكه الجديد للاشتراك ، ثم حدد **إرسال طلب تحويل**</span><span class="sxs-lookup"><span data-stu-id="612f4-111">Enter the email address of a user who's a billing administrator of the account that will be the new owner for the subscription and then select **send transfer request**</span></span>
+- <span data-ttu-id="612f4-112">يحصل المستخدم علي رسالة بريد الكتروني تتضمن إرشادات لمراجعه طلب النقل.</span><span class="sxs-lookup"><span data-stu-id="612f4-112">The user gets an email with instructions to review your transfer request.</span></span> <span data-ttu-id="612f4-113">للموافقة علي طلب النقل ، يقوم المستخدم بتحديد الارتباط في البريد الكتروني واتباع الإرشادات.</span><span class="sxs-lookup"><span data-stu-id="612f4-113">To approve the transfer request, the user selects the link in the email and follows the instructions.</span></span>
+
+<span data-ttu-id="612f4-114">ملاحظه: إذا قمت بنقل ملكيه الفوترة لاشتراكك إلى حساب مستخدم في مستاجر Azure AD آخر ، ستتم أزاله كافة تعيينات [التحكم بالوصول المستند إلى الدور (RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=Portal-Microsoft_Azure_Support) لأداره الموارد في الاشتراك بشكل دائم.</span><span class="sxs-lookup"><span data-stu-id="612f4-114">Note: If you transfer billing ownership of your subscription to a user's account in another Azure AD tenant, all [role-based access control (RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=Portal-Microsoft_Azure_Support) assignments to manage resources in the subscription are permanently removed.</span></span> <span data-ttu-id="612f4-115">سيتمكن المالك الجديد فقط من الوصول إلى أداره الموارد في الاشتراك.</span><span class="sxs-lookup"><span data-stu-id="612f4-115">Only the new owner will have access to manage resources in the subscription.</span></span> <span data-ttu-id="612f4-116">لمزيد من المعلومات ، راجع [نقل الاشتراك إلى مستخدم في مستاجر AZURE AD آخر](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/known-issues?WT.mc_id=Portal-Microsoft_Azure_Support).</span><span class="sxs-lookup"><span data-stu-id="612f4-116">For more information, see [Transferring subscription to a user in another Azure AD tenant](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/known-issues?WT.mc_id=Portal-Microsoft_Azure_Support).</span></span>
+
+<span data-ttu-id="612f4-117">**نقل ملكيه الاشتراك**</span><span class="sxs-lookup"><span data-stu-id="612f4-117">**Transfer Ownership of Subscription**</span></span>
+
+<span data-ttu-id="612f4-118">متطلبات الوصول المعتمدة علي الأدوار الخاصة بنقل ملكيه الاشتراك (RBAC) لأداره الموارد في الاشتراك تفقد امكانيه الوصول الخاصة بهم.</span><span class="sxs-lookup"><span data-stu-id="612f4-118">Subscription Ownership Transfer prerequisites role based access (RBAC) to manage resources in the subscription lose their access.</span></span> <span data-ttu-id="612f4-119">للحصول علي مزيد من المعلومات حول أضافه اشتراك حالي إلى المستاجر ، راجع [اقران اشتراك azure أو اضافته إلى Azure Active](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory?WT.mc_id=Portal-Microsoft_Azure_Support)directory.</span><span class="sxs-lookup"><span data-stu-id="612f4-119">For more information about adding an existing subscription to a tenant, see [Associate or add an Azure subscription to Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory?WT.mc_id=Portal-Microsoft_Azure_Support).</span></span>
+
+- <span data-ttu-id="612f4-120">لن يتم نقل تحويل الاشتراك مع مبلغ مستحق حاليا من دوره الفوترة الحالية إلى مستند الدفع الجديد في الحساب الجديد.</span><span class="sxs-lookup"><span data-stu-id="612f4-120">Subscription Transfer with an existing outstanding amount from the current billing cycle will not be transferred to the new payment instrument in the new account.</span></span> <span data-ttu-id="612f4-121">المعلومات الوحيدة المتوفرة للمستخدمين في حساب جديد هي تكلفه الشهر الماضي لاشتراكك.</span><span class="sxs-lookup"><span data-stu-id="612f4-121">The only information available to the users in new account is the last month's cost for your subscription.</span></span> <span data-ttu-id="612f4-122">لا يتم نقل الأجزاء المتبقية من محفوظات الاستخدام والفوترة مع الاشتراك.</span><span class="sxs-lookup"><span data-stu-id="612f4-122">The rest of the usage and billing history does not transfer with the subscription.</span></span>
+- <span data-ttu-id="612f4-123">نقل ملكيه الفوترة لاشتراكات اتفاقيه المؤسسة (EA) المعتمدة حاليا في مدخل اتفاقيه المؤسسة فقط</span><span class="sxs-lookup"><span data-stu-id="612f4-123">Transfer billing ownership of Enterprise Agreement (EA) subscriptions is currently supported in the Enterprise Agreement Portal only</span></span>
+- <span data-ttu-id="612f4-124">يمكنك تحويل اشتراك موجه إلى الرصيد مثل Visual Studio و بيزسبارك وشبكه شركاء Microsoft إلى مستخدم جديد لكي تتمكن من الحصول علي ترخيص شبكه شركاء Visual Studio/Microsoft لقبول طلب النقل</span><span class="sxs-lookup"><span data-stu-id="612f4-124">Transferring a credit-oriented subscription like Visual Studio, BizSpark, Microsoft Partner Network to a new user requires to have a Visual Studio/Microsoft partner network license to accept the transfer request</span></span>
+- <span data-ttu-id="612f4-125">يتم نقل كل الموارد مثل الاجهزه الظاهرية والأقراص ومواقع الويب إلى الحساب الجديد بنجاح.</span><span class="sxs-lookup"><span data-stu-id="612f4-125">All resources like Virtual Machines, disks, and websites transfer to the new account successfully.</span></span> <span data-ttu-id="612f4-126">قد تتاثر الموارد التالية في نقل اشتراكات عبر المستاجرين:</span><span class="sxs-lookup"><span data-stu-id="612f4-126">The following resources could be affected in a cross-tenant subscription transfer:</span></span>
+
+<span data-ttu-id="612f4-127">**خدمات مجالات Azure AD**</span><span class="sxs-lookup"><span data-stu-id="612f4-127">**Azure AD Domain Services**</span></span>
+
+<span data-ttu-id="612f4-128">Azure Key فاولتس</span><span class="sxs-lookup"><span data-stu-id="612f4-128">Azure Key Vaults</span></span>
+
+- <span data-ttu-id="612f4-129">قد يتاثر [المستخدمون وقواعد البيانات المرتبطة ب SQL](https://docs.microsoft.com/azure/sql-database/sql-database-aad-authentication-configure?WT.mc_id=Portal-Microsoft_Azure_Support) ، خاصه إذا كان العميل يستخدم مصادقه ذات صله بخدمه Azure Active directory</span><span class="sxs-lookup"><span data-stu-id="612f4-129">[SQL related users and databases](https://docs.microsoft.com/azure/sql-database/sql-database-aad-authentication-configure?WT.mc_id=Portal-Microsoft_Azure_Support) could be impacted, especially if the customer uses an Azure Active Directory related authentication</span></span>
+- <span data-ttu-id="612f4-130">قد تتاثر **خدمات التطبيقات** التي تم تكوينها باستخدام مصادقه Azure active directory</span><span class="sxs-lookup"><span data-stu-id="612f4-130">**App Services** configured with Azure Active Directory authentication could be impacted</span></span>
+- <span data-ttu-id="612f4-131">**فريق Visual Studio** قد تفقد حسابات الخدمات المتصلة باشتراكات Azure وصولا مؤقتا عند إلغاء اشتراك Azure المتصل</span><span class="sxs-lookup"><span data-stu-id="612f4-131">**Visual Studio Team** Services accounts connected to Azure subscriptions may temporarily lose access when the connected Azure subscription is cancelled</span></span>
+
+<span data-ttu-id="612f4-132">**المستندات المستحسنة**</span><span class="sxs-lookup"><span data-stu-id="612f4-132">**Recommended Documents**</span></span>
+
+<span data-ttu-id="612f4-133">خطوات بعد قبول ملكيه الفوترة:</span><span class="sxs-lookup"><span data-stu-id="612f4-133">Steps after accepting billing ownership:</span></span>
+
+- <span data-ttu-id="612f4-134">للاحتفاظ بملكيه الفوترة ، ولكن قم بتغيير نوع الاشتراك الخاص بك ، وأشر [إلى: تبديل اشتراكك في Azure إلى عرض آخر](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)</span><span class="sxs-lookup"><span data-stu-id="612f4-134">To retain billing ownership, but change the type of your subscription, refer: [Switch your Azure subscription to another offer](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)</span></span>
+- [<span data-ttu-id="612f4-135">نقل الرسومات في Visual Studio وشبكه شركاء Microsoft (مبن) والدفع بالاضافه إلى الشركات المطورة/التجريبية</span><span class="sxs-lookup"><span data-stu-id="612f4-135">Transferring Visual Studio, Microsoft Partner Network (MPN) and Pay as you go Dev/Test subscriptions</span></span>](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transferring-visual-studio-microsoft-partner-network-mpn-and-pay-as-you-go-devtest-subscriptions)
+- [<span data-ttu-id="612f4-136">نقل ملكيه الفوترة لاشتراكات اتفاقيه المؤسسة (EA)</span><span class="sxs-lookup"><span data-stu-id="612f4-136">Transfer billing ownership of Enterprise Agreement (EA) subscriptions</span></span>](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transfer-billing-ownership-of-enterprise-agreement-ea-subscriptions)
+- [<span data-ttu-id="612f4-137">نقل الاسئله المتداولة حول الملكية</span><span class="sxs-lookup"><span data-stu-id="612f4-137">Transfer Ownership FAQ</span></span>](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions-faq-for-senders)
+- [<span data-ttu-id="612f4-138">استكشاف مشاكل تحويل الملكية وإصلاحها</span><span class="sxs-lookup"><span data-stu-id="612f4-138">Troubleshoot Transfer ownership issues</span></span>](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#troubleshooting)
