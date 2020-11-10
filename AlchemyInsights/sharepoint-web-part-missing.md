@@ -9,20 +9,18 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
-ms.custom: 9000207
-ms.openlocfilehash: 3321f68f3a9379aec7c2d4537873b4b53295672a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.custom:
+- "9000207"
+- "1911"
+ms.openlocfilehash: 4718c052b4ec60fb4574654935801f33935ffe4b
+ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800343"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "48949804"
 ---
 # <a name="content-editor-or-script-editor-web-parts-are-missing"></a>جزء ويب الخاص بمحرر المحتوي أو محرر البرامج النصية مفقود
 
-إذا لم تكن جزء ويب الذي استخدمته لمشاهدته ، علي سبيل المثال ، **محرر المحتوي أو جزء ويب لمحرر البرامج النصية**، فمن المحتمل انك تحاول أضافه [جزء ويب كلاسيكي علي صفحه حديثه](https://support.office.com/article/classic-and-modern-web-part-experiences-3fdae6c3-8fc1-49ab-8708-8c104b882e64). من المهم ملاحظه ان الصفحات الحديثة يمكنها فقط استخدام أجزاء ويب الحديثة والصفحات الكلاسيكية يمكنها استخدام أجزاء ويب الكلاسيكية فقط. تفي العديد من أجزاء ويب الحديثة بالأغراض نفسها التي تقوم بها أجزاء ويب الكلاسيكية ، ولكنك ستشاهد اختلافات في المظهر والوظائف.
+ان جزئي ويب الذي لا يتوفر في SharePoint ل Microsoft 365 الصفحات الحديثة هو **جزء ويب الخاص بمحرر النص** **وجزء ويب** الخاص بمحرر المحتوي. ومع ذلك ، تتوفر [أجزاء ويب حديثه الميزات التي](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_outofbox) يمكن ان تفي ببعض الأغراض نفسها. أو يمكنك إنشاء [أجزاء ويب مخصصه أو ترحيل أجزاء ويب الموجودة في محرر البرامج النصية](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd#bkmk_custom) إلى SharePoint Framework.  
 
-هناك العديد من أجزاء ويب التي لا تظهر بسبب [اعداد البرنامج النصي المخصص](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)، الذي يتم تعطيله بشكل افتراضي علي المواقع الحديثة. 
-
-للحصول علي قائمه بأجزاء ويب غير المتوفرة ، الرجاء الاطلاع علي [الميزات التي تتاثر عند حظر البرنامج النصي المخصص](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script#features-affected-when-custom-script-is-blocked).
-
-للحصول علي مزيد من المعلومات حول ضمانات الأمان لبرنامج نصي مخصص ، راجع [الاعتبارات المتعلقة بالأمان للسماح بالبرنامج النصي المخصص](https://docs.microsoft.com/sharepoint/security-considerations-of-allowing-custom-script).
+لمزيد من المعلومات ، راجع [أين تتوفر أجزاء ويب الخاصة بمحرر المحتوي ومحرر البرامج النصية في SharePoint ؟](https://support.microsoft.com/office/ed6cc9ce-8b2a-480c-a655-1b9d7615cdbd)
