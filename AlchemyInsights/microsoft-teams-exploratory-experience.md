@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001513"
 - "3572"
-ms.openlocfilehash: d6d460d90253ded2d093676f351d8250861ac0b9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "7228"
+ms.openlocfilehash: 398c3b9db7c90fe016cab56ef9d13078e4011a6f
+ms.sourcegitcommit: a9415f3ae8c7ba267b5134bcbdc1e070cea41a0f
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674925"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "49019534"
 ---
 # <a name="microsoft-teams-exploratory-experience"></a>تجربه الفرق في Microsoft الاستكشافية
 
-تتيح التجربة الاستكشافية لفرق Microsoft للمستخدمين في مؤسستك الذين لديهم Azure Active directory (AAD) وغير مرخصين لفرق العمل لتجربه استكشافيه للفرق. يمكن للمسؤولين تشغيل هذه الميزة أو إيقاف تشغيلها للمستخدمين في مؤسستهم. (الإصدار التجريبي من السحابة التجاري من Microsoft السابق يسمي الآن تجربه الفرق الاستكشافية).
-
-يتوفر التجربة الاستكشافية لفرق Microsoft بدون اي تكلفه اضافيه حتى الذكري السنوية التالية لاتفاقيه المؤسسة أو التجديد في 2021 يناير. في هذا الوقت ، سيحتاج المستخدمون في ترخيص التجربة الاستكشافية ل Microsoft إلى الانتقال إلى ترخيص مدفوع يتضمن الفرق.
-
-لمزيد من المعلومات ، يرجى مراجعه [أداره ترخيص Microsoft الفرق الاستكشافي](https://docs.microsoft.com/microsoftteams/teams-exploratory/).
+- ما المقصود [بالفرق الاستكشافية](https://docs.microsoft.com/microsoftteams/teams-exploratory)؟ تسمح التجربة الاستكشافية لفرق Microsoft للمستخدمين في مؤسستك غير المرخص لهم بتجربة الفرق الخاصة بالفرق. لمزيد من المعلومات ، يرجى الاطلاع علي [ما في تجربه الفرق الاستكشافية](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience).
+- [متى ستنتهي صلاحيه الترخيص الخاص بي](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last)؟ يتوفر التجربة الاستكشافية لفرق Microsoft بدون اي تكلفه اضافيه حتى الذكري السنوية للاتفاقية التالية أو التجديد في 2021 يناير.
+- بصفتك المسؤول ، يمكنك [ترقيه المستخدمين من ترخيص الفرق الاستكشافي](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) عن طريق شراء اشتراك يتضمن فرقا ، وأزاله اشتراك الفرق الاستكشافي من المستخدم ، وتعيين الترخيص الذي تم شراؤه حديثا.
+- لمزيد من المعلومات ، راجع [أداره الترخيص الاستكشافي للفرق.](https://docs.microsoft.com/microsoftteams/teams-exploratory)
