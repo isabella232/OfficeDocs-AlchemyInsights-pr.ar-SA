@@ -2,8 +2,7 @@
 title: إلغاء اشتراك Microsoft 365
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8518f535-1bd3-4bf0-8e6e-e3468459bd5e
-ms.openlocfilehash: b663914963361d7a20f4b72b8a75bbdebe7e324c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e45350b88728ef803dba14900746c86e7403693e
+ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811813"
+ms.lasthandoff: 11/18/2020
+ms.locfileid: "49348616"
 ---
-# <a name="cancelling-your-microsoft-365-subscription"></a>هل يتم إلغاء اشتراكك في Microsoft 365 ؟
+# <a name="canceling-your-microsoft-365-subscription"></a>هل يتم إلغاء اشتراكك في Microsoft 365 ؟
 
-ناسف لرؤيتك ، ولكن اليك الخيارات التالية للغاء اشتراكك:
+عذرا لرؤيتك ، ولكن إذا أردت إلغاء اشتراكك ، فاليك الخيارات التالية:
   
-- إذا كنت عميلا تجريبيا ، فهذا يعني انه لا يمكنك إلغاء الاشتراك. تنتهي صلاحيه الاشتراكات التجريبية تلقائيا الا إذا قمت بتوفير طريقه دفع.
+- إذا كنت عميلا تجريبيا ، فلا يوجد شيء للغاء الاشتراك. تنتهي صلاحيه الاشتراكات التجريبية تلقائيا الا إذا قمت بتوفير طريقه دفع.
+- إذا كان لديك اقل من 25 ترخيصا معينا ، فيمكنك إلغاء الاشتراك عبر الإنترنت. انتقل إلى صفحه **الفوترة** \> [الخاصة بالمنتجات](https://go.microsoft.com/fwlink/p/?linkid=842054) ، وابحث عن الاشتراك الذي تريد إلغاءه. حدد **المزيد من الإجراءات** (ثلاث نقاط) ، ثم حدد **إلغاء الاشتراك**.
+- إذا كان لديك أكثر من 25 ترخيصا تم تعيينها للمستخدمين ، [فاتصل بقسم الدعم للغاء اشتراكك](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide).
 
-- إذا كان لديك اقل من 25 ترخيصا معينا ، فيمكنك إلغاء الاشتراك عبر الإنترنت. انتقل إلى **فوتره** \> **[منتجاتك](https://go.microsoft.com/fwlink/p/?linkid=842054)**. في المقطع **إعدادات & الإجراءات** ، اختر **إلغاء الاشتراك**.
+**المبلغ المسترد: سيتم إرجاع اي رصيد نسبي اليك خلال دوره الفوترة التالية.**
 
-- إذا كان لديك أكثر من 25 ترخيصا معينا ، فيمكنك اما أزاله المستخدمين حتى يكون لديك اقل من 25 ، أو استخدام الخيار "دعنا نتصل بك" للتحدث إلى أحد مهندسي الدعم.
+> [!NOTE]
+> إذا لم تتمكن من رؤية الخيار للغاء الأمر ، فحدد الاشتراك لعرض صفحه التفاصيل. في المقطع **إعدادات الاشتراك والدفع** ، حدد **إلغاء الاشتراك**.
 
 لمعرفه المزيد ، راجع [إلغاء الاشتراك](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
