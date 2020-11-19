@@ -14,18 +14,19 @@ ms.custom:
 - "1860"
 - "9000260"
 ms.assetid: ''
-ms.openlocfilehash: 2e711679e7db7293d9e7e6f68d0662f03047c23d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 05016213a1387c5290cb5899359f1f10b5a413c0
+ms.sourcegitcommit: 4e0ae808ee2a586339b396320e3edb8ba066a91a
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799191"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "49353493"
 ---
 # <a name="recall-or-replace-an-email-message-in-microsoft-365"></a>استدعاء رسالة بريد الكتروني أو استبدالها في Microsoft 365
 
-- يمكنك **فقط استدعاء الرسائل التي يتم إرسالها إلى الأشخاص في مؤسستك**. إذا تم إرسال الرسالة إلى عنوان Gmail ، علي سبيل المثال ، لا يمكنك استدعاؤها.
-- يمكنك **فقط استدعاء الرسائل المرسلة من Outlook 2016 للكمبيوتر الشخصي**. إذا أرسل أحد المستخدمين رسالة باستخدام Outlook for Mac أو Outlook علي الويب ، فلا يمكنك استدعاؤه.
-- إذا كنت مسؤولا ، فيمكنك **استدعاء الرسائل بالنيابة عن المستخدمين باستخدام PowerShell**. لا يمكنك استدعاء الرسائل من مركز الاداره. قم بالتمرير لأسفل وصولا إلى "البحث عن رسائل البريد الكتروني وحذفها في مؤسستك" للحصول علي مزيد من المعلومات.
+- يمكنك **فقط استدعاء الرسائل التي يتم إرسالها إلى الأشخاص في مؤسستك**. علي سبيل المثال ، إذا تم إرسال الرسالة إلى عنوان Gmail ، فلا يمكنك استدعاؤها.
+- يمكنك **فقط استدعاء الرسائل المرسلة من Outlook للكمبيوتر الشخصي**. إذا أرسل أحد المستخدمين رسالة باستخدام Outlook for Mac أو Outlook علي الويب ، فلا يمكنك استدعاؤه.
+- بصفتك مسؤول مستاجر ، يمكنك **استدعاء الرسائل بالنيابة عن المستخدمين باستخدام PowerShell** (لمزيد من المعلومات ، راجع: [البحث عن رسائل البريد الكتروني وحذفها](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization)).
+- لا يمكنك استدعاء الرسائل من مركز الاداره. قم بالتمرير لأسفل وصولا إلى "البحث عن رسائل البريد الكتروني وحذفها في مؤسستك" للحصول علي مزيد من المعلومات.
 
 **استدعاء رسالة بريد الكتروني تم إرسالها أو استبدالها**
 
@@ -38,9 +39,9 @@ ms.locfileid: "47799191"
 
 لمزيد من المعلومات ، بما في ذلك كيفيه التحقق من الاستدعاء ، راجع [استدعاء رسالة بريد الكتروني التي أرسلتها أو استبدالها](https://support.office.com/article/35027f88-d655-4554-b4f8-6c0729a723a0).
 
-***البحث عن رسائل البريد الكتروني وحذفها في مؤسستك*** للبحث عن رسائل البريد الكتروني وحذفها في مؤسستك ، من الأسهل إذا كنت مسؤولا عاما. إذا لم تكن مسؤولا عاما ، فيجب أضافه حسابك إلى مجموعه ادوار أداره eDiscovery ، أو إلى دور أداره البحث في التوافق. لحذف الرسائل ، ستحتاج إلى الانضمام إلى مجموعه ادوار أداره المؤسسة أو البحث وأزاله دور الاداره. يتم تعيين الأذونات لهذه الأدوار في [مركز توافق & الأمان](https://protection.office.com/).
+**_للبحث عن رسائل البريد الكتروني وحذفها في مؤسستك_**، من الأسهل إذا كنت مسؤولا عاما. إذا لم تكن مسؤولا عاما ، فيجب أضافه حسابك إلى مجموعه ادوار أداره eDiscovery ، أو إلى دور أداره البحث في التوافق. لحذف الرسائل ، ستحتاج إلى الانضمام إلى مجموعه ادوار أداره المؤسسة أو البحث وأزاله دور الاداره. يتم تعيين الأذونات لهذه الأدوار في [مركز توافق & الأمان](https://protection.office.com/).
 
 1. [إنشاء بحث محتوي](https://docs.microsoft.com/microsoft-365/compliance/content-search) للعثور علي الرسالة التي تريد حذفها.
-2. [الاتصال بمركز توافق & الأمان PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell?view=exchange-ps). 
+2. [الاتصال بمركز توافق & الأمان PowerShell](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/connect-to-scc-powershell).
 
-إذا كنت تستخدم MFA ، فراجع [الاتصال بمركز توافق ال& الأمان ل Microsoft 365 باستخدام مصادقه متعددة العوامل](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell?view=exchange-ps). 
+إذا كنت تستخدم MFA (المصادقة متعددة العوامل) ، فراجع [الاتصال بمركز توافق Microsoft 365 & الأمان ل PowerShell باستخدام مصادقه متعددة العوامل](https://docs.microsoft.com/powershell/exchange/office-365-scc/connect-to-scc-powershell/mfa-connect-to-scc-powershell).
