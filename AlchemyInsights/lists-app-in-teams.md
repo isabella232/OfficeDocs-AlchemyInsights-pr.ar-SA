@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002964"
 - "6213"
-ms.openlocfilehash: a268745601da13f0fe09d7ca9260056d29b821bd
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 4022aff4bdedb9c3589e2546f75b00d9ea275293
+ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48947399"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "49477430"
 ---
 # <a name="lists-app-in-teams"></a>سرد التطبيق في الفرق
 
@@ -27,10 +27,6 @@ ms.locfileid: "48947399"
 القوائم مثبته مسبقا لكل مستخدمي الفرق وتتوفر مباشره في معرض علامات التبويب لكل فريق وكل قناه.
 
 يمكن لمسؤولي الفرق التحكم في توفر التطبيق باستخدام نهج أذونات فرق Microsoft. لمزيد من المعلومات ، راجع [أداره نهج أذونات التطبيق في فرق Microsoft](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies).
-
-**التوقيت:** مبكرا وإكماله بواسطة منتصف الشهر أكتوبر 2020  
-
-**السحب:** مستوي المؤسسة  
 
 **نوع عنصر التحكم:**  التحكم في مسؤول الفرق  
 
