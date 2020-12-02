@@ -12,18 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003120"
 - "5898"
-ms.openlocfilehash: 5f5920c31de3da1b9fe50f4d8ad6de1794b603f3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8e76bf8f318e4fd438da182f93703a547531aa01
+ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47733278"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "49529005"
 ---
 # <a name="contact-the-sales-team"></a>الاتصال بفريق المبيعات
 
-باستخدام موصلات Microsoft Graph ، يمكن لمؤسسك فهرسه بيانات الجهات الخارجية لتظهر في نتائج البحث في Microsoft.
+هناك عدد من الطرق للاتصال بفريق مبيعات Microsoft 365.
 
-- [الموصلات بواسطة Microsoft](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft)
-- [الموصلات حسب شركاءنا](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners)
-
-للحصول علي مزيد من المعلومات ، راجع [نظره عامه حول موصلات Microsoft Graph](https://docs.microsoft.com/microsoftsearch/connectors-overview).
+- استخدم نموذج  [الاتصال بنا](https://go.microsoft.com/fwlink/p/?LinkId=518644&clcid=0x0409)  لكي يتمكن خبير مبيعات Microsoft 365 من الاتصال بك.
+- للاتصال بخبير الترخيص المجمع لاتفاقيه المؤسسة ، أبدا باستخدام مدخل  [مركز خدمات الترخيص المجمع](https://go.microsoft.com/fwlink/p/?LinkId=329762) .
