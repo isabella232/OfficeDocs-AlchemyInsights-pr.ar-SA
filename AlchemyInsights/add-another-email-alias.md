@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 91b2e06b-0a5c-4f89-acfd-ef301e7df82d
-ms.openlocfilehash: 513a647a3247cb10b134ba770b2cf245bd883be8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 303b77e9464b5974d737d3549df4366ed0747ad3
+ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688465"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49571652"
 ---
 # <a name="create-or-add-an-email-alias-for-a-user"></a>إنشاء اسم بريد الكتروني مستعار لمستخدم أو اضافته
 
 هل تحتاج إلى إنشاء اسم مستعار لبريد الكتروني لمستخدم ، أو أضافه عنوان بريد الكتروني إضافي ؟ ما عليك سوي اتباع هذه الخطوات!
   
-1. في مركز أداره Microsoft 365 ، انتقل إلى صفحه [المستخدمون](https://go.microsoft.com/fwlink/p/?linkid=834822) ، **أو اختر المستخدمون** \> **النشطون**.
+1. في مركز أداره Microsoft 365 ، انتقل إلى صفحه [المستخدمون](https://go.microsoft.com/fwlink/p/?linkid=834822) ، **أو اختر المستخدمون**  >  **النشطون**.
     
 2. في صفحه **المستخدمون النشطون** ، حدد اسم الشخص الذي تريد تحريره. 
     
