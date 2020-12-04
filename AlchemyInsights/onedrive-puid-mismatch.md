@@ -13,21 +13,19 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: 96023978dbbeeb162504d2b205a61f6980734d14
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a0dd9d7fafaff0e9a2cc897009aad63d69cfab38
+ms.sourcegitcommit: 8577192bfc5ddc6fe64aabd8beb8a8dcd387c5ae
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47754326"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "49569154"
 ---
 # <a name="onedrive-puid-mismatch"></a>OneDrive بويد غير متطابق
-يبدو انك تواجه مشكله [عدم تطابق بويد](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) في OneDrive for business. الرجاء اتباع الخطوات الواردة أدناه لمساعدتك في أقرب وقت ممكن:
 
-1. انقر فوق **الاتصال بقسم الدعم**، ثم فوق **طلب خدمه جديد**.
-2. اترك العنوان والوصف كما هو غير **مطابق بويد علي موقع OneDrive**.
+يبدو انك تواجه مشكله [عدم تطابق المعرف](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business#when-accessing-a-onedrive-site) في OneDrive for business. الرجاء اتباع الخطوات الواردة أدناه لمساعدتك في أقرب وقت ممكن:
+
+1. انقر فوق  **الاتصال بقسم الدعم**، ثم فوق  **طلب خدمه جديد**.
+2. اترك العنوان والوصف كما هو  **معرف المستخدم لموقع OneDrive**.
 3. بمجرد ان يتم إرسال البطاقة ، يرجى تحديثها بالمعلومات التالية:
     - عنوان URL لموقع OneDrive المتاثر.
     - الاسم الأساسي للمستخدم (UPN) للمستخدم المتاثر.
-
-
-
