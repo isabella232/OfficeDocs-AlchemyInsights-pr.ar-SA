@@ -1,5 +1,5 @@
 ---
-title: مستخدم جديد في Microsoft Teams
+title: اعداد فرق Microsoft
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,17 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 65c6744b152e73310fb094bb2612dff77da82223
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b5e24c4d4cd074fcfba99147ee97254235c0a5bd
+ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750402"
+ms.lasthandoff: 12/04/2020
+ms.locfileid: "49576208"
 ---
-# <a name="new-to-microsoft-teams"></a>مستخدم جديد في Microsoft Teams
+# <a name="set-up-microsoft-teams"></a>اعداد فرق Microsoft
 
-اطلع على [بدء استخدام Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start). تأكد من الاطلاع على المجموعات ومقاطع الفيديو الخاصة بتدريب مسؤول تكنولوجيا المعلومات لـ Microsoft Teams وكذلك للحصول على المزيد من المعلومات.
+يوفر  [دليل اعداد الفرق من Microsoft](https://aka.ms/teamsguidance)  لمؤسسك الإرشادات لاعداد مساحات عمل الفريق التي تستضيف المحادثات الفورية عبر المراسلة والمكالمات واجتماعات الصوت أو الفيديو لكل من الفريق والاتصالات الخاصة. ستتلقى إرشادات لتحديد متطلبات الشبكة الخاصة بمؤسسك باستخدام أداه مخطط الشبكة ومرشد الفرق داخل مركز أداره الفرق. بمجرد اكتمال عمليه النشر ، يتضمن الدليل الموارد المفيدة لبدء استخدام الفرق.
 
-إذا كنت بحاجة إلى مساعدة في نشر Teams لدعم العاملين عن بٌعد (WFH) بسبب COVID-19، فالرجاء مراجعة [دعم العاملين عن بُعد باستخدام Microsoft Teams](https://docs.microsoft.com/microsoftteams/support-remote-work-with-teams). بالإضافة إلى ذلك، قد تكون مؤهلاً لمساعدتك على النشر من برنامج Microsoft 365 FastTrack، الرجاء زيارة [مركز FastTrack](https://www.microsoft.com/fasttrack) لإرسال طلب.
-
-**هام**: بسبب الزيادة الحالية في استخدام Teams، قد يستغرق تعيين ترخيص Teams إلى مستخدم حوالي 24 ساعة قبل أن يتم إعداده بشكل كامل. إلا أن يتم ذلك، لن تتمكن من تعيين نُهج Teams إليه وقد لا يتوفر له إمكانية الوصول إلى ميزات مثل إجراء مكالمات أو عقد مؤتمرات صوتية.
+للحصول علي معلومات اضافيه ، يرجى مراجعه [بدء استخدام فرق Microsoft](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).
