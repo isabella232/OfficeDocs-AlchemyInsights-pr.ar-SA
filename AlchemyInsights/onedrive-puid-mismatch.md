@@ -13,12 +13,12 @@ ms.assetid: ''
 ms.custom:
 - "9000700"
 - "2600"
-ms.openlocfilehash: cba8f0c4a75b383ddf53a2c033a5cb4e1d1fde84
-ms.sourcegitcommit: aa38be400401940110e43436e390477c290bdfda
+ms.openlocfilehash: 749ea49c31f9387c161e7b9f3d94c0d8d773c571
+ms.sourcegitcommit: 404d19201ab196d36e0d19f80894ac9931a7b740
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49605696"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "49653247"
 ---
 # <a name="onedrive-puid-mismatch"></a>OneDrive بويد غير متطابق
 
@@ -26,6 +26,6 @@ ms.locfileid: "49605696"
 
 1. انقر فوق  **الاتصال بقسم الدعم**، ثم فوق  **طلب خدمه جديد**.
 2. اترك العنوان والوصف كما هو  **معرف المستخدم لموقع OneDrive**.
-3. بمجرد ان يتم إرسال البطاقة ، يرجى تحديثها بالمعلومات التالية:
+3. بمجرد ان يتم إرسال البطاقة ، قم بتحديثها بالمعلومات التالية:
     - عنوان URL لموقع OneDrive المتاثر.
     - الاسم الأساسي للمستخدم (UPN) للمستخدم المتاثر.
