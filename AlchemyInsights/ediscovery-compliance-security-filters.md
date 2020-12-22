@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7463"
-ms.openlocfilehash: db025cd1278471a3c54d55409d9a9418095778a7
-ms.sourcegitcommit: 9c64886a9e1a9b0ff356b28a5c1482ecc148d7ef
+ms.openlocfilehash: 8786f11f170edb151879235e19caa38b50f3f06e
+ms.sourcegitcommit: 3d662e1a1440ba74b5347896347d03bb8c8f3af5
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49676943"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "49727210"
 ---
 # <a name="no-results-returned-during-content-searchexport"></a>لم يتم إرجاع اي نتائج اثناء البحث في المحتوي/التصدير
 
@@ -26,7 +26,7 @@ ms.locfileid: "49676943"
 - لا ترجع ميزه البحث في المحتوي/التصدير اي بيانات أو بيانات غير متوقعه
 - فشل البحث عن eDiscovery أو تصديره
 
-قد يعود سبب ذلك إلى عوامل تصفيه أمان توافق معينه تم اعدادها بواسطة مسؤول معين ولم يتم الإبلاغ عن كل المسؤولين.
+قد يرجع ذلك إلى عوامل تصفيه أمان توافق معينه تم اعدادها بواسطة مسؤول معين ولم يتم الإبلاغ عن كل المسؤولين.
 
 لحل هذه المشكلة ، تحقق مما إذا كانت هناك اي عوامل تصفيه أمان للتوافق قد تؤدي إلى حدوث هذه المشاكل:
 
