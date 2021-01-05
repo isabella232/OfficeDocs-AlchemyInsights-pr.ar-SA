@@ -1,5 +1,5 @@
 ---
-title: كيفيه أضافه المسؤولين وأدارهم-FL/كل
+title: كيفيه أضافه المسؤولين وأدارههم
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7424"
-ms.openlocfilehash: f5791cb12e565cb04f7ac6bc9bb401fcca3e4e9e
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: 25fc25392778ae71ec0553e8d8718ec487738acb
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49691927"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755426"
 ---
-# <a name="how-to-add-and-manage-admins---mca-flcl"></a>كيفيه أضافه المسؤولين وأدارهم-FL/كل
+# <a name="how-to-add-and-manage-admins"></a>كيفيه أضافه المسؤولين وأدارههم
+
+بالاستناد إلى وصف المشكلة ، لقد عثرنا علي حل لك. يستطيع معظم العملاء حل مشكلتهم بنفسهم بعد متابعه الوثائق الخاصة بنا.
 
 لأداره حساب الفوترة لاتفاقيه عملاء Microsoft (MCA) ، يمكنك استخدام ادوار مختلفه باستخدام مستوي الوصول المطلوب. هذه الأدوار بالاضافه إلى ادوار خدمه Azure المضمنة التي تساعدك علي التحكم بالموارد.
 

@@ -1,5 +1,5 @@
 ---
-title: باينوو/سداد دفعات مباشره-EA القديمة
+title: بينو/سداد دفعات علي الفور
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004164"
 - "7329"
-ms.openlocfilehash: 90d9341333d586d62a3932d4b8e6c7eaf277386b
-ms.sourcegitcommit: ae05e598333c08c0a73de254d3d97207c0b382e6
+ms.openlocfilehash: 3ffe4676325e2c86642cb06aaee59725759b7ed9
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49691943"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755678"
 ---
-# <a name="paynowmake-payment-immediately---legacy-ea"></a>بينو/سداد دفعات مباشره-EA القديمة
+# <a name="paynowmake-payment-immediately"></a>باينوو/سداد دفعات علي الفور
+
+بالاستناد إلى وصف المشكلة ، لقد عثرنا علي حل لك. يستطيع معظم العملاء حل مشكلتهم بنفسهم بعد متابعه الوثائق الخاصة بنا.
 
 بالنسبة إلى اشتراك اتفاقيه enterprise من Azure ، لا يتم دعم طريقه الاضافه/التحديث/تغيير الدفع. إذا أردت تغيير العنوان في فاتورة موجودة ، يرجى الاتصال بممثل Microsoft.
 

@@ -1,5 +1,5 @@
 ---
-title: التبديل إلى دفع الفاتورة (التحقق من الصحة/التحويل السلكي)-الكل الحديثة
+title: التبديل إلى الدفع بواسطة الفاتورة (نقل الشيك/الأسلاك)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7344"
-ms.openlocfilehash: 2d6dc0edc716c45b2719865e4bdc0527d339fa5f
-ms.sourcegitcommit: 3599c82d3274c48b039831aeafefc16b9df7565c
+ms.openlocfilehash: de0f727c8c2cdfa830fd9cd600f59a10c33663fd
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "49706515"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755438"
 ---
-# <a name="switch-to-invoice-pay-checkwire-transfer---modern-cl"></a>التبديل إلى دفع الفاتورة (التحقق من الصحة/التحويل السلكي)-الكل الحديثة
+# <a name="switch-to-pay-by-invoice-checkwire-transfer"></a>التبديل إلى الدفع بواسطة الفاتورة (نقل الشيك/الأسلاك)
+
+بالاستناد إلى وصف المشكلة ، لقد عثرنا علي حل لك. يستطيع معظم العملاء حل مشكلتهم بنفسهم بعد متابعه الوثائق الخاصة بنا.
 
 إذا قمت بالتبديل إلى الدفع بواسطة الفاتورة ، فهذا يعني انك ستدفع الفاتورة خلال 30 يوما من تاريخ الفاتورة. لتصبح مؤهلا لسداد اشتراك Azure الخاص بك حسب الفاتورة ، أرسل طلبا إلى دعم Azure. بمجرد الموافقة علي طلبك ، يمكنك تبديل اشتراك إلى دفع فاتورة في مدخل Azure.
 

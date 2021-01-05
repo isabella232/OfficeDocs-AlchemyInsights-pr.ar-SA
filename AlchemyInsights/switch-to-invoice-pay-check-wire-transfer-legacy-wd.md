@@ -1,5 +1,5 @@
 ---
-title: التبديل إلى دفع الفاتورة (تحويل الشيكات/الأسلاك)-الود القديمة
+title: التبديل إلى الدفع بواسطة الفاتورة (نقل الشيكات/الأسلاك)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004168"
 - "7343"
-ms.openlocfilehash: 1be90771f994e832960383b1cb5e0bee8f5b08f8
-ms.sourcegitcommit: b561c339926fad609950ac92744c3cd91e0a68fa
+ms.openlocfilehash: c4c78d634cdef711423f573439c5091befedef34
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/21/2020
-ms.locfileid: "49726079"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755390"
 ---
-# <a name="switch-to-invoice-pay-chequewire-transfer---legacy-wd"></a>التبديل إلى دفع الفاتورة (تحويل الشيكات/الأسلاك)-الود القديمة
+# <a name="switch-to-pay-by-invoice-chequewire-transfer"></a>التبديل إلى الدفع بواسطة الفاتورة (نقل الشيكات/الأسلاك)
+
+بالاستناد إلى وصف المشكلة ، لقد عثرنا علي حل لك. يستطيع معظم العملاء حل مشكلتهم بنفسهم بعد متابعه الوثائق الخاصة بنا.
 
 إذا قمت بالتبديل إلى الدفع بواسطة الفاتورة ، فهذا يعني انك ستدفع الفاتورة خلال 30 يوما من تاريخ الفاتورة. لتصبح مؤهلا لسداد اشتراك Azure الخاص بك حسب الفاتورة ، أرسل طلبا إلى دعم Azure. بمجرد الموافقة علي طلبك ، يمكنك تبديل اشتراك إلى دفع فاتورة في [مدخل Azure](https://portal.azure.com/).
 

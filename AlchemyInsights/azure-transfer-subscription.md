@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6849"
-ms.openlocfilehash: 454ce626862bb4a2361abccd92ad0099b534388c
-ms.sourcegitcommit: 059ad2936788266ea9714ec8c66d407d7261aeb6
+ms.openlocfilehash: 74b7cc879973790b7532106c80b718856682a334
+ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/29/2020
-ms.locfileid: "49736865"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "49755534"
 ---
 # <a name="transfer-azure-billing-ownership"></a>نقل ملكية فوترة Azure
 
 سجّل الدخول إلى [بوابة Azure](https://portal.azure.com/) كمسؤول عن حساب الفوترة الذي يحتوي على الاشتراك الذي تريد نقله. إذا لم تكن متأكدًا مما إذا كنت مسؤولاً، أو إذا كنت بحاجة إلى تحديد من هو المسؤول، فراجع [تحديد مسؤول فوترة الحساب](https://docs.microsoft.com/azure/cost-management-billing/understand/subscription-transfer#whoisaa).
 
-1. ابحث عن _إدارة التكلفة + الفواتير_.
+1. ابحث عن _إدارة التكلفة والفوترة_.
 1. حدد **الاشتراكات** من الجزء الأيمن. بناءً على الوصول، قد تحتاج إلى تحديد نطاق فوترة ثم **الاشتراكات** أو **اشتراكات Azure**.
 1. حدد **نقل ملكية الفواتير** للاشتراك الذي تريد نقله.
 1. أدخل عنوان البريد الإلكتروني للمستخدم الذي يلعب دور مسؤول الفوترة للحساب الذي سيكون المالك الجديد للاشتراك، ثم حدد **إرسال طلب النقل**.
