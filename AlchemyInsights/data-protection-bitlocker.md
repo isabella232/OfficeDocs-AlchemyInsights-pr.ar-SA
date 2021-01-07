@@ -12,19 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1802"
 - "9000220"
-ms.openlocfilehash: 0b305931a7279d8f1085c411cc9b47c991e1ee44
-ms.sourcegitcommit: 9c4b4853ff53f21c0177d48821846070bb00637c
+ms.openlocfilehash: 482c08b31e4d97ca5cc9ec6e35e309cb7536036d
+ms.sourcegitcommit: 58ac31a58c956a4d74f66bd4151a2311dc361b78
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "49768804"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "49778180"
 ---
 # <a name="enabling-bitlocker-encryption-with-intune"></a>تمكين تشفير Bitlocker باستخدام Intune
 
- يمكن استخدام نهج حماية نقطه نهاية Intune لتكوين إعدادات تشفير Bitlocker لأجهزه Windows. لمزيد من المعلومات ، راجع [إعدادات Windows 10 (والإصدارات الأحدث) لحماية الاجهزه باستخدام Intune](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption).
- 
+يمكن استخدام نهج حماية نقطه نهاية Intune لتكوين إعدادات تشفير Bitlocker لأجهزه Windows. لمزيد من المعلومات ، راجع [إعدادات Windows 10 (والإصدارات الأحدث) لحماية الاجهزه باستخدام Intune](https://docs.microsoft.com/intune/endpoint-protection-windows-10#windows-encryption).
+
+بالاضافه إلى نهج حماية نقطه النهاية ، يوجد أيضا تقرير تشفير يوفر طريقه عرض أكثر تفصيلا لحاله التشفير للاجهزه. يمكن الوصول إلى هذا التقرير من مدخل ميم ضمن **ال> أجهزه التي تعرض جهاز العرض**، ثم ضمن **التكوين** تحديد [تقرير التشفير](https://endpoint.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/DevicesMonitorMenu/encryptionReport).
+
+إذا اكتشفت انه سيفشل تمكين Bitlocker بالشكل المتوقع أو إذا كان ملف التعريف الذي يتم استخدامه لتمكين Bitlocker في حاله خطا ، فالرجاء مراجعه تقرير التشفير للحصول علي فهم أفضل لسبب حدوث السلوك.
+
+للبحث عن تفاصيل حول كيفيه تفسير التقرير بما في ذلك قيم حاله التشفير المختلفة ، راجع [تشفير جهاز المراقبة باستخدام Intune](https://docs.microsoft.com/mem/intune/protect/encryption-monitor).
+
 يجب ان تكون علي علم بان العديد من الاجهزه الجديدة التي تقوم بتشغيل Windows 10 تدعم تشفير Bitlocker التلقائي ، الذي يتم تشغيله بدون تطبيق نهج MDM. قد يؤثر هذا علي تطبيق النهج في حال تم تكوين الإعدادات غير الافتراضية. راجع الاسئله المتداولة التالية لمزيد من التفاصيل.
- 
+
 للحصول علي معلومات حول استكشاف أخطاء bitlocker وإصلاحها ، راجع [استكشاف أخطاء نهج bitlocker وإصلاحها في Microsoft Intune](https://docs.microsoft.com/intune/protect/troubleshoot-bitlocker-policies).
  
  
