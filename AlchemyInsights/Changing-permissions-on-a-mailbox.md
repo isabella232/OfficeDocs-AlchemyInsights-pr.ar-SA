@@ -1,5 +1,5 @@
 ---
-title: تغيير الأذونات على علبة بريد
+title: تغيير الأذونات علي علبه بريد
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "642"
 - "3500009"
-ms.openlocfilehash: 1e0dbe74a3b8dd25005f1eb82870efe9c4f7ccfc
-ms.sourcegitcommit: bc7d6f4f3c9f7060d073f5130e1ec856e248d020
+ms.openlocfilehash: bdcb04923b2ece136208e38b69ed7486ffcf7fb6
+ms.sourcegitcommit: 3f0abd54b4bd161bde22b9a7f86924a9dbb59684
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/02/2020
-ms.locfileid: "44502558"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "49880153"
 ---
-# <a name="changing-permissions-on-a-mailbox"></a>تغيير الأذونات على علبة بريد
+# <a name="changing-permissions-on-a-mailbox"></a>تغيير الأذونات علي علبه بريد
 
-إذا كان المستخدمون بحاجة إلى الوصول إلى علب البريد غير الخاصة بهم، يجب منحهم أذونات للعمل مع صناديق البريد هذه. تعتمد كيفية تعيين هذه الأذونات على نوع علبة البريد. إذا كان المستخدمون بحاجة إلى الوصول إلى:
+إذا كان المستخدمون بحاجه إلى الوصول إلى علب البريد غير الخاصة بهم ، فيجب منحهم أذونات للعمل باستخدام علب البريد هذه. تعتمد كيفيه تعيين تلك الأذونات علي نوع علبه البريد. إذا كان المستخدمون بحاجه إلى الوصول إلى:
   
-- علب بريد المستخدم الآخر - يرجى الاطلاع [على منح أذونات علبة البريد لمستخدم آخر](https://docs.microsoft.com/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user).
+- علب بريد المستخدمين الآخرين-يرجى الاطلاع [علي إعطاء أذونات علبه البريد لمستخدم آخر](https://docs.microsoft.com/microsoft-365/admin/add-users/give-mailbox-permissions-to-another-user).
     
-- علبة بريد مشتركة - يرجى الاطلاع [على إضافة أعضاء أو إزالتهم من صندوق بريد مشترك](https://support.office.com/article/add-or-remove-members-from-a-shared-mailbox-a1cd0ae0-216c-4dc1-8171-bfacfbd4c1a7).
+- علبه بريد مشتركه-يرجى مراجعه [تكوين إعدادات علبه البريد المشتركة](https://docs.microsoft.com/microsoft-365/admin/email/configure-a-shared-mailbox#add-or-remove-members).
     
-إذا لم تعمل الأذونات بشكل صحيح بعد القيام بالخطوات المذكورة أعلاه، فانتقل إلى مركز إدارة Exchange وحاول تعيين الأذونات من هناك (راجع [إدارة الأذونات للمستلمين](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
+إذا لم تعمل الأذونات بشكل صحيح بعد تنفيذ الخطوات المذكورة أعلاه ، فانتقل إلى مركز أداره Exchange وحاول تعيين الأذونات من هناك (راجع [أداره الأذونات للمستلمين](https://technet.microsoft.com/library/jj919240%28v=exchg.150%29.aspx)).
   
