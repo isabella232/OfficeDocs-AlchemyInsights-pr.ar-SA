@@ -1,0 +1,31 @@
+---
+title: استكشاف مشاكل المستخدم الضيف وإصلاحها
+ms.author: v-aiyengar
+author: AshaIyengar21
+manager: dansimp
+ms.date: 01/18/2021
+ms.audience: Admin
+ms.topic: article
+ms.service: o365-administration
+ROBOTS: NOINDEX, NOFOLLOW
+localization_priority: Normal
+ms.collection: Adm_O365
+ms.custom:
+- "9004358"
+- "7822"
+ms.openlocfilehash: 0f2a10b918fee067b167ab58ac2544a89e0c8ea1
+ms.sourcegitcommit: 7b213fd5e8a3fdb5c602673dc194d576d372ac96
+ms.translationtype: MT
+ms.contentlocale: ar-SA
+ms.lasthandoff: 01/18/2021
+ms.locfileid: "49900754"
+---
+# <a name="troubleshoot-guest-user-issues"></a><span data-ttu-id="01b76-102">استكشاف مشاكل المستخدم الضيف وإصلاحها</span><span class="sxs-lookup"><span data-stu-id="01b76-102">Troubleshoot guest user issues</span></span>
+
+1. <span data-ttu-id="01b76-103">للحصول علي إرشادات حول أداره وصول الضيوف إلى التطبيقات ، راجع [أداره الوصول إلى الضيوف باستخدام مراجعات AZURE AD access](https://docs.microsoft.com/azure/active-directory/governance/manage-guest-access-with-access-reviews).</span><span class="sxs-lookup"><span data-stu-id="01b76-103">For guidance on managing guest access to applications, see [Manage guest access with Azure AD access reviews](https://docs.microsoft.com/azure/active-directory/governance/manage-guest-access-with-access-reviews).</span></span>
+1. <span data-ttu-id="01b76-104">[أضافه مستخدمين ضيوف إلى الدليل في مدخل azure](https://docs.microsoft.com/azure/active-directory/external-identities/b2b-quickstart-add-guest-users-portal): في هذا التشغيل ، ستقوم باضافه مستخدم ضيف جديد إلى دليلك في azure AD عبر مدخل azure ، وإرسال دعوه ، ويمكنك رؤية المظهر الذي ستبدو عليه عمليه استرداد الدعوة الخاصة بالمستخدم الضيف.</span><span class="sxs-lookup"><span data-stu-id="01b76-104">[Add guest users to your directory in the Azure portal](https://docs.microsoft.com/azure/active-directory/external-identities/b2b-quickstart-add-guest-users-portal): In this quickstart, you'll add a new guest user to your Azure AD directory via the Azure portal, send an invitation, and see what the guest user's invitation redemption process looks like.</span></span>
+1. <span data-ttu-id="01b76-105">[أضافه مستخدم ضيف باستخدام PowerShell](https://docs.microsoft.com/azure/active-directory/external-identities/b2b-quickstart-invite-powershell): في هذا التشغيل ، ستستخدم الأمر New-AzureADMSInvitation لأضافه مستخدم ضيف واحد إلى مستاجر Azure.</span><span class="sxs-lookup"><span data-stu-id="01b76-105">[Add a guest user with PowerShell](https://docs.microsoft.com/azure/active-directory/external-identities/b2b-quickstart-invite-powershell): In this quickstart, you’ll use the New-AzureADMSInvitation command to add one guest user to your Azure tenant.</span></span>
+1. <span data-ttu-id="01b76-106">لمعرفه كيفيه تعيين المستخدمين والمجموعات إلى تطبيقات المؤسسة في Azure Active Directory (Azure AD) ، من داخل مدخل Azure أو باستخدام PowerShell ، راجع [أداره تعيين المستخدم لتطبيق في Azure Active](https://docs.microsoft.com/azure/active-directory/manage-apps/assign-user-or-group-access-portal)directory.</span><span class="sxs-lookup"><span data-stu-id="01b76-106">To learn how to assign users, and groups, to enterprise applications in Azure Active Directory (Azure AD), either from within the Azure portal or by using PowerShell, see [Manage user assignment for an app in Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/assign-user-or-group-access-portal).</span></span> 
+1. <span data-ttu-id="01b76-107">تعمل التعاون في azure Active Directory (Azure AD) مع معظم التطبيقات التي تتكامل مع Azure AD.</span><span class="sxs-lookup"><span data-stu-id="01b76-107">Azure Active Directory (Azure AD) B2B collaboration works with most apps that integrate with Azure AD.</span></span> <span data-ttu-id="01b76-108">في هذه [المقالة](https://docs.microsoft.com/azure/active-directory/external-identities/configure-saas-apps)، سنقوم بالإرشادات المتعلقة بتكوين بعض تطبيقات ميناء الشائعة لاستخدامها مع AZURE AD B2B.</span><span class="sxs-lookup"><span data-stu-id="01b76-108">In this [article](https://docs.microsoft.com/azure/active-directory/external-identities/configure-saas-apps), we walk through instructions for configuring some popular SaaS apps for use with Azure AD B2B.</span></span>
+1. <span data-ttu-id="01b76-109">بصفتك مؤسسه تستخدم إمكانيات التعاون الخاصة ب Azure Active directory (Azure AD) لدعوه المستخدمين الضيوف من مؤسسات الشركاء إلى Azure AD ، يمكنك الآن توفير امكانيه الوصول لمستخدمي B2B هذه إلى التطبيقات المحلية.</span><span class="sxs-lookup"><span data-stu-id="01b76-109">As an organization that uses Azure Active Directory (Azure AD) B2B collaboration capabilities to invite guest users from partner organizations to your Azure AD, you can now provide these B2B users access to on-premises apps.</span></span> <span data-ttu-id="01b76-110">بإمكان هذه التطبيقات المحلية استخدام المصادقة المستندة إلى SAML أو مصادقه Windows المتكاملة (أيوا) مع تفويض Kerberos المقيد (ككد).</span><span class="sxs-lookup"><span data-stu-id="01b76-110">These on-premises apps can use SAML-based authentication or Integrated Windows Authentication (IWA) with Kerberos constrained delegation (KCD).</span></span> <span data-ttu-id="01b76-111">للحصول علي مزيد من المعلومات ، راجع [منح المستخدمين في AZURE AD حق الوصول إلى التطبيقات المحلية](https://docs.microsoft.com/azure/active-directory/external-identities/hybrid-cloud-to-on-premises).</span><span class="sxs-lookup"><span data-stu-id="01b76-111">For more information, see [Grant B2B users in Azure AD access to your on-premises applications](https://docs.microsoft.com/azure/active-directory/external-identities/hybrid-cloud-to-on-premises).</span></span>
+1. <span data-ttu-id="01b76-112">تعرف علي كيفيه [منح حسابات شركاء مداره محليا الوصول إلى موارد السحابة باستخدام التعاون في AZURE AD B2B](https://docs.microsoft.com/azure/active-directory/external-identities/hybrid-on-premises-to-cloud).</span><span class="sxs-lookup"><span data-stu-id="01b76-112">Learn how to [grant locally-managed partner accounts access to cloud resources using Azure AD B2B collaboration](https://docs.microsoft.com/azure/active-directory/external-identities/hybrid-on-premises-to-cloud).</span></span>
