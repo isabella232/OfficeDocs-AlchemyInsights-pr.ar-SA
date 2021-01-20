@@ -12,15 +12,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78695de0-7021-4900-a784-7cc782785f1d
-ms.openlocfilehash: 955797530f53d22c7c225ce0a32d686a00215219
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 53ddccaf9f688ecdeeab8ba21a0700733a4b61b4
+ms.sourcegitcommit: e378232f4c9ef4e962208100db752221e7bd2dd6
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748231"
+ms.lasthandoff: 01/20/2021
+ms.locfileid: "49911754"
 ---
-# <a name="change-the-domain-for-microsoft-365-group"></a>تغيير المجال لمجموعه Microsoft 365
+# <a name="change-the-domain-for-a-microsoft-365-group"></a>تغيير المجال لمجموعه Microsoft 365
 
 إذا أردت تغيير المجال لمجموعه Microsoft 365 اثناء الإنشاء ، فاتبع الخطوات الواردة في [اختيار المجال الذي تريد استخدامه عند إنشاء مجموعات Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/choose-domain-to-create-groups).
 
-بعد إنشاء المجموعة Microsoft 365 بالفعل ، لا توجد حاليا اي طريقه لتغيير المجال. الطريقة الوحيدة هي إنشاء مجموعه جديده من Microsoft 365 وحذف الحساب القديم إذا لزم الأمر (يمكن أضافه عناوين البريد الكتروني الاضافيه من خلال [مركز أداره Exchange](https://outlook.office365.com/ecp).
+لتغيير مجال مجموعه Microsoft 365 موجودة ، كمسؤول ، يمكنك الانتقال إلى مركز أداره Microsoft 365 ، ثم https://admin.microsoft.com تنفيذ الخطوات التالية:
+
+- اختيار **المجموعات** من القائمة الموجودة في الجانب الأيسر
+- ابحث عن مجموعه الM365 التي تريد تعديلها واخترها ، ثم انقر فوق **تحرير** ضمن **عناوين البريد الكتروني** عندما تكون في علامة التبويب **عام** .
+- يمكنك الآن تغيير مجال عنوان البريد الكتروني الأساسي الخاص به ستتمكن أيضا من أضافه الأسماء المستعارة للبريد الكتروني.
+
+> [!IMPORTANT]
+> ستسمح لك مجموعات التوزيع العادية ومجموعات الأمان الممكنة للبريد باداره إعدادات اقل من مركز أداره M365 ، مقطع **المجموعات** . إذا أردت أداره المزيد من التفاصيل الخاصة بها ، فانقر فوق علامة التبويب **إعدادات** عند تحرير أحدها في مركز أداره M365 واختر **أداره المزيد من الإعدادات في الخيار Exchange admin Center** .
