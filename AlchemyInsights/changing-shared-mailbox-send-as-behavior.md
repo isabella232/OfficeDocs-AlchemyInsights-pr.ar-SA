@@ -1,5 +1,5 @@
 ---
-title: تغيير طريقه إرسال علبه البريد المشتركة كسلوك
+title: تغيير سلوك إرسال ك لعلبة البريد المشتركة
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,18 +13,18 @@ ms.custom:
 - "623"
 - "3500003"
 ms.assetid: 49fa4633-7c50-40cd-a064-608a21cb0476
-ms.openlocfilehash: 6bb54112e775068e567b8cd22313189222287202
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f2cc1d4139fb017da2e483ca5cbb7ed14a44f65a
+ms.sourcegitcommit: 53e5caab697ebfb434ccef3ef98b8f2bee579b41
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793637"
+ms.lasthandoff: 02/02/2021
+ms.locfileid: "50075848"
 ---
-# <a name="changing-shared-mailbox-send-as-behavior"></a>تغيير طريقه إرسال علبه البريد المشتركة كسلوك
+# <a name="changing-shared-mailbox-send-as-behavior"></a>تغيير سلوك إرسال ك لعلبة البريد المشتركة
 
-بشكل افتراضي ، لا يتم حفظ الرسائل المرسلة من علبه البريد المشتركة في مجلد "العناصر المرسلة" في علبه البريد المشتركة. بدلا من ذلك ، يتم حفظها في مجلد "العناصر المرسلة" الخاص بالشخص الذي أرسل الرسالة.
+بشكل افتراضي، لا يتم حفظ الرسائل المرسلة من علبة البريد المشتركة في مجلد "العناصر المرسلة" في علبة البريد المشتركة. بدلا من ذلك، يتم حفظها في مجلد "العناصر المرسلة" الخاص بالشخص الذي أرسل الرسالة.
   
-إذا كنت تريد ان يري كل الأعضاء البريد الكتروني المرسل ، في مركز أداره Microsoft 365 ، فقم بتحرير تفاصيل علبه البريد المشتركة ، واختر تحرير **العناصر المرسلة** \> **Edit**.
+إذا كنت تريد أن يرى جميع الأعضاء البريد الإلكتروني المرسل، في مركز إدارة Microsoft 365، فحرر تفاصيل علبة البريد المشتركة، واختر **"تحرير العناصر** \> **المرسلة".**
   
-لقراءه المزيد ، راجع [إنشاء علبه بريد مشتركه](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox).
+لقراءة المزيد، راجع [تكوين إعدادات علبة البريد المشتركة.](https://docs.microsoft.com/microsoft-365/admin/email/configure-a-shared-mailbox#allow-everyone-to-see-the-sent-email-the-replies)
   
