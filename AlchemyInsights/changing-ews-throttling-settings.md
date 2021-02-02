@@ -1,5 +1,5 @@
 ---
-title: تغيير إعدادات التحكم في EWS
+title: تغيير إعدادات الضبط في EWS
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,15 +13,15 @@ ms.custom:
 - "9000752"
 - "5653"
 - "5760"
-ms.openlocfilehash: 9accb3cb9d5d6e2eeed6e76452f3f1cff4f563f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4f0bea884153dc1ed8699ce12e0d017d18f5e57c
+ms.sourcegitcommit: 53e5caab697ebfb434ccef3ef98b8f2bee579b41
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714126"
+ms.lasthandoff: 02/02/2021
+ms.locfileid: "50075884"
 ---
-# <a name="changing-ews-throttling-settings"></a><span data-ttu-id="d6558-102">تغيير إعدادات التحكم في EWS</span><span class="sxs-lookup"><span data-stu-id="d6558-102">Changing EWS throttling settings</span></span>
+# <a name="changing-ews-throttling-settings"></a><span data-ttu-id="7d445-102">تغيير إعدادات الضبط في EWS</span><span class="sxs-lookup"><span data-stu-id="7d445-102">Changing EWS throttling settings</span></span>
 
-<span data-ttu-id="d6558-103">يرجى تشغيل الاختبار التلقائي الذي سيسمح لك بتعديل نهج التحكم EWS لمده الترحيل.</span><span class="sxs-lookup"><span data-stu-id="d6558-103">Please run our automated test which will allow you to modify the EWS throttling policy for the duration of your migration.</span></span>
+<span data-ttu-id="7d445-103">الرجاء تشغيل الاختبار التلقائي الذي يسمح لك بتعديل نهج اللتقييل EWS طوال مدة الترحيل.</span><span class="sxs-lookup"><span data-stu-id="7d445-103">Please run our automated test which will allow you to modify the EWS throttling policy for the duration of your migration.</span></span> <span data-ttu-id="7d445-104">تجدر الإشارة إلى أنه حتى بعد تشغيل هذا التشغيل، ستقتصر عمليات استيراد EWS على 150mb لكل 5 دقائق لكل علبة بريد؛ لتحقيق سرعات نقل ترحيل أعلى، يرجى ترحيل المزيد من المستخدمين في وقت واحد.</span><span class="sxs-lookup"><span data-stu-id="7d445-104">Note that even after this is run, EWS imports will still be limited to 150mb per 5 minutes per mailbox; to achieve higher migration throughput speeds, please migrate more users concurrently.</span></span>
 
-<span data-ttu-id="d6558-104">يرجى ملاحظه ان تغييرات نهج كبح EWS لا تؤثر علي أنواع الترحيل التالية (باستخدام أدوات Microsoft): مختلط أو كلي/مجهز (RPC/HTTP) أو IMAP أو G Suite أو خدمه استيراد المجلد العام أو PST.</span><span class="sxs-lookup"><span data-stu-id="d6558-104">Please note that EWS throttling policy changes have no effect on the following migration types (using Microsoft tools): Hybrid, Cutover/Staged (RPC/HTTP), IMAP, G Suite, Public Folder or PST Import Service.</span></span>
+<span data-ttu-id="7d445-105">تجدر الإشارة إلى أن تغييرات نهج التحكم في EWS لا تأثير لها على أنواع الترحيل التالية (باستخدام أدوات Microsoft): المختلط أو كلي/المرحلة (RPC/HTTP) أو IMAP أو G Suite أو المجلد العمومي أو خدمة استيراد PST.</span><span class="sxs-lookup"><span data-stu-id="7d445-105">Please note that EWS throttling policy changes have no effect on the following migration types (using Microsoft tools): Hybrid, Cutover/Staged (RPC/HTTP), IMAP, G Suite, Public Folder or PST Import Service.</span></span>
