@@ -1,31 +1,29 @@
 ---
 title: تغيير طريقة الدفع
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "9002612"
 - "5073"
-ms.openlocfilehash: f1076fdb94e051bb72b719ee5c8401dd49ce44da
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3c72263cacd2f03f1970fc520ac624a280518a5f
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681728"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152581"
 ---
 # <a name="change-payment-method-fromto"></a>تغيير طريقة الدفع من/إلى
 
 1. **التغيير من الفاتورة إلى بطاقة الائتمان أو الحساب البنكي**
 
-    - عندما تقوم بالتغيير من الدفع بواسطة فاتورة إلى الدفع بواسطة بطاقة ائتمان أو حساب بنكي، نقوم تلقائياً بإنشاء اشتراك جديد لك، قم بنقل المستخدمين إلى الاشتراك الجديد ثم قم بتعطيل الاشتراك القديم. لا داعي للقلق، لن يظهر للمستخدمين حدوث أي مشكلة في الخدمة، وجميع المعلومات الخاصة بهم سيتم توفيرها من خلال الاشتراك الجديد. 
-
-    - اتبع الخطوات الموثقة في [التغيير من الفاتورة إلى بطاقة الائتمان أو الحساب البنكي](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method?view=o365-worldwide#change-from-invoice-to-credit-card-or-bank-account).
+    - لا يمكنك التغيير تلقائيا من الدفع بالفاتورة إلى الدفع باستخدام طريقة دفع مختلفة. بدلا من [](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription) ذلك، يجب شراء اشتراك مختلف مدفوع باستخدام بطاقة [](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/move-users-different-subscription)ائتمان أو حساب بنكي، نقل جميع المستخدمين إلى الاشتراك الجديد، ثم [إلغاء الاشتراك القديم.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
 
 2. **التغيير من بطاقة الائتمان أو الحساب البنكي إلى الفاتورة**
 
@@ -33,6 +31,6 @@ ms.locfileid: "47681728"
 
     - إذا كانت كمية الطلبات عالية جداً، فقد يكون من الضروري التحقق من الائتمان. إذا كان الأمر كذلك، فسترى الرسالة "غير مؤهل للتغيير إلى فاتورة. يتطلب الأمر فحص الائتمان." في هذه الحالة، يمكنك التغيير إلى الدفع بالفاتورة يدوياً.
 
-    - اتبع الخطوات الموثقة في [التغيير من الفاتورة إلى بطاقة الائتمان أو الحساب البنكي](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method?view=o365-worldwide#change-from-credit-card-or-bank-account-to-invoice) لإكمال التغيير اليدوي.
+    - اتبع الخطوات في كيفية التغيير من مدفوعات بطاقة الائتمان إلى [الفاتورة؟](how-do-i-change-from-credit-card-payments-to-invoice.md) لإكمال التغيير اليدوي.
 
-لمزيد من المعلومات، اطلع على [تغيير طريقة الدفع](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-method).
+لمزيد من المعلومات، [راجع كيفية الدفع لاشتراكك.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)

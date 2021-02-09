@@ -1,23 +1,23 @@
 ---
 title: إضافة طريقة دفع أو تحديثها أو إزالتها
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
-ms.collection: Adm_O365
 ms.custom:
+- commerce
 - "9002348"
 - "4574"
-ms.openlocfilehash: 4325aceb334661db2fcc681d731182fa647b890e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: edd6cf55ecc7808e80b74728a686d7d700ffc222
+ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687457"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "50152388"
 ---
 # <a name="add-update-or-remove-payment-method"></a>إضافة طريقة دفع أو تحديثها أو إزالتها
 
@@ -25,10 +25,10 @@ ms.locfileid: "47687457"
 
 - لإضافة حساب بنكي كطريقة دفع، اطلع على[إضافة طريقة دفع](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#add-a-payment-method).
 
-- لتحديث المعلومات الموجودة علي حساب بنكي ، راجع [تفاصيل طريقه الدفع](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#update-payment-method-details).
+- لتحديث المعلومات في حساب بنكي، راجع [تحديث تفاصيل طريقة الدفع.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#update-payment-method-details)
 
-- لتغيير طريقه الدفع إلى حساب بنكي أو منه ، راجع [استبدال طريقه دفع](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#replace-a-payment-method).
+- لتغيير طريقة الدفع إلى حساب بنكي أو منه، راجع ["استبدال طريقة دفع".](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#replace-a-payment-method)
 
-- لأزاله حساب بنكي كطريقه دفع ، راجع [حذف طريقه دفع](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#delete-a-payment-method).
+- لإزالة حساب بنكي كطريقة دفع، راجع [حذف طريقة دفع.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods#delete-a-payment-method)
 
-لمزيد من المعلومات ، راجع [أداره طرق السداد](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+لمزيد من المعلومات، راجع [إدارة طرق الدفع.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
