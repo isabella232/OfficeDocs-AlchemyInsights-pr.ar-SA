@@ -1,9 +1,8 @@
 ---
-title: أداره تراخيص التطبيقات
+title: إدارة تراخيص التطبيقات
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,29 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500008"
 - "2443"
-ms.openlocfilehash: a78f83fe3f2c63143d62d733a53f7dcbaed78a56
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7d67d47d2fb427537501930401d7a33978293718
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778138"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232390"
 ---
-# <a name="manage-app-licenses"></a><span data-ttu-id="16b05-102">أداره تراخيص التطبيقات</span><span class="sxs-lookup"><span data-stu-id="16b05-102">Manage app licenses</span></span>
+# <a name="manage-app-licenses"></a><span data-ttu-id="b6829-102">إدارة تراخيص التطبيقات</span><span class="sxs-lookup"><span data-stu-id="b6829-102">Manage app licenses</span></span>
 
-## <a name="to-change-license-quantity"></a><span data-ttu-id="16b05-103">لتغيير كميه الترخيص</span><span class="sxs-lookup"><span data-stu-id="16b05-103">To change license quantity</span></span>
+## <a name="to-change-license-quantity"></a><span data-ttu-id="b6829-103">لتغيير كمية التراخيص</span><span class="sxs-lookup"><span data-stu-id="b6829-103">To change license quantity</span></span>
 
-1. <span data-ttu-id="16b05-104">انتقل إلى صفحه **الفوترة**  >  **[الخاصة بالمنتجات](https://go.microsoft.com/fwlink/p/?linkid=842054)** ، ثم اختر علامة التبويب **التطبيقات** .</span><span class="sxs-lookup"><span data-stu-id="16b05-104">Go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page, then choose the **Apps** tab.</span></span>
+1. <span data-ttu-id="b6829-104">انتقل إلى **صفحة "فوترة**  >  **[منتجاتك".](https://go.microsoft.com/fwlink/p/?linkid=842054)**</span><span class="sxs-lookup"><span data-stu-id="b6829-104">Go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+2. <span data-ttu-id="b6829-105">على علامة **التبويب "المنتجات"،** في القسم **"تطبيقات"،** ابحث عن التطبيق الذي تريد إدارته.</span><span class="sxs-lookup"><span data-stu-id="b6829-105">On the **Products** tab, in the **Apps** section, find the app that you want to manage.</span></span> <span data-ttu-id="b6829-106">حدد **المزيد من الإجراءات** (ثلاث نقاط)، ثم حدد **"شراء التراخيص".**</span><span class="sxs-lookup"><span data-stu-id="b6829-106">Select **More actions** (three dots), then select **Buy licenses**.</span></span>
+3. <span data-ttu-id="b6829-107">إذا كنت تريد تقليل عدد التراخيص، في  أعلى جزء "شراء التراخيص"، حدد **إزالة التراخيص.**</span><span class="sxs-lookup"><span data-stu-id="b6829-107">If you want to reduce the number of licenses, at the top of the **Buy licenses** pane, select **remove licenses**.</span></span>
+4. <span data-ttu-id="b6829-108">لشراء التراخيص أو إزالتها، ضمن  "كمية جديدة" في المربع "إجمالي التراخيص"، أدخل العدد الإجمالي للتراخيص التي تريدها لهذا الاشتراك. </span><span class="sxs-lookup"><span data-stu-id="b6829-108">To buy or remove licenses, under **New quantity** in the **Total licenses** box, enter the total number of licenses that you want for this subscription.</span></span> <span data-ttu-id="b6829-109">على سبيل المثال، إذا كان لديك 100 ترخيص وتريد إضافة خمسة تراخيص أخرى، أدخل 105.</span><span class="sxs-lookup"><span data-stu-id="b6829-109">For example, if you have 100 licenses and you want to add five more, enter 105.</span></span> <span data-ttu-id="b6829-110">إذا كنت تريد إزالة خمسة منها، أدخل 95.</span><span class="sxs-lookup"><span data-stu-id="b6829-110">If you want to remove five of them, enter 95.</span></span>
+5. <span data-ttu-id="b6829-111">حدد **"حفظ".**</span><span class="sxs-lookup"><span data-stu-id="b6829-111">Select **Save**.</span></span>
 
-2. <span data-ttu-id="16b05-105">ابحث عن التطبيق الذي تريد ادارته وحدده.</span><span class="sxs-lookup"><span data-stu-id="16b05-105">Find and select the app you want to manage.</span></span>  
+## <a name="to-assign-app-licenses"></a><span data-ttu-id="b6829-112">لتعيين تراخيص التطبيقات</span><span class="sxs-lookup"><span data-stu-id="b6829-112">To assign app licenses</span></span>
 
-3. <span data-ttu-id="16b05-106">حدد **أضافه/أزاله التراخيص**.</span><span class="sxs-lookup"><span data-stu-id="16b05-106">Select **Add/remove licenses**.</span></span>
-
-4. <span data-ttu-id="16b05-107">ادخل عدد التراخيص الجديدة المطلوبة.</span><span class="sxs-lookup"><span data-stu-id="16b05-107">Enter the new number of licenses needed.</span></span> <span data-ttu-id="16b05-108">علي سبيل المثال ، إذا كان لديك 5 تراخيص حاليا وتحتاج فقط إلى 4 ، فادخل 4 في المربع **إجمالي التراخيص** .</span><span class="sxs-lookup"><span data-stu-id="16b05-108">For example, if you currently have 5 licenses and only need 4, enter 4 in the **Total licenses** box.</span></span> <span data-ttu-id="16b05-109">إذا كان لديك حاليا 5 تراخيص وتحتاج إلى 10 تراخيص إجماليه ، فادخل 10 في المربع **إجمالي التراخيص** .</span><span class="sxs-lookup"><span data-stu-id="16b05-109">If you currently have 5 licenses and need 10 total licenses, enter 10 in the **Total licenses** box.</span></span>
-
-## <a name="to-assign-app-licenses"></a><span data-ttu-id="16b05-110">لتعيين تراخيص التطبيقات</span><span class="sxs-lookup"><span data-stu-id="16b05-110">To assign app licenses</span></span>
-
-1. <span data-ttu-id="16b05-111">انتقل إلى صفحه **الفوترة**  >  **[الخاصة بالمنتجات](https://go.microsoft.com/fwlink/p/?linkid=842054)** ، ثم اختر علامة التبويب **التطبيقات** .</span><span class="sxs-lookup"><span data-stu-id="16b05-111">Go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page, then choose the **Apps** tab.</span></span>
-
-2. <span data-ttu-id="16b05-112">ابحث عن التطبيق الذي تريد ادارته وحدده.</span><span class="sxs-lookup"><span data-stu-id="16b05-112">Find and select the app you want to manage.</span></span>  
-
-3. <span data-ttu-id="16b05-113">ضمن **إعدادات & إجراءات**، حدد الارتباط الذي تريد **ادارته في مدخل publisher**.</span><span class="sxs-lookup"><span data-stu-id="16b05-113">Under **Settings & actions**, select the link to **Manage in publisher's portal**.</span></span>
+1. <span data-ttu-id="b6829-113">انتقل إلى **صفحة "فوترة**  >  **[منتجاتك".](https://go.microsoft.com/fwlink/p/?linkid=842054)**</span><span class="sxs-lookup"><span data-stu-id="b6829-113">Go to the **Billing** > **[Your products](https://go.microsoft.com/fwlink/p/?linkid=842054)** page.</span></span>
+2. <span data-ttu-id="b6829-114">على علامة **التبويب "المنتجات"،** في القسم **"تطبيقات"،** ابحث عن التطبيق الذي تريد إدارته وحدده.</span><span class="sxs-lookup"><span data-stu-id="b6829-114">On the **Products** tab, in the **Apps** section, find and select the app you want to manage.</span></span>
+3. <span data-ttu-id="b6829-115">ضمن **إعدادات &،** حدد الارتباط الذي تريد إدارته في مدخل **الناشر.**</span><span class="sxs-lookup"><span data-stu-id="b6829-115">Under **Settings & actions**, select the link to **Manage in publisher's portal**.</span></span>
