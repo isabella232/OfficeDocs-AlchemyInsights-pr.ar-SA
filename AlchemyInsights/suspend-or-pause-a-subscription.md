@@ -1,5 +1,5 @@
 ---
-title: إيقاف اشتراك أو إيقافه مؤقتا
+title: إيقاف اشتراك مؤقتا أو إيقافه مؤقتا
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002927"
 - "5603"
-ms.openlocfilehash: 716f48793826e813796ec8c62baaf8d252ae4362
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: e5bbc2f7e447cfedeaee2be2bcfe1132e73b24e7
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48488940"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50231886"
 ---
-# <a name="suspend-or-pause-a-subscription"></a>إيقاف اشتراك أو إيقافه مؤقتا
+# <a name="suspend-or-pause-a-subscription"></a>إيقاف اشتراك مؤقتا أو إيقافه مؤقتا
 
-لإيقاف الاشتراك أو إيقافه مؤقتا ، يمكنك إلغاء الاشتراك في مركز أداره Microsoft 365.
+لإيقاف اشتراكك مؤقتا أو إيقافه مؤقتا، يمكنك إلغاء الاشتراك في مركز إدارة Microsoft 365.
 
-1. في مركز الاداره ، انتقل إلى صفحه **الفوترة**  >  [الخاصة بالمنتجات](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. علي علامة التبويب **المنتجات** ، ابحث عن الاشتراك الذي تريد إلغاءه. حدد **المزيد من الإجراءات** (ثلاث نقاط) ، ثم حدد **إلغاء الاشتراك**.
-3. تظهر حاله الاشتراك علي انها **معطله** وتعرض التاريخ الذي تم فيه إلغاء الاشتراك. يظل الاشتراك في حاله معطله لمده 90 يوما ، وقام بتقليل الوظائف حتى يتم حذفها أو أعاده [تنشيطها](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+1. في مركز الإدارة، انتقل إلى صفحة **منتجات الفوترة.**  >  **[](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+2. على علامة **التبويب "المنتجات"،** ابحث عن الاشتراك الذي تريد إلغاؤه. حدد **المزيد من الإجراءات** (ثلاث نقاط)، ثم حدد إلغاء **الاشتراك.**
+3. تظهر حالة الاشتراك على أنها **"معطل"** وتعرض تاريخ إلغاء الاشتراك. يظل الاشتراك في حالة تعطيل لمدة 90 يوما، وينخفض الأداء الوظيفي حتى يتم حذفه أو [إعادة تنشيطه.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription)
 
-للحصول علي مزيد من المعلومات ، راجع [ما يحدث عند إلغاء الاشتراك](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) [وحفظ البيانات](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data).
+لمزيد من المعلومات، [راجع ما يحدث عند إلغاء اشتراك](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#what-happens-when-you-cancel-a-subscription) وحفظ [البيانات.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription#save-your-data)

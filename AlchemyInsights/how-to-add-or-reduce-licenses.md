@@ -1,5 +1,5 @@
 ---
-title: أضافه تراخيص لاشتراكك أو ازالتها
+title: إضافة تراخيص لاشتراكك أو إزالتها
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,28 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "319"
 - "1500007"
-ms.assetid: 69797abf-3e60-4be2-b0a7-26022a14397e
-ms.openlocfilehash: 0b86937c48d7fe553436863e5f6ec70438652451
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.openlocfilehash: 6b4e488ee10345955f41c7a7a9d4851b670898b9
+ms.sourcegitcommit: 2f39850ac0fba9fbeba9b8b7939ae79b505d3b67
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307257"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "50232426"
 ---
-# <a name="add-or-remove-licenses-for-your-subscription"></a>أضافه تراخيص لاشتراكك أو ازالتها
+# <a name="add-or-remove-licenses-for-your-subscription"></a>إضافة تراخيص لاشتراكك أو إزالتها
 
-اليك كيفيه أضافه التراخيص أو ازالتها.
+**شاهد فيديو** يوضح كيفية القيام بذلك: [شراء تراخيص جديدة](https://go.microsoft.com/fwlink/p/?linkid=2154857) أو إزالة [التراخيص الموجودة](https://go.microsoft.com/fwlink/p/?linkid=2154938)
+
+1. في مركز الإدارة، انتقل إلى صفحة **منتجات الفوترة.**  >  [](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. على علامة **التبويب "المنتجات"،** ابحث عن الاشتراك الذي تريد شراء التراخيص له أو إزالتها. حدد **المزيد من الإجراءات** (ثلاث نقاط)، ثم حدد **"شراء التراخيص".**
+3. إذا كنت تريد تقليل عدد التراخيص، في  أعلى جزء "شراء التراخيص"، حدد **إزالة التراخيص.**
+4. لشراء التراخيص أو إزالتها، ضمن  "كمية جديدة" في المربع "إجمالي التراخيص"، أدخل العدد الإجمالي للتراخيص التي تريدها لهذا الاشتراك.  على سبيل المثال، إذا كان لديك 100 ترخيص وتريد إضافة 25 ترخيصا آخر، أدخل 125. إذا كنت تريد إزالة 25 ترخيصا، أدخل 75.
+5. حدد **"حفظ".**
+
+للحصول على معلومات حول كيفية تعيين التراخيص، راجع [تعيين التراخيص للمستخدمين.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+
+**الموارد**
   
-1. في مركز الاداره ، انتقل إلى صفحه **الفوترة**  >  [الخاصة بالمنتجات](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. علي علامة التبويب **المنتجات** ، ابحث عن الاشتراك الذي تريد شراء التراخيص له أو ازالتها. حدد **المزيد من الإجراءات** (ثلاث نقاط) ، ثم حدد **شراء تراخيص**.
-3. إذا كنت تريد تقليل عدد التراخيص ، في اعلي الجزء " **شراء التراخيص** " ، فحدد **أزاله التراخيص**.
-4. لشراء التراخيص أو ازالتها ، ضمن **الكمية الجديدة** في المربع **إجمالي التراخيص** ، ادخل العدد الإجمالي للتراخيص التي تريدها لهذا الاشتراك. علي سبيل المثال ، إذا كان لديك تراخيص 100 وكانت تريد أضافه 25 المزيد ، فادخل 125. إذا أردت أزاله 25 ترخيصا ، فادخل 75.
-5. حدد **حفظ**.
-
-للحصول علي معلومات حول كيفيه تعيين التراخيص ، راجع [تعيين تراخيص للمستخدمين](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
-
-**مصادر**
-  
-- [شراء تراخيص الاشتراك أو ازالتها](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
-- [إلغاء Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
-- [تجربه اشتراك Microsoft 365 for business أو شرائه](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365)
+- [شراء التراخيص أو إزالتها](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
+- [إلغاء Microsoft 365 للأعمال](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [تجربة اشتراك Microsoft 365 للأعمال أو شراؤه](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365)
