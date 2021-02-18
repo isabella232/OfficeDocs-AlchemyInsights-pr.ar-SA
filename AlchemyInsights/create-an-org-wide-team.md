@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001731"
 - "3830"
-ms.openlocfilehash: f41d6cf8cb1bac471ca33d81a867a35080906ae4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b22990f11bd229f206aa67f8793df3b605a4ba43
+ms.sourcegitcommit: 3c708a4a349b60b59bc623c44fb78674c685f3c2
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732630"
+ms.lasthandoff: 02/18/2021
+ms.locfileid: "50291743"
 ---
 # <a name="create-an-org-wide-team-that-includes-everyone-in-your-organization"></a>إنشاء فريق على مستوى المؤسسة يشمل كل شخص في مؤسستك
 
 قد تتمكن من إنشاء فريق يشتمل على جميع أعضاء شركتك أو مؤسستك، المعروفة أيضاً بـ [فريق على مستوى المؤسسة](https://docs.microsoft.com/microsoftteams/create-an-org-wide-team).
 
-- هل تتضمن مؤسستك عدداً من **المستخدمين أقل من 5000**؟ تقتصر الفرق على مستوى المؤسسة حالياً على المؤسسات التي تضم 5000 مستخدم أو أقل. نتطلع إلى زيادة هذا الحد في المستقبل.
+- هل لدى مؤسستك **أقل من 10000 مستخدم؟** تقتصر الفرق على مستوى المؤسسة حاليا على المؤسسة التي بها 10000 مستخدم أو أقل. نتطلع إلى زيادة هذا الحد في المستقبل.
 
 - الفرق على مستوي المؤسسة **غير متوفرة حالياً** لـ **Teams للتعليم**.
 
