@@ -1,10 +1,10 @@
 ---
-title: نشر Office إلى دليل المستخدمين لديك
+title: دليل نشر Office للمستخدمين
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
 ms.date: 12/03/2020
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004198"
 - "7379"
-ms.openlocfilehash: 4eb1deb2326afc8cb7b54a7ee89cd5f8f7a540c9
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+- "2000022"
+- "871"
+ms.openlocfilehash: e65735633619315081505c10c55e844101bd1538
+ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49676746"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50448666"
 ---
-# <a name="deploy-office-to-your-users-guide"></a><span data-ttu-id="3a617-102">نشر Office إلى دليل المستخدمين لديك</span><span class="sxs-lookup"><span data-stu-id="3a617-102">Deploy Office to your users Guide</span></span>
+# <a name="deploy-office-to-your-users-guide"></a><span data-ttu-id="35ae0-102">دليل نشر Office للمستخدمين</span><span class="sxs-lookup"><span data-stu-id="35ae0-102">Deploy Office to your users Guide</span></span>
 
-<span data-ttu-id="3a617-103">يمكنك نشر تطبيقات Office من السحابة بالقدرة علي تخصيص التثبيت باستخدام أداه نشر Office.</span><span class="sxs-lookup"><span data-stu-id="3a617-103">Deploy Office apps from the cloud with the ability to customize your installation by using the Office Deployment Tool.</span></span>
+<span data-ttu-id="35ae0-103">نشر تطبيقات Office من السحابة مع إمكانية تخصيص التثبيت باستخدام أداة نشر من Office.</span><span class="sxs-lookup"><span data-stu-id="35ae0-103">Deploy Office apps from the cloud with the ability to customize your installation by using the Office Deployment Tool.</span></span>
 
-<span data-ttu-id="3a617-104">يساعدك الدليل "نشر Office إلى المستخدمين" علي إنشاء تكوين Office مخصص باستخدام الإعدادات المتقدمة ، أو يمكنك استخدام التكوين الموصي به الذي تم إنشاؤه مسبقا.</span><span class="sxs-lookup"><span data-stu-id="3a617-104">The "Deploy Office to your users" guide helps you create a customized Office configuration with advanced settings, or you can use a pre-built recommended configuration.</span></span> <span data-ttu-id="3a617-105">ما إذا كان المستخدمون يقومون باجراء عمليه التثبيت الذاتي أو النشر علي المستخدمين بشكل فردي أو مجمع ، يوفر لك هذا المعالج المتقدم الإرشادات المفصلة خطوه بخطوه لمنح المستخدمين تثبيت Office المخصص لمؤسسك.</span><span class="sxs-lookup"><span data-stu-id="3a617-105">Whether your users are conducting a self-install or you're deploying to your users individually or in bulk, this advanced wizard provides you with step-by-step instructions to give users an Office installation tailored to your organization.</span></span>
+<span data-ttu-id="35ae0-104">يساعدك [دليل نشر Office](https://go.microsoft.com/fwlink/?linkid=2146451) للمستخدمين على إنشاء تكوين Office مخصص بإعدادات متقدمة، أو يمكنك استخدام تكوين مستحسن مضمن مسبقا.</span><span class="sxs-lookup"><span data-stu-id="35ae0-104">The [Deploy Office to your users](https://go.microsoft.com/fwlink/?linkid=2146451) guide helps you create a customized Office configuration with advanced settings, or you can use a pre-built recommended configuration.</span></span> <span data-ttu-id="35ae0-105">سواء كان المستخدمون يقومون بإجراء تثبيت ذاتي أو كنت تقوم بالنشر إلى المستخدمين بشكل فردي أو مجمع، فإن هذا المعالج المتقدم يوفر لك إرشادات مفصلة خطوة بخطوة ليمنح المستخدمين تثبيت Office مصمما خصيصا لمنظمتك.</span><span class="sxs-lookup"><span data-stu-id="35ae0-105">Whether your users are conducting a self-install or you're deploying to your users individually or in bulk, this advanced wizard provides you with step-by-step instructions to give users an Office installation tailored to your organization.</span></span>
