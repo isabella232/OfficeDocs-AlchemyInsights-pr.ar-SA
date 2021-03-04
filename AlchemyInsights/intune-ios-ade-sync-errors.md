@@ -1,9 +1,9 @@
 ---
-title: أخطاء مزامنة التسجيل التلقائي لجهاز Apple
+title: أخطاء مزامنة تسجيل الجهاز التلقائي من Apple
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,23 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "7256"
-ms.openlocfilehash: d7a9398046a1073e30fdbe2950f750bb55d4fa2f
-ms.sourcegitcommit: 87c8d0a1e6668211b9dd5427f98984ccdcadb02d
+ms.openlocfilehash: 912c9e56b4c468fb333769f15bd7c212594dc11a
+ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714653"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "50448909"
 ---
-# <a name="apple-automatic-device-enrollment-sync-errors"></a>أخطاء مزامنة التسجيل التلقائي لجهاز Apple
+# <a name="apple-automatic-device-enrollment-sync-errors"></a>أخطاء مزامنة تسجيل الجهاز التلقائي من Apple
 
-"لقد اكتشفنا ان لديك رمزا مميزا واحدا أو أكثر لجهازي ADE/DEP في حاله خطا. حتى يتم حل حاله الخطا لكل رمز مميز متاثر ، لن تعمل وظيفة ADE في نفس الوقت ".
+"لقد اكتشفنا أن لديك رمز مميز واحد أو أكثر من رموز ADE/DEP المميزة في حالة خطأ. حتى يتم حل حالة الخطأ لكل رمز مميز متأثر، لن تعمل وظيفة ADE كما هو متوقع".
 
-قد يكون هذا الخطا ظاهرا في عدد من الطرق التي تتضمن:
+قد يظهر هذا الخطأ بعدة طرق بما في ذلك:
 
-1. قد لا تتم مزامنة الاجهزه من أبم/ASM إلى Intune
-2. قد تفشل تعيينات ملف تعريف التسجيل
-3. قد لا تكمل الاجهزه تسجيل ADE بنجاح
+1. قد لا تتم مزامنة الأجهزة من ABM/ASM إلى Intune
+2. قد تفشل تعيينات ملفات تعريف التسجيل
+3. قد لا تكتمل الأجهزة تسجيل ADE بنجاح
 
-تاكد من ان خطا المزامنة الذي تم الإبلاغ عنه في وحده تحكم Intune ضمن **الاجهزه التي > تسجيل الاجهزه التي > تسجيل Apple > الرموز المميزة لبرنامج التسجيل** وراجع الوثائق التالية للاطلاع علي اي تحديث محتمل:
+تحقق من وجود خطأ مزامنة تم تسجيله في وحدة تحكم Intune ضمن **"الأجهزة" > "تسجيل الأجهزة" > تسجيل Apple**> المميزة لبرنامج التسجيل.
 
-[أخطاء مزامنة أبم/ASM للرموز المميزة لتسجيل الاجهزه التي تعمل بنظام التشغيل iOS/إيبادوس و macOS.](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors#resolutions-when-syncing-tokens-between-intune-and-abmasm-for-automated-device-enrollment)
+إن انتهاء صلاحية الرمز المميز الحالي هو أحد الأسباب الأكثر شيوعا لخطأ المزامنة. في العديد من الحالات، سيحل تجديد الرمز المميز المتأثر المشكلة.
+
+إذا انتهت صلاحية رمز مميز واحد أو أكثر، فشاهد الوثائق التالية لمساعدتك على تجديدها حسب الاقتضاء:
+
+[تجديد رمز تسجيل تلقائي لجهاز](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment-program-enroll-ios#renew-an-automated-device-enrollment-token)
+
+بالإضافة إلى ذلك، يمكنك الاطلاع على الوثائق التالية لمشاهدة المعالجة المحتملة لأخطاء أخرى تتسبب في فشل مزامنة الرمز المميز:
+
+[أخطاء مزامنة ABM/ASM ل iOS/iPadOS و macOS التلقائية لرمز تسجيل الجهاز المميز](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors#sync-token-errors-between-intune-and-ade-dep)
+
+
+
+
+
+
+
+[أخطاء مزامنة ABM/ASM ل iOS/iPadOS و macOS التلقائية لرمز تسجيل الجهاز المميز](https://docs.microsoft.com/mem/intune/enrollment/troubleshoot-ios-enrollment-errors#resolutions-when-syncing-tokens-between-intune-and-abmasm-for-automated-device-enrollment)
