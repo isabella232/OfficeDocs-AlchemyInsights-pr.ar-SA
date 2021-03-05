@@ -1,9 +1,8 @@
 ---
-title: تجديد مسبق
+title: تجديد مسبق الدفع
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
-ms.date: 04/21/2020
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,27 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "662"
 - "1500012"
-ms.assetid: ba037d2d-3c99-4d01-8d60-ca5d624da9b1
-ms.openlocfilehash: fe0c8066e203e1b7395d69211f31916afc137c18
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: dce0d832016913b057ef968926552a56419f4b62
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693938"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50469721"
 ---
-# <a name="prepaid-microsoft-365-renewal"></a>تجديد Microsoft 365 المدفوع مسبقا
+# <a name="prepaid-microsoft-365-renewal"></a>تجديد Microsoft 365 مسبق الدفع
 
-1. في مركز الاداره ، انتقل إلى صفحه **الفوترة** \> **[الخاصة بالمنتجات](https://go.microsoft.com/fwlink/p/?linkid=842054)** .
+1. في مركز الإدارة، انتقل إلى صفحة **منتجات الفوترة.** \> **[](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+2. على علامة **التبويب "المنتجات"،** حدد الاشتراك الذي تريد تمديده.
+3. في صفحة تفاصيل الاشتراك، في المقطع **"إعدادات الاشتراك والدفع"،** حدد **"تمديد تاريخ الانتهاء".**
+4. في صفحة تجديد تراخيص المستخدمين أو **إضافتها،** حدد **"استخدام مفتاح** منتج جديد وغير مستخدم"، ثم حدد **"التالي".**
+5. أدخل مفتاح المنتج، ثم حدد **"التالي".**
+    > [!NOTE]
+    > إذا كان لديك أكثر من مفتاح منتج واحد، يمكنك تحديد **"إضافة مفتاح منتج آخر"** لإدخالها.
+6. راجع تفاصيل طلبك، ثم حدد **"استرداد".**
 
-2. ابحث عن الاشتراك الذي تريد توسيعه. في المقطع **الفوترة** ، حدد **تمديد تاريخ النهاية**.
-
-3. في الجزء **تمديد الاشتراك** ، حدد **استخدام مفتاح منتج جديد وغير مستخدم**، ثم حدد **التالي**.
-
-4. ادخل مفتاح المنتج ، ثم حدد **التالي**.
-
-> [!NOTE]
-> إذا كان لديك أكثر من مفتاح منتج واحد ، فيمكنك تحديد **أضافه مفتاح منتج آخر** لإدخالها.
-
-5. راجع تفاصيل الطلب ، ثم حدد **استرداد**.
-
-لمعرفه المزيد ، راجع [أضافه تراخيص إلى أو توسيع اشتراك مدفوع لاستخدام مفتاح منتج](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key).
+لمعرفة المزيد، راجع إضافة تراخيص إلى اشتراك مدفوع لاستخدام مفتاح منتج أو [تمديده.](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key)

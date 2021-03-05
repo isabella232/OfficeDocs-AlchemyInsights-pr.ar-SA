@@ -1,8 +1,8 @@
 ---
 title: إدارة تراخيص Visio
-ms.author: pebaum
-author: pebaum
-manager: mnirkhe
+ms.author: cmcatee
+author: cmcatee-MSFT
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002419"
 - "5116"
-ms.openlocfilehash: 870d25d054e4bba3641e27bed49c94c53220027c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- commerce
+ms.openlocfilehash: 66232f742aaad0c119b413a1bd9697fed64dead8
+ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726186"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "50468821"
 ---
 # <a name="visio-license-management"></a>إدارة تراخيص Visio
 
-يمكن إدارة تراخيص Visio بالكامل من **مركز مسؤولي Microsoft 365**.
+يمكن إكمال إدارة تراخيص Visio في مركز **إدارة Microsoft 365.**
 
-- لـ **تبديل الخطط**، راجع [تبديل خطط Microsoft 365 for business يدوياً](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually?view=o365-worldwide).
-- لـ **شراء** Visio، انتقل إلى **الفوترة > [خدمات الشراء](https://go.microsoft.com/fwlink/p/?linkid=868433)**. استخدم مربع "البحث" للبحث عن "Visio"، ثم حدد الخطة وعدد المستخدمين. للمزيد من المعلومات، اطلع على [شراء الاشتراك](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription?view=o365-worldwide).
-- لـ **تعيين تراخيص Visio**، انتقل إلى **الفوترة > [التراخيص](https://go.microsoft.com/fwlink/p/?linkid=842264)**. للمزيد من المعلومات، راجع [تعيين التراخيص](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users?view=o365-worldwide).
-- لـ **إضافة/إزالة** تراخيص Visio, انتقل إلى **الفوترة > [شراء الخدمات](https://go.microsoft.com/fwlink/p/?linkid=868433)**. للمزيد من المعلومات، راجع [إضافة/إزالة التراخيص](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
-- لـ **إلغاء** تراخيص Visio، انتقل إلى **الفوترة > [المنتجات & الخدمات](https://go.microsoft.com/fwlink/p/?linkid=842054),** حدد **الإعدادات & الإجراءات**، وانقر فوق **إلغاء الاشتراك**. للمزيد من المعلومات، راجع [إلغاء اشتراكك](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
-- [مقارنة خيارات Visio](https://products.office.com/Visio/microsoft-visio-plans-and-pricing-compare-visio-options) للتعرّف على الاختلافات بين خطة Visio 1 والخطة 2.
+- [مقارنة خيارات Visio](https://www.microsoft.com/microsoft-365/visio/microsoft-visio-plans-and-pricing-compare-visio-options?rtc=1) للتعرّف على الاختلافات بين خطة Visio 1 والخطة 2.
+- لتغيير **الخطط،** راجع [الترقية إلى خطة مختلفة.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan)
+- لـ **شراء** Visio، انتقل إلى **الفوترة > [خدمات الشراء](https://go.microsoft.com/fwlink/p/?linkid=868433)**. استخدم مربع "البحث" للبحث عن "Visio"، ثم حدد الخطة وعدد المستخدمين. لمزيد من المعلومات، راجع ["شراء اشتراك مختلف".](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription)
+- لـ **تعيين تراخيص Visio**، انتقل إلى **الفوترة > [التراخيص](https://go.microsoft.com/fwlink/p/?linkid=842264)**. لمزيد من المعلومات، راجع ["تعيين التراخيص للمستخدمين".](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+- لشراء تراخيص Visio **أو** إزالتها، انتقل إلى الفوترة **> [منتجاتك.](https://go.microsoft.com/fwlink/p/?linkid=842054)** لمزيد من المعلومات، راجع [شراء التراخيص أو إزالتها.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription)
+- لإلغاء **اشتراك** Visio، انتقل إلى الفوترة **> [](https://go.microsoft.com/fwlink/p/?linkid=842054)** منتجاتك، وحدد اشتراك Visio، وفي قسم إعدادات الاشتراك **والدفع،** حدد **إلغاء الاشتراك.** للمزيد من المعلومات، راجع [إلغاء اشتراكك](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
-للحصول على مزيد من المعلومات، راجع [إدارة تراخيص الاشتراكات](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses?view=o365-worldwide#add-or-remove-licenses-for-your-business-subscription).
+لمزيد من المعلومات، راجع [شراء التراخيص أو إزالتها.](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses)
