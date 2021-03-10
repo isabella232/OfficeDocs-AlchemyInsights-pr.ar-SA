@@ -1,10 +1,10 @@
 ---
-title: مشاكل URL لوكيل التطبيق
+title: مشاكل عنوان URL لوكيل التطبيقات
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/25/2021
-ms.audience: Admin
+ms.date: 03/10/2021
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -13,20 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "7743"
 - "9004338"
-ms.openlocfilehash: 44c9f5d7970286cd0a8419b911f5c3e287fdfd70
-ms.sourcegitcommit: 28a79ef23c4a510397f4a8339ac2c5ff70eec713
-ms.translationtype: MT
+- "9199"
+- "9004356"
+ms.openlocfilehash: 7334a0998ca30ba6957f3f15f3a6f40f8d683dda
+ms.sourcegitcommit: 1b554c31d008492f9e6464f0249af0332212a3fc
+ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50035827"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50641469"
 ---
-# <a name="application-proxy-url-issues"></a>مشاكل URL لوكيل التطبيق
+# <a name="application-proxy-url-issues"></a>مشاكل عنوان URL لوكيل التطبيقات
 
-استكشاف المشاكل المتعلقة ب URL لوكيل التطبيق وإصلاحها، راجع:
+لاستكشاف المشاكل المتعلقة بعنوان URL لوكيل التطبيقات وإصلاحها، اطلع على:
 
-- [لا تعمل](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-page-links-broken-problem)  الارتباطات على الصفحة مع تطبيق وكيل التطبيق - إرشادات استكشاف الأخطاء وإصلاح سبب عدم عمل الارتباطات في تطبيق وكيل Azure Active Directory (AD) بشكل صحيح.
+- [الارتباطات على الصفحة معطّلة في تطبيق وكيل التطبيقات](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-page-links-broken-problem)  - إرشادات استكشاف الأخطاء التي تتسبب في تعطل الارتباطات على تطبيق وكيل Azure Active Directory (AD) وإصلاحها.
 
-- تكوين المجالات المخصصة باستخدام وكيل تطبيق [Azure AD](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-domain) - معلومات حول إنشاء URL خارجي للمستخدمين.
+- [تكوين مجالات مخصصة مع وكيل تطبيقات Azure AD](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-domain)  - معلومات عن إنشاء عنوان URL خارجي للمستخدمين لديك.
 
-- [إعادة توجيه الارتباطات ذات الترميز الثابت للتطبيقات](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-hard-coded-link-translation)  المنشورة باستخدام وكيل تطبيق Azure AD - معلومات حول ترجمة عناوين URL الم خطية
+- [إعادة توجيه ارتباطات التطبيقات المنشورة باستخدام وكيل تطبيقات Azure AD ذات تعليمات برمجية مضمنة](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-hard-coded-link-translation)  - معلومات عن ترجمة عناوين URL المضمنة
+
+- [تعيين صفحة رئيسية مخصصة للتطبيقات المنشورة باستخدام وكيل تطبيقات Azure AD](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-configure-custom-home-page#change-the-home-page-in-the-azure-portal) - عند نشر تطبيق باستخدام وكيل التطبيقات وتقوم بتعيين عنوان URL داخلي ومع ذلك ليس هذا ما يراه مستخدمي الصفحة أولاً في بعض الأحيان. يمكنك تعيين صفحة رئيسية مخصصة ليتمكن المستخدمين من الانتقال إلى الصفحة الصحيحة عند وصولهم إلى التطبيق. سيرى المستخدمين الصفحة الرئيسية المخصصة التي قمت بتعيينها سواء أقاموا بالوصول إلى التطبيق من "تطبيقاتي" في Azure Active Directory أو مشغل التطبيق من Microsoft 365.
+
+- هل لديك أسئلة عن تكوين عنوان URL لوكيل التطبيقات؟ اطلع على [إضافة تطبيق محلي إلى Azure AD](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-add-on-premises-application#add-an-on-premises-app-to-azure-ad).
+ 
 
