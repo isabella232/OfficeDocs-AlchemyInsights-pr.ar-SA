@@ -12,13 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "663"
 - "1500007"
-- commerce
-ms.openlocfilehash: 28d9722779a89f843af8a83304ffd6640012af93
-ms.sourcegitcommit: 5dc52d5fcb2833fbbc064edb783e609d8eef79c0
+ms.openlocfilehash: 28601f73a9766a516565d29e1c0f24f20b5e731a
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50469433"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50601118"
 ---
 # <a name="add-seats-to-a-prepaid-subscription"></a>إضافة مقاعد إلى اشتراك مسبق الدفع
 
@@ -30,7 +29,7 @@ ms.locfileid: "50469433"
 4. في الجزء **"إضافة المزيد من** التراخيص"، حدد **"استخدام مفتاح** منتج جديد وغير استخدام"، ثم حدد **"التالي".**
 5. أدخل مفتاح المنتج، ثم حدد **"التالي".**
     > [!NOTE]
-    > إذا كان لديك أكثر من مفتاح منتج واحد، يمكنك تحديد **"إضافة مفتاح منتج آخر"** لإدخالها.
+    > إذا كان لديك أكثر من مفتاح منتج واحد، يمكنك تحديد **"إضافة مفتاح منتج آخر"** لإدخاله.
 6. راجع تفاصيل طلبك، ثم حدد **"استرداد".**
 
 لمعرفة المزيد، راجع إضافة تراخيص إلى اشتراك مدفوع لاستخدام مفتاح منتج أو [تمديده.](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key)

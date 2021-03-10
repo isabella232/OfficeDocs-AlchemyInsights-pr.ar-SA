@@ -9,15 +9,14 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom:
-- commerce
 - "9001669"
 - "3736"
-ms.openlocfilehash: 3281144fb921fecb428d918e4f2996824b71f706
-ms.sourcegitcommit: 43b6305cea25cc87ec2226a4f7de1f452671d762
+ms.openlocfilehash: 33eef4182cce2f84275368b3cad88fa94db40e58
+ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50152384"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50602243"
 ---
 # <a name="your-products"></a>منتجاتك
 
@@ -25,7 +24,7 @@ ms.locfileid: "50152384"
 
 1. عرض عدد التراخيص التي تم تعيينها وعدد التراخيص التي تم شراؤها لكل اشتراك.
     > [!NOTE]
-    > لا يزال يتم محاسبتك على التراخيص غير قيد الاستخدام (غير المعينة إلى مستخدم). لكي لا يتم محاسبتك على التراخيص غير استخداما، عليك تقليل عدد التراخيص التي تم شراؤها. للحصول على معلومات حول كيفية إضافة تراخيص أو إزالتها من اشتراك، راجع [كيفية إضافة التراخيص أو تقليلها.](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses)
+    > لا يزال يتم محاسبتك على التراخيص غير قيد الاستخدام (غير المعينة إلى مستخدم). لكي لا يتم محاسبتك على التراخيص غير استخداما، خفف من عدد التراخيص التي تم شراؤها. للحصول على معلومات حول كيفية إضافة تراخيص أو إزالتها من اشتراك، راجع [كيفية إضافة التراخيص أو تقليلها.](https://docs.microsoft.com/alchemyinsights/how-to-add-or-reduce-licenses)
 2. عرض حالة كل اشتراك. لمعرفة كيفية إعادة تنشيط اشتراك، راجع ["إعادة تنشيط اشتراكك".](reactivate-your-subscription.md)
 3. عرض تاريخ التجديد أو انتهاء الصلاحية لكل اشتراك. يمكنك إدارة التجديد عن طريق تحديد الاشتراك، ثم تحديد **تحرير الفوترة المتكررة.** لمعرفة كيفية إدارة الفوترة المتكررة، راجع [إدارة الفوترة المتكررة.](manage-auto-renewal.md)
 4. عرض طريقة الدفع المستخدمة لكل اشتراك. لمعرفة كيفية تغيير طريقة الدفع، راجع ["تغيير طريقة الدفع".](change-payment-method.md)
