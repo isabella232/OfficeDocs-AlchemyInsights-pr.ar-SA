@@ -1,5 +1,5 @@
 ---
-title: المشاكل المتعلقة بتسجيل الدخول إلى تطبيقات Microsoft 365
+title: مشاكل تسجيل الدخول إلى تطبيقات Microsoft 365
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000571"
 - "2559"
-ms.openlocfilehash: 57a4df23dc66eaf4c283dde741be6f415939633d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d736c6c687695824f0ab37b8ffdc8456065353b0
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695166"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709093"
 ---
-# <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>إصلاح تطبيقات Microsoft 365 "الوحدة النمطية للنظام الأساسي الموثوق به للكمبيوتر لا تعمل بشكل صحيح"
+# <a name="fixing-the-microsoft-365-apps-your-computers-trusted-platform-module-is-not-functioning-properly-message"></a>إصلاح رسالة تطبيقات Microsoft 365 "الوحدة النمطية ل "النظام الأساسي الموثوق به" على الكمبيوتر لا تعمل بشكل صحيح
 
 لإصلاح هذا الخطأ، حاول القيام بالخطوات التالية:
 
-- تثبيت آخر التحديثات ل [Windows](https://support.microsoft.com/help/4027667/windows-10-update) و [Office](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5).
-- [مسح بيانات اعتماد Office](https://docs.microsoft.com/eoffice/troubleshoot/error-messages/another-account-already-signed-in#step-3-clear-cached-credentials-on-the-computer) باستخدام "أداره بيانات اعتماد Windows".<br/>
-    **ملاحظه:** لقد تغيرت مسارات التسجيل ل Office 2016 إلى 16.0. (علي سبيل المثال: \Software\Microsoft\Office\16.0\Common\Identity\)
-- جرب [عمليه استرداد المستخدم](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) لإصلاح حالات فشل الوحدة النمطية للنظام الأساسي الموثوق به (TPM).
-- عين EnableADAL = 0 باستخدام الخطوات التالية:  
-    1. انقر بزر الماوس الأيمن فوق "بدء" في Windows ، واختر **تشغيل**، واكتب **regedit**، ثم اختر **موافق**.
-    2. حدد **نعم** للسماح لمحرر التسجيل باجراء تغييرات علي جهازك.
-    3. في "محرر السجل" ، أضف قيمه DWORD ل **EnableADAL** باستخدام اعداد **0** ضمن HKEY_CURRENT_USER \software\microsoft\office\16.0\common\identity.
+- تثبيت آخر التحديثات [لنظامي التشغيل Windows](https://support.microsoft.com/help/4027667/windows-10-update) و [Office.](https://support.office.com/article/update-office-and-your-computer-with-microsoft-update-2ab296f3-7f03-43a2-8e50-46de917611c5)
+- [مسح بيانات اعتماد Office](https://docs.microsoft.com/office/troubleshoot/office-suite-issues/another-account-already-signed-in#step-4-clear-cached-credentials-on-the-computer) باستخدام إدارة بيانات اعتماد Windows.<br/>
+    **ملاحظة:** تم تغيير مسارات التسجيل ل Office 2016 إلى 16.0. (على Ex: \Software\Microsoft\Office\16.0\Common\Identity\)
+- جرب عملية [استرداد المستخدم لإصلاح](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016#symptom-2) حالات فشل الوحدة النمطية (TPM) الموثوق بها في النظام الأساسي.
+- قم بتعيين EnableADAL = 0 باستخدام الخطوات التالية:  
+    1. انقر بزر الماوس الأيمن فوق الزر "ابدأ" في Windows، واختر **"تشغيل"،** ثم اكتب **regedit،** ثم اختر **"موافق".**
+    2. حدد **"نعم"** للسماح ل "محرر السجل" بإجراء تغييرات على جهازك.
+    3. في "محرر السجل"، أضف قيمة DWORD ل **EnableADAL** بإعداد **0** ضمن HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Common\Identity.
 
-لمزيد من المعلومات ، راجع [مشاكل الاتصال في تسجيل الدخول بعد التحديث إلى Office 2016 16.0.7967 علي Windows 10](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016).
+لمزيد من المعلومات، راجع مشاكل الاتصال في تسجيل الدخول بعد التحديث إلى [Office 2016 إصدار 16.0.7967 على Windows 10.](https://docs.microsoft.com/office365/troubleshoot/administration/connection-issue-when-sign-in-office-2016)

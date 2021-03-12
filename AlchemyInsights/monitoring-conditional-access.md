@@ -1,5 +1,5 @@
 ---
-title: مراقبه الوصول الشرطي
+title: مراقبة الوصول المشروط
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -11,35 +11,35 @@ localization_priority: Normal
 ms.custom:
 - "9003769"
 - "6702"
-ms.openlocfilehash: 0687875a3714067e774872d02630564858d71d1b
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
+ms.openlocfilehash: c3bf5dd9066685af2df7ba50f0eb3ba6e891c2a9
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48366415"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708661"
 ---
-# <a name="monitoring-conditional-access-for-exchange"></a>مراقبه الوصول الشرطي ل Exchange
+# <a name="monitoring-conditional-access-for-exchange"></a>مراقبة الوصول الشرطي ل Exchange
 
-سيتلقى المستخدمون الذين يستهدفون access الشرطي بريدا الكترونيا للاعلام إذا لم يستوفوا متطلبات الوصول الخاصة بمؤسسك. لحل هذه المشكلة ، نوصي باجراء واحد أو أكثر من الحلول التالية:
+سيتلقى المستخدمون المستهدفون الذين لديهم وصول مشروط رسالة بريد إلكتروني إعلام إذا لم يلبيوا متطلبات الوصول إلى مؤسستك. لحل هذه المشكلة، نوصي باستخدام حل واحد أو أكثر من الحلول التالية:
 
-- إذا كان الجهاز بريسوميد بالتسجيل ، فيمكنك اشعار المستخدم بالانتقال إلى تطبيق مدخل الشركة والتحقق من انه يظهر في مدخل الشركة. إذا لم يكن كذلك ، فيجب علي المستخدم تسجيل الجهاز.
-- في مدخل Azure ، انتقل إلى التوافق مع جهاز Intune >. ضمن جهاز العرض ، انقر فوق توافق الجهاز. اعرض تقرير توافق الاجهزه للتحقق من انه تم وضع علامة علي جهاز المستخدم علي انه متوافق.
-- في مدخل Azure ، انتقل إلى التوافق مع جهاز Intune >. ضمن أداره ، انقر فوق النهج. في قائمه نهج التوافق ، تحقق من انه تم تعيين ملف تعريف لجهاز المستخدم الخاص بك. إذا لم يتم تعيين اي ملف تعريف ، فلن يتمكن Intune من التحقق من حاله توافق الجهاز.
-- تحرير تعيين الوصول الشرطي الخاص بالمستخدم.
+- إذا كان من المفترض أن يتم تسجيل الجهاز، فنصح المستخدمين بأن يرحلوا إلى تطبيق Company Portal وتحقق من ظهوره في Company Portal. وإذا لم يحدث ذلك، يجب على المستخدم تسجيل الجهاز.
+- في مدخل Azure، انتقل إلى Intune > توافق الجهاز. ضمن "جهاز العرض"، انقر فوق توافق الجهاز. اشاهد تقرير توافق الجهاز للتحقق من وضع علامة على جهاز المستخدم كمتوافق.
+- في مدخل Azure، انتقل إلى Intune > توافق الجهاز. ضمن "إدارة"، انقر فوق "سياسات". في قائمة سياسات التوافق، تحقق من تعيين ملف تعريف إلى جهاز المستخدم. إذا لم يتم تعيين ملف تعريف، لن يتمكن Intune من تأكيد حالة توافق الجهاز.
+- تحرير تعيين الوصول المشروط للمستخدم.
 
-1. في مدخل Azure ، انتقل إلى **Intune**  >  **نهج الوصول المشروط**ل Intune  >  **Policies**.
-2. حدد نهجا من القائمة.
-3. انقر فوق المستخدمون والمجموعات.
-4. لاستهداف نهج معين في شخص ما ، أضفه إلى قائمه التضمين. للتاكد من حذف شخص من النهج ، أضفه إلى قائمه الاستبعاد.
+1. في مدخل Azure، انتقل إلى "سياسات الوصول المشروط إلى **Intune".**  >    >  
+2. حدد نهج من القائمة.
+3. انقر فوق المستخدمين والمجموعات.
+4. لاستهداف نهج معين لأحد الأشخاص، أضفه إلى القائمة "تضمين". للتأكد من حذف شخص من النهج، أضفه إلى القائمة "استبعاد".
 
-الارتباطات المفيدة:
+ارتباطات مفيدة:
 
-[نظره عامه علي توافق الاجهزه](https://docs.microsoft.com/intune/device-compliance-get-started)
+[نظرة عامة حول توافق الجهاز](https://docs.microsoft.com/intune/device-compliance-get-started)
 
-[استكشاف أخطاء المراجع المصدقة](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+[استكشاف الأخطاء الم CA وإصلاحها](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-[نهج استكشاف الأخطاء وإصلاحها](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
+[نهج استكشاف الأخطاء وإصلاحها](https://docs.microsoft.com/troubleshoot/mem/intune/troubleshoot-policies-in-microsoft-intune)
 
-[مراقبه توافق جهاز Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
+[مراقبة توافق أجهزة Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-ملاحظه: هذه الخطوات مفيده فقط في استكشاف الأخطاء وإصلاحها في الوصول الشرطي لميزه Azure Active Directory. من الممكن أيضا اجراء فحص للجهاز حظر الوصول إلى البريد الكتروني باستخدام نهج Exchange. يمكن العثور علي مزيد من المعلومات حول أداره أجهزه Exchange [هنا](<https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141>).
+ملاحظة: هذه الخطوات مفيدة فقط في استكشاف الأخطاء في ميزة الوصول المشروط ل Azure Active Directory وإصلاحها. من الممكن أيضا فحص جهاز يمنع الوصول إلى البريد الإلكتروني الخاص به باستخدام نهج Exchange. يمكن العثور على مزيد من المعلومات حول إدارة أجهزة Exchange [هنا]( https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141) .

@@ -1,5 +1,5 @@
 ---
-title: معلومات حول التعليق القضائي أو الاحتجاز الموضعي
+title: معلومات حول الاحتجاز أو الاحتجاز في مكان الدعاوى القضائية
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,24 +10,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 52484e19-9328-42f4-b675-7e0be9338a8b
-ms.openlocfilehash: 3c0681b8e031f1a060a5c400f9c10760f33749e9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 08579c3cf887de649480480856ba42478d488a0a
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755442"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709309"
 ---
-# <a name="about-litigation-holds-and-in-place-holds"></a>حول قوائم الاحتجاز القضائية وقوائم الاحتجاز الموضعية
+# <a name="about-litigation-holds-and-in-place-holds"></a>حول الاحتجازات القضائية والدعاوى الاحتجازية في مكانها
 
-- لتطبيق احتجاز الدعوى القضائية أو التعليق الموضعي إلى علبه البريد ، يلزم توفر [ترخيص Exchange Online للخطة 2](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) . إذا كانت لديك اي خطه أخرى ، فقم بتعيين ترخيص [أرشفه Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) منفصل إلى الحساب. 
+- لتطبيق الاحتجاز بسبب الدعاوى القضائية أو الاحتجاز المطبق على علبة بريد، يجب الحصول على ترخيص [الخطة 2 من Exchange Online.](https://docs.microsoft.com/office365/servicedescriptions/office-365-platform-service-description/office-365-plan-options) إذا كان لديك أي خطة أخرى، فعين ترخيص أرشفة [Exchange Online](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-archiving-service-description/exchange-online-archiving-service-description) منفصلا للحساب. 
     
-- **لتمكين الاحتفاظ بدعوى قضائية** لمستخدم واحد ، اتبع الخطوات المذكورة [هنا](https://docs.microsoft.com/office365/SecurityCompliance/place-a-mailbox-on-litigation-hold). عند تمكين احتجاز الدعوى القضائية ، يتم وضع المحتوي الموجود في علبه البريد قيد الانتظار.
+- **لتمكين الاحتجاز بسبب الدعاوى القضائية** لمستخدم واحد، اتبع الخطوات الموضحة [هنا.](https://docs.microsoft.com/microsoft-365/compliance/create-a-litigation-hold?view=o365-worldwide#place-a-mailbox-on-litigation-hold) عند تمكين الاحتجاز بسبب الدعاوى القضائية، يتم وضع كل المحتوى في علبة البريد قيد الاحتجاز.
     
-- لتطبيق **تعليق موضعي علي مستخدمين فرديين** أو احتجاز **لكل علب البريد في المؤسسة بأكملها**، يمكنك استخدام نهج الاستبقاء في مركز الأمان والتوافق ل Microsoft 365 باتباع الخطوات المذكورة [هنا]( https://docs.microsoft.com/microsoft-365/compliance/retention-policies).
+- لتطبيق احتجاز  موقع على مستخدمين فرديين أو احتجاز على كل علب البريد في المؤسسة بكاملها، يمكنك استخدام "سياسات الاستبقاء" في مركز الأمان والتوافق في Microsoft 365 باتباع الخطوات الموضحة [هنا.](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
     
     > [!NOTE]
-    > بالنسبة إلى نهج الاستبقاء علي مستوي المؤسسة ، ستتم أضافه المستخدمين الجدد إلى قائمه الاحتجاز تلقائيا. 
+    > بالنسبة إلى سياسات الاستبقاء على مستوى المؤسسة، سيضاف المستخدمون الجدد تلقائيا إلى وضع الانتظار. 
   
-- لعرض محتوي علبه البريد قيد الاحتجاز أو لاكتشافه ، استخدم **البحث والتصدير في eDiscovery**. للحصول علي معلومات حول استخدام **بحث eDiscovery وتصديره**، اتبع الخطوات المذكورة [هنا](https://docs.microsoft.com/microsoft-365/compliance/export-search-results).
+- لعرض محتوى علبة البريد الموضوع قيد الانتظار أو اكتشافه، استخدم **eDiscovery Search and Export**. للحصول على معلومات حول استخدام **eDiscovery Search and Export،** اتبع الخطوات الموضحة [هنا.](https://docs.microsoft.com/microsoft-365/compliance/export-search-results)
     
 

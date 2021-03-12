@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000266"
 - "1867"
-ms.openlocfilehash: d90b60de72cf87a56e3b7f6a792708693f31af00
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b7580f0e609d21bdc13fc07fda0bfd15bdb7a7ca
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770826"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709057"
 ---
 # <a name="sharepoint-online-powershell"></a>Sharepoint Online PowerShell
 
-هل تستخدم PowerShell أو البرامج النصية ضمن Sharepoint Online ؟ قم بزيارة الارتباطات أدناه للحصول علي مزيد من المعلومات.
-- [بدء استخدام SharePoint Online Management Shell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
-- [الاتصال ب SPO PowerShell باستخدام مصادقه متعدد (MFA)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
-- تحتوي [أنماط SharePoint والممارسات (PnP)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) علي مكتبه لأوامر PowerShell التي تسمح لك بتنفيذ إجراءات الاداره المعقدة باتجاه SPO.
+هل تعمل مع PowerShell أو البرامج النصية داخل Sharepoint Online؟ تفضل بزيارة الارتباطات الموجودة أدناه للحصول على مزيد من المعلومات.
+- [بدء العمل باستخدام SharePoint Online Management Shell](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps)
+- [الاتصال ب SPO PowerShell باستخدام المصادقة متعددة العوامل (MFA)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-online/connect-sharepoint-online?view=sharepoint-ps#to-connect-with-multifactor-authentication-mfa)
+- [يحتوي SharePoint Patterns and Practices (PnP)](https://docs.microsoft.com/powershell/sharepoint/sharepoint-pnp/sharepoint-pnp-cmdlets?view=sharepoint-ps) على مكتبة لأوامر PowerShell التي تسمح لك بتنفيذ إجراءات الإدارة المعقدة تجاه SPO.
 
 > [!NOTE]
-> - إذا كنت تواجه مشاكل في الاتصال باستخدام SPO management shell ، فتاكد من انك قمت بتحديث الإصدار الأخير وحاول [أعاده استيراد الوحدة النمطية](https://docs.microsoft.com/powershell/developer/module/importing-a-powershell-module) باستخدام *"الاستيراد-الوحدة النمطية Microsoft.*
-> - إذا كنت تحاول تشغيل البرامج النصية لنموذج الكائن من جانب العميل ، ستحتاج إلى تثبيت [SDK مكونات عميل Sharepoint Online](https://www.microsoft.com/download/details.aspx?id=42038) علي جهازك المحلي.
-> - إذا كنت تواجه مشاكل في تشغيل البرامج النصية من PowerShell ، فقد تحتاج إلى تشغيل PowerShell كمسؤول وتغيير [نهج التنفيذ](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6).
+> - إذا كنت تواجه مشاكل في الاتصال ب shell إدارة SPO، فتأكد من [](https://docs.microsoft.com/powershell/scripting/developer/module/importing-a-powershell-module?view=powershell-7.1) أنك قمت بتحديث الإصدار الأخير وحاول إعادة استيراد الوحدة النمطية باستخدام *"Import-Module Microsoft.Online.SharePoint.PowerShell".*
+> - إذا كنت تحاول تشغيل البرامج النصية لنموذج العنصر من جانب العميل، ستحتاج إلى تثبيت [SDK](https://www.microsoft.com/download/details.aspx?id=42038) لمكونات عميل Sharepoint Online على جهازك المحلي.
+> - إذا كنت تواجه مشاكل في تشغيل البرامج النصية من PowerShell، فقد ترغب في تشغيل PowerShell كمسؤول وتغيير ["نهج التنفيذ".](https://docs.microsoft.com/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-6)

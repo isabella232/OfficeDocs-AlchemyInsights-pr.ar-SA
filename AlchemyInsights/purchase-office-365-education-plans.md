@@ -13,28 +13,28 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: 324b941f3814876ac28b37aa09737c861e68fe99
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 422823c3cf26570facecd408af3a9b43f578e029
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693398"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708769"
 ---
 # <a name="microsoft-365-for-education---approved"></a>Microsoft 365 for Education - معتمد
 
 تم اعتمادك لاستخدام Office 365 Education.  للشراء:
 
-1. انتقل إلى **Billing**  >  [خدمات شراء](https://portal.office.com/AdminPortal/Home#/catalog)الفوترة.
+1. انتقل إلى **خدمات شراء الفوترة.**  >  [](https://portal.office.com/AdminPortal/Home#/catalog)
 
 2. اختر من القائمة الموجودة ضمن **خطط Education‏**.
 
 3. مرر مؤشر الماوس فوق الاشتراك الذي ترغب في شرائه، وبعد ذلك انقر فوق **الشراء الآن**.
 
-4. [إعداد](https://docs.microsoft.com/microsoft-365/education/intune-edu-trial/set-up-office365-edu-tenant)مستأجر Microsoft 365 Education الخاص بك.
+4. [إعداد](https://docs.microsoft.com/microsoft-365/education/deploy/create-your-office-365-tenant)مستأجر Microsoft 365 Education الخاص بك.
 
 **تشغيل الفرق**
 
-- لتشغيل فرق microsoft لكافة المستخدمين ، انتقل **إلى**  >  **إعدادات**  >  [فرق microsoft](https://admin.microsoft.com/Adminportal/Home#/SettingsMultiPivot/:/Settings/L1/SkypeTeams) وانقر فوق خانه الاختيار **تشغيل فرق microsoft لكل المستخدمين** . انقر فوق **حفظ التغييرات**.
+- ل تشغيل Microsoft Teams لجميع المستخدمين، انتقل إلى إعدادات Microsoft Teams وانقر فوق خانة الاختيار تشغيل Microsoft Teams لجميع  >    >  [](https://admin.microsoft.com/Adminportal/Home#/SettingsMultiPivot/:/Settings/L1/SkypeTeams) المستخدمين.  انقر فوق **حفظ التغييرات**.
 
 **التدريس والتعلم عن بُعد**
 

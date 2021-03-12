@@ -1,5 +1,5 @@
 ---
-title: المشاكل-مشاركه-بواسطة outlook-العميل-المدير
+title: problems-sharing-with-outlook-customer-manager
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,19 +14,19 @@ ms.custom:
 - "1868"
 - "9000274"
 ms.assetid: ''
-ms.openlocfilehash: 5f41d5ea0246f5d057a5ae243dd9ffc706ca594e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: be42bed4b3a13ac69a73479e644309213e4f3647
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728238"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709237"
 ---
-# <a name="problems-sharing-with-outlook-customer-manager"></a>المشاكل المتعلقة بالمشاركة مع Outlook Customer Manager
+# <a name="problems-sharing-with-outlook-customer-manager"></a>مشاكل في المشاركة مع Outlook Customer Manager
 
-إذا كنت تواجه مشاكل تتعلق بالمشاركة في Outlook Customer Manager ، فنوصي بان تحاول أولا مسح ذاكره التخزين المؤقت للمستعرض الخاص بك. علي سبيل المثال في Internet Explorer ، يمكنك:
+إذا كنت تواجه مشاكل في المشاركة مع Outlook Customer Manager، نوصيك أولا بمحاولة مسح ذاكرة التخزين المؤقت للمستعرض. على سبيل المثال، في Internet Explorer، يمكنك:
 
-1. انتقل إلى **إعدادات**  >  ال>**العامة** ضمن الإعدادات المؤقتة **لمحفوظات**  >  **الاستعراض وقواعد البيانات**.
-2. حذف ملفات ذاكره التخزين المؤقت لموقع ويب "outlookapps.com."
+1. انتقل إلى **الإعدادات**  >  **العامة >** الإعدادات ضمن ذاكرة التخزين المؤقت **لمحفوظات** الاستعراض  >  **وقواعد البيانات.**
+2. احذف ملفات ذاكرة التخزين المؤقت لموقع ويب "outlookapps.com".
 3. أعد تشغيل Outlook.
 
-لمزيد من المعلومات حول المشاركة ، راجع [مشاركه المعلومات في Outlook Customer Manager](https://support.office.com/article/4f26cc69-67da-4cd5-b344-02d1a4799310%20).
+لمزيد من المعلومات حول المشاركة، راجع [مشاركة المعلومات في Outlook Customer Manager.](https://techcommunity.microsoft.com/t5/outlook-blog/sharing-how-to-keep-your-colleagues-in-the-loop/ba-p/35710)

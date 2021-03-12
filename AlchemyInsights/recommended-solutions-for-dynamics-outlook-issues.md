@@ -1,5 +1,5 @@
 ---
-title: الحلول المستحسنة لمشاكل التخزين في Dynamics 365
+title: الحلول الموصى بها لحلول مشاكل التخزين في Dynamics 365
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -14,31 +14,31 @@ ms.custom:
 - "1451"
 - "1452"
 - "6200008"
-ms.openlocfilehash: 8f8d318c6c1f07342241bf71aab8fd8148e3a9d4
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 5a1c95907a7e9a3287fa9be467d4eb45602c7abe
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49086107"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708805"
 ---
-# <a name="recommended-solutions-for-dynamics-365-storage-issues"></a>الحلول المستحسنة لمشاكل التخزين في Dynamics 365
+# <a name="recommended-solutions-for-dynamics-365-storage-issues"></a>الحلول الموصى بها لحلول مشاكل التخزين في Dynamics 365
 
-* [التطبيق: عدم إرجاع نتائج البحث في "البحث"](https://support.microsoft.com/help/4489111)
+* [التطبيق: لم يتم إرجاع أي نتائج بحث في ما يتعلق بالبحث](https://support.microsoft.com/help/4489111)
 
-* [التطبيق: يظهر الخطا عند فتح التطبيق ل Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007021)
+* [التطبيق: يظهر خطأ عند فتح تطبيق ل Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007021)
 
-* [التطبيق: يظهر البريد الكتروني أو الموعد ك "التعقب معلق"](https://go.microsoft.com/fwlink/p/?linkid=2007022)
+* [التطبيق: يظهر البريد الإلكتروني أو الموعد ك "تعقب معلق"](https://go.microsoft.com/fwlink/p/?linkid=2007022)
 
-* [تطبيق: تظهر صفحه فارغه عند فتح تطبيق ل Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007128)
+* [التطبيق: تظهر صفحة فارغة عند فتح تطبيق ل Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007128)
 
-* [العميل الكامل: تعذر الاتصال بالD365 الخاصة ب Outlook الإصدار 8 إلى الإصدار 9 D365](https://go.microsoft.com/fwlink/p/?linkid=2007023)
+* [العميل الكامل: لا يمكن توصيل D365 for Outlook الإصدار 8.x بالإصدار 9.x مثيل D365](https://go.microsoft.com/fwlink/p/?linkid=2007023)
 
-* [العميل الكامل: "انتظار استرداد صفحه من خادم CRM..." ظهور الرسالة](https://go.microsoft.com/fwlink/p/?linkid=2007129)
+* [العميل الكامل: "في انتظار استرداد صفحة من خادم CRM..." تظهر رسالة](https://go.microsoft.com/fwlink/p/?linkid=2007129)
 
-* [العميل الكامل: تشخيص D365 لمشاكل Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007024)
+* [العميل الكامل: تشخيص مشاكل D365 for Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007024)
 
-* [التطبيق: استكشاف أخطاء تطبيق D365 وإصلاحها ل Outlook](https://go.microsoft.com/fwlink/p/?linkid=2007025)
+* [التطبيق: استكشاف الأخطاء في تطبيق D365 ل Outlook وإصلاحها](https://go.microsoft.com/fwlink/p/?linkid=2007025)
 
-* [التطبيق: كيفيه النشر](https://go.microsoft.com/fwlink/p/?linkid=85)
+* [التطبيق: كيفية النشر](https://docs.microsoft.com/dynamics365/outlook-app/deploy-dynamics-365-app-for-outlook)
 
 * [التطبيق: دليل المستخدم](https://go.microsoft.com/fwlink/p/?linkid=857091)

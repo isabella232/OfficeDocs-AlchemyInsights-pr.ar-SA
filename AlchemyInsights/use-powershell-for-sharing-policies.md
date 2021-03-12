@@ -1,30 +1,31 @@
 ---
-title: استخدام PowerShell لنُهج المشاركة وعلاقات المؤسسة
+title: استخدام PowerShell في نُهج المشاركة وعلاقات المؤسسة
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "3800014"
 - "898"
-ms.openlocfilehash: 717cdd6827e243ac6bf375209a911937c97088d2
-ms.sourcegitcommit: 722e9a0ed058cb1eab2dd053be2418b60f7d4aac
-ms.translationtype: MT
+ms.openlocfilehash: cd1d34e4dae474e61c799ca9234b2f18c718f27b
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/23/2020
-ms.locfileid: "44862023"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50709453"
 ---
-# <a name="use-powershell-for-sharing-policies-and-organization-relationships"></a>استخدام PowerShell لنُهج المشاركة وعلاقات المؤسسة
+# <a name="use-powershell-for-sharing-policies-and-organization-relationships"></a>استخدام PowerShell في نُهج المشاركة وعلاقات المؤسسة
 
 
-لعلاقات المؤسسة الرجاء مراجعة بناء الجملة التفصيلية ومعلومات المعلمة لـ: [Get-FederationInformation](https://docs.microsoft.com/powershell/module/exchange/get-federationinformation)، [New-OrganizationRelationship](https://docs.microsoft.com/powershell/module/exchange/new-organizationrelationship)، [تعيين- المنظمةRelationship](https://docs.microsoft.com/powershell/module/exchange/set-organizationrelationship) [وإزالة-المنظمة.](https://docs.microsoft.com/powershell/module/exchange/remove-organizationrelationship)
+بالنسبة لعلاقات المؤسسة، رجاءً راجع بناء الجملة التفصيلي ومعلومات المعلمات لما يلي: [Get-FederationInformation](https://docs.microsoft.com/powershell/module/exchange/get-federationinformation)، و[New-OrganizationRelationship](https://docs.microsoft.com/powershell/module/exchange/new-organizationrelationship)، و[Set-OrganizationRelationship](https://docs.microsoft.com/powershell/module/exchange/set-organizationrelationship)، و[Remove-OrganizationRelationship](https://docs.microsoft.com/powershell/module/exchange/remove-organizationrelationship).
 
-لإنشاء نهج المشاركة استخدم [سياسة المشاركة الجديدة](https://docs.microsoft.com/powershell/module/exchange/new-sharingpolicy). [لتطبيق نهج مشاركة على علبة بريد أو مستخدم](https://docs.microsoft.com/exchange/sharing/sharing-policies/apply-a-sharing-policy%23use-exchange-online-powershell-to-apply-a-sharing-policy-to-one-or-more-mailboxes) تحتاج إلى استخدام تركيبة من علبة البريد [مجموعة](https://docs.microsoft.com/powershell/module/exchange/set-mailbox) [وعلبة الحصول مع](https://docs.microsoft.com/powershell/module/exchange/get-mailbox) النهج الذي تم إنشاؤه حديثاً. [لتعديل أو تعطيل أو إزالة نهج المشاركة](https://docs.microsoft.com/exchange/sharing/sharing-policies/modify-a-sharing-policy) تحتاج إلى استخدام ["سياسة مشاركة Set-Sharing"](https://docs.microsoft.com/powershell/module/exchange/set-sharingpolicy) و ["إزالة-المشاركة السياسة](https://docs.microsoft.com/powershell/module/exchange/remove-sharingpolicy).
+لإنشاء نهج مشاركة، استخدم [New-SharingPolicy](https://docs.microsoft.com/powershell/module/exchange/new-sharingpolicy). [لتطبيق نهج مشاركة على صندوق بريد أو مستخدم](https://docs.microsoft.com/exchange/sharing/sharing-policies/apply-a-sharing-policy#use-exchange-online-powershell-to-apply-a-sharing-policy-to-one-or-more-mailboxes)، يلزم استخدام مجموعة تتألف من  [Set-Mailbox](https://docs.microsoft.com/powershell/module/exchange/set-mailbox) و[Get-Mailbox](https://docs.microsoft.com/powershell/module/exchange/get-mailbox) مع النهج المُنشأ حديثاً. [لتعديل نهج المشاركة أو تعطيله أو إزالته](https://docs.microsoft.com/exchange/sharing/sharing-policies/modify-a-sharing-policy)، يلزم استخدام  [Set-SharingPolicy](https://docs.microsoft.com/powershell/module/exchange/set-sharingpolicy) و[Remove-SharingPolicy](https://docs.microsoft.com/powershell/module/exchange/remove-sharingpolicy).
 
-**لفهم هذا الموضوع بشكل كامل يرجى قراءة:**
+**للتوصل إلى فهم كامل لهذا الموضوع، رجاءً اقرأ:**
 
-[المشاركة في Exchange عبر الإنترنت](https://docs.microsoft.com/exchange/sharing/sharing)
+[المشاركة في Exchange Online](https://docs.microsoft.com/exchange/sharing/sharing)

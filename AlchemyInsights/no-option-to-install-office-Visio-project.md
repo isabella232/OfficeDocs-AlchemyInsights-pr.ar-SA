@@ -5,26 +5,27 @@ author: pebaum
 manager: mnirkhe
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002414"
 - "4799"
-ms.openlocfilehash: e071894314c349ac574d00c6c13a39b23a4fce16
-ms.sourcegitcommit: f28dafa0f727870038f72bc904da926daf4ec07b
-ms.translationtype: MT
+ms.openlocfilehash: 8f8efc5e888560965bf65c67c82c7deb2043ed01
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/05/2020
-ms.locfileid: "44576979"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708481"
 ---
 # <a name="no-option-to-install-office-visio-or-project"></a>خيار تثبيت Office أو Visio أو Project غير موجود
 
 لتثبيت تطبيقات عميل Office، تأكد من أن لديك اشتراكاً في Office 365 أو Microsoft 365 [يتضمن تطبيقات عميل Office](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e)، مثل Microsoft 365 Business Premium أو Microsoft 365 Apps for business أو Microsoft 365 Apps for enterprise.
 
-**ملاحظة**: [Office Home and Business](https://products.office.com/home-and-business) هو منتج من منتجات [Office للمنزل](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) وليس جزءاً من اشتراك الأعمال. لا يتضمن اشتراك Project Online Essentials إصدار سطح المكتب من Project لذلك التنزيل غير مطلوب. يمكن لمستخدمي Visio الخطة 1 الوصول إلى Visio على الويب نظراً لأن الخطة لا تتضمن تطبيق سطح المكتب من Visio. لا يتوفر تطبيقا سطح المكتب من Project وVisio على Mac
+**ملاحظة**: [Office Home and Business](https://support.microsoft.com/office/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) هو منتج من منتجات [Office للمنزل](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) وليس جزءاً من اشتراك الأعمال. لا يتضمن اشتراك Project Online Essentials إصدار سطح المكتب من Project لذلك التنزيل غير مطلوب. يمكن لمستخدمي Visio الخطة 1 الوصول إلى Visio على الويب نظراً لأن الخطة لا تتضمن تطبيق سطح المكتب من Visio. لا يتوفر تطبيقا سطح المكتب من Project وVisio على Mac
 
-إذا كان لديك اشتراك يتضمن تطبيقات Microsoft 365، فلن ترى خيارًا لتثبيته ما لم يكن لديك [ترخيص معين](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). إذا كنت أنت مسؤول Office 365 المسؤول عن تعيين التراخيص، فاطلع على [تعيين التراخيص للمستخدمين](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home).
+إذا كان لديك اشتراك يتضمن تطبيقات Microsoft 365، فلن يظهر لك خيار تثبيتها إلا إذا كان لديك [ترخيص معين](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). إذا كنت أنت مسؤول Office 365 المسؤول عن تعيين التراخيص، فاطلع على [تعيين التراخيص للمستخدمين](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home).
 
 
 اطلب من كل مستخدم اتباع الخطوات التالية:
