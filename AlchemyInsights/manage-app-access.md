@@ -1,5 +1,5 @@
 ---
-title: أداره الوصول إلى التطبيق
+title: إدارة الوصول إلى التطبيق
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004349"
 - "7763"
-ms.openlocfilehash: 22b122fd6db1e77d334c41b05f4e6198878d705a
-ms.sourcegitcommit: eb685eea3ab312d404d55bfd5594a5d6d68811d1
+ms.openlocfilehash: e2219c0a68a1f5ab560778410c8f86a3a87bc613
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50014704"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708301"
 ---
-# <a name="manage-application-access"></a>أداره الوصول إلى التطبيق
+# <a name="manage-application-access"></a>إدارة الوصول إلى التطبيق
 
-1. لأداره الوصول إلى التطبيقات من خلال تعيينات المستخدمين ، راجع [أداره تعيين المستخدم لتطبيق في Azure Active](https://docs.microsoft.com/azure/active-directory/manage-apps/assign-user-or-group-access-portal)directory.
-    - لتعيين مستخدم واحد أو أكثر إلى تطبيق مباشره ، راجع [تشغيل: تعيين مستخدمين إلى تطبيق](https://docs.microsoft.com/azure/active-directory/manage-apps/assign-user-or-group-access-portal).
-1. لأداره الوصول من خلال الأذونات والموافقة ، راجع
-    - [تكوين الطريقة التي يجب علي المستخدمين الموافقة عليها للتطبيقات](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal). 
-    - [تكوين سير عمل الموافقة علي المسؤول (معاينه)](https://docs.microsoft.com/zure/active-directory/manage-apps/configure-admin-consent-workflow). 
-    - للتعرف علي كيفيه تبسيط تجربه المستخدم عن طريق منح الموافقة علي مسؤول المستاجر علي مستوي التطبيق ، راجع [منح الموافقة علي المسؤول علي مستوي المستاجر لتطبيق ما](https://docs.microsoft.com/azure/active-directory/manage-apps/grant-admin-consent). 
-1. لأداره الوصول إلى التطبيقات من خلال قيود المستاجرين ، راجع [استخدام قيود المستاجرين لأداره الوصول إلى تطبيقات السحابة في ميناء](https://docs.microsoft.com/azure/active-directory/manage-apps/tenant-restrictions). 
-1. استكشاف أخطاء Office 365 Access- [أداره access](https://docs.microsoft.com/office365/troubleshoot/access-management/cannot-add-guest-users-in-m365-admin-center).
+1. لإدارة الوصول إلى التطبيقات من خلال تعيينات المستخدمين، راجع إدارة تعيين [المستخدم لتطبيق في Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/manage-apps/assign-user-or-group-access-portal)
+    - لتعيين مستخدم واحد أو أكثر إلى تطبيق مباشرة، راجع ["تشغيل سريع": تعيين مستخدمين إلى تطبيق.](https://docs.microsoft.com/azure/active-directory/manage-apps/assign-user-or-group-access-portal)
+1. لإدارة الوصول من خلال الأذونات والموافقة، راجع
+    - [تكوين كيفية موافقة المستخدمين النهائيين على التطبيقات.](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-user-consent?tabs=azure-portal) 
+    - [تكوين سير عمل موافقة المسؤول (معاينة).](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-admin-consent-workflow) 
+    - لمعرفة كيفية تبسيط تجربة المستخدم من خلال منح موافقة المسؤول على مستوى المستأجر لتطبيق ما، راجع "منح موافقة المسؤول على مستوى [المستأجر" لتطبيق ما.](https://docs.microsoft.com/azure/active-directory/manage-apps/grant-admin-consent) 
+1. لإدارة الوصول إلى التطبيقات من خلال قيود المستأجر، راجع "استخدام قيود المستأجر" لإدارة الوصول إلى تطبيقات [SaaS السحابية.](https://docs.microsoft.com/azure/active-directory/manage-apps/tenant-restrictions) 
+1. استكشاف الأخطاء في Office 365 Access وإصلاحها - [إدارة Access.](https://docs.microsoft.com/office365/troubleshoot/access-management/cannot-add-guest-users-in-m365-admin-center)

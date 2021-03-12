@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002427"
 - "4711"
-ms.openlocfilehash: 38ff075c86d10cc88ab081701bf443446ba98984
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ff77c25446abf88c49bb6edaad235d909d35ed64
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667829"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708337"
 ---
 # <a name="installing-office-client-apps-on-a-pc-or-mac"></a>تثبيت تطبيقات عميل Office على أجهزة الكمبيوتر الشخصية أو أجهزة Mac
 
 لتثبيت تطبيقات عميل Office، تأكد من أن لديك اشتراكاً في Office 365 أو Microsoft 365 [يتضمن تطبيقات عميل Office](https://support.office.com/article/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e)، مثل Microsoft 365 Business Standard أو Microsoft 365 Apps for business أو Microsoft 365 Apps for enterprise.
 
-**ملاحظة**: [Office Home and Business](https://products.office.com/home-and-business) هو منتج من منتجات [Office للمنزل](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) وليس جزءاً من اشتراك الأعمال. لا يتضمن اشتراك Project Online Essentials إصدار سطح المكتب من Project، لذلك التنزيل غير مطلوب. يمكن لمستخدمي Visio (النظام 1) الوصول إلى Visio للويب نظراً لأن الخطة لا تتضمن تطبيق Visio لسطح المكتب. لا يتوفر تطبيقي Project وVisio لسطح المكتب على أجهزة Mac.
+**ملاحظة**: [Office Home and Business](https://support.microsoft.com/office/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) هو منتج من منتجات [Office للمنزل](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) وليس جزءاً من اشتراك الأعمال. لا يتضمن اشتراك Project Online Essentials إصدار سطح المكتب من Project، لذلك التنزيل غير مطلوب. يمكن لمستخدمي Visio (النظام 1) الوصول إلى Visio للويب نظراً لأن الخطة لا تتضمن تطبيق Visio لسطح المكتب. لا يتوفر تطبيقي Project وVisio لسطح المكتب على أجهزة Mac.
 
-إذا كان لديك اشتراك يتضمن تطبيقات Microsoft 365 ، فلن تتمكن من رؤية خيار لتثبيته الا إذا كان لديك [ترخيص معين](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). إذا كنت أنت مسؤول Office 365 المسؤول عن تعيين التراخيص، فاطلع على [تعيين التراخيص للمستخدمين](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home). بالإضافة إلى ذلك، يمكنك استخدم [إعدادات تنزيل برامج Office‎](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365) لاختيار ما إذا كان بإمكان المستخدمين تثبيت تطبيقات ‎Office‎ على أجهزتهم الخاصة أم لا.
+إذا كان لديك اشتراك يتضمن تطبيقات Microsoft 365، فلن ترى خيارا لتثبيته إلا إذا كان لديك [ترخيص تم تعيينه.](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home) إذا كنت أنت مسؤول Office 365 المسؤول عن تعيين التراخيص، فاطلع على [تعيين التراخيص للمستخدمين](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home). بالإضافة إلى ذلك، يمكنك استخدم [إعدادات تنزيل برامج Office‎](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365) لاختيار ما إذا كان بإمكان المستخدمين تثبيت تطبيقات ‎Office‎ على أجهزتهم الخاصة أم لا.
 
-**ملاحظه**: يوفر لك [تقرير تنشيط Office](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) المستخدمين الذين قاموا بتثبيت تطبيقات Microsoft 365 وتنشيطها علي جهاز واحد علي الأقل.
+**ملاحظة:** يوفر لك تقرير [تنشيط Office](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) طريقة عرض للمستخدمين الذين تم تثبيت تطبيقات Microsoft 365 وتنشيطها على جهاز واحد على الأقل.
 
 ثم اطلب من كل مستخدم اتباع الخطوات التالية:
 
