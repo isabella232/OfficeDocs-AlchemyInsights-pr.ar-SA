@@ -1,5 +1,5 @@
 ---
-title: أضافه المستخدمين أو ازالتهم أو منعهم من تغيير صور ملف التعريف
+title: إضافة مستخدمين أو إزالتهم أو منعهم من تغيير صور ملف التعريف
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001499"
 - "3552"
-ms.openlocfilehash: 58b428e3110c06b8b39d45d327ac514c4245be81
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4fcd6682b2676e724ab6628b28e3b82afbbf0c8b
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687781"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704737"
 ---
-# <a name="add-remove-or-prevent-users-from-changing-profile-photos"></a>أضافه المستخدمين أو ازالتهم أو منعهم من تغيير صور ملف التعريف
+# <a name="add-remove-or-prevent-users-from-changing-profile-photos"></a>إضافة مستخدمين أو إزالتهم أو منعهم من تغيير صور ملف التعريف
 
-- **أضافه صور ملف التعريف:** يمكن أضافه صور ملف التعريف بواسطة مسؤول في [مركز أداره Microsoft 365 أو المستخدمون النشطون](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) أو  [أداره مستخدمي Azure active](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers)directory.  إذا لم يظهر الخيار "تغيير الصورة" ، فتاكد من تعيين ترخيص لهذا المستخدم. يمكن أضافه الصور أو تغييرها بواسطة أحد المستخدمين في ملف تعريف المستخدم الخاص بهم من اي خدمه Microsoft 365 بالنقر فوق الأحرف الاستهلالية/الصورة في الزاوية العلوية اليسرى من الشاشة. للحصول علي مزيد من المعلومات حول أضافه صوره ملف تعريف ، راجع [أضافه صوره ملف التعريف إلى Microsoft 365](https://support.office.com/article/add-your-profile-photo-to-office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7).
+- **إضافة صور ملف التعريف:** يمكن إضافة صور ملف التعريف بواسطة مسؤول في مركز إدارة [Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users) أو المستخدمون النشطون أو [Azure Active Directory User Management.](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers)  إذا لم تشاهد الخيار "تغيير الصورة"، فتأكد من تعيين ترخيص لهذا المستخدم. يمكن لمستخدم إضافة الصور أو تغييرها في ملف تعريف المستخدم الخاص به من أي خدمة من خدمات Microsoft 365 بالنقر فوق الحروف الأولى / الصورة في الزاوية العلوية اليسرى من الشاشة. لمزيد من المعلومات حول إضافة صورة ملف تعريف، راجع "إضافة صورة ملف [التعريف إلى Microsoft 365".](https://support.office.com/article/add-your-profile-photo-to-office-365-2eaf93fd-b3f1-43b9-9cdc-bdcd548435b7)
 
-- **أزاله صور ملف التعريف:** يمكن أزاله صور ملف التعريف بواسطة مسؤول في [أداره مستخدمي Azure active](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers) directory أو بواسطة مستخدم في ملف تعريف المستخدم لفرق Microsoft.
+- **إزالة صور ملف التعريف:** يمكن إزالة صور ملف التعريف من قبل مسؤول في [Azure Active Directory User Management](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/AllUsers) أو بواسطة مستخدم في ملف تعريف المستخدم الخاص به في Microsoft Teams.
 
-- **حظر تغييرات صور ملف التعريف:** يمكن حظر تغييرات الصور لكل من Microsoft 365 * عن طريق أضافه نهج Outlook Web App لكل مقاله ، [أو تامين الصور أو تقييد الأذونات لتغيير صوره ملف تعريف Microsoft 365](https://answers.microsoft.com/msoffice/forum/msoffice_o365admin-mso_manage/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d).
+- **حظر تغييرات صورة ملف التعريف:** يمكن حظر تغييرات الصور لجميع Microsoft 365* عن طريق إضافة نهج Outlook Web App لكل مقالة أو تأمين الصور أو تقييد الأذونات لتغيير صورة ملف تعريف [Microsoft 365.](https://answers.microsoft.com/msoffice/forum/msoffice_o365admin-mso_dep365-mso_o365b/locking-photos-or-restricting-permissions-to/1d19ae4f-de5d-4c3d-a0ad-4b8b8ac32e3d)
 
-* يرجى ملاحظه ان فرق Microsoft لا تدعم حاليا نهج Outlook Web App لحظر تغييرات الصور ولكنها تخطط لأضافه دعم لهذه الميزة في 2020 المبكر.
+*لا يدعم Microsoft Teams حاليا نهج Outlook Web App لحظر تغييرات الصور، ولكنه يخطط لإضافة دعم لهذه الميزة في مطلع عام 2020.

@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000734"
 - "2657"
-ms.openlocfilehash: 683ca12c8f6e2511311c10ab5c4599ee66c08eb8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 24a55417df0f89063fbdd9ade6d104be4f8ab49c
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47794321"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50704593"
 ---
-# <a name="manage-meeting-policies-in-microsoft-teams"></a>أداره نهج الاجتماع في فرق Microsoft
+# <a name="manage-meeting-policies-in-microsoft-teams"></a>إدارة سياسات الاجتماعات في Microsoft Teams
 
-**ملاحظه: قد يستغرق الأمر مده تصل إلى 24 ساعة لكي يسري مفعول المستخدمين.** قد لا تتمكن من اجراء تغييرات علي النهج التي تم إنشاؤها حديثا علي الفور ؛ انتظر 4 ساعات وحاول تعديل نهج تم إنشاؤه حديثا مره أخرى.
+**ملاحظة: قد يستغرق الأمر ما يصل إلى 24 ساعة حتى يتم تأثير تغييرات النهج للمستخدمين.** قد لا تتمكن من إجراء تغييرات على السياسات التي تم إنشاؤها حديثا على الفور؛ انتظر 4 ساعات ثم حاول تعديل نهج تم إنشاؤه حديثا مرة أخرى.
 
-يتم استخدام نهج الاجتماع للتحكم في الميزات المتوفرة للمشاركين في الاجتماع للاجتماعات التي تمت جدولتها بواسطة المستخدمين في مؤسستك. قد لا يتم تطبيق بعض ميزات نهج الاجتماع في مركز أداره الفرق حتى الآن (يتم تسميه هذه الميزات "قريبا" في الوثائق). في هذه الحالة ، أو إذا كنت تتلقي رسالة خطا مثل "لا يمكننا تحديث النهج الآن ولكن جربه مره أخرى لاحقا" في مركز أداره فرق Microsoft ، نوصي باستخدام PowerShell لإنشاء سياسات اجتماعات الفرق أو تعديلها. 
+تستخدم سياسات الاجتماعات للتحكم في الميزات المتوفرة للمشاركين في الاجتماع للاجتماعات المجدولة بواسطة المستخدمين في مؤسستك. قد لا يتم تنفيذ بعض ميزات سياسات الاجتماعات في مركز إدارة Teams بعد (تسمى هذه الميزات "قريبا" في الوثائق). في هذه الحالة، أو إذا كنت تحصل على خطأ مثل "لا يمكننا تحديث النهج الآن ولكن حاول مرة أخرى لاحقا" في مركز إدارة Microsoft Teams، نوصي باستخدام PowerShell لإنشاء نهج اجتماعات Teams أو تعديلها. 
 
-للحصول علي مزيد من المعلومات حول نهج الاجتماع ، راجع الموارد التالية:
+لمزيد من المعلومات حول سياسات الاجتماع، راجع الموارد التالية:
 
-- للتعرف علي كيفيه إنشاء النهج واجراء التغييرات وتعيين المستخدمين إلى النهج ، راجع [أداره نهج الاجتماع في الفرق](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
+- للتعرف على كيفية إنشاء النهج، وأية تغييرات، وتعيين مستخدمين إلى النهج، راجع إدارة نهج [الاجتماعات في Teams.](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams)
 
-- لاجراء تغييرات علي النهج باستخدام أوامر PowerShell cmdlets ، راجع [نظره عامه حول الفرق في powershell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview). 
-    - أنت بحاجه إلى استخدام [الوحدة النمطية ل PowerShell ل Skype For business](https://www.microsoft.com/download/details.aspx?id=39366) لنهج اجتماعات الفرق. 
-    - راجع [وثائق cmdlets لكستيمسميتينجبوليسي](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps) للحصول علي مزيد من المعلومات.
+- بإجراء تغييرات على النهج باستخدام PowerShell cmdlets، راجع [نظرة عامة على Teams PowerShell.](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) 
+    - أنت بحاجة إلى استخدام وحدة [Skype for Business PowerShell النمطية](https://docs.microsoft.com/skypeforbusiness/set-up-your-computer-for-windows-powershell/download-and-install-the-skype-for-business-online-connector) لنهج اجتماعات Teams. 
+    - راجع [وثائق cmdlets *-CsTeamsMeetingPolicy cmdlets](https://docs.microsoft.com/search/?search=CsTeamsMeetingPolicy&view=skype-ps) للحصول على مزيد من المعلومات.
 
