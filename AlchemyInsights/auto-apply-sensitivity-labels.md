@@ -1,5 +1,5 @@
 ---
-title: تطبيق تسميات الحساسية تلقائيا
+title: تطبيق تسميات الحساسية التلقائية
 ms.author: pebaum
 author: pebaum
 manager: laurawi
@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: 8f316ad92ff31e28c3b3ffd25f25bd03ee159380
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fb05213b7b1efecbabc3e25f6c4587b0d303f783
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715152"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707221"
 ---
-# <a name="auto-apply-sensitivity-labels"></a>تطبيق تسميات الحساسية تلقائيا
+# <a name="auto-apply-sensitivity-labels"></a>تطبيق تسميات الحساسية التلقائية
 
-يمكن تطبيق تسميات الحساسية يدويا علي المحتوي حسب المستخدمين ، أو يمكنك تكوينها ليتم تطبيقها تلقائيا علي المحتوي.
+يمكن تطبيق تسميات الحساسية يدويا على المحتوى من قبل المستخدمين، أو يمكنك تكوينها لتطبق تلقائيا على المحتوى.
 
-تطبيق تسميات الحساسية تلقائيا يزيل الحاجة إلى تدريب المستخدمين علي كيفيه تصنيف المحتوي والحاجة إلى اعلامهم بتكوينات النهج.
+يؤدي تطبيق تسميات الحساسية تلقائيا إلى إزالة الحاجة إلى تدريب المستخدمين على كيفية تصنيف المحتوى وعلى الحاجة إلى إعلامهم بتكوينات النهج.
 
-لتطبيق التسميات تلقائيا ، يجب القيام بما يلي:
+لتطبيق التسميات تلقائيا، يجب القيام بما يلي:
 
-- اشتراك في حماية البيانات في Azure P2
-- [تنزيل عميل التسمية الموحدة لحماية البيانات في Azure وتثبيته](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- اشتراك Azure Information Protection P2
+- [تنزيل عميل التسمية الموحد لحماية المعلومات من Azure وتثبيته](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-نحن نعمل علي دعم أصلي لا يتطلب عميل التسمية الموحدة لحماية معلومات Azure في المستقبل.
+نحن نعمل على الدعم الأصلي الذي لن يتطلب عميل التسمية الموحد لحماية البيانات من Azure في المستقبل.
 
-حاليا ، يعتمد Windows فقط عميل التسمية الموحد.  الميزة غير معتمده بعد علي Mac و iOS و Android.
+حاليا، يدعم Windows فقط عميل التسمية الموحد.  هذه الميزة غير مدعمة بعد على أجهزة Mac و iOS و Android.
 
-للحصول علي مزيد من المعلومات حول تسميات الحساسية وتطبيقها تلقائيا علي المحتوي ، راجع:
+لمزيد من المعلومات حول تسميات الحساسية وتطبيقها تلقائيا على المحتوى، راجع:
 
-- [نظره عامه علي تسميات الحساسية](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
-- [تطبيق تسميه حساسية علي المحتوي تلقائيا](https://docs.microsoft.com/office365/securitycompliance/apply_sensitivity_label_automatically)
+- [نظرة عامة على تسميات الحساسية](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- [تطبيق تسمية حساسية على المحتوى تلقائيا](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)

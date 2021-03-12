@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003051"
 - "5796"
-ms.openlocfilehash: 5a8e374705d1d42bda96010e316859e801c234ed
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 19010179dd7e40139678ea3eaf7baae237d304f2
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47716448"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707329"
 ---
 # <a name="install-sharepoint-apps"></a>تثبيت تطبيقات SharePoint
 
-تطبيقات ل SharePoint هي التطبيقات الصغيرة السهلة الاستخدام والتي تقوم بتنفيذ مهام أو العنوان احتياجات معينه للاعمال.
+تطبيقات SharePoint هي تطبيقات صغيرة وسهلة الاستخدام وموحدة تقوم بتنفيذ مهام أو تعالج احتياجات أعمال معينة.
 
-- [أضافه تطبيقات](https://support.microsoft.com/office/ef9c0dbd-7fe1-4715-a1b0-fe3bc81317cb)  من مؤسستك أو من مواقع ويب تابعه لجات خارجيه. ملاحظه ، التطبيقات التابعة لجهة خارجيه غير معتمده من Microsoft. لمزيد من المعلومات ، راجع  [الحصول علي التعليمات لتطبيق SharePoint الذي قمت بتثبيته](https://support.office.com/article/get-help-for-a-sharepoint-app-you-installed-fd98af7f-6af0-4573-8360-8f5631c6ab21).
--   [أضافه جزء تطبيق إلى صفحه](https://support.microsoft.com/office/6f06c0b7-44b8-4c69-b4ad-85197eee8d78).
--   [تكوين إعدادات مخزن sharepoint](https://docs.microsoft.com/sharepoint/configure-sharepoint-store-settings)  لأي تطبيق شراء ، وتحديد ما إذا كان بإمكان المستخدمين الحصول علي التطبيقات من متجر SharePoint.
--   إذا كنت تواجه مشاكل متعلقة بالتطبيق ، فيمكنك محاولة  [أزاله](https://support.microsoft.com/office/03198d1b-c33b-498d-9469-af641a587d6c)  التطبيق  [وأعاده اضافته](https://support.microsoft.com/office/ef9c0dbd-7fe1-4715-a1b0-fe3bc81317cb)  .
+- [إضافة تطبيقات](https://support.microsoft.com/office/ef9c0dbd-7fe1-4715-a1b0-fe3bc81317cb)  من مؤسستك أو من مواقع ويب جهة خارجية. تجدر الإشارة إلى أن تطبيقات الأطراف الخارجية غير معتمدة من قبل Microsoft. لمزيد من المعلومات، راجع ["الحصول على تعليمات" لتطبيق SharePoint قمت بتثبيته.](https://support.office.com/article/get-help-for-a-sharepoint-app-you-installed-fd98af7f-6af0-4573-8360-8f5631c6ab21)
+-   [إضافة جزء تطبيق إلى صفحة.](https://support.microsoft.com/office/6f06c0b7-44b8-4c69-b4ad-85197eee8d78)
+-   [قم بتكوين إعدادات متجر SharePoint](https://docs.microsoft.com/sharepoint/configure-sharepoint-store-settings)  لأي عملية شراء للتطبيقات، مع تحديد ما إذا كان يمكن للمستخدمين الحصول على تطبيقات من متجر SharePoint.
+-   إذا كنت تواجه مشاكل في التطبيق، يمكنك [](https://support.microsoft.com/office/03198d1b-c33b-498d-9469-af641a587d6c) محاولة إزالة التطبيق [ثم](https://support.microsoft.com/office/ef9c0dbd-7fe1-4715-a1b0-fe3bc81317cb) إعادة إضافته.
 
-للحصول علي مزيد من المعلومات ، راجع  [أضافه تطبيق إلى موقع](https://support.microsoft.com/office/f9c0dbd-7fe1-4715-a1b0-fe3bc81317cb).
+لمزيد من المعلومات، راجع ["إضافة تطبيق إلى موقع".](https://support.microsoft.com/office/add-an-app-to-a-site-ef9c0dbd-7fe1-4715-a1b0-fe3bc81317cb)

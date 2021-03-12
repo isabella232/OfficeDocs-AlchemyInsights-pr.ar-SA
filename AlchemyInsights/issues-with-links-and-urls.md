@@ -1,9 +1,9 @@
 ---
-title: المشاكل المتعلقة بالارتباطات وعناوين Url
+title: المشكلات المتعلقة بالارتباطات وعناوين URL
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
-ms.date: 01/15/2021
+ms.date: 02/25/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,45 +13,45 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: 24885d873d6471a72ae66581ad1ceb0a19b664f7
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
-ms.translationtype: MT
+ms.openlocfilehash: f682afc2006957a83d02973d28e2a07ee63ac888
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974157"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707869"
 ---
-# <a name="issues-with-links-and-urls"></a>المشاكل المتعلقة بالارتباطات وعناوين Url
+# <a name="issues-with-links-and-urls"></a>المشكلات المتعلقة بالارتباطات وعناوين URL
 
-أعاده توجيه عناوين Url للرد/الرد (يتم الآن لكل من التعبيرات) هي عناوين Url التي يستخدمها النظام الأساسي لهويه Microsoft لإرجاع الرموز المميزة المطلوبة للتطبيق. للحصول علي معلومات حول عناوين Url هذه ، راجع المقالات التالية:
+عنوان URL لإعادة التوجيه، أو عناوين URL للردود (وكلا التعبيرين مرادف للآخر)، هي عناوين URL التي يستخدمها النظام الأساسي للهويات في Microsoft في إرجاع الرموز المميزة التي يطلبها التطبيق. للاطلاع على معلومات حول عناوين URL هذه، راجع المقالات التالية:
 
-- [تدفقات المصادقة وسيناريوهات التطبيقات](https://docs.microsoft.com/azure/active-directory/develop/authentication-flows-app-scenarios) -معلومات حول معرفات uri لأعاده التوجيه في صفحه **تسجيل التطبيق** لكل سيناريو.
-- [أعاده توجيه URI/قيود عنوان URL للرد والقيود](https://docs.microsoft.com/azure/active-directory/develop/reply-url)
+- [عمليات تدفق المصادقة وسيناريوهات التطبيق](https://docs.microsoft.com/azure/active-directory/develop/authentication-flows-app-scenarios) - معلومات حول عناوين URL لإعادة التوجيه في صفحة **تسجيل التطبيق** لكل سيناريو.
+- [القيود والحدود لعنوان URL لإعادة التوجيه أو عناوين URL للردود](https://docs.microsoft.com/azure/active-directory/develop/reply-url)
 
-**لا اعرف كيفيه تسجيل عنوان URL لأعاده توجيه URI/الرد لتطبيقي**
+**لا أعرف كيفية تسجيل عنوان URL الصحيح لإعادة التوجيه، أو عناوين URL للردود، من أجل التطبيق**
 
-عندما تقوم بتسجيل الدخول باستخدام التطبيق الذي تقوم بتطويره ، إذا كان مربع الحوار تسجيل الدخول يعرض **AADSTS50011: لا يتطابق عنوان url الخاص بالرد <your app ID> المحدد في الطلب علي عناوين url للرد المكونة للتطبيق**، ستحتاج إلى اضافته إلى تسجيل التطبيقات ، وهو URI لأعاده التوجيه الذي استخدمته في التعليمات
+عندما تسجّل الدخول باستخدام التطبيق الذي تعمل على تطويره، إذا تم عرض مربع حوار تسجيل الدخول الرسالة التالية **AADSTS50011: عنوان URL للرد المحدد في الطلب لا يطابق عناوين URL للردود التي تم تكوينها للتطبيق <your app ID>**، فسوف يلزمك أن تضيف إلى تسجيل التطبيق عنوان URL لإعادة التوجيه والذي استخدمته تعليماتك البرمجية في طلب الرمز المميز المُقدَّم إلى النظام الأساسي للهويات في Microsoft.
 
-لأضافه عنوان URL للرد ، انتقل إلى علامة التبويب **المصادقة** في صفحه **تسجيل التطبيق** في Azure portal وأضف إدخالا في القسم **أعاده توجيه URIs** . يتم كتابه معرفات Uri لأعاده التوجيه (ويب أو الهاتف المحمول/سطح المكتب). تعتمد القيمة التي يجب إدخالها علي نوع التطبيق الذي تقوم بإنشاءه ، كما هو موضح أدناه:
+لإضافة عنوان URL للردود، انتقل إلى علامة تبويب **مصادقة** في صفحة **تسجيل التطبيق** لديك في مدخل Azure، وأضِف إدخالاَ في المقطع **عناوين URL لإعادة التوجيه**. تعتمد القيمة التي يلزم إدخالها على نوع التطبيق الذي تنشئه، كما هو موضح أدناه:
 
-- بالنسبة إلى تطبيقات ويب أحاديه الصفحة ، فان عنوان URL للرد هو عنوان URL في التطبيق. راجع [تسجيل تطبيق الصفحة الواحد](https://docs.microsoft.com/azure/active-directory/develop/scenario-spa-app-registration#register-a-redirect-uri) أو [تسجيل تطبيق تطبيق ويب باستخدام مدخل Azure](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration?tabs=aspnetcore#register-an-app-using-azure-portal)
-- بالنسبة إلى تطبيقات سطح المكتب ، تعتمد القيمة التي يجب اختيارها علي:
-    - النظام الأساسي (MacOS مختلف عن Windows أو Linux)
-    - الطريقة التي تحصل فيها علي الرمز المميز (بطريقه تفاعليه ، باستخدام مصادقه Windows المتكاملة [إيفا] أو باستخدام username/password).
-    للحصول علي التفاصيل ، راجع [تطبيقات سطح المكتب-تسجيل التطبيق-أعاده توجيه URi](https://docs.microsoft.com/azure/active-directory/develop/scenario-desktop-app-registration#redirect-uris)
-- بالنسبة لتطبيقات الاجهزه المحمولة ، تتوقف أعاده توجيه URI علي:
-    - النظام الأساسي (iOS/Android/أوب)
-    - ستساعدك المعلومات المستخدمة لإنشاء التطبيق ، مثل معرف الحزمة في نظام التشغيل iOS ، سيساعدك تسجيل الدخول وتجزئه التوقيع علي Android. للحصول علي التفاصيل ، راجع [تكوين النظام الأساسي وقم باعاده توجيه uri](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris).
-
-> [!NOTE]
-> واجات برمجه تطبيقات ويب وبعض الطرق الصامتة لجلب الرموز المميزة (إيفا واسم المستخدم/كلمه المرور) غير مطلوبه لأعاده توجيه URI.
-
-**لقد قمت بنشر تطبيق ويب الخاص بي وعند اختبار التطبيق المنشور ، تظهر رسالة عدم تطابق عنوان url للرد**
-
-أضف معرفات Uri لأعاده التوجيه لكل المواقع التي تقوم بنشر تطبيق ويب عليها. لمزيد من المعلومات ، راجع [تسجيل تطبيق web app باستخدام مدخل Azure](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration).
+- بالنسبة للتطبيقات وتطبيقات الويب ذات الصفحة الواحدة، يكون عنوان URL للرد هو عنوان URL في تطبيقك. راجع [تسجيل تطبيق من صفحة واحدة](https://docs.microsoft.com/azure/active-directory/develop/scenario-spa-app-registration#register-a-redirect-uri) أو [تسجيل تطبيق ويب باستخدام مدخل Azure](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration?tabs=aspnetcore#register-an-app-using-azure-portal)
+- بالنسبة لتطبيقات سطح المكتب، تعتمد القيمة التي يلزم اختيارها على:
+    - النظام الأساسي (يختلف نظام MacOS عن Windows أو Linux)
+    - طريقة الحصول على الرمز المميز (بشكل تفاعلي، أو باستخدام تدفق رموز الجهاز، أو باستخدام مصادقة Windows المتكاملة [IWA]، أو باستخدام اسم المستخدم/كلمة المرور).
+    للاطلاع على التفاصيل، راجع [تطبيقات سطح المكتب - تسجيل التطبيق - عناوين URL لإعادة التوجيه](https://docs.microsoft.com/azure/active-directory/develop/scenario-desktop-app-registration#redirect-uris)
+- بالنسبة لتطبيقات الأجهزة المحمولة، تعتمد عناوين URL لإعادة التوجيه على:
+    - النظام الأساسي (iOS/Android/UWP)
+    - المعلومات المُستخدمة في إنشاء التطبيق، مثل معرّف المجموعة في نظام التشغيل iOS واسم الحزمة وتجزئة التوقيع، تساعدك في تسجيل تطبيق مدخل Azure على نظام التشغيل Android. للاطلاع على التفاصيل، راجع [تكوين النظام الأساسي وعناوين URL لإعادة التوجيه](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris).
 
 > [!NOTE]
-> أضف عنوان URI لأعاده التوجيه لموقع بعد نشر التطبيق في ذلك الموقع.
+> واجهات برمجة تطبيقات الويب وبعض الطرق التلقائية للحصول على الرموز المميزة (مصادقة Windows المتكاملة واسم المستخدم/كلمة المرور) إلا تتطلب عنوان URL لإعادة التوجيه.
 
-**تعذر تسجيل عناوين Url للردات كافيه**
+**لقد نشرت تطبيق الويب الخاص بي، وعند اختبار التطبيق المنشور أجد رسالة تفيد بعدم تطابق عنوان URL للردود**
 
-أنت بائع البريد المستقل (ISV) ولديك معرفات واحده أو أكثر لأعاده توجيه البريد الخاصة بكل عميل لك. تريد الترحيل من ADAL/Azure AD v 1.0 إلى مسال/النظام الأساسي لهويه Microsoft وقد وصلت إلى [الحد الأقصى لعدد uri أعاده التوجيه](https://docs.microsoft.com/azure/active-directory/develop/reply-url#maximum-number-of-redirect-uris). لحل هذه المشكلة ، [أضف التوجيه uri إلى أساسيات الخدمة](https://docs.microsoft.com/azure/active-directory/develop/reply-url#add-redirect-uris-to-service-principals) التي تتوافق مع كل عميل.
+يمكنك إضافة عناوين URL لإعادة التوجيه لكل المواقع التي تنشر فيها تطبيق الويب الخاص بك. للحصول على مزيد من المعلومات، راجع [تسجيل تطبيق ويب باستخدام مدخل Azure](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration).
+
+> [!NOTE]
+> يمكنك إضافة عناوين URL لإعادة التوجيه لأحد المواقع مباشرةً بعد نشر التطبيق في ذلك الموقع.
+
+**لا يمكنني تسجيل عدد كافٍ من عناوين URL للردود**
+
+أنت مورد برامج مستقل ولديك واحد أو أكثر من عناوين URL لإعادة التوجيه لكل عميل لديك. أنت تريد الترحيل من ADAL/Azure AD v1.0 إلى MSAL/النظام الأساسي للهويات في Microsoft، ووصلت إلى [أقصى عدد من عناوين URL لإعادة التوجيه](https://docs.microsoft.com/azure/active-directory/develop/reply-url#maximum-number-of-redirect-uris). لحل هذه المشكلة، [أضِف عناوين URL لإعادة التوجيه إلى أساسيات الخدمة](https://docs.microsoft.com/azure/active-directory/develop/reply-url#add-redirect-uris-to-service-principals) التي تتوافق مع كل عميل من عملائك.

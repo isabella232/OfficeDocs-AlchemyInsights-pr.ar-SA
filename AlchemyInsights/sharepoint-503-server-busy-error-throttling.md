@@ -1,8 +1,8 @@
 ---
-title: تقييد SharePoint Online
-ms.author: pebaum
-author: pebaum
-ms.date: 04/21/2020
+title: SharePoint Online - التدويل
+ms.author: v-smandalika
+author: v-smandalika
+ms.date: 01/05/2021
 ms.audience: ITPro
 ms.topic: article
 ms.service: o365-administration
@@ -13,26 +13,20 @@ ms.custom:
 - "9000149"
 - "1662"
 - "3491"
-ms.openlocfilehash: 21d0f8d0118d92562b425921742513157563b5fb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 01ce7a0266eb15a04f70826cc3f5e135f384c13b
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773834"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50707545"
 ---
-# <a name="sharepoint-online-throttling"></a>تقييد SharePoint Online
+# <a name="sharepoint-online-throttling"></a>االلجهاز في SharePoint Online
 
-**هام**: خلال هذه الأوقات غير المسبوقة، نقوم باتخاذ الخطوات اللازمة لضمان توفر خدمات SharePoint Online و OneDrive بشكل كبير – الرجاء زيارة [تعديلات الميزات المؤقتة لـ SharePoint Online](https://aka.ms/ODSPAdjustments) للحصول على مزيد من المعلومات.
+يستخدم SharePoint Online التقييد للمحافظة على الأداء الأمثل وإمكانية الاعتماد على خدمة SharePoint Online. يحد التقييد من عدد إجراءات المستخدم أو المكالمات المتزامنة (بواسطة البرنامج النصي أو التعليمات البرمجية) لمنع الاستخدام المفرط للموارد. 
 
-**خادم 503 الخطا مشغول**
+لمزيد من المعلومات حول عملية الحظر، راجع "تجنب التعرض لحظر" أو "الحظر" في [SharePoint Online.](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online)
 
-قد يتلقى المستخدمون خطا في 503 الخادم عند محاولة الانتقال إلى مواقع SharePoint أو OneDrive. 
+إذا كنت تعتقد أن هذا الخطأ غير مرتبط باللجث، يمكنك التحقق مما إذا كانت هناك صيانة نشطة تحدث على المستأجر من خلال الانتقال إلى [مركز الرسائل.](https://portal.office.com/adminportal/home#/MessageCenter)
 
-قد يعود سبب هذا الخطا إلى التحكم في خدمه SharePoint. يستخدم SharePoint Online التقييد للمحافظة على الأداء الأمثل وإمكانية الاعتماد على خدمة SharePoint Online. يحد التقييد من عدد إجراءات المستخدم أو المكالمات المتزامنة (بواسطة البرنامج النصي أو التعليمات البرمجية) لمنع الاستخدام المفرط للموارد. 
-
-للحصول علي مزيد من المعلومات حول التحكم ، يمكنك [تجنب الوصول إلى SharePoint Online أو حظره](https://docs.microsoft.com/sharepoint/dev/general-development/how-to-avoid-getting-throttled-or-blocked-in-sharepoint-online).
-
-إذا كنت تعتقد ان هذا الخطا غير متعلق بالتقييد ، يمكنك التحقق من وجود صيانة نشطه علي المستاجر عن طريق الانتقال إلى [مركز الرسائل](https://portal.office.com/adminportal/home#/MessageCenter).
-
- أخيرا ، تاكد من زيارة صفحه [حماية الخدمة](https://portal.office.com/adminportal/home#/servicehealth) للتحقق من اي نصائح/حوادث قد تحدث.
+ وأخيرا، تأكد من زيارة صفحة ["صحة](https://portal.office.com/adminportal/home#/servicehealth) الخدمة" للتحقق من وجود أي استشارات/أحداث قد تحدث.
 

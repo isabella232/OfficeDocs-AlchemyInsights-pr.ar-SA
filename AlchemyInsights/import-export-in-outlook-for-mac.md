@@ -1,5 +1,5 @@
 ---
-title: الاستيراد-التصدير-outlook-for mac
+title: import-export-in-outlook-for-mac
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,27 +14,27 @@ ms.custom:
 - "1800027"
 - "1222"
 ms.assetid: ''
-ms.openlocfilehash: 7ce37e2ea3efbc762d5298311eac6054d238224c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fcba3e4b8979bd75e97ac67282c7b7893d4d7abc
+ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667901"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "50708085"
 ---
 # <a name="importexport-in-outlook-for-mac"></a>استيراد/تصدير في Outlook for Mac 
 
-صدر
-1. علي علامة التبويب **أدوات** ، اختر **تصدير**.
-2. في المربع **حفظ باسم** ، ضمن **المفضلة**، اختر مجلد **التنزيلات** ، وحدد **حفظ**.
-3. عندما تري الاعلام باكتمال عمليه التصدير ، حدد **إنهاء**.
+تصدير:
+1. على علامة **التبويب "أدوات"،** اختر **"تصدير".**
+2. في المربع **"حفظ باسم"،** ضمن **"المفضلة"،** اختر مجلد **"التنزيلات"،** وحدد **"حفظ".**
+3. عندما ترى إعلاما بإكمال عملية التصدير، حدد **"إنهاء".**
 
-ستيراد
-1. علي علامة التبويب **أدوات** ، اختر **استيراد**.
-2. حدد **ملف أرشيف Outlook for Windows (.pst)**  >  **Continue**.
-3. حدد موقع الملف .pst علي جهاز Mac ، ثم اختر **استيراد**.
-4. عند اكتمال عمليه الاستيراد ، اختر **إنهاء**.
-5. تظهر العناصر التي تم استيرادها في جزء التنقل ضمن **علي جهاز الكمبيوتر الخاص بي**.
+استيراد:
+1. على علامة **التبويب "أدوات"،** اختر **"استيراد".**
+2. حدد **ملف أرشيف Outlook for Windows (pst.)**  >  **متابعة.**
+3. حدد موقع ملف .pst على جهاز Mac، ثم اختر **"استيراد".**
+4. عند اكتمال عملية الاستيراد، اختر **"إنهاء".**
+5. تظهر العناصر المستوردة في جزء التنقل ضمن **"على جهاز الكمبيوتر".**
 
-للحصول علي المجموعة الكاملة من إرشادات الاستيراد والتصدير ل Outlook for Mac [، راجع استيراد البريد الكتروني وجات الاتصال والتقويم وتصديرها في outlook](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac). 
+للحصول على مجموعة كاملة من إرشادات الاستيراد والتصدير ل Outlook for Mac، راجع استيراد البريد الإلكتروني وجهات الاتصال [والتقويم](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac)وتصديرها في Outlook. 
 
-لتلقي الدعم في التطبيق بالنسبة إلى مشاكل Outlook for Mac ، افتح Outlook وحدد **تعليمات**  >  **الاتصال بقسم الدعم**. اكتب سؤالك سيقوم فريق دعم Outlook for Mac بالتواصل معك. [الاتصال بقسم الدعم في Outlook for Mac](https://go.microsoft.com/fwlink/?linkid=2002400&clcid=0x409)
+لتلقي مشاكل الدعم داخل التطبيق ل Outlook for Mac، افتح Outlook وحدد **"تعليمات**  >  **الاتصال بالدعم".** اكتب سؤالك وسيتواصل معك أحد أعضاء فريق دعم Outlook for Mac. [الاتصال بالدعم في Outlook for Mac](https://support.microsoft.com/office/contact-support-within-outlook-for-mac-d0410177-8e65-4487-93f7-206a3a3d71a8)
