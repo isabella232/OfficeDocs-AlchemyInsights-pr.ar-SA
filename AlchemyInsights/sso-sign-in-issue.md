@@ -1,10 +1,11 @@
 ---
-title: مشاكل تسجيل الدخول السلسة لمستخدم تسجيل الدخول إلى تسجيل الدخول
-ms.author: v-jmathew
-author: v-jmathew
-manager: scotv
-ms.audience: Admin
+title: استكشاف مشاكل تسجيل الدخول المفرد السلس (SSO) وإصلاحها
+ms.author: v-smandalika
+author: v-smandalika
+manager: dansimp
+audience: Admin
 ms.topic: article
+ms.date: 03/16/2021
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
@@ -12,37 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "7811"
-ms.openlocfilehash: 347ef8f8176583f2a7c15fa82435eeb118b58c39
-ms.sourcegitcommit: 67c873fa6e23ec39a826d60ac830969073bf79e1
+ms.openlocfilehash: 6b892cc9803c6b0ead40b8fdda2cf881614f976f
+ms.sourcegitcommit: 0acb849a211b3ae6378ae47c9574a73994981db6
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "49935072"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "50828678"
 ---
-# <a name="seamless-sso-user-sign-in-issues"></a><span data-ttu-id="5c721-102">مشاكل تسجيل الدخول السلسة لمستخدم تسجيل الدخول إلى تسجيل الدخول</span><span class="sxs-lookup"><span data-stu-id="5c721-102">Seamless SSO user sign-in issues</span></span>
+# <a name="troubleshoot-seamless-single-sign-on-sso-user-sign-in-issues"></a><span data-ttu-id="96b9e-102">استكشاف مشاكل تسجيل الدخول المفرد السلس (SSO) وإصلاحها</span><span class="sxs-lookup"><span data-stu-id="96b9e-102">Troubleshoot Seamless Single Sign-on (SSO) user sign-in issues</span></span>
 
-<span data-ttu-id="5c721-103">بعد مصادقة المستخدم، سيتم تخزين بيانات اعتماد المستخدم مؤقتا في المستعرض نفسه، بحيث يقوم التطبيق تلقائيا تسجيل الدخول باستخدام الحساب نفسه.</span><span class="sxs-lookup"><span data-stu-id="5c721-103">After the user is authenticated, the browser will cache the user's credentials, so that on the same browser, the application will automatically sign-in with the same account.</span></span> <span data-ttu-id="5c721-104">قد يصعب هذا الأمر على مستخدم آخر أو مستخدم واحد تسجيل الدخول إلى حسابات متعددة على جهاز واحد.</span><span class="sxs-lookup"><span data-stu-id="5c721-104">This may make it difficult for another user or a single user to log into multiple accounts on one device.</span></span> <span data-ttu-id="5c721-105">لحل هذه المشكلة: 1.</span><span class="sxs-lookup"><span data-stu-id="5c721-105">To solve this: 1.</span></span> <span data-ttu-id="5c721-106">حاول تسجيل الدخول على مستعرض آخر.</span><span class="sxs-lookup"><span data-stu-id="5c721-106">Try signing in on another browser.</span></span> <span data-ttu-id="5c721-107">2.</span><span class="sxs-lookup"><span data-stu-id="5c721-107">2.</span></span> <span data-ttu-id="5c721-108">أمسح ذاكرة التخزين المؤقت للمستعرض و/أو ملفات تعريف الارتباط وحاول تسجيل الدخول مرة أخرى.</span><span class="sxs-lookup"><span data-stu-id="5c721-108">Clear the browser's cache and/or cookies and try signing in again.</span></span>
+<span data-ttu-id="96b9e-103">لحل مشاكل تسجيل الدخول المفرد السلس لمستخدم تسجيل الدخول (SSO)، استخدم الموارد الموصى بها التالية:</span><span class="sxs-lookup"><span data-stu-id="96b9e-103">To resolve Seamless Single Sign-on (SSO) user sign-in issues, use the following recommended resources:</span></span>
 
-<span data-ttu-id="5c721-109">إذا كنت لا تزال تواجه مشاكل في تسجيل الدخول، نوصي بما يلي لتشخيص خطوات الحل وأتمتةها:</span><span class="sxs-lookup"><span data-stu-id="5c721-109">If you are still experiencing sign-in issues, we recommend the following to diagnose and automate the resolution steps:</span></span>
+- [<span data-ttu-id="96b9e-104">مطالبة موافقة غير متوقعة عند تسجيل الدخول إلى تطبيق</span><span class="sxs-lookup"><span data-stu-id="96b9e-104">Unexpected consent prompt when signing in to an application</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-prompt) 
+- [<span data-ttu-id="96b9e-105">خطأ غير متوقع عند تنفيذ الموافقة على أحد التطبيقات</span><span class="sxs-lookup"><span data-stu-id="96b9e-105">Unexpected error when performing consent to an application</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error) 
+- [<span data-ttu-id="96b9e-106">استكشاف مشاكل تسجيل الدخول إلى تطبيق من Azure AD My Apps وإصلاحها</span><span class="sxs-lookup"><span data-stu-id="96b9e-106">Troubleshoot problems signing in to an application from Azure AD My Apps</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel) 
+- [<span data-ttu-id="96b9e-107">تعرض صفحة التطبيق رسالة خطأ بعد تسجيل المستخدم الدخول</span><span class="sxs-lookup"><span data-stu-id="96b9e-107">An app page shows an error message after the user signs in</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-application-error)
+- [<span data-ttu-id="96b9e-108">مشاكل في تسجيل الدخول إلى تطبيق Microsoft</span><span class="sxs-lookup"><span data-stu-id="96b9e-108">Problems signing in to a Microsoft application</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-first-party-microsoft) 
+- [<span data-ttu-id="96b9e-109">مشاكل في تسجيل الدخول إلى تطبيقات تسجيل الدخول الفردية المستندة إلى SAML التي تم تكوينها</span><span class="sxs-lookup"><span data-stu-id="96b9e-109">Problems signing in to SAML-based single sign-on configured apps</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery)
 
-1. <span data-ttu-id="5c721-110">ثبت [ملحق](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-extension-problem-installing) مستعرض "التطبيقات الآمنة" لمساعدة Azure Active Directory (Azure AD) لتوفير أفضل تشخيصات و دقة عند استخدام تجربة الاختبار في مدخل Azure.</span><span class="sxs-lookup"><span data-stu-id="5c721-110">Install the [My Apps Secure Browser Extension](https://docs.microsoft.com/azure/active-directory/manage-apps/access-panel-extension-problem-installing) to help Azure Active Directory (Azure AD) to provide better diagnosis and resolutions when using the testing experience in the Azure portal.</span></span>
-2. <span data-ttu-id="5c721-111">إعادة إنتاج الخطأ باستخدام تجربة الاختبار في صفحة تكوين التطبيق في مدخل Azure.</span><span class="sxs-lookup"><span data-stu-id="5c721-111">Reproduce the error using the testing experience in the app configuration page in the Azure portal.</span></span> <span data-ttu-id="5c721-112">لمعرفة المزيد، راجع تطبيقات تسجيل الدخول الفردية المستندة إلى [Debug SAML.](https://docs.microsoft.com/azure/active-directory/azuread-dev/howto-v1-debug-saml-sso-issues)</span><span class="sxs-lookup"><span data-stu-id="5c721-112">To learn more, see [Debug SAML-based single sign-on applications](https://docs.microsoft.com/azure/active-directory/azuread-dev/howto-v1-debug-saml-sso-issues).</span></span>
-3. <span data-ttu-id="5c721-113">إذا كنت تستخدم تجربة الاختبار في مدخل Azure مع ملحق مستعرض التطبيقات الآمنة، يمكنك **تخطي الخطوة 4.**</span><span class="sxs-lookup"><span data-stu-id="5c721-113">If you use the testing experience in the Azure portal with the My Apps Secure Browser Extension, you can **skip step 4**.</span></span>
-4. <span data-ttu-id="5c721-114">لفتح صفحة تكوين تسجيل الدخول الفردي المستند إلى SAML:</span><span class="sxs-lookup"><span data-stu-id="5c721-114">To open the SAML-based single sign-on configuration page:</span></span>
-    - <span data-ttu-id="5c721-115">افتح مدخل [Azure،](https://portal.azure.com/) ثم سجل الدخول كمسؤول **عام** أو **Coadmin.**</span><span class="sxs-lookup"><span data-stu-id="5c721-115">Open the [Azure portal](https://portal.azure.com/) and sign in as a **Global Administrator** or **Coadmin**.</span></span>
-    - <span data-ttu-id="5c721-116">افتح **"ملحق Azure Active Directory"** عن طريق تحديد **"كل** الخدمات" في أعلى قائمة التنقل الرئيسية على الجانب الأيمن.</span><span class="sxs-lookup"><span data-stu-id="5c721-116">Open the **Azure Active Directory Extension** by selecting **All services** at the top of the main left-side navigation menu.</span></span>
-    - <span data-ttu-id="5c721-117">اكتب "Azure Active Directory" في مربع البحث في عامل التصفية وحدد عنصر **Azure Active Directory.**</span><span class="sxs-lookup"><span data-stu-id="5c721-117">Type "Azure Active Directory" in the filter search box and select the **Azure Active Directory** item.</span></span>
-    - <span data-ttu-id="5c721-118">حدد **"تطبيقات المؤسسة"** من قائمة التنقل في الجانب الأيسر من Azure Active Directory.</span><span class="sxs-lookup"><span data-stu-id="5c721-118">Select **Enterprise Applications** from the Azure Active Directory left-hand navigation menu.</span></span>
-    - <span data-ttu-id="5c721-119">حدد **"كافة** التطبيقات" لعرض قائمة بكل التطبيقات.</span><span class="sxs-lookup"><span data-stu-id="5c721-119">Select **All Applications** to view a list of all your applications.</span></span> <span data-ttu-id="5c721-120">إذا لم يظهر التطبيق الذي تريده هنا،  فاستخدم عنصر تحكم  عامل التصفية في  أعلى قائمة "كل التطبيقات" ثم قم بتعيين الخيار "إظهار" إلى **"كافة التطبيقات".**</span><span class="sxs-lookup"><span data-stu-id="5c721-120">If you do not see the application you want show up here, use the **Filter** control at the top of the **All Applications List** and set the **Show** option to **All Applications**.</span></span>
-    - <span data-ttu-id="5c721-121">حدد التطبيق الذي تريد تكوينه من أجل تسجيل الدخول الفردي.</span><span class="sxs-lookup"><span data-stu-id="5c721-121">Select the application you want to configure for single sign-on.</span></span>
-    - <span data-ttu-id="5c721-122">بعد تحميل التطبيق، حدد تسجيل **الدخول المفرد** من قائمة التنقل الموجودة على الجانب الأيسر للتطبيق.</span><span class="sxs-lookup"><span data-stu-id="5c721-122">After the application loads, select **Single sign-on** from the application’s left-hand navigation menu.</span></span>
-    - <span data-ttu-id="5c721-123">حدد **SSO قائم على SAML.**</span><span class="sxs-lookup"><span data-stu-id="5c721-123">Select **SAML-based SSO**.</span></span>
-5. <span data-ttu-id="5c721-124">استنادا إلى الخطأ، لمعرفة المزيد حول الخطوات المستحسنة التي يجب اتباعها، راجع مشاكل تسجيل الدخول إلى تطبيقات تسجيل الدخول الفردية المستندة إلى SAML التي [تم تكوينها.](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery#application-not-found-in-directory)</span><span class="sxs-lookup"><span data-stu-id="5c721-124">Based on the error, to learn more about the recommended steps to follow, see [Problems signing in to SAML-based single sign-on configured apps](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-federated-sso-gallery#application-not-found-in-directory).</span></span>
-6. <span data-ttu-id="5c721-125">لا استكشاف مشاكل تسجيل الدخول الأخرى للمستخدم وإصلاحها، راجع الإرشادات التالية:</span><span class="sxs-lookup"><span data-stu-id="5c721-125">To troubleshoot other user sign-issues refer to the following guidance:</span></span>
-    - [<span data-ttu-id="5c721-126">بروتوكول Sign-On SAML مفرد</span><span class="sxs-lookup"><span data-stu-id="5c721-126">Single Sign-On SAML protocol</span></span>](https://docs.microsoft.com/azure/active-directory/develop/single-sign-on-saml-protocol)
-    - [<span data-ttu-id="5c721-127">كيفية استكشاف أخطاء تسجيل الدخول وإصلاحها باستخدام تقارير Azure Active Directory</span><span class="sxs-lookup"><span data-stu-id="5c721-127">How to: Troubleshoot sign-in errors using Azure Active Directory reports</span></span>](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-troubleshoot-sign-in-errors)
-    - [<span data-ttu-id="5c721-128">مطالبة موافقة غير متوقعة</span><span class="sxs-lookup"><span data-stu-id="5c721-128">Unexpected consent prompt</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-prompt)
-    - [<span data-ttu-id="5c721-129">خطأ في موافقة المستخدم</span><span class="sxs-lookup"><span data-stu-id="5c721-129">User consent error</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error)
-    - [<span data-ttu-id="5c721-130">مشاكل في تسجيل الدخول من "تطبيقاتي"</span><span class="sxs-lookup"><span data-stu-id="5c721-130">Problems signing in from My Apps</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-other-problem-access-panel)
-    - [<span data-ttu-id="5c721-131">خطأ على صفحة تسجيل الدخول إلى التطبيق</span><span class="sxs-lookup"><span data-stu-id="5c721-131">Error on application sign-in page</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-application-error)
-    - [<span data-ttu-id="5c721-132">مشكلة في تسجيل الدخول إلى تطبيق Microsoft</span><span class="sxs-lookup"><span data-stu-id="5c721-132">Problem signing into a Microsoft App</span></span>](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-problem-first-party-microsoft)
+<span data-ttu-id="96b9e-110">لطلب الميزات أو طرح أسئلة تقنية حول SSO السلس، راجع [Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html).</span><span class="sxs-lookup"><span data-stu-id="96b9e-110">To make feature requests or ask technical questions about Seamless SSO, see [Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html).</span></span>
+
