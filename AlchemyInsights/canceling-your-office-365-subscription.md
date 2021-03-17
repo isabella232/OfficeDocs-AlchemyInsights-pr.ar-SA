@@ -1,9 +1,9 @@
 ---
-title: هل يتم إلغاء الاشتراك ؟
+title: هل تلغي اشتراكك؟
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,25 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "4"
 - "1400001"
-ms.assetid: e0ba53f0-3b0a-4082-a42f-40f2b45ad91a
-ms.openlocfilehash: 443623b83e220d4016448809770609110294d72f
-ms.sourcegitcommit: 7d1b9f098235000b84cd74c032861ad14bfa6fc9
+- commerce
+ms.openlocfilehash: e69a91cda5f5df07a7ee429dce7145af366be464
+ms.sourcegitcommit: 1736dc914ceb9d72fc87f45762f2aa7f646b8fbb
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "49348652"
+ms.lasthandoff: 03/17/2021
+ms.locfileid: "50837369"
 ---
-# <a name="canceling-your-subscription"></a>هل يتم إلغاء الاشتراك ؟
+# <a name="canceling-your-subscription"></a>هل تلغي اشتراكك؟
 
-عذرا لرؤيتك ، ولكن إذا أردت إلغاء اشتراكك ، فاليك الخيارات التالية:
+نأسف لرؤيتى تذهب، ولكن إذا كنت تريد إلغاء اشتراكك، فيما يلي خياراتك:
   
-- إذا كنت عميلا تجريبيا ، فلا يوجد شيء للغاء الاشتراك. تنتهي صلاحيه الاشتراكات التجريبية تلقائيا الا إذا قمت بتوفير طريقه دفع.
-- إذا كان لديك اقل من 25 ترخيصا معينا ، فيمكنك إلغاء الاشتراك عبر الإنترنت. انتقل إلى صفحه **الفوترة** \> [الخاصة بالمنتجات](https://go.microsoft.com/fwlink/p/?linkid=842054) ، وابحث عن الاشتراك الذي تريد إلغاءه. حدد **المزيد من الإجراءات** (ثلاث نقاط) ، ثم حدد **إلغاء الاشتراك**.
-- إذا كان لديك أكثر من 25 ترخيصا تم تعيينها للمستخدمين ، [فاتصل بقسم الدعم للغاء اشتراكك](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide).
+- إذا كان لديك أقل من 25 ترخيصا تم تعيينها، يمكنك إلغاء اشتراكك عبر الإنترنت. انتقل إلى **صفحة فوترة** منتجاتك، \> **[](https://go.microsoft.com/fwlink/p/?linkid=842054)** واعثر على الاشتراك الذي تريد إلغاءه. حدد **المزيد من الإجراءات** (ثلاث نقاط)، ثم حدد إلغاء **الاشتراك**.
+- إذا كان لديك أكثر من 25 ترخيصا تم تعيينها للمستخدمين، فاتصل [بالدعم لإلغاء اشتراكك](https://docs.microsoft.com/microsoft-365/admin/contact-support-for-business-products?view=o365-worldwide).
   
-**المبلغ المسترد: سيتم إرجاع اي رصيد نسبي اليك خلال دوره الفوترة التالية.**
+**المبلغ المسترد: سيتم إرجاع أي رصيد مفوتر إليك خلال دورة الفوترة التالية.**
 
 > [!NOTE]
-> إذا لم تتمكن من رؤية الخيار للغاء الأمر ، فحدد الاشتراك لعرض صفحه التفاصيل. في المقطع **إعدادات الاشتراك والدفع** ، حدد **إلغاء الاشتراك**.
+> إذا لم يتم عرض خيار الإلغاء، فحدد الاشتراك لعرض صفحة التفاصيل. في المقطع **إعدادات الاشتراك والدفع،** حدد **إلغاء الاشتراك**.
 
-لمعرفه المزيد ، راجع [إلغاء الاشتراك](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+لمعرفة المزيد، راجع [إلغاء اشتراكك](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
