@@ -1,9 +1,9 @@
 ---
-title: الاداره المشتركة
+title: الإدارة المشاركة
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
-ms.audience: Admin
+audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
@@ -12,28 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "1556"
 - "9000080"
-ms.openlocfilehash: 0f7c5d647e133b092b778c39fddc3c3ae3e7c7fc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a10f2d9ee8617cf194c61492be69064d53242318
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681247"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50896782"
 ---
-# <a name="co-management"></a>الاداره المشتركة
+# <a name="co-management"></a>الإدارة المشاركة
 
-**المتطلبات الاساسيه للترحيل من أداره التكوين المختلطة إلى Intune**
+**المتطلبات الأساسية لرقم "إدارة المؤتمرات المختلطة" إلى Intune**
 
-- راجع [هذه المقالة](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-hybridmdm-to-intunesa).
-- [أضف ترخيص Intune إلى المستخدمين](https://docs.microsoft.com/intune/licenses-assign).
-- استخدم [مستعرض Edge](https://www.microsoft.com/windows/microsoft-edge) عند تكوين الاداره المشتركة.
+- راجع [هذه المقالة](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid).
+- [أضف ترخيص Intune للمستخدمين](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign).
+- استخدم [مستعرض Edge](https://www.microsoft.com/edge) عند تكوين الإدارة المشاركة.
 
-**كيفيه تثبيت عميل أداره التكوين علي الاجهزه التي تتم ادارتها في Intune**
+يمكن العثور على تجربة إعداد الإدارة المشترك الإرشادية خطوة بخطوة [هنا](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/comanagesetupguide).
 
-راجع [أجهزه Windows المدارة في Intune](https://docs.microsoft.com/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
+**كيفية تثبيت عميل Config Manager على الأجهزة المدارة من Intune**
 
-**ماذا لو كنت أريد تغيير تخويل MDM فقط ؟**
+راجع أجهزة Windows المدارة [من Intune MDM](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
 
-يمكن تغيير تخويل MDM من دون فتح حاله دعم. يرجى مراجعه الوثائق التالية لمساعدتك في تغيير الجهة الموثقة في MDM:
+**ماذا لو أردت فقط تغيير مرجع MDM؟**
 
-- [تغيير تخويل MDM من أداره التكوين إلى Intune مستقل](https://docs.microsoft.com/configmgr/mdm/deploy-use/migrate-change-mdm-authority)
-- [تغيير تخويل MDM من Intune مستقل إلى أداره التكوين](https://docs.microsoft.com/configmgr/mdm/deploy-use/change-mdm-authority)
+يمكن تغيير هيئة MDM دون فتح حالة دعم. الرجاء مراجعة الوثائق التالية للمساعدة في تغيير مرجع MDM:
+
+- [تغيير هيئة MDM من إدارة التكوين إلى Intune مستقل](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)
+- [تغيير مرجع MDM من Intune مستقل إلى إدارة التكوين](https://docs.microsoft.com/mem/configmgr/mdm/understand/what-happened-to-hybrid)

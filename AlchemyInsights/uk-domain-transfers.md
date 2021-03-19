@@ -1,5 +1,5 @@
 ---
-title: . تحويلات مجالات المملكة المتحدة
+title: عمليات نقل مجال uk.
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "6969"
-ms.openlocfilehash: 42fa6189bc41c573fcb06fb41c9c6c4af82a0c8f
-ms.sourcegitcommit: 9604f7cec8bf18ae2d7e5915cab4671a3a04d316
+ms.openlocfilehash: 9b08d72834c1bbfd46e9724ecf9c564325493ba5
+ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49598598"
+ms.lasthandoff: 03/19/2021
+ms.locfileid: "50896638"
 ---
-# <a name="uk-domain-transfers"></a>. تحويلات مجالات المملكة المتحدة
+# <a name="uk-domain-transfers"></a>عمليات نقل مجال uk.
 
-اتصل بدعم Microsoft واطلب **تغيير علامة عناوين ip** لمطابقه المسجل الذي تريده لأداره مجالك. بمجرد تغيير العلامة ، يتم نقل المجال مباشره إلى جهة تسجيل جديده. ستحتاج بعد ذلك إلى العمل علي الجهة المسجلة الجديدة لإكمال عمليه النقل ، ومن المرجح سداد رسوم التحويل وأضافه المجال الذي تم تحويله إلى حسابك باستخدام جهة تسجيلك الجديدة.
+اتصل بدعم Microsoft واطلب تغيير **علامة IPS** لمطابقة جهة التسجيل التي تريد إدارة مجالك من الآن إلى الأمام. بعد تغيير العلامة، يتم نقل المجال مباشرة إلى جهة التسجيل الجديدة. ستحتاج بعد ذلك إلى العمل مع جهة التسجيل الجديدة لإكمال التحويل، مع فرض رسوم تحويل وإضافة المجال المنقول إلى حسابك مع جهة التسجيل الجديدة.
 
-للحصول علي مزيد من المعلومات حول تحويلات المجالات ، راجع [نقل مجال من Microsoft إلى مضيف آخر](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host?view=o365-worldwide).
+لمزيد من المعلومات حول عمليات نقل المجالات، راجع نقل مجال [من Microsoft إلى مضيف آخر](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host?view=o365-worldwide).
+
+كن مستعدا لتوفير علامة IPS الخاصة جهة التسجيل الجديدة، والتي يمكن العثور عليها في https://registrars.nominet.uk/uk-namespace/registrar-agreement/list-of-registrars/ .
