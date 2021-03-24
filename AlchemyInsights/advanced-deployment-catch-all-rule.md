@@ -13,20 +13,20 @@ ms.custom:
 - "871"
 - "2000022"
 ms.assetid: 82019d6f-44bf-41ef-a950-fcfd1bcc55c0
-ms.openlocfilehash: 305fe22b71e0f0aa149837a7b3da0e8283603bb2
-ms.sourcegitcommit: 1d73771d147325cfd8578e6816becd8331913890
+ms.openlocfilehash: bc340bb0242315eb46767074ce846df9393bc426
+ms.sourcegitcommit: 1f43598a726cdb9904aa501eb8db87f143020d9e
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "50901518"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "51122974"
 ---
-# <a name="install-office-with-the-microsoft-365-apps-deployment-advisor"></a><span data-ttu-id="e92a6-102">تثبيت Office مع مستشار نشر تطبيقات Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="e92a6-102">Install Office with the Microsoft 365 Apps deployment advisor</span></span>
+# <a name="install-office-with-the-microsoft-365-apps-deployment-advisor"></a><span data-ttu-id="51101-102">تثبيت Office مع مستشار نشر تطبيقات Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="51101-102">Install Office with the Microsoft 365 Apps deployment advisor</span></span>
 
-<span data-ttu-id="e92a6-103">يساعدك مستشار نشر تطبيقات [Microsoft 365](https://admin.microsoft.com/adminportal/home) على تشغيل أجهزة المستخدمين للإصدار الأخير من منتجات Office مثل Word و Excel و PowerPoint و OneNote.</span><span class="sxs-lookup"><span data-stu-id="e92a6-103">The [Microsoft 365 Apps deployment advisor](https://admin.microsoft.com/adminportal/home) helps you get your users' devices running the latest version of Office products like Word, Excel, PowerPoint, and OneNote.</span></span>
+<span data-ttu-id="51101-103">يساعدك مستشار نشر تطبيقات [Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2145748) على تشغيل أجهزة المستخدمين للإصدار الأخير من منتجات Office مثل Word و Excel و PowerPoint و OneNote.</span><span class="sxs-lookup"><span data-stu-id="51101-103">The [Microsoft 365 Apps deployment advisor](https://go.microsoft.com/fwlink/?linkid=2145748) helps you get your users' devices running the latest version of Office products like Word, Excel, PowerPoint, and OneNote.</span></span>
+  
+<span data-ttu-id="51101-104">ستحصل على إرشادات حول أساليب النشر المختلفة، التي تتضمن خيارات التثبيت الذاتي السهلة، بالإضافة إلى عمليات نشر المؤسسة باستخدام أدوات الإدارة.</span><span class="sxs-lookup"><span data-stu-id="51101-104">You'll get guidance on the various deployment methods, which include easy self-install options, as well as enterprise deployments using management tools.</span></span> <span data-ttu-id="51101-105">ستساعدك الإرشادات في تقييم بيئتك، وحدد متطلبات النشر الخاصة بك، وتنفيذ أدوات الدعم الضرورية لضمان نجاح عملية التثبيت.</span><span class="sxs-lookup"><span data-stu-id="51101-105">The instructions will help you assess your environment, figure out your specific deployment requirements, and implement the necessary support tools to ensure a successful installation.</span></span>
+  
+<span data-ttu-id="51101-106">للحصول على معلومات حول إعداد Microsoft 365 وتحضير بيئتك لخدمات Microsoft 365 و Office 365، راجع:</span><span class="sxs-lookup"><span data-stu-id="51101-106">For information about setting up Microsoft 365 and preparing your environment for Microsoft 365 and Office 365 services, see:</span></span>
 
-<span data-ttu-id="e92a6-104">ستحصل على إرشادات حول أساليب النشر المختلفة، التي تتضمن خيارات التثبيت الذاتي السهلة، بالإضافة إلى عمليات نشر المؤسسة باستخدام أدوات الإدارة.</span><span class="sxs-lookup"><span data-stu-id="e92a6-104">You'll get guidance on the various deployment methods, which include easy self-install options, as well as enterprise deployments using management tools.</span></span> <span data-ttu-id="e92a6-105">ستساعدك الإرشادات على تقييم بيئتك، وحدد متطلبات النشر الخاصة بك، وتنفيذ أدوات الدعم الضرورية لضمان نجاح عملية التثبيت.</span><span class="sxs-lookup"><span data-stu-id="e92a6-105">The instructions will help you assess your environment, figure out your specific deployment requirements, and implement the necessary support tools to ensure a successful install.</span></span>
-
-<span data-ttu-id="e92a6-106">للحصول على معلومات حول إعداد Microsoft 365 وتحضير بيئتك لخدمات Microsoft 365 و Office 365، راجع:</span><span class="sxs-lookup"><span data-stu-id="e92a6-106">For information about setting up Microsoft 365 and preparing your environment for Microsoft 365 and Office 365 services, see:</span></span>
-
-- [<span data-ttu-id="e92a6-107">إعداد دليل البيئة</span><span class="sxs-lookup"><span data-stu-id="e92a6-107">Prepare your environment guide</span></span>](https://go.microsoft.com/fwlink/?linkid=2005213)
-- [<span data-ttu-id="e92a6-108">دليل إعداد Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="e92a6-108">Microsoft 365 setup guide</span></span>](https://go.microsoft.com/fwlink/?linkid=2072646)
+- [<span data-ttu-id="51101-107">إعداد دليل البيئة</span><span class="sxs-lookup"><span data-stu-id="51101-107">Prepare your environment guide</span></span>](https://go.microsoft.com/fwlink/?linkid=2005213)
+- [<span data-ttu-id="51101-108">دليل إعداد Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="51101-108">Microsoft 365 setup guide</span></span>](https://go.microsoft.com/fwlink/?linkid=2072646)
