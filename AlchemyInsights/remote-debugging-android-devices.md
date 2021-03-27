@@ -1,5 +1,5 @@
 ---
-title: استخدام Microsoft Edge لتصحيح جهاز Android عن بعد من كمبيوتر التطوير
+title: استخدام Microsoft Edge لتصحيح الأخطاء عن بعد لجهاز Android من كمبيوتر تطوير
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003928"
 - "6983"
-ms.openlocfilehash: 3a59a7d51ddd0213fa42c0e094b7269a406ae7e7
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "10186"
+- "9005827"
+ms.openlocfilehash: 2dea0d38ddc97d4952f3d14efebea2eea2f760da
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583171"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398680"
 ---
-# <a name="use-microsoft-edge-to-remotely-debug-an-android-device-from-a-development-computer"></a>استخدام Microsoft Edge لتصحيح جهاز Android عن بعد من كمبيوتر التطوير
+# <a name="use-microsoft-edge-to-remotely-debug-an-android-device-from-a-development-computer"></a>استخدام Microsoft Edge لتصحيح الأخطاء عن بعد لجهاز Android من كمبيوتر تطوير
 
-لتصحيح المحتوي المباشر عن بعد علي جهاز Android من الكمبيوتر الخاص بك:
+لتصحيح المحتوى المباشر عن بعد على جهاز Android من الكمبيوتر:
 
-1. اعداد جهاز Android لتصحيح الاخظاء عن بعد واكتشافه من كمبيوتر التطوير.
-2. من كمبيوتر التطوير ، تفحص المحتوي المباشر وتصحيحه علي جهاز Android.
-3. المحتوي المباشر لقالب الهاتف من جهاز Android إلى مثيل ديفتولس علي كمبيوتر التطوير.
+1. قم بإعداد جهاز Android لتصحيح الأخطاء عن بعد واكتشافه من كمبيوتر التطوير.
+2. من كمبيوتر التطوير، افحص المحتوى المباشر وتصحيحه على جهاز Android.
+3. المحتوى المباشر لشاشة البث من جهاز Android إلى مثيل DevTools على كمبيوتر التطوير.

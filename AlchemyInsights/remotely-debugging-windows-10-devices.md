@@ -1,5 +1,5 @@
 ---
-title: بدء استخدام التصحيح البعيد للاجهزه التي تعمل بنظام Windows 10
+title: بدء استخدام أجهزة Windows 10 لتصحيح الأخطاء عن بعد
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003926"
 - "6980"
-ms.openlocfilehash: 4bd03461c4096cc4ee94a0308d53ba6cba473c18
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "10188"
+- "9005827"
+ms.openlocfilehash: 8fd24449b6507c9031a0ad88dcbad02016b644f1
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583173"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398537"
 ---
-# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>بدء استخدام التصحيح البعيد للاجهزه التي تعمل بنظام Windows 10
+# <a name="get-started-with-remotely-debugging-windows-10-devices"></a>بدء استخدام أجهزة Windows 10 لتصحيح الأخطاء عن بعد
 
-لتصحيح المحتوي المباشر عن بعد علي جهاز يعمل بنظام Windows 10 من كمبيوتر يعمل بنظام التشغيل Windows أو macOS:
+لتصحيح المحتوى المباشر عن بعد على جهاز يعمل بنظام التشغيل Windows 10 من كمبيوتر يعمل بنظام التشغيل Windows أو macOS:
 
-1. اعداد جهاز Windows 10 لتصحيح الاخظاء عن بعد ، ثم الاتصال به من جهاز التطوير.
-2. فحص المحتوي المباشر وتصحيحه علي جهاز Windows 10 من جهاز التطوير.
-3. محتوي قالب الديفتولس من جهاز Windows 10 إلى مثيل في جهاز التطوير.
+1. قم بإعداد جهاز Windows 10 لتصحيح الأخطاء عن بعد، ثم اتصل به من جهاز التطوير.
+2. فحص المحتوى المباشر وتصحيحه على جهاز Windows 10 من جهاز التطوير.
+3. محتوى Screencast من جهاز Windows 10 إلى مثيل DevTools على جهاز التطوير.
 
-لمعرفه المزيد ، راجع [بدء استخدام التصحيح عن بعد للاجهزه التي تعمل بنظام التشغيل Windows 10 باستخدام Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2142172).
+لمعرفة المزيد، راجع بدء استخدام تصحيح الأخطاء عن بعد في [أجهزة Windows 10 باستخدام Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2142172).

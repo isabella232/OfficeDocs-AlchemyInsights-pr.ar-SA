@@ -13,18 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003844"
 - "6893"
-ms.openlocfilehash: c5d71c26ba3584f8ce496a28587fe75cae2d344f
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+- "8332"
+- "9004625"
+ms.openlocfilehash: f380d09dc14788205638cdee6aebe0b084ecab2f
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49676708"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398644"
 ---
 # <a name="sign-in-to-microsoft-edge-manually"></a>تسجيل الدخول إلى Microsoft Edge يدويا
 
-إذا لم يقم المستخدم بتسجيل الدخول تلقائيا اثناء تجربه التشغيل الأول ، سيتمكن المستخدم من تسجيل الدخول يدويا عبر إعدادات المستعرض أو القائمة المنبثقة للهوية. لأداره تسجيل الدخول ، استخدم النهج التالية:
+إذا لم يكن المستخدم قد سجل الدخول تلقائيا أثناء تجربة التشغيل الأولى، يمكن للمستخدم تسجيل الدخول يدويا من خلال إعدادات المستعرض أو قائمة الهوية من قائمة منتحلة. لإدارة تسجيل الدخول، استخدم السياسات التالية:
 
-1. [نونريموفابليبروفيلينابليد](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) -للتاكد من ان المستخدم لديه دائما ملف تعريف العمل في Microsoft Edge.
-2. [ريستريكتسيجنينتوباتيرن](https://docs.microsoft.com/deployedge/microsoft-edge-policies#restrictsignintopattern) -لتقييد تسجيل الدخول إلى مجموعه من الحسابات الموثوق بها.
-3. [برووسيرسيجنين](https://docs.microsoft.com/deployedge/microsoft-edge-policies#browsersignin) -لتعطيل تسجيل الدخول أو لإجبار المستخدمين علي تسجيل الدخول.
+1. [NonRemovableProfileEnabled](https://docs.microsoft.com/deployedge/microsoft-edge-policies#nonremovableprofileenabled) - للتأكد من أن المستخدم لديه دائما ملف تعريف عمل في Microsoft Edge.
+2. [RestrictSigninToPattern](https://docs.microsoft.com/deployedge/microsoft-edge-policies#restrictsignintopattern) - لتقييد تسجيل الدخول إلى مجموعة من الحسابات الموثوق بها.
+3. [BrowserSignin](https://docs.microsoft.com/deployedge/microsoft-edge-policies#browsersignin) - لتعطيل تسجيل الدخول أو إجبار المستخدمين على تسجيل الدخول.
 
