@@ -1,5 +1,5 @@
 ---
-title: استخدام Microsoft Edge لتصحيح جهاز Android عن بعد من كمبيوتر التطوير
+title: استخدام Microsoft Edge لتصحيح الأخطاء عن بعد لجهاز Android من كمبيوتر تطوير
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,17 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003928"
 - "6983"
-ms.openlocfilehash: 3a59a7d51ddd0213fa42c0e094b7269a406ae7e7
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "10186"
+- "9005827"
+ms.openlocfilehash: 2dea0d38ddc97d4952f3d14efebea2eea2f760da
+ms.sourcegitcommit: 6bfe9cd9d0b18481e0cac6f1f5bc86ed7df31037
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583171"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "51398680"
 ---
-# <a name="use-microsoft-edge-to-remotely-debug-an-android-device-from-a-development-computer"></a><span data-ttu-id="fe5d8-102">استخدام Microsoft Edge لتصحيح جهاز Android عن بعد من كمبيوتر التطوير</span><span class="sxs-lookup"><span data-stu-id="fe5d8-102">Use Microsoft Edge to remotely debug an Android device from a development computer</span></span>
+# <a name="use-microsoft-edge-to-remotely-debug-an-android-device-from-a-development-computer"></a><span data-ttu-id="f39e6-102">استخدام Microsoft Edge لتصحيح الأخطاء عن بعد لجهاز Android من كمبيوتر تطوير</span><span class="sxs-lookup"><span data-stu-id="f39e6-102">Use Microsoft Edge to remotely debug an Android device from a development computer</span></span>
 
-<span data-ttu-id="fe5d8-103">لتصحيح المحتوي المباشر عن بعد علي جهاز Android من الكمبيوتر الخاص بك:</span><span class="sxs-lookup"><span data-stu-id="fe5d8-103">To remotely debug live content on an Android device from your computer:</span></span>
+<span data-ttu-id="f39e6-103">لتصحيح المحتوى المباشر عن بعد على جهاز Android من الكمبيوتر:</span><span class="sxs-lookup"><span data-stu-id="f39e6-103">To remotely debug live content on an Android device from your computer:</span></span>
 
-1. <span data-ttu-id="fe5d8-104">اعداد جهاز Android لتصحيح الاخظاء عن بعد واكتشافه من كمبيوتر التطوير.</span><span class="sxs-lookup"><span data-stu-id="fe5d8-104">Set up the Android device for remote debugging and discover it from the development computer.</span></span>
-2. <span data-ttu-id="fe5d8-105">من كمبيوتر التطوير ، تفحص المحتوي المباشر وتصحيحه علي جهاز Android.</span><span class="sxs-lookup"><span data-stu-id="fe5d8-105">From the development computer, inspect and debug live content on the Android device.</span></span>
-3. <span data-ttu-id="fe5d8-106">المحتوي المباشر لقالب الهاتف من جهاز Android إلى مثيل ديفتولس علي كمبيوتر التطوير.</span><span class="sxs-lookup"><span data-stu-id="fe5d8-106">Screencast live content from the Android device onto a DevTools instance on the development computer.</span></span>
+1. <span data-ttu-id="f39e6-104">قم بإعداد جهاز Android لتصحيح الأخطاء عن بعد واكتشافه من كمبيوتر التطوير.</span><span class="sxs-lookup"><span data-stu-id="f39e6-104">Set up the Android device for remote debugging and discover it from the development computer.</span></span>
+2. <span data-ttu-id="f39e6-105">من كمبيوتر التطوير، افحص المحتوى المباشر وتصحيحه على جهاز Android.</span><span class="sxs-lookup"><span data-stu-id="f39e6-105">From the development computer, inspect and debug live content on the Android device.</span></span>
+3. <span data-ttu-id="f39e6-106">المحتوى المباشر لشاشة البث من جهاز Android إلى مثيل DevTools على كمبيوتر التطوير.</span><span class="sxs-lookup"><span data-stu-id="f39e6-106">Screencast live content from the Android device onto a DevTools instance on the development computer.</span></span>
