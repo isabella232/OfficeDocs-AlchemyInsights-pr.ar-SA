@@ -1,5 +1,5 @@
 ---
-title: استكشاف أخطاء الانضمام المختلط في Azure AD وإصلاحها
+title: استكشاف الأخطاء في انضمام Azure AD المختلط وإصلاحها
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,24 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6162"
+- "6158"
 - "9003244"
-ms.openlocfilehash: cb50ece43e36c81560aa07b6b892470d6ccd1981
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "9003246"
+ms.openlocfilehash: 18d0ce6bdf3df96e07cc6607b9ae6142d548dabe
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690266"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51401894"
 ---
-# <a name="troubleshoot-hybrid-azure-ad-join"></a>استكشاف أخطاء الانضمام المختلط في Azure AD وإصلاحها
+# <a name="troubleshoot-hybrid-azure-ad-join"></a>استكشاف الأخطاء في انضمام Azure AD المختلط وإصلاحها
 
-لحل المشاكل الشائعة مع صله Azure Active directory (AD) المختلطة ، راجع [الاسئله المتداولة حول الصلة المختلطة في AZURE AD](https://docs.microsoft.com/azure/active-directory/devices/faq#hybrid-azure-ad-join-faq).
+موصى به بشدة تأكد من أن الجهاز يمكنه الوصول إلى نقاط نهاية تسجيل الجهاز ضمن حساب النظام باستخدام البرنامج النصي اختبار اتصال [تسجيل الجهاز](https://docs.microsoft.com/samples/azure-samples/testdeviceregconnectivity/testdeviceregconnectivity/).
+
+1. إذا كنت تقوم بإعداد تسجيلات الأجهزة للمرة الأولى، فتأكد من مراجعة I[ntroduction](https://docs.microsoft.com/samples/azure-samples/testdeviceregconnectivity/testdeviceregconnectivity/) لإدارة الأجهزة في Azure Active Directory للتعرف على كيفية وضع الأجهزة تحت تحكم Azure AD.
+1. إذا كنت تقوم بتسجيل الأجهزة في Azure AD مباشرة وتسجيلها في Intune، فتأكد من [](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign?WT.mc_id=Portal-Microsoft_Azure_Support) أنك قمت بتكوين [Intune](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment?WT.mc_id=Portal-Microsoft_Azure_Support) وأن الترخيص في مكانه أولا.
+1. تأكد من أنك م مخولا لتنفيذ عمليات في Azure AD و AD في الموقع. يمكن للمسؤول العام فقط في Azure AD إدارة إعدادات تسجيلات الأجهزة. بالإضافة إلى ذلك، إذا كنت تقوم بإعداد التسجيلات التلقائية في Active Directory المحلي، يجب أن تكون مسؤول Active Directory و AD FS (إذا أمكن).
+
+للحصول على مزيد من التفاصيل حول حل [](https://docs.microsoft.com/azure/active-directory/devices/troubleshoot-hybrid-join-windows-current) المشاكل المحتملة باستخدام الصلة المختلطة، راجع استكشاف الأخطاء في "الصلة المختلطة" وإصلاحها لإعداد الأجهزة المختلطة المنضمة إلى Azure AD وإدارتها باستخدام مدخل Azure Ad، راجع إعداد الأجهزة المختلطة المنضمة إلى [Azure AD](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-plan?WT.mc_id=Portal-Microsoft_Azure_Support) (المنضمة إلى المجال المحلي) وإدارة الأجهزة باستخدام مدخل [Azure](https://docs.microsoft.com/azure/active-directory/devices/device-management-azure-portal?WT.mc_id=Portal-Microsoft_Azure_Support).
+
+لحل المشاكل الشائعة في الانضمام إلى Azure Active Directory المختلط (AD)، راجع الأسئلة الشائعة حول الصلة المختلطة ب [Azure AD](https://docs.microsoft.com/azure/active-directory/devices/faq#hybrid-azure-ad-join-faq).

@@ -1,5 +1,5 @@
 ---
-title: نهج المجموعات في Microsoft Edge
+title: سياسات المجموعة في Microsoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,14 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003841"
+- "9004632"
 - "6890"
-ms.openlocfilehash: 7752d3f5d1a567b4b9e61818ad80599ef5cda056
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "8362"
+ms.openlocfilehash: dc6a5c233736912030f16b43c269b9deb442dfa6
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583157"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403334"
 ---
-# <a name="group-policies-in-microsoft-edge"></a>نهج المجموعات في Microsoft Edge
+# <a name="group-policies-in-microsoft-edge"></a>سياسات المجموعة في Microsoft Edge
 
-استخدام [نهج المجموعات](https://go.microsoft.com/fwlink/?linkid=2134623) المتوفرة في Microsoft Edge (الإصدار 77 أو إصدار أحدث) لتحديد كيفيه تشغيل المستعرض في مؤسستك.
+استخدم سياسات [المجموعة المتوفرة](https://go.microsoft.com/fwlink/?linkid=2134623) في Microsoft Edge (الإصدار 77 أو الإصدارات الأحدث) لتحديد كيفية تشغيل المستعرض في مؤسستك.

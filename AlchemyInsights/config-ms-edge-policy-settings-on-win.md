@@ -1,5 +1,5 @@
 ---
-title: تكوين إعدادات نهج Microsoft Edge علي Windows
+title: تكوين إعدادات نهج Microsoft Edge على Windows
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,21 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003845"
+- "9004632"
 - "6894"
-ms.openlocfilehash: 7f626152c3833638436dfe05e8dcd13fc86ef594
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "8358"
+ms.openlocfilehash: e9bb489b4d8ecd76fd777ade9fb740ecad542900
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583156"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51402362"
 ---
-# <a name="configure-microsoft-edge-policy-settings-on-windows"></a>تكوين إعدادات نهج Microsoft Edge علي Windows
+# <a name="configure-microsoft-edge-policy-settings-on-windows"></a>تكوين إعدادات نهج Microsoft Edge على Windows
 
-لتكوين إعدادات النهج والتحديثات المدارة ل Microsoft Edge ، استخدم كائنات نهج المجموعة (GPOs). يمكنك أيضا توفير النهج من خلال السجل ؛ سيكون هذا مناسبا ل (1) الاجهزه التي تعمل بنظام التشغيل Windows والمتصلة بمجال Microsoft Active directory النسبة ل (2) التي تم تسجيلها لأداره الاجهزه في Microsoft Intune.
+لتكوين إعدادات النهج والتحديثات المدارة ل Microsoft Edge، استخدم كائنات نهج المجموعة (GPOs). يمكنك أيضا توفير النهج من خلال السجل؛ سيكون هذا مناسبا ل (1) أجهزة Windows المنضمة إلى مجال Microsoft Active Directory و(2) مثيلات Windows 10 Pro و Enterprise المسجلين لإدارة الأجهزة في Microsoft Intune.
 
-لتكوين Microsoft Edge باستخدام GPOs ، قم بما يلي:
+لتكوين Microsoft Edge باستخدام GPOs، قم بما يلي:
 
-1. للحصول علي المخزن المركزي لنهج المجموعة في مجال Active Directory ، أو إلى مجلد قالب تعريف النهج علي أجهزه الكمبيوتر الفردية ، قم بتثبيت كل القوالب الاداريه التي تضيف قواعد وإعدادات ل Microsoft Edge.
-2. قم بتكوين النهج المعينة التي تريد تعيينها.
+1. انتقل إلى المتجر المركزي لنهية المجموعة في مجال Active Directory، أو إلى مجلد قالب تعريف النهج على أجهزة كمبيوتر فردية، قم بتثبيت كل القوالب الإدارية التي تضيف القواعد والإعدادات ل Microsoft Edge.
+2. قم بتكوين سياسات معينة تريد تعيينها.
 
-لمعرفه المزيد ، راجع [تكوين إعدادات نهج Microsoft Edge علي Windows](https://go.microsoft.com/fwlink/?linkid=2135024).
+لمعرفة المزيد، راجع [تكوين إعدادات نهج Microsoft Edge على Windows](https://go.microsoft.com/fwlink/?linkid=2135024).

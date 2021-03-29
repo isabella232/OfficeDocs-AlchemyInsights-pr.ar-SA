@@ -1,5 +1,5 @@
 ---
-title: استخدام جامف لتكوين إعدادات نهج Microsoft Edge علي macOS
+title: استخدام Jamf لتكوين إعدادات نهج Microsoft Edge على macOS
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -11,16 +11,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003852"
+- "9004632"
 - "6901"
-ms.openlocfilehash: 7874ce15417958cfe2e3b2ff068b3eb7241e6812
-ms.sourcegitcommit: b3f26339eda6ab4a5f952dd35a41c4c1de603cd2
+- "8360"
+ms.openlocfilehash: 4f22518d81ffbc9205a1185638fb2a8c30f3a29f
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49676788"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403442"
 ---
-# <a name="use-jamf-to-configure-microsoft-edge-policy-settings-on-macos"></a>استخدام جامف لتكوين إعدادات نهج Microsoft Edge علي macOS
+# <a name="use-jamf-to-configure-microsoft-edge-policy-settings-on-macos"></a>استخدام Jamf لتكوين إعدادات نهج Microsoft Edge على macOS
 
-لتكوين Microsoft Edge (قناه مستقره 81 أو إصدار أحدث) علي macOS ، استخدم ملف بيان نهج Microsoft Edge علي جامف Pro 10.19.
+لتكوين Microsoft Edge (القناة مستقرة 81 أو أحدث) على macOS، استخدم ملف بيان نهج Microsoft Edge على Jamf Pro 10.19.
 
-لمزيد من المعلومات ، راجع [تكوين إعدادات نهج Microsoft Edge علي macOS باستخدام جامف](https://go.microsoft.com/fwlink/?linkid=2134761).
+لمزيد من المعلومات، راجع تكوين إعدادات نهج Microsoft Edge على [macOS باستخدام Jamf](https://go.microsoft.com/fwlink/?linkid=2134761).

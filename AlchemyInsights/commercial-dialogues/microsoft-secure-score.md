@@ -3,7 +3,7 @@ title: Microsoft Secure Score
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
-ms.date: 17/02/2021
+ms.date: 02/17/2021
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002486"
 - "7524"
-ms.openlocfilehash: c8fe2efbc8832b02004bcd01eb289d54a42d78f8
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 3e66fad970e52af7ab3b2c5a66001c44b50c2fe6
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50480926"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51403226"
 ---
 # <a name="microsoft-secure-score"></a>Microsoft Secure Score
 
-يمكنك جعل بيئتك أكثر أمانا باستخدام Microsoft Secure Score. فكر في ذلك كالنتيجة الائتمانية لرصيد الأمان. يخبرك أيضا الإجراءات التي يمكنك اتخاذها التي قد تساعد على تحسين أمان المؤسسة.
+يمكنك جعل بيئتك أكثر أمانا باستخدام Microsoft Secure Score. فكر في الأمر على أنه نتيجة ائتمانية لرصيد الأمان. إنه يخبرك بالأفعال التي يمكنك اتخاذها التي قد تساعد على تحسين أمان المؤسسة.
 
-1. انتقل إلى مركز التوافق في [Office 365 &.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. حدد بطاقة Microsoft Secure Score أو انتقل إلى [Microsoft Secure Score.](https://go.microsoft.com/fwlink/?linkid=2099589)
+1. انتقل إلى مركز التوافق [في Office 365 & الأمان.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+1. حدد بطاقة Microsoft Secure Score أو انتقل إلى [Microsoft Secure Score](https://go.microsoft.com/fwlink/?linkid=2099589).
     > [!TIP]
-    >  في الصفحة "نظرة عامة على الدرجة الآمنة ل Microsoft"، حدد إجراءات التحسين للحصول على توصيات حول حماية المؤسسة. يمكنك تحديد "تصفية" أو "تجميع حسب" في الجدول لتحديد الإجراءات التي قد تكون أفضل بسرعة إذا أكملتها بالترتيب.
-1. حدد إجراء تحسين من القائمة. تظهر من قبلة من نوع flyout توفر وصفا مختصرا لل إجراء.
-1. انقر **فوق "عرض** الإعدادات"، ثم اتبع الإرشادات المتوفرة في **الخطوات التالية.**
+    >  في صفحة نظرة عامة على النقاط الآمنة من Microsoft، حدد إجراءات التحسين للحصول على توصيات حول تأمين المؤسسة. يمكنك تحديد تصفية أو تجميع حسب في الجدول لتحديد الإجراءات التي قد تكون أفضل بسرعة إذا أكملتها بالترتيب.
+1. حدد إجراء تحسين من القائمة. تظهر منتحلة تعطي وصفا مختصرا لل الإجراء.
+1. انقر **فوق عرض الإعدادات**، ثم اتبع الإرشادات المتوفرة في **الخطوات التالية**.
     > [!NOTE]
-    > لقد منحت نقاطا لتكوين ميزات الأمان الموصى بها، ولكن تذكر أن بعض الإجراءات سمي ب [لم يتم **تسجيله]**. وهذا يعني أنه حتى إذا قمت بتنفيذ إجراء التحسين هذا، فلن يتم منحتك أي نقاط مقابل نقاطك. وإلا، فقد يستغرق تحديث نقاطك ما يصل إلى *24* ساعة.
+    > لقد منحت نقاطا لتكوين ميزات الأمان الموصى بها، ولكن ضع في اعتبارك أن بعض الإجراءات قد تم تسميتها **ب [لم** يتم تسجيل] . وهذا يعني أنه حتى إذا قمت بتنفيذ إجراء التحسين هذا، فلن يتم منحتك أي نقاط مقابل نقاطك. وإلا، فقد يستغرق تحديث نقاطك ما يصل إلى *24* ساعة.
 
-لمزيد من المعلومات حول Microsoft Secure Score، راجع [Microsoft Secure Score.](https://go.microsoft.com/fwlink/?linkid=2103077)
+لمزيد من المعلومات حول Microsoft Secure Score، راجع [Microsoft Secure Score](https://go.microsoft.com/fwlink/?linkid=2103077).
