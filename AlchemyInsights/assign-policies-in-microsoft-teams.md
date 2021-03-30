@@ -1,5 +1,5 @@
 ---
-title: تعيين سياسات في Microsoft Teams
+title: تعيين النُهج في Microsoft Teams
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -11,17 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
-- "9466"
 - "9000730"
-ms.openlocfilehash: 9d413804c26dd6940060316394b1df6ff8e2b06b
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+- "9000734"
+- "9466"
+- "10006"
+ms.openlocfilehash: 95941fec4951a0e5f01e4984b157d6760f542943
+ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51034779"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51401786"
 ---
-# <a name="assign-policies-in-microsoft-teams"></a>تعيين سياسات في Microsoft Teams
+# <a name="assign-policies-in-microsoft-teams"></a>تعيين النُهج في Microsoft Teams
 
-- لإدارة السياسات بسهولة في مؤسستك، يوفر Teams طرقا متعددة لتعيين سياسات للمستخدمين. قم بتعيين نهج مباشرة إلى المستخدمين، إما بشكل فردي أو على مقياس من خلال تعيين دفعة، أو إلى مجموعة يكون المستخدمون أعضاء فيها.  في الوقت الحالي، لا يتوفر تعيين النهج للمجموعات التي تستخدم مركز إدارة Microsoft Teams إلا لأنواع نهج معينة. 
-- لدى المستخدم نهج فعال واحد لكل نوع نهج. لمراجعة الترتيب الذي يتم به تطبيق النهج على المستخدمين، راجع [أي نهج له الأسبقية؟](https://docs.microsoft.com/microsoftteams/assign-policies#which-policy-takes-precedence)
-- لمزيد من المعلومات، راجع [تعيين سياسات للمستخدمين في Microsoft Teams](https://docs.microsoft.com/microsoftteams/assign-policies).
+- لإدارة النُهج في مؤسستك بسهولة، يقدم Teams عدة طرق لتعيين النُهج للمستخدمين. يمكنك تعيين نهج مباشرةً للمستخدمين، إما بشكل فردي أو على نطاق واسع من خلال تعيين دُفعي أو لمجموعة يكون المستخدمون أعضاء فيها.  حالياً، لا يتوفر تعيين نهج للمجموعات التي تستخدم مركز إدارة Microsoft Teams إلا لأنواع نُهج معينة. 
+- لدى المستخدم نهج واحد فعال لكل نوع من النُهج. لمراجعة الترتيب الذي يتم به تطبيق النُهج على المستخدمين، اطلع على [أي من النُهج له الأسبقية؟](https://docs.microsoft.com/microsoftteams/assign-policies#which-policy-takes-precedence)
+- لمزيد من المعلومات، اطلع على [تعيين النُهج للمستخدمين في Microsoft Teams](https://docs.microsoft.com/microsoftteams/assign-policies).
