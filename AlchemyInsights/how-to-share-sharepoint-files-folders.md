@@ -1,5 +1,5 @@
 ---
-title: كيفيه مشاركه ملفات أو مجلدات SharePoint
+title: كيفية مشاركة ملفات أو مجلدات SharePoint أو OneDrive
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3170"
-ms.openlocfilehash: f75b7521c384396bef61dd9cad256161ddf67d83
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1d021267604325d73d554c107ded943dc7084a24
+ms.sourcegitcommit: 430d247cb5dd5dc5d1f82d977456558dfd514277
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779002"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "51408101"
 ---
-# <a name="how-to-share-sharepoint-files-or-folders"></a>كيفيه مشاركه ملفات أو مجلدات SharePoint
+# <a name="how-to-share-sharepoint-or-onedrive-files-or-folders"></a>كيفية مشاركة ملفات أو مجلدات SharePoint أو OneDrive
 
-عاده تتوفر الملفات التي قمت بتخزينها علي موقع SharePoint لكل شخص لديه أذونات للموقع ، ولكن قد ترغب في مشاركه ملفات أو مجلدات معينه مع الأشخاص الذين لا يمكنهم الوصول إلى الموقع. عند مشاركه الملفات والمجلدات ، يمكنك تحديد ما إذا كنت تريد تمكين الأشخاص من تحريرها أو عرضها فقط.
+عادة ما تكون الملفات التي تخزنها على موقع SharePoint متوفرة لجميع الأشخاص الذين لديهم أذونات للوصول إلى الموقع، ولكنك قد ترغب في مشاركة ملفات أو مجلدات معينة مع أشخاص ليس لديهم حق الوصول إلى الموقع بخلاف ذلك. عند مشاركة الملفات والمجلدات، يمكنك أن تقرر ما إذا كنت تريد السماح للأشخاص بتحريرها أو عرضها فقط. لمزيد من المعلومات، اطلع على:
 
-[مشاركه ملفات أو مجلدات SharePoint](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c)
+[مشاركة ملفات أو مجلدات SharePoint](https://support.office.com/article/1fe37332-0f9a-4719-970e-d2578da4941c)
+
+[مشاركة ملفات OneDrive ومجلداته](https://support.microsoft.com/office/share-onedrive-files-and-folders-9fcc2f7d-de0c-4cec-93b0-a82024800c07?ui=en-US&rs=en-US&ad=US&storagetype=stage)
