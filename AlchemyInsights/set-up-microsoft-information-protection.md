@@ -1,5 +1,5 @@
 ---
-title: اعداد حماية المعلومات من Microsoft
+title: إعداد حماية المعلومات في Microsoft
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004221"
 - "7429"
-ms.openlocfilehash: bde2c53eccb4ac687a064c3ab44c362d995e2fa6
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
-ms.translationtype: MT
+- "9254"
+- "9000181"
+ms.openlocfilehash: 05ba48033cde51e3055c52d9501ea0a3f573f2a5
+ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
+ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49676751"
+ms.lasthandoff: 03/30/2021
+ms.locfileid: "51440916"
 ---
-# <a name="set-up-microsoft-information-protection"></a><span data-ttu-id="70018-102">اعداد حماية المعلومات من Microsoft</span><span class="sxs-lookup"><span data-stu-id="70018-102">Set up Microsoft information protection</span></span>
+# <a name="set-up-microsoft-information-protection"></a><span data-ttu-id="0a479-102">إعداد حماية المعلومات في Microsoft</span><span class="sxs-lookup"><span data-stu-id="0a479-102">Set up Microsoft information protection</span></span>
 
-<span data-ttu-id="70018-103">احصل علي نظره عامه حول الإمكانيات التي يمكنك تطبيقها علي استراتيجية حماية المعلومات الخاصة بك بحيث يمكنك الثقة بالمعلومات الحساسة الخاصة بك محمية.</span><span class="sxs-lookup"><span data-stu-id="70018-103">Get an overview of the capabilities you can apply to your Information Protection strategy so that you can be confident your sensitive information is protected.</span></span> <span data-ttu-id="70018-104">استخدم أسلوب دوره حياه بأربعه مراحل لاكتشاف المعلومات الحساسة وتصنيفها وحمايتها ومراقبتها.</span><span class="sxs-lookup"><span data-stu-id="70018-104">Use a four-stage lifecycle approach in which you discover, classify, protect, and monitor sensitive information.</span></span> <span data-ttu-id="70018-105">يوفر الدليل "اعداد حماية المعلومات من Microsoft" إرشادات لإكمال كل من هذه المراحل.</span><span class="sxs-lookup"><span data-stu-id="70018-105">The "Microsoft information protection setup" guide provides guidance for completing each of these stages.</span></span>
+<span data-ttu-id="0a479-103">احصل على نظرة عامة على الإمكانات التي يمكنك تطبيقها على استراتيجية حماية المعلومات، بحيث تكون واثقاً من حماية معلوماتك الحساسة.</span><span class="sxs-lookup"><span data-stu-id="0a479-103">Get an overview of the capabilities you can apply to your Information Protection strategy so that you can be confident your sensitive information is protected.</span></span> <span data-ttu-id="0a479-104">استخدم نهج دورة الحياة المكون من أربع مراحل، والذي يمكنك من خلاله اكتشاف المعلومات الحساسة وتصنيفها وحمايتها ومراقبتها.</span><span class="sxs-lookup"><span data-stu-id="0a479-104">Use a four-stage lifecycle approach in which you discover, classify, protect, and monitor sensitive information.</span></span> <span data-ttu-id="0a479-105">يوفر لك [دليل إعداد حماية المعلومات في Microsoft](https://go.microsoft.com/fwlink/?linkid=2146619) إرشادات لإكمال كل مرحلة من تلك المراحل.</span><span class="sxs-lookup"><span data-stu-id="0a479-105">The [Microsoft information protection setup guide](https://go.microsoft.com/fwlink/?linkid=2146619) provides guidance for completing each of these stages.</span></span>
