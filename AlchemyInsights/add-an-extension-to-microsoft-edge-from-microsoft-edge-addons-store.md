@@ -1,5 +1,5 @@
 ---
-title: أضافه ملحق إلى Microsoft Edge من متجر Microsoft Edge للوظائف الاضافيه
+title: إضافة ملحق إلى Microsoft Edge من متجر الوظائف الإضافية ل Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,20 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003858"
 - "6919"
-ms.openlocfilehash: 18c7a6a8e397744a114c4bb91df6c45416d9af87
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+- "8310"
+- "9004621"
+ms.openlocfilehash: eacc0feca236f1d25e79aa55a56645c0b290c631
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49676800"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51504983"
 ---
-# <a name="add-an-extension-to-microsoft-edge-from-the-microsoft-edge-add-ons-store"></a>أضافه ملحق إلى Microsoft Edge من متجر Microsoft Edge للوظائف الاضافيه
+# <a name="add-an-extension-to-microsoft-edge-from-the-microsoft-edge-add-ons-store"></a>إضافة ملحق إلى Microsoft Edge من متجر الوظائف الإضافية ل Microsoft Edge
 
-لأضافه ملحق إلى Microsoft Edge من متجر Microsoft Edge الوظائف الاضافيه:
+لإضافة ملحق إلى Microsoft Edge من متجر الوظائف الإضافية ل Microsoft Edge:
 
 - افتح Microsoft Edge.
-- حدد **... > > [الحصول علي ملحقات ل Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2136408)**.
-- حدد الملحق الذي تريد اضافته ، ثم حدد **Get**.
-- في مربع حوار التاكيد ، قم بمراجعه التعديلات التي قد يقوم الملحق باجراءها بعناية ، وحدد **أضافه ملحق**.
+- حدد **... > الملحقات > الحصول على [ملحقات ل Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2136408)**.
+- حدد الملحق الذي تريد إضافته، ثم حدد **الحصول على**.
+- في مربع حوار التأكيد، راجع بعناية التعديلات التي قد يتم إدخالها على الملحق، وحدد **إضافة ملحق**.
 
-ثم ستحصل علي تاكيد بأنه تمت أضافه الملحق.
+سوف تحصل بعد ذلك على تأكيد بأن الملحق قد تم إضافته.

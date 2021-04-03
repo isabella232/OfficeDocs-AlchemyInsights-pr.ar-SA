@@ -1,5 +1,5 @@
 ---
-title: أداره كل مجموعه الشركات في Yammer
+title: Yammer إدارة كل مجموعة الشركة
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,15 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1019"
 - "6000003"
-ms.openlocfilehash: 49ea7fdadc2cc241e85f47f68f07f610b7306648
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3a7b607adba78349309d8f2ceb067f0c7493905c
+ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688825"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "51505415"
 ---
-# <a name="all-company-group"></a>كل مجموعه الشركات
+# <a name="all-company-group"></a>مجموعة جميع الشركات
 
-يتم إنشاء مجموعه **كافة الشركات** تلقائيا عند إنشاء شبكه Yammer. انها مجموعه نظام افتراضيه لا يمكن أعاده تسميتها أو حذفها. يمكن للجميع النشر إلى مجموعه " **كافة الشركات** " ، ولكن يمكن فقط لمسؤولي شبكه Yammer نشر الإعلانات إلى المجموعة. استخدم **المعارف الدقيقة للمجموعة**لعرض معلومات حول التفاوض في المجموعة **كافة الشركات** .
+يدعم مجتمع "كل الشركة" الآن قدرات مماثلة للطوائف الأخرى في Yammer. يشمل ذلك خيارات مثل صور الغلاف وتسمية. من الممكن أيضا تقييد كل منشورات الشركة في Yammer. لمزيد من المعلومات، راجع تعمل كل الشركة الآن [مثل مجتمعات Yammer الأخرى.](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-all-company-yammer-community)
 
-لمزيد من المعلومات ، راجع [أداره مجموعه في Yammer](https://support.office.com/article/Manage-a-group-in-Yammer-6e05c6d6-5548-4c88-89cd-e6757a514ef2).
+## <a name="common-issues-and-solutions"></a>المشاكل والحلول الشائعة
+
+- لا يتوفر كل تقييد النشر أو التخصيص الخاص بالشركة لمسؤولي الشبكة. افتح طلب خدمة لتمكين مجموعة كل الشركة الحديثة.
+
+- لا تظهر تحليلات المجتمع البيانات القديمة. الآن وقد أصبحت كل الشركة مجتمعا حقيقيا، لن تظهر البيانات السابقة للشبكة.
+
+- يبدو أن كل الشركة محذوفة. عندما يكون المجتمع متصلا بمجموعة Microsoft 365، يمكن حذف هذه المجموعة. يجب استعادة مجموعة Microsoft 365 في المستأجر.
+
