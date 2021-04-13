@@ -1,5 +1,5 @@
 ---
-title: 712 تحويل قائمه توزيع إلى مجموعه Microsoft 365
+title: 712 تحويل قائمة توزيع إلى مجموعة Microsoft 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,13 +14,15 @@ ms.custom:
 - "712"
 - "3"
 ms.assetid: a54600a0-e150-4a1a-8d67-ed77624bb928
-ms.openlocfilehash: 457dd29bd940e192eb4962d44bebc652646566f2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d184db0a82e4f10108ddad80611fc9a47483cfe7
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732954"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692309"
 ---
-# <a name="convert-a-distribution-group-to-a-microsoft-365-group"></a><span data-ttu-id="5dae6-102">تحويل مجموعه توزيع إلى مجموعه Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="5dae6-102">Convert a distribution group to a Microsoft 365 Group</span></span>
+# <a name="convert-a-distribution-group-to-a-microsoft-365-group"></a><span data-ttu-id="de156-102">تحويل مجموعة توزيع إلى مجموعة Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="de156-102">Convert a distribution group to a Microsoft 365 Group</span></span>
 
-<span data-ttu-id="5dae6-103">يمكنك تحويل مجموعات التوزيع إلى مجموعات Microsoft 365 إذا كانت تفي بمعايير معينه.</span><span class="sxs-lookup"><span data-stu-id="5dae6-103">You can convert distribution groups to Microsoft 365 Groups if they satisfy certain criteria.</span></span> <span data-ttu-id="5dae6-104">لتحويل مجموعه أو استكشاف مشاكل التحويل وإصلاحها ، راجع [ترقيه قوائم التوزيع إلى مجموعات Microsoft 365 في Outlook](https://docs.microsoft.com/microsoft-365/admin/manage/upgrade-distribution-lists).</span><span class="sxs-lookup"><span data-stu-id="5dae6-104">To convert a group or troubleshoot conversion issues, see [Upgrade distribution lists to Microsoft 365 Groups in Outlook](https://docs.microsoft.com/microsoft-365/admin/manage/upgrade-distribution-lists).</span></span>
+<span data-ttu-id="de156-103">يمكنك تحويل مجموعات التوزيع إلى مجموعات Microsoft 365 إذا كانت تفي بمعايير معينة.</span><span class="sxs-lookup"><span data-stu-id="de156-103">You can convert distribution groups to Microsoft 365 Groups if they satisfy certain criteria.</span></span> <span data-ttu-id="de156-104">لتحويل مجموعة أو استكشاف مشاكل التحويل وإصلاحها، راجع ترقية قوائم التوزيع [إلى مجموعات Microsoft 365 في Outlook](https://docs.microsoft.com/microsoft-365/admin/manage/upgrade-distribution-lists).</span><span class="sxs-lookup"><span data-stu-id="de156-104">To convert a group or troubleshoot conversion issues, see [Upgrade distribution lists to Microsoft 365 Groups in Outlook](https://docs.microsoft.com/microsoft-365/admin/manage/upgrade-distribution-lists).</span></span>
+
+<span data-ttu-id="de156-105">لدى We أيضا برنامج نصي يمكنك تشغيله لمساعدتك في التحقق من صحة الأهلية لمجموعة التوزيع [للترقية إلى مجموعة Microsoft 365](https://aka.ms/DLToM365Group).</span><span class="sxs-lookup"><span data-stu-id="de156-105">W alsoe have a script you can run to help you with [Validating Distribution Group eligibility for upgrade to Microsoft 365 Group](https://aka.ms/DLToM365Group).</span></span>

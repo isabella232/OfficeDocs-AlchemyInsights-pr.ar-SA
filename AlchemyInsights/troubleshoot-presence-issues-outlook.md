@@ -1,0 +1,13 @@
+---
+<span data-ttu-id="08f77-101">العنوان: "استكشاف مشاكل حالة الحضور وإصلاحها في Outlook" ms.author: pebaum author: pebaum manager: scotv ms.date: 04/8/2021 ms.audience: Admin ms.topic: article ms.service: o365-administration ROBOTS: NOINDEX, NOFOLLOW localization_priority: Priority ms.collection: Adm_O365 ms.custom: (</span><span class="sxs-lookup"><span data-stu-id="08f77-101">title: "Troubleshoot presence issues in Outlook" ms.author: pebaum author: pebaum manager: scotv ms.date: 04/8/2021 ms.audience: Admin ms.topic: article ms.service: o365-administration ROBOTS: NOINDEX, NOFOLLOW localization_priority: Priority ms.collection: Adm_O365 ms.custom: (</span></span>
+- <span data-ttu-id="08f77-102">9257</span><span class="sxs-lookup"><span data-stu-id="08f77-102">9257</span></span>
+- <span data-ttu-id="08f77-103">9003349</span><span class="sxs-lookup"><span data-stu-id="08f77-103">9003349</span></span>
+---
+
+# <a name="troubleshoot-presence-issues-in-outlook"></a><span data-ttu-id="08f77-104">استكشاف مشاكل حالة الحضور في Outlook وإصلاحها</span><span class="sxs-lookup"><span data-stu-id="08f77-104">Troubleshoot presence issues in Outlook</span></span>
+
+<span data-ttu-id="08f77-105">لتشخيص المشاكل المتعلقة حالة الحضور لمستخدم في Outlook وتصحيحها، قم بتنزيل مساعد الاسترداد والدعم من Microsoft وتشغيله > [حالة حضور Teams](https://aka.ms/SaRA-TeamsPresenceScenario).</span><span class="sxs-lookup"><span data-stu-id="08f77-105">To diagnose and correct issues with the presence status for a user in Outlook, download and run Microsoft Support and Recovery Assistant > [Teams Presence Scenario](https://aka.ms/SaRA-TeamsPresenceScenario).</span></span>
+
+<span data-ttu-id="08f77-106">لا استكشاف مشكلة حالة الحضور في Outlook وإصلاحها يدويا، اتبع الخطوات في مشاكل حالة [حضور المستخدم في Outlook](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/issues-with-presence-in-outlook).</span><span class="sxs-lookup"><span data-stu-id="08f77-106">To manually troubleshoot an issue with presence in Outlook, follow the steps in [User presence status issues in Outlook](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/issues-with-presence-in-outlook).</span></span>
+
+<span data-ttu-id="08f77-107">إذا لم يتم تحديث حالة الحضور في Teams، فشاهد عدم انعكاس حالة حضورك [الفعلية في Teams](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/presence-not-show-actual-status).</span><span class="sxs-lookup"><span data-stu-id="08f77-107">If the presence status is not updating in Teams, see [Your actual presence status isn't reflected in Teams](https://docs.microsoft.com/microsoftteams/troubleshoot/teams-im-presence/presence-not-show-actual-status).</span></span>

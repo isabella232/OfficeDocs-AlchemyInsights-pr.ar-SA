@@ -12,16 +12,16 @@ ms.custom:
 - "1195"
 - "1200004"
 ms.assetid: b8308c24-029f-43ab-af84-0ac97e6ff9d7
-ms.openlocfilehash: 05921c935721975c0a6a983861cc45f26eae8966
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0648313f75a6c3074fe9ade3e8b30e39869c40cb
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710182"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692237"
 ---
-# <a name="email-forwarding-report"></a><span data-ttu-id="a809e-102">تقرير إعادة توجيه البريد الإلكتروني</span><span class="sxs-lookup"><span data-stu-id="a809e-102">Email forwarding report</span></span>
+# <a name="email-forwarding-report"></a><span data-ttu-id="56c30-102">تقرير إعادة توجيه البريد الإلكتروني</span><span class="sxs-lookup"><span data-stu-id="56c30-102">Email forwarding report</span></span>
 
-<span data-ttu-id="a809e-103">للاطلاع على تقرير حول عدد الرسائل المعاد توجيهها تلقائياً في مؤسستك، تحقق من [نتائج تحليلات تدفق البريد](https://docs.microsoft.com//office365/securitycompliance/mail-flow-insights-v2) في [مركز التوافق &amp; والأمان لـ Microsoft 365](https://protection.office.com/#/homepage).</span><span class="sxs-lookup"><span data-stu-id="a809e-103">To see a report on how many auto-forwarded messages there are in your organization, check [Mail flow insights](https://docs.microsoft.com//office365/securitycompliance/mail-flow-insights-v2) in the [Microsoft 365 Security &amp; Compliance Center](https://protection.office.com/#/homepage).</span></span>
+<span data-ttu-id="56c30-103">لمشاهدة تقرير حول عدد الرسائل التي تم إعادة توجيهها [](https://docs.microsoft.com/microsoft-365/security/office-365-security/mfi-auto-forwarded-messages-report) بشكل تلقائي في مؤسستك، تحقق من رؤى الرسائل التي تم إعادة توجيهها بشكل تلقائي في مركز التوافق & الأمان في مركز توافق الأمان ل [Microsoft 365 &amp; ](https://protection.office.com/#/homepage).</span><span class="sxs-lookup"><span data-stu-id="56c30-103">To see a report on how many auto-forwarded messages there are in your organization, check [Auto-forwarded messages insight in the Security & Compliance Center](https://docs.microsoft.com/microsoft-365/security/office-365-security/mfi-auto-forwarded-messages-report) in the [Microsoft 365 Security &amp; Compliance Center](https://protection.office.com/#/homepage).</span></span>
   
-<span data-ttu-id="a809e-104">ملاحظة مهمة: إذا كانت هذه هي المرة الأولى التي تقوم فيها بتسجيل الدخول إلى &amp; مركز توافق الأمان، فقد تحتاج إلى تحديث المُستعرض بعد بضع دقائق للاطلاع على كل الخيارات المتوفرة.</span><span class="sxs-lookup"><span data-stu-id="a809e-104">Please note: if this is the first time you are logging into the Security &amp; Compliance Center, you might need to refresh the browser after a few minutes to see all of the available options.</span></span>
+<span data-ttu-id="56c30-104">ملاحظة مهمة: إذا كانت هذه هي المرة الأولى التي تقوم فيها بتسجيل الدخول إلى &amp; مركز توافق الأمان، فقد تحتاج إلى تحديث المُستعرض بعد بضع دقائق للاطلاع على كل الخيارات المتوفرة.</span><span class="sxs-lookup"><span data-stu-id="56c30-104">Please note: if this is the first time you are logging into the Security &amp; Compliance Center, you might need to refresh the browser after a few minutes to see all of the available options.</span></span>
   
