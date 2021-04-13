@@ -13,12 +13,12 @@ ms.custom:
 - "9000701"
 - "3831"
 - "3832"
-ms.openlocfilehash: 023bb40e54a1f1a87f0b618d49a812fc9dfda971
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 893c8cacaf089932014ba7a3ea6122d17da38cdd
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737004"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692381"
 ---
 # <a name="teams-common-issues-for-education-customers"></a>المشكلات الشائعة في تطبيق Teams بالنسبة لعملاء التعليم
 
@@ -41,12 +41,12 @@ ms.locfileid: "47737004"
     1. انتقل إلى "المستخدمين النشطين" ثم حدد المستخدم المطلوب.
     2. استناداً إلى إصدار مركز الإدارة، اختر إما **التراخيص والتطبيقات** أو انقر فوق **تحرير** في **تراخيص المنتجات**.
     3. تأكد من أن المستخدم لديه تراخيص محددة للمؤتمرات الصوتية وMicrosoft Teams وSkype for Business Online (الخطة 2).
-    4. في مراكز إدارة المستخدمين انقر فوق **عرض الكل** ثم** Teams**.
+    4. في مراكز إدارة المستخدمين انقر فوق **عرض الكل** ثم **Teams**.
     5. في مركز إدارة Microsoft Teams، انقر فوق **البوابة القديمة**.
     6. في مركز إدارة Skype for Business، انقر فوق **المؤتمرات الصوتية** ثم **المستخدمين**.
     7. حدد المستخدم المطلوب وتحقق من توفر "رقم المكالمات الخارجية الافتراضي" لدى المستخدم.
 
-    للحصول على مزيد من المعلومات، راجع [خطط الاتصال](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) أو اتصل بفريق Microsoft للفوترة التجارية لمساعدتك فيما يخص أسئلة الترخيص.
+    لمزيد من المعلومات، يمكنك الرجوع إلى [خطط الاتصال في Microsoft Teams](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) أو الاتصال بفريق الفوترة التجارية من Microsoft للحصول على المساعدة في الأسئلة المتعلقة بالترخيص.
 
     موارد إضافية
 

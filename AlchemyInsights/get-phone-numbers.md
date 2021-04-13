@@ -1,5 +1,5 @@
 ---
-title: الحصول علي أرقام الهواتف
+title: الحصول على أرقام الهواتف
 ms.author: pebaum
 author: pebaum
 manager: mnirkhe
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002342"
 - "5613"
-ms.openlocfilehash: a7b8c6eb170c809b616abf63e2bf3fcd56ebee25
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 817aec945e037621dd2de3b32714eaab48aa8839
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707338"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692165"
 ---
-# <a name="get-phone-numbers"></a>الحصول علي أرقام الهواتف
+# <a name="get-phone-numbers"></a>الحصول على أرقام الهواتف
 
-بعد شراء [نظام الهاتف وتراخيص خطه الاتصالات](https://docs.microsoft.com/MicrosoftTeams/setting-up-your-phone-system#step-2-buy-and-assign-phone-system-and-calling-plan-licenses)، ستحتاج إلى الحصول علي أرقام الهواتف للمستخدمين. لديك 3 طرق للحصول علي أرقام الهواتف.
+بعد شراء تراخيص Microsoft Teams Phone و Microsoft [Teams Calling Plans](https://docs.microsoft.com/MicrosoftTeams/setting-up-your-phone-system#step-2-buy-and-assign-phone-system-and-calling-plan-licenses)، ستحتاج إلى الحصول على أرقام الهواتف للمستخدمين. لديك 3 طرق للحصول على أرقام الهواتف.
 
-1. [احصل علي أرقام جديده باستخدام مركز أداره الفرق](https://docs.microsoft.com/MicrosoftTeams/setting-up-your-phone-system#get-new-user-phone-numbers-using-the-teams-admin-center).
-2. [احصل علي أرقام جديده غير متوفرة في مركز أداره الفرق](https://docs.microsoft.com/MicrosoftTeams/setting-up-your-phone-system#get-new-numbers-that-arent-available-in-the-teams-admin-center).
-3. [منفذ أو نقل أرقام الهاتف من موفر الخدمة أو شركه الهاتف](https://docs.microsoft.com/MicrosoftTeams/setting-up-your-phone-system#port-or-transfer-phone-numbers-from-your-service-provider-or-phone-carrier).
+1. [احصل على أرقام جديدة باستخدام مركز إدارة Teams](https://docs.microsoft.com/MicrosoftTeams/setting-up-your-phone-system#get-new-user-phone-numbers-using-the-teams-admin-center).
+2. [احصل على أرقام جديدة غير متوفرة في مركز إدارة Teams](https://docs.microsoft.com/MicrosoftTeams/setting-up-your-phone-system#get-new-numbers-that-arent-available-in-the-teams-admin-center).
+3. نقل أرقام الهواتف أو نقلها من [موفر الخدمة أو شركة الهاتف.](https://docs.microsoft.com/MicrosoftTeams/setting-up-your-phone-system#port-or-transfer-phone-numbers-from-your-service-provider-or-phone-carrier)
 
-لمزيد من المعلومات ، راجع [الحصول علي أرقام الهواتف للمستخدمين](https://docs.microsoft.com/MicrosoftTeams/setting-up-your-phone-system#port-or-transfer-phone-numbers-from-your-service-provider-or-phone-carrier).
+لمزيد من المعلومات، راجع الحصول على [أرقام الهواتف للمستخدمين](https://docs.microsoft.com/MicrosoftTeams/setting-up-your-phone-system#port-or-transfer-phone-numbers-from-your-service-provider-or-phone-carrier).

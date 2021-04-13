@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000766"
 - "3183"
-ms.openlocfilehash: 4cabc559d0f201fc2ad5004e459a871d0caaf545
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1234963d16c011a010cf2b6c99be098edce2dfb6
+ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47739596"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "51692669"
 ---
 # <a name="setup-audio-conferencing-for-teams"></a>إعداد المؤتمرات الصوتية لـ Teams
 
@@ -33,7 +33,7 @@ ms.locfileid: "47739596"
 
 2. استناداً إلى إصدار مركز الإدارة، اختر إما **التراخيص والتطبيقات** أو انقر فوق **تحرير** في **تراخيص المنتجات**.
 
-3. تأكد من أن المستخدم لديه تراخيص محددة لـ **المؤتمرات الصوتية وMicrosoft Teams** و**Skype for Business Online (الخطة 2)**.
+3. تأكد من أن المستخدم لديه تراخيص محددة لـ **المؤتمرات الصوتية وMicrosoft Teams** و **Skype for Business Online (الخطة 2)**.
 
 4. المستخدم **مراكز الإدارة** انقر فوق **عرض الجميع** ثم **Teams**.
 
@@ -43,4 +43,4 @@ ms.locfileid: "47739596"
 
 7. حدد المستخدم المطلوب وتحقق من أنه يتوفر لدى المستخدم **رقم المكالمات الافتراضي**.
 
-للحصول على مزيد من المعلومات، راجع [أنظمة الاتصال لـ Microsoft 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) أو اتصل بفريق Microsoft للفوترة التجارية لمساعدتك فيما يخص أسئلة الترخيص.
+لمزيد من المعلومات، يمكنك الرجوع إلى خطط الاتصال في Microsoft Teams ل [Microsoft 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) أو الاتصال بفريق الفوترة التجارية من Microsoft للحصول على المساعدة في الأسئلة المتعلقة بالترخيص.
