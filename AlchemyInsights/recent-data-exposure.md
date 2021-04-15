@@ -1,8 +1,8 @@
 ---
-title: تعرض البيانات الاخيره
+title: التعرض للبيانات الأخيرة
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001493"
 - "3548"
-ms.openlocfilehash: e62710d2475656a733addfb3332e9509e061ab68
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 28a45f9922dd53727d80707aed781f7497c7ab9c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693218"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51789347"
 ---
-# <a name="recent-data-exposure"></a><span data-ttu-id="a09e1-102">تعرض البيانات الاخيره</span><span class="sxs-lookup"><span data-stu-id="a09e1-102">Recent data exposure</span></span>
+# <a name="recent-data-exposure"></a><span data-ttu-id="315a3-102">التعرض للبيانات الأخيرة</span><span class="sxs-lookup"><span data-stu-id="315a3-102">Recent data exposure</span></span>
 
-<span data-ttu-id="a09e1-103">كانت Microsoft علي علم بالباحث التابعة لجات خارجيه انه قد تم الوصول إلى قاعده بيانات ريداكتيد بيانات دعم Microsoft بدون مصادقه.</span><span class="sxs-lookup"><span data-stu-id="a09e1-103">Microsoft was made aware by a third-party researcher that a database hosting redacted Microsoft support data was accessible without authentication.</span></span> <span data-ttu-id="a09e1-104">في 31 ديسمبر 2019 ، تامين Microsoft قاعده البيانات.</span><span class="sxs-lookup"><span data-stu-id="a09e1-104">On December 31, 2019, Microsoft secured the database.</span></span>
+<span data-ttu-id="315a3-103">قام باحث من جهة خارجية بتنبيه Microsoft إلى أنه يمكن الوصول إلى بيانات دعم Microsoft التي تستضيف قاعدة بيانات معتدة من دون مصادقة.</span><span class="sxs-lookup"><span data-stu-id="315a3-103">Microsoft was made aware by a third-party researcher that a database hosting redacted Microsoft support data was accessible without authentication.</span></span> <span data-ttu-id="315a3-104">في 31 ديسمبر 2019، قامت Microsoft بتأمين قاعدة البيانات.</span><span class="sxs-lookup"><span data-stu-id="315a3-104">On December 31, 2019, Microsoft secured the database.</span></span>
 
-<span data-ttu-id="a09e1-105">تلتزمنا بالخصوصية والأمان لعملاءنا ستتخذ إجراءا لمنع التكرارات المستقبلية لهذه المشكلة.</span><span class="sxs-lookup"><span data-stu-id="a09e1-105">We are committed to the privacy and security of our customers and are taking action to prevent future occurrences of this issue.</span></span> <span data-ttu-id="a09e1-106">لقد بدانا اعلامات بالعملاء الذين تم تقديم بياناتهم في قاعده بيانات ريداكتيد هذه.</span><span class="sxs-lookup"><span data-stu-id="a09e1-106">We have begun notifications to customers whose data was present in this redacted database.</span></span> <span data-ttu-id="a09e1-107">للحصول علي مزيد من المعلومات ، يرجى الانتقال إلى [معلومات ادراك العملاء ذات الصلة بالتعرض الأخير من المعلومات](https://aka.ms/privacyinfo).</span><span class="sxs-lookup"><span data-stu-id="a09e1-107">For more information, please go to [Customer awareness information related to a recent information exposure](https://aka.ms/privacyinfo).</span></span>
+<span data-ttu-id="315a3-105">نحن ملتزمون بالخصوصية والأمان لعملائنا ونأخذ إجراء لمنع حدوث هذه المشكلة في المستقبل.</span><span class="sxs-lookup"><span data-stu-id="315a3-105">We are committed to the privacy and security of our customers and are taking action to prevent future occurrences of this issue.</span></span> <span data-ttu-id="315a3-106">لقد بدأنا تلقي إعلامات للعملاء الذين كانت بياناتهم موجودة في قاعدة البيانات التي تم إعادة تنشيطها.</span><span class="sxs-lookup"><span data-stu-id="315a3-106">We have begun notifications to customers whose data was present in this redacted database.</span></span> <span data-ttu-id="315a3-107">لمزيد من المعلومات، يرجى الانتقال إلى معلومات [وعي العملاء المتعلقة بالتعرض للمعلومات الأخيرة.](https://aka.ms/privacyinfo)</span><span class="sxs-lookup"><span data-stu-id="315a3-107">For more information, please go to [Customer awareness information related to a recent information exposure](https://aka.ms/privacyinfo).</span></span>
