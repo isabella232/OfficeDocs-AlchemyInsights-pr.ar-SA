@@ -1,8 +1,8 @@
 ---
-title: تعرض البيانات الاخيره
+title: التعرض للبيانات الأخيرة
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001493"
 - "3548"
-ms.openlocfilehash: e62710d2475656a733addfb3332e9509e061ab68
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 28a45f9922dd53727d80707aed781f7497c7ab9c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693218"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51789347"
 ---
-# <a name="recent-data-exposure"></a>تعرض البيانات الاخيره
+# <a name="recent-data-exposure"></a>التعرض للبيانات الأخيرة
 
-كانت Microsoft علي علم بالباحث التابعة لجات خارجيه انه قد تم الوصول إلى قاعده بيانات ريداكتيد بيانات دعم Microsoft بدون مصادقه. في 31 ديسمبر 2019 ، تامين Microsoft قاعده البيانات.
+قام باحث من جهة خارجية بتنبيه Microsoft إلى أنه يمكن الوصول إلى بيانات دعم Microsoft التي تستضيف قاعدة بيانات معتدة من دون مصادقة. في 31 ديسمبر 2019، قامت Microsoft بتأمين قاعدة البيانات.
 
-تلتزمنا بالخصوصية والأمان لعملاءنا ستتخذ إجراءا لمنع التكرارات المستقبلية لهذه المشكلة. لقد بدانا اعلامات بالعملاء الذين تم تقديم بياناتهم في قاعده بيانات ريداكتيد هذه. للحصول علي مزيد من المعلومات ، يرجى الانتقال إلى [معلومات ادراك العملاء ذات الصلة بالتعرض الأخير من المعلومات](https://aka.ms/privacyinfo).
+نحن ملتزمون بالخصوصية والأمان لعملائنا ونأخذ إجراء لمنع حدوث هذه المشكلة في المستقبل. لقد بدأنا تلقي إعلامات للعملاء الذين كانت بياناتهم موجودة في قاعدة البيانات التي تم إعادة تنشيطها. لمزيد من المعلومات، يرجى الانتقال إلى معلومات [وعي العملاء المتعلقة بالتعرض للمعلومات الأخيرة.](https://aka.ms/privacyinfo)

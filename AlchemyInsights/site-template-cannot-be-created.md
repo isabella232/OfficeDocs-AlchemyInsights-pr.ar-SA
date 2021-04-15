@@ -1,8 +1,8 @@
 ---
-title: لا يمكن إنشاء قالب الموقع
+title: يتعذر إنشاء قالب الموقع
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000094"
 - "5708"
-ms.openlocfilehash: 03d2839811dcea6c5fa7a8325d97a8afa20233a6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0e371289cc1cf531909058ce2189cb3a5436d6fd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47691526"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51786872"
 ---
-# <a name="site-template-cannot-be-created"></a>لا يمكن إنشاء قالب الموقع
+# <a name="site-template-cannot-be-created"></a>يتعذر إنشاء قالب الموقع
 
-قد لا يحتوي القالب علي ميزه ولن يتم تنشيطها. إذا لم تكن الميزة متوفرة للتنشيط في مجموعه المواقع المشتركة الحالية ، فلا يمكنك استخدام قالب الموقع لإنشاء موقع.
+قد يفتقد القالب إلى ميزة ولن يتم تنشيطه. إذا لم تكن الميزة متوفرة للتنشيط في مجموعة المواقع الحالية، فلا يمكنك استخدام قالب الموقع لإنشاء موقع.
 
-- التحقق لمعرفه ما إذا كانت هناك اي قوائم أو مكتبات تتجاوز [عتبه حدود طريقه عرض القائمة](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) لعناصر 5000 بما انه بإمكانه حظر إنشاء قالب الموقع.
+- تحقق لمعرفة ما إذا كانت هناك [](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) أي قوائم أو مكتبات تتجاوز عتبة حد طريقة عرض القائمة وهو 5000 عنصر حيث يمكن أن يمنع ذلك إنشاء قالب موقع.
 
-- قد يستخدم الموقع عددا كبيرا جدا من الموارد ، التالي فان قالب الموقع يتجاوز الحد الأقصى ل50.
+- قد يستخدم الموقع موارد كثيرة جدا، وبالتالي يتجاوز قالب الموقع الحد الأقصى وهو 50 مبايت.
 
-- هناك مشاكل تعرض البيانات من قائمه تستخدم عمود بحث. لمزيد من المعلومات ، راجع [القائمة التي تم إنشاؤها بالقوالب لا تعرض البيانات من قائمه البحث الصحيحة في SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).
+- هناك مشاكل في عرض البيانات من قائمة تستخدم عمود البحث. لمزيد من المعلومات، راجع لا تعرض القائمة التي تم إنشاؤها بواسطة القالب البيانات من قائمة البحث [الصحيحة في SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).
 
-للحصول علي مزيد من المعلومات حول المشاكل والحلول الشائعة ، يرجى مراجعه [إنشاء قوالب الموقع واستخدامها](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).
+للحصول على مزيد من المعلومات المفصلة حول المشاكل والحلول الشائعة، الرجاء الاطلاع [على إنشاء قوالب الموقع واستخدامها](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).

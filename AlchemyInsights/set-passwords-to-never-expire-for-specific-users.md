@@ -1,8 +1,8 @@
 ---
-title: اعداد SPF
+title: إعداد SPF
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -15,22 +15,22 @@ ms.custom:
 - "1100002"
 - "1100003"
 ms.assetid: 0ba5e44e-f0ae-4978-98a3-90065447af08
-ms.openlocfilehash: 6f9cac3fa487c42db60065a94eb7a8c2c9271691
-ms.sourcegitcommit: 1a9c59ae8d8c88dc53101881534670624a9973f6
+ms.openlocfilehash: 85f6c9c722b0b3a89802dfb256505ff5b746788f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "48295593"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51788978"
 ---
-# <a name="set-passwords-to-never-expire"></a>تعيين كلمات المرور بحيث لا تنتهي صلاحيتها أبدا
+# <a name="set-passwords-to-never-expire"></a>تعيين كلمات المرور حتى لا تنتهي صلاحيتها أبدا
 
-لتعيين كافة كلمات المرور بحيث لا تنتهي صلاحيتها أبدا ، في مركز أداره **Settings**Microsoft 365 ، انتقل إلى  >  **  >  [نهج انتهاء صلاحيه كلمه المرور](https://portal.microsoft.com/Adminportal/Home#/Settings/SecurityPrivacy/:/Settings/L1/PasswordPolicy) الخاصة بالإعدادات > [الأمان والخصوصية](https://portal.office.com/adminportal/home#/settings/security)** وإلغاء تحديدها "تعيين كلمات مرور المستخدمين بحيث تنتهي صلاحيتها بعد عدد من الأيام".
+لتعيين كافة كلمات المرور على عدم انتهاء صلاحيتها مطلقا، في مركز إدارة Microsoft 365، انتقل إلى إعدادات المؤسسة الإعدادات > نهج انتهاء صلاحية كلمة مرور الأمان والخصوصية ثم قم ب إلغاء تحديد "تعيين كلمات مرور المستخدمين لتنتهي صلاحيتها بعد مرور عدد من  >  **[](https://portal.office.com/adminportal/home#/settings/security)  >  [](https://portal.microsoft.com/Adminportal/Home#/Settings/SecurityPrivacy/:/Settings/L1/PasswordPolicy)** الأيام".
   
-لمزيد من المعلومات التفصيلية ، راجع:
+لمزيد من المعلومات التفصيلية، راجع:
 
-- [تعيين نهج انتهاء صلاحيه كلمه المرور لمؤسسك.](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
+- [تعيين نهج انتهاء صلاحية كلمة المرور لمنظمتك.](https://docs.microsoft.com/microsoft-365/admin/manage/set-password-expiration-policy)
   
-- [تعيين كلمه المرور بحيث لا تنتهي صلاحيتها لمستخدمين محددين](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
+- [تعيين كلمة المرور حتى لا تنتهي صلاحيتها أبدا لمستخدمين محددين](https://docs.microsoft.com/microsoft-365/admin/add-users/set-password-to-never-expire)
 
-- [يجب ان تفي كلمه المرور بمتطلبات التعقيد](https://docs.microsoft.com/windows/security/threat-protection/security-policy-settings/password-must-meet-complexity-requirements)
+- [يجب أن تلبي كلمة المرور متطلبات التعقيد](https://docs.microsoft.com/windows/security/threat-protection/security-policy-settings/password-must-meet-complexity-requirements)
   

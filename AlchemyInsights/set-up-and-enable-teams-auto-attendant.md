@@ -1,8 +1,8 @@
 ---
-title: اعداد الرد التلقائي للفرق وتمكينه
+title: إعداد ميزة "الضيف التلقائي للفرق" وتمكينها
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2386"
 - "9000548"
-ms.openlocfilehash: f5c76d14970f05710670657aed8b71887944cdf1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d996c31668d463a5df7be45a3e16a0ecb0946d3c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801099"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51787304"
 ---
-# <a name="set-up-a-cloud-auto-attendant"></a>اعداد رد السحابة التلقائية
+# <a name="set-up-a-cloud-auto-attendant"></a>إعداد ميزة "الضيف التلقائي في السحابة"
 
-ردود تلقائي لديه متطلبات ترخيص محدده حاليا. معرفه [ما هي الردود التلقائي لمجموعه النظراء ؟](https://docs.microsoft.com/microsoftteams/what-are-phone-system-auto-attendants) للتعرف علي كيفيه إنشاء الفرق تلقائيا واعدادها ردود. 
+لدى الضيف التلقائي حاليا متطلبات ترخيص معينة. راجع [ما هي الضيفات التلقائية في السحابة؟](https://docs.microsoft.com/microsoftteams/what-are-phone-system-auto-attendants) للتعرف على إنشاء الضيفات التلقائية في Teams وإعدادها. 
 
 لمزيد من المعلومات، اطلع على:
 
-- [قم باعداد رد السحابة التلقائية](https://docs.microsoft.com/microsoftteams/create-a-phone-system-auto-attendant) باستخدام فرق Microsoft. 
-- [إنشاء قائمه انتظار الاتصال بالسحابة](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue) باستخدام فرق Microsoft. 
-- [الرد علي الرد التلقائي ومكالمات قائمه انتظار الاتصال مباشره من الفرق](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls). 
+- [قم بإعداد ميزة الضيف التلقائي في السحابة](https://docs.microsoft.com/microsoftteams/create-a-phone-system-auto-attendant) باستخدام Microsoft Teams. 
+- [إنشاء قائمة انتظار مكالمة في السحابة](https://docs.microsoft.com/microsoftteams/create-a-phone-system-call-queue) باستخدام Microsoft Teams. 
+- [الرد التلقائي ومكالمات قائمة انتظار المكالمات مباشرة من Teams](https://docs.microsoft.com/microsoftteams/answer-auto-attendant-and-call-queue-calls). 
