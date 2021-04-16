@@ -1,8 +1,8 @@
 ---
-title: عناوين IP و Url ل Microsoft 365
+title: عناوين IP وعناوين URL ل Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -15,16 +15,16 @@ ms.custom:
 - "827"
 - "1600028"
 ms.assetid: 6056169e-6e69-4b5f-bb67-15b5ef39ec59
-ms.openlocfilehash: 5d7bdac820a29496d375259f3d64e0c2fa21728a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9f16418ca2aa9c21e320b4263987621a0b1cfb50
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802980"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51802586"
 ---
-# <a name="microsoft-365-urls-and-ip-address-ranges"></a>نطاقات عناوين IP و Url ل Microsoft 365
+# <a name="microsoft-365-urls-and-ip-address-ranges"></a>نطاقات عناوين IP وURLs ل Microsoft 365
 
-يتطلب Microsoft 365 الاتصال بالإنترنت عبر عناوين IP محدده تسمي *نقاط النهاية*.
-للحصول علي قائمه بنقاط النهاية التي يجب الوصول اليها ، راجع [نطاقات عناوين IP وعناوين url في Microsoft 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges) 
+يتطلب Microsoft 365 الاتصال بالإنترنت عبر عناوين IP معينة تسمى *نقاط النهاية.*
+للحصول على قائمة بنقاط النهاية التي يجب أن تكون قابلة للوصول، راجع [عناوين URL 365 في Microsoft 365 نطاقات عناوين IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges) 
 
-تساعدك خدمه Microsoft 365 IP وعنوان URL علي التعرف علي الشكل الأفضل لنقل بيانات الشبكة في Microsoft 365 وتمييزه ، مما يسهل عليك تقييم التغييرات وتكوينها والبقاء علي اطلاع عليها. راجع [عنوان Microsoft 365 IP وخدمه ويب URL](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service).
+تساعدك خدمة ويب عنوان IP ل Microsoft 365 وURL على التعرف على حركة مرور شبكة Microsoft 365 بشكل أفضل والتمييز فيما بينهم، مما يسهل عليك تقييم التغييرات وتكوينها والبقاء على اتصال بها. راجع [عنوان IP ل Microsoft 365 وخدمة URL على الويب](https://docs.microsoft.com/office365/enterprise/office-365-ip-web-service).

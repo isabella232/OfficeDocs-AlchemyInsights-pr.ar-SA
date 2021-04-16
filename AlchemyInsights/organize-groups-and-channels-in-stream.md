@@ -1,8 +1,8 @@
 ---
-title: تنظيم المجموعات والقناات في Microsoft Stream
+title: تنظيم المجموعات والقنوات في Microsoft Stream
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "6451"
-ms.openlocfilehash: a6395f3777938c3b8bfd96cd7726430dc5a0bde1
-ms.sourcegitcommit: 57102d7daf32f370cab84dba342819a1ad5cb261
+ms.openlocfilehash: b14fc07dfbcb0dd91a757704ee1ccb289705df6f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/23/2020
-ms.locfileid: "48274704"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51801902"
 ---
-# <a name="organize-groups-and-channels-in-microsoft-stream"></a>تنظيم المجموعات والقناات في Microsoft Stream
+# <a name="organize-groups-and-channels-in-microsoft-stream"></a>تنظيم المجموعات والقنوات في Microsoft Stream
 
-باستخدام مجموعه من القناات والمجموعات علي مستوي المؤسسة في Microsoft Stream ، يمكنك اعداد منطقه لتنظيم ملفات الفيديو والوصول اليها بما يتناسب مع احتياجاتك.  
+باستخدام مجموعة من القنوات والمجموعات على مستوى المؤسسة في Microsoft Stream، يمكنك إعداد منطقة لتنظيم ملفات الفيديو الخاصة بك وإذنها لتتطابق مع احتياجاتك.  
 
-- [كيفيه تنظيم المجموعات والقناات في Microsoft Stream](https://docs.microsoft.com/stream/groups-channels-organization)
+- [كيفية تنظيم المجموعات والقنوات في Microsoft Stream](https://docs.microsoft.com/stream/groups-channels-organization)
