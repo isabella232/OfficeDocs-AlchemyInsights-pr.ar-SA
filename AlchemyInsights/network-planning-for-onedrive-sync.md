@@ -1,8 +1,8 @@
 ---
-title: تخطيط استخدام الشبكة لتطبيق المزامنة من OneDrive
+title: استخدام الشبكة لتخطيط تطبيق المزامنة من OneDrive
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000343"
 - "5838"
-ms.openlocfilehash: 2e70dfa85ce2647689f9057c8bf7ef4fd5c031f6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a567339dcabc4df9428d36ef78fd151cd05ea7c3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47803196"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51791975"
 ---
-# <a name="network-utilization-planning-for-the-onedrive-sync-app"></a><span data-ttu-id="7b2a0-102">تخطيط استخدام الشبكة لتطبيق المزامنة من OneDrive</span><span class="sxs-lookup"><span data-stu-id="7b2a0-102">Network utilization planning for the OneDrive sync app</span></span>
+# <a name="network-utilization-planning-for-the-onedrive-sync-app"></a><span data-ttu-id="0d913-102">استخدام الشبكة لتخطيط تطبيق المزامنة من OneDrive</span><span class="sxs-lookup"><span data-stu-id="0d913-102">Network utilization planning for the OneDrive sync app</span></span>
 
-<span data-ttu-id="7b2a0-103">هذه المقالة مخصصه لمسؤولي تكنولوجيا المساعدة لنشر تطبيق المزامنة من OneDrive والرغبة في تقدير الاتصال بالشبكة الترددية التي سيحتاج المستخدمون إلى مزامنتها.</span><span class="sxs-lookup"><span data-stu-id="7b2a0-103">This article is for IT admins planning to deploy the OneDrive sync app and wanting to estimate the network bandwidth users will need for syncing.</span></span>  
+<span data-ttu-id="0d913-103">هذه المقاله تستهدف مسؤولي تكنولوجيا المعلومات الذين يخططون إلى نشر تطبيق المزامنة من OneDrive، ويرغبون في تقدير النطاق الترددي للشبكة والذي سيحتاجه المستخدمون للمزامنة.</span><span class="sxs-lookup"><span data-stu-id="0d913-103">This article is for IT admins planning to deploy the OneDrive sync app and wanting to estimate the network bandwidth users will need for syncing.</span></span>  
 
-- [<span data-ttu-id="7b2a0-104">تخطيط استخدام الشبكة لتطبيق المزامنة من OneDrive</span><span class="sxs-lookup"><span data-stu-id="7b2a0-104">Network utilization planning for the OneDrive sync app</span></span>](https://docs.microsoft.com/onedrive/network-utilization-planning)
+- [<span data-ttu-id="0d913-104">استخدام الشبكة للتخطيط في تطبيق المزامنة من OneDrive</span><span class="sxs-lookup"><span data-stu-id="0d913-104">Network utilization planning for the OneDrive sync app</span></span>](https://docs.microsoft.com/onedrive/network-utilization-planning)
