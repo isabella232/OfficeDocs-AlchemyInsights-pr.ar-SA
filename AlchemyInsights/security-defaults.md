@@ -1,8 +1,8 @@
 ---
-title: افتراضيات الأمان
+title: إعدادات الأمان الافتراضية
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3153"
 - "9001193"
-ms.openlocfilehash: e0136705cb17e69c3b26bbf621ebb10852477eb9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d468335dbe2854bf31ef857866aac597807e0f7b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740317"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51809174"
 ---
-# <a name="security-defaults"></a>افتراضيات الأمان
+# <a name="security-defaults"></a>إعدادات الأمان الافتراضية
 
-للحصول علي معلومات حول الإعدادات الافتراضية للامان ، يمكنك الرجوع إلى [ما هو افتراضيات الأمان ؟](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
+للحصول على معلومات حول إعدادات الأمان الافتراضية، راجع [ما هي إعدادات الأمان الافتراضية؟](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-security-defaults).
 
-تسهل إعدادات الأمان الافتراضية في Azure Active directory (Azure AD) أمانا والمساعدة في حماية مؤسستك. تحتوي الافتراضيات الامنه علي إعدادات أمان مكونه مسبقا للهجمات الشائعة.
+تجعل إعدادات الأمان الافتراضية في Azure Active Directory (Azure AD) من السهل أن تكون آمنا وتساعد على حماية مؤسستك. تحتوي إعدادات الأمان الافتراضية على إعدادات أمان تم تكوينها مسبقا للهجمات الشائعة.
 
-توفر Microsoft إعدادات الأمان الافتراضية للجميع. الهدف هو التاكد من ان كل المؤسسات لديها مستوي أساسي من الأمان ممكن بدون تكلفه اضافيه. يمكنك تشغيل الإعدادات الافتراضية للامان في مدخل Azure.
+توفر Microsoft إعدادات الأمان الافتراضية للجميع. الهدف هو ضمان تمكين مستوى أساسي من الأمان لجميع المؤسسات دون أي تكلفة إضافية. يمكنك تشغيل إعدادات الأمان الافتراضية في مدخل Azure.

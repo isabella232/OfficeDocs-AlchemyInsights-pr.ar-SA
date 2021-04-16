@@ -1,8 +1,8 @@
 ---
-title: كيفيه تنشيط اشتراك Windows 10
+title: كيفية تنشيط اشتراك Windows 10
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "3470"
 - "9001461"
-ms.openlocfilehash: bd8d02411e0c586f828c91a95b47fca330df2f57
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8efc365cbbbe36f036899d1fcb28ce917c7053f6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704665"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810867"
 ---
 # <a name="activating-windows-10-subscriptions"></a>تنشيط اشتراكات Windows 10
 
-Microsoft 365 Business Premium و Office 365 التعليم ، توفر لك Microsoft 365 و Enterprise التراخيص الرقمية ل Windows 10 كجزء من الاشتراك. لتنشيط الاشتراك، يجب أن يكون جهازك قد قام بتنشيط Windows 10 Pro مسبقا (1703 أو إصدار أحدث). للاطلاع علي قائمه كامله بالمتطلبات لتنشيط اشتراك Windows 10 ، راجع [متطلبات تنشيط اشتراك windows 10](https://docs.microsoft.com/windows/deployment/windows-10-subscription-activation#requirements).
+توفر Microsoft 365 Business Premium و Office 365 Education و Microsoft 365 و Enterprise تراخيص رقمية لنظام التشغيل Windows 10 كجزء من الاشتراك. لتنشيط الاشتراك، يجب أن يكون جهازك قد قام بتنشيط Windows 10 Pro مسبقا (1703 أو إصدار أحدث). لرؤية قائمة كاملة بالمتطلبات لتنشيط اشتراك Windows 10، راجع متطلبات تنشيط [اشتراك Windows 10](https://docs.microsoft.com/windows/deployment/windows-10-subscription-activation#requirements).

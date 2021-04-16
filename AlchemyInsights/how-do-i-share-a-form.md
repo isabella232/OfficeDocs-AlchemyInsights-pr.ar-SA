@@ -1,8 +1,8 @@
 ---
-title: كيف يمكنني مشاركه نموذج ؟
+title: كيف يمكنني مشاركة نموذج؟
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "2543"
 - "9000672"
-ms.openlocfilehash: 5bea2ab14fcf585344c795302f38202a2b582593
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f74e2c7697e040a17341794968fe901dfea0091f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47781486"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810975"
 ---
-# <a name="share-a-form"></a>مشاركه نموذج
+# <a name="share-a-form"></a>مشاركة نموذج
 
-لمشاركه اختبار أو نموذج في Microsoft Forms ، راجع [مشاركه نموذج للتعاون](https://support.office.com/article/Share-a-form-to-collaborate-d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b).
+لمشاركة اختبار أو نموذج في Microsoft Forms، راجع [مشاركة نموذج للتعاون في العمل.](https://support.office.com/article/Share-a-form-to-collaborate-d5bb5cf0-8401-4c15-bb8c-8e108cd7e69b)
 
-لأداره القدرة علي مشاركه النماذج خارجيا ، راجع اعداد [Microsoft forms](https://support.office.com/article/set-up-microsoft-forms-cc52287a-4550-464d-9a1b-457bf9df2240). 
+لإدارة إمكانية مشاركة النماذج خارجيا، راجع [إعداد Microsoft Forms](https://support.office.com/article/set-up-microsoft-forms-cc52287a-4550-464d-9a1b-457bf9df2240). 
 
-للحصول علي ارتباط ملخص لمشاركه النتائج مع الآخرين:
+للحصول على ارتباط ملخص لمشاركة النتائج مع الآخرين:
 
-1. علي علامة التبويب **الاستجابات** ، انقر فوق زر علامات الحذف (**..**.).
+1. على علامة **التبويب الاستجابات،** انقر فوق زر علامات ال الناقص **(...**).
 3. اختر **إنشاء ارتباط ملخص**.
-4. انقر فوق **نسخ**.
+4. انقر **فوق نسخ**.
 
-يمكن لأي شخص تشاركه في هذا الارتباط عرض ملخص بالاستجابات للنموذج.
+يمكن لأي شخص تشارك هذا الارتباط معه عرض ملخص الاستجابات للشكل.

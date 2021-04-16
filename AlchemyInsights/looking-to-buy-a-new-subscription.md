@@ -1,8 +1,8 @@
 ---
-title: هل تبحث عن شراء اشتراك جديد ؟
+title: هل تبحث عن شراء اشتراك جديد؟
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -11,29 +11,29 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: d2a9331d-12e3-4c35-b216-4bdddf6c92c3
-ms.openlocfilehash: 7ad6b96485d098be76b98c1bb53c67c885978fce
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fdeb916ca8d3e9d949dbdad7560679f2c92c1289
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47675147"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51810579"
 ---
-# <a name="looking-to-buy-a-new-subscription"></a>هل تبحث عن شراء اشتراك جديد ؟
+# <a name="looking-to-buy-a-new-subscription"></a>هل تبحث عن شراء اشتراك جديد؟
 
-إذا كان لديك بالفعل اشتراك Microsoft 365 for business وتريد شراء اشتراك آخر لمؤسسك ، فانتقل إلى **Billing** \> الصفحة [خدمات شراء](https://go.microsoft.com/fwlink/p/?linkid=868433) الفوترة للاطلاع علي قائمه بالاشتراكات المتوفرة لمؤسسك.
+إذا كان لديك بالفعل اشتراك Microsoft 365 للأعمال وتريد شراء اشتراك آخر  لمنظمتك، فاذهب إلى صفحة خدمات شراء الفوترة لرؤية قائمة الاشتراكات المتوفرة \> [](https://go.microsoft.com/fwlink/p/?linkid=868433) لم المؤسسة.
  
-1. حدد الاشتراك الذي تريده ، ثم حدد **شراء**.
+1. حدد الاشتراك الذي تريده، ثم حدد **شراء**.
 
-2. اختر الطريقة التي تريد بها الدفع وعدد تراخيص المستخدمين المطلوبة.
+2. اختر الطريقة التي تريد الدفع بها وعدد تراخيص المستخدمين المطلوبة.
 
-3. اختر **السحب الآن**. في الصفحة التالية ، يمكنك مراجعه الأمر وإكمال عمليه الشراء.
+3. اختر **سحب الآن**. في الصفحة التالية، يمكنك مراجعة الطلب وإكمال عملية الشراء.
 
-4. عند اكتمال عمليه الشراء ، قد تحتاج إلى أعاده تعيين التراخيص أو إلغاء اشتراك. للحصول علي تعليمات حول ذلك ، يرجى مراجعه القسم الموارد الاضافيه أدناه.
+4. عند اكتمال عملية الشراء، قد تحتاج إلى إعادة تعيين التراخيص أو إلغاء اشتراك. للحصول على تعليمات حول ذلك، الرجاء الاطلاع على قسم الموارد الإضافية أدناه.
 
- **موارد اضافيه:**
+ **موارد إضافية:**
   
-- [تعيين تراخيص للمستخدمين في Microsoft 365 for business](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
+- [تعيين تراخيص للمستخدمين في Microsoft 365 للأعمال](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
     
-- [إلغاء الاشتراك](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
+- [إلغاء اشتراكك](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription)
     
-- إذا كنت مهتما بتبديل الاشتراكات ، فراجع [التبديل إلى خطه أخرى من Microsoft 365 for business.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
+- إذا كنت ترغب في تبديل الاشتراكات، فشاهد [التبديل إلى خطة مختلفة من Microsoft 365 للأعمال.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)

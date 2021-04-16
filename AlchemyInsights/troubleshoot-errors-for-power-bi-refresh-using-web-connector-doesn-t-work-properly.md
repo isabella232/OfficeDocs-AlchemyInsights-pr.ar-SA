@@ -2,7 +2,7 @@
 title: لا يعمل التحديث باستخدام موصل ويب بشكل صحيح
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1316"
 - "2500002"
-ms.openlocfilehash: fc7d748b8c3eb8753aeb29997eeb2fabea8c67cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6a1e8ef98b72832db05f904ae82f4f8164f1a47
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749753"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51808994"
 ---
 # <a name="refresh-using-web-connector-doesnt-work-properly"></a>لا يعمل التحديث باستخدام موصل ويب بشكل صحيح
 
-إذا كان لديك برنامج نصي لموصل ويب يستخدم الدالة [Page](https://msdn.microsoft.com/library/mt260924.aspx) ، وقامت بتحديث مجموعه البيانات أو التقرير بعد 18th ، 2016 ، ستحتاج إلى استخدام بوابه من أجل التحديث للعمل بشكل صحيح.
+إذا كان لديك برنامج نصي لموصل ويب يستخدم الدالة [Web.Page،](https://msdn.microsoft.com/library/mt260924.aspx) وقد قمت بتحديث مجموعة البيانات أو التقرير بعد 18 نوفمبر 2016، يجب استخدام بوابة لكي يعمل التحديث بشكل صحيح.
 
 لمزيد من المعلومات: [https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios](https://docs.microsoft.com/power-bi/refresh-troubleshooting-refresh-scenarios)
