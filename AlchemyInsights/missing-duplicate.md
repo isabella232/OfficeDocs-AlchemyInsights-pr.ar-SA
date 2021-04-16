@@ -1,8 +1,8 @@
 ---
-title: مفقود-مكرر
+title: مفقود - تكرار
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "3414"
 - "9001433"
-ms.openlocfilehash: 1267f80c1e4d632a3627a97fbfccf86b482adb5d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b17dd499accdbcc05fd50ffeaf275317148b255e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673737"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51793199"
 ---
-# <a name="troubleshooting-missing-and-duplicate-calendar-items"></a>استكشاف أخطاء عناصر التقويم المفقودة والمكررة وإصلاحها
+# <a name="troubleshooting-missing-and-duplicate-calendar-items"></a>استكشاف الأخطاء في عناصر التقويم المفقودة والمكررة وإصلاحها
 
-للحصول علي معلومات حول كيفيه استكشاف الأخطاء وإصلاحها باستخدام المواعيد المفقودة والمكررة عند استخدام Microsoft Outlook و Microsoft Exchange Server ، راجع [كيفيه استكشاف أخطاء المواعيد المفقودة والمكررة في Outlook وإصلاحها](https://support.microsoft.com/help/890436/how-to-troubleshoot-missing-and-duplicate-appointments-in-outlook).
+للحصول على معلومات حول كيفية استكشاف المشاكل المتعلقة بالمواعيد المفقودة والمكررة وإصلاحها عند استخدام Microsoft Outlook و Microsoft Exchange Server، راجع كيفية استكشاف الأخطاء وإصلاحها للمواعيد المفقودة والمكررة في [Outlook](https://support.microsoft.com/help/890436/how-to-troubleshoot-missing-and-duplicate-appointments-in-outlook).

@@ -1,8 +1,8 @@
 ---
-title: تحتاج إلى اذن للوصول إلى الموقع
+title: الحاجة إلى إذن الوصول إلى موقع
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000156"
 - "2595"
-ms.openlocfilehash: dba40636895dda775884c9f720c8c60e2c815019
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a2363ff72348b53a73d06bcedbd875ebf3341c3b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772682"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51792299"
 ---
-# <a name="you-need-permission-to-access-this-site"></a>أنت بحاجه إلى اذن للوصول إلى هذا الموقع
+# <a name="you-need-permission-to-access-this-site"></a>أنت بحاجة إلى إذن للوصول إلى هذا الموقع
 
-["تم رفض الوصول" ، "ستحتاج إلى اذن للوصول إلى هذا الموقع" ، أو "لم يتم العثور علي المستخدم في الدليل" في SharePoint Online و OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+[أخطاء "رفض الوصول" أو "أنت بحاجة إلى إذن للوصول إلى هذا الموقع" أو "لم يتم العثور على المستخدم في الدليل" في SharePoint Online و OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
