@@ -1,8 +1,8 @@
 ---
-title: قناه خاصه
+title: قناة خاصة
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "3205"
-ms.openlocfilehash: 6812bd789e0769118cf940418e8edeae8a1c2355
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6dacba53908b3aad980d0a781d7489334a5ec054
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801792"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51790391"
 ---
-# <a name="private-channels-in-microsoft-teams"></a>القناات الخاصة في فرق Microsoft
+# <a name="private-channels-in-microsoft-teams"></a>القنوات الخاصة في Microsoft Teams
 
-تنشئ القناات الخاصة في فرق Microsoft المسافات المركز عليها للتعاون داخل الفرق. يمكن فقط للمستخدمين في الفريق مالكي القناة الخاصة أو أعضاء بها الوصول إلى القناة. يمكن إضافة كل الأشخاص، بما في ذلك الضيوف، كعضو في قناة خاصة طالما أنهم أعضاء بالفعل في الفريق.
+تنشئ القنوات الخاصة في Microsoft Teams مساحات مركز عليها للتعاون ضمن فرقك. يمكن فقط للمستخدمين في الفريق مالكي القناة الخاصة أو أعضاء بها الوصول إلى القناة. يمكن إضافة كل الأشخاص، بما في ذلك الضيوف، كعضو في قناة خاصة طالما أنهم أعضاء بالفعل في الفريق.
 
-لمعرفه المزيد ، أبدا باستخدام [القناات الخاصة في فرق Microsoft](https://docs.microsoft.com/MicrosoftTeams/private-channels). يتضمن ذلك معلومات مثل [إنشاء القناة الخاصة والعضوية](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) [ومواقع SharePoint الخاصة بالقناة الخاصة](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites).
+لمعرفة المزيد، ابدأ باستخدام [القنوات الخاصة في Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels). يشمل ذلك معلومات مثل [إنشاء قناة خاصة وعضوية](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-creation-and-membership) [ومواقع SharePoint للقناة الخاصة.](https://docs.microsoft.com/MicrosoftTeams/private-channels#private-channel-sharepoint-sites)
 
-**هل تحتاج إلى مالك فريق جديد ؟**
+**هل تحتاج إلى مالك فريق جديد؟**
 
-إذا غادر مالك القناة الخاصة مؤسستك أو إذا تمت ازالته من المجموعة ، ستتم ترقيه عضو القناة الخاصة بشكل تلقائي ليكون مالك القناة الخاصة.
+إذا غادر مالك القناة الخاص مؤسستك أو تمت إزالته من المجموعة، تتم ترقية عضو في القناة الخاصة تلقائيا لكي يكون مالك القناة الخاصة.
 
-بإمكان المسؤولين أيضا الاطلاع علي [أداره دوره حياه القناات الخاصة في فرق Microsoft](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) لمعرفه المزيد حول السياسات لأداره الأشخاص الذين يمكنهم إنشاء القناات الخاصة ، بالاضافه إلى طرق لمساعدتك علي إنشاء استعلامات لقوائم eDiscovery أو القانونية.
+يمكن للمسؤولين أيضا الاطلاع على إدارة دورة حياة القنوات الخاصة في [Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/private-channels-life-cycle-management) لمعرفة المزيد حول سياسات إدارة الأشخاص الذين يمكنهم إنشاء قنوات خاصة، بالإضافة إلى طرق المساعدة في إنشاء استعلامات ل eDiscovery أو عمليات الفرز القانونية.
