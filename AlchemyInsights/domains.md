@@ -1,8 +1,8 @@
 ---
-title: خلال
+title: المجالات
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002909"
 - "5589"
-ms.openlocfilehash: adafa3672653c1922cdf3198f877953289a6fdf5
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: 2bcda244f8fcb465c8864fdd00dbc7505273c80f
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47815556"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814828"
 ---
-# <a name="domains"></a>خلال
+# <a name="domains"></a>المجالات
 
-- **تحقق من مجالك** في "مركز الاداره" باستخدام [معالج أضافه مجال](https://admin.microsoft.com/Adminportal#/Domains/Wizard). للحصول علي مزيد من المساعدة ، أقرا [أضافه مجال إلى Office 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide).
-- **المجال قيد الاستخدام** -ستحتاج إلى تسجيل الدخول إلى المؤسسة الأخرى [وأزاله المجال](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide)؛ ثم أضفه إلى هذه المؤسسة.
-- **المجال في استخدام الخدمة غير المدارة/الذاتية**  -  [كن مسؤولا عن المجال غير المدار](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover).
+- **تحقق من مجالك** في مركز الإدارة باستخدام [معالج إضافة مجال](https://admin.microsoft.com/Adminportal#/Domains/Wizard). لمزيد من المساعدة، اقرأ [إضافة مجال إلى Office 365](https://docs.microsoft.com/microsoft-365/admin/setup/add-domain?view=o365-worldwide).
+- **المجال المستخدم** - ستحتاج إلى تسجيل الدخول إلى المؤسسة الأخرى [وإزالة المجال](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain?view=o365-worldwide)؛ ثم قم بإضافته إلى هذه المؤسسة.
+- **المجال في الاستخدام غير مدار / الخدمة الذاتية**  -  [كن مسؤول المجال غير المسؤول](https://docs.microsoft.com/azure/active-directory/users-groups-roles/domains-admin-takeover).
 
-والا ، فجرب ريفراسينج المشكلة ، راجع [الاسئله المتداولة حول المجالات](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide) أو [استكشاف أخطاء المجالات وإصلاحها](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/find-and-fix-issues?view=o365-worldwide) .
+وإلا، فحاول إعادة صياغة مشكلتك؛ راجع مقالات [الأسئلة الشائعة حول](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide) المجالات أو استكشاف مشاكل [المجالات وإصلاحها.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/find-and-fix-issues?view=o365-worldwide)

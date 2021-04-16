@@ -2,7 +2,7 @@
 title: هل تلقى المستخدمون بريدا إلكترونيا ضارا
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,34 +14,34 @@ ms.custom:
 - "5594"
 - "3100017"
 - "2578"
-ms.openlocfilehash: 2197e7f195d789193798b80cb092d8046eb6e0be
-ms.sourcegitcommit: 3c708a4a349b60b59bc623c44fb78674c685f3c2
+ms.openlocfilehash: 425f9ba488fd69b8c5ea29636bccccd995bf48fd
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "50291779"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815233"
 ---
 # <a name="did-your-users-receive-malicious-email"></a>هل تلقى المستخدمون بريدا إلكترونيا ضارا؟
 
-- يمكنك الآن الإبلاغ عن البريد الإلكتروني الضار إلى Microsoft باستخدام "إرسالات المسؤول" [في مركز التوافق & الأمان.](https://sip.protection.office.com/reportsubmission)
+- يمكنك الآن الإبلاغ عن البريد الإلكتروني الضار إلى Microsoft باستخدام إرسالات المسؤول [في مركز & التوافق.](https://sip.protection.office.com/reportsubmission)
 
-يتم فحص الرسائل [](https://sip.protection.office.com/reportsubmission) المرسلة في إرسالات المسؤول، كما يتم عرض النتائج التالية في **القائمة من خلال القائمة من القائمة من خلال** التفاصيل:
+يتم فحص الرسائل [](https://sip.protection.office.com/reportsubmission) التي يتم إرسالها في إرسالات المسؤول، كما تظهر النتائج التالية في القائمة **من** خلال التفاصيل:
 
-- في حالة حدوث فشل في مصادقة البريد الإلكتروني للمرسل في وقت التسليم.
-- معلومات حول أي نهج قد يؤثر على قرار الرسالة أو يتجاوزه.
+- إذا كان هناك فشل في مصادقة البريد الإلكتروني للمرسل في وقت التسليم.
+- معلومات حول أي من رسائل النهج التي قد تؤثر على قرار الرسالة أو تطغى عليه.
 - نتائج الاحتواء الحالية لمعرفة ما إذا كانت عناوين URL أو الملفات المضمنة في الرسالة ضارة أم لا.
 - ملاحظات من طلاب الدرجات
 
-إذا تم العثور على تجاوز، يجب أن تكتمل عملية إعادة التجاوز في عدة دقائق. إذا لم تكن هناك مشكلة في مصادقة البريد الإلكتروني أو إذا لم يتأثر التسليم بتجاوز، يمكن أن تستغرق ملاحظات الدرجات حتى يوم واحد.
+إذا تم العثور على تجاوز، يجب أن تكتمل عملية إعادة التجاوز خلال عدة دقائق. إذا لم تكن هناك مشكلة في مصادقة البريد الإلكتروني أو إذا لم يتأثر التسليم بتجاوز، فإن ملاحظات طلاب الدرجات قد تستغرق ما يصل إلى يوم واحد.
 
-إذا لم توافق على القرار النهائي على رسالة أو عنوان URL أو ملف (تم حظره مقابل عدم حظره)، أرسل الرسالة مرة أخرى بعد يوم لإعادة البحث. هناك احتمال كبير بأن يتغير القرار بعد إرسال الرسالة مرة أخرى.
+إذا كنت لا توافق على الحكم النهائي على رسالة أو عنوان URL أو ملف (تم حظره في مقابل لم يتم حظره)، ف أرسل الرسالة مرة أخرى بعد يوم لإعادة االرسالة. هناك احتمال كبير بأن يتم تغيير الحكم بعد إرسال الرسالة مرة أخرى.
 
-في هذه الأثناء، يمكنك إزالة البريد الإلكتروني الضار من علبة الوارد الخاصة بالمستخدمين باتباع الإرشادات الواردة [في هذه المقالة.](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization)
+في هذه الأثناء، يمكنك إزالة البريد الإلكتروني الضار من علبة الوارد الخاصة بالمستخدم باتباع الإرشادات الواردة [في هذه المقالة](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization).
 
 - يمكن للعملاء الذين تم استخدام Microsoft Defender ل Office 365 القيام ب:
-    - استخدام [Threat Explorer للعثور على البريد الإلكتروني المريب وحذفه](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered)
-    - [استخدام الارتباطات الآمنة لحظر الوصول](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) إلى عنوان URL ضار
-    - تعقب المستخدمين الذين نقروا فوق عناوين URL الضارة والوصول إليها: عرض عنوان URL التصيد الاحتيالي والنقر فوق [بيانات قرار الحصول](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)على  &  [UrlTrace](https://docs.microsoft.com/powershell/module/exchange/get-urltrace)
+    - استخدام ["مستكشف التهديدات" للعثور على البريد الإلكتروني المريب وحذفه](https://docs.microsoft.com/microsoft-365/security/office-365-security/investigate-malicious-email-that-was-delivered)
+    - [استخدام الارتباطات الآمنة لحظر الوصول إلى](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) عنوان URL ضار
+    - تعقب المستخدمين الذين نقروا فوق عناوين URL الضارة والوصول إليها: [عرض عنوان URL](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)التصيد الاحتيالي والنقر فوق بيانات قرار الحصول على  &  [UrlTrace](https://docs.microsoft.com/powershell/module/exchange/get-urltrace)
     - بدء ["التحقيق التلقائي" يدويا](https://docs.microsoft.com/microsoft-365/security/office-365-security/automated-investigation-response-office)
 
-يمكنك أيضا الحماية من الملفات الضارة عناوين URL ومن خلال اتباع الإرشادات الواردة في "الحماية من عناوين [URL والملفات الضارة".](https://docs.microsoft.com/microsoft-365/security/office-365-security/protect-against-threats)
+يمكنك أيضا الحماية من الملفات الضارة أو عناوين URL باتباع الإرشادات الواردة في الحماية من عناوين [URL والملفات الضارة.](https://docs.microsoft.com/microsoft-365/security/office-365-security/protect-against-threats)

@@ -1,35 +1,36 @@
 ---
-title: تمكين تضمين الحوارات القديمة لفتح التقارير
+title: تفعيل تضمين مربعات الحوار القديمة لفتح التقارير
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "9002931"
 - "5612"
-ms.openlocfilehash: ca0894849e95fd69acd2065c3f065547231a07f9
-ms.sourcegitcommit: 0cf8d133d6feade6df8b1082444ce73faa91e145
-ms.translationtype: MT
+ms.openlocfilehash: c8a5634d5d79cbd584284b675e5db4e448a0d157
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/13/2020
-ms.locfileid: "44204647"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51814251"
 ---
-# <a name="enable-embedding-legacy-dialogs-to-open-reports"></a>تمكين تضمين الحوارات القديمة لفتح التقارير
+# <a name="enable-embedding-legacy-dialogs-to-open-reports"></a>تفعيل تضمين مربعات الحوار القديمة لفتح التقارير
 
-**اعراض**
+**العَرَض**
 
-يتعذر على المستخدمين فتح التقارير. "لقد حدث خطأ ما. تحقق من التفاصيل الفنية لمزيد من التفاصيل".
+المستخدمون غير قادرين على فتح التقارير. "حدث خطأ ما. تحقق من التفاصيل الفنية لمزيد من التفاصيل ".
 
-**يسبب**
+**السبب**
 
-تفشل التقارير في التحميل في UCI مع الخطأ، "واصف النموذج فارغة أو غير المعرفة." لا تزال التقارير في UCI تتطلب حوارات قديمة، لذلك يحتاج نظام العميل إلى تمكين تمكين *التضمين القديم.*
+فشل تحميل التقارير في UCI مع ظهور الخطأ، "واصف النموذج فارغ أو غير محدد." لا تزال التقارير في UCI تتطلب مربعات حوار قديمة، لذلك يحتاج نظام العميل إلى تمكين *allowlegacydialogsembedding*.
 
-**حل**
+**الحل**
 
-1. انتقل إلى **إعدادات >إعدادات النظام > الإدارة > علامة التبويب العامة**.
+1. انتقل إلى **الإعدادات > الإدارة > إعدادات النظام > علامة التبويب عام**.
 
-2. تعيين "تمكين تضمين بعض الحوارات القديمة في عميل متصفح الواجهة الموحدة" إلى **نعم**.
+2. قم بتعيين "تمكين تضمين بعض مربعات الحوار القديمة في عميل مستعرض "الواجهة الموحدة" على **نعم**.
