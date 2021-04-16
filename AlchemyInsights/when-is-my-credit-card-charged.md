@@ -1,8 +1,8 @@
 ---
-title: متى يتم خصم بطاقة الائتمان الخاصة بي ؟
+title: متى يتم شحن بطاقة الائتمان الخاصة بي؟
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,17 +14,17 @@ ms.custom:
 - "446"
 - "1500018"
 ms.assetid: 43db851f-f5e5-4849-8222-2c8ac26acb60
-ms.openlocfilehash: dd0dde092494fbea5a262bfee59725bde9ebeb28
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e7b8c8144f7ac042726ceeb537bbf98a296e507d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796383"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51806069"
 ---
-# <a name="when-is-my-credit-card-charged"></a>متى يتم خصم بطاقة الائتمان الخاصة بي ؟
+# <a name="when-is-my-credit-card-charged"></a>متى يتم شحن بطاقة الائتمان الخاصة بي؟
 
-باستخدام عمليه شراء أوليه ، يمكن ان يستغرق الأمر مده تصل إلى يومين لكي يحدث الرسوم.
+عند الشراء الأولي، قد يستغرق الأمر ما يصل إلى يومين حتى يتم حدوث الرسوم.
   
-تحدث الرسوم المتكررة خلال يوم واحد من الفاتورة التي يتم إنشاؤها.
+تحدث الرسوم المتكررة في غضون يوم واحد من الفاتورة التي يتم إنشاؤها.
   
-إذا لم تنجح عمليه الشحن ، سيستمر النظام في محاولة تسويه الرصيد خلال الأسابيع القليلة القادمة. يمكنك اجراء التحديثات علي معلومات الدفع في اي وقت لضمان نجاح محاولة الرسوم التالية. لمزيد من المعلومات ، راجع [أداره طرق السداد](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+إذا لم تنجح عملية الرسوم، سيستمر النظام في محاولة تسوية الرصيد خلال الأسابيع القليلة القادمة. يمكنك إجراء تحديثات على معلومات الدفع الخاصة بك في أي وقت لضمان نجاح محاولة الدفع التالية. لمزيد من المعلومات، راجع [إدارة طرق الدفع](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).

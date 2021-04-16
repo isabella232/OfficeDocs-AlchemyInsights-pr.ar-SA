@@ -1,8 +1,8 @@
 ---
-title: لم يتم نشر تحديثات البرامج ؟
+title: لماذا لا يتم نشر تحديث البرامج؟
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003773"
 - "6717"
-ms.openlocfilehash: 2e7156f994d27f46cec6dcc3c8680b55ebfe3ec2
-ms.sourcegitcommit: 9fd002ce49ad9a7e58c3eb997a8063e2e1feab55
-ms.translationtype: MT
+ms.openlocfilehash: 8e539260e1d99f18bf9bec32ae244c94aeebddbc
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "48461723"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51805673"
 ---
-# <a name="why-software-updates-are-not-being-deployed"></a>لم يتم نشر تحديثات البرامج ؟
+# <a name="why-software-updates-are-not-being-deployed"></a>لماذا لا يتم نشر تحديث البرامج؟
 
-راجع ما يلي إذا قمت بتكوين تحديثات البرامج عبر رنين تحديث Windows 10 ولكن لم يتم نشر التحديثات:  
+راجع ما يلي، إذا كونت تحديثات خلال حلقة التحديث Windows 10، ولكن التحديثات لا يتم نشرها:  
 
-- ضع في اعتبارك تغيير الخدمات في Windows من نوع الإصدار  **النصف سنوي**  إلى نوع إصدار أكثر صرامة وأكثر تكرارا  
-- تحقق من فتره التاجيل الخاصة بتحديث  **الجودة**  **وتحديث الميزات**. قد تؤدي فتره التاجيل إلى تاخير التحديثات لمده 180 يوما.
+- تحقق من تغيير توفير خدمات Windows من نوع الإصدار من **تحديث نصف سنوي** إلى نوع الإصدار الأكثر صرامة وانتظاماً  
+- تحقق من فترة تأجيل **جودة التحديث** و **تحديث للميزات**. يمكن أن تؤدي فترة التأجيل إلى تأخير في التحديثات لمدة 180 يوماً.

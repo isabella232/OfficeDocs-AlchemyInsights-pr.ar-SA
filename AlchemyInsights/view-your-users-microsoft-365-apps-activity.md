@@ -1,8 +1,8 @@
 ---
-title: عرض نشاط تطبيقات Microsoft 365 الخاصة بالمستخدمين
+title: عرض نشاط تطبيقات Microsoft 365 للمستخدمين
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -18,15 +18,15 @@ ms.custom:
 - "5628"
 - "9001421"
 - "5629"
-ms.openlocfilehash: 3e8878ae08ede1193e532aba6cc4b901c131327d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 13049a2f24e93a718cab26097fa8e2145fde5667
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664625"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51806609"
 ---
-# <a name="view-your-users-microsoft-365-apps-activity"></a>عرض نشاط تطبيقات Microsoft 365 الخاصة بالمستخدمين
+# <a name="view-your-users-microsoft-365-apps-activity"></a>عرض نشاط تطبيقات Microsoft 365 للمستخدمين
 
-يوفر لك [تقرير تنشيط Office](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) طريقه عرض المستخدمين الذين قاموا بتثبيت تطبيقات Microsoft 365 وتنشيطها علي جهاز واحد علي الأقل.
+يوفر [لك تقرير تنشيط Office](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) طريقة عرض للمستخدمين الذين تم تثبيت تطبيقات Microsoft 365 وتنشيطها على جهاز واحد على الأقل.
 
-بالاضافه إلى ذلك ، يمكنك الحصول علي طريقه عرض إلى نشاط تطبيقات Microsoft 365 الخاصة بالمستخدمين باستخدام [تقرير استخدام تطبيقات microsoft 365](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft365-apps-usage?view=o365-worldwide).
+بالإضافة إلى ذلك، يمكنك الاطلاع على نشاط تطبيقات Microsoft 365 للمستخدمين باستخدام تقرير استخدام [تطبيقات Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft365-apps-usage?view=o365-worldwide).

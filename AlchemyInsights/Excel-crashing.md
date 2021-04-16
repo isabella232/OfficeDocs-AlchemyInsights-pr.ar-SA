@@ -1,8 +1,8 @@
 ---
-title: تعطل Excel؟
+title: هل تعطل Excel؟
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: reference
 ms.service: o365-administration
@@ -11,30 +11,30 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "157"
 - "2200003"
-ms.openlocfilehash: 6010d4a6e745f17f330e883521bc8d76efe68097
-ms.sourcegitcommit: 5fb7a4b28859690020efdea630d03e70cc0e6334
+ms.openlocfilehash: 9322ebfcb2fd05359c55068ce847e934e389519b
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/28/2019
-ms.locfileid: "35359284"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51804800"
 ---
-# <a name="frequent-excel-crashes"></a>كثرة تعطل Excel؟
+# <a name="frequent-excel-crashes"></a>هل تعطل Excel بشكل متكرر؟
 
-يمكن أن يحدث حوادث متكررة في Excel قبل الوظيفة الإضافية خاطئ. يمكنك تعطيل في Excel باتباع هذه الإرشادات:
+قد تحدث الأعطال المتكررة في Excel بسبب خطأ في الوظائف الإضافية. يمكنك تعطيل أحد الوظائف الإضافية في Excel باتباع الإرشادات التالية:
   
-1. اختر **ملف** \> **خيارات** \> **الإضافية**.
+1. اختر **خيارات** \> **الملف**، \> **الوظائف الإضافية**.
 
-2. في المربع **إدارة** ، اختيار **وظائف COM الإضافية**، ومن ثم انقر فوق **انتقال**.
+2. في المربع **إدارة،** اختر **الوظائف الإضافية ل COM**، ثم انقر فوق **الانتقال**.
 
-3. في المربع الوظائف الإضافية المتوفرة، قم بإلغاء تحديد خانة الاختيار بجانب الوظيفة الإضافية التي تريد تعطيلها، ومن ثم انقر فوق **موافق**.
+3. في Add-Ins المتوفر، قم بمسح خانة الاختيار بجانب الوظائف الإضافية التي تريد تعطيلها، ثم انقر فوق **موافق**.
 
 > [!NOTE]
-> إذا تعطل Excel أثناء بدء التشغيل، الرجاء تشغيله في الوضع الأمن بالضغط باستمرار على Ctrl أثناء بدء تشغيل البرنامج.
+> إذا تعطل Excel أثناء التشغيل، فيرجى بدء التشغيل في الوضع الآمن بالضغط مع الضغط على Ctrl مع الضغط عليه أثناء بدء تشغيل البرنامج.
   
-إذا كنت لا تزال تواجه مشاكل، راجع المقالات التالية:
+إذا كنت لا تزال تواجه مشاكل، ف الرجوع إلى المقالات التالية:
   
-- [احصل على خطأ "إيقاف العمل" عند بدء تشغيل Office 2016 أو تطبيقات 2013 على جهاز الكمبيوتر](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa.aspx)
+- [أخطأت في "توقف عن العمل" عند بدء تشغيل تطبيقات Office 2016 أو 2013 على الكمبيوتر الشخصي](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa.aspx)
 
-- [كيفية استكشاف أخطاء مشاكل تتعرض للتعطل وعدم الرد باستخدام Excel](https://support.microsoft.com/help/2758592/how-to-troubleshoot-crashing-and-not-responding-issues-with-excel)
+- [كيفية استكشاف الأخطاء وإصلاحها عند تعطل Excel أو عدم الاستجابة له](https://support.microsoft.com/help/2758592/how-to-troubleshoot-crashing-and-not-responding-issues-with-excel)
 
-- [تجميد Excel لا يستجيب، تعليق، أو توقف عن العمل](https://support.office.com/article/37e7d3c9-9e84-40bf-a805-4ca6853a1ff4.aspx)
+- [Excel لا يستجيب أو يتوقف عن العمل أو يتجمد أو يتوقف عن العمل](https://support.office.com/article/37e7d3c9-9e84-40bf-a805-4ca6853a1ff4.aspx)
