@@ -1,8 +1,8 @@
 ---
-title: استعاده مجموعه Yammer محذوفة
+title: استعادة مجموعة Yammer المحذوفة
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "1902"
 - "9000294"
-ms.openlocfilehash: db5988be7c1aba93075ab3631f8cd9d3a78d1485
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 96457eded837e68a79226c32632ea8632cde56c0
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720705"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51798644"
 ---
-# <a name="restore-a-deleted-yammer-group"></a>استعاده مجموعه Yammer محذوفة
+# <a name="restore-a-deleted-yammer-group"></a>استعادة مجموعة Yammer محذوفة
 
-يمكن استعاده [المجموعات المتصلة ب Office 365 في Yammer](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) خلال 30 يوما من الحذف باتباع الخطوات التالية [لاستعاده مجموعه Microsoft 365 محذوفة](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group).
-في بعض الحالات ، لا يجوز ان تكون مجموعه Yammer متصلة بمجموعه Microsoft 365. إذا كانت هذه هي الحالة ، فلا يمكن استعاده المجموعة تلقائيا ، ولكن قد يكون من الممكن الوصول إلى البيانات المحذوفة في [تصدير بيانات](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data) Yammer إذا تم تعيين [نهج استبقاء بيانات](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) الشبكة إلى *حذف بسيط*. اتصل بالمسؤول الذي تم [التحقق](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) منه لشبكه Yammer للتحقق من نهج استبقاء البيانات ، أو لتنفيذ عمليه تصدير البيانات.
+[يمكن استعادة مجموعات Office 365](https://docs.microsoft.com/yammer/manage-yammer-groups/yammer-and-office-365-groups) المتصلة Yammer في غضون 30 يوما من الحذف باتباع الخطوات اللازمة لاستعادة [مجموعة Microsoft 365 المحذوفة.](https://docs.microsoft.com/microsoft-365/admin/create-groups/restore-deleted-group)
+في بعض الحالات، قد Yammer مجموعة أخرى غير متصلة بمجموعة Microsoft 365. إذا كان الأمر كذلك، فمن غير الممكن استعادة المجموعة تلقائيا، ولكن قد يكون من الممكن الوصول [](https://docs.microsoft.com/yammer/manage-security-and-compliance/export-yammer-enterprise-data) إلى البيانات المحذوفة في تصدير بيانات Yammer إذا تم تعيين نهج استبقاء بيانات الشبكة إلى حذف *تلقائي.* [](https://docs.microsoft.com/yammer/manage-security-and-compliance/manage-data-compliance) اتصل [بالمسؤول المتحقق](https://docs.microsoft.com/yammer/manage-yammer-users/manage-yammer-admins) منه Yammer شبكة الاتصال للتحقق من نهج استبقاء البيانات، أو لتنفيذ عملية تصدير البيانات.

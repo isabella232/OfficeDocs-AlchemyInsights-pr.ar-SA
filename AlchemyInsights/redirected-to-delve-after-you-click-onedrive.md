@@ -1,8 +1,8 @@
 ---
-title: أعاده توجيه onedrive for Business علي ويب
+title: OneDrive for Business Web OneDrive يعيد التوجيه إلى Delve
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1870"
 - "900072"
-ms.openlocfilehash: faa2cf25270a3b74a12aeb63d23ce98b51e13cb6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 96f23585f7cbce672842f6330ba79816f24dbc41
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47776366"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51799976"
 ---
-# <a name="redirected-to-delve-after-you-click-onedrive"></a>تمت أعاده التوجيه إلى Delve بعد النقر فوق OneDrive
+# <a name="redirected-to-delve-after-you-click-onedrive"></a>تمت إعادة التوجيه إلى Delve بعد النقر فوق OneDrive
 
-راجع [دليل استكشاف الأخطاء وإصلاحها](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning)المفصل.
+راجع دليل [استكشاف الأخطاء وإصلاحها التفصيلي.](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning)
 
-لحل هذه المشكلة ، يجب ان يقوم المسؤول بمنح المستخدمين حق إنشاء موقع "المواقع الخاصة بي". هذا بسبب إنشاء صفحه OneDrive for Business علي "المواقع الخاصة بي".
+لحل هذه المشكلة، يجب على المسؤول منح المستخدمين الحق في إنشاء موقع "المواقع الخاصة بهم". وذلك لأن صفحة OneDrive for Business تم إنشاؤها على "المواقع الخاصة".
 
-لمنح هذا الحق ، اتبع الخطوات التالية:
+لمنح هذا الحق، اتبع الخطوات التالية:
 
-1. في مركز أداره SharePoint ، انقر فوق **ملفات تعريف المستخدمين**.
+1. في مركز إدارة SharePoint، انقر فوق **ملفات تعريف المستخدمين**.
 
-2. في المقطع **الأشخاص** ، انقر فوق **أداره أذونات المستخدمين**.
+2. في المقطع **الأشخاص،** انقر فوق **إدارة أذونات المستخدم**.
 
-3. أضف المستخدمين الذين يحتاجون إلى أذونات لإنشاء موقع "المواقع الخاصة بي". بشكل افتراضي ، يتم تعيين هذا الاعداد إلى **الجميع باستثناء المستخدمين الخارجيين**.
+3. أضف المستخدمين الذين يحتاجون إلى أذونات لإنشاء موقع المواقع الخاصة بهم. بشكل افتراضي، يتم تعيين هذا الإعداد إلى **الجميع باستثناء المستخدمين الخارجيين**.
 
-4. بعد أضافه المستخدم أو المستخدمين أو المجموعة ، تاكد من تحديد المستخدم أو المستخدمون أو المجموعة التي تمت اضافتها ، وقم بالتمرير إلى المقطع **أذونات** ، ثم حدد خانه الاختيار الموجودة إلى جانب **إنشاء موقع شخصي (مطلوب للتخزين الشخصي وملف الاخبار والمحتوي المتبع)**.
+4. بعد إضافة المستخدم أو المستخدمين أو المجموعة، تأكد من تحديد المستخدم أو المستخدمين أو  المجموعة المضافة، قم بالتمرير إلى مقطع الأذونات، ثم حدد خانة الاختيار بجانب إنشاء موقع شخصي (مطلوب للتخزين الشخصي وملف الأخبار والمحتوى الذي **يليه).**
 
-5. انقر فوق **موافق**، ثم اجعل المستخدم يستعرض صفحه OneDrive لإنشاء الموقع.
+5. انقر **فوق** موافق ، ثم اسمح للمستخدم بالاستعراض إلى صفحة OneDrive لإنشاء الموقع.

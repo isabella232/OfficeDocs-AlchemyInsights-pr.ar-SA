@@ -2,7 +2,7 @@
 title: شراء ترخيص Project
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002424"
 - "4708"
-ms.openlocfilehash: 7d2739006249ee64209ee2ad39f996daf25968d3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: db6ae70d77ed487314168aa14c91bc1c10262472
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693290"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51800381"
 ---
 # <a name="purchase-project-subscription"></a>شراء ترخيص Project
 
-يمكن للمسؤولين شراء اشتراك المشروع لمؤسستهم من **مركز أداره Microsoft 365**.
+يمكن للمسؤولين شراء اشتراك Project لمنظمتهم من **مركز إدارة Microsoft 365**.
 
-1. انتقل إلى صفحه **Billing**  >  **[خدمات شراء](https://admin.microsoft.com/AdminPortal/Home?adminportal=1&msCV=%2BbOQtMNsz0ei8f5z.0.36#/catalog)** الفوترة لعرض الاشتراكات المتوفرة لشراءها لمؤسسك.
+1. انتقل إلى **صفحة خدمات شراء** الفوترة لعرض الاشتراكات المتوفرة للشراء  >  **[](https://admin.microsoft.com/AdminPortal/Home?adminportal=1&msCV=%2BbOQtMNsz0ei8f5z.0.36#/catalog)** لمنظمتك.
 
 2. حدد موقع خطط Project من خلال البحث بالاسم "Project".
 
