@@ -2,7 +2,7 @@
 title: بدء استخدام أحداث Teams المباشرة
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: 979555a6fba46437adaf7e8c201cb9d6c4a8e965
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a10f756fc69a7a135446d8d3bcec1f5e951627d8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677266"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811947"
 ---
 # <a name="getting-started-with-teams-live-events"></a>بدء استخدام أحداث Teams المباشرة
 
@@ -25,7 +25,7 @@ ms.locfileid: "47677266"
 
 لعقد حدث مباشر، ستحتاج لما يلي:
 
-- أولا ، تاكد من توفر احداث الفرق المباشرة [في بلدك وإقليمك](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability)؛ لم يتم دعم الاحداث المباشرة بعد في بعض الدول.  إذا قمت بتعيين تراخيص وتعيين نهج ، ولكن لا يزال يتعذر عليك إنشاء حدث فرق مباشر ، فمن المحتمل ان تكون في بلدك أو في منطقه حيث لا تتوفر الاحداث الحية بعد.
+- أولا، تأكد من توفر أحداث Teams Live [في البلد والمنطقة؛](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability) لا يتم دعم الأحداث المباشرة بعد في بعض البلدان.  إذا قمت بتعيين التراخيص وتعيين سياسات، ولكن لا يزال يتعذر عليك إنشاء حدث Teams Live، فمن المرجح أنك في بلد أو منطقة لا تتوفر فيها الأحداث المباشرة بعد.
 
 - [ترخيص Office 365 Enterprise E1 أو E3 أو E5 أو Office 365 A3 أوA5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). **ملاحظة**: بسبب الزيادة الحالية في استخدام Teams، قد يستغرق تعيين ترخيص Teams إلى مستخدم حوالي 24 ساعة قبل أن يتم إعداده بشكل كامل. إلا أن يتم ذلك، لن تتمكن من تعيين نُهج Teams إليه وقد لا يتوفر له إمكانية الوصول إلى ميزات مثل إجراء مكالمات أو عقد مؤتمرات صوتية.
 

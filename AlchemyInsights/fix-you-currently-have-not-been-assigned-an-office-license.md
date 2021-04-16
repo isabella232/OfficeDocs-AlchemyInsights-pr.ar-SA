@@ -2,7 +2,7 @@
 title: إصلاح - ترخيص Office غير معين لك في الوقت الحالي
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002328"
 - "4573"
-ms.openlocfilehash: cf7bb0209d07ec5ccf3f06c395ca170c8d7381e3
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 2117e6bf5b8c39216d273e5970ca8cbe6ac8ec62
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50704845"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812595"
 ---
 # <a name="fix---you-currently-have-not-been-assigned-an-office-license"></a>إصلاح - "ترخيص Office غير معين لك في الوقت الحالي"
 
@@ -25,7 +25,7 @@ ms.locfileid: "50704845"
 
 **ملاحظة**: [Office Home and Business](https://support.microsoft.com/office/office-for-home-and-office-for-business-plans-28cbc8cf-1332-4f04-9123-9b660abb629e) هو منتج من منتجات [Office للمنزل](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e?wt.mc_id=Alchemy_ClientDIA) وليس جزءاً من اشتراك الأعمال. لا يتضمن اشتراك Project Online Essentials إصدار سطح المكتب من Project لذلك التنزيل غير مطلوب. يمكن لمستخدمي Visio الخطة 1 الوصول إلى Visio على الويب نظراً لأن الخطة لا تتضمن تطبيق سطح المكتب من Visio. لا يتوفر تطبيقا سطح المكتب من Project وVisio على Mac
 
-إذا كان لديك اشتراك يتضمن تطبيقات Microsoft 365، فلن ترى خيارا لتثبيته إلا إذا كان لديك [ترخيص تم تعيينه.](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home) إذا كنت أنت مسؤول Office 365 المسؤول عن تعيين التراخيص، فاطلع على [تعيين التراخيص للمستخدمين](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home).
+إذا كان لديك اشتراك يتضمن تطبيقات Microsoft 365، فلن يظهر لك خيار تثبيتها إلا إذا كان لديك [ترخيص معين](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). إذا كنت أنت مسؤول Office 365 المسؤول عن تعيين التراخيص، فاطلع على [تعيين التراخيص للمستخدمين](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home).
 
 اطلب من كل مستخدم اتباع الخطوات التالية:
 

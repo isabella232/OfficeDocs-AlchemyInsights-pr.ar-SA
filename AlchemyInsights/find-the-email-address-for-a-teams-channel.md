@@ -1,8 +1,8 @@
 ---
-title: البحث عن عنوان البريد الكتروني لقناه الفرق
+title: البحث عن عنوان البريد الإلكتروني الخاص قناة Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002512"
 - "5580"
-ms.openlocfilehash: 285c49b51c5bcddd71ccd199e16bb109f0809487
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0a146728b6bd2d57bd299c7f17993a82d7ccef9e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730290"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812955"
 ---
-# <a name="find-the-email-address-for-a-teams-channel"></a>البحث عن عنوان البريد الكتروني لقناه الفرق
+# <a name="find-the-email-address-for-a-teams-channel"></a>البحث عن عنوان البريد الإلكتروني الخاص قناة Teams
 
-إذا كنت تريد إرسال رسالة بريد الكتروني إلى قناه في الفرق ، فاستخدم عنوان البريد الكتروني للقناه. بمجرد ان يكون البريد الكتروني جزءا من قناه ، يمكن لأي شخص الرد عليه لبدء محادثه.
+إذا كنت تريد إرسال بريد إلكتروني إلى قناة في Teams، فاستخدم عنوان البريد الإلكتروني للقناة. بمجرد أن تكون رسالة البريد الإلكتروني جزءا من قناة، يمكن لأي شخص الرد عليها لبدء محادثة.
 
-ملاحظه: إذا لم تتمكن من رؤية الخيار **الحصول علي عنوان البريد الكتروني** ، فالرجاء التحقق من تمكين تكامل البريد الكتروني الخاص بالفرق بالانتقال إلى: **"مركز أداره الفرق"** > **إعدادات فرق المؤسسة** > **Teams Settings** > **Teams email integration**
+ملاحظة: إذا لم يتم  عرض خيار الحصول على عنوان البريد الإلكتروني، فيرجى التحقق من تمكين تكامل البريد الإلكتروني في Teams عن طريق **الذهاب** إلى: تكامل البريد الإلكتروني لإعدادات Teams في مركز إدارة Teams على مستوى >  >  > **المؤسسة**
 
-للبحث عن عنوان البريد الكتروني ، انتقل إلى اسم القناة وانقر فوق **المزيد من الخيارات > الحصول علي عنوان البريد الكتروني**.
+للعثور على عنوان البريد الإلكتروني، انتقل إلى اسم القناة وانقر فوق خيارات إضافية > **الحصول على عنوان البريد الإلكتروني**.
 
-لمزيد من المعلومات ، راجع [إرسال رسالة بريد الكتروني إلى قناه في الفرق](https://support.office.com/article/send-an-email-to-a-channel-in-teams-d91db004-d9d7-4a47-82e6-fb1b16dfd51e).
+لمزيد من المعلومات، راجع [إرسال رسالة بريد إلكتروني إلى قناة في Teams](https://support.office.com/article/send-an-email-to-a-channel-in-teams-d91db004-d9d7-4a47-82e6-fb1b16dfd51e).
 
-يمكن للمسؤولين الاداره في مركز أداره الفرق ما إذا كان بإمكان المستخدمين إرسال بريد الكتروني إلى قناه في الفرق. اطلع علي المزيد حول أداره [تكامل البريد الكتروني](https://docs.microsoft.com/microsoftteams/enable-features-office-365#email-integration).
+يمكن للمسؤولين إدارة في مركز إدارة Teams ما إذا كان يمكن للمستخدمين إرسال بريد إلكتروني إلى قناة في Teams. تعرف على المزيد حول إدارة [تكامل البريد الإلكتروني.](https://docs.microsoft.com/microsoftteams/enable-features-office-365#email-integration)

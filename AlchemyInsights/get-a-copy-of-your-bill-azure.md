@@ -1,8 +1,8 @@
 ---
-title: الحاجة إلى نسخه من الفاتورة أو الاستخدام
+title: الحاجة إلى نسخة من الفاتورة أو الاستخدام
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,69 +12,69 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003801"
 - "6804"
-ms.openlocfilehash: 5ec935ddd9e273561886831e60c98ae1a542f9da
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
+ms.openlocfilehash: 14ba8cb6825090ec458ad919a55a77b01d9dfd38
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48808234"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812345"
 ---
-# <a name="get-a-copy-of-your-bill-or-usage"></a>الحصول علي نسخه من الفاتورة أو الاستخدام
+# <a name="get-a-copy-of-your-bill-or-usage"></a>الحصول على نسخة من الفاتورة أو الاستخدام
 
 **تنزيل فاتورة Azure (.pdf)**
 
-1. تحديد اشتراكك من [صفحه الاشتراكات](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) في مدخل Azure [كمستخدم له حق الوصول إلى الفواتير](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) ثم تحديد **الفواتير**
-2. انقر فوق **تنزيل الفاتورة** لعرض نسخه من فاتورة PDF الخاصة بك. إذا لم يكن الأمر **متوفرا** ، فراجع [لماذا لا يمكنني رؤية فاتورة لفتره الفوترة الاخيره ؟](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
-3. يمكنك أيضا عرض الاستخدام اليومي بالنقر فوق فتره الفوترة للحصول علي PDF من الفاتورة ونسخه من ملف الاستخدام المفصل المفصلة (. CSV): [الحصول علي بيانات الفاتورة والاستخدام](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+1. حدد اشتراكك من [صفحة الاشتراكات](https://portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) في مدخل Azure كمستخدم مع إمكانية الوصول إلى [الفواتير](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support) ثم حدد **الفواتير**
+2. انقر **فوق تنزيل الفاتورة** لعرض نسخة من فاتورة PDF. إذا كانت **غير متوفرة**، ف راجع لماذا لا يمكنني رؤية فاتورة لفترة الفوترة [الأخيرة؟](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
+3. يمكنك أيضا عرض الاستخدام اليومي بالنقر فوق فترة الفوترة للحصول على ملف PDF من الفاتورة ونسخة من ملف الاستخدام اليومي التفصيلي (. CSV): [الحصول على بيانات الفاتورة والاستخدام](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-**الحصول علي فاتورتك في البريد الكتروني (.pdf)**
+**الحصول على الفاتورة بالبريد الإلكتروني (.pdf)**
 
-1. حدد اشتراكك من صفحه " [الاشتراكات](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade)". انقر فوق **الفواتير** ثم **إرسال الفاتورة بالبريد الكتروني**
-2. انقر فوق **الموافقة** واقبل الشروط. سيتعين عليك الاشتراك في كل اشتراك لديك. ملاحظه: إذا لم تحصل علي بريد الكتروني بعد تنفيذ الخطوات ، فتاكد من ان عنوان البريد الكتروني الخاص بك صحيح في [تفضيلات الاتصالات في ملف التعريف الخاص بك](https://account.windowsazure.com/profile)
-3. [إرسال فواتير Azure مباشره إلى علبه الوارد](https://azure.microsoft.com/blog/azure-email-invoices/)
+1. حدد اشتراكك من [صفحة الاشتراكات](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade). انقر **فوق الفواتير** ثم أرسل الفاتورة بالبريد **الإلكتروني**
+2. انقر **فوق الاشتراك واقبل** الشروط. يجب الاشتراك في كل اشتراك تملكه. ملاحظة: إذا لم تحصل على رسالة بريد إلكتروني بعد اتباع الخطوات، فتأكد من صحة عنوان بريدك الإلكتروني في [تفضيلات](https://account.windowsazure.com/profile) الاتصال على ملف التعريف الخاص بك
+3. [فواتير Azure التي تم إرسالها بالبريد الإلكتروني مباشرة إلى علبة الوارد](https://azure.microsoft.com/blog/azure-email-invoices/)
 
 **فهم الاستخدام اليومي:**  
  [فهم الفاتورة ل Microsoft Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
-**أداره التكاليف:** [منع التكاليف غير المتوقعة باستخدام الفوترة وأداره التكاليف في Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/getting-started?WT.mc_id=Portal-Microsoft_Azure_Support)  
+**إدارة التكاليف: منع** [التكاليف غير المتوقعة باستخدام فوترة Azure وإدارة التكاليف](https://docs.microsoft.com/azure/cost-management-billing/manage/getting-started?WT.mc_id=Portal-Microsoft_Azure_Support)  
 
-**اتفاقيه عملاء Microsoft (MCA)** :
+**اتفاقية عملاء Microsoft (MCA)**:
 
-تعرف علي  [كيفيه التحقق من الوصول إلى اتفاقيه عملاء Microsoft ؟](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)  
-إذا كان لديك [اتفاقيه عملاء Microsoft](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)، فيمكنك تنزيل الاستخدام في [مدخل Azure](https://portal.azure.com/)
+تعرف  [على كيفية التحقق من الوصول إلى اتفاقية عملاء Microsoft؟](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)  
+إذا كان لديك اتفاقية عملاء [Microsoft](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)، يمكنك تنزيل الاستخدام في [مدخل Azure](https://portal.azure.com/)
 
-**احصل علي فواتير اتفاقيه عملاء Microsoft في البريد الكتروني** :
+**احصل على فواتير اتفاقية عملاء Microsoft في البريد الإلكتروني:**
 
-إذا كان لديك اتفاقيه عملاء Microsoft ، فيمكنك الاشتراك للحصول علي فاتورتك في رسالة بريد الكتروني. سيحصل كل مالكي ملف تعريف الفواتير والمساهمين والقراء ومديري الفواتير علي الفاتورة بالبريد الكتروني. يتعذر علي القراء تحديث تفضيل فاتورة البريد الكتروني
+إذا كانت لديك اتفاقية عملاء Microsoft، يمكنك الاشتراك للحصول على الفاتورة في رسالة بريد إلكتروني. سيحصل جميع مالكي ملفات تعريف الفوترة والمساهمين والقراء ومديري الفواتير على الفاتورة عبر البريد الإلكتروني. يتعذر على القراء تحديث تفضيل فاتورة البريد الإلكتروني
 
-- البحث عن **أداره التكاليف + الفوترة** . حدد **ملف تعريف الفوترة** . ضمن إعدادات ، حدد **خصائص**
-- ضمن فاتورة البريد الكتروني ، حدد **تحديث تفضيل فاتورة البريد الكتروني** . حدد الاشتراك. انقر فوق " **تحديث** "
+- ابحث عن **إدارة التكلفة والفوترة**. حدد **ملف تعريف الفوترة**. ضمن إعدادات، حدد **خصائص**
+- ضمن فاتورة البريد الإلكتروني، حدد **تحديث تفضيلات فاتورة البريد الإلكتروني**. حدد الاشتراك. انقر **فوق تحديث**
 
-**اتفاقيه المؤسسة (EA)**
+**اتفاقية المؤسسة (EA)**
 
-لعرض بيانات الاستخدام وتنزيلها كعميل EA ، يجب ان تكون مسؤولا علي المؤسسة أو مالك الحساب أو مسؤول القسم مع تمكين نهج رسومات العرض.
+لعرض بيانات الاستخدام وتنزيلها كعميل EA، يجب أن تكون مسؤول المؤسسة أو مالك الحساب أو مسؤول القسم مع تمكين نهج رسوم العرض.
 
-- سجل دخولك إلى مدخل Azure. البحث عن **أداره التكاليف + الفوترة** . تحديد ملف تعريف الفوترة
-- حدد الاستخدام + الرسوم. بالنسبة إلى الشهر الذي تريد تنزيله ، حدد تنزيل
+- سجل الدخول إلى مدخل Azure. ابحث عن **إدارة التكلفة والفوترة**. تحديد ملف تعريف الفوترة
+- حدد الاستخدام + الرسوم. للشهر الذي تريد تنزيله، حدد تنزيل
 
-**اشتراك Azure موسب**  
-[تنزيل فاتورة اشتراك موسب Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/download-azure-invoice?WT.mc_id=Portal-Microsoft_Azure_Support#download-your-mosp-azure-subscription-invoice)
+**اشتراك MOSP Azure**  
+[تنزيل فاتورة اشتراك MOSP Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/download-azure-invoice?WT.mc_id=Portal-Microsoft_Azure_Support#download-your-mosp-azure-subscription-invoice)
 
-**استكشاف الأخطاء وإصلاحها: تعذر عرض الفاتورة لفتره الفوترة الاخيره ؟**
+**استكشاف الأخطاء وإصلاحها: هل يتعذر عليك رؤية الفاتورة لفترة الفوترة الأخيرة؟**
 
-بعض الأسباب المحتملة التي قد لا تظهر فيها فاتورة:
+بعض الأسباب المحتملة وراء عدم رؤية فاتورة:
 
-- لديك مبلغ رصيد شهري مع اشتراكك الذي لم يتجاوزه أو لديك فتره تجريبية مجانية. يتم إنشاء فاتورة فقط عندما أو مالا
-- انها اقل من 30 يوما من اليوم الذي اشتركت فيه في Azure
-- لم يتم إنشاء الفاتورة حتى الآن. الانتظار حتى نهاية فتره تحرير الفواتير
-- إذا لم تكن مسؤول الحساب ، فقد لا تكون الفواتير القديمة متوفرة لك في **ملاحظه** : لا تقدم Microsoft تقارير الاستخدام أو بيانات الاستهلاك إلى عملاء Azure CSP. بيانات استخدام مركز الشركاء علي الشريك
-- تعرف علي المزيد حول أيو (Azure المفتوحة) الفوترة والاستخدام: [Azure المفتوحة](https://azure.microsoft.com/offers/ms-azr-0111p/)
+- لديك مبلغ ائتمان شهري مع اشتراكك لم تتجاوزه أو لديك فترة تجريبية مجانية. يتم إنشاء فاتورة فقط عندما تكون مدانا بالمال
+- إنه أقل من 30 يوما من اليوم الذي اشتركت فيه في Azure
+- لم يتم إنشاء الفاتورة بعد. الانتظار حتى نهاية فترة الفوترة
+- إذا لم تكن مسؤول الحساب، فقد لا تتوفر لك الفواتير القديمة **ملاحظة:** لا توفر Microsoft أي تقارير استخدام أو بيانات استهلاك لعملاء Azure CSP. بيانات استخدام مركز الشريك هي بيانات تواجه الشريك
+- تعرف على المزيد حول فوترة AIO (Azure في الفتح) واستخدامه: [Azure في الفتح](https://azure.microsoft.com/offers/ms-azr-0111p/)
 
 **المستندات المستحسنة**
 
-- [لماذا لا يمكنك رؤية فاتورة ؟](https://docs.microsoft.com/azure/cost-management-billing/understand/download-azure-invoice?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
-- [طلب/تنزيل/عرض فاتورة فوتره Azure وبيانات الاستخدام](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [كيفيه إرسال فواتير Azure مباشره إلى علبه الوارد الخاصة بك](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [لماذا قد لا ترى فاتورة؟](https://docs.microsoft.com/azure/cost-management-billing/understand/download-azure-invoice?WT.mc_id=Portal-Microsoft_Azure_Support#noinvoice)
+- [طلب/تنزيل/عرض فاتورة فوترة Azure وبيانات الاستخدام](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [كيفية إرسال فواتير Azure بالبريد الإلكتروني مباشرة إلى علبة الوارد](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [فهم رسوم الاستخدام المفصلة](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support#csv)
-- [فهم الشروط في الفاتورة](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [فهم الشروط في فاتورتك](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [فهم فاتورة Azure CSP](https://docs.microsoft.com/partner-center/azure-plan-lp?WT.mc_id=Portal-Microsoft_Azure_Support)

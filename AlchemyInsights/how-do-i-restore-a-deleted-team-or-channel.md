@@ -1,8 +1,8 @@
 ---
-title: كيف يمكنني استعاده فريق أو قناه محذوفة
+title: كيف يمكنني استعادة فريق أو قناة محذوفة
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,20 +13,20 @@ ms.custom:
 - "6500002"
 - "2650"
 - "2603"
-ms.openlocfilehash: c343c1157bcc1ec74faf909e1595ecfac00ece80
-ms.sourcegitcommit: feb2985058f79e1c293dd191ca9ea381a6523824
+ms.openlocfilehash: e1f858cc6d42db4c165bd406ca71fdfa6ad77199
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "49726387"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811155"
 ---
-# <a name="how-to-restore-a-deleted-team-or-channel"></a>كيفيه استعاده فريق أو قناه محذوفة
+# <a name="how-to-restore-a-deleted-team-or-channel"></a>كيفية استعادة فريق أو قناة محذوفة
 
-يمكن استعاده القناات المحذوفة داخل الفريق لمده تصل إلى 21 يوما بعد حذف القناة.
+يمكن استعادة القنوات المحذوفة ضمن فريق لمدة تصل إلى 21 يوما بعد حذف القناة.
 
-لاسترداد قناه محذوفة ، يستطيع مالك الفريق تنفيذ ما يلي:
+لاسترداد قناة محذوفة، يمكن لمالك الفريق القيام بما يلي:
 
-1. افتح إعدادات الفريق عن طريق تحديد 3 نقاط إلى يسار اسم الفريق.
-2. حدد **أداره**  >  **قنوات**  >  الفريق **المحذوفة**، ثم حدد **استعاده** إلى اليسار.
+1. افتح إعدادات الفريق عن طريق تحديد 3 نقاط إلى يمين اسم الفريق.
+2. حدد **إدارة قنوات**  >  **الفريق**  >  **المحذوفة**، ثم حدد **استعادة** على الجانب الأيمن.
 
-للحصول علي مزيد من المعلومات حول استعاده فريق ، راجع [أرشفه فريق أو حذفه في فرق microsoft-فرق microsoft | مستندات Microsoft](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team).
+لمزيد من المعلومات حول استعادة فريق، راجع أرشفة فريق أو حذفه في [Microsoft Teams - Microsoft Teams | Microsoft Docs](https://docs.microsoft.com/microsoftteams/archive-or-delete-a-team#restore-a-deleted-team).

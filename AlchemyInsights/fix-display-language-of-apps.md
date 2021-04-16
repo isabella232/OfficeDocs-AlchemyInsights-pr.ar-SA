@@ -1,8 +1,8 @@
 ---
-title: تصحيح لغة عرض التطبيقات
+title: إصلاح لغة العرض للتطبيقات
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001477"
 - "3508"
-ms.openlocfilehash: afe98f78654ba84a33f1bc3de0cf97bd22ccdb05
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 55b2ef2b47ce2451133341f7a58d7d3f3e114bfe
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730074"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812847"
 ---
-# <a name="fix-the-display-language-of-apps"></a>تصحيح لغة عرض التطبيقات
+# <a name="fix-the-display-language-of-apps"></a>إصلاح لغة العرض للتطبيقات
 
-بعد تغيير لغة العرض في Windows 10 ، قد تستمر بعض التطبيقات في استخدام اللغة السابقة عند فتحها. يحدث هذا لان الإصدارات الجديدة من التطبيقات الخاصة بتلك اللغة يجب تنزيلها من المتجر. لإصلاح هذه المشكلة ، يمكنك اما انتظار التحديث التلقائي ، أو يمكنك تثبيت الإصدار المحدث من التطبيقات يدويا.
+بعد تغيير لغة العرض في Windows 10، قد لا تزال بعض التطبيقات تستخدم اللغة السابقة عند فتحها. يحدث ذلك لأنه يجب تنزيل الإصدارات الجديدة من التطبيقات الخاصة بهذه اللغة من المتجر. لإصلاح هذه المشكلة، يمكنك إما الانتظار حتى التحديث التلقائي، أو يمكنك تثبيت الإصدار المحدث من التطبيقات يدويا.
 
-لتثبيت التحديث يدويا ، افتح **Microsoft Store** وانقر فوق **تنزيلات وتحديثات** في الزاوية العلوية اليسرى. ثم انقر فوق **الحصول علي التحديثات**. إذا لم يتم تغيير اللغة بعد اكتمال عمليه التحديث ، فحاول أعاده تشغيل الكمبيوتر الشخصي.
+لتثبيت التحديث يدويا، افتح **Microsoft Store** وانقر فوق التنزيلات **والتحديثات** في الزاوية العلوية اليسرى. ثم انقر **فوق الحصول على التحديثات**. إذا لم يتم تغيير اللغة بعد اكتمال التحديث، فحاول إعادة تشغيل الكمبيوتر.
 
-![الحصول علي التحديثات.](media/get-updates.png)
+![احصل على التحديثات.](media/get-updates.png)
 
-لقراءه المزيد حول إعدادات لغة الإدخال [والعرض ، راجع أداره إعدادات لغة الإدخال والعرض في Windows 10](https://support.microsoft.com/help/4027670/windows-10-add-and-switch-input-and-display-language-preferences).
+لقراءة المزيد حول إعدادات لغة الإدخال والعرض، راجع إدارة إعدادات لغة الإدخال [والعرض في Windows 10](https://support.microsoft.com/help/4027670/windows-10-add-and-switch-input-and-display-language-preferences).

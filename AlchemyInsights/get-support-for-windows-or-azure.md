@@ -1,8 +1,8 @@
 ---
-title: الحصول علي دعم ل Windows أو Azure
+title: الحصول على دعم لنظام التشغيل Windows أو Azure
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002474"
 - "4811"
-ms.openlocfilehash: 65263410c830df2d2aa7c432ad1396df66e830e8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b5b1b6ed6395878c6fcb79454624c4aeb185585
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47707158"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51812127"
 ---
-# <a name="get-support-for-windows-or-azure"></a>الحصول علي دعم ل Windows أو Azure
+# <a name="get-support-for-windows-or-azure"></a>الحصول على دعم لنظام التشغيل Windows أو Azure
 
-بالنسبة إلى Windows أو Azure ، توفر Microsoft مجموعه متنوعة من الخطط لمساعدتك علي الحصول علي الدعم الذي تريده للاعمال المساعدة ، من اليوم الذي يتوفر فيه الدعم المتميز والليل ، إلى خيارات الدفع لكل حادث. إذا لم تكن مؤسستك تحتوي علي خطه دعم مدفوعة ، فحدد أحد الخيارات أدناه للحصول علي مزيد من المعلومات.
+بالنسبة لنظام التشغيل Windows أو Azure، توفر Microsoft مجموعة متنوعة من الخطط لمساعدتك في الحصول على دعم الأعمال المساعدة الذي تحتاج إليه، بداية من الدعم المميز المتوفر ليلا ونهارا، إلى خيارات الدفع لكل حادث. إذا لم يكن لدى مؤسستك خطة دعم مدفوعة، فاختر خيارا أدناه للحصول على مزيد من المعلومات.
 
-- **الدعم الموحد ل microsoft** -يقوم تلك الدعم الموحد ل microsoft بتغيير تجربه دعم المؤسسات ، مع توفير التغطية علي مستوي المؤسسة لكل منتجات Microsoft وخدماتها ، واكسبانسيفي الميزات الجديدة لزيادة المتخصصين والمطورين ، والطريقة المستندة إلى النتيجة لتقديم قيمه اضافيه لدعم المؤسسة. تعرف علي المزيد علي [موقع ويب الخاص بالدعم الموحد](https://aka.ms/unified-support).
-- **دعم Microsoft Professional (الدفع بالحادث)** -إذا كنت بحاجه إلى دعم تقني فوري للاعمال الخاصة بك ، فان الدعم المهني يتوفر كالدفع بالحالة الواحدة (PPI) أو لوجود 5 حزم من الحوادث. يساعدك الخبراء في Microsoft علي استكشاف مشاكل معينه أو رسالة خطا أو وظيفة لا تعمل كما هو متوقع. لمعرفه المزيد وشراء الرسومات لكل دعم لحادث ، قم [بإنشاء طلب دعم جديد](https://support.microsoft.com/supportforbusiness/productselection).
-- **دعم Azure** -يتم تضمين دعم الفوترة والاشتراكات في اشتراكك في microsoft azure ، الذي يمكنك إرساله عبر [مدخل مسؤول microsoft azure](https://portal.azure.com/). للحصول علي الدعم التقني ، يمكنك شراء [خطط دعم Microsoft Azure](https://azure.microsoft.com/support/plans/) عبر برامج الترخيص المجمع أو من Microsoft مباشره.
+- دعم Microsoft الموحد - يقوم الدعم الموحد من Microsoft بتغيير تجربة دعم المؤسسة بشكل أساسي، وتوفير تغطية على مستوى المؤسسة لكل منتجات وخدمات **Microsoft،** وإمكانيات جديدة واسعة لتمكين مطوري ومحترفي تكنولوجيا المعلومات، ونهج مستند إلى النتائج لتقديم قيمة دعم أكبر مع نمو مؤسستك. تعرف على المزيد على [موقع الدعم الموحد على ويب](https://aka.ms/unified-support).
+- **دعم Microsoft Professional (الدفع** لكل حادث) - إذا كنت بحاجة إلى دعم تقني فوري للأعمال، يتوفر الدعم الاحترافي كدفعة واحدة لكل حادث (PPI) أو حزمة 5 من الأحداث. يساعدك خبراء Microsoft على استكشاف مشكلة معينة أو رسالة خطأ أو وظيفة معينة لا تعمل كما هو متوقع وإصلاحها. لمعرفة المزيد وشراء دعم الدفع لكل حادث، [قم بإنشاء طلب دعم جديد](https://support.microsoft.com/supportforbusiness/productselection).
+- **دعم Azure** - يتم تضمين الفوترة ودعم الاشتراك مع اشتراك Microsoft Azure، الذي يمكنك إرساله من خلال [مدخل مسؤول Microsoft Azure](https://portal.azure.com/). للحصول على الدعم التقني، يمكنك شراء خطط دعم [Microsoft Azure](https://azure.microsoft.com/support/plans/) من خلال برامج الترخيص الكلي أو مباشرة من Microsoft.
 
-إذا كانت مشكلتك مرتبطة ب Microsoft 365 ، فريستاتي الاستعلام باستخدام أسماء منتجات وميزات محدده.
+إذا كانت المشكلة متعلقة ب Microsoft 365، فحدد الاستعلام باستخدام أسماء منتجات وميزات معينة.

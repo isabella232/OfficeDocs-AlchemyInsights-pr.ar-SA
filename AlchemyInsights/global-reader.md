@@ -1,8 +1,8 @@
 ---
-title: قارئ عمومي
+title: القارئ العام
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002962"
 - "5672"
-ms.openlocfilehash: 684a9fdeeaa4aecf02262079739568b75a5ee24f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 522343ef1e49d59fe019aba8de8bb9e88ddcbe46
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706402"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811839"
 ---
-# <a name="global-reader"></a>قارئ عمومي
+# <a name="global-reader"></a>القارئ العام
 
-بإمكان المستخدمين في هذا الدور قراءه الإعدادات والمعلومات الاداريه في خدمات Microsoft 365 ولكن لا يمكنهم اتخاذ إجراءات الاداره. القارئ العمومي هو الوضع الذي للقراءة فقط للمسؤول العام.
-لا يدعم مركز أداره OneDrive دور القارئ العام.
+يمكن للمستخدمين في هذا الدور قراءة الإعدادات والمعلومات الإدارية عبر خدمات Microsoft 365 ولكن لا يمكنهم اتخاذ إجراءات الإدارة. القارئ العام هو النظير للقراءة فقط للمسؤول العام.
+لا يدعم مركز إدارة OneDrive دور القارئ العام.
 
-لمعرفه المزيد حول القارئ العام والحدود الحالية الخاصة به ، راجع [القارئ العمومي](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#global-reader).
+لمعرفة المزيد حول القارئ العام وقيوده الحالية، راجع [القارئ العام](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#global-reader).

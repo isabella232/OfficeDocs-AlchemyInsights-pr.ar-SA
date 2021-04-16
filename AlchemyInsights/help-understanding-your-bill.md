@@ -1,8 +1,8 @@
 ---
-title: المساعدة علي فهم الفاتورة
+title: المساعدة في فهم الفاتورة
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,23 +14,23 @@ ms.custom:
 - "267"
 - "1500005"
 ms.assetid: bdcd1344-7a01-4a3f-90ad-3e7bc0f684a9
-ms.openlocfilehash: bf09bf13ae38f6fee0d8e9451504e26ea68c68e3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8fdd92779f009626afb8e9158e09c8254f089e42
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705430"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51811587"
 ---
-# <a name="help-understanding-your-bill"></a>المساعدة علي فهم الفاتورة
+# <a name="help-understanding-your-bill"></a>المساعدة في فهم الفاتورة
 
-يعكس المبلغ الذي تمت فوترته لاشتراكك سعر الترخيص مضروبا في عدد التراخيص التي تم شراؤها وأي رسوم أو ضرائب مطلوبه.
+يعكس المبلغ الذي تم فوترته لاشتراكك سعر الترخيص مضروبا في عدد التراخيص التي تم شراؤها وأي ضرائب/رسوم مطلوبة.
   
-إذا كانت قيمه المبلغ الذي تمت فوترته مختلفه ، فقد يكون من المتوقع حدوث بعض الأسباب التالية:
+إذا كان المبلغ الذي تم فوترته مختلفا، فمن المتوقع حدوث ذلك بعد ذلك، فهناك بضعة أسباب وراء حدوث ذلك:
   
-- تمت أضافه التراخيص أو ازالتها من اشتراكك. عند تغيير التراخيص بالمدة المتوسطة ، ينعكس ذلك علي الفاتورة التالية. قد يظهر رصيد وفاتورة مُعادة لفترة الخدمة السابقة توح سبب هذا التغيير.
+- تمت إضافة التراخيص أو إزالتها من اشتراكك. عند تغيير التراخيص في منتصف المدة، ينعكس ذلك على الفاتورة التالية. قد يظهر رصيد وفاتورة مُعادة لفترة الخدمة السابقة توح سبب هذا التغيير.
 
 - تم إلغاء الاشتراك. ستتلقى فاتورة بعد عملية الإلغاء تحتوي على أي رصيد مستحق وخصم أي ائتمانات.
 
 - تم تجديد اشتراكك لفترة جديدة مع تغير سعر الترخيص.
 
-للحصول علي مزيد من المعلومات حول الفاتورة ، راجع: [فهم الفاتورة](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)
+لمزيد من المعلومات حول فاتورتك، راجع: [فهم الفاتورة](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2)
