@@ -1,8 +1,8 @@
 ---
-title: Yammer-مشكله الخدمة المحتملة
+title: Yammer - مشكلة محتملة في الخدمة
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "1338"
 - "2800001"
-ms.openlocfilehash: 51ccf2517a8f4bddcfc63d38011bb9dd2f0f9fc5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bf01341a34719326824847bb44d55ab995a9faba
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748852"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51796223"
 ---
-# <a name="yammer---possible-service-issue"></a><span data-ttu-id="5f930-102">Yammer-مشكله الخدمة المحتملة</span><span class="sxs-lookup"><span data-stu-id="5f930-102">Yammer - possible service issue</span></span>
+# <a name="yammer---possible-service-issue"></a><span data-ttu-id="c0215-102">Yammer - مشكلة محتملة في الخدمة</span><span class="sxs-lookup"><span data-stu-id="c0215-102">Yammer - possible service issue</span></span>
 
-<span data-ttu-id="5f930-103">قد يكون هناك مشكله مؤقته حيث قد يواجه المستخدمون أخطاء عند الوصول إلى Yammer.</span><span class="sxs-lookup"><span data-stu-id="5f930-103">There may be a temporary issue where users may experience errors when accessing Yammer.</span></span> <span data-ttu-id="5f930-104">تحقق من " [لوحه معلومات حماية الخدمة](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) " لمعرفه ما إذا كانت ستؤثر علي شبكتك.</span><span class="sxs-lookup"><span data-stu-id="5f930-104">Check the [Service Health Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if this affects your network.</span></span>
+<span data-ttu-id="c0215-103">قد تكون هناك مشكلة مؤقتة حيث قد تواجه المستخدمين أخطاء عند الوصول إلى Yammer.</span><span class="sxs-lookup"><span data-stu-id="c0215-103">There may be a temporary issue where users may experience errors when accessing Yammer.</span></span> <span data-ttu-id="c0215-104">تحقق من [لوحة معلومات حالة الخدمة](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) لمعرفة ما إذا كان ذلك يؤثر على شبكتك.</span><span class="sxs-lookup"><span data-stu-id="c0215-104">Check the [Service Health Dashboard](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) to see if this affects your network.</span></span>
