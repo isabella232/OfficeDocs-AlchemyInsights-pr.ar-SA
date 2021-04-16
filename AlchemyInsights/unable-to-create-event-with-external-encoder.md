@@ -1,8 +1,8 @@
 ---
-title: 'الفرق: حدث مباشر-تعذر إنشاء حدث باستخدام جهاز ترميز خارجي'
+title: 'Teams: حدث مباشر - غير قادر على إنشاء حدث باستخدام ترميز خارجي'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "1780"
 - "9000208"
-ms.openlocfilehash: 79da25365c9e3131f35c080ecd1c7f904d3c05e0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d8af975ce7d19e27b2eefda712ac778c0f703d6d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796887"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51796988"
 ---
-# <a name="need-to-configure-your-live-event-with-an-external-encoder"></a>هل تحتاج إلى تكوين حدث مباشر باستخدام جهاز ترميز خارجي ؟
+# <a name="need-to-configure-your-live-event-with-an-external-encoder"></a>هل تحتاج إلى تكوين الحدث المباشر باستخدام ترميز خارجي؟
 
-إذا كنت تواجه مشكله في الحصول علي جهاز الترميز لديك للعمل باستخدام الحدث المباشر للفرق ، فراجع وثائق اعداد أداه الترميز: [تكوين انكوديرس للتدفق المباشر في Microsoft Stream](https://docs.microsoft.com/stream/live-encoder-setup)
+إذا كنت تواجه مشكلة في الحصول على الترميز للعمل مع الحدث المباشر في Teams، فشاهد وثائق إعداد الترميز: تكوين ترميزات للتدفق المباشر في [Microsoft Stream](https://docs.microsoft.com/stream/live-encoder-setup)

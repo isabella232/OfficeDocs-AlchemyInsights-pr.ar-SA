@@ -1,8 +1,8 @@
 ---
-title: كيف يمكنني مسح ذاكره التخزين المؤقت أو أعاده تعيين/تحديث العميل/التطبيق محليا ؟
+title: كيف أقوم بمسح ذاكرة التخزين المؤقت أو إعادة تعيين/تحديث العميل/التطبيق محليا؟
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3060"
 - "9001099"
-ms.openlocfilehash: ef56e513ca04f8b51390d565c18aabd7908c2f7f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e48bc08ac8098d8783bdf884aaf618feb1967327
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47780262"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51795935"
 ---
-# <a name="how-do-i-clear-the-cache-or-locally-resetrefresh-the-clientapp"></a>كيف يمكنني مسح ذاكره التخزين المؤقت أو أعاده تعيين/تحديث العميل/التطبيق محليا ؟
+# <a name="how-do-i-clear-the-cache-or-locally-resetrefresh-the-clientapp"></a>كيف أقوم بمسح ذاكرة التخزين المؤقت أو إعادة تعيين/تحديث العميل/التطبيق محليا؟
 
-إذا كنت تري البيانات غير المكتملة أو غير الصحيحة ، فحاول فرض إغلاق التطبيق وأعاده فتحه.  
+إذا رأيت بيانات غير مكتملة أو غير صحيحة، فحاول فرض إغلاق التطبيق وإعادة فتحه.  
 
-إذا لم ينجح هذا الاجراء ، فيمكنك محاولة أعاده تعيين الحساب علي الجهاز.
+إذا لم ينجح ذلك، يمكنك محاولة إعادة تعيين الحساب على الجهاز.
  
-افتح التطبيق ، وانتقل إلى **إعدادات**، وحدد حساب البريد الكتروني ، واختر **أعاده تعيين الحساب**.
+افتح التطبيق، واذهب إلى **إعدادات،** وحدد حساب البريد الإلكتروني، واختر **إعادة تعيين الحساب**.
