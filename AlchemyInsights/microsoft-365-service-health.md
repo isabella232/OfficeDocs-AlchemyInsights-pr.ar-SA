@@ -1,8 +1,8 @@
 ---
-title: حماية خدمه Microsoft 365
+title: Microsoft 365 Service Health
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: 61729bb79f9cfc2586fed5db1a97f7e79569cdfe
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a636305b369d6a0d78d768acd420f14b295812a5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47742730"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51794459"
 ---
-# <a name="microsoft-365-service-health"></a>حماية خدمه Microsoft 365
+# <a name="microsoft-365-service-health"></a>Microsoft 365 Service Health
 
 
-تحقق من حاله الخدمة لأي خدمه من [لوحه معلومات حماية الخدمة](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth). من خلال تحديد **مركز الاداره الجديد** في الزاوية العلوية اليسرى ، ستري خيارات جديده لحماية الخدمة.
+تحقق من صحة الخدمة لأي خدمة من [لوحة معلومات "صحة الخدمة".](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth) من خلال تحديد **مركز الإدارة الجديد** في الزاوية العلوية اليسرى، سترى خيارات حالة الخدمة الجديدة.
 
-- حدد **التفضيلات** لتلقي **اعلامات البريد الكتروني**لحماية الخدمة.
+- حدد **تفضيلات** لتلقي إعلامات البريد الإلكتروني **حول حالة الخدمة**.
 
-- حدد **الإبلاغ عن مشكله** إذا كنت تواجه مشكله في الخدمة.
+- حدد **الإبلاغ عن مشكلة** إذا كنت تواجه مشكلة في الخدمة.
 
-- حدد **محفوظات** لمراجعه محفوظات حماية الخدمة الخاصة بمؤسسك. 
+- حدد **محفوظات** لمراجعة محفوظات حالة الخدمة في مؤسستك. 
 
-للحصول علي مزيد من المعلومات ، راجع [كيفيه التحقق من حماية خدمه Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health). 
+لمزيد من المعلومات، [راجع كيفية التحقق من صحة خدمة Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health). 
