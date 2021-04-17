@@ -1,8 +1,8 @@
 ---
-title: اشعار انتهاء صلاحيه الاشتراك في تطبيقات Microsoft 365
+title: إشعار انتهاء صلاحية الاشتراك في تطبيقات Microsoft 365
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000296"
 - "1905"
-ms.openlocfilehash: b13d5befc85295f625d1af0680407af885b28039
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 466f164e5010476ff67d2b2bdbb1e802351795cb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719400"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823558"
 ---
-# <a name="subscription-expired-notice-in-microsoft-365-apps"></a>الاشعار "انتهت صلاحيه الاشتراك" في تطبيقات Microsoft 365
+# <a name="subscription-expired-notice-in-microsoft-365-apps"></a>إشعار "انتهت صلاحية الاشتراك" في تطبيقات Microsoft 365
 
 - اطلع على [صفحة Service Health](https://docs.microsoft.com/office365/enterprise/view-service-health) لمعرفة ما إذا كانت هناك أي مشكلات معروفة في الخدمة.
 

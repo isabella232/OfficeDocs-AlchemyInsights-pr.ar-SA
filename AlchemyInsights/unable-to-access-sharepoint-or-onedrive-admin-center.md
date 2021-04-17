@@ -1,8 +1,8 @@
 ---
-title: تعذر الوصول إلى مركز أداره SharePoint أو OneDrive
+title: تعذر الوصول إلى SharePoint أو مركز إدارة OneDrive
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001459"
 - "5638"
-ms.openlocfilehash: a70b0708b325c5feaefec3d97c957086d7f62cc6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ba4a9c6995c03dd21e0e1aa387e407d41a08fb1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47749465"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824422"
 ---
-# <a name="unable-to-access-sharepoint-or-onedrive-admin-center"></a>تعذر الوصول إلى مركز أداره SharePoint أو OneDrive
+# <a name="unable-to-access-sharepoint-or-onedrive-admin-center"></a>تعذر الوصول إلى SharePoint أو مركز إدارة OneDrive
 
-- إذا لم يتمكن المستخدمون من الوصول إلى موقع مركز أداره SharePoint أو OneDrive أو عدم توفره ، فقد تكون هناك مشكله في الخدمة المؤقتة التي يواجهها الوصول إلى تاخيرات بشكل متقطع أو ظهور أخطاء في التنقل عندما تصل إلى مواقع SharePoint أو محتوي OneDrive. راجع [لوحه معلومات حماية الخدمة](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) لمعرفه ما إذا كانت مؤسستك متاثره بالأمر.
+- إذا كان موقع مركز إدارة SharePoint أو OneDrive غير متوفر أو غير متوفر، فقد تكون هناك مشكلة خدمة مؤقتة حيث تواجه المستخدمون تأخيرات متقطعة أو أخطاء في التنقل عند الوصول إلى مواقع SharePoint أو محتوى OneDrive. تحقق من [لوحة معلومات حالة الخدمة](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) لمعرفة ما إذا كانت مؤسستك متأثّر بها.
 
-- يجب ان يتم تعيين ترخيص SharePoint إلى العام ومسؤولي SharePoint. الحسابات التي تم إنشاؤها حديثا والتي تم تعيينها بواسطة ترخيص SharePoint أو دور المسؤول قد تواجه مشاكل في الوصول إلى SharePoint ، مثل "رفض الوصول" أو "لم يتم العثور علي المستخدم". يرجى توفير 24 ساعة علي الأقل لإكمال المزامنة عبر أنظمتنا. نحن علي علم بان 24 ساعة قد تبدو مثل وقت طويل. في حالات كثيره ، نحن نعمل بالفعل علي حل.
+- يجب تعيين ترخيص SharePoint للمسؤولين العامين و SharePoint. قد تواجه الحسابات التي تم إنشاؤها حديثا التي تم تعيينها للتو مع دور مسؤول أو ترخيص SharePoint مشاكل في الوصول إلى SharePoint، مثل "تم رفض الوصول" أو "لم يتم العثور على المستخدم". يرجى منح 24 ساعة على الأقل للمزامنة لإكمالها عبر أنظمتنا. ندرك أن 24 ساعة قد تبدو طويلة. في العديد من الحالات، نحن نعمل بالفعل على إيجاد حل.
 
-- قد يتلقى مستخدمو أداره الهويات المميزة ([بيم](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-add-role-to-user?tabs=new)) امكانيه الوصول إلى "تم رفضه إذا كانت نافذه الوصول المسموح بها صغيره جدا ، فراجع  [تم رفض الوصول إلى حسابات بيم](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-to-pim-user-accounts).
+- قد يتلقى مستخدمو إدارة الهوية المميزة[(PIM)](https://docs.microsoft.com/azure/active-directory/privileged-identity-management/pim-how-to-add-role-to-user?tabs=new)رفض الوصول إذا كانت النافذة الزمنية المسموح بها للوصول صغيرة جدا، راجع رفض  [الوصول إلى حسابات PIM](https://docs.microsoft.com/sharepoint/troubleshoot/administration/access-denied-to-pim-user-accounts).

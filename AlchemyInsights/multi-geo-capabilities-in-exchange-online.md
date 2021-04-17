@@ -1,8 +1,8 @@
 ---
-title: إمكانيات متعددة المناطق في Exchange Online
+title: قدرات متعددة الجغرافيا في Exchange Online
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001088"
 - "5695"
-ms.openlocfilehash: d3c189d29e36ec013c4a0ee08bf6d253cc00b4ff
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67028211f9aab0e982cfdd0307673e6235001d4d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702494"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825250"
 ---
-# <a name="multi-geo-capabilities-in-exchange-online"></a>إمكانيات متعددة المناطق في Exchange Online
+# <a name="multi-geo-capabilities-in-exchange-online"></a>قدرات متعددة الجغرافيا في Exchange Online
 
-في بيئة متعددة المناطق ، يمكنك تحديد موقع محتوي علبه بريد Exchange Online (البيانات في الوقت نفسه) علي أساس كل مستخدم.
-- [إمكانيات متعددة المناطق في Exchange Online](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-exchange-online)
+في بيئة متعددة الجغرافيا، يمكنك تحديد موقع محتوى علبة بريد Exchange Online (البيانات في بقية البيانات) على أساس كل مستخدم.
+- [قدرات متعددة الجغرافيا في Exchange Online](https://docs.microsoft.com/office365/enterprise/multi-geo-capabilities-in-exchange-online)

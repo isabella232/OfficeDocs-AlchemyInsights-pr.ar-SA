@@ -1,8 +1,8 @@
 ---
-title: الترحيل من AIP إلى ميب/التسمية الموحدة في مركز التوافق
+title: الترحيل من AIP إلى تسمية MIP/الموحدة في مركز التوافق
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5114"
-ms.openlocfilehash: 7157eada10db2443f64fb7925f408359275d75eb
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 12f5f5c46edd7918618c55a8a1905f3b28643092
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47674313"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825358"
 ---
-# <a name="migration-from-aip-to-mipunified-labeling-in-the-compliance-center"></a>الترحيل من AIP إلى ميب/التسمية الموحدة في مركز التوافق
+# <a name="migration-from-aip-to-mipunified-labeling-in-the-compliance-center"></a>الترحيل من AIP إلى تسمية MIP/الموحدة في مركز التوافق
 
-للترحيل من AIPات IP إلى التسمية الموحدة في مركز الأمان والتوافق ، قم بما يلي:
+للترحيل من تسميات AIP إلى التسمية الموحدة في مركز الأمان والتوافق، يمكنك القيام بما يلي:
 
 **تنشيط الحماية من مدخل Azure**
 
-1. إذا لم تكن قد فعلت ذلك بعد ، فافتح نافذه مستعرض جديده وقم [بتسجيل الدخول إلى مدخل Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal). انتقل إلى ريش **حماية البيانات في Azure** . علي سبيل المثال ، في قائمه الموزع ، انقر فوق **كافة الخدمات** وأبدا بكتابه **المعلومات** في المربع عامل التصفية. حدد **حماية البيانات في Azure**. إذا لم تكن قد قمت بالوصول إلى ريش حماية البيانات في Azure قبل ذلك ، فراجع [الخطوات الاضافيه لمره واحده](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) لأضافه هذا الريش إلى المدخل. لفتح ريش حماية البيانات في Azure ، يجب ان يتوفر لديك [خطه Premium لحماية البيانات في azure](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) أو خطه Office 365 التي تتضمن أداره الحقوق. إذا كان لديك أحد هذه الاشتراكات ولكنك تري رسالة تفيد بتعذر العثور علي اشتراك صحيح ، [فاتصل بدعم Microsoft](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) أو استخدم قنوات الدعم القياسية الخاصة بك.
+1. إذا لم تكن قد فعلت ذلك بعد، فافتح نافذة مستعرض جديدة ثم [سجل الدخول إلى مدخل Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#signing-in-to-the-azure-portal). انتقل إلى **شفرة Azure Information Protection.** على سبيل المثال، في قائمة الموزع، انقر فوق **كافة الخدمات** وابدأ بكتابة **المعلومات** في المربع عامل التصفية. حدد **Azure Information Protection**. إذا لم تكن قد قمت بالوصول إلى شفرة Azure Information [](https://docs.microsoft.com/azure/information-protection/deploy-use/configure-policy#to-access-the-azure-information-protection-blade-for-the-first-time) Protection من قبل، فشاهد الخطوات الإضافية مرة واحدة لإضافة هذا النصل إلى المدخل. لفتح شفرة Azure Information Protection، يجب أن يكون لديك خطة [Azure Information Protection Premium](https://www.microsoft.com/cloud-platform/azure-information-protection-pricing) أو خطة Office 365 التي تتضمن إدارة الحقوق. إذا كان لديك أحد هذه الاشتراكات ولكنك رأيت رسالة بأنه يتعذر العثور على اشتراك صالح، فاتصل ب [دعم Microsoft](https://docs.microsoft.com/azure/information-protection/get-started/information-support#to-contact-microsoft-support) أو استخدم قنوات الدعم القياسية.
 
-2. حدد موقع خيارات القائمة **أداره** ، وحدد **تنشيط الحماية**. انقر فوق **تنشيط**، ثم قم بتاكيد الاجراء. عند اكتمال عمليه التنشيط ، يعرض شريط المعلومات **انتهاء التنشيط بنجاح**.
+2. حدد خيارات **القائمة إدارة،** وحدد **تنشيط الحماية**. انقر **فوق** تنشيط ، ثم قم بتأكيد الإجراء. عند اكتمال التنشيط، يعرض شريط المعلومات انتهاء **التنشيط بنجاح**.
 
-**ترحيل تسميات حماية البيانات في Azure إلى مركز توافق & أمان Office 365**
+**ترحيل تسميات Azure Information Protection إلى مركز & أمان Office 365**
 
-1. تاكد من انك قمت بتسجيل الدخول كمستخدم لديه اذن المسؤول العام.
+1. تأكد من تسجيل دخولك كمستخدم بإذن المسؤول العام.
 
-2. انتقل إلى ريش **حماية البيانات في Azure** .
+2. انتقل إلى **شفرة Azure Information Protection.**
 
-3. من خيار القائمة **أداره** ، حدد **التسمية الموحدة**.
+3. من خيار **القائمة إدارة،** حدد **تسمية موحدة**.
 
-4. في **حماية البيانات في Azure-النصليه التسمية الموحدة** ، انقر فوق **تنشيط** واتبع الإرشادات الموجودة علي الإنترنت.
+4. على **شفرة حماية معلومات Azure - تسمية** موحدة، انقر فوق **تنشيط** واتبع الإرشادات عبر الإنترنت.
 
-**ملاحظه**: تحقق من ان لديك الأذونات المناسبة قبل تنشيط ترحيل مركز توافق & الأمان. راجع هذه المقالات للحصول علي مزيد من المعلومات:
+**ملاحظة:** تحقق من أن لديك الأذونات المناسبة قبل تنشيط & مركز التوافق. لمزيد من المعلومات، راجع هذه المقالات:
 
-1. [هل تحتاج إلى ان تكون مسؤولا عاما لتكوين حماية البيانات في Azure ، ام يمكنني التفويض بالمسؤولين الآخرين ؟](https://docs.microsoft.com/azure/information-protection/faqs#do-you-need-to-be-a-global-admin-to-configure-azure-information-protection-or-can-i-delegate-to-other-administrators)
+1. [هل تحتاج إلى أن تكون مسؤولا عاما لتكوين Azure Information Protection، أو هل يمكنني التفويض إلى مسؤولي آخرين؟](https://docs.microsoft.com/azure/information-protection/faqs#do-you-need-to-be-a-global-admin-to-configure-azure-information-protection-or-can-i-delegate-to-other-administrators)
 
-2. [معلومات مهمة حول الأدوار الاداريه بعد الترحيل إلى مركز توافق & الأمان.](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#important-information-about-administrative-roles)
+2. [معلومات مهمة حول الأدوار الإدارية بعد عملية إعادة & مركز التوافق.](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels#important-information-about-administrative-roles)
 
-للحصول علي مزيد من المعلومات حول ترحيل التسمية الموحدة إلى مركز الأمان والتوافق ، راجع [ترحيل التسميات](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels).
+لمزيد من المعلومات حول ترحيل AIP إلى التسميات الموحدة إلى مركز الأمان والتوافق، راجع [ترحيل التسميات](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels).

@@ -1,8 +1,8 @@
 ---
-title: السماح للمستخدمين المجهولين أو منعهم من الانضمام إلى اجتماعات الفرق
+title: السماح للمستخدمين المجهولين أو منعهم من الانضمام إلى اجتماعات Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003005"
 - "5759"
-ms.openlocfilehash: 310303c4fdd250aecca26de95d508a4bb7c922a1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 04813fc092ef58a533164a4e22f4ed9ee959cf9d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669883"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824746"
 ---
-# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>السماح للمستخدمين المجهولين أو منعهم من الانضمام إلى اجتماعات الفرق
+# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>السماح للمستخدمين المجهولين أو منعهم من الانضمام إلى اجتماعات Teams
 
-يمكنك التحكم في إعدادات الانضمام إلى الاجتماعات المجهولة في مركز أداره الفرق.
+يمكنك التحكم في إعدادات الانضمام إلى الاجتماعات المجهولة في مركز إدارة Teams.
 
-**قد يستغرق الأمر مده تصل إلى 24 ساعة لكي يدخل هذا التغيير حيز التنفيذ.**
+**قد يستغرق هذا التغيير ما يصل إلى 24 ساعة حتى يتم التنفيذ.**
 
-1.  الانتقال إلى [مركز أداره الفرق](https://admin.teams.microsoft.com)
-2.  في جزء التنقل الأيمن ، **انتقل إلى**   >   **إعدادات اجتماع الاجتماعات**.
-3.  ضمن  **المشاركون**،  **يمكنك تشغيل المستخدمين المجهولين بالانضمام إلى اجتماع**.
+1.  الانتقال إلى [مركز إدارة Teams](https://admin.teams.microsoft.com)
+2.  في التنقل الأيسر، انتقل إلى **إعدادات**   >   **اجتماع الاجتماعات**.
+3.  ضمن  **المشاركون**، قم تشغيل  **يمكن للمستخدمين المجهولين الانضمام إلى اجتماع**.

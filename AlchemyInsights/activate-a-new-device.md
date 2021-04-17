@@ -2,7 +2,7 @@
 title: تنشيط جهاز جديد
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3402"
 - "9001418"
-ms.openlocfilehash: 6c8a32496b8e9f82d2c72b0d509f2dbbecff6539
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5ee50d45712f4c363cf21d49e56ed813d6c0f782
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668369"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823270"
 ---
-# <a name="activating-a-new-device-running-windows-10"></a>تنشيط جهاز جديد يعمل بنظام Windows 10
+# <a name="activating-a-new-device-running-windows-10"></a>تنشيط جهاز جديد يعمل بنظام التشغيل Windows 10
 
-إذا قمت بشراء جهاز جديد يقوم بتشغيل Windows 10 ، سيتم تنشيطه تلقائيا عند توصيل الجهاز بالإنترنت. إذا كانت خوادم التنشيط مشغولة ، فقد تحتاج إلى الانتظار لحين تنشيط Windows.
+إذا اشتريت جهازا جديدا يعمل بنظام التشغيل Windows 10، سيتم تنشيطه تلقائيا عند توصيل جهازك بالإنترنت. إذا كانت خوادم التنشيط مشغولة، فقد تحتاج إلى الانتظار قليلا حتى يقوم Windows بالتنشيط.
 
-للتحقق من حاله التنشيط ، حدد **بدء** تحديث **الإعدادات**  >  **& تنشيط الأمان**  >  **Activation**.
+للتحقق من حالة التنشيط، اختر **بدء** **تحديث الإعدادات**  >  **& تنشيط**  >  **الأمان.**
 
-**ملاحظه:** في بعض الحالات ، قد تحتاج إلى إدخال مفتاح منتج Windows 10 الذي ياتي مع حزمه الجهاز ، أو مضمن كبطاقة أو علي شهادة الاصاله (COA) المرفقة بالجهاز.
+**ملاحظة:** في بعض الحالات، قد تحتاج إلى إدخال مفتاح منتج Windows 10 المرفق مع حزم الجهاز، أو المضمن كبطاقة أو على شهادة المصادقة (COA) المرفقة بجهاز.
 
-[تعرف علي المزيد حول التنشيط في Windows 10](https://support.microsoft.com/help/12440)
+[تعرف على المزيد حول التنشيط في Windows 10](https://support.microsoft.com/help/12440)

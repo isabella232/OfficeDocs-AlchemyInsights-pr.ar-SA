@@ -1,8 +1,8 @@
 ---
-title: أداره المستخدم المتزامن
+title: إدارة المستخدم المتزامن
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000609"
 - "2444"
-ms.openlocfilehash: 7bf7d3f00308ff6bc973cd52e09ca51c5fd0f45b
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 0dc2ecfa0bb5703c619dc1b2d6b4d517f999da0d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48451387"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823954"
 ---
-# <a name="unable-to-set-primary-email-address-change-user-attributes-or-removedelete-a-synchronized-user"></a>تعذر تعيين عنوان البريد الكتروني الأساسي أو تغيير سمات المستخدم أو أزاله/حذف مستخدم متزامن
+# <a name="unable-to-set-primary-email-address-change-user-attributes-or-removedelete-a-synchronized-user"></a>تعذر تعيين عنوان البريد الإلكتروني الأساسي أو تغيير سمات المستخدم أو إزالة/حذف مستخدم متزامن
 
-إذا تم تمكين مزامنة الدليل لبيئتك ، فلا يمكن تغيير بعض سمات المستخدمين أو الكائنات باستخدام مركز أداره Microsoft 365.
+إذا تم تمكين مزامنة الدليل بيئتك، فلا يمكن تغيير بعض سمات المستخدم أو الكائن باستخدام مركز إدارة Microsoft 365.
 
-لأداره المستخدمين المتزامنين وكل السمات الخاصة بهم بالبالكامل ، استخدم "وحده التحكم في أداره المستخدمين المحليين" ل active directory (أدسييديت).  
+لإدارة المستخدمين المتزامنين وجميع سماتهم بشكل كامل، استخدم وحدة تحكم إدارة المجموعات ومستخدمي الدليل النشطين المحليين (adsiedit.msc).  
 
-بدلا من ذلك ، يمكنك تغيير المستخدمين الفرديين أو السمات لمستخدمين متزامنين باستخدام powershell كما هو مبين في هذه الامثله الشائعة:
+بدلا من ذلك، يمكنك تغيير المستخدمين الفرديين أو السمات للمستخدمين المتزامنين باستخدام powershell كما هو موضح في الأمثلة الشائعة هذه:
 
 `Set-MsolUser -UserPrincipalName user@yourdomain.onmicrosoft.com -AlternateEmailAddresses user2@yourvanitydomain.onmicrosoft.com`
 

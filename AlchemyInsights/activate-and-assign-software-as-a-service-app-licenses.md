@@ -1,8 +1,8 @@
 ---
-title: تنشيط تراخيص تطبيقات البرامج بالخدمات وتعيينها
+title: تنشيط تراخيص تطبيقات البرامج كخدمة وتعيينها
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000563"
 - "2422"
-ms.openlocfilehash: 8e0742a528a8bf5beefb32e32c5139b35ecad38d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c31de2fd6e34ffb4d510bc3bb33525e58c1c6557
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698524"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823198"
 ---
-# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>تنشيط تراخيص تطبيقات البرامج بالخدمات وتعيينها 
+# <a name="activate-and-assign-software-as-a-service-app-licenses"></a>تنشيط تراخيص تطبيقات البرامج كخدمة وتعيينها 
 
 ## <a name="to-activate-apps"></a>لتنشيط التطبيقات
 
-1. في مركز الاداره ، انتقل إلى صفحه **الفوترة**  >  **[الخاصة بالمنتجات](https://go.microsoft.com/fwlink/p/?linkid=842054)** ، ثم اختر علامة التبويب **التطبيقات** .
+1. في مركز الإدارة، انتقل إلى **صفحة فوترة** منتجاتك،  >  **[](https://go.microsoft.com/fwlink/p/?linkid=842054)** ثم اختر **علامة التبويب** تطبيقات.
 
-2. ابحث عن التطبيق الذي تريد ادارته وحدده.
+2. ابحث عن التطبيق الذي تريد إدارته وحدده.
 
-3. ضمن **التراخيص**، حدد اعداد **الحساب**.  
+3. ضمن **التراخيص،** حدد **إعداد الحساب**.  
 
 ## <a name="to-assign-app-licenses"></a>لتعيين تراخيص التطبيقات
 
-1. في مركز الاداره ، انتقل إلى صفحه **الفوترة**  >  **[الخاصة بالمنتجات](https://go.microsoft.com/fwlink/p/?linkid=842054)** ، ثم اختر علامة التبويب **التطبيقات** .
+1. في مركز الإدارة، انتقل إلى **صفحة فوترة** منتجاتك،  >  **[](https://go.microsoft.com/fwlink/p/?linkid=842054)** ثم اختر **علامة التبويب** تطبيقات.
 
-2. ابحث عن التطبيق الذي تريد ادارته وحدده.  
+2. ابحث عن التطبيق الذي تريد إدارته وحدده.  
 
-3. ضمن **إعدادات & إجراءات**، حدد الارتباط الذي تريد **ادارته في مدخل publisher**.
+3. ضمن **إعدادات & ،** حدد الارتباط إلى إدارة في مدخل **الناشر**.

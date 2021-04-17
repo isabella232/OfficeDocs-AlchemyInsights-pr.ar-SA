@@ -1,8 +1,8 @@
 ---
-title: لماذا لا يمكنني تحرير هذا الملف ؟
+title: لماذا لا يمكنني تحرير هذا الملف؟
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000123"
 - "5634"
-ms.openlocfilehash: 7510871335fbb6fafc7b27423a89e44bcac76ec1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a6597a0665b165eafe92baca99b0061111f333e6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664553"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824134"
 ---
-# <a name="why-cant-i-edit-this-file"></a>لماذا لا يمكنني تحرير هذا الملف ؟
+# <a name="why-cant-i-edit-this-file"></a>لماذا لا يمكنني تحرير هذا الملف؟
 
-إذا كان المستند أو ورقه العمل أو العرض التقديمي مؤمنا للتحرير ولا يمكن تحريره في تطبيقات سطح المكتب في Windows ، فقد يكون الملف قيد التحرير من قبل شخص آخر أو قام بسحب الملف.
+إذا تم تأمين مستند أو ورقة عمل أو عرض تقديمي للتحرير ولا يمكن تحريره في تطبيقات سطح المكتب التي تعمل بنظام Windows، فقد يكون الملف قيد التحرير من قبل شخص آخر، أو إذا تم سحب الملف.
 
-ألق نظره سريعة علي بعض الأسباب [التي قد يتعذر عليك تحرير الملف](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)فيها.
+أطلع على بعض الأسباب التي قد تجعلك لا تتمكن من [تحرير الملف.](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)
