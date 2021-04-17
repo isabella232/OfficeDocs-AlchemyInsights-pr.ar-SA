@@ -1,8 +1,8 @@
 ---
-title: رسائل البريد الكتروني المفقودة في الفحص
+title: رسائل البريد الإلكتروني المفقودة في الفحص
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,31 +12,31 @@ ms.collection: Adm_O365
 ms.custom:
 - "5668"
 - "9002625"
-ms.openlocfilehash: 55ed9a92675939c05477fbf6d12bbedd6eb931d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 43f9a1f03084bf9adab706b3f77eff1d1db888ca
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673701"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831721"
 ---
-# <a name="missing-emails-in-quarantine"></a>رسائل البريد الكتروني المفقودة في الفحص "
+# <a name="missing-emails-in-quarantine"></a>رسائل البريد الإلكتروني المفقودة في الفحص"
 
-يمكن للمسؤولين [عرض هذه الرسائل أو تحريرها أو حذفها.](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide)
+يمكن للمسؤولين [عرض هذه الرسائل أو إصدارها أو حذفها.](https://docs.microsoft.com/microsoft-365/security/office-365-security/manage-quarantined-messages-and-files?view=o365-worldwide)
 
-لفتح مركز توافق & الأمان ، انتقل إلى [https://protection.office.com](https://protection.office.com/) . لفتح صفحه الفحص مباشره ، انتقل إلى [https://protection.office.com/quarantine](https://protection.office.com/quarantine) .  
+لفتح مركز التوافق &، انتقل إلى [https://protection.office.com](https://protection.office.com/) . لفتح صفحة الفحص مباشرة، انتقل إلى [https://protection.office.com/quarantine](https://protection.office.com/quarantine) .  
 
-يمكنك البحث بحسب القيم التالية:  
+يمكنك البحث حسب القيم التالية:  
 
-- **معرف الرسالة**: المعرف الفريد العمومي للرسالة. إذا قمت بتحديد رسالة في القائمة ، ستظهر قيمه  **معرف الرسالة**  في جزء  **التفاصيل**  المنبثق الذي يظهر. يمكن للمسؤولين استخدام [تتبع الرسائل](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc?view=o365-worldwide) للبحث عن الرسائل وقيم معرف الرسائل المقابلة لها.
-- **عنوان البريد الكتروني**للمرسل: عنوان البريد الكتروني الخاص بالمرسل.
-- **عنوان البريد الكتروني للمستلم**: عنوان البريد الكتروني الخاص بمستلم واحد.
-- **الموضوع**: استخدم الموضوع بالبالكامل في الرسالة. لا يكون البحث متحسسا لحاله الأحرف.
+- **معرف الرسالة**: المعرف الفريد العام للرسالة. إذا حددت رسالة في القائمة، تظهر القيمة **"معرّف** الرسالة" في جزء القائمة من خلال التفاصيل التي تظهر.  يمكن للمسؤولين [استخدام تتبع الرسائل](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc?view=o365-worldwide) للعثور على الرسائل وقيمها المطابقة لمعرف الرسالة.
+- **عنوان البريد الإلكتروني المرسل:** عنوان البريد الإلكتروني لمرسل واحد.
+- **عنوان البريد الإلكتروني للمستلم**: عنوان البريد الإلكتروني لمستلم واحد.
+- **الموضوع**: استخدم الموضوع بالكامل للرسالة. لا يتحسس البحث حالة التحسس.
 
-بعد إدخال معايير البحث ، انقر فوق ![ الزر تحديث ](https://docs.microsoft.com/microsoft-365/media/scc-quarantine-refresh.png?view=o365-worldwide) **Refresh** التحديث لتصفيه النتائج.  
+بعد إدخال معايير البحث، انقر فوق الزر ![ تحديث ](https://docs.microsoft.com/microsoft-365/media/scc-quarantine-refresh.png?view=o365-worldwide) **تحديث** لتصفية النتائج.  
 
-أوامر cmdlets التي تستخدمها لعرض الرسائل والملفات وأدارتها في الفحص هي:
-- [Delete-قوارانتينيميساجي](https://docs.microsoft.com/powershell/module/exchange/delete-quarantinemessage)
-- [تصدير-قوارانتينيميساجي](https://docs.microsoft.com/powershell/module/exchange/export-quarantinemessage)
-- [قوارانتينيميساجي](https://docs.microsoft.com/powershell/module/exchange/get-quarantinemessage)
-- [معاينه-قوارانتينيميساجي](https://docs.microsoft.com/powershell/module/exchange/preview-quarantinemessage): لاحظ ان أمر cmdlet هذا للرسائل فقط ، وليس الملفات الضارة من ATP ل SharePoint Online أو OneDrive for business أو الفرق.
-- [الإصدار-قوارانتينيميساجي](https://docs.microsoft.com/powershell/module/exchange/release-quarantinemessage)
+إن cmdlets التي تستخدمها لعرض الرسائل والملفات وإدارتها في الفحص هي:
+- [Delete-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/delete-quarantinemessage)
+- [Export-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/export-quarantinemessage)
+- [Get-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/get-quarantinemessage)
+- [Preview-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/preview-quarantinemessage): لاحظ أن أمر cmdlet هذا للرسائل فقط، وليس ملفات البرامج الضارة من ATP ل SharePoint Online أو OneDrive for Business أو Teams.
+- [Release-QuarantineMessage](https://docs.microsoft.com/powershell/module/exchange/release-quarantinemessage)

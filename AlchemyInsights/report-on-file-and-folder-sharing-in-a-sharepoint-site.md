@@ -2,7 +2,7 @@
 title: تقرير حول مشاركة الملفات والمجلدات في موقع SharePoint
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -14,13 +14,13 @@ ms.custom:
 - "3049"
 - "9000191"
 - "3050"
-ms.openlocfilehash: ec87417f071eb779cf1bb95bbbf013e1672496fe
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a4b24c699ebd0794d6987e1d3a6bedfc5eeee140
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692462"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830785"
 ---
 # <a name="report-on-file-and-folder-sharing-in-a-sharepoint-site"></a>تقرير حول مشاركة الملفات والمجلدات في موقع SharePoint
 
-يمكنك إنشاء ملف CSV لكل ملف فريد ومستخدم وإذن وارتباط على موقع SharePoint المحدد أو مكتبة OneDrive المحددة. يمكن ان يساعدك هذا في فهم كيفيه استخدام المشاركة وما إذا كانت هناك اي ملفات أو مجلدات تتم مشاركتها مع الضيوف. للحصول على المزيد من المعلومات، راجع [تقرير حول مشاركة الملفات والمجلدات في موقع SharePoint](https://docs.microsoft.com/sharepoint/sharing-reports).
+يمكنك إنشاء ملف CSV لكل ملف فريد ومستخدم وإذن وارتباط على موقع SharePoint المحدد أو مكتبة OneDrive المحددة. يمكن أن يساعدك هذا على فهم كيفية استخدام المشاركة وما إذا كانت هناك أي ملفات أو مجلدات يتم مشاركتها مع الضيوف. للحصول على المزيد من المعلومات، راجع [تقرير حول مشاركة الملفات والمجلدات في موقع SharePoint](https://docs.microsoft.com/sharepoint/sharing-reports).

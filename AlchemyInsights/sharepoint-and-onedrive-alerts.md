@@ -1,8 +1,8 @@
 ---
-title: تاخيرات في تلقي تنبيات SharePoint و OneDrive
+title: تأخيرات في تلقي تنبيهات SharePoint و OneDrive
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000118"
 - "2642"
-ms.openlocfilehash: e5476f4e8462f233ff2a46832742d5a1f6e14e73
-ms.sourcegitcommit: 38c87ed786dda7181562492d5d2e7ef0e18e0cab
+ms.openlocfilehash: fd00bd90de382e325a9b8c4ce5b21d535e630730
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49599839"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831217"
 ---
-# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>تاخيرات في تلقي تنبيات SharePoint و OneDrive
+# <a name="delays-in-receiving-sharepoint-and-onedrive-alerts"></a>تأخيرات في تلقي تنبيهات SharePoint و OneDrive
 
-- إذا **تم تاخير كل التنبيات من ملفات أو مكتبات متعددة**، فيمكنك زيارة [لوحه معلومات حماية الخدمة](https://portal.office.com/adminportal/home?ref=/servicehealth) للتحقق من اي نصائح/حوادث قد تحدث في SharePoint أو Exchange.
-- إذا **لم يتم تسليم تنبيه فردي من ملف أو مكتبه معينه**، فحاول حذفه وأعاده إنشائه. راجع [أداره تنبيات SharePoint أو عرضها أو حذفها](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) لأعاده إنشاء التنبيه.
-- تحقق من مجلد البريد العشوائي أو البريد العشوائي
+- إذا **تم تأخير كل** التنبيهات من ملفات أو [](https://portal.office.com/adminportal/home?ref=/servicehealth) مكتبات متعددة، تفضل بزيارة لوحة معلومات حالة الخدمة للتحقق من وجود أي استشارات/أحداث قد تحدث مع SharePoint أو Exchange.
+- إذا **لم يتم تسليم** تنبيه فردي من ملف أو مكتبة معينة، فحاول حذفه وإعادة إنشائه. راجع [إدارة تنبيهات SharePoint](https://support.microsoft.com/office/99dfb19c-9a90-4a8c-aba1-aa8c8afb0de2) أو عرضها أو حذفها لإعادة إنشاء التنبيه.
+- تحقق من مجلد البريد العشوائي أو البريد العشوائي في بريدك الإلكتروني.
 
 > [!NOTE]
-> - لا يمكن إرسال التنبيات إلى مجموعه توزيع. يتم دعم مجموعات الأمان و O365 فقط.
-> - لا يمكنك تخصيص قوالب التنبيات عبر البريد الكتروني. يجب ان تستخدم سير عمل Microsoft تدفق أو SharePoint Designer للوصول إلى العناصر التالية.
+> - لا يمكن إرسال التنبيهات إلى مجموعة توزيع. يتم دعم مجموعات الأمان و O365 فقط.
+> - لا يمكنك تخصيص قوالب البريد الإلكتروني للتنبيه. يجب استخدام سير عمل Microsoft Flow أو SharePoint Designer لتحقيق ذلك.

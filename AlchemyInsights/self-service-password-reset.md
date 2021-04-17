@@ -2,7 +2,7 @@
 title: الخدمة الذاتية لإعادة تعيين كلمة المرور
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002464"
 - "4769"
-ms.openlocfilehash: 89bd5daa05a2466ee58b1686657e234d3c695490
-ms.sourcegitcommit: 4fbe6ac3b7c94303ab0f85807d6f49e70cf7721f
+ms.openlocfilehash: fb2ade4eff0e62d8c4d57202fd4420d564e5cc86
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49676329"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51830641"
 ---
 # <a name="self-service-password-reset-sspr"></a>الخدمة الذاتية لإعادة تعيين كلمة المرور(SSPR)
 
-- [التخطيط لنشر أعاده تعيين كلمه مرور الخدمة الذاتية](https://go.microsoft.com/fwlink/?linkid=2142944)  
+- [تخطيط نشر إعادة تعيين كلمة المرور للخدمة الذاتية](https://go.microsoft.com/fwlink/?linkid=2142944)  
 
-    or
-- [تسجيل معلومات جات اتصال صبر](https://go.microsoft.com/fwlink/?linkid=849451) (يتم تمكين صبر بشكل افتراضي للمسؤولين)
+    أو
+- [تسجيل معلومات جهة اتصال SSPR](https://go.microsoft.com/fwlink/?linkid=849451) (يتم تمكين SSPR بشكل افتراضي للمسؤولين)
 
     لمزيد من المعلومات، اطلع على:
 
