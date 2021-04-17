@@ -1,8 +1,8 @@
 ---
-title: تعذر الوصول إلى المجلدات العامة
+title: يتعذر الوصول إلى المجلدات العامة
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: 272918b38f6019cb2bdcaa4013baebaa5f04fe85
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: af5bd57512ee917d6e22d3838d55a2a1d62750d4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812534"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819499"
 ---
-# <a name="outlook-cannot-connect-to-public-folders"></a>يتعذر علي Outlook الاتصال بالمجلدات العامة
+# <a name="outlook-cannot-connect-to-public-folders"></a>يتعذر على Outlook الاتصال بالمجلدات العامة
 
-إذا لم يعمل الوصول إلى المجلد العام لبعض المستخدمين ، فجرب ما يلي:
+إذا لم يكن الوصول إلى المجلد العمومي يعمل مع بعض المستخدمين، فجرب ما يلي:
 
-اتصل ب أكسو PowerShell وقم بتكوين المعلمة ديفاولتبوبليكفولديرميلبوكس علي حساب المستخدم الخاص بالمشكلة لمطابقه المعلمة علي حساب المستخدم الذي يعمل.
+الاتصال ب EXO PowerShell وتكوين المعلمة DefaultPublicFolderMailbox على حساب المستخدم للمشكلة لمطابقة المعلمة على حساب مستخدم يعمل.
 
-مثال
+على سبيل المثال:
 
-الحصول علي علبه البريد ووركينجوسير | ft ديفاولتبوبليكفولديرميلبوكس ، افيكتيفيبوبليكفولديرمايلبوكس
+Get-Mailbox WorkingUser | ft DefaultPublicFolderMailbox,EffectivePublicFolderMailbox
 
-تعيين-علبه البريد بروبليموسير-ديفاولتبوبليكفولديرميلبوكس \<value from previous command>
+Set-Mailbox ProblemUser -DefaultPublicFolderMailbox \<value from previous command>
 
-انتظر حتى الآن ساعة واحده علي الأقل لكي يدخل التغيير حيز التنفيذ.
+انتظر ساعة واحدة على الأقل لكي يتم تغييره.
 
-إذا استمرت المشكلة ، فالرجاء اتباع [هذا الاجراء](https://aka.ms/pfcte) لاستكشاف مشاكل الوصول إلى المجلد العام باستخدام Outlook وإصلاحها.
+إذا بقيت المشكلة قائمة، فالرجاء اتباع [هذا الإجراء](https://aka.ms/pfcte) لا استكشاف مشاكل الوصول إلى المجلد العمومي وإصلاحها باستخدام Outlook.
  
-**للتحكم في المستخدمين الذين يمكنهم الوصول إلى المجلدات العامة باستخدام Outlook**:
+**للتحكم في المستخدمين الذين يمكنهم الوصول إلى المجلدات العامة باستخدام Outlook:**
 
-1.  استخدام Set-casmailbox <mailboxname> -بوبليكفولديركلينتاكسيس $true أو $false  
+1.  استخدم Set-CASMailbox <mailboxname> -PublicFolderClientAccess $true أو $false  
       
-    ال$true: السماح للمستخدمين بالوصول إلى المجلدات العامة في Outlook  
+    $true: السماح للمستخدمين بالوصول إلى المجلدات العامة في Outlook  
       
-    $false: منع وصول المستخدم إلى المجلدات العمومية في Outlook. هذه هي القيمة الافتراضية.  
+    $false: منع وصول المستخدم إلى المجلدات العامة في Outlook. هذه هي القيمة الافتراضية.  
         
-2.  Get-organizationconfig-بوبليكفولديرشووكلينتكونترول $true   
+2.  Set-OrganizationConfig -PublicFolderShowClientControl $true   
       
-**ملاحظه** يمكن ان يتحكم هذا الاجراء بالاتصالات فقط باستخدام Outlook لسطح المكتب لعملاء Windows. يمكن للمستخدم الاستمرار في الوصول إلى المجلدات العامة باستخدام OWA أو Outlook for Mac.
+**ملاحظة** يمكن لهذا الإجراء التحكم في الاتصالات فقط مع Outlook لسطح المكتب لعملاء Windows. يمكن للمستخدم متابعة الوصول إلى المجلدات العامة باستخدام OWA أو Outlook for Mac.
  
-للحصول علي مزيد من المعلومات ، راجع [دعم إعلانات الاتصال بالمجلدات العامة في Outlook](https://aka.ms/controlpf).
+لمزيد من المعلومات، راجع الإعلان عن دعم الاتصالات التي يتم التحكم فيها [بالمجلدات العامة في Outlook](https://aka.ms/controlpf).

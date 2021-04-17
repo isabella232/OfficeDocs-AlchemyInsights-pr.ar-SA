@@ -1,8 +1,8 @@
 ---
-title: تغيير عنوان البريد الكتروني البديل لاعلام الفوترة
+title: تغيير عنوان البريد الإلكتروني البديل الخاص بإعلام الفوترة
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,24 +14,24 @@ ms.custom:
 - "64"
 - "1200012"
 ms.assetid: efa5316c-42c7-461c-b2ab-53d23e0a6d22
-ms.openlocfilehash: 4409c8ac765b2c9933d85e5d94e519ec85f8466f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2169f65cda6386aad5c061d38aaf7890a5a0c0a2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714700"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818383"
 ---
-# <a name="change-the-alternate-email-address-for-billing-notification"></a>تغيير عنوان البريد الكتروني البديل لاعلام الفوترة
+# <a name="change-the-alternate-email-address-for-billing-notification"></a>تغيير عنوان البريد الإلكتروني البديل الخاص بإعلام الفوترة
 
-يعتبر تغيير عنوان البريد الكتروني البديل لاعلام الفوترة أمرا سهلا. ما عليك سوي اتباع الخطوات التالية:
+من السهل تغيير عنوان البريد الإلكتروني البديل الخاص بإعلام الفوترة. ما عليك سوى اتباع الخطوات التالية:
   
-1. في مركز أداره Microsoft 365 ، انتقل إلى **Billing** \> الصفحة [اعلامات الفوترة](https://go.microsoft.com/fwlink/p/?linkid=853212) الخاصة بالفوترة.  
+1. في مركز إدارة Microsoft 365، انتقل إلى **صفحة** \> [إعلامات](https://go.microsoft.com/fwlink/p/?linkid=853212) الفوترة.  
 
 2. حدد اسما من القائمة.
 
-3. في المربع **عنوان البريد الكتروني البديل** ، اكتب عنوان البريد الكتروني البديل.
+3. في المربع **عنوان البريد الإلكتروني البديل،** اكتب عنوان البريد الإلكتروني البديل.
 
-4. حدد **حفظ** وتمت العملية!
+4. حدد **حفظ** وقد انتهيت!
 
-للحصول علي مزيد من التفاصيل والخطوات باستخدام لقطات الشاشة ، راجع [تغيير عناوين الفوترة](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses).
+لمزيد من التفاصيل والخطوات باستخدام لقطات الشاشة، راجع [تغيير عناوين الفوترة](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-your-billing-addresses).
   

@@ -1,8 +1,8 @@
 ---
-title: إلغاء اشتراك حسب المالك
+title: إلغاء الاشتراك بواسطة المالك
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003797"
 - "6838"
-ms.openlocfilehash: 9078c61f693294973f820e94bcea798dd319c34d
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
-ms.translationtype: MT
+ms.openlocfilehash: 2a96aacb9def733451ffebc247b2e8c3967e7fa1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088486"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819787"
 ---
-# <a name="cancellation-of-a-subscription-by-owner"></a>إلغاء اشتراك حسب المالك
+# <a name="cancellation-of-a-subscription-by-owner"></a>إلغاء الاشتراك بواسطة المالك
 
-يمكنك إلغاء اشتراك Azure في مدخل Azure فقط إذا كنت مالك الاشتراك. إذا لم تعد بحاجه إلى الاشتراك ، فاتبع الخطوات التالية.
+لا يمكنك إلغاء اشتراك Azure في مدخل Azure إلا إذا كنت مالك الاشتراك. إذا لم تعد في حاجة للاشتراك، فاتبع الخطوات أدناه.
 
-1. حدد اشتراكك الذي تريد إلغاءه من [صفحه الاشتراكات في مدخل Azure](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).
-2. حدد **نظره عامه**، ثم حدد **إلغاء الاشتراك**.
+1. حدد الاشتراك الذي ترغب في إلغائه من [صفحة الاشتراكات في مدخل Azure](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade).
+2. حدد **نظرة عامة**، ثم حدد **إلغاء الاشتراك**.
 
-**ماذا يحدث بعد إلغاء اشتراكي ؟**
+**ماذا يحدث بعد إلغاء اشتراكي؟**
 
-بعد إلغاء الاشتراك ، يتوقف الفوترة فورا. ومع ذلك ، قد يستغرق الأمر مده تصل إلى 10 دقائق لإظهاره في المدخل. إذا قمت بإلغاء الاشتراك في وسط فتره الفوترة ، سنرسل الفاتورة النهائية علي تاريخ الفاتورة النموذجي بعد انتهاء الفترة الزمنيه.
+بعد إلغاء الاشتراك، تتوقف الفوترة على الفور. ولكن، قد يستغرق الأمر 10 دقائق من الإلغاء، لكي يظهر على المدخل. إذا ألغيت الاشتراك في منتصف فترة الفوترة، فسوف نرسل لك الفاتورة الأخيرة على في تاريخ الفاتورة المعتاد بعد انتهاء الفترة.
 
-بعد إلغاء اشتراكك ، تنتظر Microsoft لمده 30-90 يوما قبل حذف البيانات بشكل دائم ، في حاله الحاجة إلى الوصول اليها أو تغيير رايك. لا يفرض عليك رسوم الاحتفاظ بالبيانات. لمعرفه المزيد ، راجع [مركز توثيق Microsoft-كيفيه أداره بياناتك](https://www.microsoft.com/trust-center/privacy/data-management#leave).
+بعد إلغاء الاشتراك، تنتظر Microsoft لمدة تتراوح من 30 إلى 90 يومًا قبل حذف بياناتك نهائياً، في حال كنت تريد الوصول إليها، أو غيرت رأيك. لن نفرض عليك رسوماً مقابل استعادة البيانات. للتعرّف على المزيد، انظر [مركز توثيق Microsoft - كيفية إدارة البيانات](https://www.microsoft.com/trust-center/privacy/data-management#leave).
 
 

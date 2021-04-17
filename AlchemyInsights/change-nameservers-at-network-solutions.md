@@ -1,8 +1,8 @@
 ---
-title: تغيير خوادم في حلول الشبكة
+title: تغيير أسماء الخدمات في Network Solutions
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5869"
 - "14"
-ms.openlocfilehash: 75731ad438ae8e5bcbf27b32838711d6ab7ada88
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 82949150a2c5efe76739c542203d192f979448ef
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47682183"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51818635"
 ---
-# <a name="change-nameservers-at-network-solutions"></a>تغيير خوادم في حلول الشبكة
+# <a name="change-nameservers-at-network-solutions"></a>تغيير أسماء الخدمات في Network Solutions
 
-[تغيير خوادم لاعداد Microsoft 365 باستخدام حلول الشبكة](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-network-solutions?view=o365-worldwide)
+[تغيير أسماء الخدمات لإعداد Microsoft 365 باستخدام Network Solutions](https://docs.microsoft.com/microsoft-365/admin/dns/change-nameservers-at-network-solutions?view=o365-worldwide)
 
-بالنسبة إلى مشاكل المجالات الأخرى جرب [الاسئله المتداولة حول المجال](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)
+بالنسبة لقضايا المجالات الأخرى، جرب [الأسئلة الشائعة حول المجالات](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq?view=o365-worldwide)

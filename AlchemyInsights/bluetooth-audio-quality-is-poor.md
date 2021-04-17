@@ -1,8 +1,8 @@
 ---
-title: جوده صوت Bluetooth رديئه
+title: جودة صوت Bluetooth رديئة
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3486"
 - "9001467"
-ms.openlocfilehash: d53c31eaeda83fd84e21fbd536ad4178dece3c0a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dcd5cad153ae521065e3dee211c850b0db6fd7f5
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685369"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820093"
 ---
-# <a name="fix-bluetooth-audio-quality-issue"></a>إصلاح مشكله جوده صوت Bluetooth
+# <a name="fix-bluetooth-audio-quality-issue"></a>إصلاح مشكلة جودة صوت Bluetooth
 
-إذا كان جهاز Bluetooth متصلا ولكن جوده الصوت رديئه ، فجرب ما يلي:
+إذا كان جهاز Bluetooth متصلا ولكن جودة الصوت ضعيفة، فجرب ما يلي:
 
-- تاكد من تشغيل الصوت عبر جهاز Bluetooth. حدد **Start**  >  صوت نظام**الإعدادات**  >  **System**  >  **Sound**. ضمن **اختيار جهاز الإخراج**، حدد جهاز صوت Bluetooth.
-- أوقف الأشياء الأخرى التي قد تستخدم Bluetooth ، مثل مشاركه الملفات عبر Bluetooth. لمزيد من المعلومات ، راجع [إصلاح مشاكل الصوت في Windows 10](https://support.microsoft.com/help/4520288/windows-10-fix-sound-problems).
-- تاكد من تحديد ستيريو لجهاز Bluetooth لضمان الحصول علي أفضل جوده للصوت. لتنفيذ الإجراءات التالية: 
-    1. علي الجانب الأيسر من شريط المهام ، حدد **مستوي الصوت**، ثم حدد أيقونه شارة الرتبة لاختيار جهاز تشغيل.
-    2. حدد جهاز Bluetooth ، وتاكد من تحديد الخيار **استريو** . (الخيار "جوده الصوت المنخفضة" **مجاني**.)
-    3. إذا لم يكن ستيريو متوفرا كخيار ، فقم بازاله الجهاز في أجهزه **الإعدادات**التي  >  **Devices**  >  **تعمل بتقنية Bluetooth & أجهزه أخرى**، ثم أعد أضافه الجهاز. بعد ذلك ، حدد لوحه **الصوت** مره أخرى للتاكد من تحديد ستيريو.
+- تأكد من تشغيل الصوت من خلال جهاز Bluetooth. حدد **بدء**  >  **إعدادات**  >  **صوت**  >  **النظام**. ضمن **اختيار جهاز الإخراج،** حدد جهاز الصوت Bluetooth.
+- توقف مؤقتا عن الأشياء الأخرى التي قد تستخدم Bluetooth، مثل مشاركة الملفات عبر Bluetooth. لمزيد من المعلومات، راجع [إصلاح مشاكل الصوت في Windows 10](https://support.microsoft.com/help/4520288/windows-10-fix-sound-problems).
+- تحقق من تحديد الاستريو لجهاز Bluetooth لضمان الحصول على أفضل جودة صوت. للقيام بذلك: 
+    1. على الجانب الأيسر من شريط المهام، حدد **مستوى** الصوت ، ثم حدد أيقونة الشارة لاختيار جهاز تشغيل.
+    2. حدد جهاز Bluetooth، وتأكد  من تحديد خيار الاستريو. (خيار جودة الصوت السفلي هو **دون استخدام اليدين**.)
+    3. إذا لم يكن الستريو متوفرا كخيار، فإزالة الجهاز في **الإعدادات** الأجهزة Bluetooth & الأجهزة الأخرى ، ثم قم  >    >  بإضافة الجهاز من جديد. بعد ذلك، تحقق من **لوحة مستوى** الصوت مرة أخرى للتأكد من تحديد الاستريو.
 

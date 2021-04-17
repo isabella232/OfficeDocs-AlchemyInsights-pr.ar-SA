@@ -2,7 +2,7 @@
 title: تجاوز ساحة الانتظار
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,36 +12,36 @@ ms.collection: Adm_O365
 ms.custom:
 - "2673"
 - "9000740"
-ms.openlocfilehash: 44a930355f1faf8ad747885b72753aaeeb80a6f0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bcb40c6f15e957c0a59911322c3b28f03cd562c1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684937"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820021"
 ---
-# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>التحكم في إعدادات الانتظار ومستوي المشاركة في الفرق
+# <a name="control-lobby-settings-and-level-of-participation-in-teams"></a>التحكم في إعدادات ساحة الانتظار ومستوى المشاركة في Teams
 
-إذا أردت السماح للجميع بما في ذلك ، بما في ذلك المستخدمين الذين لديهم طلب ، وخارجي ، ومجهول ، **لتجاوز ساحة الانتظار**، فاستخدم PowerShell لإنجاز هذه المهمة. اليك مثال حول تعديل نهج الاجتماع العام لمؤسسك.
+إذا كنت تريد السماح للجميع، بما في ذلك المستخدمين الذين يستخدمون الطلب الهاتفي والمستخدمين الخارجيين والمجهولين، بتجاوز ساحة الانتظار **،** فاستخدم PowerShell لتنفيذ هذه المهمة. فيما يلي مثال لتعديل نهج الاجتماع العام لمنظمتك.
 
 `Set-CsTeamsMeetingPolicy -Identity Global -AutoAdmittedUsers "Everyone" -AllowPSTNUsersToBypassLobby $True`
 
-يتطلب أمر cmdlet هذا حاليا استخدام الوحدة النمطية ل PowerShell ل business. للحصول علي اعداد لاستخدام أمر cmdlet هذا ، راجع [أداره النهج عبر PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
+يتطلب الأمر cmdlet هذا حاليا استخدام وحدة Skype for Business PowerShell النمطية. للحصول على إعداد لاستخدام الأمر cmdlet هذا، راجع [إدارة سياسات عبر PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview#managing-policies-via-powershell).
 
-بمجرد اعداد نهج ، يجب تطبيقه علي المستخدمين ؛ أو ، إذا قمت بتعديل النهج العام ، سيتم تطبيقه علي المستخدمين تلقائيا. لأي تغيير في النهج ، ستحتاج إلى الانتظار لمده **4 ساعات** علي الأقل حتى 24 ساعة حتى تصبح النهج ساريه المفعول. 
+بعد إعداد نهج، ستحتاج إلى تطبيقه على المستخدمين؛ أو، إذا قمت بتعديل النهج العام، سيتم تطبيقه تلقائيا على المستخدمين. لأي تغيير في النهج، يجب الانتظار 4 ساعات على الأقل حتى **24 ساعة** حتى يتم تطبيق النهج. 
 
-تاكد من مراجعه الوثائق أدناه قبل اجراء هذه التغييرات لفهم ما يسمح به بالبالضبط.
+تأكد من مراجعة الوثائق أدناه قبل إجراء هذه التغييرات لفهم ما يسمح به ذلك بالضبط.
 
 
-## <a name="understanding-teams-meeting-lobby-policy-controls"></a>التعرف علي عناصر تحكم نهج ساحة انتظار اجتماعات الفرق
+## <a name="understanding-teams-meeting-lobby-policy-controls"></a>فهم عناصر التحكم في نهج ساحة الانتظار لاجتماع Teams
 
-تتحكم هذه الإعدادات في المشاركين في الاجتماع في ساحة الانتظار قبل السماح لهم بالاجتماع ومستوي المشاركة المسموح به في اجتماع. يمكنك استخدام PowerShell لتحديث إعدادات نهج الاجتماع الذي لم يتم تطبيقه بعد (المسمي "قريبا") في مركز أداره الفرق. انظر أدناه للاطلاع علي مثال ل PowerShell cmdlet الذي يسمح لكل المستخدمين بتجاوز ساحة الانتظار.
+تتحكم هذه الإعدادات بالمشاركين في الاجتماع الذين ينتظرون في ساحة الانتظار قبل أن يسمح لهم ب المشاركة في الاجتماع ومستوى المشاركة المسموح لهم به في الاجتماع. يمكنك استخدام PowerShell لتحديث إعدادات نهج الاجتماع التي لم يتم تنفيذها بعد (المسمى "قريبا") في مركز إدارة Teams. راجع أدناه للحصول على مثال PowerShell cmdlet الذي يسمح لجميع المستخدمين بتجاوز ساحة الانتظار.
 
-- ان الوصول [إلى الأشخاص تلقائيا](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) هو نهج لكل منظم والذي يتحكم ما إذا كان الأشخاص ينضمون إلى اجتماع مباشره أو تنتظر في ساحة الانتظار حتى يتم السماح لهم بالإقرار بالمستخدمين المصادق عليهم.
+- [إن قبول الأشخاص](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#automatically-admit-people) تلقائيا هو نهج لكل منظم يتحكم في انضمام الأشخاص إلى اجتماع مباشرة أو الانتظار في ساحة الانتظار حتى يتم قبولهم من قبل مستخدم مصدق عليه.
 
-- [السماح للأشخاص المجهولين ببدء الاجتماع](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-anonymous-people-to-start-a-meeting) هو نهج لكل منظم والذي يتحكم في ما إذا كان الأشخاص المجهولين ، بما في ذلك المستخدمون من المؤسسات المتحدة الخاصة بالB2B
+- [](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-anonymous-people-to-start-a-meeting) السماح للأشخاص المجهولين ببدء اجتماع هو نهج لكل منظم يتحكم في ما إذا كان يمكن للأشخاص المجهولين، بما في ذلك B2B والمستخدمين المتصلين، الانضمام إلى اجتماع المستخدم بدون مستخدم مصدق عليه من المؤسسة الحاضرة.
 
-- [السماح لمستخدمي الطلب بتجاوز ساحة الانتظار](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) **(** قريبا) هو نهج لكل منظم الذي يتحكم بما إذا كان الأشخاص الذين يقومون بالاتصال عبر الهاتف ، انضمون إلى الاجتماع مباشره أو انتظر في ساحة الانتظار بغض النظر عن الاعداد الذي يقوم به **الأشخاص بالدخول** .
+- [](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-dial-in-users-to-bypass-the-lobby-coming-soon) السماح لمستخدمي الطلب بتجاوز ساحة الانتظار (قريبا)هو نهج لكل منظم يتحكم في انضمام الأشخاص الذين يتصلون هاتفيا إلى الاجتماع مباشرة أو الانتظار في ساحة الانتظار بغض النظر عن إعداد السماح للأشخاص **تلقائيا.**
 
-- [السماح لمنظمي بتجاوز إعدادات الانتظار](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) **(** القريبة) هو نهج لكل منظم والذي يتحكم في ما إذا كان منظم الاجتماع قد تجاوز إعدادات الانتظار التي قام المسؤول بتعيينها في العمل **تلقائيا** والسماح **لمستخدمي الطلب بتجاوز ساحة الانتظار** عند جدوله اجتماع جديد.
+- السماح للمنظمين بتجاوز إعدادات ساحة الانتظار [(قريبا)](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#allow-organizers-to-override-lobby-settings-coming-soon) هو نهج لكل منظم يتحكم في ما إذا كان يمكن لمنظم الاجتماع تجاوز  إعدادات ساحة الانتظار التي حددها المسؤول في السماح للأشخاص تلقائيا والسماح لمستخدمي الطلب بتجاوز ساحة الانتظار عند جدولة اجتماع جديد. 
 
-**ملاحظه:** أقرا [أداره نهج الاجتماع في فرق](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) للحصول علي نظره عامه حول نهج اجتماعات فرق Microsoft.
+**ملاحظة:** اقرأ [إدارة سياسات الاجتماعات في Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams) للحصول على نظرة عامة كاملة حول سياسات اجتماعات Microsoft Teams.
