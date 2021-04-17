@@ -1,8 +1,8 @@
 ---
-title: استكشاف الأخطاء وإصلاحها من البريد الكتروني
+title: استكشاف الأخطاء في الأحداث وإصلاحها من البريد الإلكتروني
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,37 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000301"
 - "5765"
-ms.openlocfilehash: 9efd969e3e639c2679b0768c4a0fd045916b00d1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2cea347f248a3b04873428946f1817657af04773
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47658721"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51834826"
 ---
-# <a name="troubleshooting-events-from-email"></a>استكشاف الأخطاء وإصلاحها من البريد الكتروني
+# <a name="troubleshooting-events-from-email"></a>استكشاف الأخطاء في الأحداث وإصلاحها من البريد الإلكتروني
 
-1. تاكد من تمكين الميزة لعلبه البريد: **الحصول علي افينتسفروميميلكونفيجوريشن <mailbox> الهوية**
+1. التحقق من تمكين الميزة لعلبة البريد: **Get-EventsFromEmailConfiguration -Identity <mailbox>**
 
-2. ثم انظر علي سجلات "الاحداث من **البريد الكتروني" التصدير-ميلبوكسدياجنوستيكلوجس <mailbox> -مكون تيميبروفيلي**
+2. ثم انظر إلى سجلات 'الأحداث من البريد الإلكتروني' **Export-MailboxDiagnosticLogs <mailbox> -Component TimeProfile**
 
-3. في سجلات "الاحداث من البريد الكتروني" ، ابحث عن إينتيرنيتميساجيد الذي يتطابق مع العنصر في علبه البريد.  
+3. في سجلات "الأحداث من البريد الإلكتروني"، ابحث عن InternetMessageId الذي يتطابق مع العنصر في علبة البريد.  
 
-4. يحدد تروستسكوري ما إذا تمت أضافه العنصر ام لا. ستتم أضافه الاحداث فقط إذا كانت تروستسكوري = "موثوق بها".
+4. يحدد TrustScore ما إذا كان العنصر مضافا أم لا. لن تضاف الأحداث إلا إذا كانت TrustScore = "موثوق به".
 
-يتم تحديد تروستسكوري بواسطة SPF أو Dkim أو Dmarc الخصائص ، وهي موجودة في راس الرسالة.
+يتم تحديد TrustScore بواسطة خصائص SPF أو Dkim أو Dmarc، والتي توجد في رأس الرسالة.
 
-لعرض الخصائص التالية:
+لعرض هذه الخصائص:
 
-**سطح المكتب Outlook**
+**Outlook لسطح المكتب**
 
 - فتح العنصر
-- خصائص الملفات >-> رؤوس الإنترنت
+- File -> Properties -> رؤوس الإنترنت
 
-or
+أو
 
-**مفكمابي**
+**MFCMapi**
 
-- الانتقال إلى العنصر الموجود في علبه الوارد
-- البحث عن PR_TRANSPORT_MESSAGE_HEADERS_W
+- الانتقال إلى العنصر في علبة الوارد
+- ابحث عن PR_TRANSPORT_MESSAGE_HEADERS_W
 
-يتم تحديد هذه الخصائص وتسجيلها اثناء النقل والتوجيه. لمزيد من استكشاف الأخطاء وإصلاحها ، قد تحتاج إلى متابعه دعم النقل حول حالات الفشل في SPF و DKIM و. أو DMARC.
+يتم تحديد هذه الخصائص ويتم تسجيلها أثناء النقل التوجيه. لمزيد من استكشاف الأخطاء وإصلاحها، قد تحتاج إلى المتابعة مع دعم النقل حول حالات الفشل في SPF أو DKIM و.أو DMARC.

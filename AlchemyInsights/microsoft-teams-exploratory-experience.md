@@ -1,8 +1,8 @@
 ---
-title: تجربة استكشاف Microsoft Teams
+title: تجربة Microsoft Teams الاستكشافية
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,16 +13,16 @@ ms.custom:
 - "9001513"
 - "3572"
 - "7228"
-ms.openlocfilehash: 1402f0f0e65fcc4201e65f2a8d1c3b09c12a0023
-ms.sourcegitcommit: b71e5981b7f30ef2bce4e695118d03aa68a5be4a
+ms.openlocfilehash: ed076b37010c9946838acbf2a2d641200b9ed5c2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50480706"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833782"
 ---
-# <a name="microsoft-teams-exploratory-experience"></a>تجربة استكشاف Microsoft Teams
+# <a name="microsoft-teams-exploratory-experience"></a>تجربة Microsoft Teams الاستكشافية
 
-- ما هو [استكشاف Teams؟](https://docs.microsoft.com/microsoftteams/teams-exploratory) تسمح تجربة Microsoft Teams الاستكشافية للمستخدمين في مؤسستك الذين لم يتم ترخيصهم ل Teams ببدء تجربة استكشافية ل Teams. لمزيد من المعلومات، الرجاء [الاطلاع على ما في تجربة استكشاف Teams.](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience)
-- [ما المدة التي تستمر فيها تجربة استكشاف Teams؟](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last) تتوفر تجربة Microsoft Teams الاستكشافية بدون تكلفة إضافية لمدة 12 شهرا (من تسجيل المستخدم الأولي) بالإضافة إلى فترة سماح إضافية 30 يوما.
-- كمسؤول، يمكنك ترقية المستخدمين من ترخيص [Teams الاستكشافي](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) من خلال شراء اشتراك يتضمن Teams وإزالة اشتراك استكشافي في Teams من المستخدم وتعيين الترخيص الذي تم شراؤه حديثا.
-- لمزيد من المعلومات، [راجع "إدارة ترخيص استكشاف Teams".](https://docs.microsoft.com/microsoftteams/teams-exploratory)
+- ما هو [Teams الاستكشافي؟](https://docs.microsoft.com/microsoftteams/teams-exploratory) تسمح تجربة Microsoft Teams الاستكشافية للمستخدمين في مؤسستك الذين لم يتم ترخيصهم ل Teams ببدء تجربة استكشافية ل Teams. لمزيد من المعلومات، الرجاء [الاطلاع على ما في تجربة Teams الاستكشافية](https://docs.microsoft.com/microsoftteams/teams-exploratory#whats-in-the-teams-exploratory-experience).
+- [ما المدة التي تستمر فيها تجربة Teams الاستكشافية؟](https://docs.microsoft.com/microsoftteams/teams-exploratory#how-long-does-the-teams-exploratory-experience-last) تتوفر تجربة Microsoft Teams الاستكشافية بدون تكلفة إضافية لمدة 12 شهرا (من التسجيل الأولي للمستخدم) بالإضافة إلى فترة سماح إضافية 30 يوما.
+- ب أنت مسؤول، يمكنك ترقية المستخدمين من ترخيص [Teams الاستكشافي](https://docs.microsoft.com/microsoftteams/teams-exploratory#upgrade-users-from-the-teams-exploratory-license) من خلال شراء اشتراك يتضمن Teams، وإزالة اشتراك Teams الاستكشافي من المستخدم، وتعيين الترخيص الذي تم شراؤه حديثا.
+- لمزيد من المعلومات، راجع [إدارة ترخيص Teams الاستكشافي](https://docs.microsoft.com/microsoftteams/teams-exploratory).

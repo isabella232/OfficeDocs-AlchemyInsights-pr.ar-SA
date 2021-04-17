@@ -1,8 +1,8 @@
 ---
-title: إصلاح تطبيقات Microsoft 365 عذرا ، نواجه رسالة مشاكل مؤقته في الخادم
+title: تصحيح تطبيقات Microsoft 365 عذرا، لدينا رسالة مشاكل مؤقتة في الخادم
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3420"
 - "9001430"
-ms.openlocfilehash: e00504d318efdea4968ddf98b3ce9591f8993e38
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0adf1d66869051b9dd8290ef3466ef9b13aa2d41
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47758232"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835258"
 ---
-# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>إصلاح تطبيقات Microsoft 365 "عذرا ، فنحن نواجه مشكلات مؤقته في الخادم"
+# <a name="fixing-the-microsoft-365-apps-sorry-we-are-having-temporary-server-issues-message"></a>تصحيح رسالة تطبيقات Microsoft 365 "عذرا، نحن نواجه مشاكل مؤقتة في الخادم"
 
-إذا تلقيت هذه الرسالة ، فجرب ما يلي:
+إذا تلقيت هذه الرسالة، فجرب ما يلي:
 
-1. تحقق من جدار الحماية وبرنامج مكافحه الفيروسات وإعدادات الوكيل للتاكد من انها لا تحظر الوصول إلى تطبيقات Microsoft 365 علي الإنترنت. راجع [نطاقات عناوين IP و url](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
+1. تحقق من جدار الحماية وبرامج الحماية من الفيروسات وإعدادات الوكيل للتأكد من أنها لا تمنع الوصول إلى الإنترنت إلى تطبيقات Microsoft 365. راجع [عناوين URL ونطاقات عناوين IP](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-2. انتقل إلى **بدء**  >  **التشغيل**، ثم اكتب **services.msc**. تاكد من تشغيل كل الخدمات التالية:
-    - اعداد تلقائي للاجهزه المتصلة بالشبكة
-    - خدمه قائمه الشبكات
-    - معرفه موقع الشبكة
-    - سجل احداث Windows
+2. انتقل إلى **بدء**  >  **تشغيل**، ثم اكتب **services.msc**. تأكد من تشغيل جميع الخدمات التالية:
+    - الإعداد التلقائي للأجهزة المتصلة بالشبكة
+    - خدمة قائمة الشبكة
+    - الوعي بموقع الشبكة
+    - سجل أحداث Windows
 
-إذا لم يتم تشغيل أحدي هذه الخدمات ، فحاول بدء تشغيلها. إذا كانت لديك مشكله في بدء تشغيل الخدمة ، فقم بتشغيل الأمر التالي بفتح موجه الأوامر باستخدام أذونات مرتفعه:
+إذا لم تكن إحدى هذه الخدمات قيد التشغيل، فحاول بدء تشغيلها. إذا كانت لديك مشكلة في بدء تشغيل الخدمة، فدير الأمر التالي بفتح موجه أوامر بأذونات مرتفعة:
 
-**/scannow sfc**
+**sfc /scannow**
 
-بعد انتهاء هذا الأمر ، أعد تشغيل الكمبيوتر.
+بعد انتهاء هذا الأمر، أعد تشغيل الكمبيوتر.
 
-للحصول علي معلومات مفصله ، راجع ["عذرا ، يتعذر علينا الاتصال بحسابك. الرجاء المحاولة مره أخرى لاحقا "عند التنشيط](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).
+للحصول على معلومات مفصلة، راجع ["عذرا، لا يمكننا الاتصال حسابك. يرجى المحاولة مرة أخرى لاحقا" عند تنشيط](https://docs.microsoft.com/office/troubleshoot/activation-installation/issue-when-activate-office-from-office-365).

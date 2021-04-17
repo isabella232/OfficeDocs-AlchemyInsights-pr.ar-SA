@@ -1,8 +1,8 @@
 ---
-title: دور مستخدم التجارة الحديثة
+title: دور المستخدم التجاري الحديث
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003009"
 - "5722"
-ms.openlocfilehash: 74108b22e06fc6b3b53f7e027fca094bfd9db869
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 54a2315af50bd6c5df189e7b92f5af1a3cff9304
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667001"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51833602"
 ---
-# <a name="modern-commerce-user-role"></a>دور مستخدم التجارة الحديثة
+# <a name="modern-commerce-user-role"></a>دور المستخدم التجاري الحديث
 
-يمنح دور المستخدم الخاص بالتجارة الحديثة بعض المستخدمين أذونات للوصول إلى مركز أداره Microsoft 365 والاطلاع علي إدخالات التنقل اليمني **للمنزل** **والفوترة** **والدعم**. يتم التحكم في المحتوي المتوفر في هذه المناطق عن طريق الأدوار الخاصة بالتجارة التي تم تعيينها للمستخدمين لأداره المنتجات التي اشترواها لأنفسهم أو مؤسستك. قد يشمل ذلك مهام مثل دفع الفواتير ، أو للوصول إلى حسابات الفوترة وملفات تعريف الفوترة.
+يمنح دور المستخدم التجاري الحديث بعض المستخدمين الإذن للوصول إلى مركز إدارة Microsoft 365 ورؤية إدخالات التنقل إلى اليمين للمنزل، و الفوترة، **والدعم**.  يتم التحكم في المحتوى المتوفر في هذه المناطق من خلال الأدوار التجارية المعينة للمستخدمين لإدارة المنتجات التي اشترواها لأنفسهم أو لمنظمتك. قد يتضمن ذلك مهاما مثل دفع الفواتير أو للوصول إلى حسابات الفوترة وملفات تعريف الفوترة.
 
-يملك المستخدمون الذين لديهم دور المستخدم الخاص بالتجارة الحديثة الأذونات الاداريه في أنظمه الشراء الأخرى من Microsoft ، ولكن ليس لديهم المسؤول العام أو امتيازات مسؤول الفوترة.
+عادة ما يكون لدى المستخدمين الذين لديهم دور المستخدم التجاري الحديث أذونات إدارية في أنظمة الشراء الأخرى من Microsoft، ولكن ليس لديهم امتيازات المسؤول العام أو مسؤول الفوترة.
 
-لمعرفه المزيد حول هذا الدليل والأدوار الاداريه الأخرى ، راجع [أذونات دور المسؤول في Azure Active directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#modern-commerce-administrator).
+لمعرفة المزيد حول هذا الدور والأدوار الإدارية الأخرى، راجع [أذونات دور المسؤول في Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-assign-admin-roles#modern-commerce-administrator).
