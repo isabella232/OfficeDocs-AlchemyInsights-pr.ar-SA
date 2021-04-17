@@ -1,8 +1,8 @@
 ---
-title: استعادة موقع SharePoint الجذر
+title: استعادة موقع الجذر SharePoint
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003017"
 - "5730"
-ms.openlocfilehash: 2a2178e704be32eb8cbc35c39e504575b17de371
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.openlocfilehash: fd0d3858cd073ab6f5dbfdd8b1f24adde37f8146
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50713262"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51835690"
 ---
-# <a name="restore-the-sharepoint-root-site"></a>استعادة موقع SharePoint الجذر
+# <a name="restore-the-sharepoint-root-site"></a>استعادة موقع الجذر SharePoint
 
 استعادة الموقع الجذر المحذوف من مركز إدارة SharePoint الجديد. بعد استعادته، استبدل الموقع بدلا من ذلك.
 
 1. انتقل إلى [صفحة المواقع المحذوفة.](https://admin.microsoft.com/sharepoint?page=recycleBin&modern=true) 
-2. حدد الموقع الجذر لاستعادته.
-3. انقر فوق **"استعادة".**
-4. [استبدل موقعك الجذر.](https://docs.microsoft.com/sharepoint/troubleshoot/sites/url-that-resides-under-root-site-collection-is-broken)
+2. حدد الموقع الجذر الذي تريد استعادته.
+3. انقر **فوق استعادة**.
+4. [استبدل موقعك الجذر](https://docs.microsoft.com/sharepoint/troubleshoot/sites/url-that-resides-under-root-site-collection-is-broken).
 
-لمزيد من المعلومات، راجع ["تحديث الموقع الجذر".](https://docs.microsoft.com/sharepoint/modern-root-site)
+لمزيد من المعلومات، راجع [تحديث موقعك الجذر](https://docs.microsoft.com/sharepoint/modern-root-site).
