@@ -2,7 +2,7 @@
 title: مختلط
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "1555"
 - "9000080"
-ms.openlocfilehash: e89485096fdf0eb4f2b116d367616efe9e854a55
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 549a165914bb8fd89c05f0b41d4b0f1e5c0f59d1
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778966"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51825610"
 ---
 # <a name="hybrid-mdm"></a>MDM المختلط
 
-لمعرفه المزيد حول MDM المختلط باستخدام أداره تكوين نقاط النهاية ل Microsoft و Microsoft Intune ، راجع اعداد [MDM المختلط باستخدام أداره التكوين و Microsoft intune](https://docs.microsoft.com/configmgr/mdm/deploy-use/setup-hybrid-mdm).
+للتعرف على MDM المختلط مع Microsoft Endpoint Configuration Manager و Microsoft Intune، راجع إعداد MDM المختلط [باستخدام Configuration Manager و Microsoft Intune](https://docs.microsoft.com/configmgr/mdm/deploy-use/setup-hybrid-mdm).

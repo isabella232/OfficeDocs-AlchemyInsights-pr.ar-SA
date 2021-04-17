@@ -1,8 +1,8 @@
 ---
-title: استخدام Planner مع فرق Microsoft
+title: استخدام Planner مع Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2653"
 - "9000727"
-ms.openlocfilehash: 95b83d6658fc77ac6e5eeac58c198f5c4adbb674
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fb0677e7b4115cb957d32c74ee8ad6de954eb373
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47657371"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51827131"
 ---
-# <a name="using-planner-with-microsoft-teams"></a>استخدام Planner مع فرق Microsoft
+# <a name="using-planner-with-microsoft-teams"></a>استخدام Planner مع Microsoft Teams
 
-يمكنك تنظيم المهام عن طريق أضافه علامة تبويب Planner واحده أو أكثر إلى قناه الفرق: 
+يمكنك تنظيم المهام عن طريق إضافة علامة تبويب Planner واحدة أو أكثر إلى قناة Teams: 
 
-- [أضافه علامة تبويب Planner إلى قناه فريق](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_addaplannertabtoateamchannel). يجب ان يكون المستخدم الذي يضيف علامة التبويب عضوا في الفريق ، وليس مالكا فقط. يمكنك أضافه المستخدم كعضو عبر واجهه فرق Microsoft.
-- [أضف خطه موجودة إلى فرق Microsoft](https://techcommunity.microsoft.com/t5/Planner-Blog/Bringing-a-Plan-into-Microsoft-Teams/ba-p/57463).
-- [أزاله أحدي علامات تبويب Planner أو حذف خطه](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_removeaplannertabordeleteaplan). لا يمكن استرداد الخطط المحذوفة في الفرق. إذا تم حذف مجموعه بالفعل ، يمكنك [استرداد الخطط والمجموعات المحذوفة](https://blogs.msdn.microsoft.com/brismith/2017/03/29/microsoft-planner-now-you-can-recover-deleted-plans-and-groups).
-- [تمكين اعلامات تعيينات Planner أو تعطيلها في الفرق](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_getplannerassignmentnotificationsinteams).
+- [إضافة علامة تبويب Planner إلى قناة فريق](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_addaplannertabtoateamchannel). يجب أن يكون المستخدم الذي يضيف علامة التبويب عضوا في الفريق، وليس مالكا فقط. يمكنك إضافة المستخدم كعضو عبر واجهة Microsoft Teams.
+- [إضافة خطة موجودة إلى Microsoft Teams](https://techcommunity.microsoft.com/t5/Planner-Blog/Bringing-a-Plan-into-Microsoft-Teams/ba-p/57463).
+- [إزالة علامة تبويب Planner أو حذف خطة](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_removeaplannertabordeleteaplan). لا يمكن استرداد الخطط المحذوفة في Teams. إذا تم حذف مجموعة بالفعل، يمكنك استرداد الخطط والمجموعات [المحذوفة](https://blogs.msdn.microsoft.com/brismith/2017/03/29/microsoft-planner-now-you-can-recover-deleted-plans-and-groups).
+- [تمكين إعلامات تعيين Planner أو تعطيلها في Teams](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0#bkmk_getplannerassignmentnotificationsinteams).
 
-**ملاحظه:** للحصول علي نظره عامه حول تكامل Planner مع فرق Microsoft ، راجع [استخدام Planner في فرق microsoft](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0).
+**ملاحظة:** للحصول على نظرة عامة حول تكامل Planner مع Microsoft Teams، راجع [استخدام Planner في Microsoft Teams](https://support.office.com/article/62798a9f-e8f7-4722-a700-27dd28a06ee0).

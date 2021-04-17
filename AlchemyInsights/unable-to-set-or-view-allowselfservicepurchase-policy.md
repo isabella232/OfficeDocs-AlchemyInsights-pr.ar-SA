@@ -1,8 +1,8 @@
 ---
-title: تعذر تعيين نهج اللووسيلفسيرفيسيبوركهاسي أو عرضه
+title: تعذر تعيين نهج AllowSelfServicePurchase أو عرضه
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,29 +12,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3526"
-ms.openlocfilehash: 5ec16b3071f95ef52af2771e95137116222a3c5b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8dac2bdc20905cf37fc30317d9b371bfd755f452
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735186"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826078"
 ---
-# <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>تعذر تعيين نهج اللووسيلفسيرفيسيبوركهاسي أو عرضه
+# <a name="unable-to-set-or-view-the-allowselfservicepurchase-policy"></a>تعذر تعيين نهج AllowSelfServicePurchase أو عرضه
 
-عند محاولة تعيين النهج اللووسيلفسيرفيسيبوركهاسي أو عرضه ، تتلقي رسالة الخطا التالية:
+عند محاولة تعيين نهج AllowSelfServicePurchase أو عرضه، ستتلقى رسالة الخطأ التالية:
 
-*هاندليرور: فشل استرداد نهج المنتج باستخدام بوليسييد ' اللووسيلفسيرفيسيبوركهاسي ' ، ارورميساجي-تم إغلاق الاتصال الأساسي: حدث خطا غير متوقع في الإرسال.*
+*معالج : فشل استرداد نهج المنتج باستخدام PolicyId 'AllowSelfServicePurchase', ErrorMessage - تم إغلاق الاتصال الأساسي: حدث خطأ غير متوقع في عملية إرسال.*
 
-قد يعود ذلك إلى إصدار سابق من أمان طبقه النقل (TLS). للاتصال بخدمه مسكوميرسي ، يجب استخدام TLS 1.2 أو الأحدث.  
+قد يعود سبب ذلك إلى إصدار أقدم من "أمان طبقة النقل" (TLS). لتوصيل خدمة MSCommerce، تحتاج إلى استخدام TLS 1.2 أو أكبر.  
 
-جرب الخطوات التالية لتمكين/تعيين بروتوكول TLS إلى 1.2 والتحقق منه وأعاده المحاولة.
- 1. في موجه الأوامر PowerShell (PS C: \) ادخل الأمر التالي لتعيين بروتوكول TLS إلى الإصدار 1.2:
+جرب الخطوات التالية لتمكين/تعيين بروتوكول TLS إلى 1.2 والتحقق من الصحة والمحاولة مرة أخرى.
+ 1. في موجه الأوامر PowerShell (PS C: أدخل الأمر التالي لتعيين \) بروتوكول TLS إلى الإصدار 1.2:
 
     `[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12`
 
-2. تاكد من استخدام الأمر (بروتوكولات) TLS ، وذلك بالأوامر التالية:
+2. تحقق من بروتوكول (بروتوكولات) TLS (بروتوكولات) TLS المستخدم، باستخدام الأمر التالي:
 
     `[Net.ServicePointManager]::SecurityProtocol` 
 
-3. أعد محاولة تنفيذ الأمرين Get أو Update كما تقتضي الحاجة.
+3. إعادة محاولة الأمرين الحصول أو التحديث حسب الحاجة.
 

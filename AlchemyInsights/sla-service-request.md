@@ -1,8 +1,8 @@
 ---
-title: طلب الرصيد بسبب انقطاع الخدمة
+title: طلب الائتمان بسبب انقطاع الخدمة
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003020"
 - "5752"
-ms.openlocfilehash: 504df2dd1c09ed2b42d936e974f5993e459a23c7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6d71712aa863dda10896407acc5a8c5f8c3760ec
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47726834"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826438"
 ---
-# <a name="credit-request-due-to-a-service-outage"></a>طلب الرصيد بسبب انقطاع الخدمة
+# <a name="credit-request-due-to-a-service-outage"></a>طلب الائتمان بسبب انقطاع الخدمة
 
-لتطبيق طلب رصيد بسبب انقطاع الخدمة ، يرجى فتح طلب خدمه.
+للتقدم بطلب ائتمان بسبب انقطاع الخدمة، يرجى فتح طلب خدمة.
 
-يرجى التاكد من وجود معرف الحدث في [صفحه حماية الخدمة](https://docs.microsoft.com/office365/enterprise/view-service-health) في مركز أداره Microsoft 365.
+الرجاء التأكد من العثور على "الماكرو"، الذي تم العثور عليه في صفحة حالة الخدمة [في](https://docs.microsoft.com/office365/enterprise/view-service-health) مركز إدارة Microsoft 365.
 
-الرجاء العلم بأنه عند معالجه طلبك ، سيخضع لك التحقق من الصحة التي تؤثر علي قطع الانقطاع.
+يرجى الملاحظة أنه عند معالجة طلبك، سيخضع للتحقق من الصحة لمراقبة تأثير انقطاع التيار الكهربائي.

@@ -1,8 +1,8 @@
 ---
-title: تحليلات الفرق والتقارير في مركز أداره الفرق
+title: تحليلات Teams والتقارير في مركز إدارة Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001501"
 - "3558"
-ms.openlocfilehash: 1e5f2529e0f7206ebac3b5ca2b5d9ff746f98916
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9eed4a489b7308cbd1cb10d102a672831ae27b05
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670135"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826294"
 ---
-# <a name="teams-analytics-and-reports-in-the-teams-admin-center"></a>تحليلات الفرق والتقارير في مركز أداره الفرق
+# <a name="teams-analytics-and-reports-in-the-teams-admin-center"></a>تحليلات Teams والتقارير في مركز إدارة Teams
 
-هناك عدد من **تقارير الاستخدام والنشاط** المتوفرة في مركز أداره الفرق ، بما في ذلك نشاط المستخدم واستخدام الجهاز واستخدام الحدث المباشر. للحصول علي التفاصيل ، راجع [تحليلات وتقارير الفرق في Microsoft](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/teams-reporting-reference).
+يتوفر عدد من  تقارير الاستخدام و النشاط في مركز إدارة Teams، بما في ذلك نشاط المستخدمين واستخدام الأجهزة واستخدام الأحداث المباشرة. للحصول على التفاصيل، راجع [تحليلات Microsoft Teams وإعداد التقارير.](https://docs.microsoft.com/microsoftteams/teams-analytics-and-reports/teams-reporting-reference)
 
-**يرجى ملاحظه ما يلي:** هناك المزيد من الفرق في الاستخدام وتقارير النشاط المتوفرة في مركز أداره Microsoft 365. تعرف [علي كيفيه عرض تقارير الفرق في لوحه معلومات التقارير](https://docs.microsoft.com/microsoftteams/teams-activity-reports#how-to-view-the-teams-reports-in-the-reports-dashboard).
+**يرجى ملاحظة:** تتوفر تقارير إضافية حول استخدام Teams ونشاطه في مركز إدارة Microsoft 365. راجع [كيفية عرض تقارير Teams في لوحة معلومات التقارير](https://docs.microsoft.com/microsoftteams/teams-activity-reports#how-to-view-the-teams-reports-in-the-reports-dashboard).
 
-إذا كنت تبحث عن التقارير أو التحليلات ذات الصلة **بالمكالمات** أو **جوده المكالمة**، فراجع [تنفيذ جوده المكالمات ل QoS](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos)
+إذا كنت تبحث عن إعداد تقارير  أو تحليلات ذات صلة بالمكالمات أو جودة المكالمة، فاطلع على تنفيذ جودة المكالمة [QoS](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos) ومراقبتها في Microsoft Teams للحصول على الوثائق ذات الصلة.
 

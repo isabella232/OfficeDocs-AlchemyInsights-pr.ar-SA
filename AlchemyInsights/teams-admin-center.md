@@ -2,7 +2,7 @@
 title: مركز مسؤولي Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002890"
 - "5542"
-ms.openlocfilehash: bb0d757aab05132ff7169ce75009d7012b9a836c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4a3a0796cedd81919066d870c5ca99fe2e978cf8
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670351"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826366"
 ---
 # <a name="teams-admin-center"></a>مركز مسؤولي Teams
 
@@ -32,5 +32,5 @@ ms.locfileid: "47670351"
 
 - هل قمت بإنشاء مستخدمين أو بتعيين تراخيص خلال 24 ساعة السابقة؟ قبل فتح تذكرة الدعم، الرجاء الانتظار لمدة 24 ساعة على الأقل.
 - هل تريد التحقق من أنك قمت بتعيين التراخيص المناسبة؟
-- إذا كان لديك Active Directory محلي ، فتحقق من ان [قيمه مسرتكسيب بريماريوسيرادريس أو عنوان SIP في الحقل ProxyAddresses في الدليل المحلي Active directory فريد وتطابق التنسيق](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) SIP:**اسم** المستخدم من مركز أداره الخاص ب [Microsoft 365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
-- إذا كنت ترغب في الاحتفاظ بنشر خادم Skype for Business وكان لدي المستخدمين يستخدم محليا ومتصلا بالإنترنت: اتبع **"اعداد المختلط باستخدام الفرق و Skype For Business Online"** في لوحه تحكم Skype For business Server ونقل المستخدمين عبر الإنترنت.
+- إذا كان لديك Active Directory محلي، فتحقق من أن قيمة [msRTCSIP-PrimaryUserAddress أو عنوان SIP](https://docs.microsoft.com/skypeforbusiness/troubleshoot/online-configuration/msrtcsip-primaryuseraddress-proxyaddaddress) في حقل ProxyAddresses في Active Directory المحلي فريدة ويطابق التنسيق sip: اسم المستخدم من مركز إدارة Microsoft [365](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users).
+- إذا كنت تنوي الاحتفاظ بنشر Skype for Business Server وكان المستخدمون في وضع النزل وعلى الإنترنت: اتبع "إعداد مختلط مع Teams وسكايب **for Business Online"** في لوحة التحكم في Skype for Business Server وحرك المستخدمين عبر الإنترنت.

@@ -1,8 +1,8 @@
 ---
-title: استبدال الموقع الجذر ل SharePoint
+title: استبدال موقع الجذر في SharePoint
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003017"
 - "5726"
-ms.openlocfilehash: 3f0c621d14c4dd5ca9bcd2dbbea0a9059ca55933
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 5984179a3de72752772ec198623f339949344e6e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48451270"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51826762"
 ---
-# <a name="replace-the-sharepoint-root-site"></a>استبدال الموقع الجذر ل SharePoint
-إذا كنت تبحث عن تحديث مؤثرات الموقع الجذر مع موقع موجود أو إذا كنت تريد الحصول علي موقع مختلف علي مستوي الموقع الجذر ، فيمكنك اختيار استبدال المواقع.
+# <a name="replace-the-sharepoint-root-site"></a>استبدال موقع الجذر في SharePoint
+إذا كنت تريد تحديث موقعك الجذر باستخدام موقع موجود أو تريد ببساطة الحصول على موقع مختلف على مستوى الموقع الجذر، يمكنك اختيار استبدال (تبديل) المواقع.
 
-1. باستخدام مركز أداره SharePoint الجديد ، انتقل إلى [المواقع النشطة](https://admin.microsoft.com/sharepoint?page=siteManagement&modern=true).
+1. باستخدام مركز إدارة SharePoint الجديد، انتقل إلى [المواقع النشطة](https://admin.microsoft.com/sharepoint?page=siteManagement&modern=true).
 2. حدد الموقع الجذر الذي تريد استبداله.
 3. حدد **استبدال الموقع**.
-4. ادخل عنوان url الخاص بالموقع الموجود لاستبداله ب. **ملاحظه:** سيتم اعلامك إذا كان بالإمكان استخدام الموقع كموقع جذر بديل.
+4. توفير عنوان url للموقع الموجود للاستبدال به. **ملاحظة:** سيتم إعلامك إذا كان يمكن استخدام الموقع ك موقع جذر بديل.
 
-للحصول علي مزيد من المعلومات حول المتطلبات ، راجع [تحديث مؤثرات الموقع الجذر](https://docs.microsoft.com/sharepoint/modern-root-site).
+لمزيد من المعلومات حول المتطلبات، راجع [تحديث موقعك الجذر](https://docs.microsoft.com/sharepoint/modern-root-site).
 
