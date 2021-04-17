@@ -1,8 +1,8 @@
 ---
-title: إلغاء اشتراك Microsoft 365 أو استرداده أو إغلاقه
+title: إلغاء اشتراكك في Microsoft 365 أو استرداد المبلغ المدفوع أو إغلاقه
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002914"
 - "5614"
-ms.openlocfilehash: 4c9ef57546b2dabecd15f1cad47f918d4a0aeda0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: be745ebce624929d524e806012e70e29804615b9
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683497"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51819715"
 ---
-# <a name="cancelrefundclose-your-microsoft-365-subscription"></a><span data-ttu-id="f7106-102">إلغاء/الاسترداد/إغلاق اشتراكك في Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="f7106-102">Cancel/refund/close your Microsoft 365 subscription</span></span>
+# <a name="cancelrefundclose-your-microsoft-365-subscription"></a><span data-ttu-id="bf330-102">إلغاء/استرداد/إغلاق اشتراكك في Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="bf330-102">Cancel/refund/close your Microsoft 365 subscription</span></span>
 
-<span data-ttu-id="f7106-103">ماذا يحدث عند إلغاء الاشتراك ؟</span><span class="sxs-lookup"><span data-stu-id="f7106-103">What happens when you cancel your subscription?</span></span> <span data-ttu-id="f7106-104">للمزيد من المعلومات، راجع [إلغاء اشتراكك](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="f7106-104">For more info, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide).</span></span>
+<span data-ttu-id="bf330-103">ماذا يحدث عند إلغاء اشتراكك؟</span><span class="sxs-lookup"><span data-stu-id="bf330-103">What happens when you cancel your subscription?</span></span> <span data-ttu-id="bf330-104">لمزيد من المعلومات، اطلع على [إلغاء اشتراكك](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="bf330-104">For more info, see [Cancel your subscription](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription?view=o365-worldwide).</span></span>
 
-- <span data-ttu-id="f7106-105">سيتم إرجاع اي **رصيد نسبي** اليك ضمن دوره الفوترة التالية.</span><span class="sxs-lookup"><span data-stu-id="f7106-105">Any **prorated credit** will be returned to you within the next billing cycle.</span></span>
-- <span data-ttu-id="f7106-106">سينتقل الاشتراك إلى **حاله معطله لمده 90 يوما** (في معظم البلدان أو المناطق).</span><span class="sxs-lookup"><span data-stu-id="f7106-106">The subscription will move into a **disabled state for 90 days** (in most countries or regions).</span></span>
-- <span data-ttu-id="f7106-107">**لا يزال بإمكان المسؤولين الوصول إلى البيانات وإنشاء نسخه احتياطيه** لها للمؤسسة بينما يكون الاشتراك في حاله تعطيل.</span><span class="sxs-lookup"><span data-stu-id="f7106-107">**Admins can still access and back up data** for their organization while the subscription is in a disabled state.</span></span>
+- <span data-ttu-id="bf330-105">سيتم **إرجاع أي** رصيد مفوتر لك خلال دورة الفوترة التالية.</span><span class="sxs-lookup"><span data-stu-id="bf330-105">Any **prorated credit** will be returned to you within the next billing cycle.</span></span>
+- <span data-ttu-id="bf330-106">سينتقل الاشتراك إلى حالة معطلة **لمدة 90 يوما** (في معظم البلدان أو المناطق).</span><span class="sxs-lookup"><span data-stu-id="bf330-106">The subscription will move into a **disabled state for 90 days** (in most countries or regions).</span></span>
+- <span data-ttu-id="bf330-107">**لا يزال يمكن للمسؤولين** الوصول إلى البيانات ونمطها بشكل صحيح لمنظمتهم أثناء وجود الاشتراك في حالة معطلة.</span><span class="sxs-lookup"><span data-stu-id="bf330-107">**Admins can still access and back up data** for their organization while the subscription is in a disabled state.</span></span>
 
-<span data-ttu-id="f7106-108">لإغلاق حسابك قبل فتره التعطيل النموذجية ، راجع [إغلاق حسابك](https://docs.microsoft.com/microsoft-365/commerce/close-your-account?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="f7106-108">To close your account prior to the typical disabled period, see [close your account](https://docs.microsoft.com/microsoft-365/commerce/close-your-account?view=o365-worldwide).</span></span>
+<span data-ttu-id="bf330-108">لإغلاق حسابك قبل فترة العطل النموذجية، راجع [إغلاق حسابك](https://docs.microsoft.com/microsoft-365/commerce/close-your-account?view=o365-worldwide).</span><span class="sxs-lookup"><span data-stu-id="bf330-108">To close your account prior to the typical disabled period, see [close your account](https://docs.microsoft.com/microsoft-365/commerce/close-your-account?view=o365-worldwide).</span></span>
