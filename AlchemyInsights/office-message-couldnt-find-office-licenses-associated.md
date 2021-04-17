@@ -1,8 +1,8 @@
 ---
-title: رسالة تطبيقات Microsoft 365-تعذر العثور علي تراخيص Office المقترنة
+title: رسالة تطبيقات Microsoft 365 - لا يمكن العثور على تراخيص Office المقترنة
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001426"
 - "3421"
-ms.openlocfilehash: 9b997523e17f1130ada52006b5709a012a5c6376
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 29ea9db530dd4914ffd86655eeae5508b73ccb7e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802764"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836194"
 ---
-# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>رسالة تطبيقات Microsoft 365-تعذر العثور علي تراخيص Office المقترنة
+# <a name="microsoft-365-apps-message---couldnt-find-office-licenses-associated"></a>رسالة تطبيقات Microsoft 365 - لا يمكن العثور على تراخيص Office المقترنة
 
 لإصلاح هذا الخطأ، حاول القيام بالخطوات التالية:
 
@@ -39,10 +39,10 @@ ms.locfileid: "47802764"
 
 - إعادة تعيين حالة تنشيط Office. راجع [إعادة تعيين تطبيقات Microsoft 365 لحالة تفعيل المؤسسة](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state).
 
-- تحقق من جدار الحماية وبرنامج مكافحه الفيروسات وإعدادات الوكيل للتاكد من انها لا تحظر وصول تطبيقات Microsoft 365 إلى الإنترنت. 
+- تحقق من جدار الحماية وبرامج الحماية من الفيروسات وإعدادات الوكيل للتأكد من أنها لا تمنع وصول تطبيقات Microsoft 365 إلى الإنترنت. 
 
 للحصول على حلول إضافية لاستكشاف الأخطاء وإصلاحها، اطلع على:
 
 [المنتج غير المرخص وأخطاء التنشيط في Office](https://support.office.com/Article/0d23d3c0-c19c-4b2f-9845-5344fedc4380?wt.mc_id=Alchemy_ClientDIA)
 
-[نطاقات عناوين IP و Url ل Microsoft 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)
+[نطاقات عناوين IP وURLs ل Microsoft 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges)

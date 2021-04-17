@@ -1,8 +1,8 @@
 ---
-title: يتعذر علي المالك إنشاء مجلد فرعي باستخدام Outlook
+title: يتعذر على المالك إنشاء مجلد فرعي باستخدام Outlook
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "5884"
 - "3500007"
-ms.openlocfilehash: 9590f780cffeaf644733752c763e04d748b1b39e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b2ab7b60bc521fd28d68333bb963528f7b9e05f2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665705"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836122"
 ---
-# <a name="owner-cannot-create-sub-folder-using-outlook"></a>يتعذر علي المالك إنشاء مجلد فرعي باستخدام Outlook
+# <a name="owner-cannot-create-sub-folder-using-outlook"></a>يتعذر على المالك إنشاء مجلد فرعي باستخدام Outlook
 
-**توجد مشكله مستمرة في مالكي المجلدات العامة لإنشاء مجلدات فرعيه باستخدام Outlook. سيتم تصحيح المشكلة قريبا.**
+**هناك مشكلة مستمرة في إنشاء مالكي المجلدات العمومية للمجلدات الفرعية باستخدام Outlook. سيتم إصلاح المشكلة قريبا.**
 
-اثناء ، استخدم أحد الحلول البديلة التالية:
+وفي هذه الأثناء، استخدم أحد الحلول التالية:
 
-1. استخدام Outlook for MAC لإنشاء المجلد الفرعي لان المشكلة تؤثر فقط علي Outlook لسطح المكتب من windows (كل الإصدارات)
-2. جعل المسؤول ينشئ المجلد الفرعي باستخدام أكسو Shell أو EAC
-3. تغيير ديفاولتبوبليكفولديرميلبوكس/افيكتيفيبوبليكفولديرمايلبوكس علي المستخدم إلى علبه بريد أخرى بخلاف علبه بريد المحتوي للمجلد الذي يسبب المشكلة  
-    - *تعيين-علبه البريد User1 ديفاولتبوبليكفولديرميلبوكس PubMBX3*
-4. انتظر لمده ساعة ، أعد تشغيل عميل outlook
+1. استخدم Outlook for MAC لإنشاء الملف الفرعي حيث تؤثر المشكلة على Outlook فقط على نوافذ سطح المكتب (كل الإصدارات)
+2. هل يجب على المسؤول إنشاء المدوّن الفرعي باستخدام EXO Shell أو EAC
+3. تغيير DefaultPublicFolderMailbox/EffectivePublicFolderMailbox على المستخدم إلى علبة بريد أخرى غير علبة بريد المحتوى للمجلد الذي تسبب المشكلة  
+    - *Set-Mailbox User1 DefaultPublicFolderMailbox PubMBX3*
+4. انتظر لمدة ساعة، أعد تشغيل عميل outlook
