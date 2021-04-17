@@ -1,8 +1,8 @@
 ---
-title: ترك طلب ميزه أو ملاحظات حول تصميم التطبيق
+title: ترك طلب ميزة أو ملاحظات حول تصميم التطبيق
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001108"
 - "3069"
-ms.openlocfilehash: 6ff5a05f3e8f2f2637248915a4fefe92b7b086f9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 90f6ff6915029df2f26ebb5ffab8000932eb468e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676509"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51836518"
 ---
-# <a name="leave-a-feature-request-or-feedback-on-app-design"></a><span data-ttu-id="3c8b5-102">ترك طلب ميزه أو ملاحظات حول تصميم التطبيق</span><span class="sxs-lookup"><span data-stu-id="3c8b5-102">Leave a feature request or feedback on app design</span></span>
+# <a name="leave-a-feature-request-or-feedback-on-app-design"></a><span data-ttu-id="5add4-102">ترك طلب ميزة أو ملاحظات حول تصميم التطبيق</span><span class="sxs-lookup"><span data-stu-id="5add4-102">Leave a feature request or feedback on app design</span></span>
 
-<span data-ttu-id="3c8b5-103">نشكرك علي مشاركه أفكارك عند الاستمرار في العمل علي Outlook.</span><span class="sxs-lookup"><span data-stu-id="3c8b5-103">We appreciate you sharing your thoughts as we continue to work on Outlook.</span></span> <span data-ttu-id="3c8b5-104">ان *UserVoice* عبارة عن منتدى حيث يمكنك ترك الملاحظات والتصويت علي أفكار الآخرين.</span><span class="sxs-lookup"><span data-stu-id="3c8b5-104">*UserVoice* is a forum where you can leave feedback and vote on the ideas of others.</span></span>  
+<span data-ttu-id="5add4-103">نحن نقدر مشاركة أفكارك بينما نستمر في العمل على Outlook.</span><span class="sxs-lookup"><span data-stu-id="5add4-103">We appreciate you sharing your thoughts as we continue to work on Outlook.</span></span> <span data-ttu-id="5add4-104">*UserVoice* هو منتدى حيث يمكنك تقديم الملاحظات والتصويت على أفكار الآخرين.</span><span class="sxs-lookup"><span data-stu-id="5add4-104">*UserVoice* is a forum where you can leave feedback and vote on the ideas of others.</span></span>  
 
-<span data-ttu-id="3c8b5-105">لترك فكره:</span><span class="sxs-lookup"><span data-stu-id="3c8b5-105">To leave us an idea:</span></span> 
+<span data-ttu-id="5add4-105">لترك فكرة لنا:</span><span class="sxs-lookup"><span data-stu-id="5add4-105">To leave us an idea:</span></span> 
 
-<span data-ttu-id="3c8b5-106">**الإعدادات ال> مساعده في & الملاحظات > اقتراح ميزه > نشر فكره**</span><span class="sxs-lookup"><span data-stu-id="3c8b5-106">**Settings > Help & Feedback > Suggest a feature > Post an idea**</span></span> 
+<span data-ttu-id="5add4-106">**الإعدادات > تعليمات & الملاحظات > اقتراح ميزة > نشر فكرة**</span><span class="sxs-lookup"><span data-stu-id="5add4-106">**Settings > Help & Feedback > Suggest a feature > Post an idea**</span></span> 
 
-<span data-ttu-id="3c8b5-107">**هل أنت مهتم بطريقه عرض الاسم/البريد الكتروني ؟**</span><span class="sxs-lookup"><span data-stu-id="3c8b5-107">**Care how your name/email displays?**</span></span>
+<span data-ttu-id="5add4-107">**هل تهتم بكيفية عرض اسمك/بريدك الإلكتروني؟**</span><span class="sxs-lookup"><span data-stu-id="5add4-107">**Care how your name/email displays?**</span></span>
 
-<span data-ttu-id="3c8b5-108">عند أضافه تعليق إلى طلب ميزه موجود ، سيقوم التطبيق تلقائيا بملء اما اسمك أو عنوان بريدك الكتروني من حسابك الأساسي في التطبيق.</span><span class="sxs-lookup"><span data-stu-id="3c8b5-108">When you add a comment to an existing feature request, the app will auto populate either your name or email address from your primary account set up in the app.</span></span> <span data-ttu-id="3c8b5-109">لاختيار الاسم الذي يعرض ، تحتاج إلى إرسال طلب ميزه **جديد** .</span><span class="sxs-lookup"><span data-stu-id="3c8b5-109">To choose what name displays, you need to submit a **NEW** feature request.</span></span> 
+<span data-ttu-id="5add4-108">عند إضافة تعليق إلى طلب ميزة موجود، سي ملء التطبيق إما اسمك أو عنوان بريدك الإلكتروني من إعداد حسابك الأساسي في التطبيق.</span><span class="sxs-lookup"><span data-stu-id="5add4-108">When you add a comment to an existing feature request, the app will auto populate either your name or email address from your primary account set up in the app.</span></span> <span data-ttu-id="5add4-109">لاختيار الاسم الذي يتم عرضه، تحتاج إلى إرسال طلب **ميزة** جديد.</span><span class="sxs-lookup"><span data-stu-id="5add4-109">To choose what name displays, you need to submit a **NEW** feature request.</span></span> 
 
-<span data-ttu-id="3c8b5-110">يعتبر إرسال طلب عمليه ثلاثية الخطوات.</span><span class="sxs-lookup"><span data-stu-id="3c8b5-110">Submitting a request is a simple 3-step process.</span></span> <span data-ttu-id="3c8b5-111">في الصفحة الثالثة والاخيره ، ستري خطا لعنوان البريد الكتروني (مطلوب) وخط لاسمك.</span><span class="sxs-lookup"><span data-stu-id="3c8b5-111">On the third and final page, you will see a line for your email address (required) and a line for your name.</span></span> <span data-ttu-id="3c8b5-112">يمكنك هنا اختيار طريقه عرض اسمك ، أو يمكنك إرسال الفكرة بشكل مجهول.</span><span class="sxs-lookup"><span data-stu-id="3c8b5-112">Here you can choose how your name will display, or you may submit the idea anonymously.</span></span> 
+<span data-ttu-id="5add4-110">إن إرسال طلب عملية بسيطة من 3 خطوات.</span><span class="sxs-lookup"><span data-stu-id="5add4-110">Submitting a request is a simple 3-step process.</span></span> <span data-ttu-id="5add4-111">في الصفحة الثالثة والأخيرة، سترى سطرا عنوان بريدك الإلكتروني (مطلوب) سطرا لاسمك.</span><span class="sxs-lookup"><span data-stu-id="5add4-111">On the third and final page, you will see a line for your email address (required) and a line for your name.</span></span> <span data-ttu-id="5add4-112">يمكنك هنا اختيار طريقة عرض اسمك، أو يمكنك إرسال الفكرة بشكل مجهول.</span><span class="sxs-lookup"><span data-stu-id="5add4-112">Here you can choose how your name will display, or you may submit the idea anonymously.</span></span> 
 
-<span data-ttu-id="3c8b5-113">**ملاحظه:** قد تحتاج أيضا إلى تغيير عنوان البريد الكتروني الذي يتم ملؤه تلقائيا علي هذه الصفحة.</span><span class="sxs-lookup"><span data-stu-id="3c8b5-113">**Note:** You may also need to change what email address is auto populated on this page.</span></span> <span data-ttu-id="3c8b5-114">إذا تم اعداد الاسم بطريقه معينه ضمن إعدادات عميل البريد الكتروني الخاص بك ، فقد يتم تجاوز الإعدادات التي يتم إرسالها إلى "مجهول".</span><span class="sxs-lookup"><span data-stu-id="3c8b5-114">If your name is set up a certain way within the settings of your email client, changing the feedback submission to anonymous may be overridden by your settings.</span></span> 
+<span data-ttu-id="5add4-113">**ملاحظة:** قد تحتاج أيضا إلى تغيير عنوان البريد الإلكتروني الذي يتم ملؤه بشكل تلقائي في هذه الصفحة.</span><span class="sxs-lookup"><span data-stu-id="5add4-113">**Note:** You may also need to change what email address is auto populated on this page.</span></span> <span data-ttu-id="5add4-114">إذا تم إعداد اسمك بطريقة معينة داخل إعدادات عميل البريد الإلكتروني، فقد يتم تجاوز تغيير إرسال الملاحظات إلى مجهول بواسطة إعداداتك.</span><span class="sxs-lookup"><span data-stu-id="5add4-114">If your name is set up a certain way within the settings of your email client, changing the feedback submission to anonymous may be overridden by your settings.</span></span> 
