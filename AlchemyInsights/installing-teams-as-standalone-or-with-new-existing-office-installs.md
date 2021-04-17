@@ -1,8 +1,8 @@
 ---
-title: تثبيت الفرق بصفه مستقله أو مع تثبيتات Office الجديدة/الحالية
+title: تثبيت Teams كم مستقل أو مع تثبيتات Office الجديدة/الموجودة
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "2663"
 - "9000660"
-ms.openlocfilehash: dc6c083c0f28a4724a23d829d03b9b78ea627270
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f3fb8c1430a54024c5cb00f2e002e4702d15e33c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663068"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831901"
 ---
-# <a name="installing-teams-as-standalone-or-with-new-or-existing-office-installations"></a>تثبيت الفرق بصفه مستقله أو باستخدام تثبيتات Office الجديدة أو الموجودة
+# <a name="installing-teams-as-standalone-or-with-new-or-existing-office-installations"></a>تثبيت Teams كم مستقل أو مع عمليات تثبيت Office الجديدة أو الموجودة
 
-يتم تضمين فرق Microsoft كجزء من *عمليات التثبيت الجديدة* لتطبيقات microsoft 365 ل Enterprise و Microsoft 365 apps for Business و Office for Mac. لمزيد من المعلومات ، راجع [متى ستبدا فرق Microsoft في التضمين في عمليات التثبيت الجديدة ل Office ؟](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
+يتم تضمين Microsoft Teams  كجزء من عمليات التثبيت الجديدة لتطبيقات Microsoft 365 للمؤسسات وتطبيقات Microsoft 365 للأعمال Macلنظام التشغيل Office. لمزيد من المعلومات، [راجع متى سيبدأ تضمين Microsoft Teams مع عمليات التثبيت الجديدة ل Office؟](https://docs.microsoft.com/deployoffice/teams-install#when-will-microsoft-teams-start-being-included-with-new-installations-of-microsoft-365-apps)
 
-بالاضافه إلى ذلك ، بدءا من الإصدار 1906 في القناة الحالية ، ستتم *أضافه الفرق إلى عمليات التثبيت الموجودة* لتطبيقات Microsoft 365 للمؤسسة (وتطبيقات microsoft 365 for business) علي الاجهزه التي تعمل بنظام التشغيل Windows عندما تقوم بتحديث التثبيت الحالي إلى الإصدار الأخير. لمزيد من المعلومات ، راجع [ماذا عن التثبيتات الموجودة في Office ؟](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
+بالإضافة إلى ذلك، بدءا من الإصدار 1906  في التحديث الحالي، سيتم إضافة Teams إلى عمليات التثبيت الموجودة لتطبيقات Microsoft 365 للمؤسسات (وتطبيقات Microsoft 365 للأعمال) على الأجهزة التي تعمل بنظام التشغيل Windows عند تحديث التثبيت الحالي إلى الإصدار الأخير. لمزيد من المعلومات، راجع [ماذا عن عمليات تثبيت Office الموجودة؟](https://docs.microsoft.com/deployoffice/teams-install#what-about-existing-installations-of-microsoft-365-apps)
 
-يمكنك نشر الفرق كمستقله للمستخدمين عن طريق [اتباع هذه الإرشادات](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)، أو يمكنك جعل المستخدمين يقومون بتثبيت الفرق لأنفسهم https://teams.microsoft.com/downloads .
+يمكنك نشر Teams كم مستقل للمستخدمين باتباع هذه [الإرشادات،](https://docs.microsoft.com/MicrosoftTeams/msi-deployment)أو يمكنك أن يقوم المستخدمون بتثبيت Teams لأنفسهم من https://teams.microsoft.com/downloads .
 
-بعد تثبيت الفرق ، يتم [تحديثها تلقائيا](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) كل أسبوعين تقريبا باستخدام الميزات الجديدة وتحديثات الجودة. 
+بعد تثبيت Teams، يتم [](https://docs.microsoft.com/deployoffice/teams-install#feature-and-quality-updates-for-microsoft-teams) تحديثه تلقائيا كل أسبوعين تقريبا بالميزات الجديدة وتحديثات الجودة. 
 

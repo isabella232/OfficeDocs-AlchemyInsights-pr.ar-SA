@@ -1,8 +1,8 @@
 ---
-title: لوحه الطلب الصوتي للفرق مفقوده
+title: لوحة الطلب الصوتي في Teams مفقودة
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "2641"
 - "9000719"
-ms.openlocfilehash: 185c261311acc527b0f0469ef1d72ed00e56d17b
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 6837cb9fffcf93a7fb99fec4c2343f476dd00599
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452035"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832333"
 ---
-# <a name="dial-pad-is-missing-in-microsoft-teams"></a>لوحه الطلب مفقوده في فرق Microsoft 
+# <a name="dial-pad-is-missing-in-microsoft-teams"></a>لوحة الطلب مفقودة في Microsoft Teams 
 
-إذا لم يكن لوحه الطلبات مفقوده في فرق Microsoft ، فالرجاء التحقق مما يلي:
+إذا كانت لوحة الطلب مفقودة في Microsoft Teams، فالرجاء التحقق مما يلي:
 
 - تأكد من أنه قد تم تعيين [ترخيص Teams](https://docs.microsoft.com/MicrosoftTeams/assign-teams-licenses) للمستخدم.
 - تأكد من أنه قد تم تعيين [خطة المكالمات](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page).

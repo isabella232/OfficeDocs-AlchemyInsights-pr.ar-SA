@@ -1,8 +1,8 @@
 ---
-title: تثبيت فرق في بيئات VDI
+title: تثبيت Teams على بيئات VDI
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "2664"
 - "9000660"
-ms.openlocfilehash: 729eb7c0189c0c0944f15fd25f7c24807e5b04de
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6e0d49683fb3b0069131d396a39f2188342b3aee
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663032"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51831829"
 ---
-# <a name="installing-teams-on-vdi-environments"></a>تثبيت فرق في بيئات VDI
+# <a name="installing-teams-on-vdi-environments"></a>تثبيت Teams على بيئات VDI
 
-للحصول علي معلومات حول نشر الفرق علي أجهزه الكمبيوتر المشتركة أو خدمات سطح المكتب البعيد (RDS) أو البنية الاساسيه لسطح المكتب الظاهري (VDI) ، راجع [بيئات الكمبيوتر المشتركة والVDI مع فرق Microsoft](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams).
+للحصول على معلومات حول نشر Teams على أجهزة الكمبيوتر المشتركة أو خدمات سطح المكتب البعيد (RDS) أو البنية الأساسية لسطح المكتب الظاهري (VDI)، راجع بيئات [VDI](https://docs.microsoft.com/deployoffice/teams-install#shared-computer-and-vdi-environments-with-microsoft-teams)والكمبيوتر المشترك مع Microsoft Teams .

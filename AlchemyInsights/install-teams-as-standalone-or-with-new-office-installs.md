@@ -1,8 +1,8 @@
 ---
-title: تثبيت الفرق بصفه مستقله أو بتثبيتات office الجديدة
+title: تثبيت Teams كم مستقل أو مع تثبيتات Office جديدة
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000660"
 - "5706"
-ms.openlocfilehash: 8b84f160f0be2c6a36f677a8f737a582d95020d8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b8ae6d0dbf25cfa482cdcbc93fe55a03c0dbaced
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703106"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832009"
 ---
-# <a name="install-teams-as-standalone-or-with-new-office-installs"></a>تثبيت الفرق بصفه مستقله أو بتثبيتات office الجديدة
+# <a name="install-teams-as-standalone-or-with-new-office-installs"></a>تثبيت Teams كم مستقل أو مع تثبيتات Office جديدة
 
-يرجى مراجعه [هنا](https://docs.microsoft.com/alchemyinsights/installing-teams-as-standalone-or-with-new-existing-office-installs) للحصول علي معلومات حول كيفيه نشر الفرق في مؤسستك.
+الرجاء الاطلاع [هنا](https://docs.microsoft.com/alchemyinsights/installing-teams-as-standalone-or-with-new-existing-office-installs) للحصول على معلومات حول كيفية نشر Teams في مؤسستك.

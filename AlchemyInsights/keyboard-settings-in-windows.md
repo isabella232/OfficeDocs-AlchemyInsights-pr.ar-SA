@@ -1,8 +1,8 @@
 ---
-title: 'إعدادات لوحه المفاتيح في Windows 10 '
+title: 'إعدادات لوحة المفاتيح في Windows 10 '
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001692"
 - "3769"
-ms.openlocfilehash: 4edd014c733191aa493a6b63561f7073d43fc87b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bcb2f7e85b99f1b1eed5da597d26d55aaaf76be2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772790"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51832954"
 ---
-# <a name="keyboard-settings-in-windows-10"></a>إعدادات لوحه المفاتيح في Windows 10
+# <a name="keyboard-settings-in-windows-10"></a>إعدادات لوحة المفاتيح في Windows 10
 
 **إعدادات النوع**
 
-لتغيير إعدادات Windows المرتبطة بالتدقيق الإملائي والتصحيح التلقائي والاقتراحات والأوجه الأخرى لجهازك ولوحه المفاتيح التي تعمل باللمس ، انتقل إلى **إعدادات > أجهزه > الكتابة**. 
+لتغيير إعدادات Windows المتعلقة بالتدقيق الإملائي والتصحيح التلقائي والاقتراحات وغيرها من جوانب الأجهزة ولوحة المفاتيح التي تعمل باللمس، انتقل إلى إعدادات > الأجهزة > **الكتابة.** 
 
-**إعدادات اللغة ولوحه المفاتيح**
+**إعدادات اللغة ولوحة المفاتيح**
 
-لتغيير الإعدادات المتعلقة بلوحه المفاتيح أو أسلوب الإدخال الذي يجب استخدامه للغة Windows ، انتقل إلى **الإعدادات ال> وقت & لغة >** language. حدد اللغات في قائمه **اللغات المفضلة** وانقر فوق **خيارات** لأضافه/أزاله لوحات المفاتيح أو أساليب الإدخال (ime).
+لتغيير الإعدادات المتعلقة بلوحة المفاتيح أو أسلوب الإدخال الذي يجب استخدامه للغة Windows، انتقل إلى إعدادات > الوقت & لغة > **اللغة.** حدد اللغات في **قائمة اللغات المفضلة** وانقر فوق **خيارات** لإضافة/إزالة لوحات المفاتيح أو أساليب الإدخال (IMEs).
