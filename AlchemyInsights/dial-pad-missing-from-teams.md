@@ -1,8 +1,8 @@
 ---
-title: لوحه الطلب مفقوده من الفرق
+title: لوحة الطلب مفقودة من Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000719"
 - "5707"
-ms.openlocfilehash: 86fec9c33a0b90e97c4ce2c547db3d7819c1a0be
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 86a642db6ec0a81f91ad07240c90cc116aa970ff
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730650"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815269"
 ---
-# <a name="dial-pad-missing-from-teams"></a>لوحه الطلب مفقوده من الفرق
+# <a name="dial-pad-missing-from-teams"></a>لوحة الطلب مفقودة من Teams
 
-هل يتعذر عليك العثور علي لوحه الطلب في الفرق ؟ حدد [هنا](https://docs.microsoft.com/alchemyinsights/teams-voice-dial-pad-missing) لمزيد من المعلومات.
+هل لا يمكنك العثور على لوحة الطلب في Teams؟ راجع [هنا](https://docs.microsoft.com/alchemyinsights/teams-voice-dial-pad-missing) للحصول على مزيد من المعلومات.

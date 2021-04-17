@@ -1,8 +1,8 @@
 ---
-title: التحكم في الوصول من الاجهزه غير المدارة
+title: التحكم في الوصول من الأجهزة غير المراقبة
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000213"
 - "5711"
-ms.openlocfilehash: db9a9338d02a566dd1552347d946fa5180ff6de0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9341a580f67c5a9724814036a8f2b62fbb43b21d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47747799"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816763"
 ---
-# <a name="control-access-from-unmanaged-devices"></a>التحكم في الوصول من الاجهزه غير المدارة
+# <a name="control-access-from-unmanaged-devices"></a>التحكم في الوصول من الأجهزة غير المراقبة
 
-بصفتك مسؤول SharePoint أو عمومي في Microsoft 365 ، يمكنك حظر الوصول إلى محتوي SharePoint و OneDrive من الاجهزه غير المدارة أو تحديده.
+كمسؤول SharePoint أو مسؤول عام في Microsoft 365، يمكنك حظر الوصول إلى محتوى SharePoint و OneDrive أو تقييده من الأجهزة غير الإدارية.
 
-- [التحكم في الوصول من الاجهزه غير المدارة](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)
+- [التحكم في الوصول من الأجهزة غير المراقبة](https://docs.microsoft.com/sharepoint/control-access-from-unmanaged-devices)

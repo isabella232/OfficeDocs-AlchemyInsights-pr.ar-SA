@@ -1,8 +1,8 @@
 ---
-title: نتيجة التوافق
+title: نقاط التوافق
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001483"
 - "3519"
-ms.openlocfilehash: fc42b7d4959d624da68d444c03af94d2b3ba0af5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 78b0658902034560c4f568b1ae2dcd66bb5fb540
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47785446"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817303"
 ---
-# <a name="compliance-score"></a>نتيجة التوافق
+# <a name="compliance-score"></a>نقاط التوافق
 
-تعد "مجموعات التوافق من microsoft" (المعاينة) ميزه في Microsoft 365 تساعدك علي قياس بوستوري التوافق في مؤسستك. انه يستخدم النقاط المستندة إلى المخاطرة استنادا إلى تقدمك لتنفيذ الإجراءات ذات الصلة بالتوافق.   تعد النتيجة الخاصة بالتوافق إصدارا مبسطا من [أداره التوافق](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-overview) وتوفر طريقه أسهل للتحقق من ستانس التوافق الخاص بك وتنفيذ الإجراءات لتحسينه. 
+نقاط التوافق من Microsoft (معاينة) هي ميزة في Microsoft 365 تساعدك على قياس وضعية التوافق في مؤسستك. فهو يستخدم درجة تستند إلى المخاطر استنادا إلى تقدمك في تنفيذ الإجراءات ذات الصلة بالتوافق.   نقاط التوافق هي إصدار مبسط من [إدارة](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-overview) التوافق ويوفر طريقة أسهل لفحص توافقك وتنفيذ إجراءات لتحسينه. 
 
-سيحتاج المسؤول العام إلى اعداد [الأذونات](https://docs.microsoft.com/microsoft-365/security/office-365-security/permissions-in-the-security-and-compliance-center) المناسبة في مركز توافق Microsoft للوصول إلى مجموعات التوافق.  لن يتم تحويل اي أذونات تم تكوينها مسبقا لأداره التوافق إلى مجموعات التوافق.
+يجب على المسؤول العام إعداد [](https://docs.microsoft.com/microsoft-365/security/office-365-security/permissions-in-the-security-and-compliance-center) الأذونات المناسبة في مركز التوافق من Microsoft للوصول إلى نقاط التوافق.  لن يتم نقل أي أذونات تم تكوينها مسبقا ل "إدارة التوافق" إلى "نقاط التوافق".
 
-**للوصول إلى مجموعات التوافق**
+**للوصول إلى نقاط التوافق**
 
-1. انتقل إلى مركز توافق Microsoft 365 **وسجل الدخول** باستخدام حساب مسؤول microsoft 365 العام.
+1. انتقل إلى مركز التوافق في Microsoft 365، ثم **سجل الدخول** باستخدام حساب المسؤول العام في Microsoft 365.
 
-2. حدد **نقاط التوافق** في جزء التنقل الأيمن. ينبغي عليك بعد ذلك الاطلاع علي [لوحه النتائج الخاصة بالتوافق مع النقاط](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-setup#understand-the-compliance-score-dashboard).
+2. حدد **نقاط التوافق** في جزء التنقل الأيسر. يجب أن ترى بعد ذلك لوحة معلومات ["نقاط التوافق" مع نقاطك](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-setup#understand-the-compliance-score-dashboard).
  
 
-**للحصول علي مزيد من المعلومات حول**:
+**لمزيد من المعلومات حول:**
 
-- اعداد أذونات الوصول إلى مجموعات التوافق ، راجع [منح المستخدمين حق الوصول إلى مراكز التوافق الخاصة ب& أمان Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center).
-- استخدام إجراءات التحسين في مجموعات التوافق ، راجع  [العمل مع النتيجة المتوافقة](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score).
-- كيفيه حساب مجموعات التوافق ، راجع [وسيله التوافق](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology).
-- نتيجة التوافق مقابل مدير التوافق ، راجع [العلاقة بمدير التوافق](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager).
+- إعداد أذونات الوصول إلى نقاط التوافق، راجع منح المستخدمين حق الوصول إلى مركز التوافق في [Microsoft 365 & التوافق.](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center)
+- باستخدام إجراءات التحسين في "نقاط التوافق"، راجع [العمل باستخدام "نقاط التوافق".](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score)
+- كيفية حساب نقاط التوافق، راجع [منهجية نقاط التوافق](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology).
+- نقاط التوافق مقابل إدارة التوافق، راجع [العلاقة ب Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager).
 

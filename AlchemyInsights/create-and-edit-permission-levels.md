@@ -1,8 +1,8 @@
 ---
-title: استخدام مستويات أذونات SharePoint
+title: العمل باستخدام مستويات أذونات SharePoint
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000165"
 - "3164"
-ms.openlocfilehash: db92439091859e828d658c383be71aedc876100c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f447aea6c844746f1901382120cb4081e46ec578
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732486"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816079"
 ---
-# <a name="working-with-sharepoint-permission-levels"></a>استخدام مستويات أذونات SharePoint
+# <a name="working-with-sharepoint-permission-levels"></a>العمل باستخدام مستويات أذونات SharePoint
 
-يتضمن SharePoint مستويات الأذونات الافتراضية التي يمكنك استخدامها ، مثل **المساهمة** **والعرض فقط**. ولكن إذا كان أحد هذه الخيارات لا يفي باحتياجاتك ، فيمكنك إنشاء مستوي أذونات جديد. تذكر انه من الأسهل الاستمرار في تعقب مستويات الأذونات إذا لم تقم بتغيير الإعدادات الافتراضية.
+يأتي SharePoint مع مستويات الأذونات الافتراضية التي يمكنك استخدامها، مثل **مساهمة** **وعرض فقط.** ولكن إذا لم يلبي أحد هذه الأذونات احتياجاتك، يمكنك إنشاء مستوى أذونات جديد. ضع في اعتبارك أنه من الأسهل تعقب مستويات الأذونات إذا لم تغير الإعدادات الافتراضية.
 
-[كيفيه إنشاء مستويات الأذونات وتحريرها](https://docs.microsoft.com/sharepoint/how-to-create-and-edit-permission-levels)
+[كيفية إنشاء مستويات الأذونات وتحريرها](https://docs.microsoft.com/sharepoint/how-to-create-and-edit-permission-levels)

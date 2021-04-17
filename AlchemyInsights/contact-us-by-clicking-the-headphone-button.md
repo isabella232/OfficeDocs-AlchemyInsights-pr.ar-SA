@@ -1,8 +1,8 @@
 ---
-title: اتصل بنا بالنقر فوق زر سماعه الراس
+title: الاتصال بنا بالنقر فوق زر سماعة الرأس
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3494"
 - "9001472"
-ms.openlocfilehash: 0458ae0a6afdc2c4624ea0658f72f85d4a7d6fdd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 329768f62c3da71b5454c7155e66509ae4c01df4
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680887"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816943"
 ---
-# <a name="contact-us-by-clicking-the-headphone-button"></a>اتصل بنا بالنقر فوق زر سماعه الراس
+# <a name="contact-us-by-clicking-the-headphone-button"></a>الاتصال بنا بالنقر فوق زر سماعة الرأس
 
-إذا كنت ترغب في الاتصال بدعم Microsoft ، يرجى النقر فوق **الاتصال بنا** في الزاوية السفلية اليمني من هذا التطبيق. داخل النافذة الحركة ، سيتم إرشادك إلى قناه الدعم المناسبة بعد اختيار فئة المنتج والمشكلة.
+إذا كنت تريد الاتصال بدعم Microsoft، فالرجاء النقر **فوق** الاتصال بنا في الزاوية السفلية اليمنى من هذا التطبيق. داخل نافذة الخروج، سيتم إرشادك إلى قناة الدعم المناسبة بعد اختيار المنتج وفئة المشكلة.
 
-![اتصل بنا بالنقر فوق أيقونه سماعه الراس.](media/contact-us-headphone-icon.png)
+![اتصل بنا بالنقر فوق أيقونة سماعة الرأس.](media/contact-us-headphone-icon.png)
 
-يمكنك الاستمرار في التفاعل مع باقي التطبيق حتى بعد بدء جلسة اتصال في الولايات المتحدة. يمكن تصغير لوحه "الاتصال بنا" بشكل مؤقت بالنقر في اي مكان آخر داخل التطبيق. للعودة إلى جلسة العمل نفسها ، ما عليك سوي **الاتصال بنا** مره أخرى.
+يمكنك الاستمرار في التفاعل مع باقي التطبيق حتى بعد بدء جلسة الاتصال بنا. يمكن تصغير لوحة الاتصال بنا مؤقتا بالنقر فوق أي مكان آخر داخل التطبيق. للعودة إلى جلسة العمل نفسها، ما عليك سوى النقر فوق **الاتصال بنا مرة** أخرى.

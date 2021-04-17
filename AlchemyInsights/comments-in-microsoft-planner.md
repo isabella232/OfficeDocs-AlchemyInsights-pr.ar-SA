@@ -2,7 +2,7 @@
 title: التعليقات في Microsoft Planner
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001717"
 - "3810"
-ms.openlocfilehash: 048b63619256c1322837a06115f97127188aec6d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 09385fd0235939d01e0baf141362cb8b76910682
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793565"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817627"
 ---
 # <a name="comments-in-microsoft-planner"></a>التعليقات في Microsoft Planner
 
@@ -29,7 +29,7 @@ ms.locfileid: "47793565"
 
 - **لا يتم حفظ التعليقات** -  ليس لدى المستخدم الذي يضيف التعليق الإذن لإرسال بريد إلكتروني إلى مجموعة Microsoft 365. اقرأ [كيف يعمل Microsoft Planner](https://techcommunity.microsoft.com/t5/planner-blog/how-microsoft-planner-works/ba-p/1214736) للحصول على مزيد من المعلومات حول هذا السيناريو.
 
-- يتم عرض الخطأ **لم يعد لديك حق الوصول**، أو ** يتعذر على المستخدمين الضيوف إضافة التعليقات** - قد يرى المستخدمون الضيوف الذين لا يمكنهم إرسال بريد إلكتروني إلى علبة الوارد الخاصة بالمجموعة هذه الرسالة. لحل هذه المشكلة، تأكد من أن المستخدم الضيف يحتوي على عنوان بريد إلكتروني صالح.
+- يتم عرض الخطأ **لم يعد لديك حق الوصول**، أو **يتعذر على المستخدمين الضيوف إضافة التعليقات** - قد يرى المستخدمون الضيوف الذين لا يمكنهم إرسال بريد إلكتروني إلى علبة الوارد الخاصة بالمجموعة هذه الرسالة. لحل هذه المشكلة، تأكد من أن المستخدم الضيف يحتوي على عنوان بريد إلكتروني صالح.
 
 - **يتلقى المستخدمون الذين تمت إزالتهم رسائل بريد إلكتروني** - إذا علّق مستخدم على مهمة قبل إزالته من الخطة، فإن سلسلة رسائل البريد الإلكتروني تتضمن المستخدم لكل تعليق يتم إجراؤه على المهمة.
 

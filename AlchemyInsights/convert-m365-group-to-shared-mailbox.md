@@ -1,8 +1,8 @@
 ---
-title: تحويل مجموعه Microsoft 365 وعلب البريد المشتركة
+title: تحويل مجموعة Microsoft 365 علب البريد المشتركة
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "624"
 - "3500003"
-ms.openlocfilehash: 950c162276afb321774b58893271ab9ca654c705
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
+ms.openlocfilehash: 4a8fecc830ac559a3c2ff62c9a120ac165153d0c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48822986"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816547"
 ---
-# <a name="conversion-of-microsoft-365-group-and-shared-mailboxes"></a>تحويل مجموعه Microsoft 365 وعلب البريد المشتركة
+# <a name="conversion-of-microsoft-365-group-and-shared-mailboxes"></a>تحويل مجموعة Microsoft 365 علب البريد المشتركة
 
-لا توجد حاليا اي طريقه للتحويل بين علبه بريد المجموعة Microsoft 365 وعلبه بريد مشتركه.
+لا توجد حاليا أي طريقة للتحويل بين علبة بريد مجموعة Microsoft 365 علبة البريد المشتركة.
 
-الرجاء المساعدة علي التصويت لهذه الميزة [هنا](https://aka.ms/M365GroupToShared).
+الرجاء المساعدة في التصويت لهذه الميزة [هنا](https://aka.ms/M365GroupToShared).

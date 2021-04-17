@@ -1,8 +1,8 @@
 ---
-title: لا تحدث Cortana بالنسبة لي أو لا أستطيع سماعي
+title: Cortana لا تتحدث إلي أو لا تسمعني
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002960"
 - "5662"
-ms.openlocfilehash: 015c4089682e5313d51a05223d82c5f3c29586db
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c37ab73efcb39e9615397b3e84cb6e02efc0e4cb
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47807034"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816511"
 ---
-# <a name="cortana-doesnt-talk-to-me-or-cant-hear-me"></a>لا تحدث Cortana بالنسبة لي أو لا أستطيع سماعي
+# <a name="cortana-doesnt-talk-to-me-or-cant-hear-me"></a>Cortana لا تتحدث إلي أو لا تسمعني
 
-إذا كنت تحاول استخدام ميزه "Hey Cortana" ، الأمر الذي يسمح لك بالتحدث إلى Cortana دون تحديد زر Cortana علي شريط المهام أو زر الميكروفون في لوحه Cortana ، فتاكد من تمكين الميزة:
+إذا كنت تحاول استخدام ميزة "Hey Cortana"، التي تسمح لك بالتحدث إلى Cortana دون تحديد زر Cortana على شريط المهام أو زر الميكروفون في لوحة Cortana، فتأكد من تمكين الميزة:
 
-1. انتقل إلى **بدء**، ثم حدد **[إعدادات > Cortana](ms-settings:cortana?activationSource=GetHelp)**.
-2. ضمن **مرحبا cortana**، قم بالتبديل إلى **"السماح ل cortana بالرد علي" مرحبا cortana "** **.**
+1. انتقل إلى **البدء**، ثم حدد إعدادات > **[Cortana](ms-settings:cortana?activationSource=GetHelp)**.
+2. ضمن **Hey Cortana**، قم بتبديل زر التبديل **السماح ل Cortana بالرد على "Hey Cortana"** إلى **تشغيل**.
 
-![مرحبا Cortana](media/hey-cortana.png)
+![Hey Cortana](media/hey-cortana.png)
 
-**هل تمنع إعدادات الخصوصية Cortana من سماعك ؟**
+**هل تمنع إعدادات الخصوصية Cortana من سماعك؟**
 
-يمكن ان تمنع إعدادات الخصوصية الخاصة بك Cortana من الرد علي صوتك.
-- تاكد من تشغيل ميزه التعرف علي الكلام عبر الإنترنت:
-    - انتقل إلى **بدء**، ثم انقر فوق **[إعدادات > خصوصية > كلام](ms-settings:privacy-speech?activationSource=GetHelp)**.
-    - ضمن **التعرف علي الكلام عبر الإنترنت**، قم بتبديل الاعداد إلى **تشغيل**.
-- تحقق للتاكد من ان Cortana لديه الاذن بالوصول إلى الميكروفون. 
-    - انتقل إلى بدء ، ثم انقر فوق **[إعدادات > خصوصية > الميكروفون](ms-settings:privacy-microphone?activationSource=GetHelp)**.
-    - ضمن **اختيار التطبيقات التي يمكنها الوصول إلى الميكروفون**، ابحث عن **Cortana** في قائمه التطبيقات والخدمات وتاكد من انه قد تم تبديل المفتاح إلى **تشغيل**.
+يمكن أن تمنع إعدادات الخصوصية Cortana من الاستجابة لصوتك.
+- تحقق للتأكد من تشغيل التعرف على الكلام عبر الإنترنت:
+    - انتقل إلى **بدء**، ثم انقر فوق إعدادات > **[الخصوصية > الكلام](ms-settings:privacy-speech?activationSource=GetHelp)**.
+    - ضمن **التعرف على الكلام عبر الإنترنت**، قم بتبديل الإعداد إلى **تشغيل**.
+- تحقق للتأكد من أن Cortana لديها الإذن للوصول إلى الميكروفون. 
+    - انتقل إلى البدء، ثم انقر فوق إعدادات > **[الخصوصية > الميكروفون.](ms-settings:privacy-microphone?activationSource=GetHelp)**
+    - ضمن **اختيار التطبيقات التي** يمكنها الوصول إلى الميكروفون ، ابحث عن **Cortana** ضمن قائمة التطبيقات والخدمات وتأكد من تبديل المفتاح إلى **تشغيل**.
 
-بالاضافه إلى ذلك ، يرجى أيضا التاكد من ان مكبرات الصوت أو الميكروفونات لديك تعمل بشكل صحيح للتحدث إلى Cortana.
+علاوة على ذلك، الرجاء أيضا التأكد من أن السماعات أو الميكروفونات لديك تعمل من أجل التحدث إلى Cortana.

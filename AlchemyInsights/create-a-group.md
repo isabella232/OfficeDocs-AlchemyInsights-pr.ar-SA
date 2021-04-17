@@ -1,8 +1,8 @@
 ---
-title: إنشاء مجموعه
+title: إنشاء مجموعة
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003234"
 - "7230"
-ms.openlocfilehash: b8cb3f1de991bfe7197607d5e8964a018e31c122
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: ec74b7c098d302d3bdeb5a412fad41efe7b82b98
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088487"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816331"
 ---
-# <a name="create-a-group"></a>إنشاء مجموعه
+# <a name="create-a-group"></a>إنشاء مجموعة
 
 يصف هذا الموضوع إنشاء المجموعة.
 
-**اذن إنشاء مجموعه**
+**الإذن لإنشاء مجموعة**
 
-تاكد من انك مصرحت لك بإنشاء مجموعه جديده. يمكن للمسؤولين العموميين تعطيل إنشاء المجموعة في مدخل Azure أو لوحه الوصول. قد تحتاج إلى مسؤول لإنشاء المجموعة الجديدة لك ، أو لمنحك الأذونات المناسبة.
+تأكد من أنك م مخولا لإنشاء مجموعة جديدة. يمكن للمسؤولين العامين تعطيل إنشاء المجموعة في مدخل Azure أو لوحة Access. قد تحتاج إلى مسؤول لإنشاء المجموعة الجديدة لك، أو من أجل من يعطيك الأذونات المناسبة.
 
-**أداره أذونات إنشاء المجموعة**
+**إدارة أذونات إنشاء المجموعة**
 
-1. بإمكان المسؤولين العموميين أداره أذونات إنشاء المجموعة (لأسباب تتعلق بالأمان) أو مجموعات Office 365 التي تم إنشاؤها في مدخل azure أو لوحه الوصول ، عن طريق اختيار "يمكن للمستخدمين إنشاء مجموعات الأمان في azure مداخل" أو "يمكن للمستخدمين إنشاء مجموعات من office **365 في azure** portal  >  **General (Settings)**.
-2. يمكنك أيضا تقييد إنشاء المجموعة لتحديد مجموعه من المستخدمين إذا كان لديك ترخيص Azure Active directory P1.
+1. يمكن للمسؤولين العامين إدارة أذونات إنشاء المجموعات (لأسباب متعلقة والأمان) أو مجموعات Office 365 التي تم إنشاؤها في مدخل Azure أو لوحة Access، باختيار "يمكن للمستخدمين إنشاء مجموعات أمان في مداخل Azure" أو خيارات "يمكن للمستخدمين إنشاء مجموعات Office 365 في مداخل Azure" في كافة المجموعات عام  >  **(إعدادات)**.
+2. يمكنك أيضا تقييد إنشاء المجموعة لتحديد مجموعة من المستخدمين إذا كان لديك ترخيص Azure Active Directory P1 Premium.
 
-**تعطيل الاعلامات الخاصة بأعضاء مجموعه Office 365 الجديدة**
+**تعطيل إعلام الترحيب لأعضاء مجموعة Office 365 الجدد**
 
-يمكن تعطيل الاعلام بالترحيب المرسل إلى المستخدمين الذين تمت اضافتهم إلى مجموعات Office 365 عن طريق اعداد **أونيفيدجروبويلكوميميساجينابليد** to False في Powershell. تعرف علي هذا الاعداد [هنا](https://docs.microsoft.com/powershell/module/exchange/set-unifiedgroup?view=exchange-ps&preserve-view=true).
+يمكن تعطيل إعلام الترحيب الذي يتم إرساله إلى المستخدمين الذين تم إضافتهم إلى مجموعات Office 365 عن طريق تعيين **UnifiedGroupWelcomeMessageEnabled** إلى False في Powershell. تعرف على هذا الإعداد [هنا](https://docs.microsoft.com/powershell/module/exchange/set-unifiedgroup?view=exchange-ps&preserve-view=true).
 

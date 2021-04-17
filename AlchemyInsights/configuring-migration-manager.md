@@ -1,8 +1,8 @@
 ---
-title: تكوين أداره الترحيل
+title: تكوين إدارة الترحيل
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "5670"
-ms.openlocfilehash: b1410bc3da3b1fea6f76f4063f906ca7f6329546
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e5133f0fedbc5fe8feb25aa0e869234619bd5b94
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713550"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817087"
 ---
-# <a name="configuring-migration-manager"></a>تكوين أداره الترحيل
+# <a name="configuring-migration-manager"></a>تكوين إدارة الترحيل
 
-سينتراليزيس أداره الترحيل إلى أداره عمليات ترحيل مشاركه الملفات الكبيرة بتكوين جهاز كمبيوتر واحد أو أكثر أو أجهزه ظاهريه (VMs) كالترحيل "العوامل". لمزيد من المعلومات، راجع ما يلي:
+تقوم إدارة الترحيل بتمركز إدارة عمليات ترحيل مشاركة الملفات الكبيرة من خلال تكوين جهاز كمبيوتر واحد أو أكثر أو أجهزة ظاهرية (VMs) ك "وكلاء ترحيل". لمزيد من المعلومات، راجع ما يلي:
 
 - [إعداد عملاء إدارة الترحيل](https://docs.microsoft.com/sharepointmigration/mm-setup-clients)
 
-- [إعدادات أداره الترحيل](https://docs.microsoft.com/sharepointmigration/mm-settings)
+- [إعدادات إدارة الترحيل](https://docs.microsoft.com/sharepointmigration/mm-settings)

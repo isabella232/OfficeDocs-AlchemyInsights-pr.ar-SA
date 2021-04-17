@@ -1,8 +1,8 @@
 ---
-title: تحويل علبه بريد مستخدم إلى علبه بريد مشتركه
+title: تحويل علبة بريد المستخدمين إلى علبة بريد مشتركة
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,16 +13,16 @@ ms.custom:
 - "624"
 - "3500003"
 ms.assetid: a38afd0a-fae5-49e1-9757-6986d5f5531e
-ms.openlocfilehash: 7c64e9db982ffb5e8a8e90d812ed09de45ef9fb0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4e359b3eeb4522ca18108a4dca6efc5aae17e594
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732882"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816583"
 ---
-# <a name="convert-a-user-mailbox-to-a-shared-mailbox"></a>تحويل علبه بريد مستخدم إلى علبه بريد مشتركه
+# <a name="convert-a-user-mailbox-to-a-shared-mailbox"></a>تحويل علبة بريد مستخدم إلى علبة بريد مشتركة
 
-عند تحويل علبه بريد مستخدم فردي إلى علبه بريد مشتركه ، يتم الاحتفاظ بكل عناصر البريد الكتروني والتقويم الموجودة في علبه بريد مشتركه حيث يمكن لعده أشخاص الوصول اليها. يمكنك أيضا تحويل علبه بريد مشتركه مره أخرى إلى علبه بريد مستخدم (خاصه).
+عند تحويل علبة بريد مستخدم فردي إلى علبة بريد مشتركة، يتم الاحتفاظ بكل عناصر البريد الإلكتروني والتقويم الموجودة في علبة بريد مشتركة حيث يمكن لعدة أشخاص الوصول إليها. يمكنك أيضا تحويل علبة بريد مشتركة مرة أخرى إلى علبة بريد مستخدم (خاصة).
   
-لمزيد من المعلومات ، راجع [تحويل علبه بريد مستخدم إلى علبه بريد مشتركه](https://docs.microsoft.com/microsoft-365/admin/email/convert-user-mailbox-to-shared-mailbox).
+لمزيد من المعلومات، راجع [تحويل علبة بريد مستخدم إلى علبة بريد مشتركة](https://docs.microsoft.com/microsoft-365/admin/email/convert-user-mailbox-to-shared-mailbox).
   

@@ -1,8 +1,8 @@
 ---
-title: أزاله صوره الحساب
+title: حذف صورة الحساب
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3452"
 - "9001439"
-ms.openlocfilehash: 94d7c783b13632e9fcf0875785fdeab8b8951f93
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c7baa3267d62ae1bef64b9f7c91b5f8aedfcbc8e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730938"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815530"
 ---
-# <a name="delete-an-account-picture-in-windows-10"></a>حذف صوره حساب في Windows 10
+# <a name="delete-an-account-picture-in-windows-10"></a>حذف صورة حساب في Windows 10
 
-تم تصميم Windows ليسمح لك بالتبديل بين الصور الثلاثة الاخيره. إذا كنت بحاجه إلى حذف أحد صور الحساب:
+لقد تم تصميم Windows بحيث يمكنك التبديل بين أحدث ثلاث صور. إذا كنت بحاجة إلى حذف إحدى صور حسابك:
 
-1. افتح مستكشف الملفات من شريط المهام. إذا لم تتمكن من رؤية "مستكشف الملفات" (أيقونه المجلد) علي شريط المهام ، فحدد **بدء** واكتب **مستكشف الملفات**.
+1. افتح مستكشف الملفات من شريط المهام. إذا لم يظهر مستكشف الملفات (أيقونة المجلد) على شريط المهام، **فحدد** بدء وا اكتب **مستكشف الملفات**.
 
-2. انتقل إلى C:\Users \\ *يورنامي*\appdata\roaming\microsoft\windows\accountpictures. 
-    - استبدل *يورنامي* باسم حسابك.
-    - إذا تعذر عليك العثور علي المجلد AppData في "مستكشف الملفات" ، فقد يكون مخفيا. حدد اعداد **طريقه العرض** ، وحدد خانه الاختيار **العناصر المخفية** لإظهار كافة العناصر الموجودة في مجلد.
+2. انتقل إلى C:\Users \\ *yourname*\AppData\Roaming\Microsoft\Windows\AccountPictures. 
+    - استبدل *اسمك* باسم حسابك.
+    - إذا تعذر عليك العثور على مجلد AppData في "مستكشف الملفات"، فقد يكون مخفيا. حدد الإعداد **عرض،** وحدد **خانة** الاختيار العناصر المخفية لإظهار كل العناصر في مجلد.
 
-3. احذف صوره الحساب التي لم تعد تريد استخدامها.
+3. احذف صورة الحساب التي لم تعد تريد استخدامها.
  
  

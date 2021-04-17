@@ -1,8 +1,8 @@
 ---
-title: لا توجد نتائج في البحث عن المحتوي
+title: البحث في المحتوى بلا نتائج
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000661"
 - "2527"
-ms.openlocfilehash: 1e90c403556a317ff810971ccfa4a91694fb1171
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0267286ca5967ee891e65343d49adf776f0322a6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680634"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51816835"
 ---
-# <a name="no-results-from-content-searchexports"></a>لا توجد نتائج من البحث في المحتوي/التصديرات
+# <a name="no-results-from-content-searchexports"></a>لا توجد نتائج من البحث/التصدير في المحتوى
 
-المشاكل المتعلقة بالبحث في المحتوي/عمليات التصدير لا يتم إرجاع اي بيانات بسبب عامل تصفيه أمان توافق معين تم اعداده من قبل مسؤول معين ولا يتم الاتصال به لجميع المسؤولين.
+قد يعود سبب المشاكل المتعلقة ببحث/تصدير المحتوى إلى عدم إرجاع أي بيانات إلى عامل تصفية أمان توافق معين تم إعداده من قبل مسؤول معين ولم يتم توصيله إلى جميع المسؤولين.
 
-لحل هذه المشكلة ، تحقق لمعرفه ما إذا كانت هناك اي عوامل تصفيه أمان للتوافق قد تؤدي إلى ذلك:
-1. الاتصال بمركز التوافق والأمان Powershell
-2. قم بتشغيل الكوماندليتس التالية:
+لحل هذه المشكلة، تحقق لمعرفة ما إذا كان هناك أي عوامل تصفية أمان التوافق قد تكون السبب في ذلك:
+1. الاتصال بمركز الأمان والتوافق في Powershell
+2. تشغيل الأوامر التالية:
 <br>$org = "yourdomain.com"
-<br>كومبليانسيسيكوريتيفيلتير-مؤسسه $org
+<br>Get-ComplianceSecurityFilter -Organization $org

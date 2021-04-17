@@ -1,8 +1,8 @@
 ---
-title: الاتصال بالوحدة النمطية مسكوميرسي
+title: الاتصال الوحدة النمطية ل MSCommerce
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3528"
-ms.openlocfilehash: 41dd044d99d14f25ea15699bfb74f7c37e3928c1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e77c6a329ac99a4cea4f143dcb3c661b6a518e35
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713225"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817015"
 ---
-# <a name="connect-to-the-mscommerce-module"></a>الاتصال بالوحدة النمطية مسكوميرسي
+# <a name="connect-to-the-mscommerce-module"></a>الاتصال الوحدة النمطية ل MSCommerce
 
-يجب ان تكون متصلا بالوحدة النمطية مسكوميرسي قبل ان تتمكن من عرض نهج اللووسيلفسيرفيسيبوركهاسي أو تعيينه.  
+يجب أن تكون متصلا الوحدة النمطية ل MSCommerce قبل أن تتمكن من عرض نهج AllowSelfServicePurchase أو تعيينه.  
 
-للاتصال بالوحدة النمطية مسكوميرسي ، في موجه PowerShell (PS C: \) ، ادخل الأمر التالي:
+للاتصال الوحدة النمطية ل MSCommerce، في موجه PowerShell (PS C: \) ، أدخل الأمر التالي:
 
 `Connect-MSCommerce`
 
-سيؤدي ذلك إلى فتح مربع حوار تسجيل الدخول. ادخل اسم المستخدم وكلمه المرور لتسجيل الدخول.
+سيفتح هذا مربع حوار تسجيل الدخول. أدخل اسم المستخدم وكلمة المرور الخاصة بك تسجيل الدخول.
 
-**ملاحظه:** &nbsp; &nbsp; يجب ان يكون الحساب المستخدم لتسجيل الدخول مسؤولا عن الشركة أو الفوترة.
+**ملاحظة:** &nbsp; &nbsp; يجب أن يكون الحساب المستخدم في تسجيل الدخول مسؤول شركة أو مسؤول فوترة.

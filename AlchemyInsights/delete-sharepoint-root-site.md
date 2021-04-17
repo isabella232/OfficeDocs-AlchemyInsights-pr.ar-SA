@@ -1,8 +1,8 @@
 ---
-title: حذف موقع SharePoint الجذر
+title: حذف موقع جذر SharePoint
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003017"
 - "5727"
-ms.openlocfilehash: d33029b6fe333b38cee7dba66ba4a5044248f174
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.openlocfilehash: 849c5c58ab4688130d71baffac8fe39eddf92f18
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "50713252"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815458"
 ---
-# <a name="delete-the-sharepoint-root-site"></a>حذف موقع SharePoint الجذر
+# <a name="delete-the-sharepoint-root-site"></a>حذف موقع جذر SharePoint
 
-إن حذف موقع SharePoint الجذر  **غير معتمد.**
+حذف موقع جذر SharePoint **غير مدعوم.**
 
-1.  إذا تم حذف الموقع الجذر بالفعل، سيختبر المستخدمون الخطأ 404 File Not Found عند محاولة الوصول إلى الموقع.
-2.  لحل هذه المشكلة، يمكنك استعادة الموقع من مركز [](https://admin.microsoft.com/sharepoint?page=recycleBin&modern=true) إدارة SharePoint الجديد من خلال الذهاب إلى صفحة "المواقع المحذوفة"، وحدد الموقع الجذر وانقر فوق "استعادة".
-3.  بدلا من حذف الموقع الجذر، استخدم موقع الاستبدال من مركز إدارة SharePoint الجديد بمجرد استعادة الموقع الجذر. [](https://docs.microsoft.com/sharepoint/modern-root-site#replace-your-root-site)
+1.  إذا تم حذف موقع الجذر بالفعل، فسيواجه المستخدمون خطأ 404 لم يتم العثور على الملف عند محاولة الوصول إلى الموقع.
+2.  لحل المشكلة، قم باستعادة الموقع من مركز إدارة SharePoint الجديد بالانتقال إلى صفحة [المواقع المحذوفة](https://admin.microsoft.com/sharepoint?page=recycleBin&modern=true)، وحدد الموقع الجذر وانقر فوق استعادة.
+3.  بدلاً من حذف الموقع الجذر، استخدم [استبدال الموقع](https://docs.microsoft.com/sharepoint/modern-root-site#replace-your-root-site) من مركز إدارة SharePoint الجديد بمجرد استعادة الموقع الجذر.
 
-لمزيد من المعلومات، راجع ["تحديث الموقع الجذر"](https://docs.microsoft.com/sharepoint/modern-root-site)
+لمزيد من المعلومات، راجع [تحديث الموقع الجذر](https://docs.microsoft.com/sharepoint/modern-root-site)
