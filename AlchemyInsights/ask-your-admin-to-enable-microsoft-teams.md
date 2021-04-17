@@ -1,8 +1,8 @@
 ---
-title: اطلب من المسؤول الخاص بك تمكين فرق Microsoft
+title: اطلب من المسؤول تمكين Microsoft Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,15 +13,15 @@ ms.custom:
 - "9000067"
 - "2660"
 - "1576"
-ms.openlocfilehash: 62ec9b385b3827395a757150a75ac6bb4237941b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d401a0f29bdd808622cf8348ef1ae3770bb54c3a
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47716232"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821173"
 ---
-# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>أنت مفقود! اطلب من المسؤول الخاص بك تمكين فرق Microsoft
+# <a name="youre-missing-out-ask-your-admin-to-enable-microsoft-teams"></a>لم يفوتك شيء! اطلب من المسؤول تمكين Microsoft Teams
 
-إذا كان لديك مستأجر التعليم، يجب تمكين Microsoft Teams يدوياً. للقيام بذلك ، انتقل إلى مركز أداره Microsoft 365 > **الخدمات والوظائف الاضافيه > فرق Microsoft**. إذا كنت تستخدم مركز أداره الفرق الجديد ، ستحتاج إلى إيقاف تشغيل **تجربه مركز الاداره الجديد**   للعثور علي **الخدمات والوظائف الاضافيه**. 
+إذا كان لديك مستأجر التعليم، يجب تمكين Microsoft Teams يدوياً. للقيام بذلك، انتقل إلى مركز إدارة Microsoft 365 >والخدمات الإضافية >  **Microsoft Teams**. إذا كنت تستخدم مركز إدارة Teams الجديد، يجب إيقاف **** تشغيل تجربة مركز الإدارة الجديد للعثور على الخدمات وا الوظائف    **الإضافية**. 
 
-**هام**: قد تحتاج إلى الانتظار لمده تصل إلى 24 ساعة لكي تدخل التغييرات حيز التنفيذ.
+**هام:** قد تحتاج إلى الانتظار لمدة تصل إلى 24 ساعة لكي يتم إدخال التغييرات.

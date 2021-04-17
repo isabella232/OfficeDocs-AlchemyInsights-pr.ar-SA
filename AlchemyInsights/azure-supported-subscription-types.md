@@ -1,8 +1,8 @@
 ---
-title: أنواع الاشتراكات المعتمدة
+title: أنواع الاشتراك المدعومة
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,53 +12,53 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003560"
 - "6675"
-ms.openlocfilehash: 46bc60435c3f8477e9f274d90c39d0f1c6a523c6
-ms.sourcegitcommit: f8b41ecda6db0b8f64fe0c51f1e8e6619f504d61
-ms.translationtype: MT
+ms.openlocfilehash: dcf5855bff8725ea746196c1f07d689ce1797f8c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "48807177"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820669"
 ---
-# <a name="supported-subscription-types"></a>أنواع الاشتراكات المعتمدة
+# <a name="supported-subscription-types"></a>أنواع الاشتراك المدعومة
 
-يرجى مراجعه أنواع الاشتراكات المعتمدة لمتابعه المزيد.
+يرجى مراجعة أنواع الاشتراك المدعومة للمضي قدمًا.
 
-[أنواع الاشتراكات المعتمدة](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#supported-subscription-types)
+[أنواع الاشتراك المدعومة](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#supported-subscription-types)
 
-**نقل ملكيه الفوترة**
+**نقل ملكية الفواتير**
 
-مدخل Azure [كمسؤول الحساب](https://ms.portal.azure.com/) لحساب الفوترة الذي يحتوي علي الاشتراك الذي تريد نقله
+مدخل Azure كـ [مسؤول الحساب](https://ms.portal.azure.com/) لحساب الفوترة الذي يحتوي على الاشتراك الذي تريد نقله
 
-- البحث في **أداره التكاليف + الفوترة** . حدد **الاشتراكات** من الجزء الأيسر. استنادا إلى access ، قد تحتاج إلى تحديد نطاق تحرير فواتير **والاشتراكات** أو **اشتراكات Azure** .
-- تحديد نقل ملكيه الفوترة للاشتراك الذي تريد نقله
-- ادخل عنوان البريد الكتروني للمستخدم الذي يكون مسؤول الفوترة الخاص بالحساب الذي سيكون مالكه الجديد للاشتراك ، ثم حدد **إرسال طلب تحويل**
-- يحصل المستخدم علي رسالة بريد الكتروني تتضمن إرشادات لمراجعه طلب النقل. للموافقة علي طلب النقل ، يقوم المستخدم بتحديد الارتباط في البريد الكتروني واتباع الإرشادات.
+- ابحث عن **إدارة التكلفة + الفواتير**. حدد **الاشتراكات** من الجزء الأيمن. بناءً على الوصول، قد تحتاج إلى تحديد نطاق فوترة ثم **الاشتراكات** أو **اشتراكات Azure**.
+- حدد نقل ملكية الفواتير للاشتراك الذي تريد نقله
+- أدخل عنوان البريد الإلكتروني للمستخدم الذي يكون مسؤول الفوترة للحساب الذي سيكون المالك الجديد للاشتراك، ثم حدد **إرسال طلب النقل**
+- يتلقى المستخدم رسالة بريد إلكتروني تحتوي على إرشادات لمراجعة طلب النقل الخاص بك. للموافقة على طلب النقل، يختار المستخدم الرابط في البريد الإلكتروني ويتبع التعليمات.
 
-ملاحظه: إذا قمت بنقل ملكيه الفوترة لاشتراكك إلى حساب مستخدم في مستاجر Azure AD آخر ، ستتم أزاله كافة تعيينات [التحكم بالوصول المستند إلى الدور (RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=Portal-Microsoft_Azure_Support) لأداره الموارد في الاشتراك بشكل دائم. سيتمكن المالك الجديد فقط من الوصول إلى أداره الموارد في الاشتراك. لمزيد من المعلومات ، راجع [نقل الاشتراك إلى مستخدم في مستاجر AZURE AD آخر](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/known-issues?WT.mc_id=Portal-Microsoft_Azure_Support).
+ملاحظة: إذا قمت بنقل ملكية الفوترة لاشتراكك إلى حساب مستخدم في مستأجر Azure AD آخر، فستتم إزالة [جميع تعيينات التحكم في الوصول المستند إلى الدور (RBAC)](https://docs.microsoft.com/azure/role-based-access-control/overview?WT.mc_id=Portal-Microsoft_Azure_Support) لإدارة الموارد في الاشتراك بشكل دائم. سيتمكن المالك الجديد فقط من الوصول لإدارة الموارد في الاشتراك. لمزيد من المعلومات، راجع [نقل الاشتراك إلى مستخدم في مستأجر Azure AD آخر](https://docs.microsoft.com/azure/active-directory/managed-identities-azure-resources/known-issues?WT.mc_id=Portal-Microsoft_Azure_Support).
 
-**نقل ملكيه الاشتراك**
+**نقل ملكية الاشتراك**
 
-متطلبات الوصول المعتمدة علي الأدوار الخاصة بنقل ملكيه الاشتراك (RBAC) لأداره الموارد في الاشتراك تفقد امكانيه الوصول الخاصة بهم. للحصول علي مزيد من المعلومات حول أضافه اشتراك حالي إلى المستاجر ، راجع [اقران اشتراك azure أو اضافته إلى Azure Active](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory?WT.mc_id=Portal-Microsoft_Azure_Support)directory.
+يتطلب نقل ملكية الاشتراك أن يفقد الوصول المستند إلى الدور (RBAC) لإدارة الموارد في الاشتراك وصولها. لمزيد من المعلومات حول إضافة اشتراك موجود إلى مستأجر، راجع [اقتران أو إضافة اشتراك Azure إلى Azure Active Directory](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory?WT.mc_id=Portal-Microsoft_Azure_Support).
 
-- لن يتم نقل تحويل الاشتراك مع مبلغ مستحق حاليا من دوره الفوترة الحالية إلى مستند الدفع الجديد في الحساب الجديد. المعلومات الوحيدة المتوفرة للمستخدمين في حساب جديد هي تكلفه الشهر الماضي لاشتراكك. لا يتم نقل الأجزاء المتبقية من محفوظات الاستخدام والفوترة مع الاشتراك.
-- نقل ملكيه الفوترة لاشتراكات اتفاقيه المؤسسة (EA) المعتمدة حاليا في مدخل اتفاقيه المؤسسة فقط
-- يمكنك تحويل اشتراك موجه إلى الرصيد مثل Visual Studio و بيزسبارك وشبكه شركاء Microsoft إلى مستخدم جديد لكي تتمكن من الحصول علي ترخيص شبكه شركاء Visual Studio/Microsoft لقبول طلب النقل
-- يتم نقل كل الموارد مثل الاجهزه الظاهرية والأقراص ومواقع الويب إلى الحساب الجديد بنجاح. قد تتاثر الموارد التالية في نقل اشتراكات عبر المستاجرين:
+- لن يتم تحويل الاشتراك بالمبلغ الحالي المستحق من دورة الفوترة الحالية إلى وسيلة الدفع الجديدة في الحساب الجديد. المعلومات الوحيدة المتاحة للمستخدمين في الحساب الجديد هي تكلفة الشهر الماضي لاشتراكك. لا يتم نقل بقية محفوظات الاستخدام والفوترة مع الاشتراك.
+- يتم حاليًا دعم نقل ملكية فواتير اشتراكات اتفاقية المؤسسة (EA) في بوابة اتفاقية المؤسسة فقط
+- يتطلب تحويل الاشتراك الموجه إلى الائتمان مثل Visual Studio و BizSpark و Microsoft Partner Network إلى مستخدم جديد أن يكون لديه ترخيص شبكة شركاء Visual Studio / Microsoft لقبول طلب النقل
+- يتم نقل جميع الموارد مثل الأجهزة الافتراضية والأقراص والمواقع الإلكترونية إلى الحساب الجديد بنجاح. يمكن أن تتأثر الموارد التالية في نقل الاشتراك عبر المستأجرين:
 
-**خدمات مجالات Azure AD**
+**خدمات مجال Azure AD**
 
-Azure Key فاولتس
+خزائن مفاتيح Azure
 
-- قد يتاثر [المستخدمون وقواعد البيانات المرتبطة ب SQL](https://docs.microsoft.com/azure/sql-database/sql-database-aad-authentication-configure?WT.mc_id=Portal-Microsoft_Azure_Support) ، خاصه إذا كان العميل يستخدم مصادقه ذات صله بخدمه Azure Active directory
-- قد تتاثر **خدمات التطبيقات** التي تم تكوينها باستخدام مصادقه Azure active directory
-- **فريق Visual Studio** قد تفقد حسابات الخدمات المتصلة باشتراكات Azure وصولا مؤقتا عند إلغاء اشتراك Azure المتصل
+- يمكن أن يتأثر [المستخدمون وقواعد البيانات المرتبطة بـ SQL](https://docs.microsoft.com/azure/sql-database/sql-database-aad-authentication-configure?WT.mc_id=Portal-Microsoft_Azure_Support)، خاصةً إذا كان العميل يستخدم مصادقة مرتبطة بـ Azure Active Directory
+- قد تتأثر **خدمات التطبيقات** التي تم تكوينها باستخدام مصادقة Azure Active Directory
+- قد تفقد حسابات خدمات **Visual Studio Team** المتصلة باشتراكات Azure إمكانية الوصول مؤقتًا عند إلغاء اشتراك Azure المتصل
 
-**المستندات المستحسنة**
+**المستندات الموصى بها**
 
-خطوات بعد قبول ملكيه الفوترة:
+خطوات بعد قبول ملكية الفواتير:
 
-- للاحتفاظ بملكيه الفوترة ، ولكن قم بتغيير نوع الاشتراك الخاص بك ، وأشر [إلى: تبديل اشتراكك في Azure إلى عرض آخر](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [نقل الرسومات في Visual Studio وشبكه شركاء Microsoft (مبن) والدفع بالاضافه إلى الشركات المطورة/التجريبية](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transferring-visual-studio-microsoft-partner-network-mpn-and-pay-as-you-go-devtest-subscriptions)
-- [نقل ملكيه الفوترة لاشتراكات اتفاقيه المؤسسة (EA)](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transfer-billing-ownership-of-enterprise-agreement-ea-subscriptions)
-- [نقل الاسئله المتداولة حول الملكية](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions-faq-for-senders)
-- [استكشاف مشاكل تحويل الملكية وإصلاحها](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#troubleshooting)
+- للاحتفاظ بملكية الفوترة، ولكن مع تغيير نوع اشتراكك، راجع: [تبديل اشتراك Azure الخاص بك إلى عرض آخر](https://docs.microsoft.com/azure/billing/billing-how-to-switch-azure-offer?WT.mc_id=Portal-Microsoft_Azure_Support)
+- [نقل Visual Studio وشبكة شركاء Microsoft (MPN) ودفع اشتراكات التطوير/الاختبار أثناء السير](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transferring-visual-studio-microsoft-partner-network-mpn-and-pay-as-you-go-devtest-subscriptions)
+- [نقل ملكية الفواتير لاشتراكات اتفاقية المؤسسة (EA)](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#transfer-billing-ownership-of-enterprise-agreement-ea-subscriptions)
+- [الأسئلة الشائعة حول نقل الملكية](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#frequently-asked-questions-faq-for-senders)
+- [استكشاف مشكلات نقل الملكية وإصلاحها](https://docs.microsoft.com/azure/billing/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#troubleshooting)

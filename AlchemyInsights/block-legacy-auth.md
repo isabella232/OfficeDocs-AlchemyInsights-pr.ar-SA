@@ -1,8 +1,8 @@
 ---
-title: بلوكليجاسياوث
+title: BlockLegacyAuth
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "3154"
 - "9001194"
-ms.openlocfilehash: baf3ee808cce1e4da362dd0841c0138d7d9268d1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 06ded694893c020f862864215700853b19d35f08
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685585"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820165"
 ---
 # <a name="blocking-legacy-authentication"></a>حظر المصادقة القديمة
 
-المصادقة القديمة هي مصطلح يشير إلى طلب مصادقه تم إنشاؤه بواسطة:
+المصادقة القديمة عبارة عن مصطلح يشير إلى طلب مصادقة تم تقديمه من خلال:
 
-- عملاء Office الأقدم الذين لا يستخدمون المصادقة الحديثة (علي سبيل المثال ، Office 2010 client).
+- عملاء Office الأقدم الذين لا يستخدمون المصادقة الحديثة (على سبيل المثال، عميل Office 2010).
 
-- اي عميل يستخدم بروتوكولات البريد القديمة مثل IMAP/SMTP/POP3.
+- أي عميل يستخدم بروتوكولات البريد القديمة مثل IMAP/SMTP/POP3.
 
-للحصول علي مزيد من المعلومات حول حظر المصادقة القديمة وتمكين المصادقة الحديثة ، راجع [حظر المصادقة القديمة](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-block-legacy-authentication).
+لمزيد من المعلومات حول حظر المصادقة القديمة وتمكين المصادقة الحديثة، راجع [حظر المصادقة القديمة](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-block-legacy-authentication).
 
-تسهل إعدادات الأمان الافتراضية في Azure Active directory (Azure AD) أمانا والمساعدة في حماية مؤسستك. تحتوي الافتراضيات الامنه علي إعدادات أمان مكونه مسبقا للهجمات الشائعة.
-لمزيد من المعلومات حول الإعدادات الافتراضية للامان ، يمكنك الرجوع إلى [ما هو افتراضيات الأمان ؟](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults). 
+تجعل إعدادات الأمان الافتراضية في Azure Active Directory (Azure AD) من السهل أن تكون آمنا وتساعد على حماية مؤسستك. تحتوي إعدادات الأمان الافتراضية على إعدادات أمان تم تكوينها مسبقا للهجمات الشائعة.
+لمزيد من المعلومات حول إعدادات الأمان الافتراضية، راجع [ما هي إعدادات الأمان الافتراضية؟](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults). 
 
-**ملاحظه**: إذا تم إنشاء المستاجر الخاص بك في أو بعد أكتوبر 22nd 2019 ، فمن المحتمل انك تواجه السلوك الافتراضي الجديد الأمن والذي تم تمكينه بالفعل في المستاجر الخاص بك.  في اي جهد لحماية كل المستخدمين ، يتم الآن سحب الإعدادات الافتراضية للامان لكل المستاجرين الجدد التي تم إنشاؤها.
+**ملاحظة:** إذا تم إنشاء المستأجر في 22 أكتوبر 2019 أو بعده، فمن المحتمل أنك تواجه سلوك الأمان الافتراضي الجديد وقد تم تمكين إعدادات الأمان الافتراضية بالفعل في المستأجر.  في محاولة لحماية جميع المستخدمين، يتم طرح إعدادات الأمان الافتراضية لجميع المستأجرين الجدد الذين تم إنشاؤهم.

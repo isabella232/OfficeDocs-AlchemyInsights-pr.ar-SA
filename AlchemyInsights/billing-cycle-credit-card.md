@@ -1,8 +1,8 @@
 ---
-title: بطاقة ائتمان دوره الفوترة
+title: بطاقة الائتمان لدورة الفوترة
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -13,17 +13,17 @@ ms.custom:
 - "485"
 - "1500018"
 ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
-ms.openlocfilehash: ce3cd7b592966399b5e79a8916e631cafcbb49fe
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d7b8246b32ea86ef7261cf01639a226e8662f39c
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47685981"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51820345"
 ---
-# <a name="payment-methods-for-microsoft-for-business"></a>طرق السداد ل Microsoft for business
+# <a name="payment-methods-for-microsoft-for-business"></a>طرق الدفع ل Microsoft للأعمال
 
-عند شراء اشتراك Microsoft 365 for business من Microsoft مباشره ، يمكنك الدفع باستخدام بطاقة ائتمان أو خصم. في بعض البلدان أو المناطق ، يمكنك أيضا الدفع باستخدام حساب مصرفي.
+عند شراء اشتراك Microsoft 365 للأعمال مباشرة من Microsoft، يمكنك الدفع باستخدام بطاقة ائتمان أو بطاقة خصم. في بعض البلدان أو المناطق، يمكنك أيضا الدفع باستخدام حساب بنكي.
   
-إذا اخترت استخدام بطاقة ائتمان كطريقه دفع ، فيمكنك التعرف علي كيفيه الاداره واستكشاف الأخطاء وإصلاحها من [أداره طرق الدفع](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+إذا اخترت استخدام بطاقة ائتمان كطريقة دفع، يمكنك التعرف على كيفية إدارة طرق الدفع وإصلاحها من [إدارة طرق الدفع.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
   
-تتضمن هذه المقالة أيضا اقتراحات استكشاف الأخطاء وإصلاحها عند رفض بطاقة الائتمان الخاصة بك ومعلومات حول تغيير معلومات بطاقة الائتمان بحيث يتم قبول البطاقة.
+تتضمن هذه المقالة أيضا اقتراحات استكشاف الأخطاء وإصلاحها عند رفض بطاقة الائتمان ومعلومات حول تغيير معلومات بطاقة الائتمان بحيث يتم قبول البطاقة.

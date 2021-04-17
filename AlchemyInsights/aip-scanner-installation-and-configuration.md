@@ -1,8 +1,8 @@
 ---
-title: 'الماسح الضوئي ل IP: التثبيت والتكوين'
+title: 'ماسح ضوئي AIP: التثبيت والتكوين'
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,35 +12,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002278"
 - "5119"
-ms.openlocfilehash: be5b63ffccd5bbd83e7802e4ef5aa657ed921ae6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c32f3f10e2e17cf67e73ec8404be293eeefb68a3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47686629"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821650"
 ---
-# <a name="aip-scanner-installation-and-configuration"></a>الماسح الضوئي ل IP: التثبيت والتكوين
+# <a name="aip-scanner-installation-and-configuration"></a>ماسح ضوئي AIP: التثبيت والتكوين
 
-**لتثبيت الماسح الضوئي AIP ، اتبع الإرشادات المستحسنة**:
+**لتثبيت ماسح AIP الضوئي، اتبع الإرشادات الموصى بها:**
 
-1. إذا كنت تقوم بالترقية ولا تجري التثبيت النظيف ، فالرجاء التاكد من اتباع الإرشادات المتعلقة [بترقيه الماسح الضوئي لحماية البيانات في azure](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide#upgrading-the-azure-information-protection-scanner) ولعميل التسمية الموحد ، راجع [ترقيه الماسح الضوئي لحماية البيانات في azure](https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide#upgrading-the-azure-information-protection-scanner).
-2. تاكد من انك تلتزم بكل [متطلبات إعدادات الشبكات الاساسيه وجدران الحماية](https://docs.microsoft.com/azure/information-protection/requirements#firewalls-and-network-infrastructure).
-3. تاكد من تعيين التسمية التلقائية [للنهج الخاصة](https://docs.microsoft.com/azure/information-protection/configure-policy) بك أو الحصول علي تسميات افتراضيه في النهج.
-4. تاكد من تكوين نوع الملف ذي الصلة للتسمية/الحماية كما هو موضح في [أنواع الملفات التي يعتمدها عميل حماية البيانات في Azure](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types#supported-file-types-for-classification-and-protection). بالاضافه إلى ذلك ، إذا كنت تريد تغيير السلوك الافتراضي ، فاتبع الإرشادات التالية: [تغيير مستوي الحماية الافتراضي للملفات](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types#changing-the-default-protection-level-of-files).
-5. تاكد من ان حساب المستخدم الذي تم تكوينه لتشغيل خدمه الماسح الضوئي يملك أذونات للوصول إلى كل المستودعات التي تم تكوينها.
-6. إذا كنت لا تزال تواجه مشاكل ، يرجى تصدير سجلات الماسح الضوئي وأضافها إلى تذكره الدعم.
+1. إذا كنت تقوم بالترقية ولا تقوم بإجراء تثبيت نظيف، فالرجاء التأكد من أنك اتبعت إرشادات ترقية ماسح حماية المعلومات [من Azure](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide#upgrading-the-azure-information-protection-scanner) ولعميل التسمية الموحد، راجع ترقية ماسح حماية المعلومات من [Azure](https://docs.microsoft.com/azure/information-protection/rms-client/clientv2-admin-guide#upgrading-the-azure-information-protection-scanner).
+2. تحقق من امتثالك لجميع متطلبات إعدادات جدران الحماية والبنية الأساسية [للشبكة](https://docs.microsoft.com/azure/information-protection/requirements#firewalls-and-network-infrastructure).
+3. تأكد من [تعيين النهج إلى](https://docs.microsoft.com/azure/information-protection/configure-policy) تسمية تلقائية أو وضع تسمية افتراضية لها في النهج.
+4. تأكد من تكوين نوع الملف ذي الصلة للتسمية/الحماية كما هو موضح في أنواع الملفات المعتمدة [بواسطة عميل Azure Information Protection](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types#supported-file-types-for-classification-and-protection). بالإضافة إلى ذلك، إذا كنت تريد تغيير السلوك الافتراضي، فاتبع الإرشادات التالية: تغيير مستوى الحماية [الافتراضي للملفات](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-file-types#changing-the-default-protection-level-of-files).
+5. تحقق من أن حساب المستخدم الذي تم تكوينه لتشغيل خدمة الماسح الضوئي لديه أذونات للوصول إلى كل المستودعات التي تم تكوينها.
+6. إذا ما زلت تواجه مشاكل، فيرجى تصدير سجلات الماسح الضوئي وإضافتها إلى تذكرة الدعم.
 
-**تصدير سجلات الماسح الخاصة بحماية البيانات في Azure**
+**تصدير سجلات ماسح حماية المعلومات في Azure**
 
-1. انتقل إلى%localappdata%\Microsoft\MSIP تحت سياق المستخدم الذي يقوم بتشغيل خدمه الماسح الضوئي.
-2. الكل المحتويات أسفل المجلد مسيب.
-3. احفظ السجلات في اختيار الموقع ، وقم بإرفاقها بطلب الخدمة.
-4. يمكنك أيضا استخدام [التصدير-أيبلوجس-أونبيهالفوف](https://docs.microsoft.com/powershell/module/azureinformationprotection/export-aiplogs?view=azureipps).
+1. انتقل إلى ٪localappdata٪\Microsoft\MSIP ضمن سياق المستخدم الذي يقوم بتشغيل خدمة الماسح الضوئي.
+2. اضغط على كل المحتويات ضمن مجلد MSIP.
+3. احفظ السجلات إلى اختيارك للموقع، وأرفقها بطلب الخدمة.
+4. يمكنك أيضا استخدام [Export-AIPLogs -OnBehalfOf](https://docs.microsoft.com/powershell/module/azureinformationprotection/export-aiplogs?view=azureipps).
 
-**للحصول علي مزيد من المعلومات ، راجع**:
-- [نشر الماسح الضوئي لحماية البيانات في Azure لتصنيف الملفات وحمايتها تلقائيا](https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner)
-- [تحديد معلمه الرمز المميز لأيباوثينتيكيشن واستخدامها](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-powershell#specify-and-use-the-token-parameter-for-set-aipauthentication)
-- [تشغيل دوره اكتشاف وعرض التقارير الخاصة بالماسح الضوئي](https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner#run-a-discovery-cycle-and-view-reports-for-the-scanner)
-- [مراجعه وثائق حماية البيانات في Azure](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
-- [متطلبات حماية البيانات في Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
-- [تنزيل عميل حماية المعلومات في Azure](https://www.microsoft.com/download/details.aspx?id=53018)
+**لمزيد من المعلومات، راجع:**
+- [نشر ماسح حماية المعلومات من Azure لتصنيف الملفات وحمايتها تلقائيا](https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner)
+- [تحديد المعلمة Token ل Set-AIPAuthentication واستخدامها](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-powershell#specify-and-use-the-token-parameter-for-set-aipauthentication)
+- [تشغيل دورة اكتشاف وعرض التقارير للماسح الضوئي](https://docs.microsoft.com/azure/information-protection/deploy-aip-scanner#run-a-discovery-cycle-and-view-reports-for-the-scanner)
+- [مراجعة وثائق Azure Information Protection](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
+- [متطلبات حماية معلومات Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)
+- [تنزيل عميل Azure Information Protection](https://www.microsoft.com/download/details.aspx?id=53018)
