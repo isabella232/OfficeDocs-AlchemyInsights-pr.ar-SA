@@ -1,8 +1,8 @@
 ---
-title: لماذا لا يمكنني تحرير هذا الملف ؟
+title: لماذا لا يمكنني تحرير هذا الملف؟
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000123"
 - "5634"
-ms.openlocfilehash: 7510871335fbb6fafc7b27423a89e44bcac76ec1
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a6597a0665b165eafe92baca99b0061111f333e6
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664553"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51824134"
 ---
-# <a name="why-cant-i-edit-this-file"></a><span data-ttu-id="a63bb-102">لماذا لا يمكنني تحرير هذا الملف ؟</span><span class="sxs-lookup"><span data-stu-id="a63bb-102">Why can’t I edit this file?</span></span>
+# <a name="why-cant-i-edit-this-file"></a><span data-ttu-id="89b14-102">لماذا لا يمكنني تحرير هذا الملف؟</span><span class="sxs-lookup"><span data-stu-id="89b14-102">Why can’t I edit this file?</span></span>
 
-<span data-ttu-id="a63bb-103">إذا كان المستند أو ورقه العمل أو العرض التقديمي مؤمنا للتحرير ولا يمكن تحريره في تطبيقات سطح المكتب في Windows ، فقد يكون الملف قيد التحرير من قبل شخص آخر أو قام بسحب الملف.</span><span class="sxs-lookup"><span data-stu-id="a63bb-103">If a document, worksheet, or presentation is locked for editing and can’t be edited in the Windows desktop applications, it may be the file is being edited by someone else, or they have the file checked out.</span></span>
+<span data-ttu-id="89b14-103">إذا تم تأمين مستند أو ورقة عمل أو عرض تقديمي للتحرير ولا يمكن تحريره في تطبيقات سطح المكتب التي تعمل بنظام Windows، فقد يكون الملف قيد التحرير من قبل شخص آخر، أو إذا تم سحب الملف.</span><span class="sxs-lookup"><span data-stu-id="89b14-103">If a document, worksheet, or presentation is locked for editing and can’t be edited in the Windows desktop applications, it may be the file is being edited by someone else, or they have the file checked out.</span></span>
 
-<span data-ttu-id="a63bb-104">ألق نظره سريعة علي بعض الأسباب [التي قد يتعذر عليك تحرير الملف](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)فيها.</span><span class="sxs-lookup"><span data-stu-id="a63bb-104">Take a quick look at some of the reasons [why you might not be able to edit the file](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).</span></span>
+<span data-ttu-id="89b14-104">أطلع على بعض الأسباب التي قد تجعلك لا تتمكن من [تحرير الملف.](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)</span><span class="sxs-lookup"><span data-stu-id="89b14-104">Take a quick look at some of the reasons [why you might not be able to edit the file](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b).</span></span>

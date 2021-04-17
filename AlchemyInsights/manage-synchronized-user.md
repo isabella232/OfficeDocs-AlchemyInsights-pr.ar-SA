@@ -1,8 +1,8 @@
 ---
-title: أداره المستخدم المتزامن
+title: إدارة المستخدم المتزامن
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000609"
 - "2444"
-ms.openlocfilehash: 7bf7d3f00308ff6bc973cd52e09ca51c5fd0f45b
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 0dc2ecfa0bb5703c619dc1b2d6b4d517f999da0d
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48451387"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51823954"
 ---
-# <a name="unable-to-set-primary-email-address-change-user-attributes-or-removedelete-a-synchronized-user"></a><span data-ttu-id="afc92-102">تعذر تعيين عنوان البريد الكتروني الأساسي أو تغيير سمات المستخدم أو أزاله/حذف مستخدم متزامن</span><span class="sxs-lookup"><span data-stu-id="afc92-102">Unable to set primary email address, change user attributes, or remove/delete a synchronized user</span></span>
+# <a name="unable-to-set-primary-email-address-change-user-attributes-or-removedelete-a-synchronized-user"></a><span data-ttu-id="2d11d-102">تعذر تعيين عنوان البريد الإلكتروني الأساسي أو تغيير سمات المستخدم أو إزالة/حذف مستخدم متزامن</span><span class="sxs-lookup"><span data-stu-id="2d11d-102">Unable to set primary email address, change user attributes, or remove/delete a synchronized user</span></span>
 
-<span data-ttu-id="afc92-103">إذا تم تمكين مزامنة الدليل لبيئتك ، فلا يمكن تغيير بعض سمات المستخدمين أو الكائنات باستخدام مركز أداره Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="afc92-103">If directory synchronization is enabled for your environment, some user or object attributes cannot be changed using the Microsoft 365 admin center.</span></span>
+<span data-ttu-id="2d11d-103">إذا تم تمكين مزامنة الدليل بيئتك، فلا يمكن تغيير بعض سمات المستخدم أو الكائن باستخدام مركز إدارة Microsoft 365.</span><span class="sxs-lookup"><span data-stu-id="2d11d-103">If directory synchronization is enabled for your environment, some user or object attributes cannot be changed using the Microsoft 365 admin center.</span></span>
 
-<span data-ttu-id="afc92-104">لأداره المستخدمين المتزامنين وكل السمات الخاصة بهم بالبالكامل ، استخدم "وحده التحكم في أداره المستخدمين المحليين" ل active directory (أدسييديت).</span><span class="sxs-lookup"><span data-stu-id="afc92-104">To fully manage synchronized users and all their attributes, use your local active directory users and groups management console (adsiedit.msc).</span></span>  
+<span data-ttu-id="2d11d-104">لإدارة المستخدمين المتزامنين وجميع سماتهم بشكل كامل، استخدم وحدة تحكم إدارة المجموعات ومستخدمي الدليل النشطين المحليين (adsiedit.msc).</span><span class="sxs-lookup"><span data-stu-id="2d11d-104">To fully manage synchronized users and all their attributes, use your local active directory users and groups management console (adsiedit.msc).</span></span>  
 
-<span data-ttu-id="afc92-105">بدلا من ذلك ، يمكنك تغيير المستخدمين الفرديين أو السمات لمستخدمين متزامنين باستخدام powershell كما هو مبين في هذه الامثله الشائعة:</span><span class="sxs-lookup"><span data-stu-id="afc92-105">Alternatively, you can change individual users or attributes for synchronized users using powershell such as shown in these common examples:</span></span>
+<span data-ttu-id="2d11d-105">بدلا من ذلك، يمكنك تغيير المستخدمين الفرديين أو السمات للمستخدمين المتزامنين باستخدام powershell كما هو موضح في الأمثلة الشائعة هذه:</span><span class="sxs-lookup"><span data-stu-id="2d11d-105">Alternatively, you can change individual users or attributes for synchronized users using powershell such as shown in these common examples:</span></span>
 
 `Set-MsolUser -UserPrincipalName user@yourdomain.onmicrosoft.com -AlternateEmailAddresses user2@yourvanitydomain.onmicrosoft.com`
 
