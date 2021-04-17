@@ -1,8 +1,8 @@
 ---
-title: الاجهزه في انتظار حاله التسجيل
+title: الأجهزة في حالة انتظار التسجيل
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000657"
 - "2508"
-ms.openlocfilehash: c5e1cdb4d6e456b6f1af1c0794bd04180205bbf7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 220da7807f178a9dff4a78c61dd3e0cc8004c9c2
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730722"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51815341"
 ---
-# <a name="devices-are-in-awaiting-enrollment-state"></a><span data-ttu-id="3163a-102">الاجهزه في حاله "انتظار التسجيل"</span><span class="sxs-lookup"><span data-stu-id="3163a-102">Devices are in "Awaiting Enrollment" state</span></span>
+# <a name="devices-are-in-awaiting-enrollment-state"></a><span data-ttu-id="17445-102">الأجهزة في حالة "بانتظار التسجيل"</span><span class="sxs-lookup"><span data-stu-id="17445-102">Devices are in "Awaiting Enrollment" state</span></span>
 
-<span data-ttu-id="3163a-103">لا تتضمن تحليلات سطح المكتب بيانات تشخيصيه لهذا الجهاز.</span><span class="sxs-lookup"><span data-stu-id="3163a-103">Desktop Analytics doesn't have diagnostic data for this device.</span></span> 
+<span data-ttu-id="17445-103">لا تتوفر بيانات تشخيصية لهذا الجهاز في تحليلات سطح المكتب.</span><span class="sxs-lookup"><span data-stu-id="17445-103">Desktop Analytics doesn't have diagnostic data for this device.</span></span> 
 
-<span data-ttu-id="3163a-104">قد تحدث هذه المشكلة لأنك قمت مؤخرا باضافه الجهاز إلى المجموعة الهدف ، ولم تقم بعد بإرسال البيانات.</span><span class="sxs-lookup"><span data-stu-id="3163a-104">This issue may occur because you recently added the device to the target collection and it hasn't yet sent data.</span></span> <span data-ttu-id="3163a-105">يمكن ان يعني أيضا ان الجهاز لم يتم الاتصال بالخدمة بشكل صحيح ، وكانت بيانات التشخيص الاخيره أكثر من 28 يوما.</span><span class="sxs-lookup"><span data-stu-id="3163a-105">It can also mean the device isn't properly communicating with the service, and the latest diagnostic data is more than 28 days old.</span></span>
+<span data-ttu-id="17445-104">قد تحدث هذه المشكلة لأنك أضفت الجهاز مؤخرا إلى مجموعة الهدف ولم ترسل بيانات بعد.</span><span class="sxs-lookup"><span data-stu-id="17445-104">This issue may occur because you recently added the device to the target collection and it hasn't yet sent data.</span></span> <span data-ttu-id="17445-105">وقد يعني ذلك أيضا أن الجهاز لا يتواصل بشكل صحيح مع الخدمة، وأن أحدث البيانات التشخيصية أقدم من 28 يوما.</span><span class="sxs-lookup"><span data-stu-id="17445-105">It can also mean the device isn't properly communicating with the service, and the latest diagnostic data is more than 28 days old.</span></span>
 
-<span data-ttu-id="3163a-106">تاكد من انه بإمكان الجهاز التواصل مع الخدمة.</span><span class="sxs-lookup"><span data-stu-id="3163a-106">Make sure the device can communicate with the service.</span></span> <span data-ttu-id="3163a-107">لمزيد من المعلومات ، راجع [نقاط النهاية](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints).</span><span class="sxs-lookup"><span data-stu-id="3163a-107">For more information, see [Endpoints](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints).</span></span>
+<span data-ttu-id="17445-106">تأكد من أن الجهاز يمكنه التواصل مع الخدمة.</span><span class="sxs-lookup"><span data-stu-id="17445-106">Make sure the device can communicate with the service.</span></span> <span data-ttu-id="17445-107">لمزيد من المعلومات، راجع [نقاط النهاية](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints).</span><span class="sxs-lookup"><span data-stu-id="17445-107">For more information, see [Endpoints](https://docs.microsoft.com/configmgr/desktop-analytics/enable-data-sharing#endpoints).</span></span>
 
-<span data-ttu-id="3163a-108">للحصول علي مزيد من المعلومات حول حاله التسجيل في الانتظار ، راجع [مراقبه حماية الاتصال](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment).</span><span class="sxs-lookup"><span data-stu-id="3163a-108">For more information about the awaiting enrollment status, see [Monitor Connection Health](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment).</span></span>
+<span data-ttu-id="17445-108">لمزيد من المعلومات حول حالة التسجيل التي تنتظر، راجع [مراقبة حالة الاتصال](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment).</span><span class="sxs-lookup"><span data-stu-id="17445-108">For more information about the awaiting enrollment status, see [Monitor Connection Health](https://docs.microsoft.com/configmgr/desktop-analytics/monitor-connection-health#awaiting-enrollment).</span></span>

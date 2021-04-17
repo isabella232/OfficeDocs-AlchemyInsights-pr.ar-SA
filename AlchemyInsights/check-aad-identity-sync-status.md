@@ -1,8 +1,8 @@
 ---
-title: التحقق من حاله مزامنة هويه AAD
+title: التحقق من حالة مزامنة هوية AAD
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,22 +14,22 @@ ms.custom:
 - "304"
 - "1300008"
 ms.assetid: e7242604-6a81-44f3-86ac-7f1f5da29ce7
-ms.openlocfilehash: e06eab76adcdb2b99b8aaa738f677950fa1af16b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27847ac62e418869cc5074808e6ccab02671ea05
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47793889"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51817843"
 ---
-# <a name="check-aad-identity-sync-status"></a><span data-ttu-id="ac283-102">التحقق من حاله مزامنة هويه AAD</span><span class="sxs-lookup"><span data-stu-id="ac283-102">Check AAD Identity Sync status</span></span>
+# <a name="check-aad-identity-sync-status"></a><span data-ttu-id="c27ba-102">التحقق من حالة مزامنة هوية AAD</span><span class="sxs-lookup"><span data-stu-id="c27ba-102">Check AAD Identity Sync status</span></span>
 
-<span data-ttu-id="ac283-103">يعتبر التحقق من حاله المزامنة أمرا سهلا:</span><span class="sxs-lookup"><span data-stu-id="ac283-103">Checking sync status is easy:</span></span>
+<span data-ttu-id="c27ba-103">من السهل التحقق من حالة المزامنة:</span><span class="sxs-lookup"><span data-stu-id="c27ba-103">Checking sync status is easy:</span></span>
   
-- <span data-ttu-id="ac283-104">سجل دخولك إلى مركز أداره Microsoft 365 واختر **حاله DirSync** علي الصفحة الرئيسية.</span><span class="sxs-lookup"><span data-stu-id="ac283-104">Sign in to the Microsoft 365 admin center and choose **DirSync Status** on the home page.</span></span>
+- <span data-ttu-id="c27ba-104">سجل الدخول إلى مركز إدارة Microsoft 365 **واختر حالة DirSync** على الصفحة الرئيسية.</span><span class="sxs-lookup"><span data-stu-id="c27ba-104">Sign in to the Microsoft 365 admin center and choose **DirSync Status** on the home page.</span></span>
 
-- <span data-ttu-id="ac283-105">بدلا من ذلك ، يمكنك الانتقال إلى المستخدمين \> النشطين ، وفي صفحه المستخدمون النشطون ، اختر المزيد من \> مزامنة الدليل.</span><span class="sxs-lookup"><span data-stu-id="ac283-105">Alternately, you can go to Users \> Active users, and on the Active users page, choose More \> Directory synchronization.</span></span>
+- <span data-ttu-id="c27ba-105">بدلا من ذلك، يمكنك الانتقال إلى المستخدمون النشطون، وفي صفحة المستخدمون النشطون، \> اختر المزيد \> من مزامنة الدليل.</span><span class="sxs-lookup"><span data-stu-id="c27ba-105">Alternately, you can go to Users \> Active users, and on the Active users page, choose More \> Directory synchronization.</span></span>
 
-- <span data-ttu-id="ac283-106">في جزء مزامنة الدليل ، اختر الانتقال إلى أداره DirSync.</span><span class="sxs-lookup"><span data-stu-id="ac283-106">On the Directory Synchronization pane, choose Go to DirSync management.</span></span>
+- <span data-ttu-id="c27ba-106">في جزء مزامنة الدليل، اختر الانتقال إلى إدارة DirSync.</span><span class="sxs-lookup"><span data-stu-id="c27ba-106">On the Directory Synchronization pane, choose Go to DirSync management.</span></span>
 
-<span data-ttu-id="ac283-107">إذا كانت هناك مشكله في مزامنة الدليل ، سيتم ادراج الأخطاء علي هذه الصفحة.</span><span class="sxs-lookup"><span data-stu-id="ac283-107">If there is a problem with your directory synchronization, the errors are listed on this page.</span></span> <span data-ttu-id="ac283-108">لمزيد من المعلومات حول الأخطاء المختلفة التي قد تواجهها ، راجع [عرض أخطاء مزامنة الدليل](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).</span><span class="sxs-lookup"><span data-stu-id="ac283-108">For more information about different errors you might encounter, see [View directory synchronization errors](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).</span></span>
+<span data-ttu-id="c27ba-107">إذا كانت هناك مشكلة في مزامنة الدليل، يتم سرد الأخطاء في هذه الصفحة.</span><span class="sxs-lookup"><span data-stu-id="c27ba-107">If there is a problem with your directory synchronization, the errors are listed on this page.</span></span> <span data-ttu-id="c27ba-108">لمزيد من المعلومات حول الأخطاء المختلفة التي قد تواجهها، راجع عرض أخطاء [مزامنة الدليل](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).</span><span class="sxs-lookup"><span data-stu-id="c27ba-108">For more information about different errors you might encounter, see [View directory synchronization errors](https://docs.microsoft.com//office365/enterprise/identify-directory-synchronization-errors).</span></span>
   
