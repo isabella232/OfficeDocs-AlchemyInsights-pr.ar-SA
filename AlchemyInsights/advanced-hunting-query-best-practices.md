@@ -1,8 +1,8 @@
 ---
-title: أفضل الممارسات لاستعلام بحث المتقدمة
+title: أفضل ممارسات استعلام البحث المتقدم
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001220"
 - "3498"
-ms.openlocfilehash: 418408223696a9f9141af46ab57542f7a3927340
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8469e712d68a15f51503081c8bb283713173adde
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696644"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51821722"
 ---
-# <a name="advanced-hunting-query-best-practices"></a>أفضل الممارسات لاستعلام بحث المتقدمة
+# <a name="advanced-hunting-query-best-practices"></a>أفضل ممارسات استعلام البحث المتقدم
 
-يرجى مراجعه [أفضل الممارسات المتقدمة لاستعلام بحث](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) للحصول علي توصيات وإرشادات مفصله حول:
+الرجاء الاطلاع على المقالة الكاملة [أفضل ممارسات استعلام](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-best-practices#optimize-query-performance) البحث المتقدم للحصول على توصيات مفصلة وإرشادات حول:
 - تحسين أداء الاستعلام.
-- تلميحات الاستعلامات والمخاطر.
+- تلميحات الاستعلام ومزالقه.
 - الاستعلامات ذات أسطر الأوامر.
 
 

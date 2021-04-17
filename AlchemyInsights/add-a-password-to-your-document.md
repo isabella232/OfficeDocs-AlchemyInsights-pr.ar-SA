@@ -1,8 +1,8 @@
 ---
-title: أضافه كلمه مرور إلى المستند
+title: إضافة كلمة مرور إلى المستند
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001454"
 - "3464"
-ms.openlocfilehash: 439b18c025d4ef8defccece24557493fce4af8cd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 171c1716012240bd79f77148086adfee2d324667
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688501"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51822694"
 ---
-# <a name="add-a-password-to-a-word-document"></a>أضافه كلمه مرور إلى مستند Word
+# <a name="add-a-password-to-a-word-document"></a>إضافة كلمة مرور إلى مستند Word
 
-1. انتقل إلى **File**  >  **معلومات**الملف  >  **حماية**  >  **تشفير المستند باستخدام كلمه مرور**.
-2. ادخل كلمه المرور التي تريد استخدامها ، ثم اختر **موافق**.
-3. أعد إدخال كلمه المرور ، ثم اختر **موافق**.
+1. انتقل إلى **تشفير**  >  **مستند حماية**  >  **معلومات** الملف باستخدام كلمة  >  **المرور**.
+2. أدخل كلمة المرور التي تريد استخدامها، ثم اختر **موافق**.
+3. إعادة إدخال كلمة المرور، ثم اختر **موافق**.
