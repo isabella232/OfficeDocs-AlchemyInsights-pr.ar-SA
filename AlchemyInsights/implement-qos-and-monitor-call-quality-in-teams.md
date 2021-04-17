@@ -1,8 +1,8 @@
 ---
-title: تنفيذ جوده المكالمات ل QoS ومراقبته في الفرق
+title: تنفيذ QoS ومراقبة جودة المكالمة في Teams
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001504"
 - "3561"
-ms.openlocfilehash: 5dd11506607227dae144565dac387c671b2ca6b4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cede0fec9df4e12b5354db349629cf5a04f5f9bf
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667937"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829219"
 ---
-# <a name="implement-qos-and-monitor-call-quality-in-teams"></a><span data-ttu-id="1773c-102">تنفيذ جوده المكالمات ل QoS ومراقبته في الفرق</span><span class="sxs-lookup"><span data-stu-id="1773c-102">Implement QoS and monitor call quality in Teams</span></span>
+# <a name="implement-qos-and-monitor-call-quality-in-teams"></a><span data-ttu-id="09793-102">تنفيذ QoS ومراقبة جودة المكالمة في Teams</span><span class="sxs-lookup"><span data-stu-id="09793-102">Implement QoS and monitor call quality in Teams</span></span>
 
-<span data-ttu-id="1773c-103">يمكن استخدام التحليلات الخاصة بالمكالمات ولوحه معلومات جوده الاتصال للمساعدة علي استكشاف مشاكل جوده المكالمة وإصلاحها في فرق Microsoft.</span><span class="sxs-lookup"><span data-stu-id="1773c-103">Call Analytics and the Call Quality Dashboard can be used to help troubleshoot call quality issues in Microsoft Teams.</span></span> <span data-ttu-id="1773c-104">لمعرفه المزيد حول جوده الخدمة (QoS) ، وتحليل المكالمات ، ولوحه معلومات جوده الاتصال (سوف) ، راجع [تنفيذ جوده المكالمات الخاصة ب QoS ومراقبتها في فرق Microsoft](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos).</span><span class="sxs-lookup"><span data-stu-id="1773c-104">To learn more about Quality of Service (QoS), Call Analytics, and the Call Quality Dashboard (CQD), see [Implement QoS and Monitor Call Quality in Microsoft Teams](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos).</span></span> 
+<span data-ttu-id="09793-103">يمكن استخدام "تحليلات الاتصال" و"لوحة معلومات جودة الاتصال" للمساعدة في استكشاف مشاكل جودة المكالمة وإصلاحها في Microsoft Teams.</span><span class="sxs-lookup"><span data-stu-id="09793-103">Call Analytics and the Call Quality Dashboard can be used to help troubleshoot call quality issues in Microsoft Teams.</span></span> <span data-ttu-id="09793-104">لمعرفة المزيد حول جودة الخدمة (QoS) وتحليلات الاتصال لوحة معلومات جودة الاتصال (CQD)، راجع تنفيذ جودة الاتصال [QoS](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos)ومراقبة جودة المكالمة في Microsoft Teams .</span><span class="sxs-lookup"><span data-stu-id="09793-104">To learn more about Quality of Service (QoS), Call Analytics, and the Call Quality Dashboard (CQD), see [Implement QoS and Monitor Call Quality in Microsoft Teams](https://docs.microsoft.com/microsoftteams/monitor-call-quality-qos).</span></span> 

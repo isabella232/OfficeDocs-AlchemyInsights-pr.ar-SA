@@ -1,8 +1,8 @@
 ---
-title: الاتصال بالوحدة النمطية مسكوميرسي
+title: الاتصال الوحدة النمطية ل MSCommerce
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001212"
 - "3529"
-ms.openlocfilehash: 15dc7038426a8d436c236a91aa0f3462f6a3e366
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8e6819f6d6ff37baab4bdd49cb5a87c32490f841
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47702602"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829723"
 ---
-# <a name="mscommerce-requires-a-company-or-billing-administrator-account"></a><span data-ttu-id="7f815-102">يتطلب مسكوميرسي حساب مسؤول شركه أو الفوترة</span><span class="sxs-lookup"><span data-stu-id="7f815-102">MSCommerce requires a Company or Billing Administrator account</span></span>
+# <a name="mscommerce-requires-a-company-or-billing-administrator-account"></a><span data-ttu-id="285a1-102">تتطلب MSCommerce حساب شركة أو مسؤول فوترة</span><span class="sxs-lookup"><span data-stu-id="285a1-102">MSCommerce requires a Company or Billing Administrator account</span></span>
 
-<span data-ttu-id="7f815-103">تتطلب الوحدة النمطية مسكوميرسي حسابا بامتيازات مسؤول الشركة أو الفوترة.</span><span class="sxs-lookup"><span data-stu-id="7f815-103">The MSCommerce module requires an account with Company or Billing Administrator privileges.</span></span> <span data-ttu-id="7f815-104">إذا تلقيت رسالة الخطا التالية ، ستحتاج إلى أعاده الاتصال بحساب مختلف.</span><span class="sxs-lookup"><span data-stu-id="7f815-104">If you are receiving the following error, you will need to reconnect with a different account.</span></span>
+<span data-ttu-id="285a1-103">تتطلب الوحدة النمطية ل MSCommerce حسابا مع امتيازات الشركة أو مسؤول الفوترة.</span><span class="sxs-lookup"><span data-stu-id="285a1-103">The MSCommerce module requires an account with Company or Billing Administrator privileges.</span></span> <span data-ttu-id="285a1-104">إذا كنت تتلقى الخطأ التالي، ستحتاج إلى إعادة الاتصال باستخدام حساب مختلف.</span><span class="sxs-lookup"><span data-stu-id="285a1-104">If you are receiving the following error, you will need to reconnect with a different account.</span></span>
 
-<span data-ttu-id="7f815-105">*ارورميساجي-ارجع الخادم البعيد خطا: (403) محظور. ارورديتايلس-علي C:\Program Files\WindowsPowerShell\Modules\MSCommerce\1.2\MSCommerce.psm1:216 حرف: 5*</span><span class="sxs-lookup"><span data-stu-id="7f815-105">*ErrorMessage - The remote server returned an error: (403) Forbidden. ErrorDetails - At C:\Program Files\WindowsPowerShell\Modules\MSCommerce\1.2\MSCommerce.psm1:216 char:5*</span></span><br>
-<span data-ttu-id="7f815-106">*+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;هاندليرور-اروركونتيكست $ _-كوستوميررورميساجي "فشل ريتري...*</span><span class="sxs-lookup"><span data-stu-id="7f815-106">*+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HandleError -ErrorContext $_ -CustomErrorMessage "Failed to retri ...*</span></span><br>
-<span data-ttu-id="7f815-107">\+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</span><span class="sxs-lookup"><span data-stu-id="7f815-107">\+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</span></span><br>
-<span data-ttu-id="7f815-108">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ كاتيجوريينفو: نوتسبيسيفيد: (:) [Write-Error], وريتيروريكسسيبتيون*</span><span class="sxs-lookup"><span data-stu-id="7f815-108">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ CategoryInfo          : NotSpecified: (:) [Write-Error], WriteErrorException*</span></span><br>
-<span data-ttu-id="7f815-109">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ فوليقواليفيديروريد: وريتيروريكسسيبتيون ، هاندليرور).*</span><span class="sxs-lookup"><span data-stu-id="7f815-109">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ FullyQualifiedErrorId : Microsoft.PowerShell.Commands.WriteErrorException,HandleError*</span></span>
+<span data-ttu-id="285a1-105">*ErrorMessage - أرجع الخادم البعيد رسالة خطأ: (403) ممنوع. ErrorDetails - في C:\Program Files\WindowsPowerShell\Modules\MSCommerce\1.2\MSCommerce.psm1:216 char:5*</span><span class="sxs-lookup"><span data-stu-id="285a1-105">*ErrorMessage - The remote server returned an error: (403) Forbidden. ErrorDetails - At C:\Program Files\WindowsPowerShell\Modules\MSCommerce\1.2\MSCommerce.psm1:216 char:5*</span></span><br>
+<span data-ttu-id="285a1-106">*+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HandleError -ErrorContext $_ -CustomErrorMessage "فشل إعادة المحاولة ...*</span><span class="sxs-lookup"><span data-stu-id="285a1-106">*+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HandleError -ErrorContext $_ -CustomErrorMessage "Failed to retri ...*</span></span><br>
+<span data-ttu-id="285a1-107">\+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</span><span class="sxs-lookup"><span data-stu-id="285a1-107">\+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</span></span><br>
+<span data-ttu-id="285a1-108">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ CategoryInfo : غير محدد: (:) [كتابة-خطأ]، WriteErrorException*</span><span class="sxs-lookup"><span data-stu-id="285a1-108">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ CategoryInfo          : NotSpecified: (:) [Write-Error], WriteErrorException*</span></span><br>
+<span data-ttu-id="285a1-109">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ FullyQualifiedErrorId : Microsoft.PowerShell.Commands.WriteErrorException,HandleError*</span><span class="sxs-lookup"><span data-stu-id="285a1-109">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*+ FullyQualifiedErrorId : Microsoft.PowerShell.Commands.WriteErrorException,HandleError*</span></span>
 
-<span data-ttu-id="7f815-110">إذا لم يكن حسابك لديك امتيازات الشركة أو مسؤول الفوترة ، فاتصل بمسؤول تكنولوجيا الاتصال لديك.</span><span class="sxs-lookup"><span data-stu-id="7f815-110">If your account does not have Company or Billing Administrator privileges, contact your IT Admin.</span></span>
+<span data-ttu-id="285a1-110">إذا لم يكن حسابك لديه امتيازات الشركة أو مسؤول الفوترة، فاتصل بمسؤول تكنولوجيا المعلومات.</span><span class="sxs-lookup"><span data-stu-id="285a1-110">If your account does not have Company or Billing Administrator privileges, contact your IT Admin.</span></span>

@@ -1,8 +1,8 @@
 ---
-title: إيقاف مشاركه ملفات أو مجلدات OneDrive أو SharePoint
+title: إيقاف مشاركة ملفات أو مجلدات OneDrive أو SharePoint
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000192"
 - "3169"
-ms.openlocfilehash: f9a9e4c958a1b70560724f1628f9ad5f95a79b4e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4f498cc2658a9a78fd802cffe4a947acb57f6af3
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795303"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828103"
 ---
-# <a name="how-to-stop-sharing-onedrive-or-sharepoint-files-or-folders"></a><span data-ttu-id="9b18f-102">كيفيه إيقاف مشاركه ملفات أو مجلدات OneDrive أو SharePoint</span><span class="sxs-lookup"><span data-stu-id="9b18f-102">How to stop sharing OneDrive or SharePoint files or folders</span></span>
+# <a name="how-to-stop-sharing-onedrive-or-sharepoint-files-or-folders"></a><span data-ttu-id="37037-102">كيفية إيقاف مشاركة ملفات أو مجلدات OneDrive أو SharePoint</span><span class="sxs-lookup"><span data-stu-id="37037-102">How to stop sharing OneDrive or SharePoint files or folders</span></span>
 
-<span data-ttu-id="9b18f-103">يمكنك التوقف عن مشاركه عنصر أو معرفه الأشخاص الذين تمت مشاركته معهم ، أو تغيير الأذونات المتوفرة لدي الآخرين اليه ، إذا كنت مالك العنصر.</span><span class="sxs-lookup"><span data-stu-id="9b18f-103">You can stop sharing an item, see who it's shared with, or change the permissions others have to it, if you're the owner of the item.</span></span>
+<span data-ttu-id="37037-103">يمكنك إيقاف مشاركة عنصر، أو معرفة الأشخاص الذين تمت مشاركته معه، أو تغيير الأذونات التي لدى الآخرين له، إذا كنت مالك العنصر.</span><span class="sxs-lookup"><span data-stu-id="37037-103">You can stop sharing an item, see who it's shared with, or change the permissions others have to it, if you're the owner of the item.</span></span>
 
-[<span data-ttu-id="9b18f-104">إيقاف مشاركه ملفات أو مجلدات OneDrive أو SharePoint</span><span class="sxs-lookup"><span data-stu-id="9b18f-104">Stop sharing OneDrive or SharePoint files or folders</span></span>](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)
+[<span data-ttu-id="37037-104">إيقاف مشاركة ملفات أو مجلدات OneDrive أو SharePoint</span><span class="sxs-lookup"><span data-stu-id="37037-104">Stop sharing OneDrive or SharePoint files or folders</span></span>](https://support.office.com/article/stop-sharing-onedrive-or-sharepoint-files-or-folders-or-change-permissions-0a36470f-d7fe-40a0-bd74-0ac6c1e13323)

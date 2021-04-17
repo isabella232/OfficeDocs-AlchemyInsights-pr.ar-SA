@@ -1,8 +1,8 @@
 ---
-title: كيفيه تثبيت Office علي جهاز iPad
+title: كيفية تثبيت Office على جهاز iPad
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: ITPro
 ms.topic: article
@@ -13,15 +13,15 @@ ms.assetid: f4c24caf-cdbc-42ff-a18f-3c5cd37302e3
 ms.custom:
 - "649"
 - "2000016"
-ms.openlocfilehash: 8b1c4d70adec883b8b17ea57c38d3c599677438f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 917c4354ccabe48a1e7a32855dd5bc7e21630a4e
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779938"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829255"
 ---
-# <a name="how-to-install-office-on-an-ipad"></a><span data-ttu-id="5fc4d-102">كيفيه تثبيت Office علي جهاز iPad</span><span class="sxs-lookup"><span data-stu-id="5fc4d-102">How to install Office on an iPad</span></span>
+# <a name="how-to-install-office-on-an-ipad"></a><span data-ttu-id="c24e7-102">كيفية تثبيت Office على جهاز iPad</span><span class="sxs-lookup"><span data-stu-id="c24e7-102">How to install Office on an iPad</span></span>
 
-- <span data-ttu-id="5fc4d-103">اجعل المستخدم يقوم [بالضغط علي ارتباط التنزيل](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) من جهازه المحمول ، ل Word و Excel و PowerPoint و OneNote.</span><span class="sxs-lookup"><span data-stu-id="5fc4d-103">Have the user [tap the download link](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) from their mobile device, for Word, Excel, PowerPoint and OneNote.</span></span>
+- <span data-ttu-id="c24e7-103">قم [بضغط المستخدم على ارتباط التنزيل](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) من جهازه المحمول، ل Word و Excel و PowerPoint و OneNote.</span><span class="sxs-lookup"><span data-stu-id="c24e7-103">Have the user [tap the download link](https://support.office.com/article/9df6d10c-7281-4671-8666-6ca8e339b628?wt.mc_id=Alchemy_ClientDIA) from their mobile device, for Word, Excel, PowerPoint and OneNote.</span></span>
 
-- <span data-ttu-id="5fc4d-104">اجعل المستخدم يقوم ببدء تشغيل التطبيق ، واضغط علي **تسجيل الدخول** وادخل بيانات اعتماد العمل أو المؤسسة التعليمية.</span><span class="sxs-lookup"><span data-stu-id="5fc4d-104">Have the user start the app, tap **Sign in** and enter their work or school credentials.</span></span>
+- <span data-ttu-id="c24e7-104">قم ببدء تشغيل التطبيق من قبل المستخدم، واضغط **على تسجيل الدخول** وأدخل بيانات اعتماد العمل أو المدرسة الخاصة به.</span><span class="sxs-lookup"><span data-stu-id="c24e7-104">Have the user start the app, tap **Sign in** and enter their work or school credentials.</span></span>
