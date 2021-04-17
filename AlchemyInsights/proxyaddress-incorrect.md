@@ -1,8 +1,8 @@
 ---
-title: بروكسيادريس غير صحيح
+title: ProxyAddress غير صحيح
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c4cea778-1b26-4aea-bde8-4b7605e35886
-ms.openlocfilehash: e0552b9d4ba1beeda14f6a46773060aede43e928
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1cb2b9f1980a121c21285e54e52f8403a48e4906
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801495"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828907"
 ---
-# <a name="proxyaddress-incorrect"></a>بروكسيادريس غير صحيح
+# <a name="proxyaddress-incorrect"></a>ProxyAddress غير صحيح
 
-عند مزامنة كائن إلى Azure AD ، تتم مقارنه القيم المحددة في السمة proxyAddresses في Active Directory بقواعد Azure AD ، وبعد ذلك يتم تعبئة السمة proxyAddresses في Azure AD. لذلك ، قد لا تكون قيم السمة proxyAddresses للعنصر في Active directory مماثله لقيم السمة proxyAddresses في Azure AD.
+عند مزامنة كائن إلى Azure AD، يتم مقارنة القيم المحددة في السمة proxyAddresses في Active Directory بقواعد Azure AD، ثم يتم ملء السمة proxyAddresses في Azure AD. لذلك، قد لا تكون قيم السمة proxyAddresses للكائن في Active Directory هي نفس قيم السمة proxyAddresses في Azure AD.
   
-لمعرفه المزيد حول كيفيه تعبئة بروكسيادريس ، راجع [كيفيه تعبئة السمة بروكسيادريس في AZURE AD](https://support.microsoft.com/help/3190357/how-the-proxyaddresses-attribute-is-populated-in-azure-ad).
+لمعرفة المزيد حول كيفية تعبئة proxyaddress، راجع كيفية تعبئة السمة [proxyAddress في Azure AD](https://support.microsoft.com/help/3190357/how-the-proxyaddresses-attribute-is-populated-in-azure-ad).
   
 

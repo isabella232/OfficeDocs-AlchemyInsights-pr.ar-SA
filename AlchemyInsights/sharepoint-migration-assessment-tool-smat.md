@@ -2,7 +2,7 @@
 title: أداه تقييم الترحيل في SharePoint (SMAT)
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "5035"
-ms.openlocfilehash: 6e8ad270af42c78638038e991d35b3c03a43af3d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0c6cc5a2b0500a5e83f70c015e3cd55320c1fa89
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47661943"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828355"
 ---
 # <a name="sharepoint-migration-assessment-tool-smat"></a>أداه تقييم الترحيل في SharePoint (SMAT)
 
-تعد أداه تقييم الترحيل في SharePoint (سمت) ملفا تنفيذيا بسيطا لسطر الأوامر والذي سيقوم بفحص محتويات مزرعة SharePoint الخاصة بك للمساعدة في تحديد تاثير ترحيل الخادم إلى SharePoint Online باستخدام Microsoft 365.
+أداة تقييم ترحيل SharePoint (SMAT) هي خط أوامر بسيط قابل للتنفيذ يقوم بفحص محتويات مزرعة SharePoint للمساعدة في تحديد تأثير ترحيل الخادم إلى SharePoint Online باستخدام Microsoft 365.
 
 [نظرة عامة على أداة تقييم ترحيل SharePoint](https://docs.microsoft.com/sharepointmigration/overview-of-the-sharepoint-migration-assessment-tool)

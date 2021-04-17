@@ -1,8 +1,8 @@
 ---
-title: Office 365 للخطط والأسعار الحكومية
+title: خطط Office 365 للحكومة وأسعارها
 ms.author: cmcatee
 author: cmcatee-MSFT
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,17 +14,17 @@ ms.custom:
 - "477"
 - "1500026"
 ms.assetid: 541063f0-181a-4d1a-895f-ea90ec3b29bb
-ms.openlocfilehash: 6b2c6095521b185c4863d6a7396377834835b320
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 05c047f9ca732dcb99ba57314bb591baa5c64431
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729498"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51829147"
 ---
-# <a name="office-365-government-plans"></a>خطط Office 365 الحكومية
+# <a name="office-365-government-plans"></a>خطط Office 365 Government
 
-تم تصميم خطط الحكومة الامريكيه ل Office 365 لاحتياجات المؤسسات الحكومية الامريكيه. توفر هذه الميزات كل ميزات الخدمات والقدرات الخاصة ب Office 365 في مجتمع مجموعه النظراء الحكومية المقسم والذي يمكن المؤسسات من الوفاء بالتوافق الأمريكي ومقاييس الأمان.
+تم تصميم خطط الحكومة ل Office 365 الأميركية لتلبية الاحتياجات الفريدة لمنظمات الحكومة الأمريكية. فهي توفر جميع ميزات خدمات Office 365 وإمكاناتها في مجتمع سحابة حكومية مجزاة يمكن المؤسسات من تلبية معايير التوافق والأمان في الولايات المتحدة.
   
-- [مراجعه الخطط الحكومية](https://products.office.com/government/compare-office-365-government-plans)
+- [مراجعة خطط الحكومة](https://products.office.com/government/compare-office-365-government-plans)
 
-- [مقارنه كل اشتراكات Microsoft 365](https://products.office.com/business/compare-more-office-365-for-business-plans)
+- [مقارنة كل اشتراكات Microsoft 365](https://products.office.com/business/compare-more-office-365-for-business-plans)

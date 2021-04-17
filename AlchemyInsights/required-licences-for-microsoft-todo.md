@@ -2,7 +2,7 @@
 title: التراخيص المطلوبة ل Microsoft ToDo
 ms.author: pebaum
 author: pebaum
-manager: mnirkhe
+manager: scotv
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -14,50 +14,50 @@ ms.custom:
 - "164"
 - "1600027"
 ms.assetid: b2cf6d0a-9f01-49d8-8653-6a3366f6119d
-ms.openlocfilehash: 490f1b2284c99d5f6b90b1cd3ac9ad526bda97d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 981e2a639e886cffc453e1a1accff7f8a71a0959
+ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692282"
+ms.lasthandoff: 04/15/2021
+ms.locfileid: "51828751"
 ---
 # <a name="required-licenses-for-microsoft-todo"></a>التراخيص المطلوبة ل Microsoft ToDo
 
 [التراخيص المطلوبة ل Microsoft ToDo](https://support.office.com/article/381e9d1b-c500-49b5-973e-890fd86528d7.aspx)
   
-يجب ان يتوفر للمستخدم أحد التراخيص التالية لاستخدام Microsoft ToDo:
+يجب أن يكون لدى المستخدم أحد التراخيص التالية لاستخدام Microsoft ToDo:
   
-- أساسيات الاعمال
+- Business Essentials
 
 - Business Premium
 
-- Microsoft 365 فيرستليني F1
+- Microsoft 365 Firstline F1
 
-- اي خطه Office 365 Enterprise
+- أي خطة Office 365 Enterprise
 
-- شركه إنتاجيه أمنه
+- Secure Productive Business
 
-- الE3 الأمن علي مستوي المؤسسة
+- Secure Productive Enterprise E3
 
-- الE5 الأمن علي مستوي المؤسسة
+- Secure Productive Enterprise E5
 
-- اي خطه تعليمية في Office 365
+- أي خطة Office 365 Education
 
 - Microsoft 365 A3
 
 - Microsoft 365 A5
 
-بالاضافه إلى ترخيص منتج صالح ، يجب توفر أحد الإصدارات التالية من Exchange Online لكي تتمكن ToDo من مزامنة بيانات المستخدم:
+بالإضافة إلى ترخيص منتج صالح، هناك حاجة إلى أحد الإصدارات التالية من Exchange Online لكي يتمكن ToDo من مزامنة بيانات المستخدم:
   
-- Exchange Online الخطة 1
+- الخطة 1 من Exchange Online
 
-- Exchange Online الخطة 2
+- الخطة 2 من Exchange Online
 
-- أساسيات Exchange
+- Exchange Essentials
 
-- مراقبه العمل عبر الإنترنت في Exchange Online
+- Exchange Online Kiosk
 
-- القائمة المنبثقة ل Exchange Online
+- Exchange Online POP
 
-[تعيين تراخيص لحسابات المستخدمين باستخدام Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
+[تعيين تراخيص إلى حسابات المستخدمين باستخدام Office 365 PowerShell](https://docs.microsoft.com/office365/enterprise/powershell/assign-licenses-to-user-accounts-with-office-365-powershell )
   
