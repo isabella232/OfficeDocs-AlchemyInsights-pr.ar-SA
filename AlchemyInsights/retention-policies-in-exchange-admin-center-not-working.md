@@ -1,5 +1,5 @@
 ---
-title: نهج الاستبقاء في مركز أداره Exchange لا تعمل
+title: لا تعمل سياسات الاستبقاء في مركز إدارة Exchange
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,55 +13,35 @@ ms.custom:
 - "308"
 - "3100007"
 ms.assetid: a48fd5fd-4af7-4d5f-b617-b0f9334ccaa7
-ms.openlocfilehash: 1fee2361b2dd6e0989d430a17aebb13bd5948578
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb2ce7ce2405be575dfdb79d304fef690e863a4e
+ms.sourcegitcommit: e9206b7bb1bf2efd2471edbf4c60c00c3607bc41
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740497"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "51952215"
 ---
-# <a name="retention-policies-in-exchange-admin-center"></a>نهج الاستبقاء في مركز أداره Exchange
+# <a name="retention-policies-in-exchange-admin-center"></a>سياسات الاستبقاء في مركز إدارة Exchange
 
-إذا كنت تريد ان نقوم بتشغيل التدقيق التلقائي للإعدادات المذكورة أدناه ، فحدد الزر السابق <--في اعلي هذه الصفحة ، ثم ادخل عنوان البريد الكتروني الخاص بالمستخدم الذي لديه مشاكل في نهج الاستبقاء.
+إذا كنت تريد منا تشغيل عمليات التحقق التلقائية من الإعدادات المذكورة أدناه، فحدد زر الخلف <-- في أعلى هذه الصفحة، ثم أدخل عنوان البريد الإلكتروني للمستخدم الذي يواجه مشاكل في سياسات الاستبقاء.
 
- **المشكلة:** لا يتم تطبيق نهج الاستبقاء التي تم إنشاؤها أو تحديثها حديثا في "مركز أداره Exchange" علي علب البريد أو العناصر التي لا يتم نقلها إلى علبه بريد الأرشيف أو حذفها. 
-  
- **الأسباب الاساسيه:**
-  
-- قد يعود سبب ذلك إلى عدم قيام **مساعد المجلد المدار** بمعالجه علبه بريد المستخدم. يحاول مساعد المجلد المدار معالجه كل علبه بريد في المؤسسة المستندة إلى السحابة مره واحده كل سبعه أيام. إذا قمت بتغيير علامة استبقاء أو تطبيق نهج استبقاء مختلف علي علبه بريد ، فيمكنك الانتظار حتى يقوم المجلد المدار بمعالجه علبه البريد ، أو يمكنك تشغيل الأمر ماناجيدفولديراسيستانت cmdlet لبدء تشغيل "مساعد المجلد المدار" لمعالجه علبه بريد معينه. يعتبر تشغيل أمر cmdlet هذا مفيدا لاختبار إعدادات نهج الاستبقاء أو علامة الاستبقاء أو استكشاف الأخطاء فيها. لمزيد من المعلومات ، قم بزيارة [تشغيل مساعد المجلد المدار](https://msdn.microsoft.com/library/gg271153%28v=exchsrvcs.149%29.aspx#managedfolderassist).
-    
-  - **الحل:** قم بتشغيل الأمر التالي لبدء تشغيل مساعد المجلد المدار لعلبه بريد معينه:
-    
-  ```
-  Start-ManagedFolderAssistant -Identity <name of the mailbox>
-  ```
+إذا كنت تواجه مشاكل مع سياسات الاستبقاء في مركز إدارة Exchange التي لا تنطبق على علب البريد أو العناصر التي لا تنتقل إلى علبة بريد الأرشيف، فتحقق مما يلي:
 
-- قد يحدث هذا أيضا إذا تم **تمكين** **ريتينتيونهولد** علي علبه البريد. إذا تم وضع علبه البريد علي ريتينتيونهولد ، فلن تتم معالجه نهج الاستبقاء علي علبه البريد خلال هذا الوقت. للحصول علي مزيد من الإينفورماتون علي اعداد ريتينتيونهولد ، راجع: [احتجاز استبقاء علبه البريد](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
-    
-    **Solution**
-    
-  - تحقق من حاله اعداد ريتينتيونهولد علي علبه البريد المحددة في [أكسو powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell?view=exchange-ps):
-    
-  ```
-  Get-Mailbox -Identity <name of the mailbox> |fl *retentionHold*
-  ```
+**الأسباب الجذرية:**
 
-  - قم بتشغيل الأمر التالي **لتعطيل** ريتينتيونهولد علي علبه بريد معينه:
-    
-  ```
-  Set-Mailbox -RetentionHoldEnabled $false
-  ```
+- **لم يعالج "مساعد** المجلد المدار" علبة بريد المستخدم. يحاول مساعد المجلد المدار معالجة كل علبة بريد في مؤسستك المستندة إلى السحابة مرة واحدة كل سبعة أيام.
 
-  - الآن ، أعد تشغيل مساعد المجلدات المدارة:
-    
-  ```
-  Start-ManagedFolderAssistant -Identity <name of the mailbox>
-  ```
+  **الحل:** تشغيل مساعد المجلد المدار.
 
- **ملاحظه:** إذا كانت علبه البريد أصغر من 10 ميغابايت ، فلن يعالج مساعد المجلد المدار علبه البريد تلقائيا.
+- **تم تمكين RetentionHold** **على** علبة البريد. إذا تم وضع علبة البريد على RetentionHold، لن تتم معالجة نهج الاستبقاء على علبة البريد خلال هذه الفترة.
+
+  **الحل:** تحقق من حالة إعداد "احتجاز الاستبقاء" والتحديث حسب الحاجة. للحصول على التفاصيل، راجع [الاستمرار في استبقاء علبة البريد](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/mailbox-retention-hold).
  
-للحصول علي مزيد من المعلومات حول نهج الاستبقاء في مركز أداره Exchange ، راجع:
+**ملاحظة:** إذا كانت علبة البريد أصغر من 10 مبايت، فإن مساعد المجلد المدار لن يقوم تلقائيا لمعالجة علبة البريد.
+ 
+لمزيد من المعلومات حول سياسات الاستبقاء في مركز إدارة Exchange، راجع:
+
 - [علامات الاستبقاء ونهج الاستبقاء](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/retention-tags-and-policies)
-- [تطبيق نهج استبقاء علي علب البريد](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy)
-- [أضافه علامات الاستبقاء أو ازالتها](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
-- [كيفيه تحديد نوع التعليق الموضوع علي علبه بريد](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)
+
+- [تطبيق نهج استبقاء على علب](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/apply-retention-policy) البريد أو [إضافة علامات استبقاء أو إزالتها](https://docs.microsoft.com/exchange/security-and-compliance/messaging-records-management/add-or-remove-retention-tags)
+
+- [كيفية تحديد نوع الانتظار الموضوع على علبة بريد](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)
