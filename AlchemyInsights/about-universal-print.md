@@ -12,17 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005502"
 - "9434"
-ms.openlocfilehash: cd72d9e3b783d4a2e17fe5ac971e785824bc1798
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: 90ecb6f7656e5f4f0a8c3da3692f0892f4829d10
+ms.sourcegitcommit: c9021d873950e378c927e39e179b5da4ff17b880
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51404167"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "52079968"
 ---
 # <a name="about-universal-print"></a>حول الطباعة العالمية
 
 يتم تضمين Universal Print مع اشتراكات Microsoft 365 و Windows 10 التجارية والتعليمية، ولكن يمكن أيضا شراؤها باشتراك مستقل.
 
-تعرف على كيفية إعداد الطابعات، منح المستخدمين حق الوصول، وإكمال مهمة الطباعة الأولى في صفحة "التكهيف إلى الطباعة الشاملة".
-
 للحصول على مزيد من المعلومات، راجع [ترخيص الطباعة العالمية | Microsoft Docs](https://docs.microsoft.com/universal-print/fundamentals/universal-print-license).
+
+**للحصول على الدعم التقني الشامل للطباعة**
+
+يمكن لمشتركي Azure إنشاء طلبات دعم للطباعة الشاملة وإدارتها في مدخل Azure. يتوفر الدعم لمشتركي Azure مع خطة دعم Azure المقترنة باشتراكهم.  [سجل دخولك إلى مدخل Azure](https://ms.portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/newsupportrequest) لإرسال حادث.
