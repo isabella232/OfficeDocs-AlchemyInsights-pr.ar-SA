@@ -1,5 +1,5 @@
 ---
-title: حول تحديثات أمان Exchange Server
+title: حول Exchange Server التحديثات
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -15,21 +15,19 @@ ms.custom:
 - "9005483"
 - "9413"
 - "9412"
-ms.openlocfilehash: 6e902151fe06227c74413a4fd98e3211343e510b
-ms.sourcegitcommit: be246651064dfeacc866b2f69c0dbe4002a73f1c
+ms.openlocfilehash: 9f012d0f500eeec4e5a7f1152b9a3ba3bebe1b57
+ms.sourcegitcommit: 6c6b0c3885f33b08db929fe0b6496508d31fa2d6
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50726514"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "52233449"
 ---
-# <a name="about-exchange-server-security-updates"></a><span data-ttu-id="3f2ff-102">حول تحديثات أمان Exchange Server</span><span class="sxs-lookup"><span data-stu-id="3f2ff-102">About Exchange Server Security updates</span></span>
+# <a name="about-exchange-server-updates"></a><span data-ttu-id="6113b-102">حول Exchange Server التحديثات</span><span class="sxs-lookup"><span data-stu-id="6113b-102">About Exchange Server updates</span></span>
 
-<span data-ttu-id="3f2ff-103">أصدرت Microsoft سلسلة من تحديثات الأمان الهامة ل Exchange Server في الموقع الداخلي.</span><span class="sxs-lookup"><span data-stu-id="3f2ff-103">Microsoft has released a series of critical security updates for Exchange Server on-premises.</span></span> <span data-ttu-id="3f2ff-104">إصدارات الخادم المتأثرة هي أي مستويات تحديث ل Exchange Server 2010 و2013 و2016 و2019.</span><span class="sxs-lookup"><span data-stu-id="3f2ff-104">The affected server versions are any update levels of Exchange Server 2010, 2013, 2016 and 2019.</span></span> <span data-ttu-id="3f2ff-105">لا يؤثر Exchange Online، ولكن إذا كان لديك بعض خوادم Exchange في الموقع بسبب التكوين المختلط، فمن المحتمل أن تكون عرضة للتأثر.</span><span class="sxs-lookup"><span data-stu-id="3f2ff-105">Exchange Online is NOT impacted, but if you have some on-premises Exchange servers due to Hybrid configuration, they are potentially vulnerable.</span></span>
+<span data-ttu-id="6113b-103">تصدر Microsoft عادة Exchange Server التحديثات في تحديث الثلاثاء (تحديثات الأمان) أو كل ربع سنة (التحديثات التراكمية).</span><span class="sxs-lookup"><span data-stu-id="6113b-103">Microsoft usually releases Exchange Server updates on Update Tuesday (Security Updates) or quarterly (Cumulative Updates).</span></span> <span data-ttu-id="6113b-104">لمشاهدة الإعلانات الخاصة بأحدث التحديثات التي تم إصدارها، راجع Exchange [Team Blog](https://aka.ms/ehlo).</span><span class="sxs-lookup"><span data-stu-id="6113b-104">To see the announcements of latest released updates released, see the [Exchange Team Blog](https://aka.ms/ehlo).</span></span>
 
-<span data-ttu-id="3f2ff-106">الرجاء الاطلاع على الإعلان التالي لتحديد موقع الإصلاحات: تم إصداره: تحديثات أمان [Exchange Server في مارس 2021](https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901)</span><span class="sxs-lookup"><span data-stu-id="3f2ff-106">Please see the following announcement for location of fixes: [Released: March 2021 Exchange Server Security Updates](https://techcommunity.microsoft.com/t5/exchange-team-blog/released-march-2021-exchange-server-security-updates/ba-p/2175901)</span></span>
+- <span data-ttu-id="6113b-105">لجرد خوادم Exchange، استخدم البرنامج النصي Exchange Server مدقق الصحة، [(GitHub، استخدم أحدث إصدار)](https://aka.ms/ExchangeHealthChecker).</span><span class="sxs-lookup"><span data-stu-id="6113b-105">To inventory your Exchange Servers, use the [Exchange Server Health Checker script, (GitHub, use the latest release)](https://aka.ms/ExchangeHealthChecker).</span></span> <span data-ttu-id="6113b-106">يوضح لك تشغيل هذا البرنامج النصي ما إذا كانت Exchange خوادمك متخلفة عن التحديثات (CUs وSUs).</span><span class="sxs-lookup"><span data-stu-id="6113b-106">Running this script tells you if any of your Exchange Servers are behind on updates (CUs and SUs).</span></span>
 
-<span data-ttu-id="3f2ff-107">**ملاحظات مهمة:**</span><span class="sxs-lookup"><span data-stu-id="3f2ff-107">**Important notes:**</span></span>
+- <span data-ttu-id="6113b-107">للتحديث إلى آخر تحديث تراكمي، انتقل إلى Exchange [التحديث](https://aka.ms/ExchangeUpdateWizard) واختر وحدة CU التي تعمل حاليا وCU الهدف.</span><span class="sxs-lookup"><span data-stu-id="6113b-107">To update to the latest Cumulative Update, go to [Exchange Update Wizard](https://aka.ms/ExchangeUpdateWizard) and choose your currently running CU and your target CU.</span></span> <span data-ttu-id="6113b-108">حدد **أخبرني بخطوات** الحصول على التوجيهات لبيئة.</span><span class="sxs-lookup"><span data-stu-id="6113b-108">Select **Tell me the steps** to get directions for your environment.</span></span>
 
-<span data-ttu-id="3f2ff-108">إذا تم تثبيت التحديثات يدويا، فالرجاء قراءة القسم "المشاكل المعروفة" في مقالات تحديث KB للحصول على معلومات مهمة.</span><span class="sxs-lookup"><span data-stu-id="3f2ff-108">If installing updates manually, please read the "Known issues" section of update KB articles for important information.</span></span> <span data-ttu-id="3f2ff-109">يجب تشغيل تحديثات الأمان من مطالبة CMD/PowerShell مرتفعة!</span><span class="sxs-lookup"><span data-stu-id="3f2ff-109">Security updates MUST be run from elevated CMD/PowerShell prompt!</span></span>
-
-<span data-ttu-id="3f2ff-110">يمكنك العثور على معلومات حول استكشاف الأخطاء وإصلاحها [من هنا.](https://aka.ms/exupdatefaq)</span><span class="sxs-lookup"><span data-stu-id="3f2ff-110">Update troubleshooting information can be [found here](https://aka.ms/exupdatefaq).</span></span>
+- <span data-ttu-id="6113b-109">إذا واجهت أخطاء أثناء تثبيت تحديثات Exchange Server أو بعدها، ف راجع فشل عمليات تثبيت Exchange التحديثات التراكمية [وتحديثات الأمان](https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/exchange-security-update-issues).</span><span class="sxs-lookup"><span data-stu-id="6113b-109">If you encounter errors during or after installation of Exchange Server updates, see [Repair failed installations of Exchange Cumulative and Security updates](https://docs.microsoft.com/exchange/troubleshoot/client-connectivity/exchange-security-update-issues).</span></span>
