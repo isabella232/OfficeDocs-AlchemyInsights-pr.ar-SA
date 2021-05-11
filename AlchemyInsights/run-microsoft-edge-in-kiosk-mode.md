@@ -11,22 +11,24 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
 - "9003853"
+- "9006495"
 - "6903"
-ms.openlocfilehash: 3f4a4384e3e047e0d0ad0ea1fe225f3744dc41b1
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+- "11118"
+ms.openlocfilehash: 8ca6ab697418371815f821a4e5668c7df07661e0
+ms.sourcegitcommit: 43d33c2bfdf5bab78bc13e7821771ffe7a787336
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708517"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "52312391"
 ---
 # <a name="run-microsoft-edge-in-kiosk-mode"></a>تشغيل Microsoft Edge في وضع kiosk
 
-يمكنك تكوين وضع kiosk في إصدارات Microsoft Edge 77 والإصدارات الأحدث، وكذلك في الإصدارات 45 والإصدارات السابقة من Microsoft Edge Legacy.
+يمكنك تكوين وضع kiosk في Microsoft Edge الإصدارات 87 والإصدارات الأحدث، وكذلك في الإصدار القديم من Microsoft Edge الإصدار 45 والإصدارات السابقة. لمزيد من المعلومات، [راجع تكوين Microsoft Edge kiosk](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode).
 
-يمكنك تكوين الأجهزة التي يتم تشغيلها على Windows 10 للتشغيل في وضع [kiosk](https://go.microsoft.com/fwlink/?linkid=2133659)لتطبيق واحد أو تطبيق متعدد التطبيقات.
+يمكنك تكوين الأجهزة التي يتم تشغيلها على Windows 10 لتشغيلها في [وضع kiosk](https://go.microsoft.com/fwlink/?linkid=2133659)لتطبيق واحد أو تطبيق متعدد التطبيقات.
 
-لمزيد من المعلومات حول إعداد وضع kiosk في الإصدار الأخير من قناة Microsoft Edge مستقرة وفي Microsoft Edge Legacy، راجع:
+لمزيد من المعلومات حول إعداد وضع kiosk في الإصدار الأخير من Microsoft Edge مستقرة وفي الإصدار القديم من Microsoft Edge، راجع:
 
-- [Microsoft Edge مع إمكانية وصول معينة](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode#microsoft-edge-with-assigned-access)
-- [معلمة سطر الأوامر "--kiosk" في Microsoft Edge](https://answers.microsoft.com/microsoftedge/forum/msedge_open-msedge_win10/access-microsoft-edge-using-command-line/03a4add6-9ca4-4fbb-a183-aaa763a0ab76)
-- [دعم وضع microsoft Edge Legacy kiosk](https://blogs.windows.com/msedgedev/2021/02/05/what-you-need-to-know-about-kiosk-mode-when-support-for-microsoft-edge-legacy-ends/)
+- [Microsoft Edge الوصول المعين](https://docs.microsoft.com/deployedge/microsoft-edge-configure-kiosk-mode#microsoft-edge-with-assigned-access)
+- [Microsoft Edge معلمة سطر الأوامر "--kiosk"](https://answers.microsoft.com/microsoftedge/forum/msedge_open-msedge_win10/access-microsoft-edge-using-command-line/03a4add6-9ca4-4fbb-a183-aaa763a0ab76)
+- [دعم الإصدار القديم من Microsoft Edge kiosk](https://blogs.windows.com/msedgedev/2021/02/05/what-you-need-to-know-about-kiosk-mode-when-support-for-microsoft-edge-legacy-ends/)
