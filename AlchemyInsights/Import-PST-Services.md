@@ -1,5 +1,5 @@
 ---
-title: 1245-الاستيراد-PST-الخدمات
+title: 1245-Import-PST-Services
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,27 +14,27 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: a4c7ed707853cd4d99db4b5a3d630df343a1ffe0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 107099899e881097a752d0376a4d76d51ea62463
+ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664049"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "52470226"
 ---
-# <a name="microsoft-365-import-service"></a><span data-ttu-id="67ede-102">خدمه استيراد Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="67ede-102">Microsoft 365 Import service</span></span>
+# <a name="microsoft-365-import-service"></a><span data-ttu-id="930a0-102">Microsoft 365 استيراد الخدمة</span><span class="sxs-lookup"><span data-stu-id="930a0-102">Microsoft 365 Import service</span></span>
 
-<span data-ttu-id="67ede-103">تسمح لك خدمه الاستيراد من Microsoft 365 باستيراد ملفات PST متعددة إلى علب بريد Exchange Online.</span><span class="sxs-lookup"><span data-stu-id="67ede-103">The Microsoft 365 Import service lets you to bulk-import multiple PST files to Exchange Online mailboxes.</span></span>
+<span data-ttu-id="930a0-103">تسمح Microsoft 365 استيراد الملفات باستيراد ملفات PST متعددة مجمعة Exchange Online علب البريد.</span><span class="sxs-lookup"><span data-stu-id="930a0-103">The Microsoft 365 Import service lets you to bulk-import multiple PST files to Exchange Online mailboxes.</span></span>
 
-<span data-ttu-id="67ede-104">للوصول إلى خدمه الاستيراد وبدء عمليه الاستيراد:</span><span class="sxs-lookup"><span data-stu-id="67ede-104">To access the Import service and start the import process:</span></span>
+<span data-ttu-id="930a0-104">للوصول إلى خدمة الاستيراد وبدء عملية الاستيراد:</span><span class="sxs-lookup"><span data-stu-id="930a0-104">To access the Import service and start the import process:</span></span>
 
-1. <span data-ttu-id="67ede-105">انتقل إلى [مركز توافق & الأمان](https://protection.office.com) وسجل الدخول باستخدام بيانات اعتماد حساب المسؤول في مؤسستك.</span><span class="sxs-lookup"><span data-stu-id="67ede-105">Go to the [Security & Compliance Center](https://protection.office.com) and sign in using the credentials for an administrator account in your organization.</span></span>
+1. <span data-ttu-id="930a0-105">انتقل إلى [مركز & الأمان،](https://protection.office.com) ثم سجل الدخول باستخدام بيانات الاعتماد لحساب مسؤول في مؤسستك.</span><span class="sxs-lookup"><span data-stu-id="930a0-105">Go to the [Security & Compliance Center](https://protection.office.com) and sign in using the credentials for an administrator account in your organization.</span></span>
 
-2. <span data-ttu-id="67ede-106">في الجزء الأيمن من **مركز توافق & الأمان**، انقر فوق " **أداره البيانات" > استيراد**.</span><span class="sxs-lookup"><span data-stu-id="67ede-106">In the left pane of the **Security & Compliance Center**, click **Data governance > Import**.</span></span>
+2. <span data-ttu-id="930a0-106">في الجزء الأيسر من مركز التوافق **&،** انقر فوق **إدارة المعلومات**> استيراد .</span><span class="sxs-lookup"><span data-stu-id="930a0-106">In the left pane of the **Security & Compliance Center**, click **Information governance > Import**.</span></span>
 
-3. <span data-ttu-id="67ede-107">في صفحه **الاستيراد** ، انقر فوق **مهمة استيراد جديده**.</span><span class="sxs-lookup"><span data-stu-id="67ede-107">On the **Import** page, click **New import job**.</span></span>
+3. <span data-ttu-id="930a0-107">على الصفحة **استيراد،** انقر فوق **مهمة استيراد جديدة**.</span><span class="sxs-lookup"><span data-stu-id="930a0-107">On the **Import** page, click **New import job**.</span></span>
 
-4. <span data-ttu-id="67ede-108">لإكمال الخطوات المذكورة في المعالج ، يرجى اتباع هذه [الإرشادات المفصلة خطوه بخطوه](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email).</span><span class="sxs-lookup"><span data-stu-id="67ede-108">To complete the steps in the wizard, please follow these [step-by-step instructions](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email).</span></span>
+4. <span data-ttu-id="930a0-108">لإكمال الخطوات الواردة في المعالج، اتبع هذه الإرشادات خطوة [بخطوة](/microsoft-365/compliance/use-network-upload-to-import-pst-files.md).</span><span class="sxs-lookup"><span data-stu-id="930a0-108">To complete the steps in the wizard, follow these [step-by-step instructions](/microsoft-365/compliance/use-network-upload-to-import-pst-files.md).</span></span>
 
-<span data-ttu-id="67ede-109">**هام**: للوصول إلى صفحه **الاستيراد** في مركز توافق & الأمان ، سيتم تعيين  [الأذونات المناسبة](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email)لك.</span><span class="sxs-lookup"><span data-stu-id="67ede-109">**Important**: To access the **Import** page in the Security & Compliance Center, you have be assigned  [the appropriate permissions](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email).</span></span>
+<span data-ttu-id="930a0-109">**هام:** للوصول  إلى صفحة الاستيراد في مركز & الأمان، تم تعيين الأذونات [المناسبة لك.](/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email.md)</span><span class="sxs-lookup"><span data-stu-id="930a0-109">**Important**: To access the **Import** page in the Security & Compliance Center, you have be assigned  [the appropriate permissions](/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email.md).</span></span>
 
-<span data-ttu-id="67ede-110">إذا كنت تريد فقط استيراد PST إلى علبه البريد ، فراجع [هذه المقالة](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).</span><span class="sxs-lookup"><span data-stu-id="67ede-110">If you just want to import a PST to your mailbox, see [this article](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).</span></span>
+<span data-ttu-id="930a0-110">إذا كنت تريد فقط استيراد PST إلى علبة البريد، فشاهد [هذه المقالة](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).</span><span class="sxs-lookup"><span data-stu-id="930a0-110">If you just want to import a PST to your mailbox, see [this article](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).</span></span>
