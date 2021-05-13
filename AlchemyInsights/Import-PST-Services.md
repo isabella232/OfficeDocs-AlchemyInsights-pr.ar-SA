@@ -1,5 +1,5 @@
 ---
-title: 1245-الاستيراد-PST-الخدمات
+title: 1245-Import-PST-Services
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,27 +14,27 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: a4c7ed707853cd4d99db4b5a3d630df343a1ffe0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 107099899e881097a752d0376a4d76d51ea62463
+ms.sourcegitcommit: 67dbb2f157f6e83f41d9480071c1d35ac5565509
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664049"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "52470226"
 ---
-# <a name="microsoft-365-import-service"></a>خدمه استيراد Microsoft 365
+# <a name="microsoft-365-import-service"></a>Microsoft 365 استيراد الخدمة
 
-تسمح لك خدمه الاستيراد من Microsoft 365 باستيراد ملفات PST متعددة إلى علب بريد Exchange Online.
+تسمح Microsoft 365 استيراد الملفات باستيراد ملفات PST متعددة مجمعة Exchange Online علب البريد.
 
-للوصول إلى خدمه الاستيراد وبدء عمليه الاستيراد:
+للوصول إلى خدمة الاستيراد وبدء عملية الاستيراد:
 
-1. انتقل إلى [مركز توافق & الأمان](https://protection.office.com) وسجل الدخول باستخدام بيانات اعتماد حساب المسؤول في مؤسستك.
+1. انتقل إلى [مركز & الأمان،](https://protection.office.com) ثم سجل الدخول باستخدام بيانات الاعتماد لحساب مسؤول في مؤسستك.
 
-2. في الجزء الأيمن من **مركز توافق & الأمان**، انقر فوق " **أداره البيانات" > استيراد**.
+2. في الجزء الأيسر من مركز التوافق **&،** انقر فوق **إدارة المعلومات**> استيراد .
 
-3. في صفحه **الاستيراد** ، انقر فوق **مهمة استيراد جديده**.
+3. على الصفحة **استيراد،** انقر فوق **مهمة استيراد جديدة**.
 
-4. لإكمال الخطوات المذكورة في المعالج ، يرجى اتباع هذه [الإرشادات المفصلة خطوه بخطوه](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email).
+4. لإكمال الخطوات الواردة في المعالج، اتبع هذه الإرشادات خطوة [بخطوة](/microsoft-365/compliance/use-network-upload-to-import-pst-files.md).
 
-**هام**: للوصول إلى صفحه **الاستيراد** في مركز توافق & الأمان ، سيتم تعيين  [الأذونات المناسبة](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email)لك.
+**هام:** للوصول  إلى صفحة الاستيراد في مركز & الأمان، تم تعيين الأذونات [المناسبة لك.](/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email.md)
 
-إذا كنت تريد فقط استيراد PST إلى علبه البريد ، فراجع [هذه المقالة](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).
+إذا كنت تريد فقط استيراد PST إلى علبة البريد، فشاهد [هذه المقالة](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac).
