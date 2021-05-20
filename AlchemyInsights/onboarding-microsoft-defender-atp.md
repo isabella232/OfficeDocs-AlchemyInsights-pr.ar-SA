@@ -1,5 +1,5 @@
 ---
-title: اعداد ATP ل Microsoft Defender
+title: تم Microsoft Defender ATP
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6022"
 - "9002913"
-ms.openlocfilehash: 5b5fd0d976934de21f338bb88f96d4a9429f1d82
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a82adad9b9f72bbf9e053cd6721cefaf23e34a5c
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673412"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52545291"
 ---
-# <a name="onboarding-microsoft-defender-atp"></a>اعداد ATP ل Microsoft Defender
+# <a name="onboarding-microsoft-defender-atp"></a>تم Microsoft Defender ATP
 
-بالنسبة إلى الموارد للحاق Microsoft Defender ATP ل Windows 10 و Windows servers و Mac و Linux ، راجع: 
+للحصول على موارد ل Microsoft Defender ATP Windows 10 و Windows و أجهزة Mac و Linux، راجع: 
 
-- **أجهزه Windows 10** وفقا لمتطلبات شركتك ، يمكنك الاختيار من بين خيارات للحاق جهاز يعمل بنظام Windows 10. للحصول علي مزيد من المعلومات ، راجع [أدوات إلحاق وأساليب الاجهزه التي تعمل بنظام Windows 10](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints). 
+- **Windows 10 الأجهزة** استنادا إلى متطلبات العمل، يمكنك الاختيار من بين الخيارات ل متن جهاز يعمل Windows 10. للحصول على مزيد من المعلومات، راجع أدوات التكهين وأساليب [Windows 10 الأجهزة](/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints). 
 
-- **خوادم Windows** للحاق Microsoft Defender ATP لإصدار Windows Server لديك ، راجع [خوادم إلحاق إلى خدمه ATP ل Microsoft defender](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints).
+- **Windows الخادمة** لboard Microsoft Defender ATP إصدار Windows Server، راجع [خوادم onboard إلى Microsoft Defender ATP.](/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints)
 
-- **نقاط نهاية لا تتعلق بنظام التشغيل Windows**  قبل ان إلحاق نظام التشغيل Windows ، يجب ان تفي بمتطلبات النظام ل [Mac](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#system-requirements) أو [Linux](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements).
+- **نقاط النهاية Windows غير المنقطة**  قبل تشغيل نظام غير Windows، يجب أن تلبي متطلبات النظام لنظام [Mac](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#system-requirements) أو [Linux](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements).
 
-    بعد التاكيد علي متطلبات النظام ، راجع [إلحاق الاجهزه التي لا تعمل بنظام Windows](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-non-windows#onboarding-non-windows-machines).
+    بعد تأكيد متطلبات النظام، راجع الأجهزة غير Windows [الأجهزة.](/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints-non-windows#onboarding-non-windows-machines)

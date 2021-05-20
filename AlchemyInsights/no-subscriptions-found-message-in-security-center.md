@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6028"
 - "9001222"
-ms.openlocfilehash: 01117bc535df14533e426fd2d31c336fccc75611
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: MT
+ms.openlocfilehash: 777fb9b09aa26d166f9971589bda464ccb90f4be
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "50713266"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544095"
 ---
 # <a name="no-subscriptions-found-message-in-the-security-center"></a>لم يتم العثور على أي رسالة اشتراكات في مركز الأمان
 
-إذا حصلت على رسالة "لم يتم العثور على اشتراكات" أثناء الوصول إلى مركز أمان Microsoft Defender، فهذا يعني أن Azure Active Directory (AAD) المستخدم لتسجيل دخول المستخدم إلى المدخل ليس لديه ترخيص MICROSOFT Defender ATP.  
+إذا لم مركز حماية Microsoft Defender الرسالة "لم يتم العثور على اشتراكات"، فهذا يعني أن Azure Active Directory (AAD) المستخدم لتسجيل دخول المستخدم إلى المدخل لا Microsoft Defender ATP ترخيص.  
 
-إن تراخيص Windows E5 و Office E5 هي تراخيص منفصلة.
+إن Windows E5 Office E5 هي تراخيص منفصلة.
 
 افتح حالة دعم إذا تم شراء الترخيص ولكن لم يتم توفيره لمثيل AAD هذا. إما أن يكون لديك: <br/>
--   مشكلة محتملة في توفير التراخيص.<br/>
+-   مشكلة محتملة في توفير الترخيص.<br/>
 -   لقد قمت عن غير قصد بتوفير الترخيص ل Microsoft AAD مختلف عن ذلك المستخدم للمصادقة في الخدمة.

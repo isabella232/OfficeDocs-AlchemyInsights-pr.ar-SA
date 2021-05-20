@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002449"
 - "4748"
-ms.openlocfilehash: 532b273154a31c024825b150d9b0edd42eb6130c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: cf2431cb49902b3f7625ab96bc6d4e2121e51fdd
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51827743"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544131"
 ---
 # <a name="unlocking-an-account"></a>إلغاء تأمين حساب
 
@@ -25,7 +25,7 @@ ms.locfileid: "51827743"
 
 **البريد الإلكتروني المقيد**
 
-بصفتك مسؤولاً، إذا كان أحد المستخدمين مقيداً من إرسال بريد إلكتروني، يمكنك [إلغاء حظر الحساب بنفسك](https://docs.microsoft.com/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam). سيتمكن المستخدم من إرسال البريد الإلكتروني خلال ساعة بعد إزالة القيد.
+بصفتك مسؤولاً، إذا كان أحد المستخدمين مقيداً من إرسال بريد إلكتروني، يمكنك [إلغاء حظر الحساب بنفسك](/microsoft-365/security/office-365-security/removing-user-from-restricted-users-portal-after-spam). سيتمكن المستخدم من إرسال البريد الإلكتروني خلال ساعة بعد إزالة القيد.
 
 **إعادة تعيين كلمة المرور**
 
@@ -37,8 +37,8 @@ ms.locfileid: "51827743"
 
 1. من مركز الإدارة، انتقل إلى **مستخدمين > [مستخدمون نشطون](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)**.
 
-2. حدد المستخدم وانقر فوق **مزيد من الإجراءات (...)**، ثم انقر فوق **تحرير حالة تسجيل الدخول**.
+2. حدد المستخدم وانقر فوق النقاط الثلاث (المزيد من الإجراءات)، ثم انقر فوق **تحرير حالة تسجيل الدخول**.
 
-لمعرفة مزيد من سيناريوهات إعادة تعيين كلمة المرور، بما في ذلك إعادة تعيين كلمة المرور للخدمة الذاتية، اطلع على [إعادة تعيين Microsoft 365 لكلمات مرور الأعمال متعددة المحاولات لتحصيل رسوم الدفع عبر الإنترنت.](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords?view=o365-worldwide).
+لمعرفة مزيد من سيناريوهات إعادة تعيين كلمة المرور، بما في ذلك إعادة تعيين كلمة المرور للخدمة الذاتية، اطلع على [إعادة تعيين Microsoft 365 لكلمات مرور الأعمال متعددة المحاولات لتحصيل رسوم الدفع عبر الإنترنت.](/microsoft-365/admin/add-users/reset-passwords).
 
-تمنع الخدمة المستخدم من إرسال البريد الإلكتروني بعد الكشف عن دليل الحساب المخترق و/أو البريد العشوائي الصادر. كإجراء وقائي، اتبع الخطوات في [التصرف في حالة اختراق حساب البريد الإلكتروني في Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) للمستخدم.
+تمنع الخدمة المستخدم من إرسال البريد الإلكتروني بعد الكشف عن دليل الحساب المخترق و/أو البريد العشوائي الصادر. كإجراء وقائي، اتبع الخطوات في [التصرف في حالة اختراق حساب البريد الإلكتروني في Microsoft 365](/microsoft-365/security/office-365-security/responding-to-a-compromised-email-account) للمستخدم.

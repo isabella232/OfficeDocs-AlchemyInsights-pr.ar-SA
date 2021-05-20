@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002453"
 - "4763"
-ms.openlocfilehash: 59db84b9068843333ee28f47b9e69cf8b805b184
-ms.sourcegitcommit: ad2d185aa9e08c27c4a1c4803b679cc4e6305703
+ms.openlocfilehash: 8a85768fc419829f288bbc8dcf887c2d6b0044b4
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "48489300"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544241"
 ---
 # <a name="subscription-no-longer-active"></a>الاشتراك غير نشط بعد الآن
 
-إذا [ظهر اشعار اشتراك](https://support.microsoft.com/office/a-subscription-notice-appears-when-i-open-a-microsoft-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb) عند فتح تطبيق Microsoft ، فمن المحتمل انك تحتاج إلى أعاده تنشيط اشتراكك.
+إذا ظهر [إشعار اشتراك](https://support.microsoft.com/office/a-subscription-notice-appears-when-i-open-a-microsoft-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb) عند فتح تطبيق Microsoft، فمن المرجح أنك تحتاج إلى إعادة تنشيط اشتراكك.
 
 **إعادة تنشيط اشتراك**
 
-1. في مركز الاداره ، انتقل إلى صفحه **الفوترة**  >  [الخاصة بالمنتجات](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. علي علامة التبويب **المنتجات** ، ابحث عن الاشتراك الذي تريد أعاده تنشيطه. حدد **المزيد من الإجراءات** (ثلاث نقاط) ، ثم حدد **أعاده تنشيط هذا الاشتراك**.
-3. في الجزء **أعاده تنشيط هذا الاشتراك** ، حدد طريقه دفع من القائمة المنسدلة ، أو حدد **أضافه طريقه دفع**.
+1. في مركز الإدارة، انتقل إلى **صفحة فوترة**  >  [منتجاتك.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. على علامة **التبويب** المنتجات، ابحث عن الاشتراك الذي تريد إعادة تنشيطه. حدد النقاط الثلاث (المزيد من الإجراءات)، ثم حدد **إعادة تنشيط هذا الاشتراك**.
+3. في الجزء **إعادة تنشيط هذا** الاشتراك، حدد طريقة دفع من القائمة المنسدل، أو حدد إضافة طريقة **دفع**.
 4. حدد **حفظ**.
 
-للتعرّف على المزيد، اطلع على [إعادة تنشيط الاشتراك](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+للتعرّف على المزيد، اطلع على [إعادة تنشيط الاشتراك](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
