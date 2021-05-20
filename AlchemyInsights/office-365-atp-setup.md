@@ -1,5 +1,5 @@
 ---
-title: إعداد Microsoft Defender ل Office 365 (ATP)
+title: Microsoft Defender Office 365 الإعداد
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: 4f09e85589cd654a0a557fe1ad997804d7b1b406
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 9fb4d7b85bc7bcdfc0fe82f5371213aa7470fca7
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708625"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543600"
 ---
-# <a name="microsoft-defender-for-office-365-atp"></a>Microsoft Defender ل Office 365 (ATP)
+# <a name="microsoft-defender-for-office-365"></a>Microsoft Defender Office 365
 
-يتضمن Office 365 ATP [](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) [المرفقات](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments)الآمنة والربط الآمن و مكافحة [التصيد الاحتيالي](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)المتقدمة والمزيد. 
+يتضمن Microsoft Defender Office 365 [المرفقات](/microsoft-365/security/office-365-security/atp-safe-attachments)الآمنة والربط [الآمن](/microsoft-365/security/office-365-security/atp-safe-links)و [مكافحة التصيد الاحتيالي](/microsoft-365/security/office-365-security/atp-anti-phishing)المتقدمة والمزيد. 
 
-يتم تضمين ATP في الاشتراكات، مثل Office 365 Enterprise E5 و Office 365 Education A5 و Microsoft 365 Business Premium. إذا لم يتضمن اشتراكك ATP، يمكنك شراء ATP الإضافة. لمعرفة المزيد، راجع وصف خدمة ATP ل [Office 365.](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description)
+يتم تضمين microsoft Defender Office 365 في اشتراكات مثل Office 365 Enterprise E5 Office 365 Education A5 Microsoft 365 Business Premium. إذا لم يتضمنه اشتراكك، فمن المحتمل أن تتمكن من شرائه كعناية أخرى. لمعرفة المزيد، راجع [Microsoft Defender للحصول على Office 365 الخدمة.](/office365/servicedescriptions/office-365-advanced-threat-protection-service-description)
 
-## <a name="set-up-office-365-atp"></a>إعداد Office 365 ATP
+## <a name="set-up-microsoft-defender-for-office-365"></a>إعداد Microsoft Defender Office 365
 
-لكي تكون حماية ATP في وضع التنفيذ، يجب تكوين السياسات. راجع [دليل البدء السريع: إعداد Microsoft Defender ل Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)
+لكي يكون Office 365 Microsoft Defender لحماية البيانات في حيز التنفيذ، يجب تكوين سياسات. راجع [دليل البدء السريع: إعداد Microsoft Defender Office 365](/microsoft-365/security/office-365-security/office-365-atp).
 

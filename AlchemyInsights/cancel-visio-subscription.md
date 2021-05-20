@@ -1,5 +1,5 @@
 ---
-title: إلغاء اشتراك Visio
+title: إلغاء Visio الاشتراك
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1400001"
 - "4721"
-ms.openlocfilehash: 88109091a3a958c1a464bff2d5eef8ac05039c07
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: f3f08ebf58473f82ad57dae0e6dd59a065f519a6
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416387"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543348"
 ---
-# <a name="cancel-visio-subscription"></a>إلغاء اشتراك Visio
+# <a name="cancel-visio-subscription"></a>إلغاء Visio الاشتراك
 
-يمكن للمسؤولين إلغاء اشتراك Visio لمؤسستهم في مركز أداره Microsoft 365.
+يمكن للمسؤولين إلغاء الاشتراك Visio لمنظمتهم في Microsoft 365 مركز الإدارة.
 
-1. انتقل إلى صفحه **الفوترة** \> [الخاصة بالمنتجات](https://go.microsoft.com/fwlink/p/?linkid=842054) .
-2. علي علامة التبويب **منتجات** ، ابحث عن اشتراك Visio الذي تريد إلغاءه. حدد **المزيد من الإجراءات** (ثلاث نقاط) ، ثم حدد **إلغاء الاشتراك**.
-3. في الجزء **إلغاء الاشتراك** ، اختر سبب إلغاء. بشكل اختياري ، قم بتوفير اي ملاحظات.
+1. انتقل إلى **صفحة فوترة** \> [منتجاتك.](https://go.microsoft.com/fwlink/p/?linkid=842054)
+2. على علامة **التبويب** المنتجات، ابحث Visio الاشتراك الذي تريد إلغاؤه. حدد النقاط الثلاث (المزيد من الإجراءات)، ثم حدد **إلغاء الاشتراك**.
+3. في الجزء **إلغاء الاشتراك،** اختر سببا وراء إلغاء الاشتراك. بشكل اختياري، اقدم أي ملاحظات.
 4. حدد **حفظ**.
 
-**المبلغ المسترد:** سيتم إرجاع اي رصيد نسبي اليك ضمن دوره الفوترة التالية.
+**المبلغ المسترد:** سيتم إرجاع أي رصيد مفوتر لك خلال دورة الفوترة التالية.
 
-لمعرفه المزيد ، راجع [إلغاء الاشتراك](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+لمعرفة المزيد، راجع [إلغاء اشتراكك](/microsoft-365/commerce/subscriptions/cancel-your-subscription).

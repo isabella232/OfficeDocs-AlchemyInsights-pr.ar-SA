@@ -1,5 +1,5 @@
 ---
-title: 9001220 بحث المتقدمة ديتيكشنز مخصصه
+title: 9001220 عملية اكتشاف مخصصة متقدمة للصيد
 ms.author: dolmont
 author: DulceMontemayor
 manager: dansimp
@@ -14,22 +14,22 @@ ms.custom:
 - "3200"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: 40351bd7852b69e0ff2ae6f630749ecbc1e0f13b
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: ea478cfbbbe96065608990770e0453d8f2613981
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801502"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542988"
 ---
-# <a name="advanced-hunting-custom-detections"></a>خيارات متقدمة بحث مخصصه ديتيكشنز
+# <a name="advanced-hunting-custom-detections"></a>الاكتشافات المخصصة المتقدمة للصيد
 
-يمكنك معرفه كيفيه إنشاء قواعد ديتيكشنز مخصصه وأدارتها استنادا إلى استعلامات بحث المتقدمة. باستخدام ديتيكشنز المخصصة ، يمكنك بشكل خاص مراقبه الاحداث المتنوعة وحالات النظام ، بما في ذلك نشاط الخرق المشتبه به والاجهزه التي تم تكوينها بشكل غير صحيح. يمكنك القيام بذلك باستخدام قواعد الكشف القابلة للتخصيص التي تقوم تلقائيا بتشغيل التنبيات وإجراءات الاستجابة
+يمكنك التعرف على كيفية إنشاء قواعد الكشف المخصصة وإدارتها استنادا إلى استعلامات الصيد المتقدمة. باستخدام الاكتشافات المخصصة، يمكنك مراقبة الأحداث المختلفة ومواصفات النظام والاستجابة لها بشكل استباقي، بما في ذلك نشاط الانتهاك المشتبه به والأجهزة التي تم تكوينها بشكل غير صحيح. يمكنك القيام بذلك باستخدام قواعد الكشف القابلة للتخصيص التي تقوم بتشغيل التنبيهات والإجراءات الخاصة بالاستجابة تلقائيا
   
-إذا كنت تستخدم Microsoft Defender ATP ، فراجع المواضيع التالية للحصول علي التفاصيل: 
-- [نظره عامه حول ديتيكشنز المخصصة](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/overview-custom-detections)
-- [إنشاء قواعد كشف مخصصه](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
-- [عرض قواعد الكشف المخصصة وأدارهها](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
+إذا كنت تستخدم Microsoft Defender ATP، فشاهد المواضيع التالية للحصول على التفاصيل: 
+- [نظرة عامة على الكشف المخصص](/windows/security/threat-protection/microsoft-defender-atp/overview-custom-detections)
+- [إنشاء قواعد الكشف المخصصة](/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
+- [عرض قواعد الكشف المخصصة وإدارتها](/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)
 
-إذا كنت تستخدم Microsoft 365 Defender ، فراجع المواضيع التالية للحصول علي التفاصيل: 
-- [نظره عامه حول ديتيكشنز المخصصة](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detections-overview)
-- [إنشاء قواعد الديتيكشنز المخصصة وأدارهها](https://docs.microsoft.com/microsoft-365/security/mtp/custom-detection-rules)
+إذا كنت تستخدم Microsoft 365 Defender، فشاهد المواضيع التالية للحصول على التفاصيل: 
+- [نظرة عامة على الكشف المخصص](/microsoft-365/security/mtp/custom-detections-overview)
+- [إنشاء قواعد عمليات الكشف المخصصة وإدارتها](/microsoft-365/security/mtp/custom-detection-rules)

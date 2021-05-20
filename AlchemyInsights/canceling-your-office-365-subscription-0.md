@@ -1,5 +1,5 @@
 ---
-title: هل يتم إلغاء اشتراكك في Microsoft 365 ؟
+title: هل تلغي Microsoft 365 الاشتراك؟
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "86"
 - "1400001"
-ms.openlocfilehash: 0541c68ffc71503cccba47501f318939fc9e0a53
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: 85ce33aaf5fbcde6a8c32c692977647f4f44c953
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416347"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543276"
 ---
-# <a name="canceling-your-microsoft-365-subscription"></a>هل يتم إلغاء اشتراكك في Microsoft 365 ؟
+# <a name="canceling-your-microsoft-365-subscription"></a>هل تلغي Microsoft 365 الاشتراك؟
 
-نعتذر عن رؤيتك!
+نأسف لرؤيتك تذهب!
   
-بالاستناد إلى بيانات مؤسستك ، نعتقد ان كل الاشتراكات الحالية لديك اقل من 25 من المقاعد. للغاء الاشتراك عبر الإنترنت ، انتقل إلى صفحه **الفوترة** \> [الخاصة بالمنتجات](https://go.microsoft.com/fwlink/p/?linkid=842054) . علي علامة التبويب **منتجات** ، ابحث عن الاشتراك الذي تريد إلغاءه ، وحدد **مزيد من الإجراءات** (ثلاث نقاط) ، ثم حدد **إلغاء الاشتراك**.
+استنادا إلى بيانات مؤسستك، نعتقد أن كل اشتراكاتك الحالية لديها أقل من 25 مقعد. لإلغاء اشتراكك عبر الإنترنت، انتقل إلى **صفحة فوترة** \> [منتجاتك.](https://go.microsoft.com/fwlink/p/?linkid=842054) على علامة **التبويب** المنتجات، ابحث عن الاشتراك الذي تريد **إلغاؤه،** وحدد النقاط الثلاث (المزيد من الإجراءات)، ثم حدد إلغاء الاشتراك .
   
-**المبلغ المسترد:** سيتم إرجاع اي رصيد نسبي اليك ضمن دوره الفوترة التالية.
+**المبلغ المسترد:** سيتم إرجاع أي رصيد مفوتر لك خلال دورة الفوترة التالية.
 
-لمعرفه المزيد ، راجع [إلغاء الاشتراك](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+لمعرفة المزيد، راجع [إلغاء اشتراكك](/microsoft-365/commerce/subscriptions/cancel-your-subscription).

@@ -1,5 +1,5 @@
 ---
-title: الوظائف الإضافية في Teams Outlook
+title: Teams Outlook الإضافية (مشاركة إلى Teams ، الاجتماع الآن، اجتماع Teams جديد، Teams اجتماع)
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,22 +14,23 @@ ms.custom:
 - "3536"
 - "9002573"
 - "4990"
-ms.openlocfilehash: 815a0dbfa770b811321329ee48fc27113f08c8e2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2ce65a5a5d425d41a127541ee738b6e947a41b05
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835006"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542736"
 ---
-# <a name="teams-outlook-add-in"></a>الوظائف الإضافية في Teams Outlook
+# <a name="teams-outlook-add-in-share-to-teams--meet-now-new-teams-meeting-join-teams-meeting"></a>Teams Outlook الإضافية (مشاركة Teams ، اجتماع الآن، اجتماع جديد Teams جديد، Teams اجتماع)
 
-## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>استكشاف الأخطاء في الوظائف الإضافية مفقودة في Teams Outlook وإصلاحها
+## <a name="to-troubleshoot-a-missing-teams-outlook-add-in"></a>استكشاف الأخطاء وإصلاحها في Teams Outlook الإضافية مفقودة
 
-1. تشغيل تشخيص الخدمة في مدخل المسؤول. 
-2. إذا لم يكن تشخيص الخدمة يشير إلى أي مشاكل، فشخص أي مشاكل في العميل وتصحيحها على أجهزة المستخدم المتأثرة من خلال تنزيل سيناريو الوظائف الإضافية لمساعد الاسترداد والدعم من [Microsoft](https://aka.ms/SaRA-TeamsAddInScenario)  >  **Teams وتشغيله** في Outlook .
+1. قم بتشغيل التشخيص "إن وظائف الفريق الإضافية مفقودة في Outlook" التي تتحقق من أن المستخدم لديه النهج الصحيحة لتمكين Teams Outlook الإضافية. للوصول إلى التشخيص، اكتب **Diag: Teams الإضافية** مفقودة Outlook في مربع البحث.
 
-لا استكشاف الأخطاء وإصلاحها يدويا لقائمة Teams Outlook الإضافية المفقودة، راجع قائمة العوامل المحتملة التي قد تتسبب في عدم ظهور الوظائف الإضافية في Teams مدرجة. لمزيد من المعلومات، راجع لا تظهر الوظائف الإضافية [لاجتماع Teams في Outlook for Windows](https://docs.microsoft.com/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
+1. إذا لم يكن تشخيص الخدمة يشير إلى أي مشاكل، فشخص أي مشاكل في العميل وتصحيحها على أجهزة المستخدم المتأثرة عن طريق تنزيل سيناريو الوظائف الإضافية [ل Microsoft مساعد الإصلاح والدعم](https://aka.ms/SaRA-TeamsAddInScenario)Teams Outlook  >  **وتشغيله.**
 
-## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>استكشاف الأخطاء في جدولة اجتماع Teams وإصلاحها بالنيابة عن شخص آخر (مفوض)
+لا استكشاف الأخطاء وإصلاحها يدويا Teams Outlook مفقودة، راجع قائمة العوامل المحتملة التي قد تتسبب في عدم ظهور Teams الإضافية مدرجة. لمزيد من المعلومات، راجع Teams الإضافية للاجتماع في Outlook لم Windows [تظهر](/microsoftteams/teams-add-in-for-outlook#teams-meeting-add-in-in-outlook-for-windows-does-not-show).
 
-لجدولة اجتماع Teams نيابة عن شخص آخر، راجع استكشاف مشاكل تفاعل Microsoft Teams و Exchange [Server وإصلاحها](https://docs.microsoft.com/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue).
+## <a name="to-troubleshoot-scheduling-a-teams-meeting-on-behalf-of-someone-else-delegate"></a>استكشاف الأخطاء في جدولة اجتماع Teams بالنيابة عن شخص آخر (مفوض)
+
+لجدولة اجتماع Teams نيابة عن شخص آخر، راجع استكشاف الأخطاء وإصلاحها Microsoft Teams مشاكل [Exchange Server التفاعل.](/microsoftteams/troubleshoot/known-issues/teams-exchange-interaction-issue)

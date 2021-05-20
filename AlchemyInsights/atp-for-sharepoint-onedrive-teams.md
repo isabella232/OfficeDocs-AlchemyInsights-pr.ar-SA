@@ -1,5 +1,5 @@
 ---
-title: ATP لفرق SharePoint و OneDrive و Microsoft
+title: Microsoft Defender Office 365 SharePoint OneDrive و Microsoft Teams
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,25 +11,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1037
 ms.assetid: ''
-ms.openlocfilehash: 3d02ded959114675847831690b4d4a3ebcf0e137
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7d2ed7bc4c7d99cd01dadc12e38762903d6d8ab3
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715548"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543564"
 ---
-# <a name="atp-for-sharepoint-onedrive-and-microsoft-teams"></a>ATP لفرق SharePoint و OneDrive و Microsoft
+# <a name="microsoft-defender-for-office-365-for-sharepoint-onedrive-and-microsoft-teams"></a>Microsoft Defender Office 365 SharePoint OneDrive و Microsoft Teams
 
-اتبع هذه الخطوات لتمكين الحماية المتقدمة من المخاطر:
+اتبع هذه الخطوات لتمكين Microsoft Defender Office 365:
 
-1. انتقل إلى [https://protection.office.com](https://protection.office.com) وقم بتسجيل الدخول باستخدام حساب مسؤول الأمان أو المسؤول العام.
+1. انتقل إلى حساب مسؤول عام أو مسؤول الأمان ثم [https://protection.office.com](https://protection.office.com) سجل الدخول إليه.
 
-2. في جزء التنقل الأيمن ضمن **أداره التهديدات**، اختر **Policy** \> **المرفقات الامنه**للنهج.
+2. في جزء التنقل الأيسر ضمن **إدارة المخاطر،** اختر  \> **مرفقات النهج الآمنة**.
 
-3. حدد **تشغيل ATP لفرق SharePoint و OneDrive و Microsoft**.
+3. حدد **تشغيل Defender Office 365 SharePoint OneDrive و Microsoft Teams**.
 
-4. [يمكنك إنشاء نهج تنبيه](https://docs.microsoft.com/microsoft-365/compliance/create-activity-alerts) لتلقي اعلامات عند اكتشاف الملفات الضارة.
+4. [قم بإنشاء نهج تنبيه النشاط](/microsoft-365/compliance/create-activity-alerts) لتلقي الإعلامات عند الكشف عن الملفات الضارة.
 
-للحصول علي الإرشادات الكاملة ، راجع هذا [الموضوع](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams).
+للحصول على الإرشادات الكاملة، راجع تشغيل المرفقات الآمنة SharePoint OneDrive [و Microsoft Teams](/microsoft-365/security/office-365-security/turn-on-atp-for-spo-odb-and-teams).
 
-**ملاحظه**: لا يقوم ATP بفحص كل ملف فردي في SharePoint Online أو OneDrive for Business أو فرق Microsoft. يتم مسح الملفات بشكل غير متزامن بواسطة عمليه تستخدم الإشارات نشاط المشاركة ونشاط الضيوف والمخاطر لتحديد الملفات الضارة. لمزيد من المعلومات ، راجع هذا [الموضوع](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams).
+**ملاحظة:** حسب التصميم، لا يقوم Microsoft Defender Office 365 بمسح كل ملف في SharePoint عبر الإنترنت أو OneDrive for Business أو Microsoft Teams. يتم فحص الملفات بشكل غير متزامن بواسطة عملية تستخدم نشاط المشاركة ونشاط الضيف وإشارات التهديدات لتحديد الملفات الضارة. لمزيد من المعلومات، راجع [المرفقات](/microsoft-365/security/office-365-security/atp-for-spo-odb-and-teams)الآمنة SharePoint OneDrive و Microsoft Teams .

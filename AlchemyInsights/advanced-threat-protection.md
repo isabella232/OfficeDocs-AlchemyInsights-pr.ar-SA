@@ -1,5 +1,5 @@
 ---
-title: Microsoft Defender ل Office 365
+title: Microsoft Defender Office 365
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,23 +11,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: a07c56c0977811e286d61f2e7c3336275c3501a2
-ms.sourcegitcommit: 4caf5e6c2fee2903ccaf92cfc9006eb580faa7ba
+ms.openlocfilehash: c4d462c14623282a7a94a0009275c4f36c70d33b
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "48801214"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52542880"
 ---
-# <a name="microsoft-defender-for-office-365"></a>Microsoft Defender ل Office 365
+# <a name="microsoft-defender-for-office-365"></a>Microsoft Defender Office 365
 
-- تعد المرفقات الامنه والارتباطات الامنه والحماية من التصيد الاحتيالي جزءا من Microsoft Defender ل Office 365 (ATP). يتضمن Enterprise E5 و التعليم A5 و Microsoft 365 Business Premium ATP. تتطلب كل الخطط الأخرى اشتراك ATP لوظيفة اضافيه.
+- المرفقات الآمنة والربط الآمن و مكافحة التصيد الاحتيالي هي جزء من Microsoft Defender Office 365. تتضمن كل من Enterprise E5 و Education A5 Microsoft 365 Business Premium Microsoft Defender Office 365. تتطلب كل الخطط الأخرى إضافة Microsoft Defender Office 365 اشتراك.
 
-- تحتاج إلى تعيين التراخيص المناسبة لحماية المستخدمين بواسطة Office 365 ATP. راجع [هذا الموضوع](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) للحصول علي إرشادات حول كيفيه تطبيق التراخيص المجمعة علي المستخدمين.
+- تحتاج إلى تعيين التراخيص المناسبة لحماية المستخدمين بواسطة Microsoft Defender Office 365. راجع [إضافة مستخدمين وتعيين تراخيص](/microsoft-365/admin/add-users/add-users) في الوقت نفسه للحصول على إرشادات حول كيفية تطبيق التراخيص المجمعة على المستخدمين.
 
-- يمكن للمسؤولين العامين أو مسؤولي الأمان الوصول إلى ميزات ATP ل Office 365 في مركز توافق & الأمان في نهج **التهديد ماناجمينت** \> **Policy** .
+- يمكن للمسؤولين العامين أو مسؤولي الأمان الوصول إلى Microsoft Defender Office 365 في مركز التوافق & الأمان في **نهج إدارة** \> المخاطر.
 
-- يمكن ان تكون المرفقات الامنه ونهج الارتباطات الامنه خاصه بمؤسسك بالبالكامل أو مجالات معينه أو مجموعات أصغر من المستخدمين.
+- يمكن تحديد نطاق المرفقات الآمنة ونهج الارتباطات الآمنة لمجالات معينة أو مجموعات أصغر من المستخدمين في مؤسستك بكاملها.
 
-- لا يوجد نهج افتراضي للمرفقات الامنه في ATP. تحتاج إلى [إنشاء نهج](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) وتطبيقه علي المستخدمين.
+- لا يوجد نهج افتراضي للمرفق الآمن. يجب إنشاء [نهج وتطبيقه](/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) على المستخدمين.
 
-- يوجد نهج افتراضي للارتباطات الامنه في ATP ينطبق علي كل شخص في مؤسستك. لتحرير هذا النهج أو لإنشاء نهج مخصصه ، راجع [هذا الموضوع](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).
+- يوجد نهج ارتباطات آمنة افتراضي ينطبق على جميع الأشخاص في مؤسستك. لتحرير هذا النهج أو لإنشاء نهج مخصصة، راجع إعداد نهج الارتباطات الآمنة [في Microsoft Defender Office 365](/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).
