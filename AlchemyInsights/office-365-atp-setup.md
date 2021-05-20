@@ -1,5 +1,5 @@
 ---
-title: إعداد Microsoft Defender ل Office 365 (ATP)
+title: Microsoft Defender Office 365 الإعداد
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -11,20 +11,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: 4f09e85589cd654a0a557fe1ad997804d7b1b406
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 9fb4d7b85bc7bcdfc0fe82f5371213aa7470fca7
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708625"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52543600"
 ---
-# <a name="microsoft-defender-for-office-365-atp"></a><span data-ttu-id="141b0-102">Microsoft Defender ل Office 365 (ATP)</span><span class="sxs-lookup"><span data-stu-id="141b0-102">Microsoft Defender for Office 365 (ATP)</span></span>
+# <a name="microsoft-defender-for-office-365"></a><span data-ttu-id="04617-102">Microsoft Defender Office 365</span><span class="sxs-lookup"><span data-stu-id="04617-102">Microsoft Defender for Office 365</span></span>
 
-<span data-ttu-id="141b0-103">يتضمن Office 365 ATP [](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links) [المرفقات](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments)الآمنة والربط الآمن و مكافحة [التصيد الاحتيالي](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)المتقدمة والمزيد.</span><span class="sxs-lookup"><span data-stu-id="141b0-103">Office 365 ATP includes [Safe Attachments](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-attachments), [Safe Links](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-safe-links), [advanced Anti-Phishing](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing), and more.</span></span> 
+<span data-ttu-id="04617-103">يتضمن Microsoft Defender Office 365 [المرفقات](/microsoft-365/security/office-365-security/atp-safe-attachments)الآمنة والربط [الآمن](/microsoft-365/security/office-365-security/atp-safe-links)و [مكافحة التصيد الاحتيالي](/microsoft-365/security/office-365-security/atp-anti-phishing)المتقدمة والمزيد.</span><span class="sxs-lookup"><span data-stu-id="04617-103">Microsoft Defender for Office 365 includes [Safe Attachments](/microsoft-365/security/office-365-security/atp-safe-attachments), [Safe Links](/microsoft-365/security/office-365-security/atp-safe-links), [advanced Anti-Phishing](/microsoft-365/security/office-365-security/atp-anti-phishing), and more.</span></span> 
 
-<span data-ttu-id="141b0-104">يتم تضمين ATP في الاشتراكات، مثل Office 365 Enterprise E5 و Office 365 Education A5 و Microsoft 365 Business Premium.</span><span class="sxs-lookup"><span data-stu-id="141b0-104">ATP is included in subscriptions, such as Office 365 Enterprise E5, Office 365 Education A5, and Microsoft 365 Business Premium.</span></span> <span data-ttu-id="141b0-105">إذا لم يتضمن اشتراكك ATP، يمكنك شراء ATP الإضافة.</span><span class="sxs-lookup"><span data-stu-id="141b0-105">If your subscription does not include ATP, you can potentially purchase ATP as an add-on.</span></span> <span data-ttu-id="141b0-106">لمعرفة المزيد، راجع وصف خدمة ATP ل [Office 365.](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description)</span><span class="sxs-lookup"><span data-stu-id="141b0-106">To learn more, see [Office 365 ATP Service Description](https://docs.microsoft.com/office365/servicedescriptions/office-365-advanced-threat-protection-service-description).</span></span>
+<span data-ttu-id="04617-104">يتم تضمين microsoft Defender Office 365 في اشتراكات مثل Office 365 Enterprise E5 Office 365 Education A5 Microsoft 365 Business Premium.</span><span class="sxs-lookup"><span data-stu-id="04617-104">Microsoft Defender for Office 365 is included in subscriptions such as Office 365 Enterprise E5, Office 365 Education A5, and Microsoft 365 Business Premium.</span></span> <span data-ttu-id="04617-105">إذا لم يتضمنه اشتراكك، فمن المحتمل أن تتمكن من شرائه كعناية أخرى.</span><span class="sxs-lookup"><span data-stu-id="04617-105">If your subscription does not include it, you can potentially purchase it as an add-on.</span></span> <span data-ttu-id="04617-106">لمعرفة المزيد، راجع [Microsoft Defender للحصول على Office 365 الخدمة.](/office365/servicedescriptions/office-365-advanced-threat-protection-service-description)</span><span class="sxs-lookup"><span data-stu-id="04617-106">To learn more, see [Microsoft Defender for Office 365 Service Description](/office365/servicedescriptions/office-365-advanced-threat-protection-service-description).</span></span>
 
-## <a name="set-up-office-365-atp"></a><span data-ttu-id="141b0-107">إعداد Office 365 ATP</span><span class="sxs-lookup"><span data-stu-id="141b0-107">Set up Office 365 ATP</span></span>
+## <a name="set-up-microsoft-defender-for-office-365"></a><span data-ttu-id="04617-107">إعداد Microsoft Defender Office 365</span><span class="sxs-lookup"><span data-stu-id="04617-107">Set up Microsoft Defender for Office 365</span></span>
 
-<span data-ttu-id="141b0-108">لكي تكون حماية ATP في وضع التنفيذ، يجب تكوين السياسات.</span><span class="sxs-lookup"><span data-stu-id="141b0-108">For ATP protection to be in effect, you must configure policies.</span></span> <span data-ttu-id="141b0-109">راجع [دليل البدء السريع: إعداد Microsoft Defender ل Office 365.](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp)</span><span class="sxs-lookup"><span data-stu-id="141b0-109">See [Quick Start Guide: Set up Microsoft Defender for Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp).</span></span>
+<span data-ttu-id="04617-108">لكي يكون Office 365 Microsoft Defender لحماية البيانات في حيز التنفيذ، يجب تكوين سياسات.</span><span class="sxs-lookup"><span data-stu-id="04617-108">For Microsoft Defender for Office 365 protection to be in effect, you must configure policies.</span></span> <span data-ttu-id="04617-109">راجع [دليل البدء السريع: إعداد Microsoft Defender Office 365](/microsoft-365/security/office-365-security/office-365-atp).</span><span class="sxs-lookup"><span data-stu-id="04617-109">See [Quick Start Guide: Set up Microsoft Defender for Office 365](/microsoft-365/security/office-365-security/office-365-atp).</span></span>
 
