@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "93"
 - "1200022"
-ms.openlocfilehash: adc95413c269584d75e907fcdcb231a0a0f9a99e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7009dcf86da9d8a3fc8ea2f90ecbff3487f3fc59
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822226"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569674"
 ---
 # <a name="add-a-user"></a>إضافة مستخدم
 
@@ -26,6 +26,6 @@ ms.locfileid: "51822226"
 
 2. انقر فوق **إضافة مستخدم**.
 
-3. قم بملء المعلومات الخاصة بالمستخدم. اختر **إنهاء الإضافة** عند الانتهاء.
+3. اتبع المعالج لإضافة معلومات المستخدم وتراخيص pProduct والأدوار الاختيارية ومعلومات ملف التعريف.
 
-للتعرّف على المزيد، اطلع على [إضافة المستخدمين كل على حدة أو بشكل مجمع](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users).
+للتعرّف على المزيد، اطلع على [إضافة المستخدمين كل على حدة أو بشكل مجمع](/microsoft-365/admin/add-users/add-users).

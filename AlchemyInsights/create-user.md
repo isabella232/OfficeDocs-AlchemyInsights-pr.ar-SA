@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003231"
 - "9403"
-ms.openlocfilehash: 742ff857141d08031302fdcff7e49b3eef90e0f7
-ms.sourcegitcommit: 186281d0b87d67f041c127d4334faa937da9a48a
+ms.openlocfilehash: 800baae2d748708d8cb7a5fb0e73fce5dcf455cb
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50742926"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569698"
 ---
 # <a name="create-user"></a>إنشاء مستخدم
 
 **الإعلان:**
 
-- إهمال دعم تسجيل الدخول إلى WebView من Google بدءا من 4 يناير [2021](https://docs.microsoft.com/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) . اختبر ما إذا كانت تطبيقاتك قد تتأثر باتباع إرشادات [Google](https://go.microsoft.com/fwlink/?linkid=2157323) حول اختبار التوافق.
-- تأكد من استخدام عرض ويب للنظام أو مستعرض النظام عند تسجيل الدخول إلى المستخدمين باستخدام حسابات Google للمستهلكين. لمزيد من المعلومات، راجع مشاكل تسجيل الدخول إلى [التطبيق (التطبيقات) باستخدام مستعرض Chrome فقط](https://docs.microsoft.com/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications).
+- إهمال دعم تسجيل الدخول إلى WebView من Google بدءا من 4 يناير [2021](/azure/active-directory/external-identities/google-federation#deprecation-of-webview-sign-in-support) . اختبر ما إذا كانت تطبيقاتك قد تتأثر باتباع إرشادات [Google](https://go.microsoft.com/fwlink/?linkid=2157323) حول اختبار التوافق.
+- تأكد من استخدام عرض ويب للنظام أو مستعرض النظام عند تسجيل الدخول إلى المستخدمين باستخدام حسابات Google للمستهلكين. لمزيد من المعلومات، راجع مشاكل تسجيل الدخول إلى [التطبيق (التطبيقات) باستخدام مستعرض Chrome فقط](/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications).
 
 **لا يمكنني إنشاء مستخدم جديد في دليل Azure AD**
 
@@ -37,5 +37,5 @@ ms.locfileid: "50742926"
 1. راجع [أسماء مجالات](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) Azure AD.
 1. راجع [سجلات التدقيق](https://portal.azure.com/#blade/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/RolesAndAdministrators) لرؤية معلومات أكثر تفصيلا حول مستخدم تم إنشاؤه أو حذفه مؤخرا مثل الشخص الذي قام بتنفيذ الإجراء ومتى.
 1. لمزيد من المعلومات حول إضافة مستخدمين جدد، راجع استخدام مدخل Azure لإنشاء مستخدم [جديد في Azure AD](/azure/active-directory/active-directory-users-create-azure-portal).
-1. [أدوار Azure AD الإدارية](https://docs.microsoft.com/azure/active-directory/active-directory-assign-admin-roles): أذونات دور المسؤول في Azure Active Directory
-1. يمكنك أيضا [استخدام Azure AD PowerShell لإنشاء مستخدم جديد](https://docs.microsoft.com/powershell/module/azuread/new-azureaduser?view=azureadps-2.0).
+1. [أدوار Azure AD الإدارية](/azure/active-directory/active-directory-assign-admin-roles): أذونات دور المسؤول في Azure Active Directory
+1. يمكنك أيضا [استخدام Azure AD PowerShell لإنشاء مستخدم جديد](/powershell/module/azuread/new-azureaduser?view=azureadps-2.0).

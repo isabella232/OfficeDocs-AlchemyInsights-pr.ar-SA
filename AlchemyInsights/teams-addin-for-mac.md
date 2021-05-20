@@ -1,5 +1,5 @@
 ---
-title: وظيفة الفرق الاضافيه ل Mac
+title: Teams الإضافية ل Mac
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,22 +12,24 @@ localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
 - "6173"
+- "6166"
 - "9003233"
-ms.openlocfilehash: 1e5f6d66386398ad8600f9383f9f7a1dcf0ce69f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+- "9002573"
+ms.openlocfilehash: 45df4381688335f10f6699d8b5ff1aaafd6f7257
+ms.sourcegitcommit: 730efbac8eec016b2b4f83f1b0e01e077f28c444
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47670315"
+ms.lasthandoff: 05/20/2021
+ms.locfileid: "52582057"
 ---
-# <a name="teams-add-in-for-mac"></a>وظيفة الفرق الاضافيه ل Mac
+# <a name="teams-add-in-for-mac"></a>Teams الإضافية ل Mac
 
-لاستكشاف الأخطاء وإصلاحها لمستخدمي نظام التشغيل الاضافيه لفرق العمل المفقودة ، اتبع الخطوات التالية:
+لا استكشاف الأخطاء وإصلاحها في Teams الإضافية لمستخدمي نظام التشغيل Mac، اتبع الخطوات التالية:
 
-**الخطوة 1:** إذا كان لديك Exchange المختلط محليا (2016 CU3 أو إصدار لاحق) ، فاستخدم الاداه Test-HMA.ps1 للتاكد من تكوين المصادقة الاضافيه المختلطة بشكل صحيح. للحصول علي مزيد من المعلومات ، راجع [التحقق من صحة اعداد المصادقة الحديثة المختلط ل Outlook ل iOS و Android](https://aka.ms/AA980zq).  
+**الخطوة 1:** إذا كان لديك Exchange مختلط (2016 CU3 أو الإصدارات اللاحقة مطلوبة)، فاستخدم أداة Test-HMA.ps1 لتأكيد تكوين المصادقة الحديثة المختلطة بشكل صحيح. لمزيد من المعلومات، راجع التحقق من صحة إعداد المصادقة الحديثة المختلطة [Outlook لنظامي التشغيل iOS وAndroid](https://aka.ms/TestHMAEAS).  
 
-**ملاحظه** استخدم تنسيق عنوان UPN (علي سبيل المثال ، [username@contoso.com](mailto:username@contoso.com)) ، وليس domain\username. قم بذلك حتى للمستخدمين الذين لديهم علب بريد Exchange Online.
+**ملاحظة** استخدم تنسيق عنوان UPN (على سبيل [المثال، username@contoso.com)،](mailto:username@contoso.com)وليس domain\username. يمكنك القيام بذلك حتى للمستخدمين الذين لديهم Exchange Online بريد.
 
-**الخطوة 2:** اجعل المستخدم ينتقل إلى **Tools**  >  **أدوات الحسابات**... في Outlook for Mac ، وابحث عن الحساب وحدده. قم بتاكيد اسم المستخدم المدرج بتنسيق UPN (علي سبيل المثال ، [username@contoso.com](mailto:username@contoso.com)).
+**الخطوة 2:** هل تريد من المستخدم الانتقال إلى **أدوات**  >  **الحسابات**... في Outlook for Mac، واعثر على الحساب وحدده. تأكد من أن اسم المستخدم المدرج بتنسيق UPN (على سبيل [المثال،](mailto:username@contoso.com)username@contoso.com).
 
-**الخطوة 3:** تاكد من ان المستخدم هو مستخدم لفرق Microsoft مرخص. يجب ان يستخدم المستخدم اشتراك Office 365 for Mac أو إصدار المنتج 16.24 أو إصدار أحدث.
+**الخطوة 3:** تأكد من أن المستخدم مستخدم Microsoft Teams مرخص. يجب أن يستخدم المستخدم Office 365 for Mac، إصدار المنتج 16.24 أو إصدار أحدث.
