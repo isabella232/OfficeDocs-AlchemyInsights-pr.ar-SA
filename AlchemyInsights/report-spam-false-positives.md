@@ -1,5 +1,5 @@
 ---
-title: 975 هل ترغب في إرسال تقرير بالبريد العشوائي false إلى Microsoft ؟
+title: 975 هل تريد الإبلاغ عن رسالة بريد عشوائي إيجابية خاطئة ل Microsoft؟
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,17 +10,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 975
 ms.assetid: ''
-ms.openlocfilehash: 8225382e88184db1e2a8b76201946a4647a0f4d6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f523ac9230e5fdc8aff35c90a9d0f8aadd35e66a
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47692318"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52540387"
 ---
-# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a>هل ترغب في إرسال تقرير بالبريد العشوائي false إلى Microsoft ؟
+# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a>هل ترغب في الإبلاغ عن خطأ خطأ في البريد العشوائي في Microsoft؟
 
-بصفتك مسؤولا ، فان أفضل طريقه لتحديد سبب تسليم التصيد الاحتيالي أو البريد العشوائي هي إرسال النموذج إلى Microsoft في [مستكشف الإرسالات](https://protection.office.com/reportsubmission). لجعله إيسير ، يمكنك السماح للمستخدمين بإرسال تقرير مباشره إلى Microsoft عبر [الوظيفة الاضافيه لرسالة التقرير](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
+ب أنت مسؤول، أفضل طريقة لتحديد سبب تسليم رسالة تصيد احتيالي أو بريد عشوائي هي إرسال العينة إلى Microsoft في ["مستكشف](https://protection.office.com/reportsubmission)عمليات الإرسال". لتسهيل الأمر، يمكنك السماح للمستخدمين بلتقارير مباشرة إلى Microsoft عبر الوظائف الإضافية ["رسالة التقرير"](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
 
-نعتذر عن الحذر إذا قررت [تجاوز عوامل تصفيه البريد العشوائي ل Microsoft 365](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
+ننصحك بتوخي الحذر إذا قررت تجاوز Microsoft 365 [البريد العشوائي.](/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters)
 
-**هل تعلم ؟**: يمكنك الآن إرسال النماذج مباشره من [تتبع الرسائل](https://protection.office.com/messagetrace) وخطه E5/ATP 2 يمكن للعملاء إرسال النماذج من [مستكشف التهديدات](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).
+**هل تعلم؟**: يمكنك الآن إرسال [](https://protection.office.com/messagetrace) عينات مباشرة من تتبع الرسائل و E5/Microsoft Defender Office 365 يمكن لعملاء الخطة 2 إرسال عينات من ["مستكشف التهديدات".](/microsoft-365/security/office-365-security/threat-explorer)

@@ -1,5 +1,5 @@
 ---
-title: التعرف على ATP
+title: تعرف على Microsoft Defender Office 365
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100019"
 - "7522"
-ms.openlocfilehash: 62eb0d38519292a951c69ba096503e51e31ee543
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: df341ed0c7aacaf84d3a33f223b7df44be5a78d9
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403550"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52539775"
 ---
-# <a name="learn-about-atp"></a>التعرف على ATP
+# <a name="learn-about-microsoft-defender-for-office-365"></a>تعرف على Microsoft Defender Office 365
 
-إليك بعض المعلومات حول الحماية المتقدمة من المخاطر في Office 365 (ATP):
+فيما يلي بعض المعلومات حول Microsoft Defender Office 365:
 
-**ما هو ATP؟**
+**ما هو Microsoft Defender Office 365؟**
 
-ATP هي خدمة تصفية بريد إلكتروني مستندة إلى السحابة وتساعد على حماية المؤسسات من البرامج الضارة والفيروسات غير المعروفة من خلال توفير حماية قوية لمدة صفرية. ويتضمن ميزات لحماية المؤسسات من الارتباطات الضارة في الوقت الحقيقي.
+Microsoft Defender for Office 365 هي خدمة تصفية بريد إلكتروني مستندة إلى السحابة وتساعد على حماية المؤسسات من البرامج الضارة والفيروسات غير المعروفة من خلال توفير حماية قوية لمدة صفرية. ويتضمن ميزات لحماية المؤسسات من الارتباطات الضارة في الوقت الحقيقي.
 
-**كيف يمكنني تنشيط ATP؟**
+**كيف يمكنني تنشيط Microsoft Defender Office 365؟**
 
-المرفقات الآمنة والربط الآمن و مكافحة التصيد الاحتيالي هي جزء من ميزة ATP. تتضمن Enterprise E5 و Education A5 و Microsoft 365 Business ميزات ATP المضمنة. تتطلب كل الخطط الأخرى اشتراك ATP في الوظائف الإضافية. تحتاج إلى تعيين التراخيص المناسبة للمستخدمين لتكون محمية بواسطة OFFICE 365 ATP. يجب أن يكون لديك أذونات المسؤول العام أو مسؤول الأمان للوصول إلى هذه الميزة. لمعرفة المزيد حول كيفية تطبيق التراخيص بشكل مجمع على المستخدمين النهائيين، راجع تعيين تراخيص للمستخدمين في [Office 365 للأعمال](https://go.microsoft.com/fwlink/?linkid=2093435).
+المرفقات الآمنة والربط الآمن و مكافحة التصيد الاحتيالي هي جزء من ميزة Microsoft Defender Office 365. تتضمن كل من Enterprise E5 و Education A5 Microsoft 365 Business Microsoft Defender المضمنة Office 365 الميزات. تتطلب كل الخطط الأخرى إضافة Microsoft Defender Office 365 اشتراك. تحتاج إلى تعيين التراخيص المناسبة للمستخدمين لتكون محمية بواسطة Microsoft Defender Office 365. يجب أن يكون لديك أذونات المسؤول العام أو مسؤول الأمان للوصول إلى هذه الميزة. لمعرفة المزيد حول كيفية تطبيق التراخيص بشكل مجمع على المستخدمين النهائيين، راجع تعيين تراخيص للمستخدمين في Office 365 [للأعمال](https://go.microsoft.com/fwlink/?linkid=2093435).
 
-**كيف يمكنني إدارة ATP أو معرفة المزيد حول ذلك؟**
+**كيف يمكنني إدارة Microsoft Defender Office 365 أو معرفة المزيد حول ذلك؟**
 
 أ. انتقل إلى [إعداد](https://go.microsoft.com/fwlink/p/?linkid=2075721).
 ب. ضمن **تسجيل الدخول والأمان،** ابحث **عن زيادة الحماية** من التهديدات المتقدمة، ثم حدد [عرض](https://go.microsoft.com/fwlink/?linkid=2109302).
