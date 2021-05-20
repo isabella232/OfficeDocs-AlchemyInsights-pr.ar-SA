@@ -11,19 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 665,2578
 ms.assetid: ''
-ms.openlocfilehash: c2c23e815f98e130934280143bc245de0646dca4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ab0baac563fd4cce628eef0525c04b1613a2ea38
+ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824602"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52544817"
 ---
-# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a><span data-ttu-id="954e2-102">هل تتلقى الكثير من رسائل التصيد الاحتيالي أو البريد العشوائي في علبة بريدك؟</span><span class="sxs-lookup"><span data-stu-id="954e2-102">Are you receiving too much phish or spam in your mailbox?</span></span>
+# <a name="are-you-receiving-too-much-phish-or-spam-in-your-mailbox"></a><span data-ttu-id="97fc5-102">هل تتلقى الكثير من رسائل التصيد الاحتيالي أو البريد العشوائي في علبة بريدك؟</span><span class="sxs-lookup"><span data-stu-id="97fc5-102">Are you receiving too much phish or spam in your mailbox?</span></span>
 
-<span data-ttu-id="954e2-103">**ملاحظة** يمكنك الوصول إلى مركز أمان Microsoft 365 في [https://security.microsoft.com](https://security.microsoft.com) .</span><span class="sxs-lookup"><span data-stu-id="954e2-103">**Note** You can access the Microsoft 365 security center at [https://security.microsoft.com](https://security.microsoft.com).</span></span>
+<span data-ttu-id="97fc5-103">**ملاحظة** يمكنك الوصول إلى مركز Microsoft 365 في [https://security.microsoft.com](https://security.microsoft.com) .</span><span class="sxs-lookup"><span data-stu-id="97fc5-103">**Note** You can access the Microsoft 365 security center at [https://security.microsoft.com](https://security.microsoft.com).</span></span>
 
-<span data-ttu-id="954e2-104">ب أنت مسؤول Microsoft 365، فإن أفضل طريقة لتحديد سبب تسليم رسالة تصيد احتيالي أو بريد عشوائي هي إرسال العينة إلى Microsoft في "مستكشف عمليات [الإرسال".](https://security.microsoft.com/reportsubmission)</span><span class="sxs-lookup"><span data-stu-id="954e2-104">As a Microsoft 365 admin, the best way to determine why a phishing or spam message was delivered is to submit the sample to Microsoft in [Submissions Explorer](https://security.microsoft.com/reportsubmission).</span></span> <span data-ttu-id="954e2-105">ستحصل على ملاحظات فورية ذات صلة بتصفية الرسائل و سبب وجود مشاكل.</span><span class="sxs-lookup"><span data-stu-id="954e2-105">You'll get immediate feedback related to message filtering and why there are issues.</span></span>
+<span data-ttu-id="97fc5-104">كمسؤول Microsoft 365، فإن أفضل طريقة لتحديد سبب تسليم رسالة تصيد احتيالي أو بريد عشوائي هي إرسال العينة إلى Microsoft في "مستكشف عمليات [الإرسال".](https://security.microsoft.com/reportsubmission)</span><span class="sxs-lookup"><span data-stu-id="97fc5-104">As a Microsoft 365 admin, the best way to determine why a phishing or spam message was delivered is to submit the sample to Microsoft in [Submissions Explorer](https://security.microsoft.com/reportsubmission).</span></span> <span data-ttu-id="97fc5-105">ستحصل على ملاحظات فورية ذات صلة بتصفية الرسائل و سبب وجود مشاكل.</span><span class="sxs-lookup"><span data-stu-id="97fc5-105">You'll get immediate feedback related to message filtering and why there are issues.</span></span>
 
-<span data-ttu-id="954e2-106">لتسهيل الأمر، يمكنك السماح للمستخدمين بلتقارير مباشرة إلى Microsoft عبر الوظائف الإضافية ["رسالة التقرير"](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).</span><span class="sxs-lookup"><span data-stu-id="954e2-106">To make it easer, you can allow your users to report directly to Microsoft via the [Report Message add-in](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).</span></span>
+<span data-ttu-id="97fc5-106">لتسهيل الأمر، يمكنك السماح للمستخدمين بلتقارير مباشرة إلى Microsoft عبر الوظائف الإضافية ["رسالة التقرير"](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).</span><span class="sxs-lookup"><span data-stu-id="97fc5-106">To make it easer, you can allow your users to report directly to Microsoft via the [Report Message add-in](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).</span></span>
 
-<span data-ttu-id="954e2-107">**هل تعلم؟**: يمكنك الآن إرسال [](https://security.microsoft.com/messagetrace) عينات مباشرة من تتبع الرسائل ويمكن لعملاء E5/ATP الخطة 2 إرسال عينات من ["مستكشف التهديدات".](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)</span><span class="sxs-lookup"><span data-stu-id="954e2-107">**Did you know?**: You can now submit samples directly from [Message trace](https://security.microsoft.com/messagetrace) and E5/ATP Plan 2 customers can submit samples from [Threat Explorer](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer).</span></span>
+<span data-ttu-id="97fc5-107">**هل تعلم؟**: يمكنك الآن إرسال [](https://security.microsoft.com/messagetrace) عينات مباشرة من تتبع الرسائل و E5/Microsoft Defender Office 365 يمكن لعملاء الخطة 2 إرسال عينات من ["مستكشف التهديدات".](/microsoft-365/security/office-365-security/threat-explorer)</span><span class="sxs-lookup"><span data-stu-id="97fc5-107">**Did you know?**: You can now submit samples directly from [Message trace](https://security.microsoft.com/messagetrace) and E5/Microsoft Defender for Office 365 Plan 2 customers can submit samples from [Threat Explorer](/microsoft-365/security/office-365-security/threat-explorer).</span></span>
