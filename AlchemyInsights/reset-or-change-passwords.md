@@ -16,17 +16,17 @@ ms.custom:
 - "1100004"
 - "735"
 - "826"
-ms.openlocfilehash: ad5e86b0ee515c674493891c32779d4540e0937c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8714ec8bb90f4c785b20be053b35ca213dd8c61b
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810183"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569638"
 ---
-# <a name="reset-or-change-passwords"></a><span data-ttu-id="6202f-102">إعادة تعيين كلمات المرور أو تغييرها</span><span class="sxs-lookup"><span data-stu-id="6202f-102">Reset or change passwords</span></span>
+# <a name="reset-or-change-passwords"></a><span data-ttu-id="f2987-102">إعادة تعيين كلمات المرور أو تغييرها</span><span class="sxs-lookup"><span data-stu-id="f2987-102">Reset or change passwords</span></span>
 
-<span data-ttu-id="6202f-103">يمكن للمستخدم تغيير كلمة المرور الخاصة به من **أمان حسابي**  >  [& الخصوصية.](https://portal.office.com/account/#security)</span><span class="sxs-lookup"><span data-stu-id="6202f-103">A user can change their own password from **My account** > [Security & privacy](https://portal.office.com/account/#security).</span></span>
+<span data-ttu-id="f2987-103">يمكن للمستخدم تغيير كلمة المرور الخاصة به عن طريق تحديد صورة المستخدم أو الحروف الأولى من > **عرض الحساب.**</span><span class="sxs-lookup"><span data-stu-id="f2987-103">A user can change their own password by selecting their user photo or initials > **View account**.</span></span>
   
-<span data-ttu-id="6202f-104">إذا نسي المستخدم كلمة المرور الخاصة به، يمكن للمسؤول إعادة تعيين كلمة المرور عن طريق الذهاب إلى المستخدمون النشطون ، وحدد المستخدم (المستخدمون)، وانقر  >  [](https://portal.office.com/adminportal/home#/users)فوق إعادة تعيين **كلمة المرور.**</span><span class="sxs-lookup"><span data-stu-id="6202f-104">If the user has forgotten their password, an admin can reset the password by going to **Users** > [Active users](https://portal.office.com/adminportal/home#/users), select the user(s), and click **Reset password**.</span></span>
+<span data-ttu-id="f2987-104">إذا نسي المستخدم كلمة المرور الخاصة به، يمكن للمسؤول إعادة تعيين كلمة المرور عن طريق الذهاب إلى المستخدمون النشطون ، وحدد المستخدم (المستخدمون)، وانقر  >  [](https://portal.office.com/adminportal/home#/users)فوق إعادة تعيين **كلمة المرور.**</span><span class="sxs-lookup"><span data-stu-id="f2987-104">If the user has forgotten their password, an admin can reset the password by going to **Users** > [Active users](https://portal.office.com/adminportal/home#/users), select the user(s), and click **Reset password**.</span></span>
   
-<span data-ttu-id="6202f-105">[انقر هنا لمعرفة المزيد،](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords)أو السماح للمستخدمين بإعادة تعيين كلمات المرور المنسية الخاصة بهم.</span><span class="sxs-lookup"><span data-stu-id="6202f-105">[Click here to learn more](https://docs.microsoft.com/microsoft-365/admin/add-users/reset-passwords), or to let users reset their own forgotten passwords.</span></span>
+<span data-ttu-id="f2987-105">لمعرفة المزيد حول كلمات المرور والسماح للمستخدمين بإعادة تعيين كلمات المرور الخاصة بهم، راجع [إعادة تعيين كلمات المرور](/microsoft-365/admin/add-users/reset-passwords).</span><span class="sxs-lookup"><span data-stu-id="f2987-105">To learn more about passwords and allowing users to reset their own passwords, see [Reset passwords](/microsoft-365/admin/add-users/reset-passwords).</span></span>

@@ -1,5 +1,5 @@
 ---
-title: 'كيفيه التحقق من المجال '
+title: 'كيفية التحقق من مجالك '
 ms.author: pebaum
 author: CrystalThomasMS
 ms.audience: ITPro
@@ -13,17 +13,17 @@ ms.custom:
 - "46"
 - "903"
 - "7"
-ms.openlocfilehash: f6c9b54efd7001ce3c7385fd222cbf562f638bd7
-ms.sourcegitcommit: dd9eb38bf9403de29f46c844cb64bc1d4c515afc
+ms.openlocfilehash: b4a779e5816d5e74b9f2d2b2f7192d918a81686e
+ms.sourcegitcommit: 2d617ae59eed0ce8b571339ceefce6473c03b94c
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49683853"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "52569602"
 ---
-# <a name="how-to-verify-your-domain"></a><span data-ttu-id="6a78e-102">كيفيه التحقق من المجال</span><span class="sxs-lookup"><span data-stu-id="6a78e-102">How to verify your domain</span></span>
+# <a name="how-to-verify-your-domain"></a><span data-ttu-id="6b897-102">كيفية التحقق من مجالك</span><span class="sxs-lookup"><span data-stu-id="6b897-102">How to verify your domain</span></span>
 
-<span data-ttu-id="6a78e-103">للتحقق من مجال ، اتبع [معالج أضافه مجال](https://admin.microsoft.com/Adminportal#/Domains/Wizard)، أو انتقل يدويا إلى **إعدادات**  >    >  **أضافه مجال**.</span><span class="sxs-lookup"><span data-stu-id="6a78e-103">To verify a domain, follow the [Add Domain wizard](https://admin.microsoft.com/Adminportal#/Domains/Wizard), or manually go to **Setup** > **Domains** > **Add domain**.</span></span>
+<span data-ttu-id="6b897-103">للتحقق من مجال، اتبع المعالج [إضافة مجال](https://admin.microsoft.com/Adminportal#/Domains/Wizard)، أو انتقل يدويا إلى **إعداد**  >  **المجالات**  >  **إضافة مجال**.</span><span class="sxs-lookup"><span data-stu-id="6b897-103">To verify a domain, follow the [Add Domain wizard](https://admin.microsoft.com/Adminportal#/Domains/Wizard), or manually go to **Setting** > **Domains** > **Add domain**.</span></span>
 
-<span data-ttu-id="6a78e-104">للحصول علي مزيد من المعلومات حول تغييرات DNS المطلوبة للتحقق من مجالك ، راجع الإرشادات الموجودة في [أضافه سجلات dns لتوصيل مجالك](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span><span class="sxs-lookup"><span data-stu-id="6a78e-104">For more information about DNS changes required to verify your domain, see the instructions in [Add DNS records to connect your domain](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span></span>
+<span data-ttu-id="6b897-104">لمزيد من المعلومات حول تغييرات DNS المطلوبة للتحقق من مجالك، راجع الإرشادات الواردة في [إضافة سجلات DNS لتوصيل مجالك](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span><span class="sxs-lookup"><span data-stu-id="6b897-104">For more information about DNS changes required to verify your domain, see the instructions in [Add DNS records to connect your domain](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).</span></span>
 
-<span data-ttu-id="6a78e-105">بالنسبة إلى اسئله المجالات الأخرى ، راجع الاسئله [المتداولة حول المجالات](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span><span class="sxs-lookup"><span data-stu-id="6a78e-105">For other domains questions, see the [Domains FAQ](https://docs.microsoft.com/microsoft-365/admin/setup/domains-faq).</span></span>
+<span data-ttu-id="6b897-105">بالنسبة لأسئلة المجالات الأخرى، راجع [الأسئلة الشائعة حول المجالات](/microsoft-365/admin/setup/domains-faq).</span><span class="sxs-lookup"><span data-stu-id="6b897-105">For other domains questions, see the [Domains FAQ](/microsoft-365/admin/setup/domains-faq).</span></span>
