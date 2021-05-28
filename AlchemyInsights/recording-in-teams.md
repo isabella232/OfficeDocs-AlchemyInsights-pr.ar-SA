@@ -12,25 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002530"
 - "5037"
-ms.openlocfilehash: 0cce7319860b28ccb6fc9da053f6ce127b8504fa
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 34a034bd06599685e0cb0b9e127aab0c8f1691a3
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809750"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52697017"
 ---
 # <a name="recording-in-teams"></a>التسجيل في Teams
 
-يمكن الآن تخزين تسجيل اجتماع Microsoft Teams في OneDrive أو SharePoint، للحصول على مزيد من المعلومات ولإلغاء الاشتراك، راجع منشور مركز الرسائل التالي: [(محدث) Microsoft Teams:](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640) حفظ تسجيلات الاجتماعات في OneDrive و SharePoint
+إذا كان زر  بدء التسجيل الخاص بمستخدم رمادي اللون أو مفقودا في اجتماع Teams، فحاول تشغيل تشخيص تسجيل الاجتماع بكتابة **Diag: تسجيل** الاجتماع في المربع أعلاه. 
 
-إن نقل موقع التخزين إلى OneDrive أو SharePoint يزيل المتطلب السابق الذي يقضي بأن يكون Stream متوفرا في المنطقة.
+Microsoft Teams الآن تخزين تسجيلات الاجتماعات في OneDrive Sharepoint. يعمل نقل موقع التخزين OneDrive SharePoint على إصلاح المشكلة التي لا تعمل فيها تسجيلات الاجتماعات لأن Stream غير متوفر في المنطقة. لمزيد من المعلومات، راجع [الأسئلة الشائعة](/stream/faq#which-regions-does-microsoft-stream-host-my-data-in)حول Microsoft Stream .
 
-للتعرف على  كيفية تمكين ميزة التسجيل وتكوينها في Teams لمنظمتك، بما في ذلك عناصر التحكم لتمكين تسجيل الاجتماعات أو تعطيله لمستخدمين محددين، راجع تسجيل اجتماعات [Teams السحابية](https://docs.microsoft.com/microsoftteams/cloud-recording).
+لمزيد من المعلومات حول حفظ تسجيلات الاجتماعات، راجع منشور مركز الرسائل: [(محدث) Microsoft Teams:](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)تسجيلات الاجتماعات المحفوظة في OneDrive و Sharepoint .
 
-إذا تعذر عليك التسجيل في Teams أو **كنت** بحاجة إلى فهم كيفية التسجيل في Teams، فجرب إحدى المقالات التالية:
+للتعرف على كيفية تمكين ميزة التسجيل وتكوينها في Teams لمنظمتك، بما في ذلك عناصر التحكم لتمكين تسجيل الاجتماعات أو تعطيله لمستخدمين محددين، راجع Teams في [السحابة.](/microsoftteams/cloud-recording) 
 
-- إذا لم تكن قد اخترت بعد تخزين OneDrive أو SharePoint لتسجيل اجتماعات Teams، فإن هذه الإمكانات تعتمد على توفر Stream الإقليمي والبلدي. إذا لم تتمكن من تسجيل اجتماع، فتأكد من توفر [Stream في بلدك أو المنطقة.](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in) للحصول على مزيد من المعلومات، تأكد من مراجعة منشور مركز الرسائل التالي في مدخل المسؤول: الميزة المحدثة: عنصر تحكم التخزين الإقليمي [لتسجيلات سحابة Microsoft Stream](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)
+إذا كنت لا تزال غير قادر على التسجيل في Teams أو كنت بحاجة إلى فهم كيفية التسجيل في Teams، فشاهد: 
 
-- يتطلب تسجيل الاجتماع في Teams [تعيين](https://docs.microsoft.com/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording)تراخيص ونهج معينة، بما في ذلك تراخيص Stream لتحميل تسجيلات الاجتماعات أو تنزيلها إلى Microsoft Stream.
+[الميزة المحدثة: عنصر تحكم التخزين الإقليمي لتسجيلات سحابة Microsoft Stream](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)
 
-- بمجرد التأكد من تلبية جميع المتطلبات، بما في ذلك الترخيص والسياسات والتوفر الإقليمي ل Stream، راجع تسجيل [اجتماع في Teams](https://support.office.com/article/34dfbe7f-b07d-4a27-b4c6-de62f1348c24).
+يتطلب تسجيل الاجتماعات في Teams تراخيص ونهج معينة معينة، بما في ذلك تراخيص Stream لتحميل تسجيلات الاجتماعات أو تنزيلها إلى Microsoft Stream. للحصول على التفاصيل، راجع [المتطلبات الأساسية Teams اجتماع السحابة](/microsoftteams/cloud-recording#prerequisites-for-teams-cloud-meeting-recording).
+
+بمجرد التأكد من تلبية جميع المتطلبات، بما في ذلك الترخيص والسياسات والتوفر الإقليمي ل Stream، راجع [تسجيل اجتماع في Teams.](https://support.office.com/article/34dfbe7f-b07d-4a27-b4c6-de62f1348c24) 

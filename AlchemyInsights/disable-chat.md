@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6889"
 - "9000738"
-ms.openlocfilehash: ab1c412f0214f0e2cea8351415f8c550ada9409a
-ms.sourcegitcommit: e943554d921772fc9df4e65e72b05525e6630f15
+ms.openlocfilehash: 2290950f6a6b4680b3c436307f5c2dbaa1be527d
+ms.sourcegitcommit: 610a5d950cdf488870601762ef52d881e3e22a48
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52573733"
+ms.lasthandoff: 05/28/2021
+ms.locfileid: "52696873"
 ---
 # <a name="disable-chat"></a>تعطيل الدردشة
 
@@ -26,7 +26,7 @@ ms.locfileid: "52573733"
 
 - **الاجتماع**: في مركز Teams، انتقل إلى سياسات الاجتماع [-](https://admin.teams.microsoft.com/) إعداد الدردشة هو **السماح بالدردشة في الاجتماعات**. لمزيد من المعلومات حول إنشاء سياسات الاجتماعات المخصصة، راجع إدارة [سياسات](/microsoftteams/meeting-policies-in-teams) الاجتماعات في Teams [والسماح بالدردشة في الاجتماعات](/microsoftteams/meeting-policies-in-teams#allow-chat-in-meetings).
 
-- **M*essaging**: في مركز إدارة Teams، انتقل إلى سياسات المراسلة [،](https://admin.teams.microsoft.com/)وا تبديل الدردشة **بين التشغيل** أو **إيقاف التشغيل**. لمزيد من المعلومات حول سياسات المراسلة المخصصة وكيفية تعيين سياسات للمستخدمين، راجع إدارة سياسات المراسلة [في Teams](/microsoftteams/messaging-policies-in-teams).
+- **المراسلة**: في مركز إدارة Teams، انتقل إلى [سياسات](https://admin.teams.microsoft.com/)المراسلة ، وا تبديل الدردشة **بين التشغيل** أو **إيقاف التشغيل**. لمزيد من المعلومات حول سياسات المراسلة المخصصة وكيفية تعيين سياسات للمستخدمين، راجع إدارة سياسات المراسلة [في Teams](/microsoftteams/messaging-policies-in-teams).
 
 - **الطلاب**: لتعطيل الدردشة لطالب، راجع خيارات السماح بالدردشة في الاجتماعات والسماح بدردشة 1:1 في Teams وحزم النهج [للتعليم.](/microsoftteams/policy-packages-edu)
 
