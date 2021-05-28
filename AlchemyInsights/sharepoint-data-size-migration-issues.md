@@ -1,5 +1,5 @@
 ---
-title: مشاكل اثناء ترحيل البيانات إلى SharePoint Online
+title: المشاكل أثناء عملية نقل البيانات إلى SharePoint Online
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "1885"
-ms.openlocfilehash: 277ef2d66c51322c095de3dcc6012562a9913161
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 62664cc6a5ae57b45cd3edbd99db19f6c376f3f9
+ms.sourcegitcommit: c32233a1b7e6f1b07913d25f90189a58a8de2560
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47700874"
+ms.lasthandoff: 05/27/2021
+ms.locfileid: "52694763"
 ---
-# <a name="issues-while-migrating-data-to-sharepoint-online"></a>مشاكل اثناء ترحيل البيانات إلى SharePoint Online
+# <a name="issues-while-migrating-data-to-sharepoint-online"></a>المشاكل أثناء عملية نقل البيانات إلى SharePoint Online
 
-**ترحيل أكثر من 100 تيرابايت من البيانات**
+**نقل أكثر من 100 ترابايت من البيانات**
 
-يبدو انك تقوم بالترحيل عبر 100 تيرابايت من البيانات إلى SharePoint Online. الرجاء اتباع الخطوات الواردة أدناه لمساعدتك في أقرب وقت ممكن. 
+يبدو أنك تقوم بتريغ أكثر من 100 ترابايت من البيانات SharePoint عبر الإنترنت. يرجى اتباع الخطوات أدناه حتى يمكننا مساعدتك في أسرع وقت ممكن. 
 
-1. حدد **طلب خدمه جديد**، ثم **طلب خدمه جديد**. 
-2. اترك العنوان والوصف **كترحيل SharePoint علي 100 تيرابايت**.
-3. بمجرد ان يتم إرسال البطاقة ، يرجى تحديثها بالمعلومات التالية: 
+1. حدد **الاتصال بالدعم**، ثم **طلب خدمة جديد**. 
+2. اترك العنوان والوصف كعنوان SharePoint أكثر من **100 ترابايت.**
+3. بعد إرسال التذكرة، يرجى تحديثها بالمعلومات التالية: 
 
-    - الحجم المقدر للترحيل.
+    - الحجم المقدر ل الترحيل.
     - تقدير الوقت الذي تريد فيه بدء الترحيل وإكماله.
-    - وصف المكان الذي تقوم فيه بترحيل المحتوي من ، مثل SharePoint Server ، والمربع ، وجدريفي الملفات ، وما إلى ذلك.
+    - وصف المكان الذي تقوم بتهجر المحتوى منه، مثل SharePoint Server أو Box أو GDrive أو أسهم الملف وغير ذلك.
