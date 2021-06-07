@@ -12,14 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: 8755fde0cb22dd79612c74d8c7af792625405ac2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 46a9be285ec7e0eb491ec73651f81ea5a33654d2
+ms.sourcegitcommit: 1eee2412dfb8b1f10a3aa28dd1086a0c589cdba0
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823018"
+ms.lasthandoff: 06/07/2021
+ms.locfileid: "52798595"
 ---
 # <a name="activating-microsoft-365-apps"></a>تنشيط تطبيقات Microsoft 365
+
+**ملاحظة:** إذا كنت تستخدم إصدارا قديما من Windows (على سبيل المثال، Windows 7)، فتأكد من تمكين TLS 1.2 كافتراضي. لمزيد من المعلومات، راجع التحديث لتمكين [TLS 1.1 و TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)كبروتوكولات آمنة افتراضية في WinHTTP في Windows .
 
 لتنشيط Office، اطلع على ما يلي:
 
@@ -27,7 +29,7 @@ ms.locfileid: "51823018"
 
 - [تنشيط Office على جهاز Mac](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**ملاحظة:**  تأكد من أن لديك اشتراك Office 365 أو Microsoft 365 يتضمن تطبيقات عميل [Office](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)، على سبيل المثال، Microsoft 365 Business Standard أو Microsoft 365 Apps للأعمال أو تطبيقات Microsoft 365 للمؤسسات. بالإضافة إلى ذلك، تأكد من تعيين ترخيص لحساب المستخدم الذي تستخدمه في تسجيل الدخول إلى تطبيقات Office [.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+**ملاحظة:**  تأكد من وجود اشتراك Office 365 أو Microsoft 365 يتضمن [](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)Office العميل ، على سبيل المثال، Microsoft 365 Business Standard أو Microsoft 365 Apps for business أو Microsoft 365 Apps for enterprise. بالإضافة إلى ذلك، تأكد من تعيين ترخيص لحساب المستخدم الذي تستخدمه Office تسجيل الدخول إلى [تطبيقاتك.](/microsoft-365/admin/manage/assign-licenses-to-users)
 
 لإصلاح مشاكل تنشيط Office، اطلع على ما يلي:
 
@@ -36,9 +38,9 @@ ms.locfileid: "51823018"
 
 - [الخطوات التي يجب اتباعها إذا لم تتمكن من تثبيت Office for Mac أو تنشيطه](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
 
-**تلميح** على أجهزة Windows، يمكننا تشخيص العديد من مشاكل تسجيل الدخول الشائعة في Office وإصلاحها تلقائيا من أجلك. قم  **[بتنزيل مساعد الاسترداد والدعم من Microsoft](https://aka.ms/SaRA-OfficeSignInScenario)** وتشغيله لاستخدام الأداة التلقائية.
+**تلميح** على Windows الأجهزة، يمكننا تشخيص العديد من مشاكل تسجيل الدخول الشائعة Office تلقائيا. قم بتنزيل **[Microsoft مساعد الإصلاح والدعم](https://aka.ms/SaRA-OfficeSignInScenario)** لاستخدام الأداة التلقائية.
 
-إذا تعذر عليك تسجيل الدخول إلى تطبيقات Microsoft 365، فاتبع الخطوات أدناه:
+إذا تعذر عليك تسجيل الدخول إلى Microsoft 365 التطبيقات، فاتبع الخطوات أدناه:
 
 1. افتح تطبيق Office، و[سجّل الخروج](https://go.microsoft.com/fwlink/?linkid=2114082)من أي حساب موجود للمستخدم.
 
@@ -46,6 +48,6 @@ ms.locfileid: "51823018"
 
 3. من خلال **إعدادات Windows > الحسابات > الوصول إلى العمل أو المؤسسة التعليمية**، قم بإلغاء توصيل حسابات العمل القديمة وغير المستخدمة
 
-4. [قم بإعادة تعيين حالة تنشيط Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state) ثم [سجّل الدخول إلى تطبيقات](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426) Office باستخدام الحساب الجديد.
+4. [قم بإعادة تعيين حالة تنشيط Office](/office365/troubleshoot/activation/reset-office-365-proplus-activation-state) ثم [سجّل الدخول إلى تطبيقات](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426) Office باستخدام الحساب الجديد.
 
 للحصول على الإجراءات الإضافية لاستكشاف الأخطاء وإصلاحها، اطلع على [ظهور إشعار للاشتراك عند فتح تطبيق Office 365](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb).
