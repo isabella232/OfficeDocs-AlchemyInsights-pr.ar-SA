@@ -12,25 +12,27 @@ ms.custom:
 - "891"
 - "1600049"
 ms.assetid: 729fdf4e-810a-4a99-9438-60ae8291fe4c
-ms.openlocfilehash: 9c879512c5fbdfafe6162490cafacd0f409792db
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d148f528ba74c71bbcc34482e42ba06c12a485e2
+ms.sourcegitcommit: 8878c313b41194808bd88b1f6b766f76ed17bc09
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755627"
+ms.lasthandoff: 06/09/2021
+ms.locfileid: "52853856"
 ---
 # <a name="information-about-gdpr"></a>معلومات حول GDPR
 
-- بدء استخدام [مدخل الثقة بالخدمة.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
+- [GDPR مبسط: دليل للشركات الصغيرة](/microsoft-365/admin/security-and-compliance/gdpr-compliance)
 
-- بالنسبة إلى اي شيء مرتبط **باتفاقيه معالجه البيانات** (دبا) ، راجع:
+- بدء الاستخدام مع Service [Trust Portal.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
+
+- للحصول على أي شيء يتعلق **باتفاقية معالجة** البيانات (DPA)، راجع:
 
   - [موارد حماية البيانات](https://servicetrust.microsoft.com/ViewPage/TrustDocuments)
 
   - [تقارير التدقيق](https://servicetrust.microsoft.com/ViewPage/MSComplianceGuide)
 
-- معلومات حول **طلبات مواضيع البيانات** (DSR)-الاكتشاف والوصول إلى ريكتيفي والتقييد والحذف والتصدير [هنا.](https://docs.microsoft.com/microsoft-365/compliance/gdpr-dsr-office365)
+- معلومات حول **طلبات موضوع** البيانات (DSR) - يمكن اكتشافها والوصول إليها وتصحيحها وتقييدها وحذفها [وتصديرها هنا.](/microsoft-365/compliance/gdpr-dsr-office365)
 
-- معلومات حول **اعلام خرق البيانات** [هنا.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
+- تتوفر معلومات **حول الإعلام بخرق** [البيانات هنا.](https://servicetrust.microsoft.com/ViewPage/GDPRBreach)
 
-- المعلومات [المتوفرة](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All) في **مواقع البيانات** هنا.
+- تتوفر معلومات **حول مواقع** [البيانات هنا.](https://products.office.com/where-is-your-data-located?ms.officeurl=datamaps&amp;geo=All#All)
