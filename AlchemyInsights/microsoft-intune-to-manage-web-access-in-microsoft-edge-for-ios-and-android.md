@@ -1,5 +1,5 @@
 ---
-title: استخدام Microsoft Intune لأداره الوصول إلى الويب في Microsoft Edge ل iOS و Android
+title: استخدام Microsoft Intune لإدارة الوصول إلى الويب في Microsoft Edge لنظامي التشغيل iOS وAndroid
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,35 +12,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003846"
 - "6895"
-ms.openlocfilehash: 4d6ab4df4ff9588ce5052421602e347c76c91c3f
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+- "9006502"
+- "11144"
+ms.openlocfilehash: a6c6f9563933b7cf6b71c4758c29ffd94617c4be
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49676773"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989636"
 ---
-# <a name="use-microsoft-intune-to-manage-web-access-in-microsoft-edge-for-ios-and-android"></a>استخدام Microsoft Intune لأداره الوصول إلى الويب في Microsoft Edge ل iOS و Android
+# <a name="use-microsoft-intune-to-manage-web-access-in-microsoft-edge-for-ios-and-android"></a>استخدام Microsoft Intune لإدارة الوصول إلى الويب في Microsoft Edge لنظامي التشغيل iOS وAndroid
 
-يسمح Microsoft Edge ل iOS و Android لمستخدم باستعراض الويب من العديد من ملفات التعريف المنفصلة بالبالكامل.
+يتيح Microsoft Edge لنظامي التشغيل iOS وAndroid للمستخدم استعراض الويب من ملفات تعريف متعددة منفصلة تماما.
 
-تتوفر قدرات الحماية الأكبر لبيانات Microsoft 365 عند الاشتراك في التنقل عبر المؤسسة + مجموعه الأمان ، التي تتضمن ميزات Microsoft Intune و Azure Active directory Premium ، مثل الوصول المشروط. بحد ادني ، ستحتاج إلى نشر نهج وصول مشروط (1) يسمح للمستخدمين بالاتصال من الاجهزه المحمولة ب Microsoft Edge ل iOS و Android وانه (2) يطبق نهج حماية تطبيق Microsoft Intune الذي يوفر تجربه استعراض محمية.
+تتوفر إمكانات الحماية الأكبر لبيانات Microsoft 365 عند الاشتراك في مجموعة Enterprise Mobility + Security، التي تتضمن ميزات Microsoft Intune و Azure Active Directory Premium، مثل الوصول الشرطي. على الأقل، سترغب في نشر نهج وصول شرطي يسمح (1) للمستخدمين بالاتصال من الأجهزة المحمولة ب Microsoft Edge لنظامي التشغيل iOS وAndroid، وذلك (2) بتنفيذ نهج حماية تطبيق Microsoft Intune الذي يوفر تجربة استعراض محمية.
 
-لفهم كيف يمكنك استخدام الوصول الشرطي والنهج ، راجع:
+لفهم كيفية استخدام الوصول الشرطي ونهجه، راجع:
 
-[تطبيق نهج الوصول المشروط ل Azure Active directory](https://go.microsoft.com/fwlink/?linkid=2132481)
+[تطبيق سياسات الوصول الشرطي في Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=2132481)
 
-[إنشاء نهج حماية تطبيق Microsoft Intune](https://go.microsoft.com/fwlink/?linkid=2132651)
+[إنشاء سياسات حماية تطبيق Microsoft Intune](https://go.microsoft.com/fwlink/?linkid=2132651)
 
-[استخدام تسجيل الدخول الأحادي ل Azure Active directory-تطبيقات ويب متصلة في مستعرضات محمية بالنهج](https://go.microsoft.com/fwlink/?linkid=2132482)
+[استخدام تسجيل الدخول المفرد لتطبيقات الويب المتصلة ب Azure Active Directory في المستعرضات المحمية ب النهج](https://go.microsoft.com/fwlink/?linkid=2132482)
 
-[استخدام تكوين التطبيق لأداره تجربه الاستعراض](https://go.microsoft.com/fwlink/?linkid=2132483)
+[استخدام تكوين التطبيق لإدارة تجربة الاستعراض](https://go.microsoft.com/fwlink/?linkid=2132483)
 
 [السماح باستخدام حسابات العمل والمدرسة فقط](https://go.microsoft.com/fwlink/?linkid=2132652)
 
-[نشر نهج تكوين التطبيقات العامة](https://go.microsoft.com/fwlink/?linkid=2132653)
+[نشر سياسات تكوين التطبيق العامة](https://go.microsoft.com/fwlink/?linkid=2132653)
 
-[نشر نهج تكوين التطبيق لحماية البيانات](https://go.microsoft.com/fwlink/?linkid=2132654)
+[نشر سياسات تكوين التطبيق لحماية البيانات](https://go.microsoft.com/fwlink/?linkid=2132654)
 
-[استخدام Microsoft Endpoint Manager لنشر نهج تكوين التطبيق](https://go.microsoft.com/fwlink/?linkid=2132707)
+[استخدام Microsoft Endpoint Manager لنشر سياسات تكوين التطبيق](https://go.microsoft.com/fwlink/?linkid=2132707)
 
-للتعرف علي كيفيه الوصول إلى سجلات التطبيقات المدارة ، راجع [استخدام Microsoft Edge ل iOS و Android للوصول إلى سجلات التطبيقات المدارة](https://go.microsoft.com/fwlink/?linkid=2132578).
+للتعرف على كيفية الوصول إلى سجلات التطبيقات المدارة، راجع [استخدام Microsoft Edge لنظامي التشغيل iOS](https://go.microsoft.com/fwlink/?linkid=2132578)وAndroid للوصول إلى سجلات التطبيقات المدارة .

@@ -12,16 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005291"
 - "9140"
-ms.openlocfilehash: 91f94fa8739bad387c18586fc89f69cc49675b04
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
+- "11087"
+- "9006490"
+ms.openlocfilehash: dd3449ccd6eeb5fc9162e9679f5de39bacc46efa
+ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51034802"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "52989920"
 ---
 # <a name="plan-your-deployment-of-microsoft-edge"></a>التخطيط لنشر Microsoft Edge
 
-قد يكون نشر مستعرض جديد إلى مجموعة من المستخدمين مخيفا. يمكننا مساعدتك على تقحامه إلى خطوات وإعحامك في كل خطوة. إذا كنت تتبع هذه الخطوات السبع، سيكون لديك نشر Microsoft Edge بنجاح مع الحد الأدنى من شعور المستخدم بالإحباط:
+قد يكون نشر مستعرض جديد إلى مجموعة من المستخدمين مخيفا. يمكننا مساعدتك على تقحامه إلى خطوات وإعحامك في كل خطوة. إذا كنت تتبع هذه الخطوات السبع، سيكون لديك عملية نشر ناجحة Microsoft Edge مع الحد الأدنى من شعور المستخدم بالإحباط:
 
 1. تقييم بيئة المستعرض الحالية واحتياجاته.
 2. حدد منهجية النشر.
@@ -29,6 +31,6 @@ ms.locfileid: "51034802"
 4. حدد استراتيجية القناة.
 5. تعريف السياسات وتكوينها.
 6. إجراء اختبار توافق التطبيق.
-7. نشر Microsoft Edge إلى مجموعة تجريبية والتحقق من صحتها.
+7. ان Microsoft Edge مجموعة تجريبية والتحقق من صحتها.
 
-للعمل على تنفيذ هذه الخطوات بنفسك، راجع [التخطيط لنشر Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2129990).
+للعمل على تنفيذ هذه الخطوات بنفسك، راجع [التخطيط لنشر](https://go.microsoft.com/fwlink/?linkid=2129990)Microsoft Edge .
