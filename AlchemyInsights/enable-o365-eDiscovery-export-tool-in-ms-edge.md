@@ -1,5 +1,5 @@
 ---
-title: تمكين أداه تصدير Office 365 eDiscovery في Microsoft Edge
+title: تمكين Office 365 تصدير eDiscovery في Microsoft Edge
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,21 @@ ms.collection: Admin_O365
 ms.custom:
 - "9003878"
 - "6930"
-ms.openlocfilehash: c3d4b45d77ffb47db458f11aeab183230d3fa9cc
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+- "11694"
+- "9006005"
+ms.openlocfilehash: 00b64ee8999ce47cac1f36a8fc3af32783e2e1a1
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583151"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023162"
 ---
-# <a name="enable-office-365-ediscovery-export-tool-in-microsoft-edge"></a>تمكين أداه تصدير Office 365 eDiscovery في Microsoft Edge
+# <a name="enable-office-365-ediscovery-export-tool-in-microsoft-edge"></a>تمكين Office 365 تصدير eDiscovery في Microsoft Edge
 
-لم يعد دعم ClickOnce ممكنا في Microsoft Edge بشكل افتراضي. للاستمرار في استخدام أداه التصدير الخاصة ب Microsoft Office 365 eDiscovery ، ستحتاج إلى استخدام Microsoft Internet Explorer أو تمكين خيار دعم ClickOnce في Microsoft Edge القائم علي تشروميوم ، كما يلي:
+لم يعد ClickOnce الدعم ممكنا في Microsoft Edge بشكل افتراضي. لمتابعة استخدام أداة تصدير Microsoft Office 365 eDiscovery، ستحتاج إلى استخدام Microsoft Internet Explorer أو تمكين خيار دعم ClickOnce في Chromium المستند إلى Microsoft Edge، كما يلي:
 
-1. انتقل إلى edge://flags/#edge النقر مره واحده.
-1. بالنسبة إلى خيار **دعم ClickOnce** ، غير القيمة **الافتراضية** أو **المعطلة** إلى **ممكن**.
-1. في أسفل نافذه المستعرض ، انقر فوق **أعاده التشغيل**. سيصبح التغيير ساري المفعول بعد أعاده تشغيل Microsoft Edge.
+1. انتقل إلى edge://flags/#edge-click-once.
+1. بالنسبة إلى **ClickOnce الدعم،** غير القيمة  من افتراضي أو **معطل** إلى **تمكين**.
+1. في أسفل نافذة المستعرض، انقر فوق **إعادة تشغيل**. سيتم بدء التغيير بعد إعادة Microsoft Edge.
 
-لمعرفه المزيد ، راجع [استخدام أداه تصدير Office 365 eDiscovery في Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2111611).
+لمعرفة المزيد، راجع [استخدام Office 365 تصدير eDiscovery في Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2111611).

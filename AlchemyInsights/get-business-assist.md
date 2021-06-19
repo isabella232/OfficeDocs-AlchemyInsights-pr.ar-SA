@@ -13,17 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500026"
 - "11658"
-ms.openlocfilehash: 3adb6fb2beb8d959d170ab08ca0592a81bc62d76
-ms.sourcegitcommit: a739b533b13a9dd4c4b63f91df5629e27cc86d3d
+ms.openlocfilehash: 9a80ed4740fbc0ecb6fcdb4775678aa88ef21339
+ms.sourcegitcommit: 94a687ebff18b0c61a9f049774a0682ba8b998e1
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/16/2021
-ms.locfileid: "53004965"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "53023126"
 ---
 # <a name="get-business-assist"></a>الحصول على المساعدة في العمل
 
-1. في مركز مسؤولي Microsoft 365، انتقل إلى **المساعدة في الأعمال**  >  **للاشتراكات**.
-
-1. حدد **شراء المساعدة** في  >  **العمل**، واتبع المعالج لشراء المساعدة في العمل.
+1. في مركز مسؤولي Microsoft 365، انتقل إلى صفحة مساعدة الأعمال لـ Microsoft 365 [،](https://go.microsoft.com/fwlink/p/?linkid=2158423)وحدد تكرار الفوترة، ثم حدد **شراء**.
+2. اتبع الخطوات للتحقق.
 
 لمعرفة المزيد، [راجع](/microsoft-365/admin/misc/business-assist)مساعدة الأعمال لـ Microsoft 365 .
