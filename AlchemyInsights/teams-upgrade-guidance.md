@@ -1,5 +1,5 @@
 ---
-title: إرشادات ترقيه الفرق
+title: Teams إرشادات الترقية
 ms.author: heidip
 author: microsoftheidi
 ms.audience: ITPro
@@ -11,27 +11,25 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 391d1253fd625004308a0cd1359cc0ccc46e1b95
-ms.sourcegitcommit: 9a39e7cff11854c54c717a2c0094bfdfefee4ffd
+ms.openlocfilehash: 477796e3a89333214ff8892f345f24b2b43c35c3
+ms.sourcegitcommit: 554d0c9b90134243078dfa363d6c729495841f6b
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/01/2020
-ms.locfileid: "48333915"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53095387"
 ---
-# <a name="microsoft-teams-upgrade"></a>ترقيه فرق Microsoft
+# <a name="microsoft-teams-upgrade"></a>Microsoft Teams الترقية
 
-**هام**: إذا تمت ترقيتك من Skype For business Online إلى فرق Microsoft في وضع الفرق فقط ، ولكنك لم تكن مستعدا حتى الآن ، فيمكننا مساعدتك علي إصلاح ذلك باستخدام تشخيص الدعم. تاكد من انك تستخدم مركز الاداره الجديد عن طريق تمرير التبديل في الجزء العلوي الأيسر الذي يشير إلى **مركز الاداره الجديد**إلى اليسار. باستخدام مركز الاداره الجديد ، انقر **فوق عنصر واجهه** المستخدم ، واكتب "**ترقيه الفرق**" ، ثم اتبع المطالبات لتشغيل التشخيص.
+سواء كنت قد بدأت باستخدام Teams، أو تستخدم Teams إلى جانب Skype for Business، أو جاهزا للترقية، فنحن نريد التأكد من أن لديك كل ما تحتاج إليه للتنقل في رحلة ناجحة Teams. لمزيد من المعلومات، يرجى زيارة الارتباطات أدناه.
 
-سواء كنت تقوم بالبدء باستخدام الفرق أو بالفعل باستخدام الفرق بالنسبة إلى Skype for Business ، أو إذا كنت جاهزا للترقية ، فنريد التاكد من انك لديك كل ما تحتاجه للتنقل في رحله إلى الفرق بنجاح. لمزيد من المعلومات ، يرجى زيارة الارتباطات أدناه.
+[بدء العمل مع Microsoft Teams الترقية](/MicrosoftTeams/upgrade-start-here)
 
-[بدء استخدام ترقيه فرق Microsoft](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
+[التخطيط للترقية](/MicrosoftTeams/upgrade-plan-journey)
 
-[التخطيط للترقية](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
+[فهم Microsoft Teams Skype for Business المشترك](/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
 
-[فهم فرق Microsoft و Skype for Business استضافه](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+[تنفيذ الترقية من Skype for Business Online إلى Teams](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
 
-[اجراء الترقية من Skype for Business Online إلى الفرق](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
-
-[اجراء الترقية من Skype for Business المحلي إلى الفرق](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[تنفيذ الترقية من Skype for Business إلى Teams](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[التحقق من حاله Skype for Business Online إلى تحديث الفرق باستخدام PowerShell](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[التحقق من حالة Skype for Business Online Teams الترقية باستخدام PowerShell](/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)

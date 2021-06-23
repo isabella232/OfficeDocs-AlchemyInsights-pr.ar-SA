@@ -1,5 +1,5 @@
 ---
-title: حل مشاكل مصادقة SMTP
+title: تمكين مصادقة SMTP وإصلاحها
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,17 +12,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "5652"
-ms.openlocfilehash: 2d3f0f6b700c3e4485c9064fbaa4bcc165e92e17
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 4695a2f111823739c4d87fa2b262a5e64e080955
+ms.sourcegitcommit: 2103d706492ad7ee9596344714c0520569ebd6af
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826402"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "53077638"
 ---
-# <a name="solving-smtp-authentication-issues"></a>حل مشاكل مصادقة SMTP
+# <a name="enable-smtp-authentication-and-troubleshooting"></a>تمكين مصادقة SMTP وإصلاحها
 
-إذا كنت تحصل على أخطاء 5.7.57 أو 5.7.3 عند محاولة إرسال بريد SMTP الإلكتروني والمصادقة مع عميل أو تطبيق، فهناك بعض الأمور التي يجب التحقق من صحتها:
+إذا كنت تريد تمكين مصادقة SMTP لعلبة بريد أو إذا كنت تحصل على رسالة الخطأ "العميل غير مصدق عليه" أو "المصادقة غير ناجحة" أو "SmtpClientAuthentication" مع الرمز 5.7.57 أو 5.7.3 أو 5.7.139 عند محاولة ترحيل البريد الإلكتروني عن طريق مصادقة جهاز أو تطبيق باستخدام Microsoft 365، يمكنك تنفيذ هذه الإجراءات الثلاثة لحل المشكلة:
 
-- قد يتم تعطيل إرسال SMTP المصادق عليه في المستأجر أو في علبة البريد التي تحاول استخدامها (تحقق من الإعدادين). لقراءة المزيد، راجع [تمكين إرسال SMTP](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission)للعميل المصادق عليه أو تعطيله .
+1. قم [بتعطيل إعدادات أمان Azure الافتراضية](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) عن طريق تبديل **تمكين إعدادات الأمان الافتراضية** إلى **لا**.
 
-- تحقق مما إذا [كانت إعدادات أمان Azure الافتراضية](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) تم تمكينها للمستأجر الخاص بك؛ إذا تم تمكينها، ستفشل مصادقة SMTP باستخدام المصادقة الأساسية (المعروفة أيضا باسم القديمة؛ حيث سيستخدم هذا اسم المستخدم وكلمة المرور).
+    أ. سجل دخولك إلى مدخل Azure كمسؤول أمان أو مسؤول وصول شرطي أو مسؤول عام.<BR/>
+    ب. استعرض إلى Azure Active Directory > **خصائص .**<BR/>
+    ج. حدد **إدارة إعدادات الأمان الافتراضية**.<BR/>
+    د. تعيين **تمكين إعدادات الأمان الافتراضية** إلى **لا**.<BR/>
+    ه. حدد **حفظ**.
+
+2. [تمكين إرسال SMTP للعميل](/exchange/clients-and-mobile-in-exchange-online/authenticated-client-smtp-submission#enable-smtp-auth-for-specific-mailboxes) على علبة البريد المرخصة.
+
+    أ. من مركز مسؤولي Microsoft 365، انتقل إلى **المستخدمون النشطون**، وحدد المستخدم.<BR/>
+    ب. انتقل إلى علامة التبويب البريد، و ضمن **تطبيقات البريد الإلكتروني،** حدد **إدارة تطبيقات البريد الإلكتروني**.<BR/>
+    د. تأكد من **أن SMTP المصادق** عليه محدد (تم تمكينه).<BR/>
+    ه. حدد **حفظ التغييرات**.<BR/>
+
+3. [قم بتعطيل المصادقة متعددة العوامل (MFA)](/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication#turn-off-legacy-per-user-mfa) على علبة البريد المرخصة.
+
+    أ. انتقل إلى مركز مسؤولي Microsoft 365، وفي قائمة التنقل اليسرى حدد  >  **المستخدمون المستخدمون النشطون**.<BR/>
+    ب. حدد **المصادقة متعددة العوامل**.<BR/>
+    ج. حدد المستخدم وعطل **وثة متعددة العوامل**.<BR/>
