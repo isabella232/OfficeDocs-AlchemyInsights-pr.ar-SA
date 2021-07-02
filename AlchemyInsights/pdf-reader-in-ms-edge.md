@@ -13,15 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003880"
 - "6933"
-ms.openlocfilehash: 920b052f1d4d5c84a01bfc72173e6c52a2e3764d
-ms.sourcegitcommit: aa38be400401940110e43436e390477c290bdfda
+- "11940"
+- "9007101"
+ms.openlocfilehash: a1d127003cb0332600b09fce9e640c2050b3d1d3
+ms.sourcegitcommit: a9eb1cb42da49898cc211557193ca61a00499084
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49676729"
+ms.lasthandoff: 07/02/2021
+ms.locfileid: "53255878"
 ---
 # <a name="pdf-reader-in-microsoft-edge"></a>قارئ PDF في Microsoft Edge
 
-يبرز شيوع ملفات PDF الحاجة إلى قارئ PDF موثوق به وأمن وقوي والذي يمكن ان تتحمله شركات المؤسسات. ان قارئ PDF الغني بالميزات المضمن في Microsoft Edge (إصدارات 77 والإصدارات الأحدث) هي أيضا مثل هذا التطبيق. يعمل في Windows و macOS ، ويمكن استخدامه لفتح ملفات PDF المحلية ، أو المتصلة ، أو المضمنة في صفحات ويب.
+تبرز شعبية ملفات PDF الحاجة إلى قارئ PDF موثوق به وآمن وقوي يمكن اعتماده من قبل شركات المؤسسات. إن قارئ PDF الغني بالميزات المضمن في Microsoft Edge (الإصدارات 77 والإصدارات الأحدث) مجرد تطبيق من هذا النوع. يعمل في Windows و macOS، ويمكن استخدامه لفتح ملفات PDF المحلية أو عبر الإنترنت أو المضمنة في صفحات الويب وإضافة تعليقات توضيحية لها.
 
-لمعرفه المزيد ، راجع [قارئ PDF في Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2140005).
+لمعرفة المزيد، راجع [قارئ PDF في Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2140005).
