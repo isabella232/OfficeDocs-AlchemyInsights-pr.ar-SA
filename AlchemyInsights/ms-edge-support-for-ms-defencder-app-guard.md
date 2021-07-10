@@ -1,5 +1,5 @@
 ---
-title: دعم microsoft Edge لحماية التطبيقات ل Microsoft Defender
+title: Microsoft Edge دعم حماية التطبيقات من Microsoft Defender
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004024"
 - "7090"
-ms.openlocfilehash: 65cbc867ea7d1c73ca2906f51f72aa3376f31b5d
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: a8c560810f413680c9db969f8192cff559c022ec
+ms.sourcegitcommit: 49093c0f1322325f7042e0a368022d650f029427
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583177"
+ms.lasthandoff: 07/09/2021
+ms.locfileid: "53346049"
 ---
-# <a name="microsoft-edges-support-for-microsoft-defender-application-guard"></a>دعم microsoft Edge لحماية التطبيقات ل Microsoft Defender
+# <a name="microsoft-edges-support-for-microsoft-defender-application-guard"></a>Microsoft Edge دعم حماية التطبيقات من Microsoft Defender
 
-مصمم لنظام التشغيل Windows 10 و Microsoft Edge ، يستخدم "حماية التطبيقات" أسلوب عزل الاجهزه الذي يسمح للمستخدم بالتنقل في موقع غير موثوق به من داخل حاويه معزولة ومتوافقة مع Hyper-v ، مفصوله عن نظام التشغيل المضيف.
+يوفر Microsoft Defender for Identity موقع مركزي حيث يمكن للمسؤولين تحديد تهديدات الهوية المحليه والكشف عنها التحقيق فيها. 
 
-يحدد مسؤول المؤسسة قائمه بمواقع ويب الموثوق بها وموارد السحابة والشبكات الداخلية. عندما يقوم أحد المستخدمين بزيارة موقع غير موجود في القائمة ، سيفتح Microsoft Edge الموقع في الحاوية. وهذا يعني انه في حاله توقف الموقع عن العمل ، سيظل الكمبيوتر المضيف محميا ولن يتمكن المهاجم من الوصول إلى بيانات المؤسسة.
+استخدم دليل [إعداد Microsoft Defender for Identity](https://admin.microsoft.com/AdminPortal/Home?#/modernonboarding/microsoftdefenderforidentitysetupguide) للتحقق من أنك قد أوفيت بكل المتطلبات الأساسية للبيئة؛ قم بإنشاء مثيل، واتصل ب Active Directory، ثم قم بتثبيت المستشعر. 
 
-يتم اعتماد تثبيت الملحقات في الحاوية من Microsoft Edge الإصدار 81 ، ويمكن التحكم فيه عبر النهج. يجب ان تتم أضافه عنوان أوبداتيورل الذي يتم استخدامه في نهج اكستينسيونينستالفورسيليست كمورد حيادي في نهج عزل الشبكة المستخدمة من قبل حماية التطبيقات.
-
-للحصول علي مزيد من المعلومات ، راجع [دعم Microsoft Edge لحماية التطبيقات ل Microsoft Defender](https://go.microsoft.com/fwlink/?linkid=2134229).
+عند الانتهاء، يتم مراقبة هويات المستخدمين، ويمكن اتخاذ إجراء فوري ضد أي نشاط ضار يعرض مؤسستك للخطر.
