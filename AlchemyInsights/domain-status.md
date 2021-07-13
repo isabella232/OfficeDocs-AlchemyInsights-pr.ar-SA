@@ -13,16 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "11094"
 - "9006491"
-ms.openlocfilehash: f5b3a07f05b31b05e2105fb1f6efbe23fb630179
-ms.sourcegitcommit: d74039304002e526ba6f8ca02e76e4ce7e1aa743
+ms.openlocfilehash: 66fae5b5602dd67954ac9208b26bc2005adda0e3
+ms.sourcegitcommit: 56650eb9af437ff97e4f4d9ca5a2f53ad5bb990e
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "52124783"
+ms.lasthandoff: 07/12/2021
+ms.locfileid: "53389160"
 ---
 # <a name="domain-status---no-services-selected"></a>حالة المجال - لم يتم تحديد أي خدمات
 
-تتوفر حالة صحة المجال بعد توصيل المجال مباشرة Microsoft 365 مثل Exchange. للقيام بذلك، انتقل إلى مركز إدارة Microsoft 365، وحدد **سجلات DNS**  >  **إدارة DNS**.
+**لا** توجد خدمات محددة تعني أنك لم تحدد أي خدمات Microsoft 365 مثل Exchange Online أو Skype for Business أو Intune وإدارة أجهزة المحمول ل Microsoft 365 لاستخدامها مع مجالك المخصص. إذا كنت تستخدم Exchange المختلط (Exchange المحلي مع Exchange Online) أو تصفية البريد العشوائي الخارجي مع Exchange دون أي خدمات Microsoft أخرى، يمكنك تجاهل هذه الرسالة. لا تتوفر حالة صحة المجال إلا للمجالات المتصلة مباشرة بالخدمة.
 
-إذا لم تتمكن من توصيل المجال مباشرة Microsoft 365 الخدمات، فإن حالة صحة المجال غير متوفرة. على سبيل المثال، عند استخدام توجيه DNS مخصص للبريد الإلكتروني أو خدمات تصفية البريد العشوائي الخارجية أو كنت تستخدم كل من Exchange المحلي Exchange Online (يسمى أيضا نشر مختلط).
+لتحديد خدمات لمجالك:
+
+1. من **الإعدادات** المجالات ، حدد المربع إلى جانب المجال مع رسالة الحالة  >  [](https://admin.microsoft.com/Adminportal/Home)لا توجد خدمات **محددة**.
+1. حدد **إدارة DNS** لبدء تشغيل معالج إعداد المجال.
+    - إذا اخترت **إضافة سجلات DNS** الخاصة بك، فتأكد من تحديد خدمة عند مطالبتك بذلك. قد تتوفر المزيد من الخدمات ضمن **خيارات متقدمة.**
+    - إذا اخترت السماح ل Microsoft بإضافة سجلات **DNS** أو خيارات إضافية يتم اقتراح كل الخدمات المتوفرة وتحديدها تلقائيا.  >  
+1. تابع عبر المعالج لإكمال إعداد DNS وخيارات الخدمة.
+ 
+للحصول على تعليمات إضافية لإعداد مجالك، راجع [إضافة سجلات DNS لتوصيل مجالك](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
 
