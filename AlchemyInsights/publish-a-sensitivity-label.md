@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 7df40e2c747c1701c6f66a1127d484fde3e9ce60
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 1db4d15b45ff95a643ceca788667de9fb6a8f4bc
+ms.sourcegitcommit: 86c95d3f0f268e500b3732243ca85a650b2e7b8f
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52539631"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "53532242"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>كيفية نشر تسمية الحساسية
 
-1. انتقل إلى Office 365 مركز & التوافق >   >  **تصنيف الحساسية**.
+1. انتقل إلى مركز Microsoft 365 التوافق >   >  **ملصقات حماية المعلومات.**
 
-1. في الصفحة تسميات الحساسية، حدد علامة التبويب **سياسات** التسمية، ثم حدد **نشر التسميات**.
+1. حدد **+ تسمية النشر** لبدء معالج تسمية الحساسية الجديدة.
 
 1. حدد **اختيار تسميات الحساسية للنشر**. حدد التسميات التي تريد جعلها متوفرة في التطبيقات والخدمات، ثم حدد **إضافة**.
 
