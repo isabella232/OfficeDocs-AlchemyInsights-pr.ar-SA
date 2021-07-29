@@ -1,5 +1,5 @@
 ---
-title: نهج الاستبقاء الموحدة في مركز توافق & الأمان
+title: نهج الاستبقاء الموحدة في مركز & الأمان
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "5745"
 - "9000273"
-ms.openlocfilehash: 0dc9fb2d34e8b2538c6174e401c20a40b216efce
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a135fae4b6fb7369fd289ecdd5af50935e0c219e
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47669198"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630128"
 ---
-# <a name="unified-retention-policies-in-the-security--compliance-center"></a>نهج الاستبقاء الموحدة في مركز توافق & الأمان
+# <a name="unified-retention-policies-in-the-security--compliance-center"></a>نهج الاستبقاء الموحدة في مركز & الأمان
 
-تسمح لك نهج الاستبقاء باداره محتوي المؤسسة باستخدام إعدادات الاستبقاء والحذف. يمكنك إنشاء نهج استبقاء موحده في مركز توافق & أمان Office 365 أو في مركز توافق Microsoft 365. 
+تسمح لك سياسات الاستبقاء بإدارة محتوى مؤسستك باستخدام إعدادات الاستبقاء والحذف. يمكنك إنشاء نهج استبقاء موحدة في مركز Office 365 الأمان & أو في مركز Microsoft 365 التوافق. 
 
-1. في [مركز توافق & الأمان](https://go.microsoft.com/fwlink/p/?linkid=2077143)، حدد الاستبقاء المحتفظ بالمعلومات + **Information governance**  >  **Retention**  >  **إنشاء**. <br/>
-    في [مركز توافق Microsoft 365](https://go.microsoft.com/fwlink/p/?linkid=2077149)، حدد **النهج**  >  **ال> الاحتفاظ بالبيانات > + نهج استبقاء جديد.**
-2. أضف **الاسم** **والإعدادات** **واختر المواقع**.
-3. راجع الإعدادات الخاصة بك ، ثم حدد **إنشاء هذا النهج** أو **حفظ لاحقا**.  
+1. في مركز [التوافق & الأمان،](https://go.microsoft.com/fwlink/p/?linkid=2077143)حدد **إدارة المعلومات**  >  **الاستبقاء**  >  **+إنشاء**. <br/>
+    في مركز [Microsoft 365،](https://go.microsoft.com/fwlink/p/?linkid=2077149) **حدد** نهج  >  **البيانات > الاستبقاء > + نهج استبقاء جديد.**
+2. أضف **الاسم** **الإعدادات**، **واختر المواقع**.
+3. راجع الإعدادات، ثم حدد **إنشاء هذا النهج** أو حفظ ل **لاحقا.**  
       
-للحصول علي مزيد من التفاصيل حول نهج الاستبقاء لمحتوي مثل البريد الكتروني في Exchange و OneDrive و SharePoint ومحتوي الفرق ، راجع [نظره عامه حول نهج الاستبقاء](https://go.microsoft.com/fwlink/?linkid=2127785).  
+لمزيد من التفاصيل حول سياسات الاستبقاء للمحتوى مثل Exchange الإلكتروني OneDrive و SharePoint و Teams، راجع نظرة عامة حول سياسات الاستبقاء [.](https://go.microsoft.com/fwlink/?linkid=2127785)  
     
-إذا كنت تستخدم نهج الاستبقاء جنبا لجنب في مركز أداره Exchange ومركز توافق & الأمان ، فراجع هذه التوصية [لاستخدام نهج استبقاء بدلا من الميزات القديمة](https://docs.microsoft.com/microsoft-365/compliance/retention-policies?view=o365-worldwide#use-a-retention-policy-instead-of-older-features).  
+إذا كنت تستخدم نهج استبقاء جنبا إلى جنب في Exchange مركز إدارة & الأمان، فشاهد هذه التوصية باستخدام نهج استبقاء بدلا من [الميزات القديمة.](/microsoft-365/compliance/retention-policies#use-a-retention-policy-instead-of-older-features)  
     
-للحصول علي معلومات معينه حول الاحتفاظ بالفرق ، راجع [نهج الاستبقاء في الفرق](https://docs.microsoft.com/microsoftteams/retention-policies).
+للحصول على معلومات محددة حول Teams الاستبقاء، راجع سياسات الاستبقاء [في Teams](/microsoftteams/retention-policies).

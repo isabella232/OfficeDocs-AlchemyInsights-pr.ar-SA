@@ -1,5 +1,5 @@
 ---
-title: 1488-اجراء-عمليات البحث في المحتوي-و eDiscovery
+title: 1488-perform-eDiscovery-and-content-searches
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,30 +14,30 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: 25fe9f6670c0108370aa5a8fc7c1c271f6c809a1
-ms.sourcegitcommit: 4a82381bdb22cbc8bc91d2e02c633897d45ade4b
+ms.openlocfilehash: 938e9f2d7ee43e3a2b8c3356afb90f8cd6507a65
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49668501"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630200"
 ---
-# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>كيفيه اجراء عمليات البحث في المحتوي وعمليات بحث eDiscovery
+# <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>كيفية إجراء عمليات البحث في المحتوى وعمليات البحث في eDiscovery
 
-**لاجراء بحث في المحتوي**:
+**لإجراء بحث في المحتوى:**
 
-1. انتقل إلى [مركز توافق & الأمان](https://protection.office.com) وسجل الدخول.
-2. انقر فوق **البحث في بحث المحتوي >**.
-3. انقر فوق **بحث جديد** لإنشاء بحث جديد.
-4. ادخل شروط البحث المطلوبة بما في ذلك الكلمات الاساسيه ومواقع المحتوي.
-5. انقر فوق **حفظ & تشغيل** لتسميه البحث وبدئه ثم معاينه النتائج.
+1. انتقل إلى Microsoft 365 التوافق، ثم سجل الدخول.
+2. حدد **البحث > البحث في المحتوى**.
+3. حدد **بحث جديد** لإنشاء بحث جديد.
+4. أدخل شروط البحث المطلوبة بما في ذلك الكلمات الأساسية ومواقع المحتوى.
+5. حدد **حفظ & التشغيل** ل تسمية البحث، وابدأه، ثم معاينة النتائج.
 
 > [!NOTE]
-> في **مركز توافق M365**، ضمن **الحلول**، اختر توسيع **eDiscovery** وحدد أداه ediscovery المطلوبة.
+> في **Microsoft 365 مركز**  >  التوافق، قم بتوسيع **eDiscovery** وحدد أداة eDiscovery المطلوبة.
 
-للحصول علي إرشادات مفصله حول عمليات البحث في المحتوي ، وتصدير النتائج ، وإنشاء حالات eDiscovery للاحتفاظ بالبيانات ، راجع [البحث في المحتوي](https://docs.microsoft.com/microsoft-365/compliance/content-search) [وحالات ediscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases).
+للحصول على إرشادات مفصلة حول عمليات البحث في المحتوى وتصدير النتائج وإنشاء [](/microsoft-365/compliance/content-search) حالات eDiscovery لضم البيانات، راجع البحث في المحتوى و حالات [eDiscovery](/microsoft-365/compliance/ediscovery-cases).
 
-**مزيد من المعلومات**:
+**مزيد من المعلومات:**
 
-- للحصول علي مزيد من المعلومات حول أدوات eDiscovery في Microsoft 365 ، راجع [eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery).
-- تعرف علي الأذونات والمتطلبات والحدود المطلوبة لاجراء عمليات بحث eDiscovery من [الأذونات المطلوبة لعمليات البحث](https://docs.microsoft.com/microsoft-365/compliance/assign-ediscovery-permissions) [والمتطلبات والحدود](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search)الخاصة ب ediscovery.
-- إذا كنت تقوم باستكشاف مشاكل [ediscovery وإصلاحها](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery)، فراجع [المشاكل الشائعة في استكشاف أخطاء ediscovery وإصلاحها](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-troubleshooting-common-issues)
+- لمزيد من المعلومات حول أدوات eDiscovery في Microsoft 365، راجع [eDiscovery](/microsoft-365/compliance/ediscovery).
+- تعرف على الأذونات والمتطلبات والحدود اللازمة لأداء عمليات بحث eDiscovery من الأذونات المطلوبة لعمليات [بحث eDiscovery](/microsoft-365/compliance/assign-ediscovery-permissions) ومتطلباته [وحدوده.](/microsoft-365/compliance/limits-for-content-search)
+- إذا كنت تقوم استكشاف مشاكل eDiscovery وإصلاحها، فتحقق من استكشاف الأخطاء الشائعة وإصلاحها في [eDiscovery](/microsoft-365/compliance/ediscovery-troubleshooting-common-issues) والتحقق من العناصر المفهرسة [جزئيا.](/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery)

@@ -1,5 +1,5 @@
 ---
-title: تحديد نشاط قاعده علبه الوارد في سجلات التدقيق
+title: تحديد نشاط قاعدة علبة الوارد في سجلات التدقيق
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,27 +13,27 @@ ms.custom:
 - "1368"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 3de6fcde6dc649cb77077d469cc66d4003e0c890
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3bda32b55be9c2fa671376e73b06aadfbe976363
+ms.sourcegitcommit: 89d938a2d402791ae66dddadba3063e9418f48cb
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47779038"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "53630164"
 ---
-# <a name="identify-inbox-rule-activity-in-audit-logs"></a>تحديد نشاط قاعده علبه الوارد في سجلات التدقيق
+# <a name="identify-inbox-rule-activity-in-audit-logs"></a>تحديد نشاط قاعدة علبة الوارد في سجلات التدقيق
 
-يمكنك استخدام البحث في سجل التدقيق في مركز التوافق ل Microsoft 365 Security & لعرض احداث قواعد علبه الوارد (إنشاء قواعد علبه الوارد وتعديلها وحذفها).
+يمكنك استخدام البحث في سجل التدقيق في مركز Microsoft 365 الأمان & لعرض أحداث قواعد علبة الوارد (إنشاء قواعد علبة الوارد وتعديلها وحذفها).
 
-1. سجل الدخول إلى [مركز توافق & أمان Microsoft 365](https://protection.office.com/).
+1. سجل دخولك إلى Microsoft 365 [التوافق.](https://protection.office.com/)
 
-2. انتقل إلى صفحه **Search**  >  **البحث في سجل تدقيق** البحث.
+2. انتقل إلى صفحة **البحث**  >  **في سجل تدقيق** البحث.
 
-3. حدد نطاق التاريخ في الحقلين **"تاريخ البدء** " و " **تاريخ الانتهاء** ".
+3. حدد نطاق التاريخ في **حقلي تاريخ البدء** **وتاريخ** الانتهاء.
 
-4. ضمن **أنشطه علبه بريد Exchange**، تحقق من انه قد تم تعيين الحقل " **الانشطه** " علي **الإينبوكسرولي إنشاء/تعديل/تمكين قاعده علبه الوارد**.
+4. ضمن **Exchange علبة** البريد، تحقق  من تعيين حقل الأنشطة إلى قاعدة علبة الوارد الجديدة **إنشاء/تعديل/تمكين/تعطيل علبة الوارد.**
 
-5. انقر فوق **بحث**.
+5. انقر **فوق بحث**.
 
-في النتائج ، حدد سجل تدقيق. في القائمة المنبثقة التفاصيل ، انقر فوق **مزيد من المعلومات**. يتم عرض معلومات حول إعدادات قاعده علبه الوارد في حقل **المعلمات** .
+في النتائج، حدد سجل تدقيق. في منتهى التفاصيل، انقر فوق **مزيد من المعلومات**. يتم عرض معلومات حول إعدادات قاعدة علبة الوارد في الحقل **معلمات.**
 
-لمزيد من المعلومات ، راجع [تحديد ما إذا قام المستخدم بإنشاء قاعده علبه الوارد](https://docs.microsoft.com//office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)
+لمزيد من المعلومات، راجع تحديد ما إذا كان المستخدم قد أنشأ [قاعدة علبة وارد](/office365/securitycompliance/auditing-troubleshooting-scenarios#determining-if-a-user-created-an-inbox-rule)
