@@ -1,9 +1,9 @@
 ---
-title: تنشيط اشتراك الترخيص المجمع من Microsoft
+title: تنشيط اشتراك ترخيص Microsoft Volume
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: 04/21/2020
+ms.reviewer: micurn, nicholak
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,23 +11,25 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "481"
 - "1500028"
 ms.assetid: 7a6919fc-afe4-40c7-8ada-d8ce523ad8a8
-ms.openlocfilehash: b98f8c2da22e07c6e99e04c7e7e06f4d9b1fbcc7
-ms.sourcegitcommit: 0338332a70fec9bd1e81b26e1933a5d0e3f261b6
+ms.date: 04/21/2020
+ms.openlocfilehash: f00526f507826cf4e58967531fff73183461e3b9
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/29/2020
-ms.locfileid: "48307099"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53685793"
 ---
-# <a name="activating-a-microsoft-volume-license-subscription"></a>تنشيط اشتراك الترخيص المجمع من Microsoft
+# <a name="activating-a-microsoft-volume-license-subscription"></a>تنشيط اشتراك ترخيص Microsoft Volume
 
-1. سجل دخولك إلى [مدخل مركز خدمات الترخيص المجمع (VLSC)](https://go.microsoft.com/fwlink/p/?LinkId=329762).
+1. سجل الدخول إلى مدخل مركز خدمات الترخيص [المجلد (VLSC).](https://go.microsoft.com/fwlink/p/?LinkId=329762)
 2. انتقل إلى اشتراكك واختر **تنشيط**.
-3. يتم إرسال رسالة بريد الكتروني إلى جهة اتصال الخدمات عبر الإنترنت (OLS).
-4. يوفر لك البريد الكتروني الخاص بالتنشيط خيارين: **تسجيل الاشتراك**أو **تسجيل الدخول**. إذا قمت مسبقا بإنشاء إصدار تجريبي ، فاختر **تسجيل الدخول**. إذا لم يكن لديك مستاجر Microsoft 365 بعد ، فاختر **التسجيل**.
-5. سجل دخولك إلى مركز أداره Microsoft 365 ( [https://admin.microsoft.com](https://admin.microsoft.com) ) باستخدام بيانات اعتماد المسؤول الحالي. بعد تسجيل الدخول بنجاح ، ستتلقى رسالة بريد الكتروني أخرى تؤكد الشراء.
-6. بعد تسجيل الدخول ، انتقل إلى صفحه **الفوترة** \> [الخاصة بالمنتجات](https://go.microsoft.com/fwlink/p/?linkid=842054) للتحقق من ان الاشتراكات التي اشتريتها نشطه الآن. 
+3. يتم إرسال رسالة بريد إلكتروني إلى جهة اتصال الخدمات عبر الإنترنت (OLS).
+4. يوفر لك بريد التنشيط الإلكتروني خيارين: **التسجيل** أو **تسجيل الدخول**. إذا سبق لك إنشاء الإصدار التجريبي، فاختر **تسجيل الدخول**. إذا لم يكن لديك مستأجر Microsoft 365، **فاختر تسجيل**.
+5. سجل الدخول إلى مركز مسؤولي Microsoft 365 [https://admin.microsoft.com](https://admin.microsoft.com) ( ) باستخدام بيانات اعتماد المسؤول الحالية. بعد تسجيل الدخول بنجاح، ستتلقى بريدا إلكترونيا آخر يؤكد عملية الشراء.
+6. بعد أن قمت بالتوقيع، انتقل إلى صفحة **فوترة** منتجاتك للتحقق من أن الاشتراكات التي اشتريتها \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) نشطة الآن. 
     > [!NOTE]
-    > يمكنك أيضا اختيار علامة التبويب **اشتراك** في VLSC لعرض التفاصيل التي تتحقق من تنشيط اشتراكك.)
+    > يمكنك أيضا اختيار علامة **التبويب اشتراك** في VLSC لعرض التفاصيل التي تتحقق من تنشيط اشتراكك.)

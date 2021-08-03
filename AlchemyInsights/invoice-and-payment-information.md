@@ -1,8 +1,10 @@
 ---
-title: معلومات الفاتورة والدفع
+title: معلومات الدفع والفاتورة
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -11,27 +13,28 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.assetid: ef2df989-8539-48b5-a324-97d2e09f14fe
 ms.custom:
+- commerce_billing
 - "485"
 - "1500018"
-ms.openlocfilehash: 4328ced877e65de542226232e3335dd7c8046d1c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1f7c6cc7003165140f519b51ac0cc40636e71a3e
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696032"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53687197"
 ---
-# <a name="invoice-and-payment-information"></a>معلومات الفاتورة والدفع
+# <a name="invoice-and-payment-information"></a>معلومات الدفع والفاتورة
 
-**قسط**
+**الدفع**
 
-عند شراء اشتراك Microsoft 365 for business من Microsoft مباشره ، يمكنك الدفع باستخدام بطاقة ائتمان أو خصم.  في بعض البلدان/المناطق ، يمكنك أيضا الدفع باستخدام حساب مصرفي.  يمكنك معرفه كيفيه أداره طرق السداد هذه واستكشافها وإصلاحها من [أداره طرق السداد](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods). يتضمن ذلك حل المشاكل عند رفض بطاقة الائتمان الخاصة بك وتحديث معلومات الدفع.
+عند شراء اشتراك Microsoft 365 للأعمال مباشرة من Microsoft، يمكنك الدفع باستخدام بطاقة ائتمان أو بطاقة خصم.  في بعض البلدان/المناطق، يمكنك أيضا الدفع باستخدام حساب بنكي.  يمكنك التعرف على كيفية إدارة طرق الدفع هذه وإصلاحها من [إدارة طرق الدفع](/microsoft-365/commerce/billing-and-payments/manage-payment-methods). يشمل ذلك حل المشاكل عند رفض بطاقة الائتمان وتحديث معلومات الدفع.
 
-**فوتره/فاتورة**
+**الفاتورة/الفاتورة**
 
-يمكنك العثور علي الفواتير وتنزيلها علي صفحه **الفوترة**الخاصة بفواتير  >  [&](https://go.microsoft.com/fwlink/p/?linkid=848039) فاتورة.  
+يمكنك العثور على الفواتير وتنزيلها على **صفحة** فواتير الفوترة &  >  [الدفع.](https://go.microsoft.com/fwlink/p/?linkid=848039)  
 
-**ملاحظه**: إذا لم تكن هناك إيه فواتير مرئية ، فقد تحتاج إلى ضبط عامل تصفيه نطاق التاريخ.  بشكل افتراضي ، يتم عرض آخر 3 أشهر من الفواتير.
+**ملاحظة:** إذا لم تكن هناك أي فواتير مرئية، فقد تحتاج إلى ضبط عامل تصفية نطاق التاريخ.  بشكل افتراضي، يتم عرض آخر 3 أشهر من الفواتير.
 
-يتم إنشاء فواتير شهريا أو سنويا استنادا إلى تكرار الفوترة المختار اثناء الشراء.  إذا كان السداد سنويا ، فيمكنك الحصول علي المدة المتوسطة للكمبيالة عند أضافه التراخيص أو ازالتها علي الاشتراك.
+يتم إنشاء الفواتير شهريا أو سنويا استنادا إلى معدل تكرار الفوترة الذي تم اختياره أثناء الشراء.  إذا كنت تدفع سنويا، فقد تحصل على فاتورة في منتصف المدة عند إضافة تراخيص أو إزالتها من اشتراك.
 
-- للحصول علي مزيد من المعلومات ، راجع [التعرف علي فاتورة Microsoft 365 للاعمال](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
+- لمزيد من المعلومات، راجع [فهم فاتورة Microsoft 365 للأعمال](/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).

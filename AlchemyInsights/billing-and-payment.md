@@ -3,6 +3,8 @@ title: الفوترة والدفع
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
@@ -10,14 +12,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_billing
 - "9001669"
 - "3752"
-ms.openlocfilehash: c60319d7a952e8f918d09106f5a89dad680f2f2f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1b48e2c96722e58fbeefb99898725e6931845b10
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820381"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53686873"
 ---
 # <a name="billing-and-payment"></a>الفوترة والدفع
 
@@ -52,10 +55,10 @@ ms.locfileid: "51820381"
 
 7. تم تحديد طريقة الدفع الجديدة بالفعل في القائمة المنسدل. حدد **استبدال**.
 
-لمعرفة المزيد، راجع [إدارة طرق الدفع](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
+لمعرفة المزيد، راجع [إدارة طرق الدفع](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
 **تكرار الفوترة**
 
 يتم إنشاء الفواتير شهريا أو سنويا استنادا إلى معدل تكرار الفوترة الذي تم اختياره عند الخروج.  
 
-**ملاحظة:** قد تتلقى الطلبات التي بها فوترة سنوية فاتورة في منتصف المدة إذا تم إجراء تغييرات مثل إضافة التراخيص أو إزالتها. [تغيير معدل تكرار الفوترة](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
+**ملاحظة:** قد تتلقى الطلبات التي بها فوترة سنوية فاتورة في منتصف المدة إذا تم إجراء تغييرات مثل إضافة التراخيص أو إزالتها. [تغيير معدل تكرار الفوترة](/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
