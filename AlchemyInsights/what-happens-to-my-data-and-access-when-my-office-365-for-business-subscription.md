@@ -1,8 +1,9 @@
 ---
-title: ماذا يحدث لبياناتي وامكانيه وصولي عندما ينتهي اشتراك Microsoft 365 for business ؟
+title: ماذا يحدث لبياناتي والوصول إليها عند انتهاء Microsoft 365 للأعمال؟
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: jkinma, jmueller
 ms.date: 04/21/2020
 ms.audience: Admin
 ms.topic: article
@@ -11,22 +12,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "484"
 - "1500030"
 ms.assetid: d2a41ce0-207f-4f50-8a6a-2ec5b56b3ed6
-ms.openlocfilehash: 5861aa9b952b571b620dca1d56adef7cc0fa420c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 865056484b449f1dd33b595eec9f3cb740536ba0
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668910"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688241"
 ---
-# <a name="what-happens-to-my-data-and-access-when-my-microsoft-365-for-business-subscription-ends"></a>ماذا يحدث لبياناتي وامكانيه وصولي عندما ينتهي اشتراك Microsoft 365 for business ؟
+# <a name="what-happens-to-my-data-and-access-when-my-microsoft-365-for-business-subscription-ends"></a>ماذا يحدث لبياناتي والوصول إليها عند انتهاء Microsoft 365 للأعمال؟
 
-إذا انتهت الاشتراك الخاص بك ، اما لأنه انتهت صلاحيته ، أو لأنك قررت إلغاء الأمر — فان الوصول إلى الخدمات والتطبيقات وبيانات العملاء يمرون في حالات متعددة قبل إيقاف تشغيل الاشتراك بالبالكامل أو  *غير متوفر*  . إذا كنت علي علم بهذا التقدم ، ستكون مجهزا بالشكل الأفضل لأعاده اشتراكك إلى ولاية نشطه قبل ان تكون متاخرا جدا ، أو إذا كنت تريد ان تقوم Microsoft باجراء نسخ احتياطي للبيانات قبل حذفها.
+إذا انتهى اشتراكك، إما بسبب انتهاء صلاحيته، أو لأنك قررت إلغاء الاشتراك، فإن وصولك إلى الخدمات والتطبيقات وبيانات العملاء يمر عبر عدة ولايات قبل إيقاف تشغيل الاشتراك بشكل كامل، أو إلغاء *توفيره.* إذا كنت على علم بهذا التقدم، فسوف تكون أكثر تجهيزا لإرجاع اشتراكك إلى حالة نشطة قبل فوات الأوان، أو- إذا كنت تريد ترك Microsoft- فضع بياناتك في مكان آخر قبل حذفها في النهاية.
   
-قبل ان يصل الاشتراك فعليا إلى تاريخ انتهاء صلاحيته ، تتوفر لديك بعض الخيارات **لأداره الفوترة المتكررة للاشتراك**.
+قبل أن يصل الاشتراك بالفعل إلى تاريخ انتهاء صلاحيته، لديك بعض الخيارات لإدارة الفوترة المتكررة **للاشتراك**.
   
-- إذا كان **الفوترة المتكررة** قيد التشغيل بالفعل ، فليس عليك اتخاذ اي اجراء. ستتم فوتره اشتراكك علي تاريخ **الفوترة المتكررة** الخاص به ، سيتم فرض رسوم مقابل السنه أو الشهر الإضافي ، استنادا إلى تكرار الفوترة الحالي. إذا تم إيقاف تشغيل **الفوترة المتكررة** لأي سبب ، فيمكنك دائما [تشغيل الفوترة المتكررة مره أخرى](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+- إذا **كانت الفوترة** المتكررة قد تم تشغيلها بالفعل، فلا تحتاج إلى اتخاذ أي إجراء. سيتم فوترة اشتراكك  في تاريخ الفوترة المتكررة، وستتقاضى منك رسوما لمدة سنة أو شهر إضافي، استنادا إلى معدل تكرار الفوترة الحالي. إذا تم إيقاف تشغيل الفوترة المتكررة لأي سبب من الأسباب، يمكنك دائما إعادة تشغيل الفوترة [المتكررة.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on) 
 
-- إذا كنت عميل ترخيص مجمع مفتوح مع اشتراك مدفوع لمده سنه واحده ، فاتصل بشريكك لشراء مفتاح منتج جديد. ستتلقى إرشادات عبر البريد الكتروني لتنشيط المفتاح في [مركز خدمات الترخيص المجمع](https://go.microsoft.com/fwlink/p/?LinkID=282016). للتعرف علي كيفيه العثور علي شريك جديد ، أو الشريك الذي عملت عليه في الماضي ، راجع [البحث عن شريك أو بائع Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller).
+- إذا كنت أحد عملاء "الترخيص الشامل المفتوح" مع اشتراك مسبق الدفع لمدة عام واحد، فاتصل بشركك لشراء مفتاح منتج جديد. ستتلقى إرشادات عبر البريد الإلكتروني لتنشيط المفتاح في مركز [خدمات الترخيص الكلي.](https://go.microsoft.com/fwlink/p/?LinkID=282016) للتعرف على كيفية العثور على شريك جديد، أو الشريك الذي عملت معه في الماضي، راجع البحث عن شريكك Microsoft 365 [أو بائع](https://docs.microsoft.com/microsoft-365/admin/manage/find-your-partner-or-reseller).

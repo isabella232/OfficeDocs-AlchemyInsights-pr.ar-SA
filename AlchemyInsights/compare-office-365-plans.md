@@ -1,8 +1,9 @@
 ---
-title: مقارنه اشتراكات Microsoft
+title: مقارنة اشتراكات Microsoft
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.reviewer: drjones, jmueller
 ms.date: ''
 ms.audience: Admin
 ms.topic: article
@@ -11,22 +12,23 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom:
+- commerce_subscriptions
 - "472"
 - "1500026"
 ms.assetid: faefe872-1fb6-4a0d-8ea6-3c034a484351
-ms.openlocfilehash: 0542cc6cbd9ca7a8d0845e2866be831631c8e389
-ms.sourcegitcommit: beb9715ac0c8e8333fef6764ecd346b7401a2612
+ms.openlocfilehash: 5c141320f08b4610e9ebedf21107bfda54193f56
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/10/2020
-ms.locfileid: "48416593"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688997"
 ---
-# <a name="compare-upgrade-or-purchase-subscriptions"></a>مقارنه الاشتراكات أو ترقيتها أو شرائها
+# <a name="compare-upgrade-or-purchase-subscriptions"></a>مقارنة الاشتراكات أو ترقيتها أو شراؤها
   
-الاشتراكات متوفرة [للشركات](https://www.microsoft.com/microsoft-365/business/compare-all-microsoft-365-business-products?tab=2&rtc=1) [وشركات علي مستوي المؤسسة](https://www.microsoft.com/microsoft-365/enterprise/compare-office-365-plans?rtc=1). بالاضافه إلى ذلك ، تتوفر Microsoft 365 [للمؤسسات الاكاديميه](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1) [والمؤسسات الحكومية](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1) [واللمؤسسات غير](https://www.microsoft.com/microsoft-365/nonprofit/office-365-nonprofit-plans-and-pricing?&rtc=1&activetab=tab%3aprimaryr1).
+تتوفر الاشتراكات [للأعمال](https://www.microsoft.com/microsoft-365/business/compare-all-microsoft-365-business-products?tab=2&rtc=1)والشركات على مستوى [المؤسسة.](https://www.microsoft.com/microsoft-365/enterprise/compare-office-365-plans?rtc=1) بالإضافة إلى ذلك، Microsoft 365 المؤسسات [](https://www.microsoft.com/microsoft-365/academic/compare-office-365-education-plans?rtc=1&activetab=tab%3aprimaryr1)الأكاديمية [](https://www.microsoft.com/microsoft-365/government/compare-office-365-government-plans?rtc=1)والمؤسسات الحكومية والمؤسسات [غير الربحية.](https://www.microsoft.com/microsoft-365/nonprofit/office-365-nonprofit-plans-and-pricing?&rtc=1&activetab=tab%3aprimaryr1)
   
-إذا كانت مؤسستك مهتمة بمقارنه كل الخطط والأسعار ، فراجع [مقارنه كل الاشتراكات](https://www.microsoft.com/microsoft-365/enterprise/compare-office-365-plans?rtc=1).
+إذا كانت مؤسستك ترغب في مقارنة كل الخطط والأسعار، فراجع [مقارنة كل الاشتراكات.](https://www.microsoft.com/microsoft-365/enterprise/compare-office-365-plans?rtc=1)
   
-إذا كانت مؤسستك قد اشتريت الاشتراكات بالفعل وكانت مهتما بالتغيير إلى خطه مختلفه ، فيمكنك القيام بذلك من مركز أداره Microsoft 365. انتقل إلى صفحه **الفوترة** \> [الخاصة بالمنتجات](https://go.microsoft.com/fwlink/p/?linkid=842054) ، وحدد الاشتراك الذي تريد تغييره. في صفحه تفاصيل الاشتراك ، ضمن **تفاصيل المنتج وترقياته**، حدد **عرض الترقيات الموصي بها لمؤسسك** لعرض قائمه بالخطط الجديدة المتوفرة.
+إذا كانت مؤسستك قد اشترت اشتراكات بالفعل وكانت ترغب في التغيير إلى خطة مختلفة، يمكنك القيام بذلك من مركز مسؤولي Microsoft 365. انتقل إلى **صفحة فوترة** منتجاتك، \> [](https://go.microsoft.com/fwlink/p/?linkid=842054) وحدد الاشتراك الذي تريد تغييره. في صفحة تفاصيل الاشتراك، ضمن تفاصيل المنتج وترقياته، حدد عرض الترقيات الموصى بها لم المؤسسة لعرض قائمة الخطط الجديدة المتوفرة.  
   
-يمكن لمؤسسك أيضا الخلط بين الاشتراكات ومطابقتها لتلبيه متطلبات المستخدمين والميزات. في مركز الاداره ، انتقل إلى **Billing** \> صفحه [خدمات شراء](https://go.microsoft.com/fwlink/p/?linkid=868433) الفوترة. 
+يمكن لمنظمتك أيضا مزج الاشتراكات ومطابقتها لتلبية احتياجات المستخدمين ومتطلبات ميزاتهم. في مركز الإدارة، انتقل إلى **صفحة خدمات** \> [شراء الفوترة.](https://go.microsoft.com/fwlink/p/?linkid=868433) 

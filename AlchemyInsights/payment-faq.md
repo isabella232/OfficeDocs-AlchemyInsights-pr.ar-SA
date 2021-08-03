@@ -3,34 +3,37 @@ title: الأسئلة المتداولة حول الدفع
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
+ms.date: ''
+ms.reviewer: jmueller, jkinma
 ms.audience: Admin
 ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.custom:
+- commerce_billing
 - "9001669"
 - "5128"
-ms.openlocfilehash: 6a34af24ff3021f83edba85f0c7ece9c930a558a
-ms.sourcegitcommit: dde46756ac370b3f384702f259bed1dbf8e7611b
+ms.openlocfilehash: 7121b5eaed7ef274d53f53b4f49a2938257d3232
+ms.sourcegitcommit: 540a4e2515f7cfddee65519046454fc4437cd287
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50601333"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "53688349"
 ---
 # <a name="payment-faq"></a>الأسئلة المتداولة حول الدفع
 
-إدارة المدفوعات في **مركز إدارة Microsoft 365.**
+إدارة المدفوعات في **مركز مسؤولي Microsoft 365**.
 
 - انتقل إلى **الفوترة > [المنتجات](https://go.microsoft.com/fwlink/p/?linkid=842054)** لتعيين طرق دفع الاشتراك أو تغييرها.
-- انتقل إلى **الفوترة > [طرق الدفع](https://go.microsoft.com/fwlink/p/?linkid=2018806)** لإضافة طرق الدفع أو تحديثها أو استبدالها أو حذفها.
+- انتقل إلى **الفوترة > [طرق الدفع لإضافة](https://go.microsoft.com/fwlink/p/?linkid=2018806)** طرق الدفع أو تحديثها أو استبدالها أو حذفها.
 
-- **طرق الدفع** - إذا كان الدفع باستخدام بطاقة ائتمان أو حساب بنكي، فسيتم التحصيل من طريقة الدفع المقترنة باشتراكك خلال بضعة أيام بعد إنشاء الفاتورة. إذا فشلت عملية الدفع، فقم بتحديث طريقة الدفع الخاصة بك. لمزيد من المعلومات، راجع [إدارة طرق الدفع.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+- **طرق الدفع** - إذا كان الدفع باستخدام بطاقة ائتمان أو حساب بنكي، فسيتم التحصيل من طريقة الدفع المقترنة باشتراكك خلال بضعة أيام بعد إنشاء الفاتورة. إذا فشلت عملية الدفع، فقم بتحديث طريقة الدفع الخاصة بك. لمزيد من المعلومات، راجع [إدارة طرق الدفع](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
-- **إخطارات تجاوز الاستحقاق**-يمكن رفض عملية الدفع لأسباب عديدة، بما في ذلك عند انتهاء صلاحية بطاقة الائتمان. يمكنك استخدام ميزة **تسوية الرصيد** في أي وقت لتغيير معلومات بطاقة الائتمان وإعادة إرسال الدفع فورًا. لمزيد من المعلومات، راجع [ماذا لو كان لدي رصيد مستحق؟](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-i-have-an-outstanding-balance)
+- **إخطارات تجاوز الاستحقاق**-يمكن رفض عملية الدفع لأسباب عديدة، بما في ذلك عند انتهاء صلاحية بطاقة الائتمان. يمكنك استخدام ميزة **تسوية الرصيد** في أي وقت لتغيير معلومات بطاقة الائتمان وإعادة إرسال الدفع فورًا. لمزيد من المعلومات، راجع [ماذا لو كان لدي رصيد مستحق؟](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription#what-if-i-have-an-outstanding-balance)
 
-    **مهم**: بعد قيامك بتحديث طريقة الدفع، قد تظل تستقبل إخطارات تجاوز الاستحقاق أو رفض عملية الدفع في حالة عدم اقتران طريقة الدفع باشتراكك. يمكنك تغيير طريقة الدفع لاشتراك واحد أو لاشتراكات متعددة. لمزيد من المعلومات، راجع [إدارة طرق الدفع.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+    **مهم**: بعد قيامك بتحديث طريقة الدفع، قد تظل تستقبل إخطارات تجاوز الاستحقاق أو رفض عملية الدفع في حالة عدم اقتران طريقة الدفع باشتراكك. يمكنك تغيير طريقة الدفع لاشتراك واحد أو لاشتراكات متعددة. لمزيد من المعلومات، راجع [إدارة طرق الدفع](/microsoft-365/commerce/billing-and-payments/manage-payment-methods).
 
-- **تكرار الدفع والفوترة** يتم إنشاء الفواتير شهريًا أو سنويًا استنادًا إلى معدل تكرار الفوترة المحدد عند السداد مع الخروج. يمكن تغيير هذا في أي وقت. لمعرفة المزيد من المعلومات، اطلع على [تغيير معدل تكرار الفوترة](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
+- **تكرار الدفع والفوترة** يتم إنشاء الفواتير شهريًا أو سنويًا استنادًا إلى معدل تكرار الفوترة المحدد عند السداد مع الخروج. يمكن تغيير هذا في أي وقت. لمعرفة المزيد من المعلومات، اطلع على [تغيير معدل تكرار الفوترة](/microsoft-365/commerce/billing-and-payments/change-payment-frequency).
 
-للحصول على دليل كامل حول دفع قيمة اشتراكك، راجع [كيفية دفع قيمة اشتراكك.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription)
+للحصول على دليل كامل حول دفع قيمة اشتراكك، راجع [كيفية الدفع لاشتراكك](/microsoft-365/commerce/billing-and-payments/pay-for-your-subscription).
