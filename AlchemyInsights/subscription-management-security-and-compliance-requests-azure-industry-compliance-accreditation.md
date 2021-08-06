@@ -1,5 +1,5 @@
 ---
-title: أداره الاشتراك-طلبات الأمان والتوافق-أككريديتيشن التوافق الصناعي في azure
+title: إدارة الاشتراكات - طلبات الأمان والتوافق - اعتماد التوافق في مجال azure
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,55 +13,55 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004112"
 - "7191"
-ms.openlocfilehash: b29991dccd0a97115fc1dbc3191dd2e52e6b5d23
-ms.sourcegitcommit: 04bf13605a30ad4a2218ad9e94dcffcee4cc9aa6
+ms.openlocfilehash: 0e9d6c60bda6abf3f3bfdab8bb119f4d37012be567ce8ed9279f245539e3c2ae
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "49755570"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53998930"
 ---
-# <a name="subscription-management---security-and-compliance-requests---azure-industry-compliance-accreditation"></a>أداره الاشتراك-طلبات الأمان والتوافق-أككريديتاتيون التوافق الصناعي في azure
+# <a name="subscription-management---security-and-compliance-requests---azure-industry-compliance-accreditation"></a>إدارة الاشتراكات - طلبات الأمان والتوافق - اعتماد التوافق في مجال azure
 
-بالاستناد إلى وصف المشكلة ، لقد عثرنا علي حل لك. يستطيع معظم العملاء حل مشكلتهم بنفسهم بعد متابعه الوثائق الخاصة بنا.
+استنادا إلى وصف المشكلة، لقد عثرنا على حل لك. تمكن معظم العملاء من حل المشكلة الخاصة بهم بمفردهم بعد متابعة وثائقنا.
 
-- **النهج**: بالنسبة إلى اي اسئله حول مستند توافق Microsoft ، راجع [توافق مركز التوثيق في Azure](https://docs.microsoft.com/compliance/regulatory/offering-SOC).
+- **النهج:** للحصول على أي أسئلة حول مستند توافق Microsoft، راجع [توافق مركز توثيق Azure](https://docs.microsoft.com/compliance/regulatory/offering-SOC).
 
-- **HIPAA وهيتيتش العمل**: راجع دليل HIPAA Windows Azure إذا كنت مهتما بالHIPAA والعمل بالهيتيتش ، فلفهم القدرات ذات الصلة ل Windows Azure.
+- **HIPAA وال** قانون HITECH : راجع Windows Azure HIPAA إذا كنت مهتما بال قانون HIPAA و HITECH، لفهم القدرات ذات الصلة Windows Azure.
 
-- **FedRamp الشهادة**: للحصول علي اي معلومات حول شهادة FedRamp ، راجع FedRamp Marketplace.
+- **مصادقة FedRamp**: للحصول على أي معلومات حول مصادقة FedRamp، راجع FedRamp Marketplace.
 
-- **التوافق مع AZURE PCI DSS**: المستندات المطلوبة ذات الصلة ببرنامج azure لتحقيق الكومبليانسيس الصناعية الخاصة ببطاقة الدفع هي عبارة عن "مصادقه التوافق" و "مصفوفة المسؤولية" ، والتي تتوفر في مركز التوثيق في Azure. الرجاء التحقق من وجود هذه المستندات. إذا كانت لديك هذه المستندات ، ولكنك تحتاج إلى إثبات اضافيه للتوافق القياسي لامان بيانات Microsoft Azure PCI ، فراجع [Microsoft و PCI DSS](https://docs.microsoft.com/compliance/regulatory/offering-PCI-DSS).
+- **توافق Azure PCI DSS**: المستندات المطلوبة ذات الصلة ب Azure لتحقيق توافقات صناعة بطاقات الدفع هي "شهادة التوافق" و"مصفوفة المسؤولية"، وكلاهما متوفران في مركز توثيق Azure. يرجى التحقق مما إذا كان لديك هذه المستندات. إذا كان لديك هذه المستندات ولكنك تحتاج إلى إثبات إضافي للتوافق القياسي لأمن بيانات Microsoft Azure PCI، فشاهد [Microsoft و PCI DSS](https://docs.microsoft.com/compliance/regulatory/offering-PCI-DSS).
 
-- **العمليات/الأمان/التوافق في Azure**: إذا كان لديك اسئله عامه ذات صله بالأمان علي Azure ، فراجع الاستجابة القياسية لطلب المعلومات حول أمان microsoft azure والخصوصية والتوافق إذا كان لديك اسئله ذات صله بالتوافق ، يرجى الرجوع إلى: Microsoft STP-التوافق والاسئله المتداولة حول مدخل التوثيق
+- **عمليات Azure/الأمان/التوافق:** إذا كانت لديك أسئلة عامة متعلقة بالامن على Azure، فشاهد الرد القياسي على طلب المعلومات أمان Microsoft Azure والخصوصية والتوافق إذا كانت لديك أسئلة متعلقة بالتوافق، فالرجاء الرجوع إلى: الأسئلة الشائعة حول Microsoft STP - الأسئلة الشائعة حول التوافق و"مدخل الثقة بالخدمة".
 
-إذا كانت لديك اسئله ذات صله بالتوافق ، فراجع [الاسئله المتداولة حول MICROSOFT STP-التوافق](https://www.microsoft.com/trust-center/compliance/compliance-overview) ومدخل الثقة بالخدمة.
+إذا كانت لديك أسئلة متعلقة بالتوافق، فشاهد الأسئلة الشائعة حول [Microsoft STP - الأسئلة](https://www.microsoft.com/trust-center/compliance/compliance-overview) الشائعة حول التوافق و Service Trust Portal.
 
-- **التوافق مع GDPR**: إذا كانت لديك اسئله حول اتفاقيه معالجه البيانات ، فراجع "شروط حماية البيانات" التي تبدا في الصفحة 7 في "شروط الخدمات عبر الإنترنت". تتضمن OST البيانات الاساسيه-شروط المعالجة ولكن يتم دمجها في العقد التجاري القياسي. من بين الأشياء الأخرى ، فانها توفر التزاما كونتراكتوالا بشان التزاماتنا GDPR. بالاضافه إلى ذلك ، راجع الشروط الخاصة بالGDPR في نهاية العقد في "المرفق 4" ، بدءا من الصفحة 42. تغطي هذه الأقسام التزامات Microsoft الGDPRه كمعالج بيانات وكمعالج فرعي لمعالج بيانات آخر.
-
-> [!NOTE]
-> من المستحسن استخدام Adobe Acrobat Reader لفتح مستندات PDF ، لأنه تمت الاشاره إلى المشاكل المتعلقة ببرامج عرض PDF الأخرى. من المستحسن أيضا تنزيل الملف محليا بدلا من فتحه في نافذه المستعرض ، كما قد يتسبب في حدوث أخطاء.
-
-- **التوافق مع هدس**: Azure هو الآن "استضافه بيانات الحماية" ، المعتمدة وفقا للمتطلبات الفرنسية. لمزيد من المعلومات ، راجع "لقد تم اعتماد Microsoft Azure الآن لاستضافه بيانات الحماية الحساسة في فرنسا".
-
-- **اختبار اختراق**: تعتبر عمليه "إرسال طلبات الاختبار الاختراق بالبالكامل" عمليه الخدمة الذاتية في "بينتيست".
-
-للحصول علي مزيد من التفاصيل حول اختبار اختراق ، راجع [اختبار اختراق](https://docs.microsoft.com/azure/security/fundamentals/pen-testing).
-
-- **اعلامات العملاء لتغييرات سوببروسيسور**: يمكنك الاختيار لتلقي اعلامات بالتغييرات التي تم إدخالها علي القائمة سوببروسيسورس البيانات الشخصية من Microsoft.
+- توافق القانون العام لحماية البيانات **(GDPR):** إذا كانت لديك أسئلة حول اتفاقية معالجة البيانات، فشاهد "شروط حماية البيانات" بدءا من الصفحة 7 في "شروط الخدمات عبر الإنترنت". تتضمن OST شروط معالجة البيانات الأساسية ولكنها مدمجة في العقد التجاري القياسي. ومن بين أمور أخرى، يوفر الالتزام التعاقدي فيما يتعلق بالالتزامات التي نتعهد بها بموجب القانون العام لحماية حقوق المعلومات (GDPR). بالإضافة إلى ذلك، راجع الشروط الخاصة ب GDPR في نهاية العقد في "المرفق 4"، بدءا من الصفحة 42. تغطي هذه الأقسام التزامات MICROSOFT المتعلقة ب GDPR كمعالج بيانات ومعالج فرعي لمعالج بيانات آخر.
 
 > [!NOTE]
-> الاعلام بالبالكامل ببيانات عملاء الخدمات عبر الإنترنت وقائمه البيانات الشخصية تلقائية. لمزيد من المعلومات ، راجع موارد حماية بيانات خارجي.
+> من المستحسن بشدة استخدام Adobe Acrobat Reader لفتح مستندات PDF، كما تم ذكر المشاكل المتعلقة بعارضي PDF الآخرين. من المستحسن أيضا تنزيل الملف محليا بدلا من فتحه في نافذة المستعرض، حيث قد يؤدي ذلك إلى حدوث أخطاء.
 
-**المستندات المستحسنة**
+- **توافق HDS**: أصبح Azure الآن "استضافة بيانات الصحة"، معتمدا وفقا للمتطلبات الفرنسية. لمزيد من المعلومات، راجع "Microsoft Azure معتمد الآن لاستضافة بيانات حماية حساسة في فرنسا".
+
+- **اختبار الاختراق**: عملية "إرسال طلب اختبار الاختراق" بالكامل هي عملية خدمة العميل الذاتية في "pentest".
+
+لمزيد من التفاصيل حول اختبار الاختراق، راجع [اختبار الاختراق](https://docs.microsoft.com/azure/security/fundamentals/pen-testing).
+
+- **إعلامات العملاء الخاصة بتغييرات** المعالج الفرعي : يمكنك الاشتراك لتلقي إعلامات التغييرات في قائمة معالجات البيانات الشخصية الفرعية من Microsoft.
+
+> [!NOTE]
+> يتم بشكل تلقائي بالكامل إعلام بيانات العملاء وقائمة البيانات الشخصية في الخدمات عبر الإنترنت. لمزيد من المعلومات، راجع موارد حماية البيانات من MicrosoftS.
+
+**المستندات الموصى بها**
 
 - [تصدير الإعدادات أو حذفها في مدخل Azure](https://docs.microsoft.com/azure/azure-portal/set-preferences)
-- [البحث عن تقارير الانشطه في مدخل Azure](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-find-activity-reports)
-- [احداث المخاطر في Azure Active Directory](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
-- [المستخدمون في الخطر](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
-- [الوظائف الاضافيه غير الامنه](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
-- [ما هي تقارير Azure Active directory ؟](https://docs.microsoft.com/azure/active-directory/reports-monitoring/overview-reports)
-- [Microsoft و HIPAA والهيتيتش](https://docs.microsoft.com/compliance/regulatory/offering-hipaa-hitech)
-- [قسم الولايات المتحدة (دود) الخاص بالدفاع البروفيسيونال علي IL4](https://docs.microsoft.com/compliance/regulatory/offering-DoD-DISA-L2-L4-L5)
+- [البحث عن تقارير النشاط في مدخل Azure](https://docs.microsoft.com/azure/active-directory/reports-monitoring/howto-find-activity-reports)
+- [أحداث المخاطر في Azure Active Directory](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
+- [المستخدمون المعرضون للمخاطر](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
+- [تسجيل الدخول المجازف](https://docs.microsoft.com/azure/active-directory/identity-protection/overview-identity-protection)
+- [ما هي تقارير Azure Active Directory؟](https://docs.microsoft.com/azure/active-directory/reports-monitoring/overview-reports)
+- [Microsoft و HIPAA و قانون HITECH](https://docs.microsoft.com/compliance/regulatory/offering-hipaa-hitech)
+- [وثائق التفويض التخويل من قبل وزارة الدفاع الأمريكية (DoD) على IL4](https://docs.microsoft.com/compliance/regulatory/offering-DoD-DISA-L2-L4-L5)
 
 
 

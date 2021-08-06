@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7748"
 - "9004339"
-ms.openlocfilehash: 2f413e863e6aa23548e425de5901f8158e1d48ab
-ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
-ms.translationtype: HT
+ms.openlocfilehash: c7e6d96940f8d7052ee4b49b22c0d1d7d5bd5f9277f4a7eff709def1da2e13af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49976836"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019495"
 ---
 # <a name="authentication-issues"></a>مشكلات المصادقة
 
@@ -75,14 +75,14 @@ ms.locfileid: "49976836"
 - [التعامل مع تحديات الوصول المشروط باستخدام MSAL](https://docs.microsoft.com/azure/active-directory/develop/msal-error-handling-dotnet#conditional-access-and-claims-challenges) 
 - [إرشادات المطور للوصول المشروط إلى Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/v2-conditional-access-dev-guide)
 
-**_إنهاء دعم مكتبة مصادقة Azure Active Directory (ADAL) و Azure AD Graph API (AAD Graph)_* _
+***انتهاء الدعم لمكتبة مصادقة Azure Active Directory (ADAL) و Azure AD Graph API (AAD Graph)***
 
 - اعتبارًا من 30 يونيو 2020، لن نضيف أي ميزات جديدة إلى مكتبة مصادقة Azure Active Directory (ADAL) وAPI لـ Azure AD Graph (AAD Graph). سنستمر في تقديم الدعم الفني وتحديثات الأمان ولكننا لن نقدم تحديثات للميزات بعد الآن.
 - اعتبارًا من 30 يونيو 2022، سننهي دعم ADAL وAAD Graph، ولن نقدم بعد الآن دعمًا فنيًا أو تحديثات الأمان.
     - ستستمر التطبيقات التي تستخدم ADAL على إصدارات نظام التشغيل الحالية في العمل بعد هذا الوقت ولكنها لن تحصل على أي دعم فني أو تحديثات الأمان.
     - قد لا تتلقى التطبيقات التي تستخدم AAD Graph بعد هذا الوقت استجابات من نقطة نهاية AAD Graph.
 
-_ *ترحيل ADAL**
+**ترحيل ADAL**
 
 نوصي بالتحديث إلى [مكتبة مصادقة Microsoft (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview)، التي تحتوي على أحدث الميزات وتحديثات الأمان. تأتي هذه التوصية في سياق ترحيل Microsoft لتطبيقاتها إلى MSAL بحلول الموعد النهائي لنهاية الدعم. الهدف من ترحيل تطبيقات Microsoft إلى MSAL هو ضمان استفادة التطبيقات من التحسينات المستمرة للأمان والميزات في MSAL.
 

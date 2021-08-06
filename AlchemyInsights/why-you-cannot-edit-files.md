@@ -1,5 +1,5 @@
 ---
-title: تم تامين الملفات للتحرير
+title: تم تأمين الملفات للتحرير
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -14,27 +14,27 @@ ms.custom:
 - "9000123"
 - "1622"
 - "1713"
-ms.openlocfilehash: 3020837e8e8dd3b9ff4ada33f23c6118e83c3806
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 819aada39cdb819cb7a4fe30e14e88239c6352ab451eb77ee135307d5dd1cfcd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664481"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907797"
 ---
-# <a name="why-cant-i-edit-files"></a>لماذا لا يمكنني تحرير الملفات ؟
+# <a name="why-cant-i-edit-files"></a>لماذا لا يمكنني تحرير الملفات؟
 
-ألق نظره سريعة علي بعض الأسباب [التي قد يتعذر عليك تحرير الملف](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)فيها.
+أطلع على بعض الأسباب التي قد تجعلك لا تتمكن من [تحرير الملف.](https://support.office.com/article/why-can-t-i-edit-this-file-97315f48-aa5e-49d3-a4ae-a14b73daf87b)
 
-إذا كان لديك مكتبات ذات أعمده سحب أو أو **مطلوبه** **أو أو** بيانات تعريف ، أو عندما يتم تعيين **أمان عنصر المسودة** إلى **المستخدمين الذين يمكنهم فقط التحرير** أو **المستخدمين الذين يمكنهم الموافقة علي العناصر** في إعدادات الإصدارات من المكتبة:
+إذا كانت لديك  مكتبات تحتوي على "سحب" أو أعمدة "مطلوب"  أو "التحقق من  الصحة" أو بيانات تعريف، أو عند تعيين "أمان عنصر المسودة" إلى المستخدمين الذين يمكنهم تحرير العناصر أو المستخدمين الذين يمكنهم الموافقة على العناصر في الإصدار الإعدادات فقط من المكتبة:  
 
-- بالنسبة إلى مكتبات مستندات SharePoint ، ستتم مزامنة هذه العناصر للقراءة فقط.
+- بالنسبة SharePoint المستندات، سيتم مزامنة هذه العناصر للقراءة فقط.
 
-- بالنسبة إلى مكتبات OneDrive ، سيعرض OneDrive أيقونه تامين (أيقونه تامين ملف OneDrive) بجانب حاله المزامنة ولن يتمكن المستخدم من مزامنة المكتبة حتى تتم أزاله الإعدادات المذكورة. 
+- بالنسبة إلى مكتبات OneDrive، سيعرض OneDrive أيقونة تأمين ( أيقونة ملف OneDrive مؤمن) بجانب حالة المزامنة ولن يتمكن المستخدم من مزامنة المكتبة حتى تتم إزالة الإعدادات المذكورة. 
 
-للحصول علي مزيد من المعلومات حول الملفات المؤمنة ل Word أو Excel ، الرجاء الرجوع إلى المقالات الواردة أدناه.
+لمزيد من المعلومات حول الملفات المقفلة ل Word أو Excel، الرجاء الرجوع إلى المقالات أدناه.
 
-- [حصلت علي الخطا "فشل التحميل" أو "تعذر الحفظ تلقائيا" اثناء تحرير ملف Office](https://support.office.com/article/i-got-an-upload-failed-or-couldn-t-save-automatically-error-while-editing-an-office-file-93a14d34-88e3-4a91-9eef-58cc541d31f8)
+- [تلقيت خطأ "فشل التحميل" أو "تعذر الحفظ تلقائيًا" أثناء تحرير ملف Office](https://support.office.com/article/i-got-an-upload-failed-or-couldn-t-save-automatically-error-while-editing-an-office-file-93a14d34-88e3-4a91-9eef-58cc541d31f8)
 
 - [ملف Excel مؤمن ضد التحرير من قبل مستخدم آخر](https://support.office.com/article/Excel-file-is-locked-for-editing-by-another-user-6fa93887-2c2c-45f0-abcc-31b04aed68b3)
 
-- [ملف Word مؤمن ضد التحرير من قبل مستخدم آخر](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)
+- [الملف مؤمن ضد التحرير من قبل مستخدم آخر](https://support.microsoft.com/help/313472/the-document-is-locked-for-editing-by-another-user-error-message-when)

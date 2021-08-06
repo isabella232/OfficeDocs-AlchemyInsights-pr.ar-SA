@@ -1,5 +1,5 @@
 ---
-title: الحلول الموصي بها لمشاكل التخزين في Dynamics 365
+title: نوصي بالحلول لحلول مشاكل التخزين في Dynamics 365
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,21 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "1429"
 - "6200006"
-ms.openlocfilehash: 6e4aedd13adcaaf80dd98a130fb43f85a0b581e7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 81e39b5fb798ce83f02acece353883286e507812c8eac90fbfe4e03316fa635e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799155"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922938"
 ---
-# <a name="recommend-solutions-for-dynamics-365-storage-issues"></a>الحلول الموصي بها لمشاكل التخزين في Dynamics 365
+# <a name="recommend-solutions-for-dynamics-365-storage-issues"></a>يوصي بالحلول لحلول لحلول مشاكل التخزين في Dynamics 365
 
-* بصفتك مسؤولا عاما ، يمكنك عرض التصنيف التفصيلي للتخزين حسب البيئة والجداول الأهم 10 والمزيد
+* كمسؤول عام، يمكنك عرض تصنيف مساحة التخزين حسب البيئة والجداول العشرة الأولى والمزيد
 
-* [اسئله الاشتراك في التخزين والفوترة](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-information-microsoft-dynamics-365-online-billing-support)
+* [أسئلة حول فوترة التخزين والاشتراك](https://docs.microsoft.com/dynamics365/customer-engagement/admin/contact-information-microsoft-dynamics-365-online-billing-support)
 
-* [دليل الأسعار والترخيص في Dynamics 365](https://dynamics.microsoft.com/pricing/)
+* [دليل ترخيص وأسعار Dynamics 365](https://dynamics.microsoft.com/pricing/)
 
-* [كيفيه شراء مساحة تخزين اضافيه](https://docs.microsoft.com/dynamics365/customer-engagement/admin/manage-storage#add-storage-to-dynamics-365-online)
+* [كيفية شراء مساحة تخزين إضافية](https://docs.microsoft.com/dynamics365/customer-engagement/admin/manage-storage#add-storage-to-dynamics-365-online)
 
-* [كيفيه تحرير مساحة التخزين](https://docs.microsoft.com/dynamics365/customer-engagement/admin/free-storage-space)
+* [كيفية تحرير مساحة التخزين](https://docs.microsoft.com/dynamics365/customer-engagement/admin/free-storage-space)

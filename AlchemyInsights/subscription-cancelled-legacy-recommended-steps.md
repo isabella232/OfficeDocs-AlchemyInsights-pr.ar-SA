@@ -1,5 +1,5 @@
 ---
-title: تم إلغاء الاشتراك-الخطوات الموصي بها
+title: تم إلغاء الاشتراك - القديم - الخطوات الموصى بها
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003559"
 - "6846"
-ms.openlocfilehash: 88bb4209e0c157b938b5a1a1acdcc96492d1774b
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 71628e61027ee842e942277451c9e6e9de9b250f39516b3be076a2ee61fb68c3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564380"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999047"
 ---
-# <a name="subscription-cancelled---legacy---recommended-steps"></a>تم إلغاء الاشتراك-الخطوات الموصي بها
+# <a name="subscription-cancelled---legacy---recommended-steps"></a>تم إلغاء الاشتراك - القديم - الخطوات الموصى بها
 
-يشير سجلنا إلى انه قد تم إلغاء الاشتراك من قبل مستخدم لديه حقوق المالك. ابحث عن الخطوات أدناه لأعاده تنشيط الاشتراك.
+يشير سجلنا إلى أن الاشتراك تم إلغاؤه من قبل مستخدم له حقوق المالك. ابحث عن الخطوات أدناه لإعادة تنشيط الاشتراك.
 
-يمكن [لمسؤول الحساب](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) أعاده تنشيط اشتراك ملغي اثناء الدفع في مركز الحسابات.
+يمكن [لمسؤول الحساب](https://docs.microsoft.com/azure/cost-management-billing/manage/billing-subscription-transfer?WT.mc_id=Portal-Microsoft_Azure_Support#whoisaa) إعادة تنشيط اشتراك Pay-As-You-Go ملغى في مركز الحساب.
 
 1. سجل الدخول إلى [مركز الحسابات](https://account.azure.com/Subscriptions).
-2. حدد الاشتراك الذي تم إلغاؤه وانقر فوق **أعاده تنشيط**.
+2. حدد الاشتراك الملغى وانقر فوق **إعادة تنشيط**.
 
-بالنسبة إلى أنواع الاشتراكات الأخرى ، [اتصل بقسم الدعم](https://ms.portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview) لأعاده تنشيط اشتراكك.
+بالنسبة لأنواع الاشتراكات الأخرى، اتصل [بالدعم](https://ms.portal.azure.com/#blade/Microsoft_Azure_Support/HelpAndSupportBlade/overview) لإعادة تنشيط اشتراكك.

@@ -1,5 +1,5 @@
 ---
-title: ما هو عنوان البريد الكتروني في Outlook علي الويب
+title: ما هو عنوان بريدي الإلكتروني في Outlook على ويب
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,17 +10,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 235e84dc70aff078aa5413dd3e1ef38c86e17d60
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 38480c8baf9ba6f4d538c0bc3dec19035e62931544c5444699dab908f64d7f0f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665813"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999695"
 ---
-# <a name="what-is-my-email-address-in-outlook-on-the-web"></a>ما هو عنوان البريد الكتروني في Outlook علي الويب ؟
+# <a name="what-is-my-email-address-in-outlook-on-the-web"></a>ما هو عنوان بريدي الإلكتروني في Outlook على ويب؟
 
-يتم تعيين عنوان البريد الكتروني الخاص بك اليك بواسطة العمل أو المؤسسة التعليمية. يبدو مثل ellen@contoso.onmicrosoft.com أو ellen@contoso.edu أو ellen@contoso.com. حساب العمل أو المؤسسة التعليمية هذا هو عنوان البريد الكتروني والحساب الذي تستخدمه لتسجيل الدخول إلى Microsoft 365 للعمل أو المؤسسة التعليمية.
+يتم تعيين عنوان بريدك الإلكتروني لك من قبل العمل أو المدرسة. يبدو مثل ellen@contoso.onmicrosoft.com أو ellen@contoso.edu أو ellen@contoso.com. حساب العمل أو المدرسة هذا هو عنوان البريد الإلكتروني للحساب الذي تستخدمه Microsoft 365 العمل أو المدرسة.
 
-حساب العمل أو المؤسسة التعليمية مختلف عن حساب Microsoft الخاص بك. يمكنك استخدام حساب Microsoft الخاص بك للخدمات الشخصية مثل Outlook.com و Xbox Live و Skype وغير ذلك.
+يختلف حساب العمل أو المدرسة عن حساب Microsoft الخاص بك. يمكنك استخدام حساب Microsoft الخاص بك للخدمات الشخصية مثل Outlook.com Xbox Live Skype والمزيد.
 
-لمزيد من المعلومات ، راجع [ما هو معرف المستخدم الخاص بي ولماذا احتاج اليه ل Microsoft 365 for business ؟](https://support.office.com/article/37da662b-5da6-4b56-a091-2731b2ecc8b4)
+لمزيد من المعلومات، راجع ما هو "اسم المستخدم" ولماذا أحتاج إليه [Microsoft 365 للأعمال؟](https://support.office.com/article/37da662b-5da6-4b56-a091-2731b2ecc8b4)

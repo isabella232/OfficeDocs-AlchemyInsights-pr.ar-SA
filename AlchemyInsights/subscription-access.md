@@ -12,39 +12,39 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003799"
 - "6805"
-ms.openlocfilehash: 166380cff09f2a2bd9b7e8914d5db4071b6c3f12
-ms.sourcegitcommit: bec3554bf061ef28a009f460fb9d0a661b4fc008
+ms.openlocfilehash: b138c05e87e70c18bb6528819a34f8a9501446d57dcf4dbac0734f70fbc3466b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "48807157"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53999227"
 ---
-# <a name="unable-to-sign-in-azure-due-to-browser-issues-browser-hangs-keeps-spinning-does-not-load-etc"></a>تعذر تسجيل الدخول في Azure بسبب مشاكل في المستعرض (يتوقف المستعرض ، ولكنه لا يتم تحميله ، وغير ذلك.)
+# <a name="unable-to-sign-in-azure-due-to-browser-issues-browser-hangs-keeps-spinning-does-not-load-etc"></a>تعذر تسجيل الدخول إلى Azure بسبب مشاكل المستعرض (توقف المستعرض، استمر في الدوران، لا يتم تحميله، إلخ.)
 
-قد تتاثر بالانقطاع. يرجى التحقق لمعرفه ما إذا كان هناك انقطاع مستمر: [حاله حماية Azure](https://status.azure.com/status/history/).
+قد تكون متأثّر ب انقطاع التيار الكهربائي. الرجاء التحقق لمعرفة ما إذا كان هناك انقطاع جار: [حالة صحة Azure](https://status.azure.com/status/history/).
 
-يرجى تسجيل الخروج من كل جلسات عمل Azure النشطة. أبدا تشغيل وضع خاص أو نافذه تصفح متخفي في مستعرض الويب.
+الرجاء تسجيل الخروج من كل جلسات Azure النشطة. ابدأ وضع مستعرض الويب الخاص أو وضع التصفح المتخفي.
 
-يمكنك أيضا محاولة تحديث المستعرض ، واستخدام مستعرض آخر ، حذف ملفات تعريف الارتباط الخاصة بذاكره التخزين المؤقت إذا لم ينجح ذلك.
+يمكنك أيضا محاولة تحديث المستعرض واستخدام مستعرض آخر وحذف ملفات تعريف الارتباط ذاكرة التخزين المؤقت إذا لم تعمل أعلاه.
 
-تعرف علي المزيد: [استكشاف مشاكل تسجيل الدخول وإصلاحها](https://support.microsoft.com/help/4042961/troubleshoot-why-you-can-t-sign-in-to-manage-your-azure-subscription)
+تعرف على المزيد: استكشاف [مشاكل تسجيل الدخول وإصلاحها](https://support.microsoft.com/help/4042961/troubleshoot-why-you-can-t-sign-in-to-manage-your-azure-subscription)
 
 **تعذر الوصول إلى الاشتراكات**
 
-في [مدخل azure](https://portal.azure.com/)، تاكد من تحديد دليل azure الصحيح من الحساب في الجزء العلوي الأيسر.
+في مدخل [Azure،](https://portal.azure.com/)تأكد من تحديد دليل Azure الصحيح من الحساب في الجزء العلوي الأيمن.
 
-في [مركز حسابات Azure](https://account.windowsazure.com/Subscriptions)، تاكد من ان الحساب المستخدم هو مسؤول الحساب.
+في [مركز حساب Azure ،](https://account.windowsazure.com/Subscriptions)تأكد مما إذا كان الحساب المستخدم هو مسؤول الحساب.
 
-معرفه المزيد: [استكشاف الأخطاء وإصلاحها لم يتم العثور علي اشتراكات](https://docs.microsoft.com/azure/billing/billing-no-subscriptions-found?WT.mc_id=Portal-Microsoft_Azure_Support)
+تعرف على المزيد: استكشاف الأخطاء وإصلاحها لم يتم [العثور على أي اشتراكات](https://docs.microsoft.com/azure/billing/billing-no-subscriptions-found?WT.mc_id=Portal-Microsoft_Azure_Support)
 
 **تعذر الوصول إلى محفوظات الفوترة**
 
-يحتاج مسؤول الحساب إلى التاكد من أضافه المستخدم الذي يقوم بالوصول إلى معلومات الفوترة في Azure Active directory كمستخدم ضيف: [أضافه مستخدم جديد أو حذفه](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory?WT.mc_id=Portal-Microsoft_Azure_Support).
+يجب على مسؤول الحساب التأكد من إضافة المستخدم الذي يقوم بالوصول إلى معلومات الفوترة في دليل Azure Active كمستخدم ضيف: إضافة مستخدم جديد أو [حذفه.](https://docs.microsoft.com/azure/active-directory/fundamentals/add-users-azure-active-directory?WT.mc_id=Portal-Microsoft_Azure_Support)
 
-يجب ان يتم منح المستخدم الدور المسؤول العام: [تعيين الدور إلى المستخدمين](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-assign-role-azure-portal?WT.mc_id=Portal-Microsoft_Azure_Support).
+بعد ذلك، يجب أن يتم منح المستخدم دور المسؤول العام: [تعيين دور للمستخدمين](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-users-assign-role-azure-portal?WT.mc_id=Portal-Microsoft_Azure_Support).
 
-قم بنشر هذا المستخدم باستخدام نهج RBAC: [منح حق الوصول إلى الفوترة](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support).
+انشر ذلك، يمكن منح المستخدم حق الوصول إلى الفوترة باستخدام سياسات RBAC: [منح حق الوصول إلى الفوترة](https://docs.microsoft.com/azure/billing/billing-manage-access?WT.mc_id=Portal-Microsoft_Azure_Support).
 
-**المستندات المستحسنة**
+**المستندات الموصى بها**
 
--   [لا يمكنني تسجيل الدخول لأداره اشتراكك في Azure](https://docs.microsoft.com/azure/billing-cannot-login-subscription?WT.mc_id=Portal-Microsoft_Azure_Support)
+-   [لا يمكنني تسجيل الدخول لإدارة اشتراكي في Azure](https://docs.microsoft.com/azure/billing-cannot-login-subscription?WT.mc_id=Portal-Microsoft_Azure_Support)

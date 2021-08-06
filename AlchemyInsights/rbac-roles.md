@@ -1,5 +1,5 @@
 ---
-title: 'ادوار RBAC '
+title: 'أدوار RBAC '
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003230"
 - "7265"
-ms.openlocfilehash: 7c4c9d1a76f395dfb2f831d555199b76c354ca57
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 1faa9f69942d39b8d78c8f3e1316f93b52eeede6408dfabc89d0f7fe38b86fb3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583172"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923112"
 ---
 # <a name="rbac-rules"></a>قواعد RBAC
 
-إذا حصلت علي خطا في الاذن: 
+إذا حصلت على خطأ الإذن: 
 
-- لا **يتضمن العميل الذي يحتوي علي معرف العنصر تخويلا لتنفيذ الاجراء فوق النطاق (التعليمات البرمجية: أوثوريزاتيونفايليد)**: عند محاولة إنشاء مورد ، تاكد من انك قمت بتسجيل الدخول حاليا باستخدام مستخدم تم تعيين دور له اذن كتابه إلى المورد في النطاق المحدد. علي سبيل المثال ، لأداره الاجهزه الظاهرية في مجموعه موارد ، يجب ان يتوفر لديك دور [المساهم في الجهاز الظاهري](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support#virtual-machine-contributor) علي مجموعه الموارد (أو النطاق الأصلي). للحصول علي قائمه بالأذونات لكل دور مضمن ، راجع [الأدوار المضمنة لموارد Azure](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support).
-- **ليس لديك الاذن لإنشاء طلب دعم**: عند محاولة إنشاء بطاقة دعم أو تحديثها ، تاكد من انك قمت بتسجيل الدخول حاليا باستخدام المستخدم الذي تم تعيين دور له الذي يملك الاذن Microsoft. الدعم/سوبورتيكيتس/الكتابة ، مثل [الدعم المعتمد للطلب](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support#support-request-contributor).
-- **لا يمكن إنشاء المزيد من تعيينات الأدوار (التعليمات البرمجية: روليسيجنمينتليميتيكسسيديد)**: عند محاولة تعيين دور ، حاول تقليل عدد تعيينات الدور عن طريق تعيين ادوار إلى المجموعات بدلا من ذلك. يدعم Azure تعيينات الأدوار حتى **2000** لكل اشتراك.
+- ليس لدى العميل الذي لديه هوية كائن تخويل لتنفيذ إجراء عبر النطاق **(التعليمات البرمجية: AuthorizationFailed)**: عندما تحاول إنشاء مورد، تحقق من تسجيل الدخول حاليا مع مستخدم تم تعيين دور له إذن الكتابة للمورد في النطاق المحدد. على سبيل المثال، لإدارة الأجهزة الظاهرية في [](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support#virtual-machine-contributor) مجموعة موارد، يجب أن يكون لديك دور المساهم الظاهري في الجهاز على مجموعة الموارد (أو النطاق الأصل). للحصول على قائمة بالأذونات لكل دور مضمن، راجع الأدوار المضمنة [في موارد Azure](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support).
+- ليس لديك الإذن لإنشاء طلب دعم **:** عند محاولة إنشاء تذكرة دعم أو تحديثها، تحقق من أنك قمت حاليا تسجيل الدخول باستخدام مستخدم تم تعيين دور له إذن Microsoft.support/supportTickets/write، مثل "مساهم [طلب](https://docs.microsoft.com/azure/role-based-access-control/built-in-roles?WT.mc_id=Portal-Microsoft_Azure_Support#support-request-contributor)الدعم".
+- لا يمكن إنشاء المزيد من تعيينات الدور **(التعليمات البرمجية: RoleAssignmentLimitExceeded)**: عندما تحاول تعيين دور، حاول تقليل عدد تعيينات الدور من خلال تعيين أدوار للمجموعات بدلا من ذلك. يدعم Azure ما يصل إلى **2000** تعيين دور لكل اشتراك.
 
-للحصول علي مزيد من التفاصيل حول ادوار Azure RBAC ، راجع [ادوار AZURE RBAC](https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal?WT.mc_id=Portal-Microsoft_Azure_Support).
+لمزيد من التفاصيل حول أدوار Azure RBAC، راجع [أدوار Azure RBAC](https://docs.microsoft.com/azure/role-based-access-control/role-assignments-portal?WT.mc_id=Portal-Microsoft_Azure_Support).

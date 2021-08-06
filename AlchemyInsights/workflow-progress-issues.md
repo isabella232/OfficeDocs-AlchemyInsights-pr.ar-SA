@@ -9,18 +9,18 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 47ceb983-f9a4-4c55-a40c-03d5c3d75dc9
-ms.openlocfilehash: 77f7f3b68ea4c99f39049b90f3feaf2f7f9b1364
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f5fa5f8afdfacbefb071f6899b75c397b26705379d11bb1958c3d7f7be499b1f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664445"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907761"
 ---
-# <a name="intermittent-delays-with-workflow-progress"></a>تاخيرات متقطعه مع تقدم سير العمل
+# <a name="intermittent-delays-with-workflow-progress"></a>تأخيرات متقطعة مع تقدم سير العمل
 
-إذا لم يتم بدء تشغيل سير العمل الخاص بك ، فقد يكون هناك مشكله خدمه مؤقته حيث يواجه المستخدمون تاخيرات متقطعه مع تقدم سير العمل. راجع [لوحه معلومات حماية الخدمة](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) لمعرفه ما إذا كانت مؤسستك متاثره بالأمر. 
+إذا لم يبدأ سير العمل الخاص بك، فقد تكون هناك مشكلة خدمة مؤقتة حيث قد تواجه المستخدمين تأخيرات متقطعة مع تقدم سير العمل. تحقق من [لوحة معلومات حالة الخدمة](https://admin.microsoft.com/AdminPortal/Home#/servicehealth) لمعرفة ما إذا كانت مؤسستك متأثّر بها. 
 
-إذا تم تمرير أكثر من 24 ساعة منذ المرة الاولي التي قمت فيها بمشاهده هذه المشكلة ، يرجى تسجيل تذكره دعم. في حالات كثيره ، نحن نعمل بالفعل علي حل. يرجى تقديم 24 ساعة علي الأقل لإكمال حل.
+إذا مرت أكثر من 24 ساعة منذ أن رأيت هذه المشكلة للمرة الأولى، فالرجاء تسجيل تذكرة دعم. في العديد من الحالات، نحن نعمل بالفعل على إيجاد حل. الرجاء منحنا 24 ساعة على الأقل لإكمال الحل.
 
 
   

@@ -1,5 +1,5 @@
 ---
-title: اعداد سطح مكتب Windows الظاهري
+title: إعداد Windows سطح المكتب الظاهري
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004219"
 - "7427"
-ms.openlocfilehash: 7b3c91745d8136d6f508c8dbd3a63a1b0a67def3
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 4734c05d62ca5369dee0a41ea7e361d34538481ee89335c7b47dfe4e9d2966cd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49676775"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54036623"
 ---
-# <a name="set-up-windows-virtual-desktop"></a>اعداد سطح مكتب Windows الظاهري
+# <a name="set-up-windows-virtual-desktop"></a>إعداد Windows سطح المكتب الظاهري
 
-يعد سطح مكتب Windows الظاهري خدمه سطح المكتب والتطبيقات الظاهرية الشاملة التي تعمل في السحابة. انها البنية الاساسيه الوحيدة لسطح المكتب (VDI) التي تقدم الاداره المبسطة والجلسات المتعددة والعديد من تطبيقات Microsoft 365 والدعم لبيئات سطح المكتب البعيد (RDS). يمكنك نشر أسطح المكتب والتطبيقات في Windows وتغيير حجمها إلى Azure بالدقائق والحصول علي ميزات الأمان والتوافق المضمنة.
+Windows سطح المكتب الظاهري هو خدمة سطح مكتب وظاهرية تطبيق شاملة يتم تشغيلها في السحابة. إنها البنية الأساسية الظاهرية الوحيدة لسطح المكتب (VDI) التي توفر الإدارة المبسطة وجلسات العمل Windows 10 المتعددة وتحسينات Microsoft 365 Apps ودعم بيئات خدمات سطح المكتب البعيد (RDS). يمكنك نشر Windows سطح المكتب والتطبيقات في Azure في غضون دقائق والحصول على ميزات الأمان والتوافق المضمنة.
 
-يوفر [دليل اعداد سطح المكتب الظاهري ل Windows](https://go.microsoft.com/fwlink/?linkid=2146236) للمسؤولين الذين لديهم موارد التخطيط والمتطلبات الاساسيه للنشر وإرشادات الاعداد والموارد الاضافيه.
+يوفر [Windows إعداد سطح](https://go.microsoft.com/fwlink/?linkid=2146236) المكتب الافتراضي للمسؤولين موارد التخطيط والمتطلبات الأساسية للنشر وإرشادات الإعداد والموارد الإضافية.

@@ -1,5 +1,5 @@
 ---
-title: الاستعلام عن واجهه برمجه تطبيقات Microsoft Graph
+title: الاستعلام عن Microsoft Graph API
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,95 +12,95 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004345"
 - "7846"
-ms.openlocfilehash: 527e88c7b3cb1cc4f5535e3b0d2bc4d8d1163336
-ms.sourcegitcommit: 029c4697b77ce996d41ca74c4fa86de1bb84bd99
+ms.openlocfilehash: eda5d8d1d76d0d87312b1441aeae89d8e250abe0e8b613d4a43fcc2345a6f021
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974151"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53923226"
 ---
-# <a name="querying-the-microsoft-graph-api"></a>الاستعلام عن واجهه برمجه تطبيقات Microsoft Graph
+# <a name="querying-the-microsoft-graph-api"></a>الاستعلام عن Microsoft Graph API
 
-قد ينطبق هذا الموضوع أيضا علي المطورين الذين لا يزالوا يستخدمون واجهه برمجه تطبيقات Azure AD. ومع ذلك ، يوصي **بشده** باستخدام Microsoft Graph لكل الدليل والهوية وسيناريوهات أداره access.
+قد ينطبق هذا الموضوع أيضا على المطورين الذين ما زالوا يستخدمون Azure AD Graph API. ومع **ذلك،** يوصى بشدة باستخدام microsoft Graph لكل سيناريوهات إدارة الدليل والهوية والوصول.
 
-**مشاكل المصادقة أو التخويل**
+**مشاكل المصادقة أو التفويض**
 
-- إذا تعذر علي تطبيقك **الحصول علي الرموز المميزة** للاتصال ب microsoft graph ، فاختر **المشكلة المتعلقة بالحصول علي التعليمات الخاصة بالرمز المميز للوصول (مصادقه)** microsoft Graph للحصول علي مزيد من المساعدة والدعم في هذا الموضوع.
-- إذا كان التطبيق الذي تريده **يتلقى 401 أو 403 خطا في التخويل** عند الاتصال بالرسم البياني ل microsoft ، فحدد الفئة الخاصة **بالحصول علي الأخطاء التي رفضها Access (التخويل)** للحصول علي تعليمات ودعم أكثر تحديدا في هذا الموضوع.
+- إذا تعذر  على تطبيقك الحصول على الرموز المميزة لاستدعاء Microsoft Graph، فاختار مشكلة في الحصول على رمز وصول **مميز (مصادقة)** فئة Microsoft Graph للحصول على تعليمات ودعم أكثر تحديدا حول هذا الموضوع.
+- إذا كان التطبيق يتلقى **أخطاء تخويل 401 أو 403** عند الاتصال ب Microsoft Graph، فاختار الفئة الحصول على خطأ رفض الوصول **(تخويل)** Microsoft Graph API للحصول على تعليمات ودعم أكثر تحديدا حول هذا الموضوع.
 
-**ارغب في استخدام Microsoft Graph ، ولكن ليس عليك التاكد من مكان البدء**
+**أريد استخدام Microsoft Graph، ولكن لست متأكدا من مكان البدء**
 
-لمعرفه المزيد حول Microsoft Graph ، راجع:
+لمعرفة المزيد حول Microsoft Graph، راجع:
 
-- [نظره عامه حول Microsoft Graph](https://docs.microsoft.com/graph/overview)
-- [نظره عامه حول الهوية وأداره Access في Microsoft Graph](https://docs.microsoft.com/graph/azuread-identity-access-management-concept-overview)
+- [نظرة عامة على Microsoft Graph](https://docs.microsoft.com/graph/overview)
+- [نظرة عامة حول إدارة الهوية والوصول في Microsoft Graph](https://docs.microsoft.com/graph/azuread-identity-access-management-concept-overview)
 - [بدء إنشاء تطبيقات Microsoft Graph](https://docs.microsoft.com/graph/)
-- **مستكشف الرسوم البيانية في microsoft** -اختبار واجات برمجه تطبيقات microsoft graph في نطاق المستاجر أو مستاجر العرض التوضيحي
+- **Microsoft Graph Explorer** - اختبار واجهات برمجة تطبيقات Microsoft Graph في المستأجر أو مستأجر عرض توضيحي
 
-**أريد استخدام Microsoft Graph ، ولكنه يدعم الدليل v 1.0 واجات برمجه التطبيقات التي احتاج اليها ؟**
+**أريد استخدام Microsoft Graph، ولكن هل يدعم واجهات برمجة تطبيقات الدليل التي أحتاج إليها في v1.0؟**
 
-ان Microsoft Graph هو واجهه برمجه التطبيقات الموصي بها للدليل والهوية وأداره الوصول. ومع ذلك ، لا تزال هناك بعض الفجوات بين العناصر الممكنة في Azure AD Graph و Microsoft Graph. راجع المقالات التالية التي تميز معظم الاختلافات المحدثة للمساعدة في اختيارك:
+Microsoft Graph هي API المستحسنة لإدارة الدليل والهوية والوصول. ومع ذلك، لا تزال هناك بعض الثغرات بين ما هو ممكن في Azure AD Graph و Microsoft Graph. راجع المقالات التالية، التي تسلط الضوء على أحدث الاختلافات لمساعدتك في اختيارك:
 
-- [اختلافات أنواع الموارد بين الرسم البياني ل Azure AD و Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences)
-- [اختلافات الخصائص بين الرسم البياني ل Azure AD و Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-property-differences)
+- [اختلافات نوع المورد بين Azure AD Graph و Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences)
+- [اختلافات في الممتلكات بين Azure AD Graph و Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-property-differences)
 - [اختلافات الأسلوب بين Azure AD و Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-method-differences)
 
-**عند الاستعلام عن عنصر *المستخدم* ، تكون العديد من خصائصه مفقوده**
+**عند الاستعلام عن *كائن* المستخدم، تكون العديد من خصائصه مفقودة**
 
-`GET https://graph.microsoft.com/v1.0/users` تقوم فقط بإرجاع الخاصية 11 ، بما في ذلك Microsoft Graph يحدد تلقائيا مجموعه افتراضيه من خصائص *المستخدم* لإرجاعها. إذا كنت بحاجه إلى خصائص *مستخدم* أخرى ، فاستخدم $select لاختيار الخصائص التي يحتاج اليها التطبيق. جربه في **Microsoft Graph Explorer** أولا.
+`GET https://graph.microsoft.com/v1.0/users`ترجع فقط 11 من الخصائص، بينما تقوم Microsoft Graph تلقائيا بتحديد مجموعة افتراضية من *خصائص* المستخدم التي سيتم إرجاعها. إذا كنت بحاجة إلى *خصائص مستخدم* أخرى، فاستخدم $select لاختيار الخصائص التي يحتاج إليها التطبيق. جرب ذلك في **Microsoft Graph Explorer** أولا.
 
-**بعض قيم خصائص المستخدم *فارغه* علي الرغم من انه اعلم انه تم تعيينها**
+**بعض قيم خاصية المستخدم *فارغة* على الرغم من أنني أعرف أنها تم تعيينها**
 
-التوضيح الأكثر احتمالا هو انه تم منح التطبيق *ريدباسيك* . يتيح هذا للتطبيق قراءه مجموعه محدوده من خصائص المستخدم ، وإرجاع كل الخصائص الأخرى كفارغه حتى إذا تم تعيينها مسبقا. جرب منح *المستخدم التطبيق. أقرا كل* الأذونات بدلا من ذلك.
+التفسير الأكثر شيوعا هو أنه تم منح التطبيق الإذن *User.ReadBasic.All.* يسمح هذا للتطبيق بقراءة مجموعة محدودة من خصائص المستخدم، مع إرجاع كل الخصائص الأخرى ك خالية حتى لو تم تعيينها مسبقا. حاول منح التطبيق *إذن User.Read.All* بدلا من ذلك.
 
-لمزيد من المعلومات ، راجع [أذونات مستخدمي Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference#user-permissions).
+لمزيد من المعلومات، راجع [أذونات Graph Microsoft](https://docs.microsoft.com/graph/permissions-reference#user-permissions).
 
-**أواجه مشكله في استخدام معلمات استعلام OData لتصفيه البيانات في طلباتي**
+**أواجه مشكلة في استخدام معلمات استعلام OData لتصفية البيانات في طلباتي**
 
-بينما يدعم Microsoft Graph مجموعه كبيره من معلمات الاستعلام OData ، لا يتم دعم العديد من هذه المعلمات بشكل كامل بواسطة خدمات الدليل (الموارد التي ترث من *ديريكتوريوبجيكت*) في Microsoft Graph. تستمر القيود نفسها التي كانت موجودة في الرسم البياني في Azure AD
+على الرغم Graph Microsoft يدعم مجموعة واسعة من معلمات استعلام OData، فإن خدمات الدليل (الموارد التي ترث من *الدليلObject)* غير معتمدة بشكل كامل في Microsoft Graph. تستمر القيود نفسها التي كانت موجودة في Azure AD Graph في Microsoft Graph:
 
-1. **غير معتمد**: $count و $search و $filter علي قيم *خاليه* أو *فارغه*
-2. **غير معتمد**: $filter علي خصائص معينه (راجع مواضيع الموارد التي يتم قابله للتصفية الخصائص بها)
+1. **غير معتمد**: $count $search وقيم $filter قيم *خالية* أو *غير* خالية
+2. **غير معتمد**: $filter خصائص معينة (راجع مواضيع الموارد التي يمكن تصفيتها)
 3. **غير معتمد**: الترحيل والتصفية والفرز في الوقت نفسه
-4. **غير معتمد**: تصفيه علاقة. علي سبيل المثال ، يمكنك العثور علي كل أعضاء المجموعة الهندسية الموجودة في المملكة المتحدة.
-5. **الدعم الجزئي**: $orderby علي *المستخدم* (displayName و الوحدات التي ليست فقط) والمجموعة 
-6. **الدعم الجزئي**: $filter ( *يعتمد فقط* الدعم *الستارتسويث* أو الدالات الفردية *أو* المحدودة) ، وال$expand (توسيع علاقات كائن واحد ترجع كل العلاقات ، ولكن توسيع مجموعه من الكائنات التي تقتصر عليها العلاقات) 
+4. **غير معتمد**: التصفية على علاقة. على سبيل المثال - ابحث عن كل أعضاء المجموعة الهندسية في المملكة المتحدة.
+5. **دعم جزئي**: $orderby *المستخدم* (displayName و userPrincipalName فقط) *والمجموعة*
+6. **دعم** جزئي: $filter (يدعم فقط *eq* وبداية مع و محدود أي *دعم)،* فإن $expand (توسيع علاقات كائن واحد يرجع كل العلاقات، ولكن توسيع مجموعة من علاقات الكائنات محدود)  
 
-لمزيد من المعلومات ، راجع [تخصيص الاستجابات باستخدام معلمات الاستعلام](https://docs.microsoft.com/graph/query-parameters).
+لمزيد من المعلومات، راجع [تخصيص الاستجابات باستخدام معلمات الاستعلام](https://docs.microsoft.com/graph/query-parameters).
 
-**لا تعمل واجهه برمجه التطبيقات (API) التي أقوم بالاتصال بها ، حيث يمكنني اجراء المزيد من الاختبارات ؟**
+**لا تعمل API التي أقوم بالاتصال بها - أين يمكنني إجراء المزيد من الاختبارات؟**
 
-**مستكشف Microsoft graph** -اختبر واجات برمجه تطبيقات microsoft graph في نطاق المستاجر أو مستاجر العرض التوضيحي ، وراجع أيضا **نماذج الاستعلامات** في مستكشف Microsoft Graph.
+**Microsoft Graph Explorer** - اختبر واجهات برمجة تطبيقات Microsoft Graph في المستأجر أو  المستأجر التجريبي وافحص أيضا الاستعلامات العينة في Microsoft Graph Explorer.
 
-**عندما أقوم بالاستعلام عن بيانات يبدو انه تمت أعاده تعيين بيانات غير مكتملة**
+**عندما أستعلام عن البيانات، يبدو أنني أستعيد مجموعة بيانات غير مكتملة**
 
-إذا كنت تقوم بالاستعلام عن مجموعه (مثل *المستخدمين*) ، فان Microsoft Graph يستخدم حدود الصفحة من جانب الخادم حتى يتم دائما إرجاع النتائج بحجم صفحه افتراضي. يجب ان يتوقع تطبيقك دائما الوصول إلى الصفحة عبر المجموعات التي يتم إرجاعها من الخدمة.
+إذا كنت تقوم باستعلام مجموعة (مثل المستخدمين)، Graph Microsoft حدود الصفحات من جانب الخادم بحيث يتم دائما إرجاع النتائج بحجم صفحة افتراضي. يجب أن يتوقع تطبيقك دائما عرض الصفحات عبر المجموعات التي يتم إرجاعها من الخدمة.
 
 لمزيد من المعلومات، اطلع على:
 
-- [أفضل الممارسات في Microsoft Graph](https://docs.microsoft.com/graph/best-practices-concept)
-- [ترحيل بيانات الرسومات البيانية في Microsoft إلى التطبيق](https://docs.microsoft.com/graph/paging)
+- [أفضل Graph Microsoft](https://docs.microsoft.com/graph/best-practices-concept)
+- [ترحيل بيانات Microsoft Graph في تطبيقك](https://docs.microsoft.com/graph/paging)
 
-**التطبيق الخاص بي بطيء جدا وهو أيضا يتم التحكم فيه. ما هي التحسينات التي يمكنني القيام بها ؟**
+**تطبيقي بطيء جدا، كما أنه يتم أيضا كبحه. ما هي التحسينات التي يمكنني إدخالها؟**
 
-استنادا إلى السيناريو الذي تستخدمه ، هناك مجموعه متنوعة من الخيارات المختلفة عند التخلص لتطبيقك بشكل أكثر فاعليه ، وفي بعض الحالات ، اقل عرضه ليتم التحكم فيها من قبل الخدمة (عند اجراء مكالمات كثيره جدا).
+وفقا للسيناريو الخاص بك، هناك مجموعة متنوعة من الخيارات المختلفة تحت تصرفك لجعل تطبيقك أكثر أداء، وفي بعض الحالات، أقل عرضة للتوقف عن الخدمة (عندما تقوم بإجراء عدد كبير جدا من المكالمات).
 
 للتعرّف على المزيد، اطلع على:
 
-- [أفضل الممارسات في Microsoft Graph](https://docs.microsoft.com/graph/best-practices-concept)
-- [طلبات التجميع](https://docs.microsoft.com/graph/json-batching)
-- [تعقب التغييرات عبر استعلام دلتا](https://docs.microsoft.com/graph/delta-query-overview)
-- [الحصول علي اعلام بالتغييرات عبر ويبهوكس](https://docs.microsoft.com/graph/webhooks)
-- [إرشادات التحكم](https://docs.microsoft.com/graph/throttling)
+- [أفضل Graph Microsoft](https://docs.microsoft.com/graph/best-practices-concept)
+- [طلبات الدفع](https://docs.microsoft.com/graph/json-batching)
+- [تعقب التغييرات من خلال استعلام دلتا](https://docs.microsoft.com/graph/delta-query-overview)
+- [الحصول على إعلام بالتغييرات من خلال webhooks](https://docs.microsoft.com/graph/webhooks)
+- [إرشادات الوتد](https://docs.microsoft.com/graph/throttling)
 
-**أين يمكنني العثور علي مزيد من المعلومات حول الأخطاء والمشاكل المعروفة ؟**
+**أين يمكنني العثور على مزيد من المعلومات حول الأخطاء والقضايا المعروفة؟**
 
-- [معلومات الاستجابة لخطا Microsoft Graph](https://docs.microsoft.com/graph/errors)
+- [معلومات استجابة Graph Microsoft](https://docs.microsoft.com/graph/errors)
 - [المشاكل المعروفة في Microsoft Graph](https://docs.microsoft.com/graph/known-issues)
 
-**أين يمكنني التحقق من حاله توفر الخدمة والاتصال ؟**
+**أين يمكنني التحقق من حالة توفر الخدمة واتصالها؟**
 
-يمكن ان تؤثر أتاحه الخدمة والاتصال بالخدمات الاساسيه التي يمكن الوصول اليها من خلال Microsoft Graph علي التوفر والأداء الكلي ل Microsoft Graph.
+يمكن أن يؤثر توفر الخدمة واتصال الخدمات الأساسية التي يمكن الوصول إليها عبر Microsoft Graph على التوفر والأداء العامين لخدمات Microsoft Graph.
 
-- بالنسبة إلى حماية خدمه Active Directory في Azure ، تحقق من حاله **الأمان + خدمات الهوية** المدرجة في [صفحه حاله Azure](https://azure.microsoft.com/status/).
-- بالنسبة إلى خدمات Office التي تساهم في Microsoft Graph ، تحقق من حاله الخدمات المدرجة في [لوحه معلومات حماية خدمه Office](https://portal.office.com/adminportal/home#/servicehealth).
+- للحصول على حماية خدمة Azure Active Directory، تحقق من حالة **خدمات الأمان +** الهوية المدرجة في صفحة حالة [Azure](https://azure.microsoft.com/status/).
+- بالنسبة Office الخدمات التي تساهم في Microsoft Graph، تحقق من حالة الخدمات المدرجة في لوحة Office [حالة الخدمة.](https://portal.office.com/adminportal/home#/servicehealth)

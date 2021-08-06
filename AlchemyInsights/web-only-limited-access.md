@@ -1,5 +1,5 @@
 ---
-title: Web-Only وصول محدود
+title: Web-Only الوصول المحدود
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004169"
 - "7314"
-ms.openlocfilehash: 9f53219bd504425295302500965dc526cbf75106
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 1f62a3fff61dd005423574e77c70cedb4e3516d3012c69b0095246aa194154e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564382"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53907905"
 ---
-# <a name="web-only-limited-access"></a>Web-Only وصول محدود
+# <a name="web-only-limited-access"></a>Web-Only الوصول المحدود
 
-Web-Only الوصول المحدود هو متغير من مستوي الأذونات "وصول محدود" الذي يمكن وصول المستخدمين إلى عنصر ويب فقط.
+Web-Only "الوصول المحدود" هو أحد أشكال مستوى الأذونات "وصول محدود" الذي يمكن المستخدمين من الوصول إلى كائن الويب فقط.
 
-لمزيد من المعلومات ، راجع [مستويات الأذونات الافتراضية](https://docs.microsoft.com/sharepoint/understanding-permission-levels#default-permission-levels).
+لمزيد من المعلومات، راجع [مستويات الأذونات الافتراضية](https://docs.microsoft.com/sharepoint/understanding-permission-levels#default-permission-levels).

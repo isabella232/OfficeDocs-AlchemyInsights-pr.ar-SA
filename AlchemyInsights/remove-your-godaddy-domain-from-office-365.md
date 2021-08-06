@@ -1,5 +1,5 @@
 ---
-title: أزاله مجال GoDaddy من Microsoft 365
+title: إزالة مجال GoDaddy من Microsoft 365
 ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -12,16 +12,16 @@ ms.assetid: 32314f8a-aaec-4d01-9fd3-009bfdcecd12
 ms.custom:
 - "26"
 - "11"
-ms.openlocfilehash: c1891d3ce5e7605ec7c0dec8a249e922aff364ec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bf7dc36779bf920b721d67d15b7925d72a5d657b67b105165f37f170023ad764
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47701522"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53922326"
 ---
-# <a name="remove-your-godaddy-domain-from-microsoft-365"></a>أزاله مجال GoDaddy من Microsoft 365
+# <a name="remove-your-godaddy-domain-from-microsoft-365"></a>إزالة مجال GoDaddy من Microsoft 365
 
-لا يمكننا أزاله مجال GoDaddy من Microsoft 365 لك. اتصل [بخدمه عملاء GoDaddy](https://aka.ms/contact-godaddy) للحصول علي المساعدة.
+لا يمكننا إزالة مجال GoDaddy من Microsoft 365 لك. اتصل [بخدمة عملاء GoDaddy](https://aka.ms/contact-godaddy) للحصول على المساعدة.
   
-إذا كان اسم المؤسسة لا يحتوي علي "نيتورج" أو لم يتم شراؤه من GoDaddy ، فقم بازاله مجالك باتباع هذه الخطوات [أزاله مجال من Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain)
+إذا لم يتضمن اسم المؤسسة "NETORG" أو لم يتم شراؤه من GoDaddy، فإزالة مجالك باتباع هذه الخطوات إزالة [مجال من Microsoft 365.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/remove-a-domain)
   
