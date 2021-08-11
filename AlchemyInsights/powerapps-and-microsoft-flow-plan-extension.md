@@ -1,5 +1,5 @@
 ---
-title: 1575-PowerApps وملحق خطه Microsoft الانسيابية
+title: 1575-PowerApps Microsoft Flow خطة
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -14,19 +14,19 @@ ms.custom:
 - "1575"
 - "9000087"
 ms.assetid: (guid of old soc version if any)
-ms.openlocfilehash: 2492fdc77371c21f74250fe4edb6590f0d6d1d7b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: efd9e346211b50209c8e5baf6f64f293fafa6a27ef9b92c8b3f6fade889307a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728382"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960426"
 ---
-# <a name="powerapps-and-microsoft-flow-plan-extension"></a>PowerApps وملحق خطه Microsoft الانسيابية
+# <a name="powerapps-and-microsoft-flow-plan-extension"></a>ملحق خطة PowerApps Microsoft Flow PowerApps
 
-إذا كنت ترغب في طلب ملحق خطه ل **Microsoft تدفق** أو **PowerApps** وكانت المستاجر الخاص بك يملك مستخدمين نشطين بالفعل لأحدي الميزات التالية ، فلا حاجه إلى تقديم طلب دعم.
+إذا كنت تنوي طلب ملحق  خطة Microsoft Flow **أو PowerApps** وكان المستأجر لديك لديه بالفعل مستخدمون نشطون ل إحدى الميزات التالية، فلا حاجة إلى تقديم طلب دعم.
 
-- إنشاء موصلات مخصصه ونشرها في PowerApps و Microsoft تدفق
-- إجراءات HTTP المخصصة المضمنة في تدفق خارج SharePoint و OneDrive
-- تكامل البيانات المحلية عبر بوابه البيانات المحلية
+- إنشاء موصلات مخصصة ونشرها في PowerApps Microsoft Flow
+- إجراءات HTTP المخصصة المتكاملة Flow خارج SharePoint OneDrive
+- تكامل البيانات المحلي من خلال بوابة البيانات المحلي
 
-سيحصل العملاء الذين لديهم مستخدمون نشطون لهذه الميزات علي ملحق تلقائي حتى 31 يناير 2020 أو انتهاء مده صلاحيه الاشتراك الحالي في Microsoft 365 ، أيهما أطول.
+وسيحصل العملاء الذين لديهم مستخدمين نشطين لهذه الميزات على ملحق تلقائي حتى 31 يناير 2020، أو انتهاء مدة اشتراكهم Microsoft 365 الحالي، أيهما أطول.

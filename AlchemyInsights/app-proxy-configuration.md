@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7800"
-ms.openlocfilehash: 0b782705afa8eab338687590baff90de4e17ccb9
-ms.sourcegitcommit: 83fe2a8d060794fdf58445b469b30a3294b7a9b6
+ms.openlocfilehash: 835bfc59f77b31dc9a37c98db911505e2c7a758b37406dfc4da2d139afa61db5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49884771"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951552"
 ---
 # <a name="app-proxy-configuration"></a>تكوين وكيل التطبيق
 
-1. لفهم كيفيه تكوين تطبيق وكيل التطبيق داخل Azure AD لعرض تطبيقاتك المحلية إلى السحابة ، راجع [كيفيه تكوين تطبيق وكيل التطبيق](https://docs.microsoft.com/azure/active-directory/application-proxy-config-how-to).
-2. يسمح تسجيل الدخول الأحادي (SSO) للمستخدمين بالوصول إلى أحد التطبيقات من دون المصادقة عده مرات. يسمح هذا الأمر للمصادقة بان تحدث في السحابة ، مقابل Azure Active Directory ، وتسمح للخدمة أو الموصل بانتحال المستخدم لإكمال اي تحديات مصادقه اضافيه من التطبيق. لمعرفه المزيد ، راجع [كيفيه تكوين تسجيل الدخول الأحادي إلى تطبيق وكيل التطبيق](https://docs.microsoft.com/azure/active-directory/application-proxy-config-sso-how-to).
-3. استخدم [هذه المقالة](https://docs.microsoft.com/azure/active-directory/application-proxy-config-problem) لاستكشاف المشاكل الشائعة التي تواجه الأشخاص وإصلاحها عند إنشاء تطبيق جديد لوكيل التطبيق.
-4. إذا كنت تواجه مشكله في اعداد المصادقة النهائية للتطبيق ، فقد تحتاج إلى [استكشاف الأخطاء في تكوينات التفويض المقيدة ل Kerberos لوكيل التطبيق](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-kerberos-constrained-delegation-how-to) أو اتباع الإرشادات المتعلقة [بتكوين التطبيق باستخدام بينجاكسيس](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-ping-access-how-to) لحل مشكلتك.
+1. لفهم كيفية تكوين تطبيق وكيل التطبيق داخل Azure AD لكشف التطبيقات في السحابة، راجع كيفية تكوين [تطبيق وكيل التطبيق](https://docs.microsoft.com/azure/active-directory/application-proxy-config-how-to).
+2. تسجيل الدخول الفردي (SSO) يسمح للمستخدمين بالوصول إلى تطبيق دون المصادقة عدة مرات. ويسمح بالمصادقة الفردية أن تحدث في السحابة، مقابل Azure Active Directory، ويسمح للخدمة أو الموصل بانتحال هوية المستخدم لإكمال أي تحديات مصادقة إضافية من التطبيق. لمعرفة المزيد، [راجع كيفية تكوين](https://docs.microsoft.com/azure/active-directory/application-proxy-config-sso-how-to)تسجيل الدخول الفردي إلى تطبيق وكيل التطبيق .
+3. استخدم [هذه المقالة](https://docs.microsoft.com/azure/active-directory/application-proxy-config-problem) لا استكشاف المشاكل الشائعة التي يواجهها الأشخاص عند إنشاء تطبيق وكيل تطبيق جديد وإصلاحها.
+4. إذا كنت تواجه مشكلة في إعداد مصادقة الخادم للتطبيق، فقد تحتاج إلى استكشاف الأخطاء في تكوينات [Kerberos](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-kerberos-constrained-delegation-how-to) المقيدة للوفود لوكيل التطبيق وإصلاحها أو اتباع إرشادات حول تكوين التطبيق باستخدام [PingAccess لحل](https://docs.microsoft.com/azure/active-directory/application-proxy-back-end-ping-access-how-to) المشكلة.

@@ -1,5 +1,5 @@
 ---
-title: مشكله بوابه وكيل التطبيق
+title: مشكلة بوابة وكيل التطبيق
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004356"
 - "7804"
-ms.openlocfilehash: e706b0456199c2dbd3e5ba5e926ac974b7e12c36
-ms.sourcegitcommit: 07501553ea9adabdb50ac613687e1583d159e302
+ms.openlocfilehash: 8b3bbfb1db9be8cb7aa1f651499043b3433bd7b08e3ff271e810c591b6f74acf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49916643"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951516"
 ---
-# <a name="app-proxy-gateway-issue"></a>مشكله بوابه وكيل التطبيق
+# <a name="app-proxy-gateway-issue"></a>مشكلة بوابة وكيل التطبيق
 
-لاستكشاف المشاكل الشائعة لخطا "يتعذر الوصول إلى تطبيق الشركة هذا" علي تطبيق وكيل تطبيق Azure AD ، راجع [ظهور الخطا "تعذر الوصول إلى تطبيق الشركة هذا" عند استخدام تطبيق وكيل التطبيق](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-sign-in-bad-gateway-timeout-error).
+استكشاف الأخطاء الشائعة لخطأ "لا يمكن الوصول إلى تطبيق الشركة هذا" في تطبيق وكيل تطبيق Azure AD وإصلاحها، راجع الخطأ "لا يمكن الوصول إلى تطبيق الشركة [هذا"](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-sign-in-bad-gateway-timeout-error)عند استخدام تطبيق وكيل التطبيق .

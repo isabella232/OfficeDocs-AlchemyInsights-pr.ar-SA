@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "6006"
 - "1300007"
-ms.openlocfilehash: 78893d1ac260f9c9a2670969b4c50c8b911102c5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 45154bceda45763a3cf9095c2df537070fa7d4774cdc248f72dc015d572da93b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740353"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942930"
 ---
 # <a name="security-defaults-is-enabled"></a>تم تمكين إعدادات الأمان الافتراضية
 
-يطالب اعداد "افتراضيات الأمان" بكل المستخدمين للمصادقة متعددة العوامل.
+يطالب الإعداد "افتراضيات الأمان" جميع المستخدمين بالمصادقة متعددة العوامل.
 
-لأداره إعدادات الأمان الافتراضية:
+لإدارة إعدادات الأمان الافتراضية:
 
-1. سجل دخولك إلى [مدخل Azure](https://ms.portal.azure.com/)   باستخدام بيانات اعتماد المسؤول العمومي.
-2. انتقل إلى **خصائص Azure active**directory  >  **Properties**.
+1. سجل الدخول إلى [مدخل Azure باستخدام](https://ms.portal.azure.com/)   بيانات اعتماد المسؤول العام.
+2. انتقل إلى **خصائص Azure Active Directory**  >  .
 3. في أسفل الصفحة، انقر فوق **إدارة الإعدادات الافتراضية للأمان**.
-4. انقر فوق **نعم** لتمكين إعدادات الأمان الافتراضية أو**لا** لتعطيل إعدادات الأمان الافتراضية.
+4. انقر فوق **نعم** لتمكين إعدادات الأمان الافتراضية أو **لا** لتعطيل إعدادات الأمان الافتراضية.
 
-لمزيد من المعلومات ، راجع [ما هي افتراضيات الأمان ؟](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults).
+لمزيد من المعلومات، راجع [ما هي إعدادات الأمان الافتراضية؟](https://docs.microsoft.com/azure/active-directory/fundamentals/concept-fundamentals-security-defaults).

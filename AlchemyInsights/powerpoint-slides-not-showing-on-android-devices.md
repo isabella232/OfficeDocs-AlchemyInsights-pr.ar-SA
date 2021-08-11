@@ -1,5 +1,5 @@
 ---
-title: شرائح PowerPoint لا تظهر في Skype for Business علي أجهزه Android
+title: PowerPoint الشرائح التي لا تظهر في Skype for Business على أجهزة Android
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "6017"
 - "9003195"
-ms.openlocfilehash: 180161ebea6ee9cf80c2921c022583481617b015
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 34d61b4f36bb743e56eca5856cbac3b47540d5264881feadf74fe20bf88d64b8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47693902"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960282"
 ---
-# <a name="powerpoint-slides-not-showing-in-skype-for-business-on-android-devices"></a>شرائح PowerPoint لا تظهر في Skype for Business علي أجهزه Android
+# <a name="powerpoint-slides-not-showing-in-skype-for-business-on-android-devices"></a>PowerPoint الشرائح التي لا تظهر في Skype for Business على أجهزة Android
 
-إذا واجهت مشكله في شرائح PowerPoint لا يتم عرضها علي أجهزه Android ، فقد يعود سبب ذلك إلى وجود خطا في مستعرض Chrome.
+إذا واجهت مشكلة في عدم PowerPoint عرض الشرائح على أجهزة Android، فقد يعود سبب ذلك إلى خطأ في مستعرض Chrome.
 
-جرب تعطيل ، ثم قم بإلغاء تثبيته. بعد أزاله تثبيت Chrome ، يمكنك أعاده تمكين Chrome للحصول علي إصدار المصنع (74.0.3729.136) حيث يتم حل المشكلة.
+حاول تعطيل، ثم قم ب إلغاء تثبيت Chrome. بعد إلغاء تثبيت Chrome، اعد تمكين Chrome للحصول على إصدار المصنع (74.0.3729.136) حيث تم حل المشكلة.
