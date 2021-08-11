@@ -1,5 +1,5 @@
 ---
-title: إضافة تقويم SharePoint
+title: إضافة SharePoint التقويم
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2585"
-ms.openlocfilehash: 6ef515bb8be7d085beb614543bc53c9e224425fc
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0694d68be73eb7b3cf46b933a3fd263800b82f7657823703b2a6bf175eca6409
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822334"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935144"
 ---
-# <a name="add-a-sharepoint-calendar"></a>إضافة تقويم SharePoint
+# <a name="add-a-sharepoint-calendar"></a>إضافة SharePoint التقويم
 
-إن تقويمات SharePoint هي أنواع قائمة كلاسيكية يتم أحيانا الخلط بينها وبين تقويمات مجموعة Microsoft 365.
+SharePoint التقويمات هي أنواع قائمة كلاسيكية يتم الخلط بينها في بعض الأحيان Microsoft 365 "تقويمات المجموعة".
  
 لإنشاء تقويم SharePoint، اتبع الخطوات التالية:
  
-1.  حدد **أيقونة ترس** الإعدادات، ثم حدد **إضافة تطبيق**.
+1.  حدد **أيقونة الإعدادات** الترس، ثم حدد **إضافة تطبيق**.
 2.  في المربع **البحث عن تطبيق،** اكتب **التقويم** واضغط على Enter.
 3.  حدد التطبيق الذي يحمل العنوان **التقويم**، ثم أدخل اسما للتقويم.
 
-لمزيد من المعلومات حول مجموعات Microsoft 365، راجع [التعرف على مجموعات Microsoft 365](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+لمزيد من المعلومات حول Microsoft 365 المجموعات، راجع [التعرف على Microsoft 365 المجموعات.](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2)
 

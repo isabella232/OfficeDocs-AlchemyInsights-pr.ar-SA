@@ -1,5 +1,5 @@
 ---
-title: 764 أضافه/اعداد حسابات البريد الكتروني
+title: 764 إضافة/إعداد حسابات البريد الإلكتروني
 ms.author: pdigia
 author: pebaum
 ms.date: 04/21/2020
@@ -12,22 +12,22 @@ ms.custom:
 - "764"
 - "1800018"
 ms.assetid: afd20b89-09e9-4746-ac16-e282382dd948
-ms.openlocfilehash: b33bbb346fdbfe3a27512b3dfaf6e3c07e5a7b04
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d7e015bd79addc9a1abe1a9a7973fe923c934bf60c2891f4454c13622a2b8a9f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663536"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935504"
 ---
-# <a name="set-up-email-accounts"></a>اعداد حسابات البريد الكتروني
+# <a name="set-up-email-accounts"></a>إعداد حسابات البريد الإلكتروني
 
-1. في Outlook ، انقر فوق معلومات **الملف**  >  **Info**  >  **أضافه حساب**.
+1. في Outlook، انقر فوق **إضافة**  >  **حساب معلومات**  >  **الملف**.
 
-2. ادخل عنوان بريدك الكتروني ، ثم انقر فوق **اتصال**.
+2. أدخل عنوان بريدك الإلكتروني ثم **انقر** فوق الاتصال .
 
-3. ادخل كلمه المرور وانقر فوق **موافق**.
+3. أدخل كلمة المرور وانقر فوق **موافق**.
 
-4. يمكنك تكرار هذه الخطوات لأضافه حسابات متعددة.
+4. يمكنك تكرار هذه الخطوات لإضافة حسابات متعددة.
 
-**ملاحظه**: تتطلب بعض حسابات البريد الكتروني ، مثل Gmail و Yahoo و iCloud ان تقوم باعداد المصادقة الثنائية لكي تتمكن من استخدام Outlook لإرسال البريد الكتروني وتلقيه. راجع [أضافه حساب بريد الكتروني إلى Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx) للحصول علي مزيد من المعلومات.
+**ملاحظة:** تتطلب بعض حسابات البريد الإلكتروني، مثل Gmail و Yahoo و iCloud، إعداد المصادقة الثنائية من أجل استخدام Outlook لإرسال البريد الإلكتروني وتلقيه. راجع [إضافة حساب بريد إلكتروني Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b.aspx) للحصول على مزيد من المعلومات.
   

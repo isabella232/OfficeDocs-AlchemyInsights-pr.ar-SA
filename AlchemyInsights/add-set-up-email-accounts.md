@@ -1,5 +1,5 @@
 ---
-title: 1800018 أضافه/اعداد حسابات البريد الكتروني
+title: 1800018 إضافة/إعداد حسابات البريد الإلكتروني
 ms.author: pdigia
 author: pebaum
 manager: scotv
@@ -14,16 +14,16 @@ ms.custom:
 - "935"
 - "1800018"
 ms.assetid: 20ea6700-31b5-4491-aaf3-40ddd775e8a3
-ms.openlocfilehash: de769d9ca58bfad687d586647a3ad4d9b7b2616a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: efd74173e62a5d2204641d0594e0e39587bbef869cb1ee7590a3db824a705bd2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47687565"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935540"
 ---
-# <a name="problems-setting-up-an-email-account-in-outlook"></a>مشاكل في اعداد حساب بريد الكتروني في Outlook
+# <a name="problems-setting-up-an-email-account-in-outlook"></a>مشاكل في إعداد حساب بريد إلكتروني في Outlook
 
-إذا كنت تواجه مشاكل في اعداد حساب Exchange في Outlook ، فيمكنك تشغيل [أداه اعداد حساب Outlook](https://aka.ms/SaRA-OutlookSetupProfile) علي الجهاز المتاثر. سيؤدي ذلك إلى اجراء عمليات تدقيق مختلفه وتوفير الحلول المحتملة لمشكله اعداد حسابك.
+إذا كنت تواجه مشاكل في إعداد حساب Exchange في Outlook، يمكنك [](https://aka.ms/SaRA-OutlookSetupProfile) تشغيل أداة إعداد حساب Outlook على الجهاز المتأثر. سيتم إجراء عمليات فحص متنوعة وتوفير الحلول الممكنة لحلول مشكلة إعداد حسابك.
   
-إذا كنت لا تزال تواجه مشاكل ، فراجع [يتعذر علي Outlook اعداد ملف تعريف جديد باستخدام الاكتشاف التلقائي ل exchange لعلبه بريد Exchange Online](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover).
+إذا كنت لا تزال تواجه مشاكل، Outlook لا يمكنك إعداد ملف تعريف جديد باستخدام Exchange [Autodiscover](https://docs.microsoft.com/exchange/troubleshoot/outlook-profiles/cannot-set-up-profile-autodiscover)لعلبة بريد Exchange Online البريد.
   

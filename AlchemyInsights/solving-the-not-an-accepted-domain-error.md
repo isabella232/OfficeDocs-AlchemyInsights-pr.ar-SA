@@ -1,5 +1,5 @@
 ---
-title: حل رسالة الخطا "لم يتم قبول المجال"
+title: حل الخطأ "مجال غير مقبول"
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,16 +12,16 @@ ms.custom:
 - "839"
 - "1"
 ms.assetid: 5190e27b-f94b-4f3c-b5b8-841e2bd7cff9
-ms.openlocfilehash: 6cf72dda355949e6d5f83214b26f2c8d435fd9b2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a7ea5ebefb0c9a68af5883d7d2f9bed0f4100a53200e30e859d6f90ee519779f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47737868"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093045"
 ---
-# <a name="got-a-parameter-cannot-be-found-error"></a>هل لديك الخطا "لا يمكن العثور علي معلمه" ؟
+# <a name="got-a-parameter-cannot-be-found-error"></a>هل لديك خطأ "يتعذر العثور على المعلمة"؟
 
-إذا ظهرت رسالة الخطا **"لا يمكن العثور علي معلمه تطابق اسم المعلمة" EmailAddresses "**، فهذا يعني انه يستغرق وقتا أطول 365 لإنهاء اعداد المستاجر أو مجالك المخصص إذا أضفته مؤخرا.
+إذا حصلت على رسالة الخطأ "لا يمكن العثور على معلمة تطابق اسم المعلمة **'EmailAddresses"،** فهذا يعني أن إنهاء إعداد المستأجر أو مجالك المخصص في حالة إضافة مجالك مؤخرا قد أخذ وقتا أطول قليلا ل Microsoft 365.
   
-يمكن ان تستغرق عمليه الاعداد ما يصل إلى 4 ساعات لتكتمل. انتظر قليلا ، التالي يكون لعمليه الاعداد وقت الانتهاء ، ثم حاول مره أخرى.
+قد تستغرق عملية الإعداد ما يصل إلى 4 ساعات حتى تكتمل. انتظر قليلا بحيث يكون لعملية إعداد الوقت للانتهاء، ثم حاول مرة أخرى.
   

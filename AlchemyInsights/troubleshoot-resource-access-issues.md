@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "1750"
 - "9000076"
-ms.openlocfilehash: 720dc31dc4db98714e5f8aa7a6ce95d83b6b0229
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 02208d52b478b382119bd6634709f52dfc0a27f4e0eb251bcfdb4d96d47dac82
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664877"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093009"
 ---
 # <a name="troubleshoot-resource-access-issues"></a>استكشاف مشاكل الوصول إلى الموارد وإصلاحها
 
-للحصول علي معلومات حول أنواع ملفات التعريف المعتمدة في Intune لتمكين الوصول إلى المستخدمين الأساسيين والموارد الخاصة بالشركة ، راجع:
+للحصول على معلومات حول أنواع ملفات التعريف التي يدعمها Intune لتمكين وصول المستخدمين إلى البنية الأساسية والموارد الخاصة بالشركة، راجع:
 
-- [أضافه إعدادات البريد الكتروني إلى الاجهزه باستخدام Intune](https://docs.microsoft.com/intune/email-settings-configure)
-- [إنشاء ملفات تعريف VPN للاتصال بخوادم VPN في Intune](https://docs.microsoft.com/intune/vpn-settings-configure))
-- [أضافه إعدادات Wi-fi واستخدامها علي أجهزتك في Microsoft Intune](https://docs.microsoft.com/intune/wi-fi-settings-configure)
-- [استخدام شهادات للمصادقة في Microsoft Intune](https://docs.microsoft.com/intune/certificates-configure)
+- [إضافة إعدادات البريد الإلكتروني إلى الأجهزة باستخدام Intune](https://docs.microsoft.com/intune/email-settings-configure)
+- [إنشاء ملفات تعريف VPN للاتصال خوادم VPN في Intune](https://docs.microsoft.com/intune/vpn-settings-configure))
+- [إضافة إعدادات Wi-Fi واستخدامها على أجهزتك في Microsoft Intune](https://docs.microsoft.com/intune/wi-fi-settings-configure)
+- [استخدام الشهادات للمصادقة في Microsoft Intune](https://docs.microsoft.com/intune/certificates-configure)
 
-للحصول علي مزيد من المعلومات حول ملفات تعريف الاجهزه في Intune ، راجع [الاسئله والاجوبه الشائعة باستخدام نهج الجهاز وملفات التعريف في Microsoft Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot).
+لمزيد من المعلومات حول ملفات تعريف أجهزة Intune، راجع الأسئلة الشائعة والأجوبة باستخدام سياسات الأجهزة وملفات التعريف [في Microsoft Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot).
 
-للحصول علي معلومات اضافيه حول استكشاف الأخطاء وإصلاحها علي ملفات تعريف الوصول إلى الموارد ، راجع [رموز الخطا والأوصاف الشائعة في Microsoft Intune](https://docs.microsoft.com/intune/troubleshoot-company-resource-access-problems).
+للحصول على معلومات إضافية حول استكشاف الأخطاء وإصلاحها في ملفات تعريف الوصول إلى الموارد، راجع رموز الخطأ الشائعة [وأوصافها في Microsoft Intune](https://docs.microsoft.com/intune/troubleshoot-company-resource-access-problems).

@@ -1,5 +1,5 @@
 ---
-title: ما الجديد في Windows 10 ، الإصدار 1903
+title: ما الجديد في Windows 10، الإصدار 1903
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003945"
 - "7003"
-ms.openlocfilehash: 582af6dd48460869998ff41c9e2cc4230fc82b4b
-ms.sourcegitcommit: ec88047d550006a1df4b6f10a3f513218113b9a5
+ms.openlocfilehash: f7b88788ae74f967f112e67d3fc80b80d3d93fc2e4af9efa3a977d16d1d70350
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49691916"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970642"
 ---
-# <a name="whats-new-in-windows-10-version-1903"></a>ما الجديد في Windows 10 ، الإصدار 1903
+# <a name="whats-new-in-windows-10-version-1903"></a>ما الجديد في Windows 10، الإصدار 1903
 
-اليك الميزات الجديدة والمحدثة والمحتوي الخاص ب Windows 10 الإصدار 1903 ، المعروف أيضا باسم Windows 10 قد 2019 تحديثه. يحتوي هذا التحديث أيضا علي كل الميزات والإصلاحات المضمنة في التحديثات التراكمية السابقة في Windows 10 ، الإصدار 1809:
+فيما يلي الميزات والمحتوى الجديد والمحدث Windows 10 1903، المعروف أيضا باسم تحديث مايو 2019 لنظام Windows 10. يحتوي هذا التحديث أيضا على جميع الميزات والت تصحيحات المضمنة في التحديثات التراكمية السابقة الإصدار 1809 من Windows 10:
 
 1. [النشر](https://go.microsoft.com/fwlink/?linkid=2114296)
-1. [تشير](https://go.microsoft.com/fwlink/?linkid=2114493)
+1. [تقديم الخدمة](https://go.microsoft.com/fwlink/?linkid=2114493)
 1. [الأمان](https://go.microsoft.com/fwlink/?linkid=2114297)
 1. [Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2114298)

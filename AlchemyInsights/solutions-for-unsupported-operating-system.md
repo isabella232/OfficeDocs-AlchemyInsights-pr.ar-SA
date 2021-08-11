@@ -1,5 +1,5 @@
 ---
-title: حلول لنظام التشغيل غير المعتمد
+title: حلول 'نظام التشغيل غير معتمد'
 ms.author: janellem
 author: janellem
 manager: scotv
@@ -13,18 +13,18 @@ ms.assetid: f8cf946c-89c7-4770-8f1f-d111e654e6cb
 ms.custom:
 - "906"
 - "2000023"
-ms.openlocfilehash: dbbe86406cb1b5d2166e9f5a61df6f0803f5172b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a18ae7c7a24183e2b2d9c0768ac8770be5f8e20d8c805caa8a18ab4cd1816423
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738084"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093091"
 ---
-# <a name="solutions-for-unsupported-operating-system"></a>حلول "نظام التشغيل غير المعتمد"
+# <a name="solutions-for-unsupported-operating-system"></a>حلول ل "نظام التشغيل غير معتمد"
 
-عند محاولة تثبيت Microsoft 365 ، قد تظهر رسالة خطا غير **مدعمه في نظام التشغيل** إذا لم يكن جهازك يلبي [متطلبات النظام](https://products.office.com/office-system-requirements).
+عند محاولة تثبيت Microsoft 365، قد تظهر رسالة  خطأ في نظام التشغيل غير مثبت إذا لم يلبي جهازك [متطلبات النظام](https://products.office.com/office-system-requirements).
   
-يتطلب Microsoft 365:
+Microsoft 365 ما يلي:
   
 - الكمبيوتر الشخصي: Windows 10 أو Windows 8.1 أو Windows 8 أو Windows 7 Service Pack 1 أو Windows Server 2016 أو Windows Server 2012 R2 أو Windows Server 2012 أو Windows Server 2008 R2
 
@@ -32,5 +32,5 @@ ms.locfileid: "47738084"
 
 - Mac OS X 10.10
 
-إذا حصلت علي هذه الرسالة اثناء محاولة تثبيت Office علي جهاز محمول أو جهاز chromebook ، فراجع [كيفيه تثبيت Microsoft Office وتشغيله علي جهاز chromebook](https://support.office.com/article/32f14a23-2c1a-4579-b973-d4b1d78561ad?wt.mc_id=Alchemy_ClientDIA).
+إذا تلقيت هذه الرسالة أثناء محاولة تثبيت Office على جهاز محمول أو جهاز Chromebook، فشاهد كيفية تثبيت وتشغيل Microsoft Office [على Chromebook](https://support.office.com/article/32f14a23-2c1a-4579-b973-d4b1d78561ad?wt.mc_id=Alchemy_ClientDIA).
   

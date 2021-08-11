@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001178"
 - "3430"
-ms.openlocfilehash: a8d58943a6278fb21bf2a0ee71284b16daf10e0f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 3ad25cd49fb37a34afe4d65106d0f881fb051224ed0a7e2a27a1fd2f52645433
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824170"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53970714"
 ---
 # <a name="what-version-of-android-does-your-app-support"></a>ما هو إصدار Android الذي يدعمه تطبيقك؟
 
@@ -27,7 +27,7 @@ ms.locfileid: "51824170"
 
 للقيام بذلك: 
 
-1. على هاتف أو كمبيوتر لوحي يعمل بنظام Android، افتح **إعدادات** ثم **التطبيقات** أو **التطبيقات**.
+1. على هاتف Android أو الكمبيوتر اللوحي، **افتح** الإعدادات ثم **التطبيقات** أو **التطبيقات**.
 
 2. في أعلى الشاشة، اضغط على **المزيد** (قد يكون هذا أيضا بفاة، أو ثلاث نقاط عمودية) ثم **إظهار النظام**. 
 
