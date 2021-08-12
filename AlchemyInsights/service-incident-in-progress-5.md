@@ -1,5 +1,5 @@
 ---
-title: حدث الخدمة قيد التقدم
+title: "\"حادث الخدمة\" في تقدم"
 ms.author: pebaum
 author: CrystalThomasMS
 ms.date: 04/21/2020
@@ -19,19 +19,19 @@ ms.custom:
 - "1600018"
 - "1600029"
 - "1600044"
-ms.openlocfilehash: d2f3d1f75c61100b3b3892d286db7af91a618ba2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ea17addde1b98b6f8b33909e126078266992a55e7eb6932443fc8f9d213c04a5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47751338"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54061347"
 ---
-# <a name="service-incident-in-progress"></a>حدث الخدمة قيد التقدم
+# <a name="service-incident-in-progress"></a>"حادث الخدمة" في تقدم
 
-قد تتاثر بحادث أو نصائح الخدمة التي يتم التحقق منها حاليا. يمكنك التحقق من الحالة الاخيره بالانتقال إلى صفحه [حماية الخدمة](https://admin.microsoft.com/adminportal/home#/servicehealth) .
+قد تتأثر بحادث خدمة أو استشارات يتم التحقق فيها حاليا. يمكنك التحقق من الحالة الأخيرة عن طريق الذهاب إلى [صفحة حالة](https://admin.microsoft.com/adminportal/home#/servicehealth) الخدمة.
   
-لتسهيلك ، يمكنك العثور علي ملخص لهذا الحادث أدناه:
+لراحتك، يمكنك العثور على ملخص لهذا الحادث أدناه:
   
-> **رقم الحدث:**[{إينسيدينتيد}](https://admin.microsoft.com/adminportal/home#/servicehealth)
+> **رقم الحادث:**[{IncidentId}](https://admin.microsoft.com/adminportal/home#/servicehealth)
     
-> وصف التاثير: {إيمباكتديسكريبشن}
+> وصف التأثير: {ImpactDescription}

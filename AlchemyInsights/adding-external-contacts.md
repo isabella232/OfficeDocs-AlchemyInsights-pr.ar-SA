@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "4000007"
 - "1430"
-ms.openlocfilehash: bb29d04fe8de94af863ae062a76a158ae2f5b4d8
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 92d776675c2c70bfb651ce09e0f2d7b815366f22a87f2e468964fa4971d275f4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822118"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53934892"
 ---
 # <a name="enable-external-communications-and-add-contacts"></a>تمكين الاتصالات الخارجية وإضافة جهات اتصال
 
@@ -25,4 +25,4 @@ ms.locfileid: "51822118"
 
 تأكد من أن مسؤول المستأجر قد اتبع الخطوات للسماح [بالاتصالات الخارجية.](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/allow-users-to-contact-external-skype-for-business-users)
 
-هل تريد فقط تمكين المستخدمين من الاتصال بمستخدمي Skype المستهلكين؟ راجع [السماح لمستخدمي Skype for Business بإضافة جهات اتصال Skype](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts). 
+هل تريد فقط تمكين المستخدمين من الاتصال Skype المستهلكين؟ راجع [السماح Skype for Business المستخدمين بإضافة Skype جهات الاتصال](https://docs.microsoft.com/skypeforbusiness/set-up-skype-for-business-online/let-skype-for-business-users-add-skype-contacts). 

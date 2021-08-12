@@ -1,5 +1,5 @@
 ---
-title: إضافة توقيع بريد إلكتروني في Outlook for Mac
+title: إضافة توقيع البريد الإلكتروني في Outlook for Mac
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200009"
 - "8200"
-ms.openlocfilehash: 5d76bac16d640f8634903abae59fc7e61fa60cb3
-ms.sourcegitcommit: 05a9dd3121c21322dc9ddec4c2eec548cafd5a43
+ms.openlocfilehash: 2e5069b57f922bf782555467b2a85d9e6ae72967e06ed655212e8574ed4c091b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "50177359"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53935864"
 ---
-# <a name="add-email-signature-in-outlook-for-mac"></a>إضافة توقيع بريد إلكتروني في Outlook for Mac
+# <a name="add-email-signature-in-outlook-for-mac"></a>إضافة توقيع البريد الإلكتروني في Outlook for Mac
 
-1. في قائمة **Outlook،** انقر فوق **"تفضيلات".**
-2. ضمن **البريد الإلكتروني،** انقر فوق **"تواقيع".**
+1. في قائمة **Outlook،** انقر فوق **تفضيلات**.
+2. ضمن **بريد إلكتروني،** انقر فوق **تواقيع**.
 3. انقر **فوق إضافة +**.
-4. انقر نقرا **مزدوجا فوق "بدون** عنوان"، ثم اكتب اسما للتوقيع.
+4. انقر نقرا **مزدوجا فوق بدون عنوان**، ثم اكتب اسما للتوقيع.
 5. في الجزء الأيمن، اكتب النص الذي تريد تضمينه في التوقيع.
 6. أغلق **صفحة التواقيع.**
-7. لتطبيق تنسيق مثل الخط أو نمط الخط أو حجم الخط أو لون الخط أو التمييز، حدد النص، ثم من القائمة "تنسيق"، انقر فوق الخيار الذي تريده.
+7. لتطبيق تنسيق مثل الخط أو نمط الخط أو حجم الخط أو لون الخط أو التمييز، حدد النص، ثم في القائمة تنسيق، انقر فوق الخيار الذي تريده.
 8. أغلق **صفحة التواقيع.**

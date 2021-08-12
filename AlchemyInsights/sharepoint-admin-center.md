@@ -1,5 +1,5 @@
 ---
-title: مركز إدارة SharePoint
+title: SharePoint مركز الإدارة
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001459"
 - "5639"
-ms.openlocfilehash: 4ee235e0aeb8271075d643825d9ce07fd333ce12
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 70a35a4cfe7422b700820c27baeb5c93ebd5437c739690d0a86714e7697c92ac
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835402"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53910461"
 ---
-# <a name="sharepoint-admin-center"></a>مركز إدارة SharePoint
+# <a name="sharepoint-admin-center"></a>SharePoint مركز الإدارة
 
-- [بدء العمل في مركز إدارة SharePoint الجديد.](https://docs.microsoft.com/sharepoint/get-started-new-admin-center)
+- [بدء العمل باستخدام مركز إدارة SharePoint الجديد.](https://docs.microsoft.com/sharepoint/get-started-new-admin-center)
