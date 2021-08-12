@@ -1,5 +1,5 @@
 ---
-title: 646 كيفيه تكوين AADConnect
+title: 646 كيفية تكوين AADConnect
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,25 +13,25 @@ ms.custom:
 - "646"
 - "1300023"
 ms.assetid: 599698ac-6709-477a-a66f-169b3165064e
-ms.openlocfilehash: 6327e42b74283d732247c9a847c68db72082c56a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c5fa5fd7586f999698fe43554fb9a2b205be3e25740c20763254a38d41297e0c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704476"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963630"
 ---
 # <a name="configure-sync-features"></a>تكوين ميزات المزامنة
 
-يتضمن Azure AD Connect العديد من الميزات التي يتم تمكينها بشكل افتراضي ، أو يمكنك تمكينها لاحقا. تتطلب بعض الميزات تكوين إضافي في بيئات معينه.
+يتضمن الاتصال Azure AD العديد من الميزات التي يتم تمكينها بشكل افتراضي، أو التي يمكنك تمكينها لاحقا. تتطلب بعض الميزات تكوينا إضافيا في بيئات معينة.
 
-- حدود [التصفية](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) يتم مزامنة العناصر إلى Azure AD. بشكل افتراضي ، تتم مزامنة كل المستخدمين وجات الاتصال والمجموعات وحسابات الكمبيوتر في Windows 10. يمكنك تضمين كائنات أو استبعادها استنادا إلى المجالات أو الأووس أو السمات الأخرى.
+- [تمت مزامنة](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-configure-filtering) حدود التصفية مع Azure AD. بشكل افتراضي، يتم مزامنة جميع المستخدمين وجهات الاتصال والمجموعات Windows 10 الكمبيوتر. يمكنك تضمين كائنات استنادا إلى المجالات أو OUs أو سمات أخرى أو استبعادها.
 
-- يقوم " [مزامنة" تجزئه كلمه المرور](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) بمزامنة تجزئه كلمه المرور من active directory المحلي إلى Azure AD. يسمح هذا باداره كلمه المرور في موقع واحد ، ولكن استخدام نفس كلمه المرور في كل من البيئات المحلية والسحابية. لان Active Directory هو المصدر الموثوق ، يمكنك استخدام نهج كلمه المرور الخاصة بك.
+- [تعمل مزامنة كلمة المرور على](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-implement-password-hash-synchronization) مزامنة كلمة المرور من Active Directory المحلية إلى Azure AD. يسمح ذلك بإدارة كلمة المرور في موقع واحد، ولكن استخدام كلمة المرور نفسها في كل من البيئات المحلية والبيئات السحابية. نظرا لأن Active Directory هو المصدر الموثوق، يمكنك استخدام سياسات كلمات المرور الخاصة بك.
 
-- تسمح [أعاده تعيين كلمه مرور الخدمة الذاتية (سبر)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) للمستخدمين باعاده تعيين كلمات المرور الخاصة بهم في السحابة مع استمرار تطبيق نهج كلمه المرور المحلية.
+- تسمح إعادة تعيين كلمة المرور للخدمة الذاتية [(SSPR)](https://docs.microsoft.com/azure/active-directory/authentication/quickstart-sspr) للمستخدمين بإعادة تعيين كلمات المرور الخاصة بهم في السحابة مع تطبيق نهج كلمة المرور المحلي.
 
-- يسمح [الكتابة الخلفية للجهاز](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-device-writeback) باعاده كتابه الاجهزه المسجلة في Azure AD إلى active directory المحلي بحيث يمكن استخدامها للوصول الشرطي.
+- [تتيح كتابة الجهاز](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-device-writeback) إعادة كتابة الأجهزة المسجلة في Azure AD إلى Active Directory في الموقع بحيث يمكن استخدامها للوصول الشرطي.
 
-- [منع الحذف العرضي](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-feature-prevent-accidental-deletes) يتم تمكينه بشكل افتراضي للمساعدة علي منع العديد من عمليات حذف الكائنات المتزامنة (أكثر من 500 كائن لكل مزامنة). يمكنك تغيير هذا الاعداد لتلبيه احتياجات مؤسستك.
+- [يتم تمكين منع عمليات](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsync-feature-prevent-accidental-deletes) الحذف العرضية بشكل افتراضي للمساعدة على منع عدد كبير جدا من عمليات حذف العناصر في الوقت نفسه (أكثر من 500 كائن في كل مزامنة). يمكنك تغيير هذا الإعداد لتلبية احتياجات مؤسستك.
 
-- يتم تمكين [الترقية التلقائية](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade) بشكل افتراضي لتثبيتات express والمساعدة علي التاكد من ان إصدار Azure AD Connect حاليا دائما.
+- [يتم تمكين](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade) الترقية التلقائية بشكل افتراضي في عمليات التثبيت السريع وتساعد على ضمان أن إصدار Azure AD الاتصال دائما.

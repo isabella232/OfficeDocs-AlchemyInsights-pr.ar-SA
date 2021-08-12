@@ -1,5 +1,5 @@
 ---
-title: 1815 زيادة حجم علبه البريد المشتركة
+title: 1815 زيادة حجم علبة البريد المشتركة
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,13 +11,13 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1815
 ms.assetid: ''
-ms.openlocfilehash: 937f5aef89073ecd1c3c7b48d69b482c748e844f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 36f4445b7635d45d8fae1aec58d981fb830f430ca7a92189d8c038e04a86ef67
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47755874"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912729"
 ---
-# <a name="increase-the-size-of-a-shared-mailbox"></a>زيادة حجم علبه البريد المشتركة
+# <a name="increase-the-size-of-a-shared-mailbox"></a>زيادة حجم علبة بريد مشتركة
 
-يمكنك زيادة حجم علبه البريد المشتركة من الحجم الافتراضي 50 غيغابايت إلى 100 غيغابايت من خلال تعيين علبه البريد المشتركة ترخيص Exchange Online P2 (المضمن ضمن تراخيص E3 و E5). عند تعيين الترخيص P2 إلى علبه البريد المشتركة في [المستخدمين النشطين](https://portal.office.com/adminportal/home)، ستتم زيادة الحجم تلقائيا خلال 15 دقيقه.
+يمكنك زيادة حجم علبة بريد مشتركة من الحجم الافتراضي من 50 غيغابايت إلى 100 غيغابايت من خلال تعيين ترخيص Exchange Online P2 لعلبة البريد المشتركة (المضمن في تراخيص E3 و E5). عند تعيين ترخيص P2 لعلبة [](https://portal.office.com/adminportal/home)البريد المشتركة في المستخدمين النشطين، سيتم زيادة الحجم تلقائيا في غضون 15 دقيقة.

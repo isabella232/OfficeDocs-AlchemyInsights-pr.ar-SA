@@ -1,5 +1,5 @@
 ---
-title: لا يظهر نوع الكيان في نتائج البحث المصنفة أو الصلة في الواجهة الموحدة في Dynamics 365
+title: نوع الكيان لا يظهر في نتائج البحث المصنفة أو ذات الصلة في واجهة Dynamics 365 الموحدة
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -11,15 +11,15 @@ localization_priority: Normal
 ms.custom:
 - "1981"
 - "9000347"
-ms.openlocfilehash: f18d3128cd6fdbddc96789b2507f328448fc25c9
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b14eedf2ceb0d8a0927df42c5bdf9f2652507f8686c01d0b90b6479ee2e4f062
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709318"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53946674"
 ---
-# <a name="entity-type-not-showing-in-search-results"></a>لا يظهر نوع الكيان في نتائج البحث
+# <a name="entity-type-not-showing-in-search-results"></a>نوع الكيان لا يظهر في نتائج البحث
 
-بالنسبة إلى نوع كيان لإظهاره في البحث المصنف أو البحث في الصلة في الواجهة الموحدة في Dynamics 365 ، يجب اضافته أولا إلى الوحدة النمطية للتطبيق.
+لكي يظهر نوع كيان في البحث المصنف أو البحث ذات الصلة في واجهة Dynamics 365 الموحدة، يجب إضافته أولا إلى وحدة التطبيق النمطية.
 
-ملاحظه: عند البحث عن مرفقات في البحث في الصلة ، يجب أضافه كيان المرفق إلى الوحدة النمطية للتطبيق علي الرغم من ان السجل الأصل هو الذي يظهر في النتائج.
+ملاحظة: عند البحث عن المرفقات في البحث ذات الصلة، يجب إضافة كيان المرفق إلى وحدة التطبيق النمطية على الرغم من أن السجل الأصل هو ما يظهر في النتائج.
