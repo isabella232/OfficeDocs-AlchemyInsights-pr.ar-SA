@@ -1,5 +1,5 @@
 ---
-title: دليل نشر Office للمستخدمين
+title: نشر Office دليل المستخدمين
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -15,15 +15,15 @@ ms.custom:
 - "7379"
 - "2000022"
 - "871"
-ms.openlocfilehash: e65735633619315081505c10c55e844101bd1538
-ms.sourcegitcommit: 6741a997fff871d263f92d3ff7fb61e7755956a9
+ms.openlocfilehash: 13719bdb50d8cf838532a3c5f9cacca94c4c96a371ebd181f6ab04b3c51db0a0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "50448666"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948078"
 ---
-# <a name="deploy-office-to-your-users-guide"></a>دليل نشر Office للمستخدمين
+# <a name="deploy-office-to-your-users-guide"></a>نشر Office دليل المستخدمين
 
-نشر تطبيقات Office من السحابة مع إمكانية تخصيص التثبيت باستخدام أداة نشر من Office.
+نشر Office من السحابة مع إمكانية تخصيص التثبيت باستخدام Office النشر.
 
-يساعدك [دليل نشر Office](https://go.microsoft.com/fwlink/?linkid=2146451) للمستخدمين على إنشاء تكوين Office مخصص بإعدادات متقدمة، أو يمكنك استخدام تكوين مستحسن مضمن مسبقا. سواء كان المستخدمون يقومون بإجراء تثبيت ذاتي أو كنت تقوم بالنشر إلى المستخدمين بشكل فردي أو مجمع، فإن هذا المعالج المتقدم يوفر لك إرشادات مفصلة خطوة بخطوة ليمنح المستخدمين تثبيت Office مصمما خصيصا لمنظمتك.
+يساعدك [دليل Office](https://go.microsoft.com/fwlink/?linkid=2146451) نشر المستخدمين على إنشاء تكوين Office إعدادات متقدمة، أو يمكنك استخدام تكوين مستحسن تم إنشاؤه مسبقا. سواء كان المستخدمون يقومون بإجراء تثبيت ذاتي أو كنت تقوم بالنشر إلى المستخدمين بشكل فردي أو مجمع، فإن هذا المعالج المتقدم يوفر لك إرشادات مفصلة خطوة بخطوة لإعطاء المستخدمين Office تم تصميمه خصيصا لمنظمتك.
