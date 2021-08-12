@@ -1,5 +1,5 @@
 ---
-title: الجهاز في الحالة "معلق"
+title: الجهاز في حالة معلقة
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,54 +12,54 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003244"
 - "7319"
-ms.openlocfilehash: f70b43a8b914b0d2dda9db61606b8ae24523f869
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 224e6e613c306b50e354930bcbe6f43f1c08528766cb6e681b0e9826b2d55a4d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49676805"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913990"
 ---
-# <a name="device-in-pending-state"></a>الجهاز في الحالة "معلق"
+# <a name="device-in-pending-state"></a>الجهاز في حالة معلقة
 
-**متطلب**
+**المتطلبات الأساسية:**
 
-1. إذا كنت تقوم باعداد تسجيلات الاجهزه للمرة الاولي ، فالرجاء التاكد من انك قمت بمراجعه [مقدمه حول أداره الاجهزه في Azure Active directory (AZURE AD)](https://docs.microsoft.com/azure/active-directory/devices/overview?WT.mc_id=Portal-Microsoft_Azure_Support) التي سترشدك علي كيفيه الحصول علي الاجهزه ضمن عنصر التحكم في azure AD.
-2. إذا كنت تقوم بتسجيل الاجهزه في Azure AD مباشره وقامت بانتسابها في Intune ، ستحتاج إلى التاكد من انك قمت [بتكوين Intune](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment?WT.mc_id=Portal-Microsoft_Azure_Support) ولديك [الترخيص](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign?WT.mc_id=Portal-Microsoft_Azure_Support) في المكان أولا.
-3. تاكد من انك مخول بتنفيذ العمليات في Azure AD والإعلان المحلي. يمكن للمسؤول العام فقط في Azure AD أداره إعدادات تسجيلات الاجهزه. بالاضافه إلى ذلك ، إذا كنت تقوم باعداد التسجيلات التلقائية في Active Directory المحلي ، ستحتاج إلى ان تكون مسؤولا ل Active directory و AD FS (إذا كان ذلك ممكنا).
+1. إذا كنت تقوم بإعداد تسجيلات الأجهزة للمرة الأولى، فالرجاء التأكد من مراجعة مقدمة حول إدارة الأجهزة في [Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/devices/overview?WT.mc_id=Portal-Microsoft_Azure_Support) التي سترشدك إلى كيفية وضع الأجهزة تحت تحكم Azure AD.
+2. إذا كنت تقوم بتسجيل الأجهزة في Azure AD مباشرة وتسجيلها في Intune، ستحتاج إلى التأكد من [](https://docs.microsoft.com/mem/intune/fundamentals/licenses-assign?WT.mc_id=Portal-Microsoft_Azure_Support) أنك قمت بتكوين [Intune](https://docs.microsoft.com/mem/intune/enrollment/device-enrollment?WT.mc_id=Portal-Microsoft_Azure_Support) وأن يكون الترخيص في مكانه أولا.
+3. تأكد من أنك م مخولا لتنفيذ عمليات في Azure AD و AD في الموقع. يمكن للمسؤول العام فقط في Azure AD إدارة إعدادات تسجيلات الأجهزة. بالإضافة إلى ذلك، إذا كنت تقوم بإعداد التسجيلات التلقائية في Active Directory المحلي، يجب أن تكون مسؤول Active Directory و AD FS (إذا أمكن).
 
-تحتاج عمليه التسجيل المختلط في Azure AD join إلى الاجهزه التي يجب ان تكون علي شبكه الشركة. كما يعمل أيضا عبر الشبكات الظاهرية ، ولكن هناك بعض الكافيتس. لقد سمعنا العملاء الذين يحتاجون إلى مساعده في استكشاف الأخطاء المختلطة لعمليه التسجيل في Azure AD join ضمن ظروف العمل البعيدة.
+تتطلب عملية تسجيل الانضمام إلى Azure AD المختلطة وجود الأجهزة على شبكة الشركة. يعمل أيضا عبر VPN ولكن هناك بعض التحذيرات لذلك. لقد سمعنا أن العملاء بحاجة إلى المساعدة في استكشاف الأخطاء وإصلاحها في عملية تسجيل الانضمام إلى Azure AD المختلطة في ظروف العمل عن بعد.
 
-**بيئة المصادقة السحابية (باستخدام المزامنة الخاصة بتجزئه كلمه مرور Azure AD أو المصادقة التمريري)**
+**بيئة المصادقة السحابية (باستخدام مزامنة كلمة مرور Azure AD أو المصادقة المرورية)**
 
-يعرف تدفق التسجيل هذا أيضا "الصلة بالمزامنة".
+يعرف تدفق التسجيل هذا أيضا ب "انضمام المزامنة".
 
-فيما يلي تصنيف تفصيلي لما يحدث اثناء عمليه التسجيل:
+فيما يلي تصنيف تفصيلي لما يحدث أثناء عملية التسجيل:
 
-1. سجل نقطه اتصال خدمه اكتشاف Windows 10 (سكب) عندما يقوم المستخدم بتسجيل الدخول إلى الجهاز.
+1. Windows 10 عن سجل نقطة اتصال الخدمة (SCP) عند تسجيل المستخدم دخوله إلى الجهاز.
 
-    1. يحاول الجهاز أولا استرداد معلومات المستاجر من جانب العميل سكب في التسجيل [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. لمزيد من المعلومات ، راجع [المستند](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control).
-    1. إذا فشلت هذه العملية ، سيتصل الجهاز بخدمه Active Directory المحلية للحصول علي معلومات المستاجر من سكب. للتحقق من السكب ، راجع هذا [المستند](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point).
-
-    > [!NOTE]
-    > نوصي بتمكين سكب في Active Directory واستخدام سكب من جانب العميل للتحقق من صحة مبدئي.
-
-2. يحاول نظام التشغيل Windows 10 التواصل مع Azure AD تحت سياق النظام للمصادقة علي نفسه مقابل Azure AD.
-
-    يمكنك التحقق مما إذا كان بإمكان الجهاز الوصول إلى موارد Microsoft ضمن حساب النظام باستخدام [البرنامج النصي لاتصال تسجيل جهاز الاختبار](https://gallery.technet.microsoft.com/Test-Device-Registration-3dc944c0).
-
-3. يقوم Windows 10 بإنشاء شهادة موقعه ذاتيا وتخزينها ضمن كائن الكمبيوتر في Active Directory المحلي. يتطلب ذلك ان يتم الاطلاع علي الخطوط الخاصة بالمجال.
-
-4. كائن الجهاز الذي تمت مزامنة الشهادة معه في Azure AD عبر Azure AD Connect. دوره المزامنة كل 30 دقيقه بشكل افتراضي ، ولكنها تعتمد علي تكوين Azure AD Connect. لمزيد من المعلومات ، راجع هذا [المستند](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering).
-
-5. في هذه المرحلة ، يجب ان تكون قادرا علي رؤية جهاز الموضوع في الحالة "**معلق**" ضمن "الجهاز النصليه في Azure Portal".
-
-6. عند تسجيل دخول المستخدم التالي إلى Windows 10 ، سيتم إكمال التسجيل.
+    1. يحاول الجهاز أولا استرداد معلومات المستأجر من SCP من جانب العميل في السجل [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. لمزيد من المعلومات، راجع [المستند](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control).
+    1. إذا فشل، يتواصل الجهاز مع Active Directory في الموقع للحصول على معلومات المستأجر من SCP. للتحقق من SCP، راجع هذا [المستند](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point).
 
     > [!NOTE]
-    > إذا كنت تستخدم VPN وقامت بتسجيل الدخول ، سيؤدي ذلك إلى إنهاء اتصال المجال ، يمكنك تشغيل التسجيل يدويا. لتنفيذ الإجراءات التالية:
+    > نوصي بتمكين SCP في Active Directory واستخدام SCP من جانب العميل فقط للتحقق من الصحة الأولي.
+
+2. Windows 10 التواصل مع Azure AD ضمن سياق النظام لمصادقة نفسه مقابل Azure AD.
+
+    يمكنك التحقق مما إذا كان الجهاز يمكنه الوصول إلى موارد Microsoft ضمن حساب النظام باستخدام البرنامج النصي [اختبار اتصال تسجيل الجهاز](https://gallery.technet.microsoft.com/Test-Device-Registration-3dc944c0).
+
+3. Windows 10 إنشاء شهادة موقعة ذاتيا وتخزينها ضمن كائن الكمبيوتر في Active Directory المحلية. يتطلب هذا الأمر وجود خط البصر في وحدة التحكم بالمجال.
+
+4. يتم مزامنة كائن الجهاز الذي لديه شهادة إلى Azure AD عبر Azure AD الاتصال. تكون دورة المزامنة كل 30 دقيقة بشكل افتراضي، ولكنها تعتمد على تكوين Azure AD الاتصال. لمزيد من المعلومات، راجع هذا [المستند](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering).
+
+5. في هذه المرحلة، يجب أن تتمكن من رؤية جهاز الموضوع في حالة "**معلق"** ضمن شفرة الجهاز من مدخل Azure.
+
+6. عند تسجيل دخول المستخدم التالي إلى Windows 10، سيتم إكمال التسجيل.
+
+    > [!NOTE]
+    > إذا كنت تستخدم VPN وكان شعار/تسجيل الدخول ينهي اتصال المجال، يمكنك تشغيل التسجيل يدويا. للقيام بذلك:
     >
-    > `dsregcmd /join`الإصدار المحلي لمطالبه المسؤول أو عن بعد عبر بسيكسيك إلى الكمبيوتر الشخصي.
+    > إصدار مطالبة `dsregcmd /join` محلية من المسؤول أو عن بعد عبر PSExec إلى الكمبيوتر الشخصي.
     >
     > على سبيل المثال: `PsExec -s \\win10client01 cmd, dsregcmd /join`
 
-للاطلاع علي المشاكل الشائعة في تسجيل جهاز Azure Active directory ، راجع [الاسئله المتداولة حول الاجهزه](https://docs.microsoft.com/azure/active-directory/devices/faq).
+للحصول على المشاكل الشائعة المتعلقة بتسجيل جهاز Azure Active Directory، راجع [الأسئلة الشائعة حول الأجهزة](https://docs.microsoft.com/azure/active-directory/devices/faq).
