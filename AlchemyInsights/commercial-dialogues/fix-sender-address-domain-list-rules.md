@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: a57016ce0b5e8ed741889a50e3858c68578c6713
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: bf2a36853f53c723ca620487dd1c656ecb188cba9c80def68c793e3d5fbf5f87
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743394"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53930012"
 ---
 # <a name="fix-sender-addressdomain-list-rules"></a>إصلاح قواعد قائمة عنوان/مجال المرسل
 
 لقد تأثر نهج مكافحة البريد العشوائي في المستأجر بهذه الرسالة. تم العثور على مرسل الرسالة في قائمة السماح أو الحظر. لمراجعة النهج، يمكنك القيام بما يلي:
 
-1. انتقل إلى مركز التوافق في [Office 365 security &](https://go.microsoft.com/fwlink/p/?linkid=2077143)، ثم انتقل إلى نهج إدارة المخاطر لمكافحة البريد   >    >  [العشوائي](https://go.microsoft.com/fwlink/?linkid=2101518).
+1. انتقل إلى مركز Office 365 [الأمان &](https://go.microsoft.com/fwlink/p/?linkid=2077143)، ثم انتقل **إلى** نهج إدارة المخاطر لمكافحة البريد  >    >  [العشوائي.](https://go.microsoft.com/fwlink/?linkid=2101518)
 2. على علامة **التبويب قياسي،** إذا **تم تمكين** الإعدادات القياسية، فتحقق من القائمتين **السماح وحظر** . 
 3. على علامة **التبويب** مخصص، إذا تم تمكين الإعدادات المخصصة،  فراجع النهج عن طريق تحديد تحرير النهج والتحقق من القوائم السماح **والقوائم**  **المحظورة**.
 
