@@ -1,5 +1,5 @@
 ---
-title: نتائج التدقيق فارغه
+title: نتائج التدقيق فارغة
 ms.author: pebaum
 author: bentoncity
 manager: scotv
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 1437061a-a602-4853-b5fb-3cea7fd735ce
-ms.openlocfilehash: c72d3623dc2deaf28892513e268db4e1a8d8f228
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 30395b291818c8f193fc2147e5302e04efe9929dad8df96586be1c3e75bd35aa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47715224"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53917698"
 ---
-# <a name="auditing-results-are-blank"></a>نتائج التدقيق فارغه
+# <a name="auditing-results-are-blank"></a>نتائج التدقيق فارغة
 
  **تقارير التدقيق للمواقع الكلاسيكية**
   
-لعرض تقرير تدقيق لمجموعه مواقع مشتركه في SharePoint ، يجب ان تكون مسؤولا لمجموعه المواقع المشتركة. لأضافه نفسك كمسؤول ، راجع [أضافه مسؤولي مجموعه المواقع المشتركة كمسؤول عام أو SharePoint](https://go.microsoft.com/fwlink/?linkid=869390). للحصول علي معلومات حول استخدام سجل التدقيق ، راجع [عرض تقارير سجل التدقيق](https://go.microsoft.com/fwlink/?linkid=395237). 
+لعرض تقرير تدقيق مجموعة مواقع SharePoint، يجب أن تكون مسؤولا عن مجموعة المواقع. لإضافة نفسك كمسؤول، راجع إضافة مسؤولي مجموعة المواقع كمسؤول عام أو مسؤول [SharePoint.](https://go.microsoft.com/fwlink/?linkid=869390) للحصول على معلومات حول العمل باستخدام سجل التدقيق، راجع [عرض تقارير سجل التدقيق](https://go.microsoft.com/fwlink/?linkid=395237). 
   
  **البحث في سجل التدقيق**
   
-يجب ان تكون مسؤولا عاما للعمل مع سجل التدقيق في [ &amp; مركز توافق الأمان](https://protection.office.com). قبل البدء ، قم بتشغيل تسجيل التدقيق. بعد ذلك ، يمكنك تشغيل البحث في سجل التدقيق. 
+يجب أن تكون المسؤول العام للعمل على سجل التدقيق في [مركز &amp; توافق الأمان](https://protection.office.com). قبل البدء، قم تشغيل تسجيل التدقيق. بعد ذلك، يمكنك تشغيل بحث في سجل التدقيق. 
   
-[تعرف علي كيفيه البحث في سجل التدقيق](https://go.microsoft.com/fwlink/?linkid=708432).
+[تعرف على كيفية البحث في سجل التدقيق](https://go.microsoft.com/fwlink/?linkid=708432).
   
 

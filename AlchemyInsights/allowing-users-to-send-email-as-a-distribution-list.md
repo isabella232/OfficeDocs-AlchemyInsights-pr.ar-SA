@@ -1,5 +1,5 @@
 ---
-title: 717 السماح للمستخدمين بإرسال البريد الكتروني كقائمه توزيع
+title: 717 السماح للمستخدمين بإرسال البريد الإلكتروني ك قائمة توزيع
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,21 +13,21 @@ ms.custom:
 - "717"
 - "3"
 ms.assetid: d9e5f5be-b653-44a9-bce8-9ca11396d39e
-ms.openlocfilehash: 71f251139160ef41acac13fd08af80515581ea10
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 66d4a8941bc4f4a6300b08f11de1f4a888b356040ebc15c9ab37677d19da82c4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47718104"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53933344"
 ---
-# <a name="allow-users-to-send-email-as-a-distribution-group"></a>السماح للمستخدمين بإرسال البريد الكتروني كمجموعه توزيع
+# <a name="allow-users-to-send-email-as-a-distribution-group"></a>السماح للمستخدمين بإرسال البريد الإلكتروني كمجموعة توزيع
 
-للسماح للمستخدمين بإرسال الرسائل التي تبدو من مجموعه توزيع موجودة ، اتبع الخطوات التالية:
+للسماح للمستخدمين بإرسال رسائل تبدو مرسلة من مجموعة توزيع موجودة، اتبع الخطوات التالية:
 
-1. في [مركز أداره Exchange](https://outlook.office365.com/ecp/)، انتقل إلى مجموعات **المستلمين** \> **Groups**.
+1. في مركز [Exchange،](https://outlook.office365.com/ecp/)انتقل إلى **مجموعات** \> **المستلمين**.
 
-2. حدد مجموعه التوزيع التي تريد تعديلها ، ثم انقر فوق **تحرير**.
+2. حدد مجموعة التوزيع التي تريد تعديلها، ثم انقر فوق **تحرير**.
 
-3. في خصائص المجموعة ، انتقل إلى علامة التبويب **تفويض المجموعة** لتحديد المستخدمين الذين يمكنهم إرسال أو إرسال بالنيابة عن مجموعه التوزيع.
+3. في خصائص المجموعة، انتقل إلى علامة التبويب **"إرسال** المجموعة" لتحديد المستخدمين الذين يمكنهم إرسال ك أو إرسال نيابة عن مجموعة التوزيع.
 
-لمزيد من المعلومات ، راجع [خيارات البريد الكتروني](https://technet.microsoft.com/library/bb124513.aspx#groupdelegation).
+لمزيد من المعلومات، راجع [خيارات البريد الإلكتروني](https://technet.microsoft.com/library/bb124513.aspx#groupdelegation).

@@ -1,5 +1,5 @@
 ---
-title: معرف قاعده التشكيلات الجانبية لتوفير iOS 1029
+title: iOS provisioning Profiles 'قاعدة IOS' 1029
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,16 +12,16 @@ ms.custom:
 - "322"
 - "3100011"
 ms.assetid: 14d30092-8cf5-4fe6-a2a3-8a337e96cb1c
-ms.openlocfilehash: a571261ffcb327da50832bc5cb7169b769c2122c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a52c98af0f5c5de3122bfc344029588234611da894994d719c95f6af78944405
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47695780"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53925692"
 ---
-# <a name="ios-provisioning-profiles"></a>ملفات تعريف توفير نظام التشغيل iOS
+# <a name="ios-provisioning-profiles"></a>ملفات تعريف توفير iOS
 
-يستخدم Apple iOS line الاعمال مفهوم ملف تعريف التوفير الذي يتم استخدامه للتحقق من تكامل التطبيق وفرض النهج المعرفة في ملف التعريف. تنتهي صلاحيه التشكيلات الجانبية التالية بعد 12 شهرا التالي يجب ان يكون التشكيل الجانبي الجديد مقترنا بالتطبيق المنشور لكي تستمر التطبيقات في التشغيل.
+يستخدم خط عمل Apple iOS مفهوم ملف تعريف توفير يتم استخدامه للتحقق من تكامل التطبيق وفرض النهج المعرفة في ملف التعريف. تنتهي صلاحية ملفات تعريف توفير الملفات هذه بعد 12 شهرا، وبالتالي يجب أن يقترن ملف تعريف جديد بالت تطبيق تم نشره لكي تستمر التطبيقات في التشغيل.
   
-تصف المقالة التالية كيفيه إنشاء اقتران ملف تعريف توفير جديد باستخدام تطبيق iOS LOB تم نشره عبر Intune: [استخدام ملفات تعريف توفير تطبيقات ios لمنع انتهاء صلاحيه التطبيقات](https://docs.microsoft.com/intune/app-provisioning-profile-ios)
+تصف المقالة التالية كيفية إنشاء ملف تعريف توفير جديد مع تطبيق iOS LOB تم نشره من خلال Intune: استخدام ملفات تعريف توفير تطبيقات iOS لمنع انتهاء صلاحية [تطبيقاتك](https://docs.microsoft.com/intune/app-provisioning-profile-ios)
   

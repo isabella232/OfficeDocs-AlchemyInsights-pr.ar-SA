@@ -1,5 +1,5 @@
 ---
-title: تغيير مظهر علبه بريد Outlook.com
+title: تغيير شكل علبة بريد Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,15 +14,15 @@ ms.custom:
 - "792"
 - "8000041"
 ms.assetid: 089589c9-6d5e-4073-8ec9-e297ee2397f4
-ms.openlocfilehash: 10f7b7e5dbee437f81a803f95b5529fcbc5e667a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cbd92e3aa383bd84e2808297ffc6c75cd83878b8c4cd691b601af667f2110de2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47756666"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53916870"
 ---
-# <a name="change-the-look-of-your-outlook-mailbox"></a>تغيير مظهر علبه بريد Outlook
+# <a name="change-the-look-of-your-outlook-mailbox"></a>تغيير شكل علبة بريدك Outlook البريد
 
-يمكنك تغيير مظهر قائمه الرسائل وجزء القراءة في [إعدادات التخطيط](https://outlook.live.com/mail/options/mail/layout). اختيار ما إذا كان يجب عرض البريد الكتروني كرسائل فرديه أو محادثات ، إذا كان من الضروري ظهور رسائل جديده في اعلي قائمه الرسائل أو أسفلها ، والمزيد.
+يمكنك تغيير مظهر قائمة الرسائل و جزء القراءة في [إعدادات التخطيط](https://outlook.live.com/mail/options/mail/layout). اختر ما إذا كان يجب عرض بريدك الإلكتروني كرسائل فردية أو محادثات، وإذا كان يجب أن تظهر رسائل جديدة في أعلى قائمة الرسائل أو أسفلها، والمزيد.
   
-لمعرفه المزيد ، راجع [تغيير شكل علبه بريد Outlook.com](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).
+لمعرفة المزيد، راجع تغيير مظهر علبة بريد [Outlook.com](https://support.office.com/article/b41c2ecb-f23c-42b3-b7f8-659646d5e58c?wt.mc_id=Office_Outlook_com_Alchemy).
