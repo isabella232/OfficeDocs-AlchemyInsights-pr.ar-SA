@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "6143"
 - "9003097"
-ms.openlocfilehash: 983fc15c3a43ebbf0643e5268baa783be64cca5a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fa5e62d0419df20b1c2b09add0b16670767fb24f5b50fcc0f5246fa48299f07b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730506"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53929112"
 ---
 # <a name="disable-chat-for-students"></a>تعطيل الدردشة للطلاب
 
-من المستحسن لمسؤولي المؤسسات التعليمية التفكير في استخدام حزم السياسات للحصول علي الطلاب والمعلم. لمزيد من المعلومات، راجع ما يلي:
+نوصي المسؤولين في مؤسسات التعليم ب التفكير في استخدام حزم النهج سلامه الطلاب والمعلمين. لمزيد من المعلومات، راجع ما يلي:
 
-- [حزم النهج في فرق Microsoft](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams)
-- [النهج التي يجب تعيينها لامان الطالب](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety)
-- [النهج التي يجب تعيينها للمعلمين](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators) 
+- [حزم النهج في Microsoft Teams](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams)
+- [السياسات التي يجب تعيينها سلامه الطلاب](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety)
+- [السياسات التي يجب تعيينها للمعلمين](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators) 
 
-لتعطيل الدردشة لطالب ، راجع الخيارات المتعلقة بالسماح بالدردشة في الاجتماعات والسماح بدردشة 1:1 في [نهج الفرق وحزم النهج للحصول علي التعليم](https://docs.microsoft.com/microsoftteams/policy-packages-edu).
+لتعطيل الدردشة لطالب، راجع خيارات السماح بالدردشة في الاجتماعات بالإضافة إلى السماح بالدردشة 1:1 في Teams وحزم النهج [للتعليم.](https://docs.microsoft.com/microsoftteams/policy-packages-edu)

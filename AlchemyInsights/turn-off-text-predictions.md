@@ -1,5 +1,5 @@
 ---
-title: إيقاف تشغيل تنبؤات النص
+title: إيقاف تشغيل توقعات النص
 ms.author: v-smandalika
 author: v-smandalika
 manager: v-aiyengar
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "8000059"
 - "6217"
-ms.openlocfilehash: 3ee4aecabb8fc534bc45d40a7546928eee679bc8
-ms.sourcegitcommit: e69e79d7dc632ec6f1da4d303d2cdc81249852b8
+ms.openlocfilehash: df62814d3fcd843faf6c6e1a227963a5c682cb1799498433ade15ab1b9e9a6fe
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "49447183"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53920238"
 ---
-# <a name="turn-off-text-predictions"></a>إيقاف تشغيل تنبؤات النص
+# <a name="turn-off-text-predictions"></a>إيقاف تشغيل توقعات النص
 
-1. حدد **إعدادات > عرض كل إعدادات Outlook > البريد > الإنشاء والرد**.
-2. ضمن **تنبؤات النص**، قم بإلغاء تحديد **اقتراح كلمات العبارات اثناء الكتابة**.
+1. حدد **الإعدادات > عرض كل Outlook الإعدادات > البريد > إنشاء والرد**.
+2. ضمن **توقعات النص،** أزل تحديد اقتراح **كلمات العبارات أثناء الكتابة**.
 
-لمزيد من المعلومات ، راجع [استخدام التقنيات الذكية في Outlook علي الويب والOutlook.com](https://support.microsoft.com/office/use-intelligent-technology-in-outlook-on-the-web-and-outlook-com-24b30683-8340-4b69-b8ac-4193ec528a70).
+لمزيد من المعلومات، راجع [استخدام التقنية الذكية في Outlook على ويب Outlook.com.](https://support.microsoft.com/office/use-intelligent-technology-in-outlook-on-the-web-and-outlook-com-24b30683-8340-4b69-b8ac-4193ec528a70)

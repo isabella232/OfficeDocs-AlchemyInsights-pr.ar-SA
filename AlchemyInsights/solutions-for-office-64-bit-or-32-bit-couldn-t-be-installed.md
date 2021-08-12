@@ -1,5 +1,5 @@
 ---
-title: تعذر تثبيت حلول ' Office (64 بت أو 32 بت)
+title: لا يمكن تثبيت حلول Office (64 بت أو 32 بت)
 ms.author: janellem
 author: janellem
 manager: scotv
@@ -14,30 +14,30 @@ ms.custom:
 - "905"
 - "2000023"
 ms.assetid: 5bfed1a3-473e-4e2d-acf0-9b1bbb08fa26
-ms.openlocfilehash: 9a5615a02f58ae747aebe88099629ad0bacb8add
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 21c4ea922fd3e24c818cab441c9847c2ab8b3cdf6701a922fe30d284317d2291
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47738228"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957231"
 ---
-# <a name="solutions-for-office-64-bit-or-32-bit-couldnt-be-installed"></a>تعذر تثبيت حلول "Office (64 بت أو 32 بت)"
+# <a name="solutions-for-office-64-bit-or-32-bit-couldnt-be-installed"></a>حلول ل "Office (64 بت أو 32 بت) لا يمكن تثبيتها
 
-يحدث الخطا "تعذر تثبيت Office (64 بت أو 32 بت)" لأنه لا يمكنك ال64 خلط بين الإصدارات التي تبلغ و 32 من Office.
+يحدث الخطأ Office (64 بت أو 32 بت) لأنه لا يمكنك مزج الإصدارين 64 بت و32 بت من Office.
   
-لإصلاح هذا الخطا والتبديل من 32 إلى 64 بت ، يجب القيام بما يلي بالترتيب التالي.
+لإصلاح هذا الخطأ والتبديل من 32 بت إلى 64 بت، يجب القيام بما يلي بهذا الترتيب.
   
 1. قم بتنزيل وتثبيت [مساعد الإصلاح والدعم](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. عند فتحه ، من **إلغاء تثبيت منتجات Office** ، حدد الإصدار الذي تريد إلغاء تثبيته وحدد **التالي**.
+1. عند فتحه، من إلغاء تثبيت Office **حدد** الإصدار الذي تريد إلغاء تثبيته وحدد **التالي**.
 
 2. استمر في العمل عبر الشاشات وقم بإعادة تشغيل الكمبيوتر عندما تتم مطالبتك بذلك.
 
-    بعد أعاده التشغيل ، يعاد فتح مساعد الإصلاح والدعم تلقائيا لإكمال عمليه أزاله التثبيت.
+    بعد إعادة التشغيل، مساعد الإصلاح والدعم إعادة فتح تلقائيا لإكمال عملية إلغاء التثبيت.
 
-3. اتبع المطالبات المتبقية ، وقم [باعاده تثبيت Office](https://portal.office.com/OLS/MySoftware.aspx) باستخدام الإصدار 32 بت أو 64 بت الصحيح.
+3. اتبع المطالبات المتبقية، ثم Office [بالإصدار](https://portal.office.com/OLS/MySoftware.aspx) الصحيح 32 بت أو 64 بت.
 
-    اتبع الخطوات الواردة في [تثبيت Office علي كمبيوتر شخصي](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)
+    اتبع الخطوات في تثبيت Office [على كمبيوتر شخصي](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc4716658?wt.mc_id=Alchemy_ClientDIA)
 
-لمزيد من المعلومات ، راجع [الخطا "تعذر تثبيت Office (64 بت أو 32 بت)" عند محاولة التثبيت](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA)
+لمزيد من المعلومات، راجع [رسالة الخطأ "Office 64](https://support.office.com/article/2e2dc9e5-3eb0-420c-862a-ab085b38597f?wt.mc_id=Alchemy_ClientDIA) بت أو 32 بت" عند محاولة التثبيت
   

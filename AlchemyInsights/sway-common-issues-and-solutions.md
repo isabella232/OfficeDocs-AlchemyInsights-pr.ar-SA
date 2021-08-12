@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002626"
 - "5044"
-ms.openlocfilehash: aa77462394fb029646547c4daf2336385fa6a965
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f781e060f0054531b935b42a1dcc045c503ceda4a860f510771e6cd01ec4f399
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824926"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940734"
 ---
 # <a name="sway-common-issues-and-solutions"></a>المشاكل والحلول الشائعة في Sway
 
@@ -28,5 +28,5 @@ ms.locfileid: "51824926"
 - **استرداد المحتوى**: يمكن للمسؤولين إعادة [تعيين Sway من المستخدمين](https://support.office.com/article/Reassign-Sways-from-a-deleted-user-account-Admin-Help-9580E618-3C3E-4D28-A6EF-74C00A997248) المحذوفين لاسترداد Sways.
 - **تعطيل الوصول إلى Sway**: يمكن للمسؤولين [تعطيل الوصول إلى Sway](https://docs.microsoft.com/office365/enterprise/powershell/disable-access-to-sway-with-office-365-powershell) داخل المؤسسة.
 - **إضافة ملفات الفيديو**: يمكنك [إضافة ملفات الفيديو أو الصوت](https://support.office.com/article/Add-video-and-audio-files-into-Sway-d2f14842-e103-49c0-9da2-0fbcfcad381f) إلى Sway.
-- **إعدادات المسؤول**: يمكنك تمكين المشاركة الخارجية أو تعطيلها وإضافة مصادر المحتوى. تعرف على المزيد [في إعدادات المسؤول ل Sway](https://support.office.com/article/Administrator-settings-for-Sway-d298e79b-b6ab-44c6-9239-aa312f5784d4).
+- **المسؤول الإعدادات**: يمكنك تمكين المشاركة الخارجية أو تعطيلها وإضافة مصادر المحتوى. تعرف على المزيد [في إعدادات المسؤول ل Sway](https://support.office.com/article/Administrator-settings-for-Sway-d298e79b-b6ab-44c6-9239-aa312f5784d4).
 - **[حدود أحجام الملفات](https://support.office.com/article/File-size-limits-in-Sway-4db21bc6-b42b-499f-9272-66e089db109f)**

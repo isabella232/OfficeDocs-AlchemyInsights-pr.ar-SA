@@ -1,5 +1,5 @@
 ---
-title: أداره مجموعات التطبيقات باستخدام مدخل Azure لسطح مكتب Windows الظاهري
+title: إدارة مجموعات التطبيقات باستخدام مدخل Azure لسطح المكتب Windows الظاهري
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003956"
 - "7013"
-ms.openlocfilehash: 0dd08d04ad6328e7afa158b36517839fc31a8566
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: 260a0b2b8d3f8fcc1fd6096373a8a8ecd90585adc5865ff1fb832870cb62102e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49721743"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53912045"
 ---
-# <a name="manage-app-groups-by-using-the-azure-portal-for-windows-virtual-desktop"></a>أداره مجموعات التطبيقات باستخدام مدخل Azure لسطح مكتب Windows الظاهري
+# <a name="manage-app-groups-by-using-the-azure-portal-for-windows-virtual-desktop"></a>إدارة مجموعات التطبيقات باستخدام مدخل Azure لسطح المكتب Windows الظاهري
 
-تقوم مجموعه التطبيقات الافتراضية التي تم إنشاؤها لتجمع مضيف سطح مكتب Windows ظاهري جديد بنشر سطح المكتب بالبالكامل. بالاضافه إلى ذلك ، فان استخدام مدخل Azure يسمح لك بإنشاء مجموعه تطبيق RemoteApp واحده أو أكثر لتجمع المضيف.
+تقوم مجموعة التطبيقات الافتراضية التي تم إنشاؤها Windows مضيف سطح المكتب الظاهري بنشر سطح المكتب الكامل أيضا. بالإضافة إلى ذلك، يتيح لك استخدام مدخل Azure إنشاء مجموعة تطبيق RemoteApp واحدة أو أكثر لتجمع المضيف.
 
-ستقوم عمليه النشر بما يلي:
+ستتبع عملية النشر ما يلي:
 
-1. إنشاء مجموعه تطبيق RemoteApp.
-2. أضف التطبيقات المحددة إلى مجموعه التطبيقات.
-3. نشر مستخدمين فرديين أو مجموعات مستخدمين إلى مجموعه التطبيقات.
-4. سجل مجموعه التطبيقات ، إذا اخترت القيام بذلك.
-5. يمكنك إنشاء ارتباط إلى قالب أداره موارد Azure وفقا للتكوين ، الذي يمكنك تنزيله وحفظه.
+1. إنشاء مجموعة تطبيق RemoteApp.
+2. أضف التطبيقات المحددة إلى مجموعة التطبيقات.
+3. نشر مستخدمين فرديين أو مجموعات مستخدمين إلى مجموعة التطبيقات.
+4. قم بتسجيل مجموعة التطبيقات، إذا اخترت القيام بذلك.
+5. قم بإنشاء ارتباط إلى قالب Azure Resource Manager وفقا لتكوينك، الذي يمكنك تنزيله وحفظه.
 
-لإنشاء مجموعه RemoteApp ل Windows Virtual Desktop ، اتبع الإرشادات الموجودة في [أداره مجموعات التطبيقات باستخدام مدخل Azure](https://go.microsoft.com/fwlink/?linkid=2129550).
+لإنشاء مجموعة RemoteApp لسطح المكتب Windows، اتبع الإرشادات الموجودة في إدارة مجموعات التطبيقات [باستخدام مدخل Azure](https://go.microsoft.com/fwlink/?linkid=2129550).

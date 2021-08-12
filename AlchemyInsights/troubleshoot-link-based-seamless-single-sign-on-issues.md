@@ -1,5 +1,5 @@
 ---
-title: استكشاف مشاكل تسجيل الدخول الفردي السلس (SSO) المستندة إلى الارتباط وإصلاحها
+title: استكشاف مشاكل تسجيل الدخول المفرد السلس (SSO) المستندة إلى الارتباط وإصلاحها
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "9372"
-ms.openlocfilehash: 7f8b9247176df7f561ba89f8d75cbdc74155fcd3
-ms.sourcegitcommit: 4883f1f89d4c6ca23161e9a43ff206ad21d4f09b
+ms.openlocfilehash: 95883de91a78f4a2821e50102be153e08f0d5cfb569d9d86c71d87fe5e28e149
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/08/2021
-ms.locfileid: "50692447"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972847"
 ---
-# <a name="troubleshoot-link-based-seamless-single-sign-on-sso-issues"></a>استكشاف مشاكل تسجيل الدخول الفردي السلس (SSO) المستندة إلى الارتباط وإصلاحها
+# <a name="troubleshoot-link-based-seamless-single-sign-on-sso-issues"></a>استكشاف مشاكل تسجيل الدخول المفرد السلس (SSO) المستندة إلى الارتباط وإصلاحها
 
-يمكن لمعظم المستخدمين حل مشكلة تسجيل الدخول الفردي السلس (SSO) المستندة إلى الارتباطات باستخدام الخطوات أدناه:
+يمكن لمعظم المستخدمين حل مشكلة تسجيل الدخول المفرد السلس (SSO) المستندة إلى الارتباط باستخدام الخطوات أدناه:
 
-**تعرف على SSO المرتبط** [:](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on) التعرف على تسجيل الدخول المرتبط - يتيح لك الخيار المرتبط تكوين الموقع الهدف عندما يقوم مستخدم بتحديد التطبيق في مدخل Office 365 أو التطبيقات الخاصة بالمكتب. تدخل هذه المقالة في مزيد من التفاصيل حول الخيار المرتبط.
+**تعرف على تسجيل** الدخول المرتبط [:](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on) فهم تسجيل الدخول المرتبط - يتيح لك الخيار المرتبط تكوين الموقع الهدف عندما يقوم مستخدم بتحديد التطبيق في مدخل تطبيقاتي أو Office 365 الخاص بالمستخدم. ستدخل هذه المقالة في مزيد من التفاصيل حول الخيار المرتبط.
 
 **تكوين SSO المرتبط**: [تكوين الارتباط](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-linked-sign-on#configure-link)
 
-**الحصول** على التعليمات : [Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html) - إرسال طلبات الميزات والأسئلة التقنية حول تسجيل الدخول الفردي (SSO) المستند إلى الارتباط في تطوير Azure Active Directory & التطوير.
+**الحصول على التعليمات**: [Microsoft Q&A](https://docs.microsoft.com/answers/topics/azure-ad-single-sign-on.html) - إرسال طلبات الميزات والأسئلة التقنية حول تسجيل الدخول الفردي (SSO) المستند إلى الارتباط في تطوير Azure Active Directory & الارتباط.
