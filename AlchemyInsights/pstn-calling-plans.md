@@ -13,12 +13,12 @@ ms.custom:
 - "9002447"
 - "4760"
 - "4761"
-ms.openlocfilehash: 5371f41f5becd50eb19bd3359e82e171cdf7f80d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: cfc35cd18eeb60b1f6010ac6c422536db42c2e5b51579c8866198e729bd98843
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835906"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53943542"
 ---
 # <a name="pstn-calling-plans"></a>خطط اتصال PSTN
 
@@ -28,4 +28,4 @@ ms.locfileid: "51835906"
 
 - إعداد [أرصدة الاتصالات](https://docs.microsoft.com/microsoftteams/set-up-communications-credits-for-your-organization) كي لا تنفد **دقائق المستخدمين**. اطلع على الأسعار [من هنا](https://products.office.com/microsoft-teams/voice-calling). 
 
-- لمزيد من المعلومات، راجع [خطط مكالمات Microsoft Teams Phone](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) و Microsoft Teams أو ما هي [أرصدة الاتصالات؟](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)
+- لمزيد من المعلومات، راجع Microsoft Teams الهاتف [Microsoft Teams خطط](https://docs.microsoft.com/MicrosoftTeams/calling-plan-landing-page) الاتصال أو [ما هي أرصدة الاتصالات؟](https://docs.microsoft.com/microsoftteams/what-are-communications-credits)

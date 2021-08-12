@@ -13,12 +13,12 @@ ms.custom:
 - "1500009"
 - "328"
 - "330"
-ms.openlocfilehash: e0efffdf37118aec0abeaf47107d3cf120082cc9
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 440d6c2266e5cfa0ea3bf0c8fe02c057640c8f8036512bb650f870aef3b65b27
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826798"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53943506"
 ---
 # <a name="microsoft-365-for-education---approved"></a>Microsoft 365 for Education - معتمد
 
@@ -34,7 +34,7 @@ ms.locfileid: "51826798"
 
 **تشغيل الفرق**
 
-- ل تشغيل Microsoft Teams لجميع المستخدمين، انتقل إلى إعدادات إعدادات Microsoft Teams وانقر فوق خانة الاختيار تشغيل Microsoft Teams لجميع  >    >  [](https://admin.microsoft.com/Adminportal/Home#/SettingsMultiPivot/:/Settings/L1/SkypeTeams) المستخدمين.  انقر فوق **حفظ التغييرات**.
+- ول تشغيل Microsoft Teams لجميع المستخدمين، انتقل إلى الإعدادات الإعدادات Microsoft Teams وانقر فوق خانة الاختيار تشغيل Microsoft Teams لكل  >    >  [](https://admin.microsoft.com/Adminportal/Home#/SettingsMultiPivot/:/Settings/L1/SkypeTeams) المستخدمين.  انقر فوق **حفظ التغييرات**.
 
 **التدريس والتعلم عن بُعد**
 
