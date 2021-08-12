@@ -1,5 +1,5 @@
 ---
-title: تم إلغاء اتصال محرك الاقراص المعين
+title: محرك أقراص تم تعيينه غير منقطع
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: c6e78799-5baa-4e27-8def-29db01118209
-ms.openlocfilehash: a2ae83edb0749e9776382b6818b23bae5c4900bf
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bbf7ba2168555374d4ef5e63a7c8bed3cfca7dbb35b3a3c5602d3b0d1d2fda0a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812642"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911937"
 ---
-# <a name="sharepoint-libraries-mapped-to-network-drives-become-disconnected"></a>أصبحت مكتبات SharePoint التي تم تعيينها إلى محركات أقراص الشبكة غير متصلة
+# <a name="sharepoint-libraries-mapped-to-network-drives-become-disconnected"></a>SharePoint قطع اتصال المكتبات التي تم تعيينها إلى محركات أقراص الشبكة
 
-تعيين مكتبه مستندات SharePoint إلى محرك أقراص الشبكة مؤقت. يجب عليك في بعض الأحيان فتح موقع SharePoint في Internet Explorer وتحديد **الاستمرار في تسجيل الدخول** لمنع انتهاء صلاحيه جلسة العمل. 
+تعيين SharePoint المستندات إلى محرك أقراص الشبكة مؤقت. يجب فتح موقع SharePoint من وقت إلى آخر  في Internet Explorer وتحديد البقاء في وضع الدخول لمنع انتهاء صلاحية جلسة العمل. 
   
-[الحصول علي المساعدة لتكوين محركات أقراص الشبكة المعينة وإصلاحها](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
+[الحصول على تعليمات تكوين محركات](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives)أقراص الشبكة التي تم تعيينها وإصلاحها .
   
-لاستخدام مكتبه في "مستكشف الملفات" ، قم [بمزامنة ملفات SharePoint باستخدام عميل المزامنة من OneDrive الجديد](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) الذي يتضمن [الملفات عند الطلب](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). يمكنك الوصول إلى كل ملفاتك في OneDrive دون استخدام مساحة التخزين المحلية.
+للعمل مع مكتبة في "مستكشف الملفات"، SharePoint الملفات باستخدام عميل المزامنة من OneDrive [الجديد](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) الذي يتضمن [الملفات عند الطلب](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). يمكنك الوصول إلى جميع الملفات في OneDrive بدون استخدام مساحة السعة التخزينية المحلية.
   
 

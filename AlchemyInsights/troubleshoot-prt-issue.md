@@ -1,5 +1,5 @@
 ---
-title: استكشاف مشكله برت وإصلاحها
+title: استكشاف مشكلة PRT وإصلاحها
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,42 +13,42 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000076"
 - "7317"
-ms.openlocfilehash: 8e654a38d720aa51daf21bf5c3fb0da8b9c3d8e7
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: fd285d1158d7b358e4c698cf6014422cc2fb536e1fbdf98630bebda359f9c553
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573291"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972703"
 ---
-# <a name="troubleshoot-prt-issue"></a>استكشاف مشكله برت وإصلاحها
+# <a name="troubleshoot-prt-issue"></a>استكشاف مشكلة PRT وإصلاحها
 
-لكي تكتمل عمليه المصادقة علي اي جهاز ، يجب ان يكون مسجلا بالبالكامل وفي حاله جيده ويمكنه الحصول علي رمز تحديث أساسي (برت).
+لكي يتمكن أي جهاز من إكمال المصادقة عليه، يجب أن يكون مسجلا بالكامل وفي حالة جيدة وأن يتمكن من الحصول على رمز تحديث مميز أساسي (PRT).
 
-تحتاج عمليه التسجيل المختلط في Azure AD join إلى الاجهزه التي يجب ان تكون علي شبكه الشركة. كما يعمل أيضا عبر الشبكات الظاهرية ، ولكن هناك بعض الكافياتس. لقد سمعنا العملاء الذين يحتاجون إلى مساعده في استكشاف عمليه التسجيل المختلطة في Azure AD join وإصلاحها ببموجب ظروف العمل عن بعد. اليك تصنيف تفصيلي لما يحدث "ضمن غطاء" اثناء عمليه التسجيل.
+تتطلب عملية تسجيل الانضمام إلى Azure AD المختلطة وجود الأجهزة على شبكة الشركة. يعمل أيضا عبر VPN ولكن هناك بعض التحذيرات لذلك. لقد سمعنا أن العملاء بحاجة إلى المساعدة في استكشاف الأخطاء وإصلاحها في عملية تسجيل الانضمام إلى Azure AD المختلطة في ظروف العمل عن بعد. فيما يلي تصنيف تفصيلي لما يحدث "تحت الغطاء" أثناء عملية التسجيل.
 
-**بيئة المصادقة السحابية (باستخدام المزامنة الخاصة بتجزئه كلمه مرور Azure AD أو المصادقة التمريري)**
+**بيئة المصادقة السحابية (باستخدام مزامنة كلمة مرور Azure AD أو المصادقة المرورية)**
 
-يعرف تدفق التسجيل هذا أيضا "الصلة بالمزامنة".
+يعرف تدفق التسجيل هذا أيضا ب "انضمام المزامنة".
 
-1. يكتشف Windows 10 سجل سكب عند تسجيل دخول المستخدم إلى الجهاز.
-    1. يحاول الجهاز أولا استرداد معلومات المستاجر من جانب العميل سكب في التسجيل [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. لمزيد من المعلومات ، راجع هذا [المستند](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control).
-    2. إذا فشلت هذه العملية ، سيتصل الجهاز بخدمه Active Directory المحلية (AD) للحصول علي معلومات المستاجر من نقطه اتصال الخدمة (سكب). للتحقق من السكب ، يرجى الرجوع إلى هذا [المستند](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point). 
-
-> [!NOTE]
-> نوصي بتمكين سكب في الإعلان واستخدام سكب من جانب العميل للتحقق من صحة مبدئي.
-
-2. يحاول نظام التشغيل Windows 10 التواصل مع Azure AD تحت سياق النظام للمصادقة علي نفسه مقابل Azure AD. يمكنك التحقق مما إذا كان بإمكان الجهاز الوصول إلى موارد Microsoft ضمن حساب النظام باستخدام البرنامج النصي لاتصال تسجيل جهاز الاختبار.
-
-3. ينشئ Windows 10 شهادة موقعه ذاتيا ويخزنها ضمن كائن الكمبيوتر في الإعلان المحلي. يتطلب ذلك ان يتم الاطلاع علي الخطوط الخاصة بالمجال.
-
-4. تتم مزامنة كائن الجهاز الذي تمت الشهادة معه في Azure AD عبر Azure AD Connect. دوره المزامنة كل 30 دقيقه بشكل افتراضي ، ولكنها تعتمد علي تكوين Azure AD Connect. لمزيد من المعلومات ، يرجى الرجوع إلى هذا [المستند](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering).
-
-5. في هذه المرحلة ، يجب ان تكون قادرا علي رؤية جهاز الموضوع في الحالة "معلق" ضمن "الجهاز النصليه في Azure Portal".
-
-6. عند تسجيل دخول المستخدم التالي إلى Windows 10 ، سيتم إكمال التسجيل. 
+1. Windows 10 سجل SCP عند تسجيل المستخدم دخوله إلى الجهاز.
+    1. يحاول الجهاز أولا استرداد معلومات المستأجر من SCP من جانب العميل في السجل [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\CDJ\AAD]. لمزيد من المعلومات، راجع هذا [المستند](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-control).
+    2. إذا فشل، يتصل الجهاز ب Active Directory المحلي (AD) للحصول على معلومات المستأجر من نقطة اتصال الخدمة (SCP). للتحقق من SCP، يرجى الرجوع إلى هذا [المستند](https://docs.microsoft.com/azure/active-directory/devices/hybrid-azuread-join-manual#configure-a-service-connection-point). 
 
 > [!NOTE]
-> إذا كنت تستخدم VPN وكانت عمليه تسجيل الدخول إلى التسجيل الخاص بك تقوم بإنهاء اتصال المجال ، فيمكنك تشغيل التسجيل يدويا:
- 1. إصدار دسريجكمد/join محليا في مطالبه المسؤول أو عن بعد عبر بسيكسيك إلى الكمبيوتر الشخصي. علي سبيل المثال ، بسيكسيك \\ win10client01 cmd ، دسريجكمد/الصلة
+> نوصي بتمكين SCP في AD واستخدام SCP من جانب العميل فقط للتحقق من الصحة الأولي.
 
- 2. للحصول علي مزيد من التفاصيل حول مشاكل الصلة المختلطة ، راجع [مشكله استكشاف الأخطاء وإصلاحها](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-mailbag-frequent-questions-about-using-device-based/ba-p/1257344).
+2. Windows 10 التواصل مع Azure AD ضمن سياق النظام لمصادقة نفسه مقابل Azure AD. يمكنك التحقق مما إذا كان الجهاز يمكنه الوصول إلى موارد Microsoft ضمن حساب النظام باستخدام البرنامج النصي اختبار اتصال تسجيل الجهاز.
+
+3. Windows 10 إنشاء شهادة موقعة ذاتيا وتخزينها ضمن كائن الكمبيوتر في AD المحلية. يتطلب هذا الأمر وجود خط البصر في وحدة التحكم بالمجال.
+
+4. يتم مزامنة كائن جهاز لديه شهادة إلى Azure AD عبر Azure AD الاتصال. تكون دورة المزامنة كل 30 دقيقة بشكل افتراضي، ولكنها تعتمد على تكوين Azure AD الاتصال. لمزيد من المعلومات، يرجى الرجوع إلى هذا [المستند](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-sync-configure-filtering#organizational-unitbased-filtering).
+
+5. في هذه المرحلة، يجب أن تتمكن من رؤية جهاز الموضوع في حالة "معلق" ضمن شفرة الجهاز من مدخل Azure.
+
+6. عند تسجيل دخول المستخدم التالي إلى Windows 10، سيتم إكمال التسجيل. 
+
+> [!NOTE]
+> إذا كنت تستخدم VPN وكانت عملية تسجيل الدخول إلى الشعار تنهي اتصال المجال، يمكنك تشغيل التسجيل يدويا:
+ 1. إصدار dsregcmd /join محليا على مطالبة المسؤول أو عن بعد عبر PSExec إلى الكمبيوتر الشخصي. على سبيل المثال، PsExec -s \\ win10client01 cmd، dsregcmd /join
+
+ 2. لمزيد من التفاصيل حول مشاكل "الانضمام المختلط"، راجع استكشاف مشاكل [الأجهزة وإصلاحها](https://techcommunity.microsoft.com/t5/azure-active-directory-identity/azure-ad-mailbag-frequent-questions-about-using-device-based/ba-p/1257344).
