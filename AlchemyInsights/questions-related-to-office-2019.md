@@ -1,5 +1,5 @@
 ---
-title: الاسئله ذات الصلة ب Office 2019
+title: الأسئلة المتعلقة Office 2019
 ms.author: janellem
 author: janellem
 ms.date: 04/21/2020
@@ -12,26 +12,26 @@ ms.custom:
 - "1251"
 - "2000023"
 ms.assetid: 7fc322ce-08fa-4b87-98ac-c8a35bd6c8ee
-ms.openlocfilehash: 9e14a18174d7bd5be5b64ecf1ee71befc3b96201
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 60136dd385320760595bd061b226f5649b2c6ca9953ea87aa743dcf4156759a5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47774734"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53911073"
 ---
 # <a name="about-office-2019"></a>حول Office 2019
 
-Office 2019 هو للعملاء غير الجاهزين لاستخدام السحابة أو الحصول علي حاجه محدده لنشر Office المحلي أو المختلط. تتضمن مجموعه فرعيه ذات معني من الميزات التي تمت اضافتها بالفعل إلى Microsoft 365 في السنوات الثلاثة الاخيره ، ولكنه ليس جزءا من Microsoft 365.
+Office 2019 للعملاء غير الجاهزين للسحابة بعد أو الذين لديهم حاجة معينة إلى النشر Office الموقع. ويتضمن مجموعة فرعية ذات معنى من الميزات التي تم إضافتها بالفعل إلى Microsoft 365 السنوات الثلاث الماضية، ولكنها ليست جزءا من Microsoft 365.
   
-توفر تطبيقات Microsoft 365 ل enterprise ، الإصدار المتصل بالسحابة من Office ، الأكثر إنتاجيه وأفضل تجربه في Office. يوفر لك امكانيه الوصول إلى مجموعه من الخدمات التي لا تحتوي علي الإصدارات المحلية وتتلقي تحديثات الميزات الجديدة علي أساس مستمر.
+Microsoft 365 Apps for enterprise، وهو إصدار متصل بالسحابة من Office، إلى توفير تجربة Office الأكثر إنتاجية وأمانا. فهو يوفر إمكانية الوصول إلى مجموعة من الخدمات تتجاوز ما تملكه الإصدارات المحلية ويتلقى تحديثات الميزات الجديدة بشكل مستمر.
   
-إذا كان لديك تطبيقات Office لسطح المكتب كجزء من اشتراك Microsoft 365 لديك بالفعل الإصدار الأخير من Office.
+وبالتالي، إذا كان لديك Office سطح المكتب كجزء من Microsoft 365 لديك بالفعل أحدث إصدار من Office.
   
 لمزيد من المعلومات، اطلع على:
   
-[الاسئله المتداولة حول Office 2019 للاسئله في Windows و Mac](https://support.microsoft.com/help/4133312)
+[Office 2019 التجارية Windows و Mac الأسئلة التي يتم طرحها بشكل متكرر](https://support.microsoft.com/help/4133312)
   
-[يبلغ عدد الإصدارات الرئيسية من Office 2019 في 16.0](https://docs.microsoft.com/deployoffice/office2019/overview)
+[يبقى رقم الإصدار الرئيسي Office 2019 عند 16.0](https://docs.microsoft.com/deployoffice/office2019/overview)
   
-[ستتم أزاله التعيين العام في Office 2016 وتطبيقات عميل Microsoft 365 من إدخالات قائمه البدء](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
+[سيتم إزالة تعيين السنة Office 2016 Microsoft 365 تطبيقات عميل قائمة البدء من إدخالات](https://support.office.com/article/8fe5e052-76d2-49de-af30-2e84ed3da907?wt.mc_id=Alchemy_ClientDIA)
   

@@ -1,5 +1,5 @@
 ---
-title: اعداد Azure Active directory
+title: إعداد Azure Active Directory
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004192"
 - "7373"
-ms.openlocfilehash: 94078246562112709eee303fa13d4ac2aa651b12
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 92fadd9c98494af1a9ead97c414f3d417d37f57c77affdb9c9b3568dff4b889d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49676776"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958176"
 ---
-# <a name="set-up-azure-active-directory"></a>اعداد Azure Active directory
+# <a name="set-up-azure-active-directory"></a>إعداد Azure Active Directory
 
-يوفر [دليل اعداد AZURE AD](https://go.microsoft.com/fwlink/?linkid=2134390) معلومات للتاكد من ان مؤسستك تملك أساس أمان قوي. في هذا الدليل ، ستقوم باعداد الميزات الاوليه ، مثل التحكم بالوصول القائم علي الدور في Azure (Azure RBAC) للمسؤولين والاتصال بشركه Azure ad للحصول علي الدليل المحلي ، التالي يمكنك مراقبه سلامه الهوية المختلطة اثناء عمليات المزامنة التلقائية.
+يوفر [دليل إعداد Azure AD](https://go.microsoft.com/fwlink/?linkid=2134390) معلومات لضمان وجود أساس أمان قوي لمؤسستك. في هذا الدليل، سيتم إعداد الميزات الأولية، مثل التحكم بالوصول المستند إلى دور Azure (Azure RBAC) للمسؤولين و Azure AD الاتصال للدليل المحلي و Azure AD الاتصال Health، حتى تتمكن من مراقبة حماية هويتك المختلطة أثناء المزامنة التلقائية.
 
-ويتضمن أيضا معلومات أساسيه حول تمكين أعاده تعيين كلمه مرور الخدمة الذاتية ، والوصول المشروط وتسجيل الدخول الخاص بالجهات الخارجية المتكاملة بما في ذلك التنفيذ التلقائي لحماية الهوية وتوفير المستخدم.
+كما يتضمن معلومات أساسية حول تمكين إعادة تعيين كلمة مرور الخدمة الذاتية والوصول الشرطي و تسجيل الدخول المتكامل من جهة خارجية بما في ذلك حماية الهوية المتقدمة الاختيارية وأتمتة توفير المستخدم.

@@ -14,15 +14,15 @@ ms.custom:
 - "168"
 - "1200029"
 ms.assetid: e06cdce9-1e43-475d-970b-e0bac0fc5446
-ms.openlocfilehash: 9f6bbad8b8e3133567ffa5b83120da0c6f07f9b7
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 85e18428ecda4cb5872238e636e6d51236f716fff84b6a3bb7a84e97eca3bdf8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51816691"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53965916"
 ---
-# <a name="control-creation-of-microsoft-365-groups"></a>التحكم في إنشاء مجموعات Microsoft 365
+# <a name="control-creation-of-microsoft-365-groups"></a>التحكم في إنشاء Microsoft 365 المجموعات
 
-بشكل افتراضي، يمكن لجميع المستخدمين داخل الشركة إنشاء مجموعات. إذا لزم الأمر، يمكنك تغيير ذلك وتعيين الحق في إنشاء مجموعات إلى مجموعة من الأشخاص داخل شركتك. تجدر الإشارة إلى أن ذلك سيكون له تأثير على إنشاء مجموعات من أي خدمة Microsoft 365 (مثل Outlook و Teams و Planner وغيرها).
+بشكل افتراضي، يمكن لجميع المستخدمين داخل الشركة إنشاء مجموعات. إذا لزم الأمر، يمكنك تغيير ذلك وتعيين الحق في إنشاء مجموعات إلى مجموعة من الأشخاص داخل شركتك. تجدر الإشارة إلى أن ذلك سيكون له تأثير على إنشاء مجموعات من أي Microsoft 365 أخرى (مثل Outlook أو Teams أو Planner وما إلى ذلك).
   
-الإرشادات: [إدارة الأشخاص الذين يمكنهم إنشاء مجموعات Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups)
+الإرشادات: [إدارة الأشخاص الذين يمكنهم إنشاء Microsoft 365 المجموعات](https://docs.microsoft.com/microsoft-365/admin/create-groups/manage-creation-of-groups)
