@@ -1,5 +1,5 @@
 ---
-title: ترحيل جات اتصال Gmail أو التقويمات في Google إلى Office 365 أو Outlook
+title: ترحيل جهات اتصال Gmail أو تقويمات Google Office 365 أو Outlook
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - 9004197/7378
 - 9003961/7017
-ms.openlocfilehash: 33b8e22dcea254abf1854292b9d6a16e7ef5a155
-ms.sourcegitcommit: e29887ce455fbe5896d57b07992e6eb3fc0888ce
+ms.openlocfilehash: e72fd346f8d05e55a0844e03524d82931b20016ca3c19684dc4cd12f3df621a3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/24/2020
-ms.locfileid: "49731725"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53964287"
 ---
-# <a name="migrate-gmail-contacts-or-google-calendars-to-office-365-or-outlook"></a>ترحيل جات اتصال Gmail أو التقويمات في Google إلى Office 365 أو Outlook
+# <a name="migrate-gmail-contacts-or-google-calendars-to-office-365-or-outlook"></a>ترحيل جهات اتصال Gmail أو تقويمات Google Office 365 أو Outlook
 
-تتمثل أسهل طريقه لاستيراد جات اتصال Gmail والتقويم إلى Office في استخدام جات اتصال Gmail ومرشد التقويم.
+أسهل طريقة لاستيراد جهات اتصال وتقويم Gmail Office هي استخدام جهات اتصال Gmail ومستشار التقويم.
 
-تظهر لك [جات الاتصال والتقويم في gmail](https://go.microsoft.com/fwlink/?linkid=2134386) كيفيه مزامنة جات اتصال gmail وعناصر التقويم إلى Office 365 ، باستخدام طرق استيراد وتصدير متنوعة.
+يعرض [لك مستشار](https://go.microsoft.com/fwlink/?linkid=2134386) التقويم وجهات اتصال Gmail كيفية مزامنة جهات اتصال Gmail والعناصر في التقويم Office 365، باستخدام أساليب الاستيراد والتصدير المختلفة.
 
-إذا لم تقم بترحيل البريد الكتروني الخاص بك حتى الآن ، سيوفر لك ["مرشد اعداد البريد الكتروني](https://go.microsoft.com/fwlink/?linkid=2133951) " إرشادات مفصله خطوه بخطوه لإكمال عمليه ترحيل علبه البريد.
+إذا لم تقم بترحيل بريدك [](https://go.microsoft.com/fwlink/?linkid=2133951) الإلكتروني بعد، فإن مستشار إعداد البريد الإلكتروني يوفر إرشادات مفصلة خطوة بخطوة لإكمال ترحيل علبة البريد.
 
-للتعرف علي كيفيه عرض تقويم Google في Outlook ، اطلع علي [راجع تقويم google في outlook](https://go.microsoft.com/fwlink/?linkid=2083939).
+للتعرف على كيفية عرض تقويم Google في Outlook، اطلع على [عرض تقويم Google في Outlook](https://go.microsoft.com/fwlink/?linkid=2083939).

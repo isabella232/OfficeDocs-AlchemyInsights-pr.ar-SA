@@ -13,15 +13,15 @@ ms.custom:
 - "9000136"
 - "2968"
 ms.assetid: ''
-ms.openlocfilehash: 600ad6e9c8eb55d33885eed4d80afd0b4fc35099
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eba2a11701decdfaad2460807f36fc9d5afc533329a24074dcf28b4fd6cd4ac9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47690806"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53956142"
 ---
-# <a name="sharepoint-migration-throttling"></a>تقييد ترحيل SharePoint
+# <a name="sharepoint-migration-throttling"></a>SharePoint الترحيل
 
-يستخدم SharePoint Online التقييد للمحافظة على الأداء الأمثل وإمكانية الاعتماد على خدمة SharePoint Online. يحد التقييد من عدد إجراءات المستخدم أو المكالمات المتزامنة (بواسطة البرنامج النصي أو التعليمات البرمجية) لمنع الاستخدام المفرط للموارد. لمزيد من المعلومات ، يرجى مراجعه:
+يستخدم SharePoint Online التقييد للمحافظة على الأداء الأمثل وإمكانية الاعتماد على خدمة SharePoint Online. يحد التقييد من عدد إجراءات المستخدم أو المكالمات المتزامنة (بواسطة البرنامج النصي أو التعليمات البرمجية) لمنع الاستخدام المفرط للموارد. لمزيد من المعلومات، الرجاء الاطلاع على:
 
 - [أواجه انخفاض في الأداء أو تقييد أثناء الترحيل](https://docs.microsoft.com/sharepointmigration/sharepoint-online-and-onedrive-migration-speed#faq-and-troubleshooting)

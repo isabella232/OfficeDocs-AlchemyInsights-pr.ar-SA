@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005502"
 - "9434"
-ms.openlocfilehash: 90ecb6f7656e5f4f0a8c3da3692f0892f4829d10
-ms.sourcegitcommit: c9021d873950e378c927e39e179b5da4ff17b880
+ms.openlocfilehash: e3efbb37e28737c1cf1932abdf03b14f7b7bc295037ca0acc9602d8864b4a8ae
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/29/2021
-ms.locfileid: "52079968"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955440"
 ---
 # <a name="about-universal-print"></a>حول الطباعة العالمية
 
-يتم تضمين Universal Print مع اشتراكات Microsoft 365 و Windows 10 التجارية والتعليمية، ولكن يمكن أيضا شراؤها باشتراك مستقل.
+يتم تضمين Universal Print مع اشتراكات Microsoft 365 والتعليم Windows 10، ولكن يمكن أيضا شراؤها باشتراك مستقل.
 
 للحصول على مزيد من المعلومات، راجع [ترخيص الطباعة العالمية | Microsoft Docs](https://docs.microsoft.com/universal-print/fundamentals/universal-print-license).
 

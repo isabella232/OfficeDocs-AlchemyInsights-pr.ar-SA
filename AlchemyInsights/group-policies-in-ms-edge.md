@@ -15,13 +15,13 @@ ms.custom:
 - "9004632"
 - "6890"
 - "8362"
-ms.openlocfilehash: dc6a5c233736912030f16b43c269b9deb442dfa6
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 1722873149fdf416357b25ebd31a5c10665d145565130adaaee6cee30af0bdcb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403334"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913450"
 ---
 # <a name="group-policies-in-microsoft-edge"></a>سياسات المجموعة في Microsoft Edge
 
-استخدم سياسات [المجموعة المتوفرة](https://go.microsoft.com/fwlink/?linkid=2134623) في Microsoft Edge (الإصدار 77 أو الإصدارات الأحدث) لتحديد كيفية تشغيل المستعرض في مؤسستك.
+استخدم سياسات [المجموعة](https://go.microsoft.com/fwlink/?linkid=2134623) المتوفرة في Microsoft Edge (الإصدار 77 أو الإصدارات الأحدث) لتحديد كيفية تشغيل المستعرض في مؤسستك.

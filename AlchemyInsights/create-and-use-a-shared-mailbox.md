@@ -1,5 +1,5 @@
 ---
-title: إنشاء علبه بريد مشتركه واستخدامها
+title: إنشاء علبة بريد مشتركة واستخدامها
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,18 +12,18 @@ ms.common:
 - "358"
 - "624"
 - "3500003"
-ms.openlocfilehash: e132171e6ee89fdfa011992000332ccbbbcde7b5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4c03a4285ecc837c0fc7657bd6eb893586bf4aca0733ea306d6f6c783ff402d6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712648"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53914890"
 ---
-# <a name="create-and-use-a-shared-mailbox"></a>إنشاء علبه بريد مشتركه واستخدامها
+# <a name="create-and-use-a-shared-mailbox"></a>إنشاء علبة بريد مشتركة واستخدامها
 
-تسمح علبه البريد المشتركة لأكثر من شخص واحد بإرسال البريد الكتروني وتلقيه لاسم مستعار ، مثل sales@contoso.com ، بدون تعيين ترخيص آخر.
+تسمح علبة البريد المشتركة لأكثر من شخص واحد بإرسال بريد إلكتروني وتلقيه لاسم مستعار، مثل sales@contoso.com، دون تعيين ترخيص آخر.
   
-- [اتبع الخطوات التالية](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) في مركز أداره Microsoft 365 لبدء الاستخدام. 
+- [اتبع هذه الخطوات](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions) في مركز مسؤولي Microsoft 365 للبدء. 
 
-يمكنك أيضا قراءه المقالة [إنشاء علبه بريد مشتركه](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) ، التي ستخبرك بكل ما تحتاج إلى معرفته حول علب البريد المشتركة ، بما في ذلك كيفيه استخدامها.
+يمكنك أيضا قراءة المقالة [إنشاء علبة](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) بريد مشتركة، التي ستخبرك بكل ما تحتاج إلى معرفته حول علب البريد المشتركة، بما في ذلك كيفية استخدامها.
   

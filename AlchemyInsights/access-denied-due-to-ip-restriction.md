@@ -15,14 +15,14 @@ ms.custom:
 - "6830"
 - "9000150"
 - "7303"
-ms.openlocfilehash: 4447bacc7784496f449f6f7577a13b562e51349d
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: fb316fad5d7550f4449312e2ed3bc418d504b405bf01cd8bf0a180bac10379d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564356"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955368"
 ---
 # <a name="access-denied-due-to-ip-restriction"></a>تم رفض الوصول بسبب تقييد IP
 
-بصفتك مسؤولا في التكنولوجيا ، يمكنك التحكم في الوصول إلى موارد SharePoint و OneDrive في Microsoft 365 استنادا إلى مواقع الشبكة المعرفة التي تثق بها. يعرف هذا أيضا باسم النهج المستند إلى الموقع. لمزيد من المعلومات ، راجع [التحكم في الوصول استنادا إلى موقع الشبكة](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location).
+ب أنت مسؤول تكنولوجيا المعلومات، يمكنك التحكم في الوصول إلى SharePoint OneDrive في Microsoft 365 استنادا إلى مواقع الشبكة المعرفة التي تثق بها. يعرف ذلك أيضا باسم النهج المستند إلى الموقع. لمزيد من المعلومات، راجع [التحكم في الوصول استنادا إلى موقع الشبكة](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location).
 

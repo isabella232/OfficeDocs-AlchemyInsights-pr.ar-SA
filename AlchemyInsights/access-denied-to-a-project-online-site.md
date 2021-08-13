@@ -1,5 +1,5 @@
 ---
-title: رفض الوصول إلى موقع Project Web App
+title: تم رفض الوصول إلى موقع Project Web App ويب
 ms.author: pebaum
 author: pebaum
 manager: pamg
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "2700001"
 - "1381"
-ms.openlocfilehash: a5809e4afd3ea316bf97796899fcf2347e804ecd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e242b42e76f234eb3287001e7ed3800f08b114f09aa93362eea215109ea7bac5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47663644"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53955332"
 ---
 # <a name="give-users-permissions-in-project-online"></a>منح المستخدمين أذونات في Project Online
 
-منح المستخدمين حق الوصول إلى موقع Project Web App باستخدام وضع أذونات SharePoint:
+منح المستخدمين حق الوصول إلى موقع Project Web App باستخدام SharePoint الأذونات:
 
-1. سجل دخولك إلى Project Online كمسؤول.
-2. في الصفحة الرئيسية ل Project Web App ، حدد **مشاركه** في الزاوية العلوية اليسرى.
-3. في مربع الحوار **مشاركه Project Web App** ، اكتب اسم المستخدم للشخص الذي تريد منحه حق الوصول اليه في المربع **دعوه الأشخاص** .
-4. حدد **إظهار الخيارات**، وفي قائمه **تحديد مستوي الأذونات** ، حدد **مديري المشاريع ل project Web App**.
-5. حدد **مشاركه**.
+1. سجل دخولك Project Online كمسؤول.
+2. في الصفحة Project Web App الرئيسية، حدد **مشاركة** في الزاوية العلوية اليسرى.
+3. في مربع **Project Web App** مشاركة، اكتب اسم المستخدم للشخص الذي تريد منح حق الوصول إليه في **المربع دعوة** الأشخاص.
+4. حدد **إظهار الخيارات**، وفي القائمة **تحديد** مستوى أذونات، حدد Project **المديرين Project Web App**.
+5. حدد **مشاركة**.
 
-إذا كنت تستخدم وضع أذونات المشروع ، أو للحصول علي مزيد من المعلومات ، يرجى مراجعه [أضافه أشخاص إلى Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).
+إذا كنت تستخدم Project الأذونات، أو لمزيد من المعلومات، فالرجاء الاطلاع على إضافة أشخاص [إلى Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online).

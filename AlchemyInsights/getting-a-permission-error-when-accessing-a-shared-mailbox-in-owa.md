@@ -1,5 +1,5 @@
 ---
-title: 124 الحصول علي خطا في الأذونات عند الوصول إلى علبه بريد مشتركه في OWA ؟
+title: 124 هل لديك خطأ في الإذن عند الوصول إلى علبة بريد مشتركة في OWA؟
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -14,14 +14,14 @@ ms.custom:
 - "124"
 - "1600022"
 ms.assetid: bc09faec-d78a-4103-b4bb-7967f0ecbf3b
-ms.openlocfilehash: ed3e94ba400a2683c2e023a1832bbd16a1e24b65
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a5281445378814dc9a50760420ae05815fc90836f5e66a14c00993afbb1921d7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706690"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913486"
 ---
-# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a>هل حصلت علي خطا في الأذونات عند فتح علبه بريد مشتركه في Outlook علي الويب ؟
+# <a name="getting-a-permission-error-when-opening-a-shared-mailbox-in-outlook-on-the-web"></a>هل لديك خطأ في الإذن عند فتح علبة بريد مشتركة في Outlook على ويب؟
 
-إذا ظهرت رسالة الخطا **. ليس لديك الاذن لفتح علبه البريد هذه.** عند محاولة فتح علبه بريد مشتركه في Outlook علي الويب ، قد لا يتوفر لدي حسابك اذن الوصول إلى علبه البريد المشتركة. يمكن لمسؤول المؤسسة تعيين أذونات الحساب الخاص بك إلى علبه البريد المشتركة باتباع الإرشادات الموجودة في الموضوع [إنشاء علبه بريد مشتركه](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox).
+إذا حصلت على الخطأ **حدث خطأ ما. ليس لديك الإذن لفتح علبة البريد هذه.** عند محاولة فتح علبة بريد مشتركة في Outlook على ويب، قد لا يكون حسابك لديه الإذن للوصول إلى علبة البريد المشتركة. يمكن لمسؤول المؤسسة تعيين أذونات حسابك إلى علبة البريد المشتركة باتباع الإرشادات الواردة في الموضوع [إنشاء علبة بريد مشتركة](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox).
   
