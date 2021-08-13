@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2605"
 - "9000701"
-ms.openlocfilehash: 721858ca63d9477c234612de8306d3b20654d232
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 34d77dac8da010c88d36a4ef84e86ab56ea40b365d2b7217efcd057df85738d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51786188"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53956430"
 ---
 # <a name="set-up-microsoft-teams"></a>إعداد Microsoft Teams
 
-يوفر دليل إعداد  [Microsoft Teams](https://aka.ms/teamsguidance)  لمنظمتك إرشادات لإعداد مساحات عمل الفريق التي تستضيف المحادثات في الوقت الحقيقي من خلال المراسلة والمكالمات واجتماعات الصوت أو الفيديو لكل من اتصالات الفريق والاتصالات الخاصة. ستتلقى إرشادات لتحديد متطلبات الشبكة لمنظمتك باستخدام أداة Network Planner ومستشار Teams في مركز إدارة Teams. بمجرد اكتمال النشر، يتضمن الدليل موارد مفيدة للبدء باستخدام Teams.
+يوفر Microsoft Teams دليل إعداد البرنامج لمنظمتك إرشادات لإعداد مساحات عمل الفريق التي تستضيف المحادثات في الوقت الحقيقي من خلال المراسلة والمكالمات [واجتماعات](https://aka.ms/teamsguidance) الصوت أو الفيديو لكل من اتصالات الفريق والاتصالات الخاصة. ستتلقى إرشادات لتحديد متطلبات الشبكة في مؤسستك باستخدام أداة Network Planner ومستشار Teams داخل Teams إدارة المؤسسة. بمجرد اكتمال النشر، يتضمن الدليل موارد مفيدة للبدء باستخدام Teams.
 
-لمزيد من المعلومات، الرجاء الاطلاع [على بدء استخدام Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).
+لمزيد من المعلومات، الرجاء الاطلاع على بدء الاستخدام [مع Microsoft Teams](https://docs.microsoft.com/microsoftteams/get-started-with-teams-quick-start).

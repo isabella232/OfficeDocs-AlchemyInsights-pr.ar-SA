@@ -1,5 +1,5 @@
 ---
-title: نقل المجلد (المجلدات) العامة بين علب بريد المجلدات العامة
+title: نقل المجلدات العامة (المجلدات) بين علب بريد المجلدات العمومية
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "7983"
-ms.openlocfilehash: 5edcff180bb8599b882630b09f3bbff7c4a07c06
-ms.sourcegitcommit: c1c6047ec467853dc823a17b02c461a6a476406d
+ms.openlocfilehash: fc2a7de297b0c85046490b8e9147ea739f3c9a7f259a723d1c5ab95d57006fbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50035819"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986212"
 ---
-# <a name="move-public-folders-between-public-folder-mailboxes"></a>نقل المجلد (المجلدات) العامة بين علب بريد المجلدات العامة
+# <a name="move-public-folders-between-public-folder-mailboxes"></a>نقل المجلدات العامة (المجلدات) بين علب بريد المجلدات العمومية
 
-يمكن نقل المجلدات العامة في Exchange Online بين علب بريد المجلدات العامة باستخدام Outlook for windows desktop client.
+يمكن نقل المجلدات العامة Exchange عبر الإنترنت بين علب بريد المجلدات العامة باستخدام Outlook لسطح المكتب بنظام windows.
 
-إذا كنت تحاول نقل المجلدات العمومية من Exchange On-Premises إلى Exchange عبر الإنترنت، يمكنك الرجوع إلى المقالات التالية:
+إذا كنت تحاول نقل المجلدات العامة من Exchange إلى مجلدات Exchange الإنترنت، فانتقل إلى المقالات التالية:
 
-[ترحيل المجلدات العامة ل Exchange Server 2013,2016,2019 إلى Exchange Online](https://aka.ms/ModernPFToEXO)
+[ترحيل Exchange Server 2013,2016,2019 إلى Exchange عبر الإنترنت](https://aka.ms/ModernPFToEXO)
 
-[ترحيل المجلدات العامة في Exchange Server 2010 إلى Exchange Online](https://aka.ms/LegacyPFToEXO)
+[ترحيل Exchange Server عام 2010 إلى Exchange Online](https://aka.ms/LegacyPFToEXO)

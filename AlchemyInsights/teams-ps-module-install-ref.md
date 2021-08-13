@@ -1,5 +1,5 @@
 ---
-title: تثبيت الوحدة النمطية للفرق والمراجع
+title: Teams تثبيت وحدة PS النمطية ومراجعها
 ms.author: heidip
 author: heidip
 manager: serdards
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "1787"
 - "9000212"
-ms.openlocfilehash: 34f2165d2914a178a5232f92c32c0dffd2f62b90
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 43eb15a49fe5f47aa524a6b3fd5cba39dfaa0bbb5e5c0643df90ae37b33dd1f4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47735870"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53956513"
 ---
-# <a name="what-you-can-accomplish-with-microsoft-teams-powershell-module"></a>المهام التي يمكنك تنفيذها باستخدام الوحدة النمطية ل PowerShell لفرق Microsoft
+# <a name="what-you-can-accomplish-with-microsoft-teams-powershell-module"></a>ما يمكنك إنجازه باستخدام وحدة powerShell النمطية Microsoft Teams PowerShell
 
-إذا كنت بحاجه إلى معرفه كيفيه تثبيت الوحدة النمطية ل PowerShell للفرق ، يمكنك مراجعه [هذه المدونة](https://blogs.technet.microsoft.com/skypehybridguy/2017/11/07/microsoft-teams-powershell-support/).
+إذا كنت بحاجة إلى معرفة كيفية تثبيت الوحدة النمطية Teams PowerShell، يمكنك الاطلاع على [هذه المدونة](https://blogs.technet.microsoft.com/skypehybridguy/2017/11/07/microsoft-teams-powershell-support/).
 
 لمزيد من المعلومات:
 
-- راجع [نظره عامه حول الفرق في powershell](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview) لفهم [إمكانيات دور المسؤول](https://docs.microsoft.com/MicrosoftTeams/using-admin-roles)، [وإنشاء الفرق وأدارتها عبر PowerShell](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#creating-and-managing-teams-via-powershell)، [وأداره النهج](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-policies-via-powershell) أو [التكوينات](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-configurations-via-powershell). 
-- راجع [مرجع الأمر الخاص بفرق](https://docs.microsoft.com/powershell/module/teams/?view=teams-ps) العمل في Microsoft للحصول علي قائمه بالأوامر المتوفرة عبر PowerShell. 
+- راجع Teams نظرة [عامة حول PowerShell](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview) لفهم قدرات دور المسؤول وإنشاء الفرق [](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-policies-via-powershell) وإدارتها عبر [](https://docs.microsoft.com/MicrosoftTeams/using-admin-roles) [Powershell](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#creating-and-managing-teams-via-powershell)وإدارة السياسات أو [التكوينات](https://docs.microsoft.com/MicrosoftTeams/teams-powershell-overview#managing-configurations-via-powershell). 
+- راجع مرجع [Microsoft Teams PowerShell](https://docs.microsoft.com/powershell/module/teams/?view=teams-ps) للحصول على قائمة الأوامر المتوفرة عبر PowerShell. 
