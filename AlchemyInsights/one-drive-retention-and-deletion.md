@@ -1,5 +1,5 @@
 ---
-title: الاستبقاء والحذف في OneDrive
+title: OneDrive الاستبقاء والحذف
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -13,25 +13,25 @@ ms.assetid: ''
 ms.custom:
 - "9000596"
 - "2440"
-ms.openlocfilehash: c5fd94b91d0938f6adbfa10848d875a02ba23f00
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ed62445ffbac108bba6e7b8b8f4d8fcbcb3777d199e2a183fa457949cfe830a0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47673448"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985348"
 ---
-# <a name="onedrive-retention-and-deletion"></a>الاستبقاء والحذف في OneDrive
+# <a name="onedrive-retention-and-deletion"></a>OneDrive الاستبقاء والحذف
 
-- يمكنك [استعاده OneDrive للمستخدمين المحذوفين بنفسك](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) . في سله المحذوفات لمده 93 يوما.
+- يمكنك استعادة [مستخدمين محذوفين OneDrive](https://docs.microsoft.com/onedrive/restore-deleted-onedrive) بنفسك. وهي في سلة المعاد تدويرها لمدة 93 يوما.
 
-- راجع [هذه المقالة](https://docs.microsoft.com/onedrive/retention-and-deletion) لمعرفه المزيد:
-    - كيفيه منح مستخدم آخر حق الوصول إلى OneDrive الخاص بالمستخدم المحذوف.
-    - ما الذي يحدث لOneDrive الخاص بالمستخدم عند حذف حساب Microsoft 365 الخاص بالمستخدم لمؤسسك.
-    - كيفيه تكوين تفويض الوصول التلقائي.
-    - كيفيه عمل عمليه حذف OneDrive.
+- راجع [هذه المقالة](https://docs.microsoft.com/onedrive/retention-and-deletion) لمعرفة:
+    - كيفية منح مستخدم آخر حق الوصول إلى ملف مستخدم محذوف OneDrive.
+    - ما الذي يحدث لمستخدم OneDrive حذف حساب المستخدم Microsoft 365 لمنظمتك.
+    - كيفية تكوين ميزة التكفف التلقائي للوصول.
+    - كيفية OneDrive عملية الحذف.
 
-- للحصول علي معلومات حول استعاده العناصر من سله المحذوفات في OneDrive ، راجع [استعاده الملفات أو المجلدات المحذوفة](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f).
+- للحصول على معلومات حول استعادة العناصر من سلة المحذوفة في OneDrive، راجع استعادة الملفات أو المجلدات [المحذوفة](https://support.office.com/article/949ada80-0026-4db3-a953-c99083e6a84f).
 
-- هل مهتما بالاحتفاظ بمركز الأمان والتوافق والاحتفاظ به ؟
-    - [نهج الاستبقاء لمواقع OneDrive و SharePoint](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
-    - [احتجاز eDiscovery لمواقع OneDrive و SharePoint](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+- هل ترغب في الاحتفاظ بمركز الأمان والتوافق مع الاستمرار؟
+    - [سياسات الاستبقاء لمواقع OneDrive SharePoint](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
+    - [eDiscovery hold for OneDrive SharePoint الويب](https://docs.microsoft.com/office365/securitycompliance/ediscovery-cases#step-4-place-content-locations-on-hold)

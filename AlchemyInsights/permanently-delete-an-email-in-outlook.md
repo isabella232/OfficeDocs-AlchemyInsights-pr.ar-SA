@@ -1,5 +1,5 @@
 ---
-title: حذف رسالة بريد إلكتروني في Outlook بشكل دائم
+title: حذف رسالة بريد إلكتروني بشكل دائم في Outlook
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001176"
 - "3137"
-ms.openlocfilehash: e9eee884a90d961a68f63aca73bce32da21fe1fd
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b0aa1c016f229399f451655f691486c4618fce55d2952ea677edb902349dd270
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836086"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944370"
 ---
-# <a name="permanently-delete-an-email-in-outlook"></a>حذف رسالة بريد إلكتروني في Outlook بشكل دائم
+# <a name="permanently-delete-an-email-in-outlook"></a>حذف رسالة بريد إلكتروني بشكل دائم في Outlook
 
 - من طريقة عرض علبة الوارد، اضغط ضغطا طويلا على رسالة، وسترى أيقونة سلة المهملات. اضغط على هذه الأيقونة لحذف الرسالة.
 
-- يمكنك أيضا تعيين "حذف" كخيار سحب (**الإعدادات -> خيارات السحب**)؛ ثم استخدم إصبعك للسحب على البريد الذي تريد حذفه. 
+- يمكنك أيضا تعيين "حذف" كخيار سحب ( الإعدادات **-> خيارات السحب**)؛ ثم استخدم إصبعك للسحب على البريد الذي تريد حذفه. 
 
 - لحذف رسالة من طريقة عرض البريد الإلكتروني المفتوحة، اضغط على أيقونة سلة المهملات في أعلى الشاشة. سيتم نقل الرسائل المحذوفة إلى مجلد "سلة المهملات". 
 

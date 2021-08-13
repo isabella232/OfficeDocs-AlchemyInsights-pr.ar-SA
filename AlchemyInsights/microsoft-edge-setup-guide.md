@@ -14,19 +14,19 @@ ms.custom:
 - "7280"
 - "10908"
 - "9006389"
-ms.openlocfilehash: e2c2e041df856b64e6c811a76e64e2e60ba07e85
-ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
+ms.openlocfilehash: cdac95f094b9791daa258b6480f72392828e09f3cf603a856446eda7cc6472d4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51692741"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53992719"
 ---
 # <a name="start-using-microsoft-edge"></a>بدء استخدام Microsoft Edge
 
-أصدرت Microsoft Microsoft Edge الجديد، وهو الجيل التالي من مستعرض الويب الخاص بها. إنه مضمن في الأساس المفتوح المصدر ل Chromium وقد تم تحسينه للعمل مع منتجات Microsoft، مثل SharePoint و OneDrive.
+أصدرت Microsoft Microsoft Edge الجديد، وهو الجيل التالي من مستعرض الويب الخاص بها. وهو مضمن في Chromium المصدر المفتوح وقد تم تحسينه للعمل مع منتجات Microsoft، مثل SharePoint OneDrive.
 
 إذا كنت تواجه مشاكل في Google Chrome أو Mozilla Firefox أو Safari، نوصي باستخدام Microsoft Edge.
 
-إذا كنت مسؤول مؤسسة كبيرة، فاستخدم دليل إعداد [Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2142423) للبدء.
+إذا كنت مسؤول مؤسسة كبيرة، فاستخدم [دليل](https://go.microsoft.com/fwlink/?linkid=2142423) Microsoft Edge للبدء.
 
-لتنزيل Microsoft Edge على جهاز واحد في كل مرة، انتقل إلى [تقديم Microsoft Edge الجديد.](https://go.microsoft.com/fwlink/?linkid=2141049)
+لتنزيل Microsoft Edge على جهاز واحد في كل مرة، انتقل إلى [مقدمة إلى Microsoft Edge](https://go.microsoft.com/fwlink/?linkid=2141049).

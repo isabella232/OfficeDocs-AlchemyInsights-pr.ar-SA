@@ -1,5 +1,5 @@
 ---
-title: أضافه تطبيق أو إنشاؤه
+title: إضافة تطبيق أو إنشائه
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004332"
 - "7728"
-ms.openlocfilehash: 7296a0f170d56b705ccf3173ba0636cb1942924a
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: cc28fdacdd7261c96eaf7224ea27f215a828c059dafdb01085434d06551c6e0b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974176"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954396"
 ---
-# <a name="adding-or-creating-an-application"></a>أضافه تطبيق أو إنشاؤه
+# <a name="adding-or-creating-an-application"></a>إضافة تطبيق أو إنشائه
 
-- [تشغيل: أضافه تطبيق إلى مستاجر Azure Active directory (AZURE AD)](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal) يعرض لك كيفيه أضافه تطبيق إلى مستاجر azure AD.
-- [برنامج تعليمي: يعرض أضافه تطبيق محلي للوصول عن بعد عبر وكيل التطبيق في Azure Active](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-add-on-premises-application) directory كيفيه اعداد بيئتك لاستخدامها مع وكيل التطبيق. بمجرد ان تصبح بيئتك جاهزه ، ستستخدم مدخل Azure لأضافه تطبيق محلي إلى مستاجر Azure AD.
-- للمساعدة علي دمج تطبيقاتك باستخدام Azure Active directory ، لقد قمنا بتطوير [مجموعه من البرامج التعليمية](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) التي تقودك إلى التكوين.
+- Quickstart: إضافة تطبيق إلى مستأجر [Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/manage-apps/add-application-portal) يوضح لك كيفية إضافة تطبيق إلى مستأجر Azure AD.
+- البرنامج التعليمي: أضف تطبيقا في موقعه الخاص للوصول عن بعد من خلال وكيل التطبيق في [Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/application-proxy-add-on-premises-application) يوضح لك كيفية إعداد بيئتك لاستخدامها مع وكيل التطبيق. بمجرد أن تكون بيئتك جاهزة، سوف تستخدم مدخل Azure لإضافة تطبيق في الموقع إلى مستأجر Azure AD.
+- للمساعدة في دمج تطبيقاتك مع Azure Active [](https://docs.microsoft.com/azure/active-directory/saas-apps/tutorial-list) Directory، قمنا بتطوير مجموعة من البرامج التعليمية التي تساعدك على عملية التكوين.

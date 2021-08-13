@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6464"
-ms.openlocfilehash: 426a54ea22490dcc47f40fd990654b2cf051a058
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 1263662184948ed1e77e3abacd17babf4aa033ed1ecec29b4c4afc26d6da56f0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51822622"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53954648"
 ---
 # <a name="why-is-the-add-budget-button-disabled-for-me"></a>لماذا تم تعطيل الزر إضافة موازنة لي؟
 
@@ -75,7 +75,7 @@ ms.locfileid: "51822622"
 **أريد رؤية التنبؤات لبعد واحد (على سبيل المثال. عداد)**  
 تدعم التنبؤات حاليا إجمالي توقعات التكلفة وليس للعدادات الفردية. وبالتالي، عند "تجميع حسب" بعد، ستكون الإسقاطات لإجمالي كل العناصر في البعد
 
-**المستندات المستحسنة**
+**المستندات الموصى بها**
 
 - [ما هو Azure Cost Management؟](https://docs.microsoft.com/azure/cost-management/overview-cost-mgt?WT.mc_id=Portal-Microsoft_Azure_Support)
 - [أفضل ممارسات إدارة تكاليف Azure](https://docs.microsoft.com/azure/cost-management/cost-mgt-best-practices?WT.mc_id=Portal-Microsoft_Azure_Support)
