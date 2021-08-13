@@ -1,5 +1,5 @@
 ---
-title: رفض الوصول عند تعيين محرك أقراص إلى SharePoint
+title: تم رفض الوصول عند تعيين محرك أقراص SharePoint
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,22 +12,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: b7da3918-969f-40bb-acb3-fbc762605504
-ms.openlocfilehash: 8fc866390d63443c94beef76b6a53a628b85d6d2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1ed67ec926c3e73f7a16b927729255505dfe93a0ae442a5dff9400afafb41d8e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668730"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938718"
 ---
-# <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>إصلاح المشاكل المتعلقة بمكتبات SharePoint المعينة لمحركات أقراص الشبكة
+# <a name="fix-problems-with-sharepoint-libraries-mapped-to-network-drives"></a>إصلاح المشاكل المتعلقة بمكتبات SharePoint التي تم تعيينها إلى محركات أقراص الشبكة
 
-عند الاستعراض وصولا إلى محرك أقراص شبكه تم تعيينه ، قد تري أحدي الرسائل التالية:
+عند الاستعراض إلى محرك أقراص شبكة تم تعيينه، قد ترى إحدى الرسائل التالية:
   
-- **\\لا يمكن الوصول إلى المسار. قد لا يكون لديك الاذن لاستخدام مورد الشبكة هذا. اتصل بمسؤول هذا الخادم لمعرفه ما إذا كان لديك أذونات الوصول.**
+- **\\لا يمكن الوصول إلى المسار. قد لا يكون لديك الإذن لاستخدام مورد الشبكة هذا. اتصل بمسؤول هذا الخادم لمعرفة ما إذا كان لديك أذونات الوصول.**
 
-- **تم رفض الوصول. قبل فتح الملفات في هذا الموقع ، يجب أولا أضافه موقع ويب إلى قائمه الموقع الموثوق به ، والاستعراض وصولا إلى موقع ويب ، وتحديد خيار تسجيل الدخول تلقائيا.**
+- **تم رفض الوصول. قبل فتح الملفات في هذا الموقع، يجب أولا إضافة موقع ويب إلى قائمة الموقع الموثوق به، واستعراض موقع الويب، وتحديد خيار تسجيل الدخول تلقائيا.**
 
-[الحصول علي المساعدة لاستكشاف أخطاء محركات أقراص الشبكة المعينة](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
+احصل على تعليمات حول استكشاف مشاكل [محركات أقراص الشبكة التي تم تعيينها وإصلاحها](https://docs.microsoft.com/sharepoint/support/administration/troubleshoot-mapped-network-drives).
   
-تعيين مكتبه كمحرك أقراص الشبكة مؤقتا ومعتمده في Internet Explorer فقط. بدلا من ذلك ، يمكنك [مزامنة ملفات SharePoint باستخدام عميل المزامنة من OneDrive الجديد](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) الذي يتضمن [الملفات عند الطلب](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). يمكنك الوصول إلى كل ملفاتك في OneDrive دون استخدام مساحة التخزين المحلية.
+تعيين مكتبة كمحرك أقراص شبكة مؤقت ومدعم فقط في Internet Explorer. بدلا من [ذلك، SharePoint الملفات مع عميل المزامنة من OneDrive الجديد](https://support.office.com/article/6de9ede8-5b6e-4503-80b2-6190f3354a88.aspx) الذي يتضمن الملفات عند [الطلب](https://support.office.com/article/0e6860d3-d9f3-4971-b321-7092438fb38e.aspx). يمكنك الوصول إلى جميع الملفات في OneDrive بدون استخدام مساحة السعة التخزينية المحلية.
   

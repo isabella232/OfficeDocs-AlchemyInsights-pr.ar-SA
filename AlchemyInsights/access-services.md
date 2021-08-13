@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 78916d8f-9549-4a21-b0df-626456b57382
-ms.openlocfilehash: c5edb5d3e1cc19b2286adc50cc1a5b1d9cf3649f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 67d95687db675b05fa9580aec4d444ab916e26ff73221ca289791b80807ca62f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668478"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938646"
 ---
 # <a name="access-services"></a>Access Services
 
-يتم إيقاف ميزه Access Services في SharePoint Online. لم يعد بالإمكان إنشاء تطبيقات ويب المستندة إلى Access وقواعد بيانات ويب الجديدة ، سيتم إيقاف تشغيل تطبيقات الويب وقواعد بيانات ويب الموجودة في ابريل ، 2018. لا تتاثر قواعد بيانات Access لسطح المكتب (accdb.) بهذا التغيير. نوصي باستخدام Microsoft PowerApps كبديل للوصول إلى تطبيقات ويب وقواعد بيانات ويب. 
+يتم Access Services الميزة "SharePoint Online". لم يعد من الممكن إنشاء تطبيقات ويب وقواعد بيانات ويب جديدة تستند إلى Access، كما سيتم إيقاف تشغيل تطبيقات الويب وقواعد بيانات الويب الموجودة بحلول أبريل 2018. لا يؤثر هذا التغيير على قواعد بيانات Access لسطح المكتب (accdb.). نوصي Microsoft PowerApps كبديل لتطبيقات Access على الويب وقواعد بيانات الويب. 
   
-[تعرف علي Microsoft PowerApps](https://powerapps.microsoft.com/)
+[تعرف على Microsoft PowerApps](https://powerapps.microsoft.com/)
   

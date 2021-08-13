@@ -1,5 +1,5 @@
 ---
-title: التقاعد في Access services
+title: تقاعد خدمات Access
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,26 +11,26 @@ ms.custom:
 - "9000356"
 - "2009"
 ms.assetid: ''
-ms.openlocfilehash: 943066d5ac76c0630554ee724bbab9a94086fae4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 32da879de230dc0ed99563ad881ab5b2479b8453933a127961a26d619e108ab9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698633"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53938682"
 ---
-# <a name="access-services-retirement"></a>التقاعد في Access services
+# <a name="access-services-retirement"></a>تقاعد خدمات Access
 
-بما اننا إعلاننا بالفعل في MC97576 ، وفي مارس 2017 ، ومستمر للتواصل عبر السنه الماضية ، سيتم إيقاف خدمه Access. ستكون المرحلة التالية في هذه العملية هي أزاله قواعد بيانات Access علي ويب التي تستخدم قوائم SharePoint كمساحة تخزين البيانات الاساسيه الخاصة بها.
+كما أعلنا في الأصل في MC97576، في مارس 2017، وتابعنا التواصل خلال السنة الماضية Access Services يتم الآن Access Services العمل. ستكون المرحلة التالية في هذه العملية إزالة قواعد بيانات Access على ويب التي تستخدم SharePoint كمساحة تخزين البيانات الأساسية الخاصة بها.
 
-**كيف يؤثر هذا ؟**
+**كيف يؤثر ذلك علي؟**
 
-بدءا من يونيو 2019 ، سنقوم بإيقاف إنشاء قواعد بيانات Access جديده في SharePoint Online وإيقاف تشغيل الخدمة وأي تطبيقات متبقية بحلول ابريل 2020.
+اعتبارا من يونيو 2019، سنتوقف عن إنشاء قواعد بيانات Access جديدة في SharePoint Online ونوقف تشغيل الخدمة وأي تطبيقات متبقة بحلول أبريل 2020.
 
-**ما الذي احتاج إلى فعله للتحضير لهذا التغيير ؟**
+**ما الذي أحتاج إليه للتحضير لهذا التغيير؟**
 
-نحن نشجعك علي إنشاء خطه انتقال لقواعد بيانات Access علي ويب الخاصة بمؤسسك. يمكن للمسؤولين استخدام [ماسح تطبيق SharePoint Access](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) للحصول علي مخزون تطبيقات Access التي تستخدمها المواقع.
+إننا نشجعك على إنشاء خطة انتقال لقواعد بيانات Access على الويب الخاصة مؤسستك. يمكن للمسؤولين استخدام ماسح [SharePoint Access](https://github.com/SharePoint/PnP-Tools/tree/master/Solutions/SharePoint.AccessApp.Scanner) للحصول على مخزون لتطبيقات Access التي تستخدمها المواقع.
 
-هناك طرق متعددة لترحيل بيانات قواعد بيانات Access علي الويب:
+هناك عدة طرق لترحيل بيانات قواعد بيانات Access على الويب:
 
-- الاستيراد إلى قاعده بيانات Access محليه (. ACCDB) أو إلى ملف Excel.
-- نوصي أيضا باستكشاف Microsoft PowerApps كنظام أساسي بديل لإنشاء حلول للشركات التي لا تستخدم التعليمات البرمجية للاجهزه المحمولة والويب.
+- الاستيراد إلى قاعدة بيانات Access محلية (. ACCDB) أو إلى Excel ملف.
+- نوصي أيضا باستكشاف Microsoft PowerApps كنهاية بديلة لإنشاء حلول أعمال بدون تعليمات برمجية للأجهزة المحمولة والويب.
