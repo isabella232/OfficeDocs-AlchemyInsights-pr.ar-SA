@@ -1,5 +1,5 @@
 ---
-title: ترخيص A1 ل Office 365
+title: ترخيص A1 Office 365
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002568"
 - "4981"
-ms.openlocfilehash: 7cc451fce065754146d09073b218ecc79d49612b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 87f4b73432e242f21373696d2a06404fd76dc921c8c80e65c91e230cf0212ccc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51804071"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53917734"
 ---
-# <a name="a1-license-for-office-365"></a>ترخيص A1 ل Office 365
+# <a name="a1-license-for-office-365"></a>ترخيص A1 Office 365
 
-- إذا كان معهدك مؤهلا بالفعل ل Office 365 Education، يمكنك إضافة خطة **A1** إلى حسابك من [خدمات الشراء](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription#buy-another-subscription).
+- إذا كان معهدك مؤهلا Office 365 Education، يمكنك إضافة الخطة **A1** إلى حسابك من [خدمات الشراء.](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription#buy-another-subscription)
 
-- إذا لم يقم معهدك بعد بإعداد Office 365 Education، ولكنك تريد إضافته مجانا، يمكنك البدء من خلال توفير بريدك الإلكتروني. [](https://www.microsoft.com/education/products/office)
+- إذا لم يقم معهدك بإعداد Office 365 Education بعد، ولكنك تبحث عن إضافته مجانا، يمكنك [](https://www.microsoft.com/education/products/office) بدء العمل من خلال توفير البريد الإلكتروني.
 
 - إذا كنت تريد التبديل من **خطة** أكاديمية مختلفة إلى خطة A1، فشاهد التبديل إلى [خطة مختلفة.](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-plans-manually)
 
@@ -31,4 +31,4 @@ ms.locfileid: "51804071"
 
 **هام**: قد يتعين عليك الانتظار لمدة تصل إلى 24 ساعة لكي تدخل التغييرات حيز التنفيذ.
 
-لمزيد من المعلومات، راجع [Office 365 Education](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) والتعليم والتعلم عن بعد والانتقال [إلى التعلم عن بعد](https://www.microsoft.com/education/remote-learning).
+لمزيد من المعلومات، [راجع](https://support.office.com/article/remote-teaching-and-learning-in-office-365-education-f651ccae-7b65-478b-8366-51bb884025c4) Office 365 Education والتعليم والتعلم عن بعد [والانتقال إلى التعلم عن بعد](https://www.microsoft.com/education/remote-learning).

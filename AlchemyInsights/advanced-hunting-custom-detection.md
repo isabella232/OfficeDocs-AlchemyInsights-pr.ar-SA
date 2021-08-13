@@ -1,5 +1,5 @@
 ---
-title: 9001220 عملية اكتشاف مخصصة متقدمة للصيد
+title: 9001220 اكتشافات مخصصة متقدمة للصيد
 ms.author: dolmont
 author: DulceMontemayor
 manager: dansimp
@@ -14,18 +14,18 @@ ms.custom:
 - "3200"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: ea478cfbbbe96065608990770e0453d8f2613981
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: 8520cf14a937dbf83a5ebb8be86111dcd183fd4cfc59248fa0ec3a1e2685714f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52542988"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53952272"
 ---
 # <a name="advanced-hunting-custom-detections"></a>الاكتشافات المخصصة المتقدمة للصيد
 
 يمكنك التعرف على كيفية إنشاء قواعد الكشف المخصصة وإدارتها استنادا إلى استعلامات الصيد المتقدمة. باستخدام الاكتشافات المخصصة، يمكنك مراقبة الأحداث المختلفة ومواصفات النظام والاستجابة لها بشكل استباقي، بما في ذلك نشاط الانتهاك المشتبه به والأجهزة التي تم تكوينها بشكل غير صحيح. يمكنك القيام بذلك باستخدام قواعد الكشف القابلة للتخصيص التي تقوم بتشغيل التنبيهات والإجراءات الخاصة بالاستجابة تلقائيا
   
-إذا كنت تستخدم Microsoft Defender ATP، فشاهد المواضيع التالية للحصول على التفاصيل: 
+إذا كنت تستخدم MICROSOFT Defender ATP، فشاهد المواضيع التالية للحصول على التفاصيل: 
 - [نظرة عامة على الكشف المخصص](/windows/security/threat-protection/microsoft-defender-atp/overview-custom-detections)
 - [إنشاء قواعد الكشف المخصصة](/windows/security/threat-protection/microsoft-defender-atp/custom-detection-rules)
 - [عرض قواعد الكشف المخصصة وإدارتها](/windows/security/threat-protection/microsoft-defender-atp/custom-detections-manage)

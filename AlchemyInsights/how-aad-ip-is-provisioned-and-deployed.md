@@ -1,5 +1,5 @@
 ---
-title: كيفيه توفير حماية الهوية في Azure Active Directory ونشرها
+title: كيفية توفير حماية هوية Azure Active Directory ونشرها
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003955"
 - "7012"
-ms.openlocfilehash: d248a57e99177f4a11a5640d90bb15a0a7f5a3ee
-ms.sourcegitcommit: e56dd310cb2d4fef5ab339775a3929c85b69ed99
+ms.openlocfilehash: 4d639525fa170ef1a501d4683c49fd50dad0c9b401b3ade1635d11e783524237
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "49714646"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53927837"
 ---
-# <a name="how-azure-active-directory-identity-protection-is-provisioned-and-deployed"></a>كيف يتم توفير حماية هويه Azure Active Directory ونشرها ؟
+# <a name="how-azure-active-directory-identity-protection-is-provisioned-and-deployed"></a>كيف يتم توفير حماية هوية Azure Active Directory ونشرها؟
 
-بشكل افتراضي ، يتم تمكين ميزات حماية هويه Azure Active directory علي مستوي المستاجر لكل المستخدمين ضمن المستاجر.
+بشكل افتراضي، يتم تمكين ميزات Azure Active Directory Identity Protection على مستوى المستأجر لجميع المستخدمين داخل المستأجر.
 
-للتعرف علي المزيد ، راجع [ما هو الحماية الخاصة بهويه Azure Active directory ؟](https://go.microsoft.com/fwlink/?linkid=2130395)
+لمعرفة المزيد، راجع [ما هو Azure Active Directory Identity Protection؟](https://go.microsoft.com/fwlink/?linkid=2130395)
