@@ -1,5 +1,5 @@
 ---
-title: 9000233 Outlook.com
+title: 9000233 Outlook PIN.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.custom:
 - "1817"
 - "9000233"
-ms.openlocfilehash: 85d65dc2071f7a0e50fb096ae881b2e344410435
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 430d4782ed17fe880f326e5ff6f4c96d51e1edf590ff75efd5ce59fe4ee1c379
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798183"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983830"
 ---
-# <a name="change-your-pin"></a>تغيير رقم PIN
+# <a name="change-your-pin"></a>تغيير رقم التعريف الشخصي (PIN)
 
-لا يستخدم Outlook.com رقم PIN ، ولكن قد تسجل دخولك إلى الكمبيوتر الشخصي باستخدام رمز PIN أو Windows Hello. لتغيير رقم التعريف الشخصي (PIN) في Windows 10:
+Outlook.com لا يستخدم رمز PIN، ولكن يمكنك تسجيل الدخول إلى الكمبيوتر باستخدام رمز PIN أو Windows Hello. لتغيير رقم التعريف الشخصي (PIN) في Windows 10:
 
-1. حدد زر البدء أو اضغط علي مفتاح Windows علي لوحه المفاتيح ، ثم حدد **إعدادات**  >  **Accounts**  >  **تسجيلات دخول**الحسابات.
-2. حدد الزر **تغيير** ضمن **رقم التعريف الشخصي (PIN)**.
-3. ادخل رقم التعريف الشخصي (PIN) الحالي ، ثم ادخل رمز PIN الجديد أسفله وأكده.
+1. حدد زر البدء أو اضغط على Windows على لوحة المفاتيح، ثم **حدد** الإعدادات  >  **خيارات** تسجيل الدخول  >  **إلى الحسابات.**
+2. حدد الزر **تغيير** ضمن **رمز PIN**.
+3. أدخل رمز PIN الحالي، ثم أدخل رمز PIN الجديد الخاص بك وأكده أسفله.
 
-[أقرا المزيد حول Windows Hello.](https://support.microsoft.com/help/17215/)
+[اقرأ المزيد حول Windows Hello.](https://support.microsoft.com/help/17215/)

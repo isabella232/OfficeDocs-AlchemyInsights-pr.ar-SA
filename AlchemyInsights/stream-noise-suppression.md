@@ -1,5 +1,5 @@
 ---
-title: منع الضوضاء في تدفق
+title: منع الضوضاء في الدفق
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "6068"
 - "9003225"
-ms.openlocfilehash: 21db226e971978239c9496898a6855988149fe3f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b49a39adeb38f9508004853713cac68af4aec90793b74ae66c603ad6fb62c994
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795267"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991306"
 ---
-# <a name="stream-noise-suppression"></a>منع الضوضاء في تدفق
+# <a name="stream-noise-suppression"></a>منع الضوضاء في الدفق
 
-يسمح منع الضوضاء ، عند تشغيله بواسطة مالكي الفيديو ، للعارضين بعزل الكلام عن الأصوات والموسيقي الأخرى اثناء التشغيل. يمكن تبديل منع الضوضاء أو إيقاف تشغيله لكل فيديو تم تحميله حديثا. لمزيد من المعلومات ، راجع [منع الضوضاء](https://docs.microsoft.com/stream/noise-suppression).
+يسمح منع الضوضاء، عند تشغيلها بواسطة مالكي الفيديو، للعارضين بعزل الكلام عن الأصوات والموسيقى الأخرى أثناء التشغيل. يمكن تشغيل منع الضوضاء أو إيقاف تشغيلها لكل فيديو تم تحميله حديثا. لمزيد من المعلومات، راجع [منع الضوضاء](https://docs.microsoft.com/stream/noise-suppression).

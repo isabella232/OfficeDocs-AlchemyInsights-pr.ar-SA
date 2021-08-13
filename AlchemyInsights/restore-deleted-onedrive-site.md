@@ -1,5 +1,5 @@
 ---
-title: استعاده موقع OneDrive محذوف
+title: استعادة موقع OneDrive محذوف
 ms.author: v-miegge
 author: v-miegge
 manager: v-cojank
@@ -14,19 +14,19 @@ ms.custom:
 - "3174"
 - "9000210"
 ms.assetid: ''
-ms.openlocfilehash: ee48271ac3325881c2c2d8623be98c6d4cf3d09f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2b5043c1b3aadf4e2554f3a469e5e1a53d7d038602300447599ff1c13cf31271
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728022"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991270"
 ---
-# <a name="restore-a-deleted-onedrive-site"></a>استعاده موقع OneDrive محذوف
+# <a name="restore-a-deleted-onedrive-site"></a>استعادة موقع OneDrive محذوف
 
-عند حذف مستخدم في مركز أداره Microsoft 365 (أو عند أزاله مستخدم عبر مزامنة Active Directory) ، سيتم الاحتفاظ بOneDrive الخاص بالمستخدم لعدد الأيام التي تحددها في مركز أداره OneDrive. (للحصول علي معلومات ، راجع [تعيين الاحتفاظ بالملف الافتراضي لمستخدمي OneDrive المحذوفين](https://docs.microsoft.com/onedrive/set-retention).)
+عند حذف مستخدم في مركز مسؤولي Microsoft 365 (أو عند إزالة مستخدم من خلال مزامنة Active Directory)، سيتم الاحتفاظ ب OneDrive الخاص بالمستخدم لعدد الأيام التي تحددها في مركز إدارة OneDrive. (للحصول على معلومات، راجع تعيين استبقاء الملف الافتراضي للمستخدمين الذين تم [حذفهم OneDrive](https://docs.microsoft.com/onedrive/set-retention).)
 
-* [استعاده موقع OneDrive محذوف](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
+* [استعادة موقع ويب OneDrive محذوف](https://docs.microsoft.com/onedrive/restore-deleted-onedrive)
 
-إذا كانت هناك الكثير من ملفات OneDrive التي قمت بحذفها أو الكتابة فوقها أو تلفها أو المصابة بالبرامج الضارة ، فيمكنك استعاده OneDrive بأكمله إلى وقت سابق.
+إذا تم حذف OneDrive من ملفاتك أو الكتابة فوقها أو تالفة أو أصيبت بالبرامج الضارة، يمكنك استعادة ملفاتك OneDrive سابقة.
 
-* [استعاده OneDrive](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)
+* [استعادة OneDrive](https://support.office.com/article/Restore-your-OneDrive-fa231298-759d-41cf-bcd0-25ac53eb8a15)

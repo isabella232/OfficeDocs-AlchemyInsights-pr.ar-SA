@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge سلسله عامل المستخدم (سطح المكتب)
+title: Microsoft Edge وكيل المستخدم (سطح المكتب)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003862"
 - "6914"
-ms.openlocfilehash: b4106dde1e09e0ce07b4b9adc2b2984cc5609c3b
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: 9311f17298fff3fee3282fe05bd1ddcd02780a80097e86b29d56ffd575a9a571
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49676750"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975988"
 ---
-# <a name="microsoft-edge-user-agent-string-desktop"></a>Microsoft Edge سلسله عامل المستخدم (سطح المكتب)
+# <a name="microsoft-edge-user-agent-string-desktop"></a>Microsoft Edge وكيل المستخدم (سطح المكتب)
 
-يمكن استخدام سلاسل عامل المستخدم (UK-UA&PLATFORM) للكشف عن إصدار مستعرض معين يتم استخدامه علي نظام تشغيل معين. بما في ذلك المستعرضات الأخرى ، يتضمن Microsoft Edge هذه المعلومات في راس صفحه HTTP لعامل المستخدم عندما يقوم بطلب الموقع. يمكن أيضا الوصول إلى معلومات إصدارات المستعرض عبر JavaScript عن طريق الاستعلام عن قيمه "أوسيراجينت".
+يمكن استخدام سلاسل وكيل المستخدم (UA) للكشف عن إصدار مستعرض معين يتم استخدامه على نظام تشغيل معين. مثل المستعرضات الأخرى، Microsoft Edge هذه المعلومات في رأس HTTP "User-Agent" كلما طلبت ذلك إلى موقع. يمكن أيضا الوصول إلى معلومات إصدار المستعرض عبر JavaScript عن طريق الاستعلام عن قيمة "navigator.userAgent".
 
-نوصي باستخدام مطوري الويب للكشف عن الميزات كلما أمكن لتحسين مينتينابيليتي التعليمات البرمجية ، وتقليل التعليمات البرمجية لفراجيليتي ، وأزاله مخاطر التعليمات البرمجية بريكاجي في حاله تحديثات سلسله UK-UA&PLATFORM المستقبلية.
+نوصي بأن يستخدم مطورو الويب ميزة الكشف عن الميزات كلما أمكن لتحسين إمكانية صيانة التعليمات البرمجية وتقليل هشاشة التعليمات البرمجية وإزالة مخاطر فاصل التعليمات البرمجية في حال حدوث تحديثات سلسلة UA المستقبلية.
 
-للحصول علي مزيد من المعلومات ، راجع [سلسله عامل المستخدم في Microsoft Edge (سطح المكتب)](https://docs.microsoft.com/microsoft-edge/web-platform/user-agent-string).
+لمزيد من المعلومات، راجع Microsoft Edge [سلسلة وكيل المستخدم (سطح المكتب)](https://docs.microsoft.com/microsoft-edge/web-platform/user-agent-string).

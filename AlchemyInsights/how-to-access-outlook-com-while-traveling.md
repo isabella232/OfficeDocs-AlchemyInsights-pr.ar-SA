@@ -1,5 +1,5 @@
 ---
-title: كيفيه الوصول إلى Outlook.com اثناء السفر
+title: كيفية الوصول إلى Outlook.com أثناء السفر
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,13 +13,13 @@ ms.custom:
 - "921"
 - "8000056"
 ms.assetid: d497edc0-f945-4c45-9fe0-f7060c259848
-ms.openlocfilehash: 9180e7f6194d6bd862c2e51ca6459188e4c25134
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 68d68a7acfd99174bae5b14d3560fc2e02b580bf62d1bf4f948543708c901a8e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47704917"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53926592"
 ---
-# <a name="how-to-access-outlookcom-while-traveling"></a>كيفيه الوصول إلى Outlook.com اثناء السفر
+# <a name="how-to-access-outlookcom-while-traveling"></a>كيفية الوصول إلى Outlook.com أثناء السفر
 
-للوصول إلى Outlook.com اثناء السفر ، تاكد من ان معلومات أمان حساب Microsoft الخاص بك-عنوان بريد الكتروني بديل أو رقم هاتف ، حيث يمكنك الحصول علي رموز الأمان-محدثه. لمعرفه المزيد ، راجع [كيفيه الوصول إلى Outlook.com عند السفر](https://support.office.com/article/c44f16da-7156-4890-853c-286aafeda87e?wt.mc_id=Office_Outlook_com_Alchemy).
+للوصول إلى Outlook.com أثناء السفر، تأكد من أن معلومات أمان حساب Microsoft الخاصة بك - عنوان بريد إلكتروني بديل أو رقم هاتف بديل حيث يمكنك الحصول على رموز الأمان - محضرة. لمعرفة المزيد، [راجع كيفية الوصول إلى Outlook.com عند السفر](https://support.office.com/article/c44f16da-7156-4890-853c-286aafeda87e?wt.mc_id=Office_Outlook_com_Alchemy).
