@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002952"
 - "5654"
-ms.openlocfilehash: fab76114044f71d60dbaf812cd2cd0cc75c8169c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 6d072e4be2465c7744c0862b8b3e755274f3b03d0d6058c0c9f7bf23bef8abbd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820453"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53979516"
 ---
 # <a name="battery-wont-charge"></a>لن يتم شحن البطارية
 
@@ -36,12 +36,12 @@ ms.locfileid: "51820453"
 5. حدد الكمبيوتر في أعلى كل الفئات،  وحدد قائمة الإجراء، ثم انقر فوق فحص **التغييرات في الأجهزة**.
 6. اترك جهاز Surface متصلا.
 
-بعد إزالة برنامج تشغيل البطارية، قم بتثبيت تحديثات Surface و Windows. راجع [تحديث البرامج الثابتة Surface و Windows 10](https://support.microsoft.com/help/4023505) للحصول على التفاصيل. تحقق من البطارية. إذا كانت لا تزال تواجه مشاكل، فشاهد [فرض إيقاف تشغيل](https://support.microsoft.com/help/4036280/surface-force-a-shut-down-and-restart-your-surface)وإعادة تشغيل Surface .
+بعد إزالة برنامج تشغيل البطارية، قم بتثبيت Surface Windows التحديثات. راجع [تحديث البرامج الثابتة ل Surface Windows 10](https://support.microsoft.com/help/4023505) للحصول على التفاصيل. تحقق من البطارية. إذا كانت لا تزال تواجه مشاكل، فشاهد [فرض إيقاف تشغيل](https://support.microsoft.com/help/4036280/surface-force-a-shut-down-and-restart-your-surface)وإعادة تشغيل Surface .
 
 **مزيد من المعلومات حول استكشاف الأخطاء وإصلاحها**
 
 يجب أن يكون ضوء LED مضاء عند توصيل موصل الطاقة ب Surface. إذا كان م إيقاف التشغيل أو وامض أو وامض أبيض، فالرجاء الاطلاع على ما يجب فعله إذا لم يعمل جهاز [Surface](https://support.microsoft.com/help/4484763/surface-fix-issues-with-your-power-supply)الخاص بك أو شاحن الطاقة لديك . 
 
-إذا كنت تواجه مشاكل في Surface Book، فتأكد من إرفاق الشاشة بشكل كامل بلوحة المفاتيح. إذا لم يتم شحنه مع ذلك، فإزالة الشاشة وتنظيف الموصلات باستخدام ممحاة القلم الرصاص. قد ترغب أيضا في تنظيف الدبابيس على الجزء الطويل الضيق من الشاحن الذي تقوم بتوصيله ب Surface، وتأكد من أن الدبابيس جافة.
+إذا كنت تواجه مشاكل مع لوحة Surface Book، فتأكد من إرفاق الشاشة بشكل كامل بلوحة المفاتيح. إذا لم يتم شحنه مع ذلك، فإزالة الشاشة وتنظيف الموصلات باستخدام ممحاة القلم الرصاص. قد ترغب أيضا في تنظيف الدبابيس على الجزء الطويل الضيق من الشاحن الذي تقوم بتوصيله ب Surface، وتأكد من أن الدبابيس جافة.
 
 لمعرفة المزيد من طرق استكشاف مشاكل البطارية وإصلاحها، يرجى التحقق من أن بطارية Surface لن يتم شحنها أو لن يتم تشغيل [Surface على البطارية.](https://support.microsoft.com/help/4023536/surface-surface-battery-wont-charge)
