@@ -1,5 +1,5 @@
 ---
-title: حذف مستخدم وأزاله التراخيص
+title: حذف مستخدم وإزالة التراخيص
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500008"
 - "7438"
-ms.openlocfilehash: 1867556cc85a0f7ed0c7cdb22061a63d559fbb4b
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 7437a9b1ffd483244222c7bda192e25e76efc8088f3bf92facfb27ee5bf0e503
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49564369"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948187"
 ---
-# <a name="delete-a-user-and-remove-licenses"></a>حذف مستخدم وأزاله التراخيص
+# <a name="delete-a-user-and-remove-licenses"></a>حذف مستخدم وإزالة التراخيص
 
-سيؤدي حذف مستخدم إلى إلغاء تعيين تراخيص المستخدمين ، مما يجعلها متوفرة للمستخدمين الآخرين. 
-1. في مركز الاداره ، انتقل إلى **المستخدمين** > المستخدمين النشطين.
-1. حدد المستخدم أو المستخدمين الذين تريد حذفهم ، ثم انقر فوق **حذف المستخدم**.
+كما أن حذف مستخدم لن يقوم أيضا بحذف تراخيص المستخدمين، مما يجعلها متوفرة للمستخدمين الآخرين. 
+1. في مركز الإدارة، انتقل إلى **المستخدمون** > المستخدمون النشطون.
+1. حدد المستخدم أو المستخدمين لحذفه وانقر **فوق حذف المستخدم**.
 
-للحصول علي مزيد من المعلومات ، راجع [حذف مستخدم من مؤسستك](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user). 
+لمزيد من المعلومات، راجع [حذف مستخدم من مؤسستك](https://docs.microsoft.com/microsoft-365/admin/add-users/delete-a-user). 

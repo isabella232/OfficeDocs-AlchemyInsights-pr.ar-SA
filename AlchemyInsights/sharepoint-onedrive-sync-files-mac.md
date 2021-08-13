@@ -1,5 +1,5 @@
 ---
-title: تثبيت ملفات OneDrive أو SharePoint واعدادها ومزامنتها علي جهاز Mac
+title: تثبيت ملفات OneDrive أو SharePoint على Mac وإعدادها ومزامنتها
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,21 +9,21 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 89b29dd9-edfe-49a4-84eb-5dc270d64526
-ms.openlocfilehash: 6ad860d51d2ce82c7500a663f83234a2961f08b2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9e40f43435a069e150bc95976f8c04a09fa60244cad268f283f326c1df363704
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47665525"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53957492"
 ---
-# <a name="install-setup-and-sync-onedrive-or-sharepoint-files-on-mac"></a>تثبيت ملفات OneDrive أو SharePoint واعدادها ومزامنتها علي جهاز Mac 
+# <a name="install-setup-and-sync-onedrive-or-sharepoint-files-on-mac"></a>تثبيت ملفات OneDrive أو SharePoint على Mac وإعدادها ومزامنتها 
 
-يمكنك تثبيت ملفات OneDrive أو SharePoint ومزامنتها علي جهاز Mac باستخدام الإرشادات من [مزامنة الملفات باستخدام عميل المزامنة من OneDrive علي MAC OS X](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-on-mac-os-x-d11b9f29-00bb-4172-be39-997da46f913f).
+تثبيت ملفات OneDrive أو SharePoint على جهاز Mac وإعدادها ومزامنتها مع الإرشادات من مزامنة الملفات مع عميل المزامنة من OneDrive [على Mac OS X](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-on-mac-os-x-d11b9f29-00bb-4172-be39-997da46f913f).
 
-إذا تم تثبيت تطبيق OneDrive واعداده علي جهاز Mac ، ولكن المستخدمون يواجهون مشاكل في المزامنة ، فراجع [إصلاح مشاكل المزامنة باستخدام OneDrive (Mac)](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756).
+إذا كان OneDrive تم تثبيته وإعداده على جهاز Mac، ولكن يواجه المستخدمون مشاكل في المزامنة، فشاهد إصلاح مشاكل المزامنة مع OneDrive [(Mac)](https://support.office.com/article/fix-onedrive-sync-problems-on-a-mac-af3012d7-13ec-4ac9-bbb1-ebcd2a0cd756).
 
 > [!NOTE]
-> لا تتوفر ميزه نقل المجلد المعروف في مزامنة OneDrive ل Windows ل Mac.
+> لا تتوفر ميزة نقل المجلدات المعروفة المزامنة من OneDrive Windows ل Mac.
 
 
 

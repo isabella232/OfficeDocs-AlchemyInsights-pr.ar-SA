@@ -1,5 +1,5 @@
 ---
-title: لا يمكن للمستخدم الخارجي الوصول إلى المحتوي
+title: يتعذر على المستخدم الخارجي الوصول إلى المحتوى
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -12,17 +12,17 @@ ms.assetid: ''
 ms.custom:
 - "9000191"
 - "2382"
-ms.openlocfilehash: 70ae38749bde631000d373a981de2bd1be50084b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6868d8238aa376cace020950490de22ea0fc26d05b8308bfc4d9e5f1fc992bf2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708598"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53977644"
 ---
-# <a name="external-user-cannot-access-sharepoint-or-onedrive-content"></a>لا يمكن للمستخدم الخارجي الوصول إلى محتوي SharePoint أو OneDrive
+# <a name="external-user-cannot-access-sharepoint-or-onedrive-content"></a>يتعذر على المستخدم الخارجي الوصول إلى SharePoint أو OneDrive المستخدم
 
-إذا تمت دعوه مستخدم خارجي وتعذر عليه الوصول إلى المحتوي ، فالرجاء محاولة زيارة الارتباطات أدناه:
+إذا تم دعوة مستخدم خارجي و تعذر عليه الوصول إلى المحتوى، فالرجاء محاولة زيارة الارتباطات أدناه:
 
-- [يتلقى المستخدمون الخارجيون أخطاء في الأذونات عند الوصول إلى موقع](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
-- [ظهور رسالة الخطا "لا تسمح لك نهج المؤسسة الخاصة بك بالمشاركة مع المستخدمين التاليين" عند مشاركه عنصر أو موقع في SharePoint Online أو OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
-- [خيارات المشاركة باللون الرمادي عند المشاركة من SharePoint Online أو OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)
+- [يتلقى المستخدمون الخارجيون أخطاء الأذونات عند الوصول إلى موقع](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
+- [الخطأ "لا تسمح لك سياسات مؤسستك بالمشاركة مع هؤلاء المستخدمين" عند مشاركة عنصر أو موقع في SharePoint عبر الإنترنت أو OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/organization-policies-do-not-allow-you-to-share-with-users-error)
+- [تكون خيارات المشاركة باللون الرمادي عند المشاركة من SharePoint Online أو OneDrive](https://docs.microsoft.com/sharepoint/support/administration/sharing-options-grayed-out-when-sharing-from-sharepoint-online-or-onedrive)

@@ -1,5 +1,5 @@
 ---
-title: حذف القناة الخاصة بالفرق
+title: حذف قناة Teams خاصة
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "3781"
 - "9001223"
-ms.openlocfilehash: 56021a335c64810700913cf08519b95f24a7a17d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 33bf8a5cdc3a8e8da78c9d02e11387a778a7acce483e4485f595d9e05b344433
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730902"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948258"
 ---
-# <a name="delete-a-teams-private-channel"></a>حذف القناة الخاصة بالفرق
+# <a name="delete-a-teams-private-channel"></a>حذف قناة Teams خاصة
 
-ان Microsoft علي علم بوجود مشكله في حذف القناة الخاصة بفرق العمل الخاصة إذا كان لديك نهج استبقاء SharePoint ممكنة لموقع SharePoint الأساسي. تعمل Microsoft علي تصحيح. في الوقت نفسه ، يمكنك استخدام الحلول البديلة التالية لحذف القناة الخاصة.
+تدرك Microsoft وجود مشكلة في حذف قناة Teams إذا تم تمكين SharePoint الاستبقاء للموقع SharePoint الأساسي. تعمل Microsoft على تصحيح المشكلة. في هذه الأثناء، يمكنك استخدام الحلول التالية لحذف القناة الخاصة.
 
-**استبعاد الفريق/مجموعه المواقع المشتركة من نهج الاستبقاء في Sharepoint.**
+**استبعاد مجموعة المواقع/الفريق من نهج استبقاء Sharepoint.**
 
-1. انتقل إلى مدخل أداره Office 365 ، وحدد **إظهار الكل** في جزء التنقل الأيمن.
-2. ضمن **مراكز الاداره**، انتقل إلى نهج تفادي فقدان بيانات **التوافق في & الأمان**  >  **Data Loss Prevention**  >  **Policy**.
-3. حدد اي نهج ينطبق علي مواقع Sharepoint ، وقم بتعديل النهج بحيث لا يتم تضمين موقع Sharepoint للفريق الذي يحتوي علي القناة الخاصة ضمن نهج الاستبقاء.
+1. انتقل إلى مدخل Office 365، وحدد **إظهار الكل** في جزء التنقل الأيسر.
+2. ضمن **مراكز الإدارة،** انتقل إلى **الأمان & نهج** منع فقدان البيانات  >    >  **للتوافق.**
+3. حدد أي نهج ينطبق على مواقع Sharepoint، ثم قم بتعديل النهج بحيث لا يتم تضمين موقع Sharepoint للفريق الذي يحتوي على القناة الخاصة ضمن نهج الاستبقاء.
 4. احفظ النهج.
-    قد يستغرق الأمر مده تصل إلى 24 ساعة لكي تدخل إعدادات النهج حيز التنفيذ.
-    بعد استبعاد الموقع ، يمكنك حذف القناة الخاصة.  
+    قد يستغرق الأمر ما يصل إلى 24 ساعة حتى يتم تطبيق إعدادات النهج.
+    بعد استبعاد الموقع، يمكنك حذف القناة الخاصة.  
     
-***قد*** تتمكن من حذف القناة الخاصة باستخدام فرق Microsoft علي جهازك الذي يعمل بنظام Android. 
+قد ***تتمكن*** من حذف القناة الخاصة باستخدام Microsoft Teams على جهاز Android. 
 
-للحصول علي معلومات SharePoint ذات الصلة ، راجع [تعذر حذف العناصر في SharePoint Online أو OneDrive For business](https://docs.microsoft.com/alchemyinsights/retention-policy-ediscovery-hold).
+للحصول على SharePoint ذات صلة، راجع تعذر حذف العناصر في SharePoint [Online أو OneDrive for Business](https://docs.microsoft.com/alchemyinsights/retention-policy-ediscovery-hold).
