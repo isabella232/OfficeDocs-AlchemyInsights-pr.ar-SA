@@ -1,5 +1,5 @@
 ---
-title: اعداد SharePoint Online أو OneDrive '
+title: SharePoint متصل أو OneDrive "إعداد"
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,17 +11,17 @@ ms.assetid: 8110efbf-917f-46ce-af1a-75a8a1d49510
 ms.custom:
 - "1161"
 - "5200019"
-ms.openlocfilehash: 94e9a69fbc8b3d8f8814a260d29b17c11f76b099
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 885be92b0a6f4156e61a2ca79be4cd9bb99bf56e18cea3aa17ef1c7d34246058
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770979"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54093585"
 ---
-# <a name="sharepoint-online-or-onedrive-setting-up"></a>اعداد SharePoint Online أو OneDrive "
+# <a name="sharepoint-online-or-onedrive-setting-up"></a>SharePoint متصل أو OneDrive "إعداد"
 
-عند أضافه مستخدم إلى مستاجر حالي ، قد يشاهد أيقونات SharePoint Online أو OneDrive for Business المدرجة بالشكل "اعداد" أو "ما زالنا نعمل علي الحصول علي اعداد الملفات" حتى تكتمل عمليه التوفير. اتبع [دليل استكشاف الأخطاء وإصلاحها](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) للحصول علي التعليمات.
+عند إضافة مستخدم إلى مستأجر موجود، قد يرى أيقونتي SharePoint Online أو OneDrive for Business مدرجتين ك "إعداد" أو "ما زلنا نعمل على إعداد الملفات" حتى تكتمل عملية توفير الملفات. اتبع دليل [استكشاف الأخطاء وإصلاحها](https://docs.microsoft.com/sharepoint/support/sites/troubleshooting-guide-for-sites-stopped-at-provisioning) هذا للحصول على المساعدة.
 
-إذا تم تمرير أكثر من 24 ساعة منذ المرة الاولي التي قمت فيها بمشاهده هذه المشكلة ، يرجى تسجيل حاله دعم.
+إذا مرت أكثر من 24 ساعة منذ أن رأيت هذه المشكلة للمرة الأولى، فيرجى تسجيل حالة دعم.
 
-نحن علي علم بان 24 ساعة قد تبدو مثل وقت طويل. في حالات كثيره ، نحن نعمل بالفعل علي حل. يرجى تقديم 24 ساعة علي الأقل لإكمال حل.
+ندرك أن 24 ساعة قد تبدو طويلة. في العديد من الحالات، نحن نعمل بالفعل على إيجاد حل. الرجاء منحنا 24 ساعة على الأقل لإكمال الحل.
