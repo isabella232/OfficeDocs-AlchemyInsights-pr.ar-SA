@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004349"
 - "7769"
-ms.openlocfilehash: 8af9546f219474e2382cd2436470385bf3ad31e8
-ms.sourcegitcommit: eb685eea3ab312d404d55bfd5594a5d6d68811d1
+ms.openlocfilehash: 98057b8e34cad19e2118f470dbeacdc8a7e78d9bc941e7f6565743201a541b56
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "50014707"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53958644"
 ---
 # <a name="restricting-access"></a>تقييد الوصول
 
-1. للحصول علي معلومات حول كيفيه تقييد الوصول إلى تطبيق ، راجع [كيفيه القيام بما يلي: تقييد تطبيق AZURE AD علي مجموعه من المستخدمين في مستاجر AZURE AD](https://docs.microsoft.com/azure/active-directory/develop/howto-restrict-your-app-to-a-set-of-users).
-1. تعرف علي كيفيه مراجعه أذونات التطبيقات وأدارتها. [اتخاذ الإجراءات علي التطبيقات الخاصة بالحسابات المميزة أو المشبوهة في Azure Active](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-application-permissions#control-access-to-an-application) directory يوفر إجراءات مختلفه يمكنك اتخاذها لتامين التطبيق وفقا للسيناريو. تنطبق هذه الإجراءات علي كل التطبيقات التي تمت اضافتها إلى مستاجر Azure Active Directory (Azure AD) عبر موافقه المستخدم أو المسؤول.
-1. [أداره تعيين المستخدم لتطبيق في Azure active](https://docs.microsoft.com/azure/active-directory/manage-apps/assign-user-or-group-access-portal#configure-an-application-to-require-user-assignment) directory يعرض لك كيفيه تعيين المستخدمين والمجموعات إلى تطبيقات المؤسسة في Azure Active Directory (Azure AD) ، سواء من داخل مدخل Azure أو باستخدام PowerShell. عند تعيين مستخدم إلى تطبيق ، يظهر التطبيق في تطبيقاتي الخاصة بالمستخدم للوصول بسهوله. إذا كان التطبيق يعرض الأدوار ، فيمكنك أيضا تعيين دور خاص إلى المستخدم.
-    - للحصول علي مزيد من المعلومات حول واجبات المستخدمين والمجموعات ، راجع [الوصول الشرطي: المستخدمون والمجموعات](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-users-groups).
+1. للحصول على معلومات حول كيفية تقييد الوصول إلى تطبيق، راجع كيفية: تقييد تطبيق Azure AD الخاص بك إلى مجموعة من المستخدمين في [مستأجر Azure AD](https://docs.microsoft.com/azure/active-directory/develop/howto-restrict-your-app-to-a-set-of-users).
+1. تعرف على كيفية مراجعة أذونات التطبيق وإدارتها. اتخاذ إجراء بشأن التطبيقات المزدانة أو المريبة في [Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-application-permissions#control-access-to-an-application) يوفر إجراءات مختلفة يمكنك اتخاذها لتأمين التطبيق وفقا السيناريو. تنطبق هذه الإجراءات على جميع التطبيقات التي تم إضافتها إلى مستأجر Azure Active Directory (Azure AD) عبر موافقة المستخدم أو المسؤول.
+1. إدارة تعيين المستخدم لتطبيق في [Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/assign-user-or-group-access-portal#configure-an-application-to-require-user-assignment) يوضح لك كيفية تعيين المستخدمين والمجموعات لتطبيقات المؤسسة في Azure Active Directory (Azure AD)، إما من داخل مدخل Azure أو باستخدام PowerShell. عند تعيين مستخدم إلى تطبيق، يظهر التطبيق في تطبيقاتي الخاصة للمستخدم للوصول إليها بسهولة. إذا عرض التطبيق الأدوار، يمكنك أيضا تعيين دور معين للمستخدم.
+    - لمزيد من المعلومات حول تعيين المستخدم والمجموعة، راجع [الوصول الشرطي: المستخدمون والمجموعات](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-users-groups).

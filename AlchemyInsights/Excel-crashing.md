@@ -1,5 +1,5 @@
 ---
-title: هل تعطل Excel؟
+title: Excel تعطل؟
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 ms.custom:
 - "157"
 - "2200003"
-ms.openlocfilehash: 9322ebfcb2fd05359c55068ce847e934e389519b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 52a6fff1cb37d5f02344cfa8135d5080ee47098ea87561111390acaf4201b30d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51804800"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918454"
 ---
-# <a name="frequent-excel-crashes"></a>هل تعطل Excel بشكل متكرر؟
+# <a name="frequent-excel-crashes"></a>هل Excel حالات الأعتدام؟
 
-قد تحدث الأعطال المتكررة في Excel بسبب خطأ في الوظائف الإضافية. يمكنك تعطيل أحد الوظائف الإضافية في Excel باتباع الإرشادات التالية:
+قد تحدث الأعطال Excel بسبب خطأ في الوظائف الإضافية. يمكنك تعطيل Excel الإضافية باتباع الإرشادات التالية:
   
 1. اختر **خيارات** \> **الملف**، \> **الوظائف الإضافية**.
 
@@ -29,12 +29,12 @@ ms.locfileid: "51804800"
 3. في Add-Ins المتوفر، قم بمسح خانة الاختيار بجانب الوظائف الإضافية التي تريد تعطيلها، ثم انقر فوق **موافق**.
 
 > [!NOTE]
-> إذا تعطل Excel أثناء التشغيل، فيرجى بدء التشغيل في الوضع الآمن بالضغط مع الضغط على Ctrl مع الضغط عليه أثناء بدء تشغيل البرنامج.
+> إذا Excel أثناء التشغيل، فيرجى تشغيلها في خزينة بالضغط مع الضغط على Ctrl مع الضغط عليه أثناء بدء تشغيل البرنامج.
   
 إذا كنت لا تزال تواجه مشاكل، ف الرجوع إلى المقالات التالية:
   
-- [أخطأت في "توقف عن العمل" عند بدء تشغيل تطبيقات Office 2016 أو 2013 على الكمبيوتر الشخصي](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa.aspx)
+- [أخطأت في "توقف عن العمل" عند بدء تشغيل Office 2016 أو 2013 على جهاز الكمبيوتر الشخصي](https://support.office.com/article/52bd7985-4e99-4a35-84c8-2d9b8301a2fa.aspx)
 
-- [كيفية استكشاف الأخطاء وإصلاحها عند تعطل Excel أو عدم الاستجابة له](https://support.microsoft.com/help/2758592/how-to-troubleshoot-crashing-and-not-responding-issues-with-excel)
+- [كيفية استكشاف مشاكل التعطل وإصلاحها مع عدم الاستجابة Excel](https://support.microsoft.com/help/2758592/how-to-troubleshoot-crashing-and-not-responding-issues-with-excel)
 
-- [Excel لا يستجيب أو يتوقف عن العمل أو يتجمد أو يتوقف عن العمل](https://support.office.com/article/37e7d3c9-9e84-40bf-a805-4ca6853a1ff4.aspx)
+- [Excel الاستجابة أو التوقف عن العمل أو تجميده أو التوقف عن العمل](https://support.office.com/article/37e7d3c9-9e84-40bf-a805-4ca6853a1ff4.aspx)

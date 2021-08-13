@@ -13,20 +13,20 @@ ms.custom:
 - "556"
 - "3500006"
 ms.assetid: 33641df2-fc29-493f-a6c6-2777d8b4ef11
-ms.openlocfilehash: 10e069f3fcd6338705a01ab9dd15574c81f88572
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: d6fd683253dbf6c34a3cea61df2dd3387d8642a409682019aa62ef3b619e84aa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51830200"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53913125"
 ---
 # <a name="switch-subscriptions-to-increase-mailbox-size"></a>تبديل الاشتراكات لزيادة حجم علبة البريد
 
 إذا كان حجم علبة البريد لديك بالفعل 100 غيغابايت، فلا توجد أي طريقة لزيادة حجمها.
   
-إذا كان حجم علبة البريد 50 غيغابايت، يمكنك زياته إلى 100 غيغابايت بالتبديل إلى [Office 365 Enterprise E3](https://products.office.com/business/office-365-enterprise-e3-business-software) أو [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). فيما يلي الخطوات اللازمة للتبديل إلى اشتراك آخر:
+إذا كان حجم علبة البريد 50 غيغابايت، يمكنك زياته إلى 100 غيغابايت بالتبديل إلى Office 365 Enterprise [E3](https://products.office.com/business/office-365-enterprise-e3-business-software) أو [Office 365 Enterprise E5](https://products.office.com/business/office-365-enterprise-e5-business-software). فيما يلي الخطوات اللازمة للتبديل إلى اشتراك آخر:
   
-1. في مركز إدارة Microsoft 365، انتقل إلى **صفحة فوترة** \> **[منتجاتك.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
+1. في مركز مسؤولي Microsoft 365، انتقل إلى **صفحة فوترة** \> **[منتجاتك.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 
 2. حدد الاشتراك الذي تريد ترقيته.
 

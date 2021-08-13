@@ -10,16 +10,16 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000079
-ms.openlocfilehash: 7ae1291cce01d56db59dfd2ae21ba6a31ef1d5c5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0c61eac61c8cb516e61f5d0c71713bd48b2c943a8a6b4cbcfddafb81016b4780
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664193"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53918852"
 ---
-# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>المشاكل المتعلقة بالبريد الكتروني غير الهام مطالب من LinkedIn
+# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>مشاكل تتعلق بالبريد الإلكتروني غير الهام الذي يدعي أنه من LinkedIn
 
-إذا كنت تتلقي البريد الكتروني غير الهام الذي يدعي انه من LinkedIn ، فيمكنك إنشاء قاعده لتصفيه رسائل البريد الكتروني هذه.
-راجع [استخدام قواعد علبه الوارد في Outlook.com](https://aka.ms/OutlookComInboxRules) للحصول علي مزيد من المعلومات.
+إذا كنت تتلقى بريدا إلكترونيا غير هام يدعي أنه من LinkedIn، يمكنك إنشاء قاعدة لتصفية رسائل البريد الإلكتروني هذه.
+راجع [استخدام قواعد علبة الوارد في Outlook.com](https://aka.ms/OutlookComInboxRules) للحصول على مزيد من المعلومات.
 
 
