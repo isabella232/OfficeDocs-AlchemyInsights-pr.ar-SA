@@ -1,5 +1,5 @@
 ---
-title: نهج حماية التطبيقات
+title: نهج حماية التطبيق
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,34 +13,34 @@ ms.collection: Adm_O365
 ms.custom:
 - "1073"
 - "6700006"
-ms.openlocfilehash: 929400dcf0ca18ce8f52cb11e5c907064449480e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ab6ad9c4bf95ee013c66384ec8449ceb1b56e8f3ea9e95c695dbbab0e9fa3fc3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47716880"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969958"
 ---
-# <a name="application-protection-policy"></a>نهج حماية التطبيقات
+# <a name="application-protection-policy"></a>نهج حماية التطبيق
 
-إذا كنت جديدا في نهج حماية التطبيقات (التطبيق) ، فراجع [نظره عامه حول نهج حماية التطبيق](https://docs.microsoft.com/intune/apps/app-protection-policy).
+إذا كنت جديدا على نهج حماية التطبيق (APP)، فتحقق من نظرة عامة حول نهج [حماية التطبيق](https://docs.microsoft.com/intune/apps/app-protection-policy).
 
-لبدء استخدام التطبيق ، راجع [كيفيه إنشاء نهج حماية التطبيق وتعيينها](https://docs.microsoft.com/intune/app-protection-policies).
+لبدء استخدام APP، [راجع كيفية إنشاء سياسات حماية التطبيق وتعيينها](https://docs.microsoft.com/intune/app-protection-policies).
 
 متطلبات نهج حماية التطبيق:
 
-- يملك المستخدم ترخيص Intune أو EMS.
-- ينتمي المستخدم إلى مجموعه مستهدفه بواسطة نهج حماية التطبيق.
-- يتم تسجيل دخول مستخدم واحد فقط للشركات إلى تطبيقات محمية علي جهاز.
-- قام التطبيق بتنفيذ [INTUNE SDK](https://docs.microsoft.com/intune/app-sdk-get-started). للحصول علي قائمه بالتطبيقات التي تدعم SDK ، راجع [التطبيقات المحمية في Microsoft Intune](https://docs.microsoft.com/intune/apps-supported-intune-apps).
+- لدى المستخدم ترخيص Intune أو EMS.
+- ينتمي المستخدم إلى مجموعة تستهدفها سياسات حماية التطبيقات.
+- يتم تسجيل دخول مستخدم شركة واحد فقط إلى التطبيقات المحمية على جهاز.
+- نفذ التطبيق [Intune SDK](https://docs.microsoft.com/intune/app-sdk-get-started). للحصول على قائمة التطبيقات التي تدعم SDK، راجع Microsoft Intune [المحمية.](https://docs.microsoft.com/intune/apps-supported-intune-apps)
 
-يتم تطبيق النهج بعد قيام المستخدم الذي يلبي المتطلبات أعلاه بتسجيل الدخول إلى تطبيق تم تمكينه في Intune SDK. تتمثل أسهل طريقه لتحديد ما إذا كان النهج مطبقا بالطلب ان يقوم المستخدم بتعيين رقم pin في النهج. 
+يتم تطبيق السياسات بعد أن يقوم المستخدم الذي يلبي المتطلبات أعلاه ب تسجيل الدخول إلى تطبيق Intune SDK الذي تم تمكينه. أسهل طريقة لتحديد ما إذا تم تطبيق نهج ما هي المطالبة بأن يقوم المستخدم بتعيين دبوس في النهج. 
 
 لمزيد من المعلومات، اطلع على:
 
-[الاسئله المتداولة حول التطبيق/الMAM](https://docs.microsoft.com/intune/apps/troubleshoot-mam)  
+[الأسئلة الشائعة حول استكشاف الأخطاء وإصلاحها في التطبيق/MAM](https://docs.microsoft.com/intune/apps/troubleshoot-mam)  
 
-[كيفيه التحقق من صحة اعداد نهج حماية التطبيق](https://docs.microsoft.com/intune/app-protection-policies-validate)
+[كيفية التحقق من صحة إعداد نهج حماية التطبيق](https://docs.microsoft.com/intune/app-protection-policies-validate)
 
 [فهم توقيت تسليم نهج حماية التطبيق](https://docs.microsoft.com/intune/app-protection-policy-delivery)  
 
-[كيفيه مراقبه نهج حماية التطبيق](https://docs.microsoft.com/intune/app-protection-policies-monitor)
+[كيفية مراقبة سياسات حماية التطبيق](https://docs.microsoft.com/intune/app-protection-policies-monitor)

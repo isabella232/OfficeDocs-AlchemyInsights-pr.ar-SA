@@ -1,5 +1,5 @@
 ---
-title: نظره عامه حول موصلات Microsoft Graph
+title: نظرة عامة على موصلات microsoft Graph Microsoft
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "6444"
 - "9003287"
-ms.openlocfilehash: 74a82751b7f97b0e195fb0c40ec44c3478af94dd
-ms.sourcegitcommit: c1e08a74f0e1e50d049847a431de0f5bf01df678
+ms.openlocfilehash: 67350ead0eb47c17110f2e8481bec2ec470b0d64c0b9a353bfbeeebb0a04d83a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "48194058"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924504"
 ---
-# <a name="overview-of-microsoft-graph-connectors"></a>نظره عامه حول موصلات Microsoft Graph
+# <a name="overview-of-microsoft-graph-connectors"></a>نظرة عامة على موصلات microsoft Graph Microsoft
 
-للتخطيط لموصلات Microsoft Graph ، راجع  [نظره عامه علي الموصلات](https://docs.microsoft.com/microsoftsearch/connectors-overview).
+التخطيط ل Microsoft Graph الموصلات راجع [نظرة عامة على الموصلات](https://docs.microsoft.com/microsoftsearch/connectors-overview).
 
-- اطلع علي [الموصلات بواسطة Microsoft](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft) أو  [الموصلات حسب الشركاء](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners).
-- [أداره الموصل للبحث في Microsoft](https://docs.microsoft.com/microsoftsearch/manage-connector).
+- راجع [الموصلات بواسطة Microsoft](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Microsoft) أو  [الموصلات بواسطة الشركاء](https://docs.microsoft.com/microsoftsearch/connectors-gallery#Partners).
+- [قم بإدارة الموصل البحث من Microsoft](https://docs.microsoft.com/microsoftsearch/manage-connector).
 
-للتخطيط للبحث عن Microsoft ، راجع  [نظره عامه حول Microsoft search](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search).
+التخطيط البحث من Microsoft، راجع [نظرة عامة على البحث من Microsoft](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search).

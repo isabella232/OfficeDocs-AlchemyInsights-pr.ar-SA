@@ -1,5 +1,5 @@
 ---
-title: نظره عامه حول Microsoft Search
+title: نظرة عامة البحث من Microsoft
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "6443"
 - "9003287"
-ms.openlocfilehash: 8171ec494197abf53a073cc87fce0898d23f9490
-ms.sourcegitcommit: c1e08a74f0e1e50d049847a431de0f5bf01df678
+ms.openlocfilehash: 00eb6c5fdabc56a7d81b27c48bdc1f1e562cbac9bfb6046b9ea7c2c0f4920800
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/16/2020
-ms.locfileid: "48194057"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924505"
 ---
-# <a name="overview-of-microsoft-search"></a>نظره عامه حول Microsoft Search
+# <a name="overview-of-microsoft-search"></a>نظرة عامة البحث من Microsoft
 
-للتخطيط للبحث عن Microsoft ، راجع [نظره عامه حول Microsoft search](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search).
+التخطيط ل البحث من Microsoft راجع [نظرة عامة على البحث من Microsoft](https://docs.microsoft.com/microsoftsearch/overview-microsoft-search).
 
-- [تعيين Microsoft Search](https://docs.microsoft.com/microsoftsearch/setup-microsoft-search)
-- اكتشف [الاسئله المتداولة](https://docs.microsoft.com/microsoftsearch/faqs)حول Microsoft Search.
+- [تعيين البحث من Microsoft](https://docs.microsoft.com/microsoftsearch/setup-microsoft-search)
+- اكتشف البحث من Microsoft الأسئلة [التي يتم طرحها بشكل متكرر](https://docs.microsoft.com/microsoftsearch/faqs).

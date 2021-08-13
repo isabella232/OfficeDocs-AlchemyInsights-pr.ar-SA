@@ -1,5 +1,5 @@
 ---
-title: تغيير معلومات الحساب في Outlook علي الويب
+title: تغيير معلومات حسابك في Outlook على ويب
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,20 +10,20 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 508b47d255612bf286992726ad0a6fe0c9477474
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7e65d8ff1d86f0500821f35c74404a5dabee5eea2c7819978c6742355ba13000
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728778"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53924468"
 ---
-# <a name="change-account-information-in-outlook-on-the-web"></a>تغيير معلومات الحساب في Outlook علي الويب
+# <a name="change-account-information-in-outlook-on-the-web"></a>تغيير معلومات الحساب في Outlook على ويب
 
-1. في اعلي الصفحة ، حدد الاسم أو صوره ملف التعريف.
+1. في أعلى الصفحة، حدد اسمك أو صورة ملف التعريف.
 1. حدد **حسابي**.
 1. حدد **المعلومات الشخصية**.
-1. تغيير المعلومات المتعلقة بنفسك أو اضافتها.
+1. يمكنك تغيير معلومات عنك أو إضافتها.
 
-*ملاحظه:* قد يتم توفير بعض التفاصيل ، مثل الاسم والمسمي الوظيفي ، بواسطة قسم تكنولوجيا المعلومات أو الموارد البشرية. إذا أردت تحديث تلك التفاصيل ، فاتصل بها أو المسؤول لديك.
+*ملاحظة:* قد يتم توفير بعض التفاصيل، مثل اسمك والملقب الوظيفي، بواسطة قسم قسم المعلومات أو الموارد البشرية. إذا كنت تريد تحديث هذه التفاصيل، فاتصل بهم أو بالمسؤول.
 
-لمزيد من المعلومات ، راجع [تغيير الصورة ومعلومات الحساب في Outlook علي الويب](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).
+لمزيد من المعلومات، راجع [تغيير الصورة ومعلومات الحساب في Outlook على ويب](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).
