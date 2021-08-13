@@ -1,5 +1,5 @@
 ---
-title: توصيل موقع SharePoint إلى مجموعة
+title: الاتصال موقع SharePoint إلى مجموعة
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -14,21 +14,21 @@ ms.custom:
 - "5747"
 - "5200004"
 - "5767"
-ms.openlocfilehash: 9845a0009b62157c4735c9864441a1a597c25108
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 738d0f57b9b9dac5ed343037579a23d6d217f58b07da9730eb0bd08bc78c25e6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817051"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915394"
 ---
-# <a name="connect-a-sharepoint-site-to-a-group"></a>توصيل موقع SharePoint إلى مجموعة
+# <a name="connect-a-sharepoint-site-to-a-group"></a>الاتصال موقع SharePoint إلى مجموعة
 
-استخدم معالج اتصال المجموعة لتوصيل موقع SharePoint ب Microsoft 365 Group.
+استخدم معالج اتصال المجموعة لتوصيل SharePoint موقع ويب Microsoft 365 المجموعة.
 
-1. من الموقع الذي تريد الاتصال به إلى مجموعة، حدد  **إعدادات (أيقونة الترس)**.
-2. حدد  **الاتصال ب Microsoft 365 Group الجديدة**.
+1. من الموقع الذي تريد الاتصال به إلى مجموعة، حدد الإعدادات **(أيقونة الترس)**.
+2. حدد **الاتصال إلى مجموعة Microsoft 365 الجديدة.**
 3. اتبع المعالج لإكمال الاتصال.
 
-**ملاحظة:**  إذا لم يكن الاتصال ب Microsoft 365 Group الجديد متوفرا، فإن الموقع لن يدعم اتصال المجموعة.
+**ملاحظة:**  إذا الاتصال إلى Microsoft 365 جديد، لن يدعم الموقع اتصال المجموعة.
 
-لمزيد من المعلومات، راجع  [الاتصال مجموعة Office 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
+لمزيد من المعلومات، راجع الاتصال [إلى مجموعة Office 365 .](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)

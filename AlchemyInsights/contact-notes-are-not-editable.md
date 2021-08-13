@@ -1,5 +1,5 @@
 ---
-title: ملاحظات جهة الاتصال غير قابله للتحرير
+title: ملاحظات جهات الاتصال غير قابلة للتحرير
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1732"
 - "9000185"
-ms.openlocfilehash: ea4e9f4f41629f4207be6ff56f3ff8f7a4989cbc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f48e158e8ddf682df8d8748b929b3d4d687d5b183254c64116834210a238020d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680923"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53915322"
 ---
-# <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a>لا يمكن تحرير حقل "الملاحظات" لجهة اتصال في Outlook
+# <a name="cant-edit-the-notes-field-for-a-contact-in-outlook"></a>لا يمكن تحرير حقل الملاحظات الخاص جهة اتصال في Outlook
 
-هذه مشكله معروفه. نحن نعمل علي إصلاحه ويمكنك الاطلاع علي الحالة الاخيره في [تعذر تحرير حقل الملاحظات لجهة اتصال](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe).
+هذه مشكلة معروفة. نحن نعمل على إصلاح هذه المشكلة، كما يمكنك الاطلاع على الحالة الأخيرة في لا يمكن تحرير حقل [الملاحظات الخاص جهة اتصال.](https://support.office.com/article/fb8394ce-04ce-48b5-bae4-be46f77f10fe)
 
-**الحل البديل**: إذا كنت تستخدم حساب Microsoft 365 أو Outlook.com ، فيمكنك تحرير جات الاتصال باستخدام الويب. إذا كنت تستخدم حساب IMAP أو POP ، فلا يتوفر اي حل بديل في الوقت الحالي.
+**الحل البديل:** إذا كنت تستخدم حساب Microsoft 365 أو حساب Outlook.com، يمكنك تحرير جهات الاتصال باستخدام الويب. إذا كنت تستخدم حساب IMAP أو POP، فلا يتوفر أي حل بديل في الوقت نفسه.

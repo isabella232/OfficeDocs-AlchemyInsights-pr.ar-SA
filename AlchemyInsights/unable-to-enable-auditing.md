@@ -1,5 +1,5 @@
 ---
-title: 2419-لا يمكن-لتمكين-التدقيق
+title: 2419-unable-to-enable-auditing
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,41 +12,41 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 2419
 ms.assetid: ''
-ms.openlocfilehash: 81fd8e33feb2f2b10b04cc7cdc746a8603aa366b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0566a8d002b1bd9e38f3184824193394e49d56494d347338f96cfcdfdb758f4c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47767586"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54007777"
 ---
 # <a name="unable-to-enable-unified-auditing"></a>تعذر تمكين التدقيق الموحد
 
-عند محاولة تمكين التدقيق الموحد لمؤسسك ، قد تتلقي رسالة خطا مماثله لما يلي:
+عند محاولة تمكين التدقيق الموحد لمنظمتك، قد تتلقى خطأ مماثلا لما يلي:
 
 ```
 Request: /api/adminauditlogconfig/EnableUnifiedAuditLogIngestion Status code: 500 Exception message: {"Message":"The command you tried to run isn't currently allowed in your organization. To run this command, you first need to run the command: Enable-OrganizationCustomization."
 ```
 
-لحل هذه المشكلة ، اتبع الخطوات التالية:
+لحل هذه المشكلة، اتبع الخطوات التالية:
 
-1. [الاتصال ب Exchange Online Powershell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell).
+1. [الاتصال Exchange Online Powershell.](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell)
 
-2. شغل أمر cmdlet التالي:
+2. تشغيل cmdlet التالي:
 
    ```
    Enable-OrganizationCustomization
    ```
 
-3. انتظر حتى 60 دقيقه لكي يدخل الاعداد السابق حيز التنفيذ.
+3. انتظر 60 دقيقة حتى يتم تطبيق الإعداد السابق.
 
-4. قم بتشغيل الأمر التالي في Exchange Online PowerShell:
+4. تشغيل الأمر التالي في Exchange Online PowerShell:
 
    ```
    Set-AdminAuditLogConfig -UnifiedAuditLogIngestionEnabled $true
    ```
 
-للحصول علي مزيد من المعلومات ، راجع المقالات التالية:
+لمزيد من المعلومات، راجع المقالات التالية:
 
-- [الاتصال ب Exchange Online PowerShell باستخدام مصادقه متعددة العوامل](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell)
+- [الاتصال إلى Exchange Online PowerShell باستخدام المصادقة متعددة العوامل](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/mfa-connect-to-exchange-online-powershell)
 
--  [تشغيل ميزه البحث في سجل التدقيق أو إيقاف تشغيلها](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off)
+-  [تشغيل البحث في سجل التدقيق أو إيقاف تشغيله](https://docs.microsoft.com/microsoft-365/compliance/turn-audit-log-search-on-or-off)
