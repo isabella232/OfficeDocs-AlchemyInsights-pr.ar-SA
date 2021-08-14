@@ -1,5 +1,5 @@
 ---
-title: نهج أذونات التطبيق
+title: سياسات أذونات التطبيق
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000730"
 - "7273"
-ms.openlocfilehash: 4376663b71be9fdb1d9823f51814f6b835fdce31
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 6c275c4916152d49827a8e5aab3e65496f0ad31b254b38e82fdd1ad29554f7d2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564357"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951660"
 ---
-# <a name="app-permission-policies"></a>نهج أذونات التطبيق
+# <a name="app-permission-policies"></a>سياسات أذونات التطبيق
 
-باستخدام [نهج أذونات التطبيق](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)، يمكنك القيام بما يلي:
-- بصفتك مسؤولا ، يمكنك أداره نهج اعداد التطبيق في [مركز أداره فرق Microsoft](https://admin.teams.microsoft.com/policies/app-permission).
-- التحكم في التطبيقات المتوفرة لمستخدمي فرق Microsoft في مؤسستك باستخدام النهج العام أو [إنشاء نهج مخصصه وتعيينها](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies#create-a-custom-app-permission-policy) لتخصيص وصول المستخدمين إلى التطبيقات والتحكم فيه. 
+باستخدام [سياسات أذونات التطبيق،](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)يمكنك القيام بما يلي:
+- ب أنت مسؤول، يمكنك إدارة سياسات إعداد التطبيق في [Microsoft Teams إدارة .](https://admin.teams.microsoft.com/policies/app-permission)
+- يمكنك التحكم في التطبيقات المتوفرة Microsoft Teams المستخدمين في مؤسستك [](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies#create-a-custom-app-permission-policy) باستخدام النهج العام أو إنشاء نهج مخصصة وتعيينها لتخصيص وصول المستخدمين إلى التطبيقات والتحكم فيه. 
 > [!NOTE]
-> تتجاوز إعدادات التطبيقات علي مستوي المؤسسة النهج العام وأي نهج مخصصه تقوم بإنشاءها وتعيينها للمستخدمين.
-- يمكنك استخدام [نهج اعداد التطبيق](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies) لتخصيص فرق Microsoft لتمييز التطبيقات الأكثر اهميه للمستخدمين. 
+> تتجاوز إعدادات التطبيق على مستوى المؤسسة النهج العام وأي نهج مخصصة تقوم بإنشاءها وتعيينها للمستخدمين.
+- يمكنك استخدام [سياسات إعداد](https://docs.microsoft.com/microsoftteams/teams-app-setup-policies) التطبيق لتخصيص Microsoft Teams لتمييط الضوء على التطبيقات الأكثر أهمية للمستخدمين. 
 
 
-للحصول علي مزيد من المعلومات حول إنشاء نهج التطبيق للمستاجر ، راجع:
-- [أداره تطبيقاتك في مركز أداره فرق Microsoft](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
-- [أداره نهج أذونات التطبيق في فرق Microsoft](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
-- [أداره نهج التطبيقات المخصصة وإعداداتها في فرق Microsoft](https://docs.microsoft.com/MicrosoftTeams/teams-custom-app-policies-and-settings)
+لمزيد من المعلومات حول إنشاء سياسات التطبيق للمستأجر، راجع:
+- [إدارة تطبيقاتك في Microsoft Teams إدارة](https://docs.microsoft.com/MicrosoftTeams/manage-apps)
+- [إدارة سياسات أذونات التطبيق في Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)
+- [إدارة سياسات التطبيق وإعداداته المخصصة في Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/teams-custom-app-policies-and-settings)

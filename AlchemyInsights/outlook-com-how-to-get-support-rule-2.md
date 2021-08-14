@@ -1,5 +1,5 @@
 ---
-title: Outlook.com كيفيه الحصول علي الدعم
+title: Outlook.com كيفية الحصول على الدعم
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,17 +12,17 @@ localization_priority: Normal
 ms.custom:
 - "1326"
 - "8000080"
-ms.openlocfilehash: fe8a3956dbeff811935e976a8d75274f5e736482
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: 1d42e026814499c28396913906346b70c6b7299176dea67e0cd420df73a0cda4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452107"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096033"
 ---
-# <a name="how-to-get-support-in-outlookcom"></a>كيفيه الحصول علي الدعم في Outlook.com
+# <a name="how-to-get-support-in-outlookcom"></a>كيفية الحصول على الدعم في Outlook.com
 
-عذرا ، لا يقدم Outlook.com دعم الهاتف ، ولكننا لديك فرق مخصصه يمكنها مساعدتك.
-ادخل سؤالك أو اشرح مشكلتك في المربع **تعليمات** أعلاه ، ثم حدد **الحصول علي المساعدة**.
+عذرا، Outlook.com لا يقدم الدعم عبر الهاتف، ولكن لدينا فرق مخصصة يمكنها مساعدتك.
+أدخل سؤالك أو وصف المشكلة في **المربع تعليمات** أعلاه، ثم حدد الحصول **على المساعدة**.
 
-[الحصول علي تعليمات حول Outlook.com](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+[الحصول على تعليمات حول Outlook.com](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
 

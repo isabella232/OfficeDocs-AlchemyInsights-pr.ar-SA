@@ -12,19 +12,19 @@ ms.custom:
 - "9000289"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: c678710c49366d77f7ef8ea3f0b0c02dc252529d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ecd2b35824b6ef5c3655ff88a9c93ab2abe03084c891b10a40c5dacd02818d57
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47798219"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095889"
 ---
-# <a name="how-to-deal-with-a-phishing-email"></a>كيفيه التعامل مع البريد الكتروني في التصيد الاحتيالي
+# <a name="how-to-deal-with-a-phishing-email"></a>كيفية التعامل مع رسالة بريد إلكتروني تصيد احتيالي
 
-ان خدعه التصيد الاحتيالي عبارة عن بريد الكتروني يبدو أمرا شرعيا ، ولكنه في الواقع هناك محاولة لسرقه معلوماتك الشخصية أو المال. يمكن ان يستخدم سكاميرس أيضا أسلوبا يسمي الانتحال لجعله يظهر كما لو كنت قد تلقيت رسالة بريد الكتروني منك.
+رسالة التصيد الاحتيالي الخادعة هي رسالة بريد إلكتروني تبدو شرعية ولكنها في الواقع محاولة لسرقة معلوماتك الشخصية أو أموالك. يمكن للمخادعين أيضا استخدام تقنية تسمى انتحال لكي تظهر كما لو كنت قد تلقيت رسالة بريد إلكتروني من نفسك.
 
-إذا حصلت علي رسالة بريد الكتروني تشبه التصيد الاحتيالي ، فيمكنك الإبلاغ عنه عن طريق تحديد الرسالة ثم تحديد التصيد **غير الهام**  >  **Phishing**.
+إذا حصلت على رسالة بريد إلكتروني تبدو كرسالة تصيد احتيالي خادعة، يمكنك الإبلاغ عن ذلك عن طريق تحديد الرسالة ثم تحديد التصيد الاحتيالي **غير**  >  **الهام**.
 
-*ملاحظه:* عند وضع علامة علي رسالة كتصيد احتيالي ، فانه يعلم المرسل فقط.لا يقوم هذا المرسل بحظر إرسال رسائل اليك في المستقبل. لحظر المرسل ، يجب أضافه المرسل إلى قائمه المرسلين المحظورين. لمزيد من المعلومات ، راجع [حظر المرسلين أو إلغاء حظر المرسلين في Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+*ملاحظة:* عند وضع علامة تصيد احتيالي على رسالة، يتم الإبلاغ عن المرسل فقط. ولا يمنع هذا المرسل من إرسال الرسائل إليك في المستقبل. لحظر المرسل، يجب إضافة المرسل إلى قائمة المرسلين المحظورين. لمزيد من المعلومات، راجع حظر المرسلين أو إلغاء [حظرهم في Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
 
-تعرف علي كيفيه [التعامل مع أساءه الاستخدام أو التصيد الاحتيالي أو الانتحال في Outlook.com](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy) [وأمان Outlook.com المتقدمة لمشتركي Microsoft 365](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy).
+تعرف على كيفية التعامل مع سوء الاستعمال أو التصيد الاحتيالي أو الخادع في [Outlook.com](https://support.office.com/article/0d882ea5-eedc-4bed-aebc-079ffa1105a3?wt.mc_id=Office_Outlook_com_Alchemy) والأمان المتقدم [Outlook.com](https://support.office.com/article/882d2243-eab9-4545-a58a-b36fee4a46e2?wt.mc_id=Office_Outlook_com_Alchemy)لمشتركي Microsoft 365 .

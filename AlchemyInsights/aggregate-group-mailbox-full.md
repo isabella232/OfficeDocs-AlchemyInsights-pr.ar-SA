@@ -1,5 +1,5 @@
 ---
-title: أجريجاتيجروبمايلبوكس NDR التي تم تلقيها للبريد الكتروني المرسل إلى مجموعه Microsoft 365
+title: AggregateGroupMailbox full NDR received for email sent to Microsoft 365 group
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004286"
 - "7656"
-ms.openlocfilehash: 9de09ab4cbd2f09648305b11da6273ed990907cf
-ms.sourcegitcommit: 2ffdf6096de5608b117c6677d3cd7dd4c23ea024
+ms.openlocfilehash: 6655bbe9482400eeb3cfdf0b91bdc595e3d98fbff0f6d9244db8bb4dd958305e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49721745"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951840"
 ---
-# <a name="aggregategroupmailbox-full-ndr-received-for-email-sent-to-microsoft-365-group"></a>أجريجاتيجروبمايلبوكس NDR التي تم تلقيها للبريد الكتروني المرسل إلى مجموعه Microsoft 365
+# <a name="aggregategroupmailbox-full-ndr-received-for-email-sent-to-microsoft-365-group"></a>AggregateGroupMailbox full NDR received for email sent to Microsoft 365 group
 
-استخدم الأمر التالي أكسو Shell لإنشاء قاعده نقل Exchange لإسقاط رسائل البريد الكتروني التي تم إرسالها إلى علبه بريد المجموعة المجمعة بدون مطالبه:
+استخدم الأمر EXO Shell التالي لإنشاء قاعدة نقل Exchange لإسقاط رسائل البريد الإلكتروني المرسلة إلى علبة بريد المجموعة التجميعية بصمت:
 
 `New-TransportRule -SentTo @("AggregateGroupMailbox.A.201708181918@contoso.onmicrosoft.com") -DeleteMessage:$true -Name 'Agg1' -StopRuleProcessing:$false -Mode 'Enforce' -Comments '' -RuleErrorAction 'Ignore' -SenderAddressLocation 'Header'`
 
 > [!NOTE]
-> استبدل عنوان SMTP في **سينتو** بعنوان smtp الخاص بعلبه بريد المجموعة التجميعية في نطاق المستاجر. يمكنك الحصول علي عنوان SMTP لعلبه بريد المجموعة التجميعية من NDR التي تم تلقيها.
+> استبدل عنوان SMTP في **-SentTo** وعنوان SMTP لعلبة بريد المجموعة التجميعية في المستأجر. يمكنك الحصول على عنوان SMTP لعلبة بريد المجموعة التجميعية من تقارير NDR المستلمة.
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: المشاكل المتعلقة بالبريد الكتروني غير الهام مطالب من LinkedIn
+title: مشاكل تتعلق بالبريد الإلكتروني غير الهام الذي يدعي أنه من LinkedIn
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1276"
 - "8000079"
-ms.openlocfilehash: eab7f1434160b8b2b3a754235b4ea58870dc0003
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2cd25e36817a9c5193a483a34d9aea1f209e8e7971c180772b32a9552ee67222
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47799443"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095961"
 ---
-# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>المشاكل المتعلقة بالبريد الكتروني غير الهام مطالب من LinkedIn
+# <a name="issues-with-junk-email-claiming-to-be-from-linkedin"></a>مشاكل تتعلق بالبريد الإلكتروني غير الهام الذي يدعي أنه من LinkedIn
 
-نحن علي علم بان بعض المستخدمين يتلقون بريدا الكترونيا غير هام لأنه من LinkedIn.
+نحن على علم بأن بعض المستخدمين يتلقون بريدا إلكترونيا غير هام يدعي أنه من LinkedIn.
 
-نوصي باستخدام قاعده علبه الوارد لتصفيه رسائل البريد الكتروني هذه.
+نوصي باستخدام قاعدة علبة الوارد لتصفية رسائل البريد الإلكتروني هذه.
 
-للحصول علي مزيد من المعلومات ، أقرا كيفيه [استخدام قواعد علبه الوارد في Outlook.com](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy).
+لمزيد من المعلومات، اقرأ كيفية استخدام قواعد علبة [الوارد في Outlook.com](https://support.office.com/article/4b094371-a5d7-49bd-8b1b-4e4896a7cc5d?wt.mc_id=Office_Outlook_com_Alchemy).

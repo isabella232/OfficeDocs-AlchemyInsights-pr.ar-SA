@@ -1,5 +1,5 @@
 ---
-title: مشاكل الموافقة علي المسؤول
+title: مشاكل موافقة المسؤول
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004354"
 - "7786"
-ms.openlocfilehash: 6154b4b9cce51be3271cb25132f409319d8da14b
-ms.sourcegitcommit: 113b802081101de70810fc73938ea92f7518d8c6
+ms.openlocfilehash: 08d3bfa84fd5ab31d7165090c392866d863898545ade7631e820a100eef89dea
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49900748"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53952560"
 ---
-# <a name="admin-consent-issues"></a>مشاكل الموافقة علي المسؤول
+# <a name="admin-consent-issues"></a>مشاكل موافقة المسؤول
 
-1. تمكين [سير عمل الموافقة علي المسؤول](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-admin-consent-workflow) للسماح للمستخدمين بطلب موافقه المسؤول مباشره من شاشه الموافقة.
+1. تمكين سير [عمل موافقة المسؤول](https://docs.microsoft.com/azure/active-directory/manage-apps/configure-admin-consent-workflow) للسماح للمستخدمين بطلب موافقة المسؤول مباشرة من شاشة الموافقة.
 
-1. إذا رايت أنت أو المستخدمون الذين لديهم أخطاء غير متوقعه اثناء عمليه الموافقة ، فراجع هذه المقالة لمعرفه الخطوات المتعلقة باستكشاف الأخطاء وإصلاحها: [خطا غير متوقع عند اجراء موافقه علي تطبيق](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error).
+1. إذا رأيت أنت أو مستخدمو التطبيق أخطاء غير متوقعة أثناء عملية الموافقة، فشاهد هذه المقالة للحصول على خطوات استكشاف الأخطاء وإصلاحها: خطأ غير متوقع عند تنفيذ الموافقة [على أحد التطبيقات](https://docs.microsoft.com/azure/active-directory/manage-apps/application-sign-in-unexpected-user-consent-error).
 
-1. تعرف علي [المزيد حول موافقه المسؤول علي النظام الأساسي للهوية من Microsoft](https://docs.microsoft.com/azure/active-directory/develop/v2-admin-consent)، والطريقة التي تعمل بها [مطالبه الموافقة](https://docs.microsoft.com/azure/active-directory/develop/v2-admin-consent) ، وكيفيه [تقييم طلب الموافقة علي المسؤول علي مستوي المستاجر](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent).
+1. تعرف على المزيد حول موافقة [المسؤول](https://docs.microsoft.com/azure/active-directory/develop/v2-admin-consent)على [](https://docs.microsoft.com/azure/active-directory/develop/v2-admin-consent) النظام الأساسي للهويات في Microsoft وكيفية عمل طلب الموافقة وكيفية تقييم طلب موافقة المسؤول على نطاق [المستأجر.](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent)
 
-1. تتبع التطبيقات التي تتكامل مع النظام الأساسي لهويه Microsoft نموذج تخويل يمنح المستخدمين ويتحكم بالتحكم في كيفيه الوصول إلى البيانات. تم تحديث تطبيق نموذج التخويل علي نقطه نهاية النظام الأساسي لهويه Microsoft ، وهو يغير كيفيه تفاعل التطبيق مع النظام الأساسي للهوية Microsoft. اطلع علي [الأذونات والموافقة في نقطه نهاية النظام الأساسي لهويه Microsoft](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent) للحصول علي نظره عامه حول نموذج التخويل هذا ، بما في ذلك النطاقات والأذونات والموافقة.
+1. تتبع التطبيقات التي تتكامل مع النظام الأساسي للهويات في Microsoft نموذج تخويل يمنح المستخدمين والمسؤولين إمكانية التحكم في كيفية الوصول إلى البيانات. تم تحديث تنفيذ نموذج التفويض على النظام الأساسي للهويات في Microsoft النهاية، وهو يغير الطريقة التي يجب أن يتفاعل بها التطبيق مع النظام الأساسي للهويات في Microsoft. راجع [الأذونات والموافقة في نقطة](https://docs.microsoft.com/azure/active-directory/manage-apps/manage-consent-requests#evaluating-a-request-for-tenant-wide-admin-consent) نهاية النظام الأساسي للهويات في Microsoft للحصول على نظرة عامة حول نموذج التفويض هذا، بما في ذلك النطاقات والأذونات والموافقة.

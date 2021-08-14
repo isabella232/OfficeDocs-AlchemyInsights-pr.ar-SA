@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002266"
 - "4541"
-ms.openlocfilehash: 5f50fc1d38618017bca61b4e9290d9893983534e
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e3a0e5caccba87ddd8e4c786b5c8918494e709b6f4d5d60e7c31215a60b1d5d6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51821686"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53951768"
 ---
 # <a name="aip-headers-and-footers-not-displaying-as-expected"></a>AIP: لا يتم عرض رؤوس وتاشيارات كما هو متوقع
 
 إذا كنت تواجه مشاكل في عدم عرض العلامات المرئية كما هو متوقع، فاعرض الإرشادات التالية:
 
 1. تأكد من مراجعة عند تطبيق [العلامات المرئية](https://docs.microsoft.com/azure/information-protection/configure-policy-markings#when-visual-markings-are-applied).
-2. لتسمية Office، راجع عندما يطبق [Office 365](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps#when-office-apps-apply-content-marking-and-encryption)علامة على المحتوى والتشفير .
+2. للحصول Office، راجع عندما Office 365 تطبيق علامة [على المحتوى والتشفير](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps#when-office-apps-apply-content-marking-and-encryption).
 3. إذا كنت تريد إزالة رؤوس/توازيلات موجودة، فراجع إزالة رؤوس وتسميات من [حلول التسميات الأخرى.](https://docs.microsoft.com/azure/information-protection/rms-client/client-admin-guide-customizations#remove-headers-and-footers-from-other-labeling-solutions)
 
 إذا كنت لا تزال تواجه المشكلة، فجمع سجلات عميل Azure Information Protection وأرفق السجلات التي تم تصديرها بهذه التذكرة.
 
 **تصدير سجلات Azure Information Protection**
 
-1. افتح مستند Office أو أنشئ رسالة بريد إلكتروني جديدة في Outlook.
+1. افتح مستندا Office أو أنشئ بريدا إلكترونيا جديدا في Outlook.
 2. انقر **فوق حماية/حساسية**  >  **تعليمات وملاحظات**.
 3. انقر **فوق تصدير السجلات.**
 4. احفظ السجلات إلى اختيارك للموقع، وأرفقها بطلب الخدمة هذا.
