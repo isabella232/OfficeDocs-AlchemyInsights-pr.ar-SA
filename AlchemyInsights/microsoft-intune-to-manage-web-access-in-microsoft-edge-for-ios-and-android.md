@@ -14,24 +14,24 @@ ms.custom:
 - "6895"
 - "9006502"
 - "11144"
-ms.openlocfilehash: a6c6f9563933b7cf6b71c4758c29ffd94617c4be
-ms.sourcegitcommit: 7a406a3d4680662e81f0056454f7e25fb2f52504
+ms.openlocfilehash: 798b28fa20291c7ef5e94d555b9ae72c3b193d343b892affd22b6a23e780d523
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "52989636"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53975844"
 ---
 # <a name="use-microsoft-intune-to-manage-web-access-in-microsoft-edge-for-ios-and-android"></a>استخدام Microsoft Intune لإدارة الوصول إلى الويب في Microsoft Edge لنظامي التشغيل iOS وAndroid
 
-يتيح Microsoft Edge لنظامي التشغيل iOS وAndroid للمستخدم استعراض الويب من ملفات تعريف متعددة منفصلة تماما.
+Microsoft Edge ل iOS وAndroid للمستخدم استعراض الويب من ملفات تعريف متعددة منفصلة تماما.
 
-تتوفر إمكانات الحماية الأكبر لبيانات Microsoft 365 عند الاشتراك في مجموعة Enterprise Mobility + Security، التي تتضمن ميزات Microsoft Intune و Azure Active Directory Premium، مثل الوصول الشرطي. على الأقل، سترغب في نشر نهج وصول شرطي يسمح (1) للمستخدمين بالاتصال من الأجهزة المحمولة ب Microsoft Edge لنظامي التشغيل iOS وAndroid، وذلك (2) بتنفيذ نهج حماية تطبيق Microsoft Intune الذي يوفر تجربة استعراض محمية.
+تتوفر إمكانيات الحماية الأوسع لبيانات Microsoft 365 عند الاشتراك في مجموعة Enterprise Mobility + Security، التي تتضمن ميزات Microsoft Intune و Azure Active Directory Premium، مثل الوصول الشرطي. على الأقل، سترغب في نشر نهج وصول شرطي يسمح (1) للمستخدمين بالاتصال من الأجهزة المحمولة ب Microsoft Edge لنظامي التشغيل iOS وAndroid، وأن (2) ينفذ نهج حماية تطبيق Microsoft Intune الذي يوفر تجربة استعراض محمية.
 
 لفهم كيفية استخدام الوصول الشرطي ونهجه، راجع:
 
 [تطبيق سياسات الوصول الشرطي في Azure Active Directory](https://go.microsoft.com/fwlink/?linkid=2132481)
 
-[إنشاء سياسات حماية تطبيق Microsoft Intune](https://go.microsoft.com/fwlink/?linkid=2132651)
+[إنشاء Microsoft Intune حماية التطبيق](https://go.microsoft.com/fwlink/?linkid=2132651)
 
 [استخدام تسجيل الدخول المفرد لتطبيقات الويب المتصلة ب Azure Active Directory في المستعرضات المحمية ب النهج](https://go.microsoft.com/fwlink/?linkid=2132482)
 
@@ -43,6 +43,6 @@ ms.locfileid: "52989636"
 
 [نشر سياسات تكوين التطبيق لحماية البيانات](https://go.microsoft.com/fwlink/?linkid=2132654)
 
-[استخدام Microsoft Endpoint Manager لنشر سياسات تكوين التطبيق](https://go.microsoft.com/fwlink/?linkid=2132707)
+[استخدام إدارة نقاط النهاية من Microsoft لنشر سياسات تكوين التطبيق](https://go.microsoft.com/fwlink/?linkid=2132707)
 
-للتعرف على كيفية الوصول إلى سجلات التطبيقات المدارة، راجع [استخدام Microsoft Edge لنظامي التشغيل iOS](https://go.microsoft.com/fwlink/?linkid=2132578)وAndroid للوصول إلى سجلات التطبيقات المدارة .
+للتعرف على كيفية الوصول إلى سجلات التطبيقات المدارة، راجع استخدام Microsoft Edge [لنظامي التشغيل iOS](https://go.microsoft.com/fwlink/?linkid=2132578)وAndroid للوصول إلى سجلات التطبيقات المدارة .
