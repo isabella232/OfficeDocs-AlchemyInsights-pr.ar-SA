@@ -1,5 +1,5 @@
 ---
-title: تنزيل التحديثات ومشاركهها
+title: تنزيل التحديثات ومشاركتها
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "1127"
 - "6700007"
-ms.openlocfilehash: a147983e4ac5ee5c1bc0a6b5932e00557e8d6c10
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b4b0248bdf39e083ddac2cfa84648c16a174147d97ede29e9b62e65ffd33d9f5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712243"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004393"
 ---
-# <a name="download-and-share-updates"></a>تنزيل التحديثات ومشاركهها
+# <a name="download-and-share-updates"></a>تنزيل التحديثات ومشاركتها
 
-بدلا من تنزيل التحديثات بشكل فردي ، يمكنك وضع التنزيل في تحسين التسليم من المشاركة بين أجهزه الكمبيوتر المتعددة. للحصول علي مزيد من المعلومات ، راجع [تحسين التسليم لتحديثات Windows 10](https://docs.microsoft.com/windows/deployment/update/waas-delivery-optimization).  
+بدلا من تنزيل التحديثات بشكل فردي، يمكن وضع التنزيل تحسين التسليم المشاركة بين أجهزة كمبيوتر متعددة. لمزيد من المعلومات، راجع [تحسين التسليم Windows 10 التحديثات](https://docs.microsoft.com/windows/deployment/update/waas-delivery-optimization).  
 
 تتضمن أوضاع التنزيل المتوفرة:  
 - HTTP فقط  
-- محلي  
-- مجوع  
-- إنترنت  
+- LAN  
+- مجموعة  
+- الإنترنت  
 - بسيط  
 - تجاوز

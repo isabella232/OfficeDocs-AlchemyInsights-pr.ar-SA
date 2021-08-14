@@ -1,5 +1,5 @@
 ---
-title: هل لديك مشاكل في الانتحال أو التصيد الاحتيالي أو الانتحال ؟
+title: هل هناك مشاكل تتعلق بالخادعة أو التصيد الاحتيالي أو انتحال الشخصية؟
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,29 +10,29 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1755
 ms.assetid: ''
-ms.openlocfilehash: 92e7f611b08a5457e52be248982785b2dc2ddabc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b52a62298081e554d328fc3cca0f77ca9949b765396c27d4d9da247f411d6d2c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47773006"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53986770"
 ---
-# <a name="issues-with-spoofing-phishing-or-impersonation"></a>هل لديك مشاكل في الانتحال أو التصيد الاحتيالي أو الانتحال ؟
+# <a name="issues-with-spoofing-phishing-or-impersonation"></a>هل هناك مشاكل تتعلق بالخادعة أو التصيد الاحتيالي أو انتحال الشخصية؟
 
-تعرف علي كيفيه حماية Microsoft من:
+تعرف على كيفية حماية Microsoft لك من:
 
-- [حدوث](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spoofing-protection)
+- [اانتحال](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spoofing-protection)
 
-- [التصيد الاحتيالي والانتحال](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)
+- [التصيد الاحتيالي والتصيد الاحتيالي](https://docs.microsoft.com/microsoft-365/security/office-365-security/atp-anti-phishing)
 
-توصيات اضافيه:
+توصيات إضافية:
 
-- بالنسبة إلى المرسلين المخادعين الذين سيبدو ياتيوا من مجالك الخاص ، يمكن ان يساعدك [SPF](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing) و [dkim](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email) .
+- بالنسبة إلى المرسلين المنتحلين الذين يبدون من مجالك الخاص، يمكن أن يساعدك [SPF](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-spf-in-office-365-to-help-prevent-spoofing) [و DKIM.](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email)
 
-- تاكد من ان المرسلين في مجالك غير مكونين لتجاوز التصفية الخاصة بالحماية من البريد العشوائي باستخدام قواعد تدفق البريد (المعروفة أيضا بقواعد النقل) أو السماح بإدخالات القائمة. لمزيد من المعلومات ، راجع [تنبيات مقابل تجاوز عوامل تصفيه البريد العشوائي من Microsoft](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters).
+- تحقق من عدم تكوين المرسلين في مجالك لتجاوز تصفية مكافحة البريد العشوائي باستخدام قواعد تدفق البريد (المعروفة أيضا بقواعد النقل) أو السماح بمداخلات القائمة. لمزيد من المعلومات، راجع [التحذيرات من تجاوز عوامل](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters)تصفية البريد العشوائي من Microsoft .
 
-- تاكد من قيام المستخدمين بتكوين إدخالات [قائمه المرسلين الامنه](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) التي قد تسمح بهجمات التصيد الاحتيالي.
+- تحقق من أن المستخدمين لم يقوموا [خزينة إدخالات](https://support.office.com/article/BE1BAEA0-BEAB-4A30-B968-9004332336CE) قائمة المرسلين التي قد تسمح بهجمات التصيد الاحتيالي.
 
-- ضع في اعتبارك تقديم رسائل البريد الكتروني الخاصة بالثقة العالية التصيد الاحتيالي لفحصها بدلا من المجلد "بريد لمزيد من المعلومات ، راجع [رسائل البريد الكتروني](https://docs.microsoft.com/microsoft-365/security/office-365-security/quarantine-email-messages)الخاصة بالعزل.
+- فكر في تسليم رسائل البريد العشوائي والتصيد الاحتيالي عالية الثقة للعزل بدلا من مجلد البريد الإلكتروني غير الهام. لمزيد من المعلومات، راجع [فحص رسائل البريد الإلكتروني.](https://docs.microsoft.com/microsoft-365/security/office-365-security/quarantine-email-messages)
 
-**[الإبلاغ عن إرسال رسائل إلى Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) أفضل طريقه لاعلامنا بكيفية تنفيذ عوامل التصفية.**
+**[إرسال رسائل إلى Microsoft](https://support.office.com/article/b5caa9f1-cdf3-4443-af8c-ff724ea719d2) هو أفضل طريقة تسمح لنا بتعرفنا على أداء عوامل التصفية.**
