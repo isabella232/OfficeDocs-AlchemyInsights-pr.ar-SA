@@ -1,5 +1,5 @@
 ---
-title: مزامنة تقويم SharePoint إلى Outlook
+title: قم بمزامنة SharePoint التقويم Outlook
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000677"
 - "2586"
-ms.openlocfilehash: 95ea9fbe0fbb4ab4d07f164e6096cc7985a72ac5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8ea1a6bf5b02f804014eb6841e774a67e2e6b23dd6a0758c48f05271644f1601
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47659153"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54008866"
 ---
-# <a name="issues-synchronizing-your-calendar-to-devices"></a>مشاكل في مزامنة التقويم مع الاجهزه
+# <a name="issues-synchronizing-your-calendar-to-devices"></a>مشاكل في مزامنة التقويم مع الأجهزة
 
-تقويمات SharePoint هي أنواع القائمة التقليدية التي يتم الخلط بينها في بعض الأحيان مع تقويمات المجموعات في Microsoft 365.
+SharePoint التقويمات هي أنواع قائمة كلاسيكية يتم الخلط بينها في بعض الأحيان Microsoft 365 "تقويمات المجموعة".
 
-لمزامنة تقويم SharePoint إلى Outlook ، يرجى اتباع الخطوات التالية:
+لمزامنة تقويم SharePoint إلى Outlook، يرجى اتباع الخطوات التالية:
 
-1. انقر فوق أيقونه الترس **إعدادات** ، ثم انقر فوق **محتويات الموقع**.
-2. افتح التقويم الذي تريد مزامنته (وهو نوع قائمه الاحداث).
-3. في قائمه الشريط الكلاسيكية ، انقر فوق **التقويم**، ثم انقر فوق **الاتصال ب Outlook**.
-4. في القائمة المنبثقة يطالبك بتاكيد المزامنة ، انقر فوق **السماح**.
+1. انقر فوق **الإعدادات** الترس ثم انقر فوق **محتويات الموقع**.
+2. افتح التقويم الذي تريد مزامنته (وهو نوع قائمة الأحداث).
+3. في قائمة الشريط الكلاسيكي، انقر فوق **التقويم**، ثم انقر فوق الاتصال **Outlook**.
+4. في النافذة المنبثقة التي تطلب منك تأكيد المزامنة، انقر فوق **السماح**.
 
 >[!Note]
-> عند اجراء تغيير في تقويم Outlook الذي تمت مزامنته ، سيظهر في تقويم SharePoint والعكس صحيح.
+> عند إجراء تغيير في التقويم Outlook، سيظهر في التقويم SharePoint والعكس بالعكس.
 
-لمزيد من المعلومات حول مجموعات Microsoft 365 ، راجع هذه [المقالة](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).
+لمزيد من المعلومات حول Microsoft 365، راجع هذه [المقالة](https://support.office.com/article/Learn-about-Office-365-groups-b565caa1-5c40-40ef-9915-60fdb2d97fa2).

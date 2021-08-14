@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "5884"
 - "3500007"
-ms.openlocfilehash: b2ab7b60bc521fd28d68333bb963528f7b9e05f2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 60190727e75c120ad3915da8b563b7f6b1a3238b46bb6e14cbf956365e1a84e0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51836122"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063111"
 ---
 # <a name="owner-cannot-create-sub-folder-using-outlook"></a>يتعذر على المالك إنشاء مجلد فرعي باستخدام Outlook
 
-**هناك مشكلة مستمرة في إنشاء مالكي المجلدات العمومية للمجلدات الفرعية باستخدام Outlook. سيتم إصلاح المشكلة قريبا.**
+**هناك مشكلة مستمرة في إنشاء مالكي المجلدات العامة للمجلدات الفرعية باستخدام Outlook. سيتم إصلاح المشكلة قريبا.**
 
 وفي هذه الأثناء، استخدم أحد الحلول التالية:
 
-1. استخدم Outlook for MAC لإنشاء الملف الفرعي حيث تؤثر المشكلة على Outlook فقط على نوافذ سطح المكتب (كل الإصدارات)
+1. استخدم Outlook ل MAC لإنشاء الملف الفرعي حيث تؤثر المشكلة فقط على Outlook Windows لسطح المكتب (كل الإصدارات)
 2. هل يجب على المسؤول إنشاء المدوّن الفرعي باستخدام EXO Shell أو EAC
 3. تغيير DefaultPublicFolderMailbox/EffectivePublicFolderMailbox على المستخدم إلى علبة بريد أخرى غير علبة بريد المحتوى للمجلد الذي تسبب المشكلة  
     - *Set-Mailbox User1 DefaultPublicFolderMailbox PubMBX3*
