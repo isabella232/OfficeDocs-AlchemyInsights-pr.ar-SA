@@ -1,5 +1,5 @@
 ---
-title: مجلد الارشفه في Outlook و OWA
+title: مجلد الأرشيف في Outlook و OWA
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1903"
 - "3100008"
-ms.openlocfilehash: 57a72758e4b00a6822e834b2b8dfda2d079eebf5
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c74f3c395baac3acb06517a0a7abeda20b264b925b569e7ddef16efbbafa8e25
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47716376"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53989650"
 ---
-# <a name="archive-folder-in-outlook-and-owa"></a>مجلد الارشفه في Outlook و OWA
+# <a name="archive-folder-in-outlook-and-owa"></a>مجلد الأرشيف في Outlook و OWA
 
-الأرشيف هو مجلد افتراضي حيث يمكن تصنيف رسائل البريد الكتروني وتنظيمها في علبه البريد. يمكنك نقل العناصر إلى هذا المجلد بالنقر فوق الزر "  **أرشيف**  ". يتم نقل العناصر (لا تحذف) إلى مجلد **الأرشيف** في نفس علبه البريد الاساسيه وليس إلى علبه بريد الأرشيف.
+الأرشيف هو مجلد افتراضي حيث يمكن وضع رسائل البريد الإلكتروني وتنظيمها في علبة البريد. يمكنك نقل العناصر إلى هذا المجلد بالنقر فوق الزر **أرشفة.** يتم نقل العناصر (غير محذوفة) إلى مجلد الأرشيف في علبة البريد الأساسية نفسها وليس إلى علبة بريد الأرشيف. 
 
-لعرض المجلد " **أرشيف** " ، تاكد من عرض قائمه المجلدات **View**بتحديد  >  **جزء المجلد**عرض ، ثم اختر **عادي**.
+لعرض مجلد **الأرشيف،** تأكد من عرض قائمة المجلدات عن طريق تحديد **عرض** جزء  >  المجلدات ، ثم اختيار **عادي**.
 
-**ملاحظه** إذا تم نقل العناصر تلقائيا إلى مجلد أرشفه Outlook بشكل غير متوقع ، فمن المحتمل انك استخدمت المفتاح backspace في Outlook أو إذا نقرت فوق الخيار **أرشفه** في Outlook لسطح المكتب أو Outlook Web App أو تطبيق Outlook للاجهزه المحمولة.
+**ملاحظة** إذا كانت العناصر تنتقل تلقائيا إلى مجلد "أرشيف Outlook" بشكل غير متوقع، فمن المحتمل أنك استخدمت مفتاح مساحة  للخلف في Outlook أو قمت بالنقر فوق الخيار أرشفة في تطبيق Outlook لسطح المكتب أو Outlook Web App أو Outlook Mobile App.
 
-للحصول علي مزيد من المعلومات حول مجلد الأرشيف في Outlook ، راجع [أرشفه مجلد في outlook](https://support.office.com/article/archive-in-outlook-for-windows-25f75777-3cdc-4c77-9783-5929c7b47028)، أو للحصول علي OWA ، راجع [مجلد الأرشيف في OWA](https://support.office.com/article/organize-your-inbox-with-archive-sweep-and-other-tools-in-outlook-on-the-web-49b26f63-6399-4b4a-a580-14b9b1efe96d?ui=en-US&rs=en-US&ad=US).
+لمزيد من المعلومات حول مجلد الأرشيف في Outlook، راجع مجلد الأرشيف في Outlook [أو](https://support.office.com/article/archive-in-outlook-for-windows-25f75777-3cdc-4c77-9783-5929c7b47028)ل [OWA،](https://support.office.com/article/organize-your-inbox-with-archive-sweep-and-other-tools-in-outlook-on-the-web-49b26f63-6399-4b4a-a580-14b9b1efe96d?ui=en-US&rs=en-US&ad=US)راجع مجلد الأرشيف في OWA .

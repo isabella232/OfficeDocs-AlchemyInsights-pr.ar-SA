@@ -12,16 +12,16 @@ localization_priority: Normal
 ms.custom:
 - "9000594"
 - "2438"
-ms.openlocfilehash: 864e08c3dd9e424b7c59772274321249f2bad9f4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 15082cbce2d7ff041842fc7506d611bee419a003646e56d1e7488981dd4d7020
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47768990"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962658"
 ---
 # <a name="adblock"></a>AdBlock
 
-يواجه بعض المستخدمين حاليا مشاكل عند قراءه رسائل البريد الكتروني أو تاليفها عند استخدام Google Chrome مع ملحق AdBlock. لحل هذه المشكلة:
+يواجه بعض المستخدمين حاليا مشاكل عند قراءة البريد الإلكتروني أو إنشاءه عند استخدام Google Chrome مع ملحق AdBlock. لل حل هذه المشكلة:
 
-1. استخدم [Microsoft Edge](https://www.microsoft.com/windows/microsoft-edge)   أو مستعرض ويب آخر.
-1. استبعاد Outlook.com من إعدادات AdBlock.في الزاوية العلوية اليسرى من Google Chrome ، حدد **AdBlock**   ثم حدد **عدم التشغيل علي صفحات هذا المجال**.تحديث المستعرض الخاص بك لتحميل Outlook.com مره أخرى.
+1. استخدم [Microsoft Edge](https://www.microsoft.com/windows/microsoft-edge) ويب أو مستعرض ويب آخر.
+1. استبعاد Outlook.com من إعدادات AdBlock. في الزاوية العلوية اليسرى من Google Chrome، حدد **AdBlock** ثم حدد عدم التشغيل **على الصفحات على هذا المجال**. قم بتحديث المستعرض لتحميل Outlook.com مرة أخرى.

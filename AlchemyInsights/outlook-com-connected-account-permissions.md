@@ -1,5 +1,5 @@
 ---
-title: 8000093 Outlook.com الحسابات المتصلة
+title: 8000093 Outlook أذونات الحساب المتصل.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.custom:
 - "1431"
 - "8000093"
-ms.openlocfilehash: f143b603e50024b665d74ac91cdfbbe82e19303e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d62a760ec3f46f7179e044f25cca8f1b3f01188323330cad11671311eef002e6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752382"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962406"
 ---
-# <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>كيفيه إصلاح "يبدو انه ليس لدينا الاذن"
+# <a name="how-to-fix-it-looks-like-we-dont-have-permission"></a>كيفية إصلاح "يبدو أنه ليس لدينا الإذن"
 
-إذا ظهرت رسالة الخطا "يبدو انه ليس لدينا الاذن بالحصول علي البريد الكتروني ل..." الرجاء تنفيذ ما يلي:
+إذا رأيت رسالة الخطأ "يبدو أنه ليس لدينا الإذن للحصول على البريد الإلكتروني ل ..." يرجى القيام ما يلي:
 
-1. افتح [إعدادات الحساب المتصلة](https://outlook.live.com/mail/options/mail/accounts) وقم بازاله أو حذف الحساب المتصل المدرج في الخطا.
-2. أضف الحساب المتصل مره أخرى.
-3. عد [إلى علبه البريد الخاصة بك](https://outlook.live.com/mail/inbox).
+1. افتح إعدادات [الحساب المتصل وأزل](https://outlook.live.com/mail/options/mail/accounts) الحساب المتصل المدرج في الخطأ أو احذفه.
+2. أضف الحساب المتصل مرة أخرى.
+3. [ارجع إلى علبة بريدك](https://outlook.live.com/mail/inbox).
 
-قد يستغرق الأمر بعض الوقت لأعاده مزامنة رسائل البريد الكتروني من حسابك المتصل.
+قد تستغرق كل رسائل البريد الإلكتروني بعض الوقت لإعادة المزامنة من حسابك المتصل.
 
-تعرف علي المزيد حول [أزاله](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8?wt.mc_id=Office_Outlook_com_Alchemy) الحسابات المتصلة [وأضافها](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) .
+تعرف على المزيد [حول إزالة](https://support.office.com/article/0b9a6b95-ff1b-46c1-bf60-d6b3b82c5ac8?wt.mc_id=Office_Outlook_com_Alchemy) الحسابات [المتصلة](https://support.office.com/article/c5224df4-5885-4e79-91ba-523aa743f0ba?wt.mc_id=Office_Outlook_com_Alchemy) وإضافتها.
