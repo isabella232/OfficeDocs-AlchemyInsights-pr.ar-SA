@@ -1,5 +1,5 @@
 ---
-title: تم Microsoft Defender ATP
+title: Onboarding Microsoft Defender ATP
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "6022"
 - "9002913"
-ms.openlocfilehash: a82adad9b9f72bbf9e053cd6721cefaf23e34a5c
-ms.sourcegitcommit: f4866e94918c7b591ad0cd3b58169d340bcc7f00
+ms.openlocfilehash: de38bd58c83ed840ccc8c610b61aa8d8b956251dea20895a7fc0e193d11585df
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "52545291"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985456"
 ---
-# <a name="onboarding-microsoft-defender-atp"></a>تم Microsoft Defender ATP
+# <a name="onboarding-microsoft-defender-atp"></a>Onboarding Microsoft Defender ATP
 
-للحصول على موارد ل Microsoft Defender ATP Windows 10 و Windows و أجهزة Mac و Linux، راجع: 
+للحصول على موارد ل متن Microsoft Defender ATP Windows 10 و Windows و Mac و Linux، راجع: 
 
 - **Windows 10 الأجهزة** استنادا إلى متطلبات العمل، يمكنك الاختيار من بين الخيارات ل متن جهاز يعمل Windows 10. للحصول على مزيد من المعلومات، راجع أدوات التكهين وأساليب [Windows 10 الأجهزة](/windows/security/threat-protection/microsoft-defender-atp/configure-endpoints). 
 
-- **Windows الخادمة** لboard Microsoft Defender ATP إصدار Windows Server، راجع [خوادم onboard إلى Microsoft Defender ATP.](/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints)
+- **Windows الخادمة** ل onboard Microsoft Defender ATP for your version of Windows Server, see [Onboard servers to the Microsoft Defender ATP service](/windows/security/threat-protection/microsoft-defender-atp/configure-server-endpoints).
 
 - **نقاط النهاية Windows غير المنقطة**  قبل تشغيل نظام غير Windows، يجب أن تلبي متطلبات النظام لنظام [Mac](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-mac#system-requirements) أو [Linux](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-atp-linux#system-requirements).
 

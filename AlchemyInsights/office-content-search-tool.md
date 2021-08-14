@@ -1,5 +1,5 @@
 ---
-title: 1491-بحث-لا-إرجاع النتائج المتوقعة
+title: 1491-search-not-returning-expected-results
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,22 +11,22 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1491
 ms.assetid: ''
-ms.openlocfilehash: 5b26a6b9bbc462aac93a3a2cb4df81a14fce8b80
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8e926db0d43f7586809ab78db66e861b8908a0ce61fb84498d1993bcc301d5f4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802836"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53985528"
 ---
-# <a name="content-search-tool-to-find-relevant-info"></a>أداه البحث في المحتوي للعثور علي المعلومات ذات الصلة
+# <a name="content-search-tool-to-find-relevant-info"></a>أداة البحث في المحتوى للعثور على المعلومات ذات الصلة
 
-استخدم أداه البحث في المحتوي في مركز توافق & الأمان للعثور بسرعة علي البريد الكتروني في علب بريد Exchange والمستندات في مواقع SharePoint ومواقع OneDrive ومحادثات المراسلة الفورية في Skype for Business. يمكنك استخدام أداه البحث في المحتوي للبحث عن البريد الكتروني والمستندات ومحادثات المراسلة الفورية في أدوات التعاون في Microsoft 365 مثل فرق Microsoft ومجموعات Microsoft 365.
+استخدم أداة البحث في المحتوى في مركز توافق & الأمان للعثور بسرعة على البريد الإلكتروني في علب بريد Exchange والمستندات في مواقع SharePoint ومواقع OneDrive ومحادثات المراسلة الفورية في Skype for Business. يمكنك استخدام أداة البحث في المحتوى للبحث عن رسائل البريد الإلكتروني والمستندات ومحادثات المراسلة الفورية في أدوات Microsoft 365 مثل Microsoft Teams Microsoft 365 المجموعات.
 
 
-قبل استخدام [البحث في المحتوي](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) من [مركز توافق & الأمان](https://sip.protection.office.com/homepage)، ستحتاج إلى إكمال إعدادات التكوين بما في ذلك [أذونات التكوين](https://docs.microsoft.com/microsoft-365/compliance/permissions-filtering-for-content-search)، [وتعيين سرعات التنزيل](https://docs.microsoft.com/microsoft-365/compliance/increase-download-speeds-when-exporting-ediscovery-results) [وإعدادات التصدير](https://docs.microsoft.com/microsoft-365/compliance/disable-reports-when-you-export-content-search-results).
+قبل استخدام [البحث](https://sip.protection.office.com/contentsearchbeta?ContentOnly=1) في المحتوى من مركز التوافق & الأمان، سترغب [](https://docs.microsoft.com/microsoft-365/compliance/permissions-filtering-for-content-search)في إكمال [](https://docs.microsoft.com/microsoft-365/compliance/increase-download-speeds-when-exporting-ediscovery-results) إعدادات التكوين بما في ذلك تكوين الأذونات، وإعداد سرعات التنزيل [وإعدادات التصدير](https://docs.microsoft.com/microsoft-365/compliance/disable-reports-when-you-export-content-search-results). [](https://sip.protection.office.com/homepage)
 
-تعرف علي المزيد حول البحث في المحتوي عبر مراجعه [المتطلبات والحدود](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search)والتحقق من [العناصر المفهرسة](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery) بشكل جزئي والنتائج الأخرى لتكون علي علم بها.
+تعرف على المزيد حول البحث [](https://docs.microsoft.com/microsoft-365/compliance/limits-for-content-search)في المحتوى من خلال مراجعة المتطلبات والحدود، والتحقق من العناصر [المفهرسة](https://docs.microsoft.com/microsoft-365/compliance/investigating-partially-indexed-items-in-ediscovery) جزئيا والنتائج الأخرى التي يجب أن تكون على علم بها.
 
-بعد مراجعه إعدادات التكوين والقيود الخاصة بالبحث في المحتوي ، راجع [استخدام البحث في المحتوي </a> للبحث عن العناصر الموضعية ، مثل البريد الكتروني والمستندات ومحادثات المراسلة الفورية في مؤسستك](https://docs.microsoft.com/microsoft-365/compliance/content-search).
+بعد مراجعة إعدادات التكوين وقيود البحث في المحتوى، ارجع إلى استخدام "البحث في المحتوى" للبحث عن عناصر في مكانها مثل البريد الإلكتروني والمستندات ومحادثات المراسلة الفورية في [ </a> مؤسستك](https://docs.microsoft.com/microsoft-365/compliance/content-search).
 
-للحصول علي المزيد من المعلومات حول البحث في المحتوي ، راجع [البحث عن محتوي في Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/search-for-content) للحصول علي معلومات اضافيه.
+للحصول على بحث كامل خطوة بخطوة في المحتوى، راجع البحث عن المحتوى [في](https://docs.microsoft.com/microsoft-365/compliance/search-for-content) Microsoft 365 للحصول على مزيد من المعلومات.

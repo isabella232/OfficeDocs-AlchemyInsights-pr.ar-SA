@@ -1,5 +1,5 @@
 ---
-title: الإصدار التجريبي من Microsoft 365 الذي تم حظره بواسطة Spamhaus
+title: مستأجر Microsoft 365 تم حظره بواسطة Spamhaus
 ms.author: chrisda
 author: chrisda
 ms.date: 04/21/2020
@@ -12,13 +12,13 @@ ms.assetid: 5cba50a0-257f-45de-9f68-df9250838eba
 ms.custom:
 - "255"
 - "3100003"
-ms.openlocfilehash: 9c126ea41a376bdad2ec6b85d97442bab6a4f0a3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d671b12f6b4b7cbbf92a494b1e72e5a3debe12b0517fa90285b1d4664d5486a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47699974"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53940028"
 ---
-# <a name="error-when-a-microsoft-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>ظهور خطا عند قيام مستخدم تجريبي ل Microsoft 365 بإرسال رسالة بريد الكتروني: تم حظر مضيف العميل باستخدام Spamhaus
+# <a name="error-when-a-microsoft-365-trial-user-sends-email-client-host-blocked-using-spamhaus"></a>خطأ عند إرسال Microsoft 365 تجريبي بريد إلكتروني: تم حظر مضيف العميل باستخدام Spamhaus
 
-يبدو انك ترسل بريدا الكترونيا من مؤسسه تجريبية جديده من Microsoft 365. للمساعدة علي منع أساءه الاستخدام ، يتم حظر عناوين IP المعروفة التي تمت تسويتها مسبقا. لم يعد هذا التحقق المحدد مفروضا بعد البدء في استخدام التراخيص المدفوعة. قد تتمكن من الحصول علي التصريف المؤقت عن طريق طلب عنوان IP جديد من موفر خدمه الإنترنت (ISP) ، أو بازاله الحظر من موقع ويب [Spamhaus](https://go.microsoft.com/fwlink/p/?linkid=123245) .
+يبدو أنك ترسل بريدا إلكترونيا من مؤسسة Microsoft 365 تجريبية جديدة. للمساعدة في منع إساءة الاستخدام، نقوم بحظر عناوين IP التي من المعروف أنها تم اختراقها مسبقا. لم يعد هذا التحقق المحدد مطبقا بعد بدء استخدام التراخيص المدفوعة. قد تتمكن من الحصول على المساعدة المؤقتة عن طريق طلب عنوان IP جديد من موفر خدمة الإنترنت (ISP)، أو عن طريق إزالة الحظر من موقع [Spamhaus على](https://go.microsoft.com/fwlink/p/?linkid=123245) الويب.
