@@ -1,5 +1,5 @@
 ---
-title: رسالة ترحيب في مجموعات Microsoft 365
+title: رسالة ترحيب في Microsoft 365 المجموعات
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "5685"
-ms.openlocfilehash: 6c46ba1b2c2c94e21d7c76e45df1d416ba423faf
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 81127b79d4e5a16686ca46d67bfac73c15891938491a702219cd73757c4e106c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51806393"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997697"
 ---
-# <a name="welcome-message-in-microsoft-365-groups"></a>رسالة ترحيب في مجموعات Microsoft 365
+# <a name="welcome-message-in-microsoft-365-groups"></a>رسالة ترحيب في Microsoft 365 المجموعات
 
-سيتلقى المستخدمون الجدد الذين ينضمون إلى مجموعة Microsoft 365 بريدا إلكترونيا ترحيبيا إذا كانت الخاصية "UnifiedGroupWelcomeMessageEnabled" هي True.
+سيتلقى المستخدمون الجدد Microsoft 365 البريد الإلكتروني الترحيبي إذا كانت الخاصية "UnifiedGroupWelcomeMessageEnabled" هي True.
 
 في حال أردت تعطيل رسالة الترحيب، استخدم الأمر [EXO PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/exchange-online-powershell-v2/exchange-online-powershell-v2?view=exchange-ps) التالي:
 

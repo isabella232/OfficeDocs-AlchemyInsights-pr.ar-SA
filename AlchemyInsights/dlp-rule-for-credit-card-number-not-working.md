@@ -1,5 +1,5 @@
 ---
-title: قاعده DLP لرقم بطاقة الائتمان لا يعمل
+title: قاعدة DLP ل رقم بطاقة الائتمان لا تعمل
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -13,12 +13,12 @@ ms.custom:
 - "1270"
 - "3200001"
 ms.assetid: 30496c79-c8b4-4337-a46d-abed12864209
-ms.openlocfilehash: d5dd6354e7a1bcbb7f2fb917952ddbee5077e88d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bd4f200233d5571fc7b01576038e7b3951a07716a7d5948005418d2896291ee5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679428"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005077"
 ---
 # <a name="dlp-issues-with-credit-card-numbers"></a>مشاكل DLP مع أرقام بطاقات الائتمان
 
@@ -26,35 +26,35 @@ ms.locfileid: "47679428"
 
 **مشاكل DLP مع أرقام بطاقات الائتمان**
 
-هل تواجه مشاكل متعلقة **بمنع فقدان البيانات (DLP)** لا تعمل علي المحتوي الذي يحتوي علي **رقم بطاقة ائتمان** عند استخدام نوع معلومات الحساسية ل DLP في O365 ؟ إذا كان الأمر كذلك ، فتاكد من ان المحتوي يحتوي علي المعلومات المطلوبة لتشغيل نهج DLP عند تقييمه. علي سبيل المثال ، بالنسبة **لسياسة بطاقة الائتمان** التي تم تكوينها باستخدام مستوي الثقة في 85% ، يتم تقييم التالية ويجب الكشف عنها ليتم تشغيل القاعدة:
+هل تواجه مشاكل في منع فقدان البيانات **(DLP)** لا تعمل على محتوى يحتوي على رقم بطاقة ائتمان عند استخدام نوع معلومات حساسة ل DLP في O365؟  إذا كان الأمر كذلك، فتأكد من أن المحتوى يحتوي على المعلومات المطلوبة لتحريك نهج DLP عند تقييمه. على سبيل المثال، بالنسبة إلى نهج بطاقة الائتمان الذي تم تكوينه بمستوى ثقة بنسبة 85٪، يتم تقييم ما يلي ويجب اكتشافه حتى يتم تشغيل القاعدة: 
   
-- **[تنسيق:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-19)** 16 خانه رقميه يمكن تنسيقها أو تهيئتها (ددددددددددددددد) ويجب ان تمرر اختبار لوهن.
+- **[التنسيق:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-19)** 16 رقما يمكن تنسيقها أو عدم تنسيقها (ddddddd) ويجب أن تجتاز اختبار Luhn.
 
-- **[النمط:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-19)** نمط معقد جدا وقوي يقوم بالكشف عن البطاقات من كل المنتجات الرئيسية في انحاء العالم ، بما في ذلك التاشيره والMasterCard والكشف عن البطاقات والJCB فالامريكيه وبطاقات الهدايا وبطاقات دينير.
+- **[النمط:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-19)** النمط شديد التعقيد والقوة الذي يكشف عن البطاقات من جميع العلامات التجارية الرئيسية في جميع أنحاء العالم، بما في ذلك بطاقات Visa و MasterCard وD discover Card و JCB و American Express وبطاقات الهدايا وبطاقات العشاء.
 
-- **[المجموع الاختباري:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-19)** نعم ، المجموع الاختباري للوهن
+- **[الاختبارات:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-19)** نعم، فحص لوهين
 
-- **[تعريف:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-19)** نهج DLP هو 85% تثق بأنه قد تم اكتشاف هذا النوع من المعلومات الهامه في حال وجوده في غضون أكثر من 300 حرفا:
+- **[التعريف:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-19)** إن نهج DLP واثق بنسبة 85٪ من أنه تم الكشف عن هذا النوع من المعلومات الحساسة إذا، ضمن تقارب 300 حرف:
 
-  - تعثر الدالة Func_credit_card علي المحتوي الذي يتطابق مع النمط.
+  - تعثر الدالة Func_credit_card المحتوى الذي يتطابق مع النمط.
 
-  - يعد أحد الخيارات التالية صحيحا:
+  - يكون أحد ما يلي صحيحا:
 
-  - تم العثور علي كلمه أساسيه من Keyword_cc_verification.
+  - تم العثور على كلمة أساسية Keyword_cc_verification كلمة أساسية.
 
-  - تم العثور علي كلمه أساسيه من Keyword_cc_name
+  - تم العثور على كلمة أساسية Keyword_cc_name كلمة أساسية
 
-  - تعثر الدالة Func_expiration_date علي تاريخ بتنسيق التاريخ الصحيح.
+  - تعثر Func_expiration_date الدالة على تاريخ بتنسيق التاريخ المناسب.
 
-  - يمرر المجموع الاختباري
+  - تمريرات الاختبارات
 
-    علي سبيل المثال ، سيتم تشغيل النموذج التالي لنهج رقم بطاقة ائتمان DLP:
+    على سبيل المثال، قد يؤدي النموذج التالي إلى تشغيل نهج رقم بطاقة ائتمان DLP:
 
-  - التاشيره: 4485 3647 3952 7352
+  - Visa: 4485 3647 3952 7352
   
-  - تنتهي الصلاحية: 2/2009
+  - تنتهي الصلاحية: 2/2/2009
 
-للحصول علي مزيد من المعلومات حول ما هو مطلوب لاكتشاف **رقم بطاقة الائتمان** للمحتوي ، راجع القسم التالي في هذه المقالة: [ما الذي تبحث عنه أنواع المعلومات الحساسة عن بطاقة الائتمان #](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#credit-card-number)
+للحصول على مزيد من المعلومات  حول ما هو مطلوب للكشف عن رقم بطاقة الائتمان للمحتوى الخاص بك، راجع المقطع التالي في هذه المقالة: ما تبحث عنه أنواع المعلومات الحساسة [لبطاقة الائتمان#](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#credit-card-number)
   
-باستخدام نوع آخر من المعلومات الحساسة المضمنة ، راجع المقالة التالية للحصول علي معلومات حول ما هو مطلوب للأنواع الأخرى: [ما الذي تبحث عنه أنواع المعلومات الهامه](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+باستخدام نوع مختلف من المعلومات الحساسة المضمنة، راجع المقالة التالية للحصول على معلومات حول ما هو مطلوب للأنواع الأخرى: ما تبحث عنه أنواع المعلومات [الحساسة](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   

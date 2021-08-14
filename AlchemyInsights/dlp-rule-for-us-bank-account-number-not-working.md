@@ -1,5 +1,5 @@
 ---
-title: قاعده DLP لرقم حساب مصرفي الولايات المتحدة لا يعمل
+title: قاعدة DLP ل رقم الحساب البنكي الأميركي لا تعمل
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -13,38 +13,38 @@ ms.custom:
 - "1287"
 - "3200001"
 ms.assetid: 80b40145-8376-4c3a-8d22-6efb9f9cb271
-ms.openlocfilehash: eb399e4b23de32a757562833ed32d97daa6a1247
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d19b2dcc29e23fab522159945496165338a117a47bfcfcadf0b93e4e5f14464f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679283"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005005"
 ---
-# <a name="dlp-issues-with-us-bank-account-numbers"></a>مشاكل DLP مع أرقام الحسابات المصرفية في الولايات المتحدة
+# <a name="dlp-issues-with-us-bank-account-numbers"></a>مشاكل DLP مع أرقام الحسابات المصرفية الأمريكية
 
 **هام**: خلال هذه الأوقات غير المسبوقة، نقوم باتخاذ الخطوات اللازمة لضمان توفر خدمات SharePoint Online و OneDrive بشكل كبير – الرجاء زيارة [تعديلات الميزات المؤقتة لـ SharePoint Online](https://aka.ms/ODSPAdjustments) للحصول على مزيد من المعلومات.
 
-**مشاكل DLP مع أرقام الحسابات المصرفية في الولايات المتحدة**
+**مشاكل DLP مع أرقام الحسابات المصرفية الأمريكية**
 
-هل تواجه مشاكل متعلقة **بمنع فقدان البيانات (DLP)** لا تعمل علي المحتوي الذي يحتوي علي **رقم حساب مصرفي للولايات** المتحدة عند استخدام نوع المعلومات الحساسة ل DLP في O365 ؟ إذا كان الأمر كذلك ، فتاكد من ان المحتوي يحتوي علي المعلومات المطلوبة لما يبحث عنه نهج DLP عند تقييمه.
+هل تواجه مشاكل في منع فقدان البيانات **(DLP)** لا تعمل مع المحتوى الذي يحتوي على رقم حساب بنكي في الولايات المتحدة عند استخدام نوع معلومات حساسة ل DLP في O365؟  إذا كان الأمر كذلك، فتأكد من أن المحتوى يحتوي على المعلومات المطلوبة حول ما يبحث عنه نهج DLP عند تقييمه.
   
-علي سبيل المثال ، بالنسبة لنهج **رقم حساب مصرفي للولايات** المتحدة تم تكوينه باستخدام مستوي الثقة في 85% ، يتم تقييم التالي ويجب الكشف عنه لكي يتم تشغيل القاعدة:
+على سبيل المثال، بالنسبة إلى نهج رقم الحساب البنكي الأميركي الذي تم تكوينه بمستوى ثقة 85٪، يتم تقييم ما يلي ويجب اكتشافه حتى يتم تشغيل القاعدة: 
   
-- **[التنسيق:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-77)** 8-17 أرقام
+- **[التنسيق:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-77)** 8-17 رقما
 
-- **[النمط:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-77)** 8-17 أرقاما متتالية.
+- **[النمط:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-77)** 8-17 رقما متتاليا.
 
-- **[المجموع الاختباري:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** لا ، لا توجد مجموعات اختباريه
+- **[الاختبارات:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** لا، لا يوجد "شيكوم"
 
-- **[تعريف:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)** نهج DLP هو 75% تثق بأنه قد تم اكتشاف هذا النوع من المعلومات الهامه في حال وجوده في غضون أكثر من 300 حرفا:
+- **[التعريف:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)** إن نهج DLP واثق بنسبة 75٪ من أنه تم الكشف عن هذا النوع من المعلومات الحساسة إذا، ضمن تقارب 300 حرف:
 
-  - يبحث التعبير العادي Regex_usa_bank_account_number عن المحتوي الذي يتطابق مع النمط
+  - يعثر التعبير Regex_usa_bank_account_number العادي على المحتوى الذي يتطابق مع النمط
 
-  - تم العثور علي كلمه أساسيه من Keyword_usa_Bank_Account.
+  - تم العثور على كلمة أساسية Keyword_usa_Bank_Account كلمة أساسية.
 
-    علي سبيل المثال ، سيتم تشغيل النموذج التالي لنهج **رقم الحساب المصرفي للولايات** المتحدة: التحقق من الحساب 78344011
+    على سبيل المثال، قد يتم تشغيل العينة التالية لن نهج رقم الحساب **البنكي** الأميركي: التحقق من الحساب 78344011
 
-للحصول علي مزيد من المعلومات حول ما هو مطلوب للحصول علي **رقم حساب مصرفي للولايات** المتحدة ، راجع القسم التالي في هذه المقالة: [ما الذي تبحث عنه أنواع المعلومات الهامه لرقم الحساب المصرفي الأمريكي](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-bank-account-number)
+لمزيد من المعلومات حول ما  هو مطلوب للكشف عن رقم حساب بنكي في الولايات المتحدة للمحتوى الخاص بك، راجع المقطع التالي في هذه [المقالة:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us-bank-account-number) ما تبحث عنه أنواع المعلومات الحساسة ل رقم الحساب البنكي الأميركي
   
-باستخدام نوع آخر من المعلومات الحساسة المضمنة ، راجع المقالة التالية للحصول علي معلومات حول ما هو مطلوب للأنواع الأخرى: [ما الذي تبحث عنه أنواع المعلومات الهامه](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+باستخدام نوع مختلف من المعلومات الحساسة المضمنة، راجع المقالة التالية للحصول على معلومات حول ما هو مطلوب للأنواع الأخرى: ما تبحث عنه أنواع المعلومات [الحساسة](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   

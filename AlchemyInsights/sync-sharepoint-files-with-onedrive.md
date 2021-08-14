@@ -14,12 +14,12 @@ ms.custom:
 - "6462"
 - "9003546"
 ms.assetid: 5ad2f1f2-9650-4eb0-b4fa-2f52a09f535a
-ms.openlocfilehash: ea93bb6f3cbbc3424f5e006ffac482a7445c8164
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: a4a05e20833869941e3f7ff699ccd5b3f0bac6d6160baabd8f5d2924b6923edc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49086035"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981784"
 ---
 # <a name="troubleshoot-open-with-explorer-issues-in-sharepoint-online"></a>استكشاف مشاكل "فتح باستخدام المستكشف" وإصلاحها في SharePoint Online
 
@@ -30,9 +30,9 @@ ms.locfileid: "49086035"
 - [نسخ ملفات المكتبة أو نقلها باستخدام الأمر فتح بواسطة المستكشف](https://support.microsoft.com/office/copy-or-move-library-files-by-using-open-with-explorer-aaee7bfb-e2a1-42ee-8fc0-bcc0754f04d2?ui=en-us&rs=en-us&ad=us)
 
 > [!NOTE]
-- نوصي [بمزامنة ملفات SharePoint مع عميل المزامنة من OneDrive الجديد](https://support.microsoft.com/office/sync-sharepoint-and-teams-files-with-your-computer-6de9ede8-5b6e-4503-80b2-6190f3354a88?ui=en-us&rs=en-us&ad=us) الذي يوفر [الملفات عند الطلب](https://support.microsoft.com/office/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e?ui=en-us&rs=en-us&ad=us) لمنح المزامنة الوصول المحلي إلى الملفات وتقدم أفضل أداء.
+- نوصي بمزامنة SharePoint الملفات مع عميل المزامنة من OneDrive [الجديد](https://support.microsoft.com/office/sync-sharepoint-and-teams-files-with-your-computer-6de9ede8-5b6e-4503-80b2-6190f3354a88?ui=en-us&rs=en-us&ad=us) الذي [](https://support.microsoft.com/office/save-disk-space-with-onedrive-files-on-demand-for-windows-10-0e6860d3-d9f3-4971-b321-7092438fb38e?ui=en-us&rs=en-us&ad=us) يوفر الملفات عند الطلب لأن المزامنة تمنح الوصول المحلي إلى ملفاتك وتقدم أفضل أداء.
 
-- **الفتح باستخدام المستكشف** معتمد فقط في Internet Explorer 11. لمزيد من المعلومات ، راجع [نهاية الدعم ل IE11 باستخدام تطبيقات Microsoft 365](https://docs.microsoft.com/lifecycle/announcements/m365-ie11-microsoft-edge-legacy)). لا يعمل **"فتح بواسطة المستعرض"** في Windows باستخدام Microsoft Edge أو Google Chrome أو Mozilla Firefox أو علي النظام الأساسي Mac. بسبب هذا السبب ، قد يظهر الخيار " **عرض المستكشف** " باللون الرمادي. 
+- **يتم دعم فتح** باستخدام المستكشف فقط في Internet Explorer 11. لمزيد من المعلومات، راجع [انتهاء دعم IE11 باستخدام Microsoft 365 Apps).](https://docs.microsoft.com/lifecycle/announcements/m365-ie11-microsoft-edge-legacy) **لا يعمل "فتح** باستخدام المستكشف" في Windows مع Microsoft Edge أو Google Chrome أو Mozilla Firefox أو على النظام الأساسي Mac. بسبب هذا السبب، **قد** يكون الخيار طريقة عرض المستكشف باللون الرمادي. 
 
 - لا يظهر الزر **فتح بواسطة المستكشف** في تجربة المكتبة الجديدة. حدد القائمة المنسدلة **عرض** في الزاوية العلوية اليسرى (اسم التغييرات المنسدلة استناداً إلى طريقة العرض الحالية)، ثم حدد **عرض في مستكشف الملفات**.
 

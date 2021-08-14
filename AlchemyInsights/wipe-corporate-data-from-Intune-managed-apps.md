@@ -1,5 +1,5 @@
 ---
-title: مسح بيانات الشركات من التطبيقات المدارة من Intune
+title: مسح بيانات الشركة من التطبيقات المدارة في Intune
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_o365
 ms.custom:
 - "6700006"
 - "7243"
-ms.openlocfilehash: ca62ad165bbb629323727928916720c6a2eab291
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 59c1309f60e03eda587c7a1f7bb5849f69b12a13d4365bcd6ca4e862d0e53e2e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49088467"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53997733"
 ---
-# <a name="wipe-corporate-data-from-intune-managed-apps"></a>مسح بيانات الشركات من التطبيقات المدارة من Intune
+# <a name="wipe-corporate-data-from-intune-managed-apps"></a>مسح بيانات الشركة من التطبيقات المدارة في Intune
 
-يدعم Intune أزاله بيانات الشركات من التطبيقات المدارة نهج حماية التطبيقات (التطبيق). 
+يدعم Intune إزالة بيانات الشركة من التطبيقات المدارة "نهج حماية التطبيقات" (APP). 
 
-لمعرفه المزيد حول ويبينج بيانات الشركات أو حذفها أو ازالتها من هذه التطبيقات ، راجع [كيفيه مسح بيانات الشركات فقط من التطبيقات المدارة من Intune](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe).
+لمعرفة المزيد حول مسح بيانات الشركة أو حذفها أو إزالتها من هذه التطبيقات، راجع كيفية مسح بيانات الشركة فقط من التطبيقات المدارة في [Intune](https://docs.microsoft.com/mem/intune/apps/apps-selective-wipe).
