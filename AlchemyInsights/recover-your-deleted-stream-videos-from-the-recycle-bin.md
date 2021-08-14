@@ -1,5 +1,5 @@
 ---
-title: استرداد ملفات فيديو Stream المحذوفة من سلة المحذوفة
+title: استرداد مقاطع فيديو Stream المحذوفة من سلة المحذوفة
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "8282"
-ms.openlocfilehash: 173df399f90ed2bae9b4b91d0f731bee7984c9ab
-ms.sourcegitcommit: 6110a081c19ae804ddbdea2cc1df7ecd23aacabc
+ms.openlocfilehash: 48e3aa2ac47b031f8380c6a03b43eb22419ba89eb149b98a0b63b71f3713ca0c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "50294121"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53959418"
 ---
-# <a name="recover-your-deleted-stream-videos-from-the-recycle-bin"></a>استرداد ملفات فيديو Stream المحذوفة من سلة المحذوفة
+# <a name="recover-your-deleted-stream-videos-from-the-recycle-bin"></a>استرداد مقاطع فيديو Stream المحذوفة من سلة المحذوفة
 
-عند حذف ملفات الفيديو في Microsoft Stream، فإنها تذهب إلى سلة محذوفات 30 يوما.
+عند حذف ملفات الفيديو في Microsoft Stream، فإنها تتحول إلى سلة محذوفات لمدة 30 يوما.
 
-تسمح لك سلة محذوفات الفيديو باستعادة مقاطع الفيديو إذا تم حذفها عن طريق الخطأ أو حذف ملفات الفيديو بالفعل في سلة المحذوفة بشكل دائم قبل الحد الأقصى لمدة 30 يوما.
+تسمح لك سلة محذوفات الفيديو باستعادة مقاطع الفيديو إذا تم حذفها عن طريق الخطأ أو حذف ملفات الفيديو نهائيا بالفعل في سلة المحذوفة قبل الحد الأقصى لمدة 30 يوما.
 
 لمزيد من المعلومات، اطلع على:
 
 - [استرداد ملفات الفيديو المحذوفة من سلة المحذوفة](https://docs.microsoft.com/stream/portal-my-recycle-bin)
-- [سلة مهايير الفيديو لمسؤول Stream](https://docs.microsoft.com/stream/admin-recycle-bin)
+- [سلة معاد تدوير الفيديو لمسؤول Stream](https://docs.microsoft.com/stream/admin-recycle-bin)

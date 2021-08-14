@@ -1,5 +1,5 @@
 ---
-title: إصلاح مشاكل مزامنة OneDrive
+title: إصلاح المزامنة من OneDrive
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,13 +13,13 @@ ms.custom:
 - "9002286"
 - "4415"
 - "4416"
-ms.openlocfilehash: 5e92e15dcbcb39ac702d91ed2a20dac2cf16c0ec
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f85c3df5c4004c2c4024d48e5bb3bfa0930f719fd403cd40eb9b09a13ca0d208
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51812761"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945873"
 ---
-# <a name="fix-onedrive-sync-issues"></a>إصلاح مشاكل مزامنة OneDrive
+# <a name="fix-onedrive-sync-issues"></a>إصلاح المزامنة من OneDrive
 
-بالنسبة لنظام التشغيل Windows أو Mac، تعرف على المزيد حول مشاكل [مزامنة OneDrive وكيفية حلها.](https://support.office.com/article/fix-onedrive-sync-problems-0899b115-05f7-45ec-95b2-e4cc8c4670b2)
+بالنسبة Windows أو Mac، تعرف على المزيد حول المزامنة من OneDrive [وكيفية حلها.](https://support.office.com/article/fix-onedrive-sync-problems-0899b115-05f7-45ec-95b2-e4cc8c4670b2)

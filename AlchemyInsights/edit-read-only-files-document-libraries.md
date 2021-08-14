@@ -9,15 +9,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 7fd02fc7-4aaf-4ae6-b514-ceda456b74e2
-ms.openlocfilehash: 78f2f33c4a5aea2e3d0d3ee4949e3e1670b9e644
-ms.sourcegitcommit: a5ba4dc8c349ed79147f67b62bde544281f7c106
+ms.openlocfilehash: 2e343abc0b7ae06de34b20006059fd2c93cf47c8063ee16f0e9e1ab273e1ee4d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "48840526"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947178"
 ---
 # <a name="edit-a-read-only-file"></a>تحرير ملف للقراءة فقط
 
-قد تجد انه يتم فتح الملفات عند فتحها للقراءة فقط. في بعض الحالات ، هذا هو الأمان الإضافي ، علي سبيل المثال عندما تفتح الملفات من الإنترنت ، والأوقات الأخرى ، يمكن ان يكون ذلك بسبب الاعداد الذي يمكن تغييره.
+قد تجد أنه عند فتح الملفات، يتم فتحها للقراءة فقط. في بعض الحالات، يكون ذلك لمزيد من الأمان، على سبيل المثال عند فتح الملفات من الإنترنت، وفي أوقات أخرى، قد يكون ذلك بسبب إعداد يمكن تغييره.
 
-- [فتح ملفات SharePoint للقراءة فقط](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out)
+- [SharePoint الملفات المفتوحة للقراءة فقط](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out)

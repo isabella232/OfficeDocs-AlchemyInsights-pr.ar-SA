@@ -1,5 +1,5 @@
 ---
-title: قاعده الاعمال في Dynamics 365 Forms باستخدام الحقل فولنامي غير موجودة
+title: قاعدة أعمال Dynamics 365 Forms باستخدام حقل Fullname Not
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,15 +10,15 @@ localization_priority: Normal
 ms.custom:
 - "1928"
 - "6200018"
-ms.openlocfilehash: 50588b25d1cb23daee188c6be9132142f8ae98c7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ccb50ae836357ef48cd0b4a2a640cceb0a1ff88137e79a57d4fcd9027994ce45
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711514"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947388"
 ---
-# <a name="full-name-field-not-supported-with-unified-inteface-apps"></a>الحقل "الاسم بالبالكامل" غير معتمد مع تطبيقات إينتيفيس الموحدة
+# <a name="full-name-field-not-supported-with-unified-inteface-apps"></a>الحقل "الاسم الكامل" غير معتمد مع تطبيقات الواجهات الموحدة
 
-لا يتم دعم الإجراءات أو الشروط التي تستخدم الحقل **الاسم بالبالكامل** (فولنامي) في التطبيقات استنادا إلى الواجهة الموحدة. بدلا من ذلك ، يمكنك استخدام الإجراءات أو الشروط باستخدام **الاسم الأول** وحقول **اسم العائلة** (lastname).
+الإجراءات أو الشروط التي تستخدم حقل **الاسم الكامل** (fullname) غير معتمدة في التطبيقات استنادا إلى الواجهة الموحدة. بدلا من ذلك، يمكنك استخدام الإجراءات أو الشروط مع **الحقلين الاسم الأول** (الاسم الأول) واسم العائلة **(اسم** العائلة).
 
 [https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-business-rules-recommendations-apply-logic-form#common-issues](https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-business-rules-recommendations-apply-logic-form#common-issues)

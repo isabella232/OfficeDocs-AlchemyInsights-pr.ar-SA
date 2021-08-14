@@ -1,5 +1,5 @@
 ---
-title: إصلاح تدفق فاشل
+title: إصلاح تدفق فشل
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,21 +12,21 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 856b15c9-2b41-4528-8195-7bfccbf78d69
-ms.openlocfilehash: 4d94055ca7cbf892d0818076c7a75fc033ebce5a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3deb6062b5359924e15dff61b8eedd4be1ce00afe24027cd9917271bd5bbe48d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730182"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945954"
 ---
 # <a name="fix-a-flow-that-failed"></a>إصلاح تدفق فشل
 
-1. انتقل إلى [Microsoft التدفق](https://flow.microsoft.com/)، وانقر فوق أيقونه الاعلامات في الزاوية العلوية اليسرى. (أو في تطبيق الاجهزه المحمولة ، حدد علامة التبويب نشاط.) حدد التدفق الذي فشل في إلقاء نظره علي التفاصيل.
+1. انتقل إلى [Microsoft Flow](https://flow.microsoft.com/)، وانقر فوق أيقونة الإعلامات في الزاوية العلوية اليسرى. (أو في تطبيق الأجهزة المحمولة، حدد علامة التبويب نشاط.) حدد التدفق الذي فشل في النظر إلى التفاصيل.
     
-2. ابحث عن الخطوة ذات أيقونه علامة التعجب الحمراء لعرض رسالة الخطا للتدفق.
+2. ابحث عن الخطوة باستخدام أيقونة التعجب الحمراء لرؤية رسالة الخطأ للتدفق.
     
-3. وفقا لرسالة الخطا ، يجب ان تتمكن من تحرير التدفق وإصلاحه. 
+3. استنادا إلى رسالة الخطأ، يجب أن تتمكن من تحرير التدفق وإصلاحه. 
     
-[فشل التدفق الشائع](https://go.microsoft.com/fwlink/?linkid=872110)
+[حالات فشل التدفق الشائعة](https://go.microsoft.com/fwlink/?linkid=872110)
   
 

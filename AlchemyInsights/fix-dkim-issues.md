@@ -1,5 +1,5 @@
 ---
-title: إصلاح مشاكل اعداد الأشرف
+title: إصلاح مشاكل إعداد DKIM
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -11,19 +11,19 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1389
 ms.assetid: ''
-ms.openlocfilehash: 35e8023d26fe26211e27521ceb8751d2d7fc7a21
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5a613321ed79e657350ec4d19b1f07ac0a091b227a8268c793a10edd9990d41f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744937"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53945918"
 ---
-# <a name="fix-dkim-setup-issues"></a>إصلاح مشاكل اعداد الأشرف
+# <a name="fix-dkim-setup-issues"></a>إصلاح مشاكل إعداد DKIM
 
-إذا واجهت مشاكل في تمكين DKIM لمجالك المخصص ، فاتبع الخطوات التالية:
+إذا واجهت مشاكل في تمكين DKIM لمجالك المخصص، فاتبع الخطوات التالية:
 
-- ترتبط معظم مشاكل اعداد DKIM بسجلات DNS غير الصحيحة. تاكد من تنسيق السجل الخاص ب DKIM CNAME (**وليس** سجل TXT) بشكل صحيح. لمزيد من المعلومات ، راجع هذا [الموضوع](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim).
+- ترتبط معظم مشاكل إعداد DKIM بسجلات DNS غير الصحيحة. تحقق من تنسيق سجل DKIM CNAME **(وليس** سجل TXT) بشكل صحيح. لمزيد من المعلومات، راجع هذا [الموضوع](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim).
 
-- بعد إنشاء سجلات DNS الخاصة ب DKIM أو تحديثها في خدمه استضافه DNS لمجالك (عاده ما يكون جهة تسجيل المجالات الخاصة بك) ، انتظر حتى يتم نشر سجلات DNS.
+- بعد إنشاء سجلات DNS DKIM أو تحديثها في خدمة استضافة DNS لمجالك (عادة، جهة تسجيل المجالات)، انتظر حتى يتم نشر سجلات DNS.
 
-- إذا لم تتمكن من إنشاء سجلات DNS ل DKIM في مركز الاداره ، فيمكنك استبدالها \<CustomDomain\> بمجالك المخصص (علي سبيل المثال ، contoso.com) وتشغيل هذا الأمر في [Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell): `New-DkimSigningConfig -DomainName <CustomDomain> -Enabled $true` .
+- إذا لم تتمكن من إنشاء سجلات DNS ل DKIM في مركز الإدارة، يمكنك استبدال مجالك المخصص (على سبيل المثال، contoso.com) وتشغيل هذا الأمر في \<CustomDomain\> [Exchange Online PowerShell:](https://docs.microsoft.com/powershell/exchange/exchange-online/connect-to-exchange-online-powershell/connect-to-exchange-online-powershell) `New-DkimSigningConfig -DomainName <CustomDomain> -Enabled $true` .

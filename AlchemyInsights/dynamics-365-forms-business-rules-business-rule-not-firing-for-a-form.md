@@ -1,5 +1,5 @@
 ---
-title: قواعد الاعمال في Dynamics 365 Forms-قاعده العمل التي لا يتم تكوينها لنموذج
+title: قواعد الأعمال في Dynamics 365 Forms - قاعدة العمل لا يتم فيها إطلاق نموذج
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,13 +10,13 @@ localization_priority: Normal
 ms.custom:
 - "1467"
 - "6200018"
-ms.openlocfilehash: 2b42b007d8eecc65f098f71b5af7decd19aab505
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 085656b40cab5c918e58a821db9ad8399aa37cda871c00a7ed51411c4b733576
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47711442"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53947214"
 ---
-# <a name="business-rule-not-firing-for-a-form"></a>لم يتم الآن استخدام قاعده الاعمال لنموذج
+# <a name="business-rule-not-firing-for-a-form"></a>عدم إطلاق قاعدة العمل ل نموذج
 
-قد لا يتم تنفيذ قاعده العمل لان الحقل المشار اليه في قاعده الاعمال غير مضمن بالنموذج. لمزيد من المعلومات ، راجع [ان قاعده العمل الخاصة بك غير موجودة لنموذج ؟](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form).
+قد لا يتم تنفيذ قاعدة عمل لأن الحقل المشار إليه في قاعدة العمل غير مضمن في النموذج. لمزيد من المعلومات، راجع [هل قاعدة عملك لا يتم إطلاقها ل نموذج؟](https://docs.microsoft.com/powerapps/maker/model-driven-apps/create-business-rules-recommendations-apply-logic-form#is-your-business-rule-not-firing-for-a-form).

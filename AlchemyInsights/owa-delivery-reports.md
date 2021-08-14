@@ -1,5 +1,5 @@
 ---
-title: تقارير بعدم التسليم في Outlook علي الويب
+title: تقارير بعدم التسليم في Outlook على ويب
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -9,15 +9,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 1d2155b819ad34e1fa311ff16f038d3b2fa0d7dc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 278cec08da97517b980988b4981bbe9c0993b7df8eb47f275e8bb5572495916d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721902"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983162"
 ---
-# <a name="issues-with-email-delivery"></a>المشاكل المتعلقة بتسليم البريد الكتروني
+# <a name="issues-with-email-delivery"></a>مشاكل في تسليم البريد الإلكتروني
 
-عند وجود مشكله في تسليم رسالة بريد الكتروني أرسلتها ، يرسل Microsoft 365 بريدا الكترونيا لاعلامك بذلك. يعتبر البريد الكتروني الذي تتلقاه اعلاما بحاله التسليم ، المعروف أيضا باسم DSN أو وثب. النوع الأكثر شيوعا يسمي تقرير بعدم التسليم (NDR) ، الذي يعلمك بأنه لم يتم تسليم الرسالة. قد يعود سبب ذلك إلى ظهور شيء بسيط كخطا إملائي في عنوان البريد الكتروني. يتضمن NDRs رمز الخطا الذي يشير إلى سبب عدم تسليم البريد الكتروني الخاص بك ، وهو عبارة عن حلول لمساعدتك علي تسليم بريدك الكتروني ، وارتباط إلى مزيد من المساعدة علي الويب ، والتفاصيل التقنية للمسؤولين.
+عند وجود مشكلة في تسليم رسالة بريد إلكتروني أرسلتها، Microsoft 365 رسالة بريد إلكتروني لتعلمك بذلك. البريد الإلكتروني الذي تتلقاه هو إعلام حالة التسليم، يعرف أيضا باسم DSN أو رسالة إعلام البريد المرتد. يسمى النوع الأكثر شيوعا تقرير بعدم التسليم (NDR)، الذي يخبرك بأنه لم يتم تسليم رسالة. قد يحدث عدم التسليم بسبب شيء بسيط مثل خطأ مطبعي في عنوان البريد الإلكتروني. تتضمن التقارير غير الرسمية رمز خطأ يشير إلى سبب عدم تسليم بريدك الإلكتروني وحلول لمساعدتك على تسليم بريدك الإلكتروني، ارتباط إلى مزيد من المساعدة على الويب، وتفاصيل تقنية للمسؤولين.
 
-للاطلاع علي قائمه بالNDRs ومعرفه سبب عدم تسليم رسالتك ، راجع [التقارير بعدم تسليم البريد الكتروني في Exchange Online](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online).
+لرؤية قائمة بالتقارير بعدم التسليم (NDRS) ولمعرفة سبب عدم تسليم رسالتك، راجع إرسال تقارير بعدم التسليم بالبريد الإلكتروني في [Exchange Online](https://docs.microsoft.com/exchange/mail-flow-best-practices/non-delivery-reports-in-exchange-online/non-delivery-reports-in-exchange-online).
