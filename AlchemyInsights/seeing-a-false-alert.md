@@ -1,5 +1,5 @@
 ---
-title: الاطلاع علي تنبيه خاطئ
+title: رؤية تنبيه خاطئ
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3202"
 - "9001221"
-ms.openlocfilehash: e2e3133f6a78f4d6943edb8ce6784ef04f807a56
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 24326020eb12985651fab7cb0845d61250f6eacf6074f17c147c66554b0bd870
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47740066"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942786"
 ---
-# <a name="seeing-a-false-alert"></a>الاطلاع علي تنبيه خاطئ
+# <a name="seeing-a-false-alert"></a>رؤية تنبيه خاطئ
 
-- أرسل ملفا إلى Microsoft للتحليل. لمزيد من المعلومات ، راجع [ما يجب فعله باستخدام false بوسيتيفيس/السلبي في برنامج الحماية من الفيروسات في Microsoft Defender](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-antivirus/antivirus-false-positives-negatives#submit-a-file-to-microsoft-for-analysis).
-- قم بإنشاء مؤشر "السماح" لمنع التنبيه الموجب false. للحصول علي مزيد من المعلومات ، راجع [إنشاء مؤشرات للملفات](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/indicator-file).  
-- قم بتكوين الاستثناءات علي الجهاز لمنع فحص عنصر. للحصول علي مزيد من المعلومات ، راجع [تعريف استبعاد علي جهاز Windows فردي لمنع فحص أحد العناصر](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-antivirus/antivirus-false-positives-negatives#define-an-exclusion-on-an-individual-windows-device-to-prevent-an-item-from-being-scanned).  
+- إرسال ملف إلى Microsoft لتحليله. لمزيد من المعلومات، راجع [ما يجب فعله بالإيجابيات/السلبيات](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-antivirus/antivirus-false-positives-negatives#submit-a-file-to-microsoft-for-analysis)الخاطئة في برنامج الحماية من الفيروسات من Microsoft Defender .
+- قم بإنشاء مؤشر "السماح" لمنع تنبيه موجب خاطئ. لمزيد من المعلومات، راجع [إنشاء مؤشرات للملفات](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/indicator-file).  
+- تكوين الاستثناءات على الجهاز لمنع فحص عنصر ما. لمزيد من المعلومات، راجع تعريف استثناء على جهاز Windows لمنع فحص [عنصر](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-antivirus/antivirus-false-positives-negatives#define-an-exclusion-on-an-individual-windows-device-to-prevent-an-item-from-being-scanned)ما.  

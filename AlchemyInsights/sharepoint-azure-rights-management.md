@@ -8,28 +8,28 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: af1b936b-0475-497b-a6d3-e671aef7b717
-ms.openlocfilehash: cc6f93ba8ae3a030f83da5eca2d28dcf38f0f8f7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 71cfef0cedcc17833b19ed5f050a6510fe1371b58de9054eace2f29a46b3e06d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800883"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53942120"
 ---
-# <a name="irm-protection-to-sharepoint-files"></a>حماية IRM إلى ملفات SharePoint
+# <a name="irm-protection-to-sharepoint-files"></a>IRM Protection SharePoint الملفات
 
 
-في SharePoint Online ، يتم تطبيق حماية IRM علي الملفات الموجودة في مستوي القائمة والمكتبة. قبل ان تتمكن مؤسستك من استخدام حماية IRM ، يجب أولا اعداد أداره الحقوق. تعتمد IRM علي خدمه Azure Rights Management من حماية معلومات Azure لتشفير قيود الاستخدام وتعيينها. تتضمن بعض اشتراكات Microsoft 365 أداره حقوق استخدام Azure ، ولكن ليس كلها. 
+ضمن SharePoint Online، يتم تطبيق حماية IRM على الملفات على مستوى القائمة والمكتبة. قبل أن تتمكن مؤسستك من استخدام حماية IRM، يجب أولا إعداد إدارة الحقوق. تعتمد إدارة حقوق المعلومات على خدمة Azure Rights Management من Azure Information Protection لتشفير قيود الاستخدام وتعيينها. تتضمن Microsoft 365 اشتراكات Azure Rights Management، وليس كلها. 
 
 للتعرّف على المزيد، اطلع على:
 
-- [كيفيه دعم تطبيقات Office وخدماته في Azure Rights Management](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support).
+- [كيف Office تطبيقات وخدمات Azure Rights Management.](https://docs.microsoft.com/azure/information-protection/understand-explore/office-apps-services-support)
 
-- [اعداد أداره حقوق المعلومات (IRM) في مركز أداره SharePoint](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center).
+- [إعداد إدارة حقوق استخدام المعلومات (IRM) في SharePoint إدارة .](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center)
 
-- [IRM-تمكين مكتبات المستندات والقوائم في SharePoint](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists).
+- [IRM-enable SharePoint مكتبات المستندات والقوائم](https://docs.microsoft.com/microsoft-365/compliance/set-up-irm-in-sp-admin-center#irm-enable-sharepoint-document-libraries-and-lists).
 
-- [أداره حقوق استخدام المعلومات في Office](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c).
+- [إدارة حقوق استخدام المعلومات في Office.](https://support.office.com/Article/Information-Rights-Management-in-Office-c7a70797-6b1e-493f-acf7-92a39b85e30c)
 
-- [أداره حقوق استخدام المعلومات في Exchange Online](https://docs.microsoft.com/microsoft-365/compliance/information-rights-management-in-exchange-online).
+- [إدارة حقوق استخدام المعلومات في Exchange Online](https://docs.microsoft.com/microsoft-365/compliance/information-rights-management-in-exchange-online).
 
 

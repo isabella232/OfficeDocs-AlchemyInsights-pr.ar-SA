@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000221"
 - "2490"
-ms.openlocfilehash: b86230d1073f2423a6abf694d5330dd72fec7912
-ms.sourcegitcommit: 847f2bfd660847440df0195258acb9253f313a69
+ms.openlocfilehash: 8fb28280952522ede040441c20434e34c19695aba00889e2978ed98ef1544819
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48949732"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54008317"
 ---
 # <a name="troubleshoot-issues-when-using-windows-autopilot"></a>استكشاف الأخطاء وإصلاحها عند استخدام Windows AutoPilot
 
-إذا كنت تواجه مشكله في AutoPilot ، فراجع صفحات [استكشاف الأخطاء وإصلاحها في AutoPilot](https://docs.microsoft.com/windows/deployment/windows-autopilot/troubleshooting) [والمشاكل المعروفة](https://docs.microsoft.com/windows/deployment/windows-autopilot/known-issues) .
+إذا كنت تواجه مشكلة في AutoPilot، فشاهد صفحتي استكشاف الأخطاء وإصلاحها في [Autopilot](https://docs.microsoft.com/windows/deployment/windows-autopilot/troubleshooting) [و المشاكل المعروفة.](https://docs.microsoft.com/windows/deployment/windows-autopilot/known-issues)
 
-إذا كنت تواجه مشكله في استخدام Windows AutoPilot ، فالرجاء مراجعه المستند التالي للحصول علي تلميحات حول كيفيه استكشاف المشكلة وإصلاحها. [فهم صفحه حاله التسجيل واستكشاف الأخطاء فيها](https://docs.microsoft.com/troubleshoot/mem/intune/understand-troubleshoot-esp)
+إذا كنت تواجه مشكلة في Windows AutoPilot أثناء مرحلة صفحة حالة التسجيل (ESP)، فيرجى مراجعة المستند التالي للحصول على تلميحات حول كيفية استكشاف المشكلة وإصلاحها. [فهم صفحة حالة التسجيل وإصلاحها](https://docs.microsoft.com/troubleshoot/mem/intune/understand-troubleshoot-esp)
 
-إذا كنت تبحث عن تجربه Autopilot مع أجهزه Hololens 2 ، فالرجاء التاكد من مراجعه وثائق "[Windows Autopilot For hololens 2](https://docs.microsoft.com/hololens/hololens2-autopilot) ". سيساعدك هذا علي فهم الخطوات السابقة المتطلبات والموصي بها لتسجيل Hololens 2 باستخدام Autopilot  
+إذا كنت تبحث عن تجربة Autopilot باستخدام أجهزة Hololens 2، فالرجاء التأكد من مراجعة وثائق Windows[Autopilot HoloLens 2.](https://docs.microsoft.com/hololens/hololens2-autopilot) سيساعدك هذا على فهم المتطلبات الأساسية والخطوات الموصى بها لتسجيل Hololens 2 باستخدام Autopilot  
 
-للحصول علي مزيد من المعلومات حول اعداد Windows Autopilot ، راجع [تسجيل أجهزه Windows في Intune باستخدام Windows Autopilot](https://docs.microsoft.com/intune/enrollment/enrollment-autopilot)
+لمزيد من المعلومات حول إعداد autopilot Windows راجع تسجيل Windows في [Intune باستخدام autopilot Windows Autopilot](https://docs.microsoft.com/intune/enrollment/enrollment-autopilot)
