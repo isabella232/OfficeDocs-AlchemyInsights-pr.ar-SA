@@ -1,5 +1,5 @@
 ---
-title: التحقق من حسابات خدمه AADConnect
+title: التحقق من حسابات خدمة AADConnect
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1726"
 - "9000180"
-ms.openlocfilehash: 4c18ddc19c60075cbea4edce95ebbf6491778b41
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9c1d55e9cdb3702725e9e6fabd5323391470070c30e6da90765874535cb27647
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714018"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53949626"
 ---
-# <a name="check-the-aadconnect-service-accounts"></a>التحقق من حسابات خدمه AADConnect
+# <a name="check-the-aadconnect-service-accounts"></a>التحقق من حسابات خدمة AADConnect
 
-إذا تلقيت أخطاء مزامنة مثل "لا يوجد مزامنة حديثه" أو اشعارت حاله مزامنة الدليل في مدخل مسؤول Office ، فقد يكون لدي AADConnect إعدادات غير صحيحه أو أذونات غير كافيه لاجراء المزامنة. قد يؤدي أعاده تثبيت AADConnect باستخدام إعدادات express إلى حل المشكلة.
+إذا تلقيت أخطاء مزامنة مثل "لا توجد مزامنة حديثة"، أو لاحظت حالة مزامنة الدليل في مدخل مسؤول Office تقول "آخر مزامنة منذ أكثر من 3 أيام"، فقد يكون لدى AADConnect إعدادات غير صحيحة أو أذونات غير كافية لتنفيذ المزامنة. قد يحل إعادة تثبيت AADConnect باستخدام الإعدادات المعبرة المشكلة.
 
-لتنزيل الإصدار الأخير من AADConnect ، راجع [Microsoft Azure Active Directory Connect](https://go.microsoft.com/fwlink/?LinkId=615771).
+لتنزيل أحدث إصدار من AADConnect، [راجع](https://go.microsoft.com/fwlink/?LinkId=615771)Microsoft Azure Active Directory الاتصال .
 
-للحصول علي إرشادات حول التثبيت السريع ، راجع [بدء استخدام AZURE AD Connect باستخدام الإعدادات السريعة](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express).
+للحصول على إرشادات التثبيت السريع، راجع بدء استخدام [Azure AD الاتصال إعدادات صريحة](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express).
 
-لمزيد من المعلومات حول حسابات خدمات AADConnect ، راجع [AZURE AD Connect: الحسابات والأذونات](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions).
+لمزيد من المعلومات حول حسابات خدمة AADConnect، راجع [Azure AD الاتصال: الحسابات والأذونات](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions).

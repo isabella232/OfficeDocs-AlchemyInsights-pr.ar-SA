@@ -1,5 +1,5 @@
 ---
-title: تغيير صوره ملف التعريف في Outlook علي الويب
+title: تغيير صورة ملف التعريف في Outlook على ويب
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,20 +10,20 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 07e53a48a6846adc9f73eb5905ff6e6ee9744f53
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: b57d5fc7085d38c2f844a56e6d06ea6dcae3026360a8288cb73baed5d1280a05
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48451963"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095313"
 ---
-# <a name="change-your-profile-picture-in-outlook-on-the-web"></a>تغيير صوره ملف التعريف في Outlook علي الويب
+# <a name="change-your-profile-picture-in-outlook-on-the-web"></a>تغيير صورة ملف التعريف في Outlook على ويب
 
-1. في اعلي الصفحة ، حدد الاسم أو صوره ملف التعريف.
-1. في الجزء **حسابي** ، حدد صوره ملف التعريف الخاص بك.
-1. في مربع الحوار **تغيير الصورة** ، حدد **تحميل صوره جديده**.
-1. اختر صوره لتحميلها وحدد **تطبيق**.
+1. في أعلى الصفحة، حدد اسمك أو صورة ملف التعريف.
+1. في الجزء **حسابي،** حدد صورة ملف التعريف.
+1. في مربع الحوار تغيير **الصورة،** حدد Upload **صورة جديدة.**
+1. اختر صورة لتحميلها وحدد **تطبيق**.
 
-*ملاحظه:* ستظهر صورتك الجديدة في المرة التالية التي تسجل فيها الدخول إلى Microsoft 365.
+*ملاحظة:* ستظهر صورتك الجديدة في المرة التالية التي تقوم فيها تسجيل الدخول Microsoft 365.
 
-لمزيد من المعلومات ، راجع [تغيير الصورة ومعلومات الحساب في Outlook علي الويب](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).
+لمزيد من المعلومات، راجع [تغيير الصورة ومعلومات الحساب في Outlook على ويب](https://support.office.com/article/b2dbb289-851d-4bed-93c3-3e136f5659ec).

@@ -1,5 +1,5 @@
 ---
-title: أذونات علبه البريد المفوضة في بيئة مختلطة
+title: أذونات علبة البريد المفوضة في بيئة مختلطة
 ms.author: dstrome
 author: dstrome
 manager: dansimp
@@ -13,14 +13,14 @@ ms.custom:
 - "685"
 - "3500009"
 ms.assetid: 86685ad6-5988-415d-817a-57a75ff17119
-ms.openlocfilehash: 84ce7c1a31ad3d44b10c892c1d6a1a5ef85de58d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7e2b8e8948becbb1ac07ca340fb13038caf16f6093988a894e85e0cefb8a64a4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47680447"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53948690"
 ---
-# <a name="delegated-mailbox-permissions-in-a-hybrid-environment"></a>أذونات علبه البريد المفوضة في بيئة مختلطة
+# <a name="delegated-mailbox-permissions-in-a-hybrid-environment"></a>أذونات علبة البريد المفوضة في بيئة مختلطة
 
-استنادا إلى إصدار Exchange الذي قمت بتثبيته في المؤسسة المحلية ، قد تحتاج إلى تنفيذ بعض الخطوات الاضافيه لاعداد أذونات علبه البريد المفوضة بين المؤسسة المحلية و Exchange Online في Microsoft 365. للحصول علي مزيد من المعلومات حول كيفيه اعداد الأذونات المفوضة ، قم بإلقاء نظره علي [تكوين Exchange لدعم أذونات علبه البريد المفوضة في نشر مختلط](https://technet.microsoft.com/library/mt784505%28v=exchg.150%29.aspx).
+استنادا إلى إصدار Exchange الذي قمت بتثبيته في مؤسستك الحالية، قد تحتاج إلى اتخاذ بعض الخطوات الإضافية لإعداد أذونات علبة البريد المفوضة بين مؤسستك Exchange Online في Microsoft 365. لمزيد من المعلومات حول كيفية إعداد الأذونات المفوضة، أطلع على تكوين Exchange لدعم أذونات علبة البريد المفوضة [في نشر مختلط.](https://technet.microsoft.com/library/mt784505%28v=exchg.150%29.aspx)
   

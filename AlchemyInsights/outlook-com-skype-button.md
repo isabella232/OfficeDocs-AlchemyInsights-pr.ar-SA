@@ -1,5 +1,5 @@
 ---
-title: 8000049 أيقونه Skype مفقوده في Outlook.com
+title: 8000049 Skype أيقونة مفقودة في Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,15 +10,15 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000049
-ms.openlocfilehash: 6ff0c00245c8f6121b688e306fd56179f6cdf862
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6864ffb57acf80ad3732826618bc2e2c0dc8823a9fc91593be0a3697cd110ca0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802224"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063507"
 ---
-# <a name="skype-icon-missing"></a>أيقونه Skype مفقوده
+# <a name="skype-icon-missing"></a>Skype أيقونة مفقودة
 
-لقد قمنا بازاله أيقونه Skype بشكل مؤقت من Outlook.com كجزء من تحديث "التصميم" ، والميزات التي نشعر أثارنا ان يتم نشرها. نقدر علي صبر الخاص بك بينما نقوم باعداد تجربه جديده ومحسنه لك.
+لقد قمنا بإزالة أيقونة Skype مؤقتا من Outlook.com كجزء من تحديث التصميم وتحديث الميزات الذي نحن متحمسون ل طرحه. نحن نقدر سعة صدرك بينما نقوم بإعداد تجربة جديدة ومحسنة لك.
 
-لا يزال بإمكانك استخدام Skype عبر المستعرض لديك في [web.skype.com](https://web.skype.com).
+لا يزال بإمكانك استخدام Skype المستعرض في [web.skype.com](https://web.skype.com).
