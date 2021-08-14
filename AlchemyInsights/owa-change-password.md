@@ -1,5 +1,5 @@
 ---
-title: تغيير كلمه المرور في Outlook علي الويب
+title: تغيير كلمة المرور في Outlook على ويب
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "8000002"
 - "1990"
-ms.openlocfilehash: 8e6c77435e468b82dd304b1045aece5ce760b1df
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4ca70200da9e488e90baf6ee2ec16c3cc023f21e26eb8a740bcc3fce1557d6d3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47795915"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063255"
 ---
-# <a name="change-your-microsoft-365-password"></a>تغيير كلمه مرور Microsoft 365
+# <a name="change-your-microsoft-365-password"></a>تغيير كلمة Microsoft 365 المرور
 
-إذا كنت بحاجه إلى تغيير كلمه المرور الخاصة ب Microsoft 365 أو أعاده تعيينها ، يمكنك الانتقال مباشره إلى هذه الصفحة: [أعاده تعيين كلمه مرور Microsoft الخاصة بك](https://go.microsoft.com/fwlink/p/?linkid=841910)
+إذا كنت بحاجة إلى تغيير كلمة مرور Microsoft 365 أو إعادة تعيينها، يمكنك الانتقال مباشرة إلى هذه الصفحة: [إعادة تعيين كلمة مرور Microsoft](https://go.microsoft.com/fwlink/p/?linkid=841910)

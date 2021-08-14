@@ -1,5 +1,5 @@
 ---
-title: 8000088 حفظ البريد الكتروني في Outlook.com
+title: 8000088 حفظ البريد الإلكتروني في Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,27 +15,27 @@ ms.custom:
 - "1399"
 - "1626"
 - "8000088"
-ms.openlocfilehash: a85a6aa5dd10b31029e9341f24679e22318ce264
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 518bce3c59bf7c89d1f2444678b93623066d39b35b6f889696723dd35acbf572
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722909"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54095205"
 ---
 # <a name="saving-messages-in-outlookcom"></a>حفظ الرسائل في Outlook.com
 
-لا يمكنك حفظ رسائل البريد الكتروني في Outlook.com ، ولكن يمكنك طباعتها في ملف PDF يمكنك حفظه علي الكمبيوتر الشخصي.
+لا يمكنك حفظ رسائل البريد الإلكتروني في Outlook.com، ولكن يمكنك طباعتها إلى ملف PDF يمكنك حفظها على الكمبيوتر الشخصي.
 
-تسمح لك الاداه المساعدة Microsoft Print To PDF المضمنة في Windows 10 بطباعه اي رسالة بريد الكتروني مباشره إلى PDF.
+تسمح لك الأداة المساعدة Microsoft Print To PDF Windows 10 طباعة أي رسالة بريد إلكتروني مباشرة إلى ملف PDF.
 
 1. حدد الرسالة التي تريد حفظها.
-2. تحديد النقاط الثلاثة <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
- في اعلي الرسالة ثم حدد <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wcfFxQM2C923gAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAeElEQVQ4jWP89OnTfwYqABZsgrGxsXg1LV68mDiDcCnGZwkTXqtJAMPYIMZPnz79LysrY3j+/DlZBkhKSjJ0dXVBYu358+c4Y4kQgMUiitcaGhrIMoyqBg3jlA13ESHvIANsalkYGDC9QdUwIsWFDAzQlE2SDhwAAENlLpSLmVb+AAAAAElFTkSuQmCC' />
- **طباعه**.
-3. حدد **طباعه** مره أخرى ، ومن القائمة المنسدلة للطابعة ، حدد **MICROSOFT Print to PDF**.
-4. حدد **طباعه**.
-5. ادخل اسم ملف ثم حدد **حفظ**.
+2. تحديد النقاط الثلاث <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
+ في أعلى الرسالة، ثم حدد <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAACXBIWXMAABJ0AAASdAHeZh94AAAAB3RJTUUH4wcfFxQM2C923gAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAeElEQVQ4jWP89OnTfwYqABZsgrGxsXg1LV68mDiDcCnGZwkTXqtJAMPYIMZPnz79LysrY3j+/DlZBkhKSjJ0dXVBYu358+c4Y4kQgMUiitcaGhrIMoyqBg3jlA13ESHvIANsalkYGDC9QdUwIsWFDAzQlE2SDhwAAENlLpSLmVb+AAAAAElFTkSuQmCC' />
+ **طباعة**.
+3. حدد **طباعة** مرة أخرى، ومن القائمة المنسدلة للطابعة، حدد **Microsoft Print إلى PDF**.
+4. حدد **طباعة**.
+5. أدخل اسم ملف ثم حدد **حفظ**.
 
-**ملاحظه:** لا ينصح بهذا علي أجهزه الكمبيوتر المشتركة أو العامة ليتمكن المستخدمون الآخرون من الوصول إلى اي من ملفات Pdf التي تحفظها علي الكمبيوتر الشخصي ولا تحذفها.
+**ملاحظة:** لا يوصى بذلك على أجهزة الكمبيوتر المشتركة أو العامة حيث يمكن للمستخدمين الآخرين الوصول إلى أي ملفات PDF تقوم بحفظها على الكمبيوتر الشخصي ولا يحذفونها.
 
-للحصول علي مزيد من المعلومات حول الطباعة ، راجع [طباعه رسائل البريد الكتروني والمرفقات والتقويمات في Outlook.com](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy).
+لمزيد من المعلومات حول الطباعة، راجع طباعة رسائل البريد الإلكتروني والمرفقات [والتقويمات في Outlook.com](https://support.office.com/article/c835b8e5-b310-4cab-ac15-b6eb95149855?wt.mc_id=Office_Outlook_com_Alchemy).
