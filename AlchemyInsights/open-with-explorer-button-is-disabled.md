@@ -1,5 +1,5 @@
 ---
-title: الزر "فتح بواسطة المستعرض" معطل
+title: الزر "فتح باستخدام المستكشف" معطل
 ms.author: toresing
 author: tomresing
 manager: scotv
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: ff0f9110-10be-4c27-acaa-1615f81a53f2
-ms.openlocfilehash: 4bfb877c52bab26eb3e43c95901857ef731d0bb6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9ff4d8a16cbb92aa36f165f9a6525ccba7dedff49ccc1805097206dbab43ce40
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47694659"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53944586"
 ---
-# <a name="the-open-with-explorer-button-is-disabled"></a>تعطيل الزر "فتح بواسطة المستكشف"
+# <a name="the-open-with-explorer-button-is-disabled"></a>تم تعطيل الزر فتح باستخدام المستكشف
 
-- استعرض وصولا إلى موقع SharePoint أو OneDrive في Internet Explorer 10 أو Internet Explorer 11. الزر غير متوافق مع مستعرضات ويب الأخرى.
+- استعرض بحثا عن SharePoint أو OneDrive في Internet Explorer 10 Internet Explorer 11. لا يتوافق الزر مع مستعرضات الويب الأخرى.
     
 > [!NOTE]
-> يعد فتح مكتبه في "مستكشف الملفات" مفيدا إذا كنت بحاجه إلى نسخ ملفات ومجلدات متعددة أو نقلها مره واحده ، ولكن إذا كنت تريد العمل بشكل منتظم في المكتبة ، فنوصي بمزامنتها. للحصول علي مزيد من المساعدة واستكشاف المشاكل الأخرى التي يتم فتحها في "مستكشف الملفات" وإصلاحها ، راجع [فتح في explorer](https://go.microsoft.com/fwlink/?linkid=871665). للحصول علي معلومات حول اعداد المزامنة ، راجع [مزامنة ملفات SharePoint باستخدام عميل المزامنة من OneDrive الجديد](https://go.microsoft.com/fwlink/?linkid=871666). 
+> إن فتح مكتبة في "مستكشف الملفات" مفيد إذا كنت بحاجة إلى نسخ ملفات ومجلدات متعددة أو نقلها مرة واحدة، ولكن إذا كنت تريد العمل بشكل منتظم في المكتبة، نوصي بمزامنتها. لمزيد من المساعدة ول استكشاف المشاكل الأخرى التي يتم فتحها في "مستكشف الملفات" وإصلاحها، راجع [فتح في المستكشف](https://go.microsoft.com/fwlink/?linkid=871665). للحصول على معلومات حول إعداد المزامنة، راجع [SharePoint الملفات باستخدام عميل المزامنة من OneDrive الجديد.](https://go.microsoft.com/fwlink/?linkid=871666) 
   
 

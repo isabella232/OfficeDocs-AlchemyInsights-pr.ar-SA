@@ -1,5 +1,5 @@
 ---
-title: 'استكشاف أخطاء البريد الصوتي '
+title: 'استكشاف الأخطاء في البريد الصوتي وإصلاحها '
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7564"
-ms.openlocfilehash: a2d26da512838ae112c352fe21366074b69fa224
-ms.sourcegitcommit: 3802f2f4db4f53a408a360187db67f2296448c21
+ms.openlocfilehash: e639d74cd8dbbb03ffb5b253451c99c8fe639f024a46e173845a0f4d322e43ca
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49676731"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53972370"
 ---
-# <a name="troubleshooting-voicemail"></a>استكشاف أخطاء البريد الصوتي
+# <a name="troubleshooting-voicemail"></a>استكشاف الأخطاء في البريد الصوتي وإصلاحها
 
-تاكد من ان ميزه مشغول علي مشغول.
+تأكد من أن ميزة "مشغول عند الانشغال" مقصودة.
 
-إذا لم تكن هذه الميزة ضرورية علي هذا المستخدم:
+إذا لم تكن هذه الميزة مطلوبة لهذا المستخدم:
 
-1. انتقل إلى [مركز أداره الفرق](https://admin.teams.microsoft.com/policies/calling).
-1. في الصفحة اليمني ، انتقل إلى  >  أداره **نهج الاتصال** الصوتي  >  **النهج** في **نهج الاتصال**.
-1. حدد **أداره المستخدمين**.
-1. يتوفر البحث عن المستخدم وتغيير نهج الاتصال إلى الآخر الذي يكون **مشغولا عليه مشغولا عند اجراء مكالمة** **لإيقاف التشغيل**.
+1. انتقل إلى [Teams مركز الإدارة.](https://admin.teams.microsoft.com/policies/calling)
+1. على الجانب الأيسر، انتقل **إلى نهج المكالمات** الصوتية إدارة  >    >  **النهج** على نهج **الاتصال**.
+1. حدد **إدارة المستخدمين**.
+1. ابحث عن المستخدم وبدل نهج الاتصال إلى نهج يتوفر فيه مشغول عند الاتصال **ب** إيقاف **تشغيل**.
 1. انقر فوق **تطبيق**.
 > [!NOTE]
-> قد تستغرق التغييرات في النهج ما يصل إلى 24 ساعة للنسخ المتماثل.
+> قد تستغرق التغييرات التي يتم إدخالها على السياسات ما يصل إلى 24 ساعة للتكرار.
 
-للحصول علي مزيد من المعلومات حول هذه الميزة ، يمكنك الاشاره إلى: [مشغول علي مشغول متوفر اثناء اجراء مكالمة](https://docs.microsoft.com/microsoftteams/teams-calling-policy#busy-on-busy-is-available-while-in-a-call).
+لمزيد من المعلومات حول هذه الميزة، راجع: [يتوفر "مشغول عند الانشغال" أثناء المكالمة.](https://docs.microsoft.com/microsoftteams/teams-calling-policy#busy-on-busy-is-available-while-in-a-call)

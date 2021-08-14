@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 5ddaaed361f6ec934cfffb00cc62a9df2d1a04e8
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 74f9733196004fd7a78eeb290c948a9f35ac2a31b3c5b00bf82e44081aac8637
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743113"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988822"
 ---
 # <a name="automatically-encrypt-certain-email-messages-from-office-365"></a>تشفير بعض رسائل البريد الإلكتروني تلقائيا من office 365
 
-1. من مركز [إدارة Exchange،](https://outlook.office365.com/ecp/)اختر **تدفق البريد > قواعد .** 
-2. انقر فوق **الأيقونة جديد (+)،** ثم انقر فوق تطبيق تشفير الرسائل وحماية الحقوق في **Office 365 على الرسائل.**
+1. من مركز [Exchange،](https://outlook.office365.com/ecp/)اختر تدفق البريد **> قواعد .** 
+2. انقر فوق **الأيقونة جديد (+)،** ثم انقر فوق تطبيق تشفير الرسائل من Office 365 **وحماية الحقوق على الرسائل.**
 3. في **الاسم**، أدخل اسما للقاعدة، مثل *تشفير كل الرسائل.*
 4. في **تطبيق هذه القاعدة إذا**، اختر **[تطبيق على كل الرسائل]**. 
 5. إلى بجانب الحقل **قم بما يلي،** انقر **فوق تحديد واحد**. 
@@ -36,5 +36,5 @@ ms.locfileid: "50743113"
 > [!IMPORTANT]
 > يمكنك دائما الرجوع وتحرير هذه القاعدة لاحقا.
 
-لمزيد من المعلومات حول إنشاء قواعد التشفير، راجع تعريف قواعد تدفق البريد لتشفير رسائل البريد الإلكتروني [في Office 365](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)
+لمزيد من المعلومات حول إنشاء قواعد التشفير، راجع تعريف قواعد تدفق البريد [لتشفير](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email) رسائل البريد الإلكتروني في Office 365
 
