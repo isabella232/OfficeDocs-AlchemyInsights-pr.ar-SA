@@ -1,5 +1,5 @@
 ---
-title: مشاكل تطوير التطبيقات باستخدام واجات برمجه التطبيقات
+title: مشاكل في تطوير التطبيقات باستخدام واجهات برمجة التطبيقات
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,41 +13,41 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004343"
 - "7755"
-ms.openlocfilehash: 26d732819b64efa4fb84da44cc2a279368aa28b0
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: 1de4e9aa5078507eecdbe53366e446e733029ecb1342f20ca701fa7f95a06fa9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974205"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54013447"
 ---
-# <a name="issues-developing-applications-with-apis"></a>مشاكل تطوير التطبيقات باستخدام واجات برمجه التطبيقات
+# <a name="issues-developing-applications-with-apis"></a>مشاكل في تطوير التطبيقات باستخدام واجهات برمجة التطبيقات
 
-للبدء باستخدام واجهه برمجه التطبيق الخاصة ب Azure Active Directory ، راجع [دليل AZURE Ad GRAPH api تشغيل](https://docs.microsoft.com/azure/active-directory/develop/microsoft-graph-intro) ، أو اعرض [الوثائق التبادلية التفاعلية ل azure ad graph](https://docs.microsoft.com/previous-versions/azure/ad/graph/api/api-catalog).
+لبدء استخدام Azure Active Directory Graph API، راجع دليل البدء السريع ل [Azure AD Graph API](https://docs.microsoft.com/azure/active-directory/develop/microsoft-graph-intro) ، أو عرض وثائق مرجع [Azure AD Graph API التفاعلية](https://docs.microsoft.com/previous-versions/azure/ad/graph/api/api-catalog).
 
-**نهاية دعم مكتبه المصادقة ل Azure Active directory (ADAL) و Azure AD Graph API (رسم البياني AAD)**
+**انتهاء الدعم لمكتبة مصادقة Azure Active Directory (ADAL) و Azure AD Graph API (AAD Graph)**
 
-**يبدا يوم 30 يونيو ، 2020**، لن نضيف اي ميزات جديده إلى الرسم البياني ADAL و Azure AD. سنستمر في توفير الدعم التقني وتحديثات الأمان ولكنه لن يوفر تحديثات الميزات بعد الآن.
+**بدءا من 30 يونيو 2020،** لن نضيف أي ميزات جديدة إلى ADAL و Azure AD Graph. سنستمر في تقديم الدعم الفني وتحديثات الأمان ولكننا لن نقدم تحديثات للميزات بعد الآن.
 
-**بدءا من 30 يونيو 2022**، سنقوم بإنهاء الدعم ل ADAL والرسم البياني ل Azure AD ولن يعود بحاجه إلى توفير الدعم التقني أو تحديثات الأمان.
+**بدءا من 30 يونيو 2022،** سننهي دعم ADAL و Azure AD Graph ولن نوفر تحديثات الأمان أو الدعم التقني.
 
-ستستمر التطبيقات التي تستخدم ADAL في إصدارات نظام التشغيل الموجودة في العمل بعد هذه المرة ولكن لن تحصل علي اي دعم تقني أو تحديثات أمان.
+ستستمر التطبيقات التي تستخدم ADAL على إصدارات نظام التشغيل الحالية في العمل بعد هذا الوقت ولكنها لن تحصل على أي دعم فني أو تحديثات الأمان.
 
-قد لا تتلقي التطبيقات التي تستخدم الرسم البياني Azure AD بعد هذه الفترة الاستجابات من نقطه نهاية الرسم البيانية في Azure AD.
+قد لا تتلقى التطبيقات التي تستخدم Azure AD Graph بعد هذا الوقت استجابات من نقطة نهاية Azure AD Graph نهاية.
 
-**الترحيل ADAL**
+**ترحيل ADAL**
 
-نوصي بالتحديث إلى [مكتبه مصادقه Microsoft (مسال)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview)، التي تحتوي علي أحدث الميزات وتحديثات الأمان.
+نوصي بالتحديث إلى [مكتبة مصادقة Microsoft (MSAL)](https://docs.microsoft.com/azure/active-directory/develop/v2-overview)، التي تحتوي على أحدث الميزات وتحديثات الأمان.
 
-إذا كنت تستخدم تطبيقات Microsoft ، فتعرف ان Microsoft يجري عمليه ترحيل تطبيقاته إلى مسال بواسطة الموعد النهائي لنهاية الدعم ، مما يضمن توفرها من الأمان وتحسينات الميزات المسالة.
+إذا كنت تستخدم تطبيقات Microsoft، فتعرف على أن Microsoft تقوم بتهجر تطبيقاتها إلى MSAL بحلول الموعد النهائي لنهاية الدعم، مع التأكد من أنها ستستفيد من تحسينات الميزات والأمان المستمرة ل MSAL.
 
-1. [أقرا الاسئله المتداولة حول ADAL](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq).
-1. [تعرف علي كيفيه ترحيل التطبيقات علي أساس كل نظام أساسي](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq).
-1. إذا كنت بحاجه إلى مساعده في التعرف علي التعليمات البرمجية الخاصة بالتطبيقات التي تستخدمها ADAL ، فمن المستحسن مراجعه جميع برامج المصدر الخاصة بكل تطبيق ، والوصول إلى اي إيسفس أو موفري تطبيقات. يمكن ان يوفر لك دعم Microsoft أيضا قائمه بكل تطبيقات ADAL التابعة ل Microsoft في نطاق المستاجر الخاص بك.
+1. [اقرأ الأسئلة الشائعة حول ADAL](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq).
+1. [تعرف على كيفية ترحيل التطبيقات على أساس كل نظام أساسي.](https://docs.microsoft.com/azure/active-directory/develop/msal-migration#frequently-asked-questions-faq)
+1. إذا كنت بحاجة إلى مساعدة في فهم التطبيقات التي تستخدم ADAL، فإننا ننصحك بمراجعة التعليمات البرمجية المصدر لتطبيقاتك، وإذا كان ذلك قابلا للتطبيق، فصل إلى أي موفري خدمات الإنترنت أو موفري التطبيقات. يمكن أن يوفر لك دعم Microsoft أيضًا قائمة بجميع تطبيقات ADAL غير التابعة لـ Microsoft في المستأجر الخاص بك.
 
-**ترحيل الرسم البياني AAD**
+**ترحيل AAD Graph**
 
-بالنسبة إلى التطبيقات التي تستخدم الرسم البياني Azure AD ، اتبع الإرشادات الخاصة بنا لترحيل [تطبيقات الرسومات البيانية في AZURE ad إلى Microsoft Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-overview?view=graph-rest-1.0&preserve-view=true).
+بالنسبة للتطبيقات التي تستخدم Azure AD Graph، اتبع إرشاداتنا لترحيل [تطبيقات Azure AD Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-overview?view=graph-rest-1.0&preserve-view=true)إلى Microsoft Graph .
 
-1. [توفر قائمه الاختيار الخاصة بالترحيل نقطه بدء](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist). 
-1. يعرض مدخل تسجيلك في Azure app التطبيقات التي تستخدم الرسم البياني AAD. نوصي بمراجعه كل التعليمات البرمجية المصدر لتطبيقاتك ، وإذا كان ذلك ممكنا ، فيمكنك الوصول إلى اي إيسفس أو موفري التطبيق. يمكن ان يوفر لك دعم Microsoft أيضا قائمه بكل استخدامات الرسم البياني ل AAD في المستاجر.
-1. بالنسبة إلى التطبيق للوصول إلى البيانات في Microsoft Graph ، يجب ان يمنح المستخدم أو المسؤول الأذونات الصحيحة عبر عمليه الموافقة. يسرد [مرجع أذونات Microsoft Graph](https://docs.microsoft.com/graph/permissions-reference?context=graph%2Fapi%2Fbeta&view=graph-rest-beta&preserve-view=true) الأذونات المقترنة بكل مجموعه رئيسيه من واجات برمجه تطبيقات microsoft graph. يوفر أيضا إرشادات حول كيفيه استخدام الأذونات.
+1. [توفر قائمة اختيار الترحيل نقطة بدء استخدام](https://docs.microsoft.com/graph/migrate-azure-ad-graph-planning-checklist). 
+1. يُُظهر مدخل تسجيل تطبيق Azure التطبيقات التي تستخدم AAD Graph. نوصيك بمراجعة جميع التعليمات البرمجية المصدر لتطبيقاتك، وإذا أمكن، يمكنك الوصول إلى أي من موردي البرامج المستقلين أو مزودي التطبيقات. يمكن أن يوفر لك دعم Microsoft أيضا قائمة بكل برامج AAD Graph في المستأجر.
+1. لكي يمكن لتطبيقك الوصول إلى البيانات في Microsoft Graph، يجب على المستخدم أو المسؤول منحه الأذونات الصحيحة عبر عملية موافقة. يسرد [مرجع Graph](https://docs.microsoft.com/graph/permissions-reference?context=graph%2Fapi%2Fbeta&view=graph-rest-beta&preserve-view=true) Microsoft الأذونات المقترنة بكل مجموعة رئيسية من واجهات برمجة التطبيقات Graph Microsoft. كما يوفر إرشادات حول كيفية استخدام الأذونات.

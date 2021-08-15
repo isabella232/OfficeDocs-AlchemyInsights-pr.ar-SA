@@ -1,5 +1,5 @@
 ---
-title: قاعده قاعده التسجيل لمستودع iOS
+title: قاعدة التسجيل الأساسية لم مستودع iOS
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,27 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000654"
 - "2684"
-ms.openlocfilehash: 7e549fe002b087fb167bd04b9a404689d19996c8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 65919ac1f6c9a0314cf67b74137d3635a25313cefe7582f905466e2e31387842
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47784150"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030043"
 ---
 # <a name="intune-device-enrollment"></a>تسجيل جهاز Intune
 
-[التعرف علي تسجيل الجهاز باستخدام Intune](https://docs.microsoft.com/intune/enrollment/device-enrollment)
+[تعرف على تسجيل الجهاز باستخدام Intune](https://docs.microsoft.com/intune/enrollment/device-enrollment)
 
-[اعداد تسجيل جهاز iOS باستخدام Intune](https://docs.microsoft.com/intune/enrollment/ios-enroll)
+[إعداد تسجيل جهاز iOS باستخدام Intune](https://docs.microsoft.com/intune/enrollment/ios-enroll)
 
-[اعداد تسجيل جهاز Android باستخدام Intune](https://docs.microsoft.com/intune/android-enroll)
+[إعداد تسجيل جهاز Android باستخدام Intune](https://docs.microsoft.com/intune/android-enroll)
 
-[اعداد تسجيل جهاز Windows باستخدام Intune](https://docs.microsoft.com/intune/windows-enroll)
+[إعداد تسجيل Windows باستخدام Intune](https://docs.microsoft.com/intune/windows-enroll)
 
-استكشاف أخطاء تسجيل الاجهزه وإصلاحها
+استكشاف الأخطاء في تسجيل الجهاز وإصلاحها
 
-1. استخدم [مدخل Intune استكشاف الأخطاء وإصلاحها](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade)   لتشخيص فشل التسجيل الشائع وتصحيحه. راجع [هذا المستند](https://docs.microsoft.com/intune/help-desk-operators) للحصول علي مزيد من التفاصيل.
+1. استخدم مدخل استكشاف الأخطاء وإصلاحها [في Intune](https://devicemanagement.microsoft.com/#blade/Microsoft_Intune_DeviceSettings/TroubleshootBlade) لتشخيص حالات فشل التسجيل الشائعة وحلها. راجع [هذا المستند](https://docs.microsoft.com/intune/help-desk-operators) للحصول على مزيد من التفاصيل.
 
-2. راجع هذه المستندات للحصول علي قائمه بالأخطاء الشائعة التي تمنع التسجيل والحلول:
+2. راجع هذه المستندات للحصول على قائمة الأخطاء الشائعة التي تمنع التسجيل والقرارات:
     - [دليل استكشاف الأخطاء وإصلاحها](https://support.microsoft.com/help/4469913/troubleshooting-windows-device-enrollment-problems-in-microsoft-intune)
-    - [استكشاف أخطاء المستند وإصلاحها](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune).
+    - [استكشاف الأخطاء وإصلاحها في doc](https://docs.microsoft.com/intune/troubleshoot-device-enrollment-in-intune).

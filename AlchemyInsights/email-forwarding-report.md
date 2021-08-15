@@ -12,16 +12,16 @@ ms.custom:
 - "1195"
 - "1200004"
 ms.assetid: b8308c24-029f-43ab-af84-0ac97e6ff9d7
-ms.openlocfilehash: 0648313f75a6c3074fe9ade3e8b30e39869c40cb
-ms.sourcegitcommit: ef7ec42aba3c06aa8966dfac71cec18c08e7acf8
+ms.openlocfilehash: 6ec48c625ad183b34cb9dd665e5275c0c6c23b075233fcee4712404ab8f37284
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "51692237"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030115"
 ---
 # <a name="email-forwarding-report"></a>تقرير إعادة توجيه البريد الإلكتروني
 
-لمشاهدة تقرير حول عدد الرسائل التي تم إعادة توجيهها [](https://docs.microsoft.com/microsoft-365/security/office-365-security/mfi-auto-forwarded-messages-report) بشكل تلقائي في مؤسستك، تحقق من رؤى الرسائل التي تم إعادة توجيهها بشكل تلقائي في مركز التوافق & الأمان في مركز توافق الأمان ل [Microsoft 365 &amp; ](https://protection.office.com/#/homepage).
+لرؤية تقرير حول عدد الرسائل التي تم إعادة توجيهها [](https://docs.microsoft.com/microsoft-365/security/office-365-security/mfi-auto-forwarded-messages-report) بشكل تلقائي في مؤسستك، تحقق من معرفة الرسائل التي تم إعادة توجيهها بشكل تلقائي في مركز التوافق & الأمان في مركز التوافق Microsoft 365 [ &amp; الأمان.](https://protection.office.com/#/homepage)
   
 ملاحظة مهمة: إذا كانت هذه هي المرة الأولى التي تقوم فيها بتسجيل الدخول إلى &amp; مركز توافق الأمان، فقد تحتاج إلى تحديث المُستعرض بعد بضع دقائق للاطلاع على كل الخيارات المتوفرة.
   

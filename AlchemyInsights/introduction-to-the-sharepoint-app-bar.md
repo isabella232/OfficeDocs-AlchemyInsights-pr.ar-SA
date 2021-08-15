@@ -1,5 +1,5 @@
 ---
-title: مقدمة حول شريط تطبيقات SharePoint
+title: مقدمة حول شريط SharePoint التطبيق
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004628"
 - "8343"
-ms.openlocfilehash: 660bbd53820a5c70709af85bbaa82446c7bf1cd3
-ms.sourcegitcommit: 969219d6dff18d86d679d4d8741d1e39e4ce9539
+ms.openlocfilehash: 673d8189eb5121b55468985822c487562f74d05f5dfdbbf892b2ac8ab40d3e84
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50426938"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54001423"
 ---
-# <a name="introduction-to-the-sharepoint-app-bar"></a>مقدمة حول شريط تطبيقات SharePoint
+# <a name="introduction-to-the-sharepoint-app-bar"></a>مقدمة حول شريط SharePoint التطبيق
 
-تم تصميم شريط التطبيقات لتحسين الطريقة العالمية للعثور على التجربة مع عرض المحتوى المخصص ديناميكيا. سيتم تشغيل شريط  التطبيقات بشكل افتراضي ويمكن تعطيله مؤقتا (**Set-SPOTemporarilyDisableAppBar $true)** باستخدام أحدث إصدار من PowerShell. يمكن تعطيل شريط التطبيقات حتى نهاية شهر أكتوبر، وعند هذه النقطة سيتم إعادة تمكينه تلقائيا.
+تم تصميم شريط التطبيقات لتحسين تجربة العثور على الطريقة العالمية مع عرض المحتوى المخصص ديناميكيا. سيكون شريط التطبيقات  متوقفا عن العمل بشكل افتراضي ويمكن تعطيله مؤقتا (**Set-SPOTemporarilyDisableAppBar $true**) باستخدام الإصدار الأخير من PowerShell. يمكن تعطيل شريط التطبيقات حتى نهاية شهر أكتوبر، وعندها سيتم إعادة تمكينه تلقائيا.
 
 لمزيد من المعلومات، اطلع على:
 
-- [مقدمة حول شريط تطبيقات SharePoint](https://docs.microsoft.com/SharePoint/sharepoint-app-bar)
+- [مقدمة حول شريط SharePoint التطبيق](https://docs.microsoft.com/SharePoint/sharepoint-app-bar)
 - [إعداد موقع المنزل لمنظمتك](https://docs.microsoft.com/sharepoint/home-site)
-- [استخدام شريط تطبيقات SharePoint](https://support.microsoft.com/office/use-the-sharepoint-app-bar-b2ab82d5-9af7-445e-ad24-236c5a86b5f8)
+- [استخدام SharePoint التطبيق](https://support.microsoft.com/office/use-the-sharepoint-app-bar-b2ab82d5-9af7-445e-ad24-236c5a86b5f8)

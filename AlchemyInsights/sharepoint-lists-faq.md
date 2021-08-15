@@ -1,5 +1,5 @@
 ---
-title: الأسئلة الشائعة حول قوائم SharePoint
+title: SharePoint الأسئلة الشائعة حول القوائم
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002964"
 - "5677"
-ms.openlocfilehash: 67efc19aa311d8c57825521d57775913b37714da
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 5377afd7ac8ad3a51078f162a22a8543e9195cdfb3c91867014147deda717acd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51823630"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023041"
 ---
-# <a name="sharepoint-lists-faq"></a>الأسئلة الشائعة حول قوائم SharePoint
+# <a name="sharepoint-lists-faq"></a>SharePoint الأسئلة الشائعة حول القوائم
 
 **استكشاف المشاكل المتعلقة ب قوائم Sharepoint وإصلاحها:**
 
-انتقل إلى [استكشاف الأخطاء وإصلاحها](https://docs.microsoft.com/sharepoint/troubleshoot/online) في SharePoint Online و"التصفية حسب العنوان" أو انتقل إلى المقالات يدويا ضمن المقطع "القوائم والمكتبات".
+انتقل إلى [SharePoint استكشاف](https://docs.microsoft.com/sharepoint/troubleshoot/online) الأخطاء وإصلاحها عبر الإنترنت و"التصفية حسب العنوان" أو انتقل لأسفل يدويا إلى المقالات ضمن المقطع "القوائم والمكتبات".
 
 **للتعرف على القوائم:**
 
@@ -32,8 +32,8 @@ ms.locfileid: "51823630"
 - [إنشاء قائمة في SharePoint](https://support.office.com/article/create-a-list-in-sharepoint-0d397414-d95f-41eb-addd-5e6eff41b083)
 - [تحرير إعدادات القائمة في SharePoint Online](https://support.microsoft.com/en-us/office/edit-list-settings-in-sharepoint-online-4d35793b-246e-42a3-990c-563a83795b7f)
 - [حذف قائمة في SharePoint](https://support.microsoft.com/en-us/office/delete-a-list-in-sharepoint-2a7bca5b-b8fd-4e5b-8f4b-2ac034f3070d)
-- [إنشاء عمود في قائمة SharePoint أو مكتبة](https://support.microsoft.com/en-us/office/create-a-column-in-a-sharepoint-list-or-library-2b0361ae-1bd3-41a3-8329-269e5f81cfa2)
-- [الحصول على إعلام عند تغيير عنصر قائمة أو قائمة في SharePoint Online](https://support.office.com/article/get-notified-of-list-changes-in-sharepoint-85ca9280-f4b1-485a-a49e-a593ffa62e39)
+- [إنشاء عمود في SharePoint أو مكتبة](https://support.microsoft.com/en-us/office/create-a-column-in-a-sharepoint-list-or-library-2b0361ae-1bd3-41a3-8329-269e5f81cfa2)
+- [الحصول على إعلام عند تغيير SharePoint قائمة عبر الإنترنت أو عنصر قائمة](https://support.office.com/article/get-notified-of-list-changes-in-sharepoint-85ca9280-f4b1-485a-a49e-a593ffa62e39)
 - [التحكم في الأشخاص الذين لديهم حق الوصول إلى قائمة أو عنصر قائمة فردي](https://support.office.com/article/customize-permissions-for-a-sharepoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
 - [تحرير الأذونات لقائمة أو مكتبة](https://support.office.com/article/customize-permissions-for-a-sharepoint-list-or-library-02d770f3-59eb-4910-a608-5f84cc297782)
 - [تمكين الإصدار وتكوينه لقائمة أو مكتبة](https://support.office.com/article/enable-and-configure-versioning-for-a-list-or-library-1555d642-23ee-446a-990a-bcab618c7a37)
