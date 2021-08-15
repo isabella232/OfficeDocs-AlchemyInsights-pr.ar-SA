@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001483"
 - "3519"
-ms.openlocfilehash: 78b0658902034560c4f568b1ae2dcd66bb5fb540
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c5a7afaa9dbcb7f648f75f9a12fbcae295d59879b374721f5f7156b2d8c06d62
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817303"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53966240"
 ---
 # <a name="compliance-score"></a>نقاط التوافق
 
@@ -27,14 +27,14 @@ ms.locfileid: "51817303"
 
 **للوصول إلى نقاط التوافق**
 
-1. انتقل إلى مركز التوافق في Microsoft 365، ثم **سجل الدخول** باستخدام حساب المسؤول العام في Microsoft 365.
+1. انتقل إلى مركز التوافق في Microsoft 365 ثم **سجل الدخول** باستخدام حساب المسؤول Microsoft 365 العام.
 
 2. حدد **نقاط التوافق** في جزء التنقل الأيسر. يجب أن ترى بعد ذلك لوحة معلومات ["نقاط التوافق" مع نقاطك](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-setup#understand-the-compliance-score-dashboard).
  
 
 **لمزيد من المعلومات حول:**
 
-- إعداد أذونات الوصول إلى نقاط التوافق، راجع منح المستخدمين حق الوصول إلى مركز التوافق في [Microsoft 365 & التوافق.](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center)
+- إعداد أذونات الوصول إلى نقاط التوافق، راجع منح المستخدمين حق الوصول إلى Microsoft 365 [الأمان & التوافق.](https://docs.microsoft.com/microsoft-365/security/office-365-security/grant-access-to-the-security-and-compliance-center)
 - باستخدام إجراءات التحسين في "نقاط التوافق"، راجع [العمل باستخدام "نقاط التوافق".](https://docs.microsoft.com/microsoft-365/compliance/working-with-compliance-score)
 - كيفية حساب نقاط التوافق، راجع [منهجية نقاط التوافق](https://docs.microsoft.com/microsoft-365/compliance/compliance-score-methodology).
 - نقاط التوافق مقابل إدارة التوافق، راجع [العلاقة ب Compliance Manager](https://docs.microsoft.com/microsoft-365/compliance/compliance-score#relationship-to-compliance-manager).

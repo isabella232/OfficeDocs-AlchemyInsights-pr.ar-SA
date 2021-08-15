@@ -1,5 +1,5 @@
 ---
-title: تثبيت ملحق البحث من Microsoft في Bing في Google Chrome
+title: تثبيت البحث من Microsoft في Bing في Google Chrome
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9005423"
 - "9262"
-ms.openlocfilehash: 25126eda542beeb51d86b812e60795fcc9c78df2
-ms.sourcegitcommit: e5f261f95ffc6074cce89e62ef8c4e9fd519d3ee
+ms.openlocfilehash: a313ee2188c9581d8db5174b0640e32e55b619286f11f79d1a0293b66cc7c374
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/26/2021
-ms.locfileid: "51404165"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014599"
 ---
-# <a name="install-the-microsoft-search-in-bing-extension-in-google-chrome"></a>تثبيت ملحق البحث من Microsoft في Bing في Google Chrome
+# <a name="install-the-microsoft-search-in-bing-extension-in-google-chrome"></a>تثبيت البحث من Microsoft في Bing في Google Chrome
 
-لتثبيت Microsoft Search في ملحق Bing في Google Chrome، قم بما يلي:
+لتثبيت البحث من Microsoft في Bing Google Chrome، قم بما يلي:
 
 1. تأكد من أن الجهاز يلبي [معايير](https://go.microsoft.com/fwlink/?linkid=2152236) تثبيت الملحق.
-2. يمكنك الاشتراك في تثبيت الملحق، من خلال تكوين الإعدادات المناسبة في المقطع **Microsoft Search** في مركز إدارة Microsoft 365.
-3. على جهاز المستخدم، قم بتثبيت خدمة خلفية ل Microsoft Search في Bing. يتم تضمين خدمة الخلفية هذه مع تطبيقات Microsoft 365 للمؤسسات.
+2. يمكنك الاشتراك في تثبيت الملحق، من خلال تكوين الإعدادات المناسبة في البحث من Microsoft **من** مركز مسؤولي Microsoft 365.
+3. على جهاز المستخدم، قم بتثبيت خدمة خلفية البحث من Microsoft في Bing. يتم تضمين خدمة الخلفية هذه مع Microsoft 365 Apps for enterprise.
 
-لمزيد من المعلومات، راجع كيف يتم تثبيت [Microsoft Search في ملحق Bing ل Google Chrome؟](https://go.microsoft.com/fwlink/?linkid=2150992)
+لمزيد من المعلومات، راجع كيف يتم تثبيت البحث من Microsoft [في Bing ل Google Chrome؟](https://go.microsoft.com/fwlink/?linkid=2150992)

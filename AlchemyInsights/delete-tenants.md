@@ -1,5 +1,5 @@
 ---
-title: حذف المستاجر
+title: حذف المستأجر
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003256"
 - "7297"
-ms.openlocfilehash: aa1525c6d221dbcfe91da7abd3d094ae1c228ece
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 7377f77b7295e8134673c9a46fa7606842d4df949f535878d13986c6d39d0b5e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564355"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53993880"
 ---
-# <a name="delete-tenant"></a>حذف المستاجر
+# <a name="delete-tenant"></a>حذف المستأجر
 
-لحذف Azure AD ، تاكد من:
-- أنت مسؤول عام علي الدليل.
-- لم يتم تسجيل دخولك باستخدام حساب لديه الدليل الافتراضي مثل contoso.onmicrosoft.com في الحساب الذي تم تسجيل دخوله ، مثل admin@contoso.onmicrosoft.com.
-- قم بازاله اي تطبيقات نشطه في الدليل قبل الحذف. لأزاله التطبيقات النشطة ، انتقل إلى تسجيلات التطبيق وأزاله التطبيقات الموجودة.
-- لا توجد اي اشتراكات نشطه لأي من خدمات Microsoft عبر الإنترنت ، مثل Microsoft Azure أو Office 365 أو Azure AD Premium المقترنة بالدليل. يمكنك نقل الاشتراكات أو تسريع إلغاء الاشتراكات النشطة عبر دعم Azure والفوترة. تعرف علي المزيد حول كيفيه إلغاء اشتراكات Office 365 و Azure. للحصول علي إرشادات حول اقران اشتراك موجود أو اضافته إلى المستاجر ، راجع [اقران اشتراك azure أو اضافته إلى مستاجر AZURE AD](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory).
-- لا يوجد ترخيص نشط. لأزاله التراخيص ، راجع [كيفيه أزاله الاشتراك لأزاله الترخيص](https://docs.microsoft.com/azure/active-directory/enterprise-users/directory-delete-howto#delete-a-subscription).
-- لا يوجد اي مستخدمين نشطين آخرين في الدليل بجانب نفسك كالمسؤول العام عند محاولة حذف Azure AD. قم بازاله اي مستخدمين آخرين نشطين ، سيحتاج اي تبعيات علي اسم مجال مخصص في المستاجر إلى ازالته ، مثل المستخدمين الذين تم إنشاؤهم باستخدام admin@contoso.com.
+لحذف Azure AD، تأكد من:
+- أنت مسؤول عام في الدليل.
+- لم يتم توقيعك باستخدام حساب به الدليل الافتراضي مثل contoso.onmicrosoft.com في الحساب الذي تم توقيعه، مثل admin@contoso.onmicrosoft.com.
+- قم بإزالة أي تطبيقات نشطة في الدليل قبل الحذف. لإزالة التطبيقات النشطة، انتقل إلى تسجيلات التطبيقات وأزل التطبيقات الموجودة.
+- لا توجد اشتراكات نشطة لأي من خدمات Microsoft Online، مثل Microsoft Azure أو Office 365 أو Azure AD Premium المقترنة في الدليل. نقل اشتراكاتك أو تسريع إلغاء الاشتراكات النشطة عبر دعم Azure و الفوترة. تعرف على المزيد حول كيفية إلغاء اشتراكات Office 365 و Azure. للحصول على إرشادات حول إقران اشتراك موجود أو إضافته إلى مستأجر، راجع إقران اشتراك Azure أو إضافته إلى [مستأجر Azure AD](https://docs.microsoft.com/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory).
+- لا يوجد ترخيص نشط. لإزالة التراخيص، [راجع كيفية إزالة الاشتراك لإزالة الترخيص](https://docs.microsoft.com/azure/active-directory/enterprise-users/directory-delete-howto#delete-a-subscription).
+- لا يوجد مستخدمون نشطون آخرون في الدليل إلى جانب نفسك كمسؤول عام عند محاولة حذف Azure AD. قم بإزالة أي مستخدمين نشطين آخرين، وستحتاج أيضا أي تبعيات على اسم مجال مخصص في نطاق المستأجر إلى إزالتها، مثل المستخدمين الذين تم إنشاؤهم باستخدام admin@contoso.com.
 
-لمزيد من الخطوات التفصيلية حول كيفيه القيام بما يلي:
-- حذف "Azure Active directory" أو "الاشتراك" ، راجع [حذف Azure active](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-delete-howto)directory.
-- أزاله التطبيقات في الدليل ، راجع [أزاله التطبيقات](https://docs.microsoft.com/azure/active-directory/develop/quickstart-remove-app). 
+للحصول على مزيد من الخطوات حول كيفية:
+- حذف "Azure Active Directory" أو "اشتراك"، راجع [حذف Azure Active Directory](https://docs.microsoft.com/azure/active-directory/users-groups-roles/directory-delete-howto).
+- إزالة التطبيقات في الدليل، راجع [إزالة التطبيقات](https://docs.microsoft.com/azure/active-directory/develop/quickstart-remove-app). 
