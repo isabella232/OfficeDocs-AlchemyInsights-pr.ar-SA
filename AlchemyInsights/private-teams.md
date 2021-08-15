@@ -1,5 +1,5 @@
 ---
-title: الفرق الخاصة
+title: خاص Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001223"
 - "6258"
-ms.openlocfilehash: 84881abe0951eea2ae1e8e45c05fdb0977f1c285
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f92bd97ecf3145b4d27f14fdd788f7f83ddffb827871af3894aec78ba30f6a48
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835978"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960246"
 ---
-# <a name="managing-discovery-of-private-teams"></a>إدارة اكتشاف الفرق الخاصة
+# <a name="managing-discovery-of-private-teams"></a>إدارة اكتشاف المعلومات Teams
 
 **فرق جديدة**
 
@@ -29,4 +29,4 @@ ms.locfileid: "51835978"
 
 يمكن لمالكي الفريق تعيين إعداد الاكتشاف لفريق خاص موجود مباشرة في إعدادات الفريق ويمكن للمسؤولين القيام بذلك باستخدام PowerShell.  
 
-لمزيد من  [المعلومات،](https://docs.microsoft.com/microsoftteams/manage-discovery-of-private-teams)راجع إدارة اكتشاف الفرق الخاصة في Microsoft Teams .
+لمزيد من [المعلومات، راجع إدارة اكتشاف الفرق الخاصة في Microsoft Teams](https://docs.microsoft.com/microsoftteams/manage-discovery-of-private-teams).
