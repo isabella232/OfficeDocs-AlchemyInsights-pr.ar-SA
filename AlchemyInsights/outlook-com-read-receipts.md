@@ -1,5 +1,5 @@
 ---
-title: قراءه الإيصالات في Outlook.com
+title: إيصالات بالقراءة في Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -15,15 +15,15 @@ ms.custom:
 - "1396"
 - "1397"
 - "8000034"
-ms.openlocfilehash: 1aae4246168f76c1c9f263d99359c223a55a7bfc
-ms.sourcegitcommit: 1fb324fd156008e77b7e2008af4b3dc1c0d0ea3e
+ms.openlocfilehash: e83f74c7d362578dff21b7fb1f6474d13911d006a8f32f85ae30bce73bf8fd52
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "48452071"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53983404"
 ---
-# <a name="read-receipts"></a>إيصالات القراءة
+# <a name="read-receipts"></a>إيصالات بالقراءة
 
-لا يمكنك طلب إيصال بالقراءة في Outlook.com ، ولكن يمكنك طلب إيصالات بالقراءة لرسائل Outlook.com المرسلة باستخدام Outlook for Windows. لمعرفه كيفيه اجراء ذلك ، راجع [أضافه إيصالات بالقراءة والتسليم وطلبها](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy).
+لا يمكنك طلب إيصال بالقراءة في Outlook.com، ولكن يمكنك طلب إيصالات بالقراءة لرسائل Outlook.com المرسلة باستخدام Outlook Windows. لمعرفة كيفية القيام بذلك، راجع إضافة إيصالات [بالقراءة](https://support.office.com/article/a34bf70a-4c2c-4461-b2a1-12e4a7a92141?wt.mc_id=Office_Outlook_com_Alchemy)وإعلامات التسليم وطلبها .
   
-لاختيار كيفيه استجابه Outlook.com لطلبات إيصالات القراءة ، انتقل إلى [إعدادات إيصالات القراءة](https://outlook.live.com/mail/options/mail/handling/readReceipts).
+لاختيار كيفية استجابة Outlook.com لطلبات إيصال القراءة، انتقل إلى [إعدادات إيصال القراءة](https://outlook.live.com/mail/options/mail/handling/readReceipts).

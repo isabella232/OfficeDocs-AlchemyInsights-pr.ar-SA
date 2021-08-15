@@ -12,22 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001105"
 - "3066"
-ms.openlocfilehash: a6e9494889035320fd658f9c6a04e37d2f569d50
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c6155eb09a4051b145cd1002c7be3a811e6e1224d88daf48dccbb4e059475081
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51834430"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038171"
 ---
 # <a name="update-my-profile-information-or-change-my-picture"></a>تحديث معلومات ملف التعريف أو تغيير صورتي
 
-حاليا، لا يمكن تحرير معلومات ملف التعريف وتحديثها مباشرة من Outlook for iOS، ولكن من الممكن تحرير هذه المعلومات في مكان آخر. 
+حاليا، لا يمكن تحرير معلومات ملف التعريف وتحديثها مباشرة من Outlook ل iOS، ولكن من الممكن تحرير هذه المعلومات في مكان آخر. 
 
-يمكنك إجراء تحديثات لملف التعريف في Outlook for Windows أو Outlook على الويب (OWA). 
+يمكنك إجراء تحديثات لملف التعريف الخاص بك في Outlook Windows أو Outlook على الويب (OWA). 
 
-**Outlook for Windows**: 
+**Outlook Windows**: 
 
-- **ملف**  >  **حساب Office**  >  **معلومات المستخدم**  >  **معلومات عني** (توفر لك ملف تعريف Microsoft 365 عبر الإنترنت) > تحديث ملف التعريف أو النقر فوق أيقونة الكاميرا لتغيير صورتك   
+- **ملف**  >  **Office الحساب**  >  **معلومات المستخدم**  >  **معلومات عني** (Microsoft 365 ملف التعريف عبر الإنترنت)  > تحديث ملف التعريف أو النقر فوق أيقونة الكاميرا لتغيير صورتك  
   
 **Outlook على الويب (OWA)**: 
 

@@ -1,5 +1,5 @@
 ---
-title: تحميل الملفات إلى OneDrive أو SharePoint
+title: Upload الملفات OneDrive أو SharePoint
 ms.author: pebaum
 author: pebaum
 manager: pamgreen
@@ -11,25 +11,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: a016fa63-4d87-4f3d-99eb-ee134cb27dc0
-ms.openlocfilehash: 1bfe006ff6111581ebf85f0c599e65961e8289c0
-ms.sourcegitcommit: 78939b01579b626b147d356045a37aec1170c948
+ms.openlocfilehash: ace337c536b7691edafbed72115b10904eb5f6943434ad716e6d7d948e625a47
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47815628"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038207"
 ---
-# <a name="upload-files-to-onedrive-or-sharepoint"></a>تحميل الملفات إلى OneDrive أو SharePoint
+# <a name="upload-files-to-onedrive-or-sharepoint"></a>Upload الملفات OneDrive أو SharePoint
 
-يمكنك تحميل الملفات إلى مكتبه مستندات في SharePoint Online عن طريق سحبها من الكمبيوتر وإفلاتها في مكتبه المستندات. باستخدام OneDrive ، يمكنك مزامنة الملفات بين الكمبيوتر والسحابة ، بحيث يمكنك الوصول إلى ملفاتك من اي مكان. يمكنك أيضا استخدام الملفات التي تمت مزامنتها مباشره في "مستكشف الملفات" والوصول إلى الملفات حتى عندما تكون غير متصل. للحصول علي مزيد من المعلومات حول التحميل والمزامنة ، يرجى زيارة الارتباطات أدناه.
+يمكنك تحميل الملفات إلى مكتبة مستندات في SharePoint عبر الإنترنت عن طريق سحبها من الكمبيوتر وإسقاطها في مكتبة المستندات. باستخدام OneDrive، يمكنك مزامنة الملفات بين الكمبيوتر والسحابة، حتى تتمكن من الوصول إلى ملفاتك من أي مكان. يمكنك أيضا استخدام الملفات المتزامنة مباشرة في "مستكشف الملفات" والوصول إلى ملفاتك حتى عندما تكون غير متصل بالإنترنت. لمزيد من المعلومات حول التحميل والمزامنة، يرجى زيارة الارتباطات أدناه.
 
-- [تحميل مجلد أو ملفات إلى مكتبه](https://support.office.com/article/upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)
+- [Upload مجلد أو ملفات إلى مكتبة](https://support.office.com/article/upload-a-folder-or-files-to-a-document-library-eb18fcba-c953-4d45-8d90-8da66edeacdb)
 
-- [التحميل باستخدام المزامنة](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)
+- [Upload استخدام المزامنة](https://support.office.com/article/sync-files-with-the-onedrive-sync-client-in-windows-615391c4-2bd3-4aae-a42a-858262e42a49)
 
-- [حدود الملفات (أحرف غير صالحه ، حجم تحميل الملفات ، أطوال المسارات ، الخ..)](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
+- [حدود الملفات (الأحرف غير الصالحة، حجم تحميل الملف، طول المسار، إلخ.)](https://support.office.com/article/invalid-file-names-and-file-types-in-onedrive-onedrive-for-business-and-sharepoint-64883a5d-228e-48f5-b3d2-eb39e07630fa)
 
-- [تصحيح مشاكل مزامنة OneDrive](https://support.office.com/article/Fix-OneDrive-sync-problems-83ab0d8a-8400-45b0-8dcf-dc8aa8a6bcf8)
+- [إصلاح OneDrive المزامنة](https://support.office.com/article/Fix-OneDrive-sync-problems-83ab0d8a-8400-45b0-8dcf-dc8aa8a6bcf8)
 
-- [إصلاح المشاكل المتعلقة بتحميل الملفات علي موقع OneDrive علي ويب](https://support.office.com/article/Fix-problems-uploading-files-on-the-OneDrive-website-9afcc4a0-e344-4bc9-9c9d-59d3e802247e)
+- [إصلاح المشاكل المتعلقة بتحميل الملفات على موقع OneDrive ويب](https://support.office.com/article/Fix-problems-uploading-files-on-the-OneDrive-website-9afcc4a0-e344-4bc9-9c9d-59d3e802247e)
 
-- [زيادة سرعه التحميل والتنزيل](https://support.office.com/article/Maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)
+- [زيادة سرعة التحميل والتنزيل](https://support.office.com/article/Maximize-upload-and-download-speed-8eeadfb8-501f-406d-997b-98ab6ff67f43)

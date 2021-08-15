@@ -1,5 +1,5 @@
 ---
-title: المواضيع المطلوبة بشكل متكرر في Project Online
+title: Project Online المواضيع المطلوبة بشكل متكرر
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000685"
 - "2573"
-ms.openlocfilehash: 66b5e32807abf2e9278280a3e5c91ae4eb6e31b0
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 03f960ad1f6dfb4ee0f736d5bf13bf2cf81943011969c988e1f49e9dfa12ea84
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51809967"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53960030"
 ---
-# <a name="project-online-frequently-requested-topics"></a>المواضيع المطلوبة بشكل متكرر في Project Online
+# <a name="project-online-frequently-requested-topics"></a>Project Online المواضيع المطلوبة بشكل متكرر
 
 فيما يلي بعض المواضيع المطلوبة بشكل متكرر مع Project:
 
-فيما يلي المواضيع المطلوبة بشكل متكرر ل Project:
+فيما يلي مواضيع يتم طلبها بشكل متكرر Project:
 1.  بدء العمل: 
-    -   [بدء العمل في Project Online](https://docs.microsoft.com/projectonline/get-started-with-project-online) 
-    -   [وثائق مسؤول Project Online](https://docs.microsoft.com/projectonline/project-online) 
+    -   [بدء العمل باستخدام Project Online](https://docs.microsoft.com/projectonline/get-started-with-project-online) 
+    -   [Project Online وثائق المسؤول](https://docs.microsoft.com/projectonline/project-online) 
     -   [Project Online: حدود البرنامج وحدوده](https://docs.microsoft.com/ProjectOnline/project-online-software-boundaries-and-limits) 
-2.  [إضافة أشخاص ومجموعات وموارد، ثم مشاركة Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) 
-3.  [ضبط أداء Project Web App (PWA) في Project Online](https://docs.microsoft.com/projectonline/tune-project-online-performance)
-4.  الاتصال باستخدام عميل [Project Online Desktop](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) 
-5.  [تثبيت Project Professional واستخدامه](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) 
+2.  [أضف الأشخاص والمجموعات والموارد، ثم شارك Project Online](https://docs.microsoft.com/projectonline/step-2-add-people-to-project-online) 
+3.  [ضبط Project Web App (PWA) في Project Online](https://docs.microsoft.com/projectonline/tune-project-online-performance)
+4.  الاتصال باستخدام Project Online [سطح المكتب](https://docs.microsoft.com/projectonline/connect-to-project-online-with-the-project-online-desktop-client) 
+5.  [تثبيت Project Professional](https://support.office.com/article/install-project-7059249b-d9fe-4d61-ab96-5c5bf435f281) 

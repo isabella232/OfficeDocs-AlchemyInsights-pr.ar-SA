@@ -1,5 +1,5 @@
 ---
-title: تنزيل Office 365 أو Office 2016 وتثبيته أو أعاده تثبيته علي الكمبيوتر الشخصي أو جهاز Mac
+title: تنزيل وتثبيت أو إعادة تثبيت Office 365 أو Office 2016 على كمبيوتر شخصي أو Mac
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,19 +9,19 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 8d7abd5a-5004-4d16-aad9-8083df213ea3
-ms.openlocfilehash: 8306854ee90b0f804c83b27b58d870386673d5fa
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: afc82137854e6fb6cdd4cdefbc0c0f4000435a1b34891ddf2a029dcff2ceffa8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47712207"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004645"
 ---
-# <a name="download-and-install-or-reinstall-office-365-or-office-2016-on-a-pc-or-mac"></a>تنزيل Office 365 أو Office 2016 وتثبيته أو أعاده تثبيته علي الكمبيوتر الشخصي أو جهاز Mac
+# <a name="download-and-install-or-reinstall-office-365-or-office-2016-on-a-pc-or-mac"></a>تنزيل وتثبيت أو إعادة تثبيت Office 365 أو Office 2016 على كمبيوتر شخصي أو Mac
 
-لتنزيل منتجات Office المضمنة في اشتراكك وتثبيتها ، انتقل إلى مكتب [البرامج](https://portal.office.com/OLS/MySoftware.aspx) \> **Office** وانقر فوق **تثبيت**. 
+لتنزيل Office المضمنة في اشتراكك وتثبيتها، انتقل إلى برنامجي Office [](https://portal.office.com/OLS/MySoftware.aspx) \>  وانقر فوق **تثبيت**. 
   
-للحصول علي إرشادات مفصله ، راجع [تنزيل Office 365 وتثبيته أو أعاده تثبيته](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc471665816658?wt.mc_id=O365_Admin_Alch).
+للحصول على إرشادات مفصلة، راجع تنزيل الملفات وتثبيتها [أو إعادة تثبيتها Office 365](https://support.office.com/article/4414eaaf-0478-48be-9c42-23adc471665816658?wt.mc_id=O365_Admin_Alch).
   
-إذا كنت بحاجه إلى تثبيت Office غير متصل ، فراجع [استخدام المثبت المتصل ل office 2016](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=O365_Admin_Alch#OfficePlans=Office_for_business).
+إذا كنت بحاجة إلى تثبيت Office دون اتصال، فشاهد استخدام Office [2016 دون اتصال](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=O365_Admin_Alch#OfficePlans=Office_for_business).
   
 

@@ -12,12 +12,12 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 2a3489fe-c2a8-4e43-96c2-be4b3c5e978c
-ms.openlocfilehash: 2b1ba772459091ce1a796884997fe2516d0407eb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: fc163fae4d348d7c7cf117bd457f999b42f96bec7c1eb9aa1435e346131d06de
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51782138"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038099"
 ---
 # <a name="upn-sync-disabled"></a>تم تعطيل مزامنة UPN
 
@@ -27,6 +27,6 @@ ms.locfileid: "51782138"
   
 يتم تشغيل مطابقة UPN الناعمة تلقائيا في المؤسسات التي بدأت المزامنة إلى Azure AD في 30 مارس 2016 أو بعده.
   
-لمعرفة المزيد حول تمكين المزامنة الناعمة على UPN وميزات المزامنة الأخرى، الرجاء الاطلاع على [ميزات خدمة مزامنة Azure AD Connect](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features).
+لمعرفة المزيد حول تمكين المزامنة الناعمة على UPN وميزات المزامنة الأخرى، الرجاء الاطلاع على [Azure AD](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnectsyncservice-features)الاتصال ميزات خدمة المزامنة .
   
 
