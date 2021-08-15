@@ -1,5 +1,5 @@
 ---
-title: المستاجر بيلوتينج الدعم في تطبيق Outlook
+title: المستأجر يستأجر الدعم داخل التطبيق Outlook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "3441"
 - "9001442"
-ms.openlocfilehash: 76387d08ba2d99e2c27fe17f2e19840d71d24cde
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 16c9929e0e0e7f13576cceea14e2cfd2cf468c475f49e216893667ca0fa1a00e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47772177"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53991882"
 ---
-# <a name="in-app-support-in-outlook-for-windows"></a>دعم داخل التطبيق في Outlook for Windows
+# <a name="in-app-support-in-outlook-for-windows"></a>الدعم داخل التطبيق في Outlook Windows
 
-بصفتك مسؤول مستاجر ، يمكنك تلقي الدعم في التطبيق للمشاكل في Outlook for Windows. في Outlook ، حدد **المساعدة**في  >  **الاتصال بالدعم**. ادخل سؤالك ، سيرد عضوا في فريق الدعم ل Outlook for Windows علي الرسالة.
+ب أنت مسؤول المستأجر، يمكنك تلقي الدعم داخل التطبيق ل المشاكل في Outlook Windows. في Outlook، حدد **المساعدة**  >  **في الاتصال بالدعم**. أدخل سؤالك، وسيرد أحد أعضاء Outlook Windows الدعم على رسالتك.

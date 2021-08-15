@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9450"
 - "9005491"
-ms.openlocfilehash: 48e6d5ac22278544587d167f8bdd9957079f85d8
-ms.sourcegitcommit: bef118c00aa397cd6d8941d403fe9cfa49dd8c73
-ms.translationtype: MT
+ms.openlocfilehash: 1a40e87d293e8f48650f3a6b8933c36cadd45b2290e3a074a499c964a274d59b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/30/2021
-ms.locfileid: "51491324"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014923"
 ---
 # <a name="import-favorites-from-a-browser-other-than-internet-explorer-google-chrome-or-mozilla-firefox"></a>استيراد المفضلة من مستعرض آخر غير Internet Explorer أو Google Chrome أو Mozilla Firefox
 
 1. في المستعرض الذي تريد استيراد المفضلة منه، احفظ المفضلة في ملف HTML.
 
-1. افتح Microsoft Edge، ثم حدد **الإعدادات والمزيد...**  >  **الإعدادات**  >  **استيراد بيانات المستعرض**.
+1. افتح Microsoft Edge، ثم حدد الإعدادات **والمزيد...**  >  **الإعدادات**  >  **استيراد بيانات المستعرض**.
 
 1. من القائمة **استيراد من،** حدد المفضلة أو الإشارات المرجعية ملف **HTML اختيار** ملف ، ثم حدد ملف HTML مع  >  المفضلة.
 

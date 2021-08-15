@@ -1,5 +1,5 @@
 ---
-title: أزاله إصدارات MSI السابقة من Office
+title: إزالة إصدارات MSI السابقة من Office
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003886"
 - "6940"
-ms.openlocfilehash: 26ab610cb204149536bd23c830a1b8558892a7c0
-ms.sourcegitcommit: c033720921cb9a06b9560eedef4f1935e69a846b
+ms.openlocfilehash: 45e3cac521bc1c2a90dc7d3ddd4958233c3cf7bbd2ea007e581f343bca7b5631
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49680643"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023761"
 ---
-# <a name="remove-prior-msi-versions-of-office"></a>أزاله إصدارات MSI السابقة من Office
+# <a name="remove-prior-msi-versions-of-office"></a>إزالة إصدارات MSI السابقة من Office
 
-نوصي بازاله الإصدارات السابقة من Windows Installer (MSI) من Office قبل تثبيت Office 365 ProPlus. اليك كيفيه القيام بذلك:
+نوصي بإزالة إصدارات Windows المثبت (MSI) Office قبل تثبيت Office 365 ProPlus. فيما يلي كيفية القيام بذلك:
 
-1. إذا استخدمت MSI لتثبيت Office ، فيمكنك استخدام أداه نشر Office (ODT) لأزاله تثبيت Office. يمكنك استخدام عنصر ريموفيمسي في ملف **configuration.xml** الخاص بك.
-1. اتبع الإرشادات الموجودة في هذه المقالة: [أمان Office 365 & مركز التوافق.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+1. إذا كنت تستخدم MSI لتثبيت Office، يمكنك استخدام أداة النشر Office (ODT) 2010 2017 2017 2017 2017 2017 2017 20 Office 17. يمكنك استخدام العنصر RemoveMSI في **configuration.xml** الملف.
+1. اتبع الإرشادات في هذه المقالة: Office 365 [الأمان & مركز التوافق.](https://go.microsoft.com/fwlink/p/?linkid=2077143)

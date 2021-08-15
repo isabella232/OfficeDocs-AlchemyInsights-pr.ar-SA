@@ -1,5 +1,5 @@
 ---
-title: استيراد تقويم Google إلى Outlook
+title: استيراد تقويم Google Outlook
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800007"
 - "7354"
-ms.openlocfilehash: 9edeac48aa78da4ccdca2ec3641d4a3f07a04e17
-ms.sourcegitcommit: a7b15357abb6e802bbc8a2f2aefc5c4867c74fa2
+ms.openlocfilehash: d4588d2734b97ced4d369d7ad434cd88ed846f5ca7962ad5362301fea7c54114
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "49598586"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014815"
 ---
-# <a name="import-your-google-calendar-to-outlook"></a>استيراد تقويم Google إلى Outlook
+# <a name="import-your-google-calendar-to-outlook"></a>استيراد تقويم Google Outlook
 
-كرر هذا الاجراء كل تقويم Google تريد استيراده إلى Outlook.
+كرر هذا الإجراء كل تقويم Google تريد استيراده Outlook.
 
-1. في Outlook علي سطح المكتب (Outlook 2013 أو Outlook 2016) ، انتقل إلى **التقويم**.
-1. انقر فوق **ملف**  >  **مفتوح & تصدير**  >  **الاستيراد/التصدير**.
-1. في **معالج الاستيراد والتصدير**، حدد **استيراد iCalendar (ics) أو ملف فكاليندار**، ثم انقر فوق **التالي**.
-1. استعرض وصولا إلى الموقع الذي قمت بتخزين الملف المستخرج فيه ، واختر الاسم الذي ينتهي ب **gmail.com**، وانقر فوق **موافق**.
-1. انقر فوق " **استيراد** "
+1. في Outlook على سطح المكتب (Outlook 2013 أو Outlook 2016)، انتقل إلى **التقويم**.
+1. انقر **فوق فتح** ملف &  >    >  **استيراد/تصدير.**
+1. في معالج **الاستيراد والتصدير،** حدد **استيراد ملف iCalendar (.ics) أو vCalendar**، ثم انقر فوق **التالي**.
+1. استعرض بحثا عن المكان الذي قمت بتخزين الملف المستخرج فيه، واختر الملف الذي ينتهي gmail.com **،** وانقر فوق **موافق**.
+1. انقر **فوق استيراد**
 
-انتقل إلى تقويم Outlook. يجب ان تري الآن احداث تقويم Google الخاصة بك هناك.
+انتقل إلى تقويمك Outlook. من المفترض أن تشاهد الآن أحداث تقويم Google هناك.
