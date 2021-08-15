@@ -13,30 +13,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 2adf35662797e9e9e354ddd0c513f5ce2463d07c
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b134c952e3cc5305d8f3e6f44031e7f33d7938b67ff122c46cb74bbd33cbf59e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743153"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53994852"
 ---
 # <a name="set-clientaccessserverenabled-to-true"></a>تعيين ClientAccessServerEnabled إلى True
 
 إذا لم تتمكن من فتح رسالة بريد إلكتروني مشفرة وبدلا من ذلك رأيت مرفق **rpmsg،** فتابع تنفيذ الخطوات التالية:
 
-1. الاتصال ب Exchange Online PowerShell.
+1. الاتصال Exchange Online PowerShell.
 
 > [!NOTE]
-> للاتصال ب Exchange Online PowerShell، يجب تسجيل الدخول باستخدام مسؤول عام أو حساب مسؤول Exchange.
+> للاتصال ب PowerShell Exchange Online، يجب تسجيل الدخول باستخدام مسؤول عام أو Exchange مسؤول.
 
-   أ. افتح Windows PowerShell، ثم قم بتشغيل الأمر التالي: `$UserCredential = Get-Credential`
-ب. في مربع الحوار طلب اعتماد **Windows PowerShell،** أدخل حساب العمل أو المدرسة وكلمة المرور، ج. انقر فوق **موافق**. 
+   a. افتح Windows PowerShell، ثم قم بتشغيل الأمر التالي:`$UserCredential = Get-Credential`
+b. في مربع **Windows PowerShell طلب** بيانات الاعتماد، أدخل حساب العمل أو المدرسة وكلمة المرور، ج. انقر فوق **موافق**. 
 
 2. قم بتشغيل الأمر التالي لإنشاء جلسة عمل جديدة:
 
     `$Session = New-PSSession -ConfigurationName Microsoft.Exchange -ConnectionUri https://outlook.office365.com/powershell-liveid/ -Credential $UserCredential -Authentication Basic -AllowRedirection`
 
-    أ. قم بتنفيذ الأمر التالي:
+    a. قم بتنفيذ الأمر التالي:
     
     `Import-PSSession $Session -DisableNameChecking`
 
@@ -44,10 +44,10 @@ ms.locfileid: "50743153"
 
 4. تحقق من **الإعداد ClientAccessServerEnabled.** 
 
-    أ. إذا **تم تعيين إعداد ClientAccessServerEnabled** إلى **False**، ف قم بتشغيل أمر cmdlet التالي: `Set-IRMConfiguration -ClientAccessServerEnabled $True`
+    a. إذا **تم تعيين إعداد ClientAccessServerEnabled** إلى **False**، ف قم بتشغيل أمر cmdlet التالي: `Set-IRMConfiguration -ClientAccessServerEnabled $True`
 
 > [!TIP]
 > أغلق جلسة powershell دائما باستخدام الأمر التالي: `Remove-PSSession $Session`
 
-لمزيد من المعلومات، راجع [Exchange Online PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell).
+لمزيد من المعلومات، راجع Exchange Online [PowerShell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell).
 

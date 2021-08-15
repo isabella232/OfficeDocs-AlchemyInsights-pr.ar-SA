@@ -11,17 +11,17 @@ ms.assetid: ''
 ms.custom:
 - "9002255"
 - "4366"
-ms.openlocfilehash: 8b3c887540062fffc0badb2c1bcba24ad8ad2df6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d7433e42b879c21664b3ec681b2c74bd1016906c953cb7b5c60f8b4d57eb9540
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47728634"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53982432"
 ---
 # <a name="plan-deploy-and-manage-teams-rooms"></a>تخطيط غرف Teams ونشرها وإدارتها
 
-- [التخطيط](https://docs.microsoft.com/MicrosoftTeams/rooms/rooms-plan)  لغرفه فرق Microsoft. يتضمن ذلك[تحديث الترخيص](https://docs.microsoft.com/MicrosoftTeams/rooms/rooms-licensing) [ومتطلبات الاجهزه وأنظمه غرفه فرق العمل المعتمدة من Microsoft](https://docs.microsoft.com/MicrosoftTeams/rooms/requirements#hardware-requirements).
-- [تكوين حسابات](https://docs.microsoft.com/MicrosoftTeams/rooms/rooms-configure-accounts)  لغرفه فرق Microsoft.
-- [أداره الاجهزه](https://docs.microsoft.com/microsoftteams/rooms/rooms-manage)  باستخدام مركز أداره الفرق (يجب ان يتوفر لديك مسؤول خدمه فرق العمل أو دور مسؤول عام) ومراجعه [قائمه بالمشاكل المعروفة](https://docs.microsoft.com/microsoftteams/rooms/known-issues).
+- [التخطيط](https://docs.microsoft.com/MicrosoftTeams/rooms/rooms-plan) Microsoft Teams الغرفة. يشمل ذلك[تحديث الترخيص ومتطلبات](https://docs.microsoft.com/MicrosoftTeams/rooms/rooms-licensing)الأجهزة Microsoft Teams [الغرفة.](https://docs.microsoft.com/MicrosoftTeams/rooms/requirements#hardware-requirements)
+- [تكوين حسابات Microsoft Teams](https://docs.microsoft.com/MicrosoftTeams/rooms/rooms-configure-accounts) الغرفة.
+- [يمكنك إدارة](https://docs.microsoft.com/microsoftteams/rooms/rooms-manage) الأجهزة Teams مركز إدارة العملاء (يجب أن يكون لديك Teams مسؤول الخدمة أو دور المسؤول العام) ومراجعة قائمة [المشاكل المعروفة](https://docs.microsoft.com/microsoftteams/rooms/known-issues).
 
-للحصول علي مزيد من المعلومات حول تخطيط غرف فرق Microsoft ونشرها وأدارتها ، راجع [غرفه فرق microsoft](https://docs.microsoft.com/microsoftteams/rooms/).
+لمزيد من المعلومات حول تخطيط البيانات Microsoft Teams Rooms ونشرها وإدارتها، راجع Microsoft Teams [الغرفة](https://docs.microsoft.com/microsoftteams/rooms/).

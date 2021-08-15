@@ -1,5 +1,5 @@
 ---
-title: نظره عامه علي منع فقدان البيانات (DLP)
+title: نظرة عامة حول منع فقدان البيانات (DLP)
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -8,24 +8,24 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 187c6f19-3e7d-48a0-b785-170f578419b9
-ms.openlocfilehash: f4f4757e652b276d44b266eef73f5b5161615281
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cc372aef88ebdca81bb217283dce0806888d4b4795f88e4b28bd36cc2c6f1c5f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731298"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54005539"
 ---
-# <a name="data-loss-prevention-dlp-overview"></a>نظره عامه علي منع فقدان البيانات (DLP)
+# <a name="data-loss-prevention-dlp-overview"></a>نظرة عامة حول منع فقدان البيانات (DLP)
 
-باستخدام نهج DLP ، يمكنك:
+باستخدام نهج DLP، يمكنك:
 
-- تعرف علي المعلومات الحساسة عبر العديد من المواقع ، مثل Exchange Online و SharePoint Online و OneDrive for Business.
-
-
-علي سبيل المثال ، يمكنك تحديد اي مستند يحتوي علي رقم بطاقة ائتمان مخزن في اي موقع OneDrive for Business ، أو يمكنك مراقبه مواقع OneDrive لأشخاص محددين فقط.
-
-- منع مشاركه المعلومات الحساسة عن طريق الظهور.
+- تحديد المعلومات الحساسة عبر العديد من المواقع، مثل Exchange Online SharePoint عبر الإنترنت OneDrive for Business.
 
 
-للحصول علي مزيد من المعلومات ، يرجى مراجعه [المقالة](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies)التالية.
+على سبيل المثال، يمكنك تحديد أي مستند يحتوي على رقم بطاقة ائتمان مخزن في أي موقع OneDrive for Business، أو يمكنك مراقبة المواقع OneDrive أشخاص معينين فقط.
+
+- منع المشاركة العرضية للمعلومات الحساسة.
+
+
+لمزيد من المعلومات، يرجى مراجعة المقالة [التالية](https://docs.microsoft.com/microsoft-365/compliance/data-loss-prevention-policies).
 
