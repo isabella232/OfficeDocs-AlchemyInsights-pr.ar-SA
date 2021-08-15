@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "3487"
 - "9001419"
-ms.openlocfilehash: 3b61f0396c4698aaa54df74d6612d1a35d37f652
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 24691e0b523fad22f0b6ee3ed07ff08afd5b81d12c787f843aa94c5b6835915b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51790967"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011539"
 ---
 # <a name="deploying-office-2019-for-shared-use-on-rds-terminal-server-or-vdi"></a>نشر Office 2019 للاستخدام المشترك على RDS أو Terminal Server أو VDI
 
-إذا كان Office مثبتا بالفعل على خادم RDS باستخدام أي خطط Office أخرى، ف إلغاء تثبيته. على سبيل المثال، انتقل إلى **لوحة التحكم**  >  **إلغاء تثبيت برنامج**. إذا كنت تواجه مشاكل، ف إلغاء تثبيت باستخدام مساعد الاسترداد [والدعم من Microsoft](https://aka.ms/SARA-OfficeUninstall-Alchemy). 
+إذا Office تم تثبيته بالفعل على خادم RDS باستخدام أي Office أخرى، ف إلغاء تثبيته. على سبيل المثال، انتقل إلى **لوحة التحكم**  >  **إلغاء تثبيت برنامج**. إذا كنت تواجه مشاكل، ف إلغاء تثبيت استخدام [Microsoft مساعد الإصلاح والدعم](https://aka.ms/SARA-OfficeUninstall-Alchemy). 
 
-استخدم أداة نشر Office (ODT) لتثبيت Office. للحصول على خطوات مفصلة، راجع [نشر Office 2019](https://docs.microsoft.com/deployoffice/office2019/deploy).
+استخدم أداة Office (ODT) لتثبيت Office. للحصول على خطوات مفصلة، [راجع نشر Office 2019](https://docs.microsoft.com/deployoffice/office2019/deploy).
 
 بالنسبة إلى التنشيط، راجع [نظرة عامة حول تنشيط مستوى صوت Office](https://docs.microsoft.com/deployoffice/vlactivation/plan-volume-activation-of-office).

@@ -1,5 +1,5 @@
 ---
-title: سرد التطبيق في الفرق
+title: تطبيق القوائم في Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002964"
 - "6213"
-ms.openlocfilehash: 4022aff4bdedb9c3589e2546f75b00d9ea275293
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 2a2bb2aa00c6dad8d8f8246dda5a74d7a6857270652d21fdbd4eb0a891dac0ca
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49477430"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53963018"
 ---
-# <a name="lists-app-in-teams"></a>سرد التطبيق في الفرق
+# <a name="lists-app-in-teams"></a>تطبيق القوائم في Teams
 
-يوفر تطبيق "القوائم" في فرق Microsoft القوائم في مواقع الفريق علي SharePoint في القسم "التعاون والجماعي" من القناات. باستخدام هذا التطبيق ، يمكن للمستخدمين النهائيين العمل علي القوائم المفضلة الخاصة بهم من داخل الفرق.
+يجمع تطبيق القوائم Microsoft Teams قوائم في SharePoint في لوحة التعاون والعمل الجماعي للقنوات. باستخدام هذا التطبيق، يمكن للمستخدمين العمل على قوائمهم المفضلة من داخل Teams.
 
-القوائم مثبته مسبقا لكل مستخدمي الفرق وتتوفر مباشره في معرض علامات التبويب لكل فريق وكل قناه.
+يتم تثبيت القوائم مسبقا لجميع المستخدمين Teams وتتوفر مباشرة في معرض علامات التبويب لكل فريق وقناة.
 
-يمكن لمسؤولي الفرق التحكم في توفر التطبيق باستخدام نهج أذونات فرق Microsoft. لمزيد من المعلومات ، راجع [أداره نهج أذونات التطبيق في فرق Microsoft](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies).
+Teams يستطيع المسؤولون التحكم في توفر التطبيق باستخدام Microsoft Teams الأذونات. لمزيد من المعلومات، راجع إدارة سياسات [أذونات](https://docs.microsoft.com/microsoftteams/teams-app-permission-policies)التطبيق في Microsoft Teams .
 
-**نوع عنصر التحكم:**  التحكم في مسؤول الفرق  
+**نوع عنصر التحكم: Teams** التحكم في المسؤول    
 
-**الاجراء:**  مراجعه وتقييم
+**الإجراء:**  المراجعة والتقويم
 
 لمزيد من المعلومات، اطلع على:
 
-- [إعلان قوائم Microsoft-تطبيق تعقب المعلومات الذكية في Microsoft 365](https://techcommunity.microsoft.com/t5/microsoft-365-blog/announcing-microsoft-lists-your-smart-information-tracking-app/ba-p/1372233)
-- [قوائم في وثائق المستخدم النهائي للفرق](https://support.microsoft.com/office/get-started-with-lists-in-microsoft-taeams-c971e46b-b36c-491b-9c35-efeddd0297db)
-- [أداره تطبيق القوائم لمؤسسك في فرق Microsoft](https://docs.microsoft.com/microsoftteams/manage-lists-app)
-- [Microsoft قوائم مركز الموارد](https://aka.ms/MSLists)
-- [ما الجديد في فرق Microsoft | إصدار 2020](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-build-edition-2020/ba-p/1394224)
+- [الإعلان عن قوائم Microsoft - تطبيق تعقب المعلومات الذكية في Microsoft 365](https://techcommunity.microsoft.com/t5/microsoft-365-blog/announcing-microsoft-lists-your-smart-information-tracking-app/ba-p/1372233)
+- [القوائم في Teams المستخدم النهائي](https://support.microsoft.com/office/get-started-with-lists-in-microsoft-taeams-c971e46b-b36c-491b-9c35-efeddd0297db)
+- [إدارة تطبيق القوائم لمنظمتك في Microsoft Teams](https://docs.microsoft.com/microsoftteams/manage-lists-app)
+- [مركز موارد قوائم Microsoft](https://aka.ms/MSLists)
+- [ما الجديد في Microsoft Teams | Build Edition 2020](https://techcommunity.microsoft.com/t5/microsoft-teams-blog/what-s-new-in-microsoft-teams-build-edition-2020/ba-p/1394224)

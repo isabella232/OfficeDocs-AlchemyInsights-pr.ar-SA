@@ -1,5 +1,5 @@
 ---
-title: أضافه معرف VAT/الضريبة أو تحديثه-ود القديم + MCA كل _ الخطوات الموصي بها
+title: إضافة ضريبة القيمة المضافة/الضريبة أو تحديثها - WD القديم + MCA CL _ الخطوات المستحسنة
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004166"
 - "7291"
-ms.openlocfilehash: ba97ec48492b1777a12bf2b27a68d411690eab76
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: 172453664d2e950634c46977b8c543a054afbf6dfbed1356b7b13416ecf80b22
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49676771"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53953676"
 ---
-# <a name="add-or-update-vattax-id---legacy-wd--mca-cl---recommended-steps"></a>أضافه معرف VAT/الضريبة أو تحديثه-الود القديمة + MCA كل-الخطوات الموصي بها
+# <a name="add-or-update-vattax-id---legacy-wd--mca-cl---recommended-steps"></a>إضافة ضريبة القيمة المضافة/الضريبة أو تحديثها - WD القديم + MCA CL - الخطوات الموصى بها
 
-يتم استخدام معرف الضريبة لحساب الاعفاء الضريبي ويظهر في الفاتورة.
+يتم استخدام "الم ID الضريبة" لحساب الإعفاء الضريبي ويظهر على فاتورتك.
 
-1. انتقل إلى صفحه [أداره التكاليف + الفوترة](https://ms.portal.azure.com/#blade/Microsoft_Azure_GTM/ModernBillingMenuBlade/Overview) . 
-2. انقر فوق **خصائص** من الجانب الأيمن. 
-3. انقر فوق **أداره معرفات الضرائب** من جزء **معرفات الضرائب** ، ثم ادخل معرف الضريبة الجديد.
-4. انقر فوق **تحديث**. 
+1. انتقل إلى [صفحة إدارة التكلفة + الفوترة.](https://ms.portal.azure.com/#blade/Microsoft_Azure_GTM/ModernBillingMenuBlade/Overview) 
+2. انقر **فوق** خصائص من الجانب الأيمن. 
+3. انقر **فوق إدارة المهايئ** الضريبية من جزء "الملائكة **الضريبية"،** ثم أدخل "الملقط الضريبي" الجديد.
+4. انقر **فوق تحديث**. 
 
-إذا لم تتمكن من رؤية الجزء **معرفات الضرائب** ، فهذا يعني انه لم يتم تجميع معرفات الضرائب لمنطقك أو تحديث معرفات الضرائب في المدخل غير معتمده لحسابك.
+إذا لم يتم رؤية  جزء "الملائكة الضريبية"، فهذا يعني أنه لم يتم بعد جمع "هويات الضرائب" لمناطتك، أو أن تحديث "هويات الضرائب" في المدخل غير معتمد لحسابك.
 
 **المستندات المستحسنة**
 
