@@ -1,5 +1,5 @@
 ---
-title: إنشاء نهج التسمية AIP
+title: إنشاء سياسات تسميات AIP
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,31 +10,31 @@ localization_priority: Normal
 ms.custom:
 - "4539"
 - "9002266"
-ms.openlocfilehash: bef170d8e38dcc91094b95604aeb1968d5c57fca
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d24696b63663c69b22c783072141af62ecf124dba7b49bca827381f39f88640e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732162"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031969"
 ---
-# <a name="creating-aip-label-policies"></a>إنشاء نهج التسمية AIP
+# <a name="creating-aip-label-policies"></a>إنشاء سياسات تسميات AIP
 
-يمكن استخدام تسميات حماية معلومات Azure (AIP) مع نطاق كامل من البيانات التي تنشئها المؤسسة عاده وتخزنها ، من التصنيف الأدنى للبيانات الشخصية ، إلى اعلي تصنيف للبيانات السرية عاليه الجودة. تنطبق نهج حماية البيانات في azure علي عميل كلاسيكي لحماية معلومات Azure (AIP) وليس  [عميل التسمية الموحدة ل ip](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history). يمكنك تكوين عده عناصر في نهج AIP ، بما في ذلك خيارات مثل:
+يمكن استخدام تسميات Azure Information Protection (AIP) مع مجموعة كاملة من البيانات التي تقوم المؤسسة عادة بإنشاءها وتخزينها، من التصنيف الأدنى للبيانات الشخصية، إلى التصنيف الأعلى للبيانات ذات السرية العالية. تنطبق نهج حماية المعلومات في Azure على عميل Azure Information Protection (AIP) الكلاسيكي وليس عميل التسمية الموحد ل [AIP.](https://docs.microsoft.com/azure/information-protection/rms-client/unifiedlabelingclient-version-release-history) يمكنك تكوين عناصر متعددة في نهج AIP، بما في ذلك خيارات مثل:
 
-- خيار التسمية التي ستسمح للمسؤولين أو تصنيف المستخدمين والمستندات والبريد الكتروني وحمايتها (اختياري)
-- خيار فرض التصنيف عندما يقوم المستخدمون بحفظ المستندات وإرسال البريد الكتروني
-- خيار لتسميه رسالة بريد الكتروني تلقائيا ، استنادا إلى مرفقاتها.
-- خيار للتحكم في ما إذا كان شريط حماية المعلومات معروضا في تطبيقات Office
+- الخيار الذي تسمح التسمية للمسؤولين أو المستخدمين بتصنيف المستندات ورسائل البريد الإلكتروني وحمايتها (اختياريا)
+- خيار لفرض التصنيف عندما يحفظ المستخدمون المستندات ويرسلون بريدا إلكترونيا
+- خيار تسمية رسالة بريد إلكتروني تلقائيا، استنادا إلى مرفقاتها.
+- خيار للتحكم في ما إذا كان يتم عرض شريط حماية المعلومات في Office التطبيقات
 
-للحصول علي خيارات ومعلومات اضافيه حول نهج حماية البيانات في Azure ، راجع: [نظره عامه حول نهج حماية البيانات في azure](https://docs.microsoft.com/azure/information-protection/overview-policy).  
+للحصول على خيارات ومعلومات إضافية حول نهج Azure Information Protection، راجع: [نظرة عامة حول نهج Azure Information Protection](https://docs.microsoft.com/azure/information-protection/overview-policy).  
 
-للحصول علي موارد مفيده أخرى بخصوص نهج AIP ، راجع:
+للحصول على موارد أخرى مفيدة حول سياسات AIP، راجع:
 
-- [برنامج تعليمي: تكوين إعدادات نهج حماية البيانات في Azure وإنشاء تسميه جديده](https://docs.microsoft.com/azure/information-protection/infoprotect-quick-start-tutorial)  
-- [تكوين نهج حماية البيانات في Azure](https://docs.microsoft.com/azure/information-protection/configure-policy)  
+- [البرنامج التعليمي: تكوين إعدادات نهج حماية المعلومات في Azure وإنشاء تسمية جديدة](https://docs.microsoft.com/azure/information-protection/infoprotect-quick-start-tutorial)  
+- [تكوين نهج Azure Information Protection](https://docs.microsoft.com/azure/information-protection/configure-policy)  
 - [إنشاء تسميات الحساسية ونهجها وتكوينها](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels)  
-- [إرشادات ارشاديه للسيناريوهات الشائعة التي تستخدم حماية البيانات في Azure](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
-- [مراجعه وثائق حماية البيانات في Azure](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)  
-- [متطلبات حماية البيانات في Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)  
-- [البرنامج التعليمي لبدء التشغيل السريع لحماية البيانات في Azure](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)  
-- [تنزيل عميل حماية المعلومات في Azure](https://www.microsoft.com/download/details.aspx?id=53018)
+- [أدلة إرشادية للسيناريوهات الشائعة التي تستخدم Azure Information Protection](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
+- [مراجعة وثائق Azure Information Protection](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)  
+- [متطلبات حماية معلومات Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)  
+- [برنامج تعليمي للبدء السريع لحماية معلومات Azure](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)  
+- [تنزيل عميل Azure Information Protection](https://www.microsoft.com/download/details.aspx?id=53018)

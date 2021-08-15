@@ -1,5 +1,5 @@
 ---
-title: إغلاق حساب Outlook.com الخاص بك
+title: إغلاق حساب Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,20 +14,20 @@ ms.custom:
 - "206"
 - "8000005"
 ms.assetid: ef3475a8-e898-44d8-ae1d-82cdbf4454e8
-ms.openlocfilehash: c38a1d4dab108fee74262aa908fc237b29f1c03b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 30919543e0e1c80c1bc97fc808bef2bb3029e2380fcd5f66f2995aedc4e4282f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752454"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54024841"
 ---
-# <a name="close-your-outlookcom-account"></a>إغلاق حساب Outlook.com الخاص بك
+# <a name="close-your-outlookcom-account"></a>إغلاق حساب Outlook.com
 
-1. انتقل إلى صفحه [إغلاق حسابك](https://go.microsoft.com/fwlink/p/?linkid=845493) .
-2. اتبع الإرشادات الموجودة علي الصفحة للتاكد من ان حسابك جاهز للإغلاق ، ثم حدد **التالي**.
-3. أقرا القائمة وحدد المربعات لتقرك بقراءه كل عنصر.
-4. في القائمة المنسدلة **حدد سببا** ، اختر سبب إغلاق الحساب.
-5. حدد **وضع علامة علي الحساب لإغلاقه**.
+1. انتقل إلى صفحة [إغلاق حسابك.](https://go.microsoft.com/fwlink/p/?linkid=845493)
+2. اتبع الإرشادات الموجودة على الصفحة للتأكد من أن حسابك جاهز للإغلاق، وحدد **التالي**.
+3. اقرأ القائمة ودقق في المربعات لتقر بقراءتك لكل عنصر.
+4. في **القائمة المنسدل تحديد** سبب، اختر سبب إغلاق الحساب.
+5. حدد **وضع علامة على حساب لإغلاقه**.
 
-لمعرفه المزيد ، راجع [إغلاق حساب Outlook.com الخاص بك](https://support.office.com/article/564b801e-2a47-4cb2-afa8-12ead3185038?wt.mc_id=Office_Outlook_com_Alchemy).
+لمعرفة المزيد، راجع [إغلاق حساب Outlook.com](https://support.office.com/article/564b801e-2a47-4cb2-afa8-12ead3185038?wt.mc_id=Office_Outlook_com_Alchemy).
   

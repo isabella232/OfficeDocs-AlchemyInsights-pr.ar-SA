@@ -12,29 +12,29 @@ localization_priority: Normal
 ms.custom:
 - "1737"
 - "9000181"
-ms.openlocfilehash: fb05213b7b1efecbabc3e25f6c4587b0d303f783
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 7a32ad52f115b9ada40f7cd47c90ceb3dcd3f9cd99a8f9eae3514b2e45e73bb8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50707221"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53969264"
 ---
 # <a name="auto-apply-sensitivity-labels"></a>تطبيق تسميات الحساسية التلقائية
 
-يمكن تطبيق تسميات الحساسية يدويا على المحتوى من قبل المستخدمين، أو يمكنك تكوينها لتطبق تلقائيا على المحتوى.
+يمكن تطبيق تسميات الحساسية يدويا على المحتوى من قبل المستخدمين، أو يمكنك تكوينها لكي يتم تطبيقها تلقائيا على المحتوى.
 
-يؤدي تطبيق تسميات الحساسية تلقائيا إلى إزالة الحاجة إلى تدريب المستخدمين على كيفية تصنيف المحتوى وعلى الحاجة إلى إعلامهم بتكوينات النهج.
+يؤدي تطبيق تسميات الحساسية تلقائيا إلى إزالة الحاجة إلى تدريب المستخدمين على كيفية تصنيف المحتوى وعلى ضرورة إعلامهم بتكوينات النهج.
 
 لتطبيق التسميات تلقائيا، يجب القيام بما يلي:
 
 - اشتراك Azure Information Protection P2
-- [تنزيل عميل التسمية الموحد لحماية المعلومات من Azure وتثبيته](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
+- [تنزيل عميل التسمية الموحد لحماية معلومات Azure وتثبيته](https://docs.microsoft.com/azure/information-protection/rms-client/install-unifiedlabelingclient-app)
 
-نحن نعمل على الدعم الأصلي الذي لن يتطلب عميل التسمية الموحد لحماية البيانات من Azure في المستقبل.
+نحن نعمل على دعم أصلي لن يتطلب عميل التسمية الموحد لحماية معلومات Azure في المستقبل.
 
-حاليا، يدعم Windows فقط عميل التسمية الموحد.  هذه الميزة غير مدعمة بعد على أجهزة Mac و iOS و Android.
+حاليا، Windows يدعم فقط عميل التسمية الموحد.  هذه الميزة غير معتمدة بعد على أجهزة Mac و iOS و Android.
 
 لمزيد من المعلومات حول تسميات الحساسية وتطبيقها تلقائيا على المحتوى، راجع:
 
-- [نظرة عامة على تسميات الحساسية](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+- [نظرة عامة حول تسميات الحساسية](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 - [تطبيق تسمية حساسية على المحتوى تلقائيا](https://docs.microsoft.com/microsoft-365/compliance/apply-sensitivity-label-automatically)
