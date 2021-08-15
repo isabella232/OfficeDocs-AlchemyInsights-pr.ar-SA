@@ -1,5 +1,5 @@
 ---
-title: 1829-مشاكل ediscovery
+title: 1829-ediscovery-issues
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -12,27 +12,27 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 1829
 ms.assetid: ''
-ms.openlocfilehash: fe980d8ba54b710deca3bce9d8eca422d6c74da7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c2a949afa39da637e32c6a254b7343df0eac402b3579e511d3b41e13b2b00bf7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47710902"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030412"
 ---
 # <a name="ediscovery-issues"></a>مشاكل eDiscovery
 
-هل تبحث عن خيارات eDiscovery ؟ باستخدام "التنقل المصمم" في مركز توافق & الأمان ، قد يتم نقل خيارات eDiscovery بالفعل.  يمكنك العثور علي خيارات eDiscovery في المواقع التالية في مركز توافق & الأمان استنادا إلى ما تحاول القيام به:
+هل تبحث عن خيارات eDiscovery؟ مع إعادة تصميم التنقل في مركز & الأمان، قد تكون خيارات eDiscovery قد انتقلت بالفعل.  يمكنك العثور على خيارات eDiscovery في المواقع التالية في مركز التوافق & الأمان استنادا إلى ما تحاول القيام به:
 
-- استخدام ميزه البحث في المحتوي للبحث في مؤسستك عن المحتوي في البريد الكتروني والمستندات ومحادثات Skype for Business ، ثم تصدير البيانات-الانتقال إلى بحث **> محتوي**
+- استخدام "البحث في المحتوى" للبحث في مؤسستك عن المحتوى في البريد الإلكتروني والمستندات Skype for Business المحادثات، ثم تصدير البيانات - انتقل إلى البحث في > **البحث في المحتوى**
 
-- إنشاء حاله eDiscovery للبحث عن المحتوي ووضع مواقع المحتوي قيد الاحتجاز والانتقال إلى **ediscovery > ediscovery**
+- إنشاء حالة eDiscovery للبحث عن المحتوى وضع مواقع المحتوى في وضع الانتظار - انتقل إلى **eDiscovery > eDiscovery**
 
-- استخدام حل eDiscovery المتقدم الجديد الشامل لتحديد الكوستوديانس والتواصل معها ، والاحتفاظ ببيانات كوستوديان ذات الصلة بالحالة ، وتجميع البيانات وأضافها إلى مجموعه مراجعه ، وتقليل مستوي صوت البيانات من خلال تطبيق التحليلات علي البيانات غير الضرورية والتركيز علي العناصر الأكثر صله **بال>** حاله
+- استخدم حل Advanced eDiscovery الشامل الجديد لتحديد الجهات غير المأهولة والتواصل معها، والحفاظ على البيانات ذات الصلة بهذه الحالة، وجمع البيانات وإضافتها إلى مجموعة مراجعة، وتقليل حجم البيانات من خلال تطبيق التحليلات لغاء البيانات غير الضرورية والتركيز على البيانات الأكثر صلة بهذه الحالة - انتقل إلى **eDiscovery > Advanced eDiscovery**
 
 لمزيد من المعلومات، اطلع على:
 
-- [البحث في المحتوي](https://docs.microsoft.com/microsoft-365/compliance/content-search)
+- [البحث في المحتوى](https://docs.microsoft.com/microsoft-365/compliance/content-search)
 
-- [حالات eDiscovery في مركز توافق & الأمان](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
+- [حالات eDiscovery في مركز & الأمان](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases)
 
-- [حل eDiscovery المتقدم في Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/overview-ediscovery-20)
+- [Advanced eDiscovery حل في Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/overview-ediscovery-20)

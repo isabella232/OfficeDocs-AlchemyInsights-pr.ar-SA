@@ -1,5 +1,5 @@
 ---
-title: المستند مفتوح في وضع القراءة فقط
+title: فتح المستند للقراءة فقط
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -15,25 +15,25 @@ ms.custom:
 - "9000093"
 - "1613"
 - "9000093"
-ms.openlocfilehash: 43858e9cecb904799aebad0d6e545d586c6e6b00
-ms.sourcegitcommit: 3f36012ab7d2088a708bcacf2d4c3169e9d443f3
-ms.translationtype: HT
+ms.openlocfilehash: f286aff794325b82679e59cd152189dc65b23e4d3c06b0b3da65851cd767bbaa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "49528969"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54030340"
 ---
-# <a name="documents-opening-in-read-only"></a>المستندات مفتوحة في وضع القراءة فقط
+# <a name="documents-opening-in-read-only"></a>المستندات التي يتم فتحها للقراءة فقط
 
-قد تجد ملفات تفتحها لتكون متاحة للقراءة فقط. في بعض الحالات، هذا الشرط يضيف المزيد من الأمان على سبيل المثال، عند فتح ملفات من الإنترنت وفي أحيان أخرى، يمكن أن يكون هذا الشرط بسبب الإعدادات التي يمكن تغييرها.
+قد تجد الملفات التي تفتحها للقراءة فقط. في بعض الحالات، يعمل هذا الشرط كشرط أمان مضاف، مثل عند فتح الملفات من الإنترنت، وفي أوقات أخرى، يمكن أن يكون هذا الشرط بسبب إعداد يمكن تغييره.
 
-- [ملفات SharePoint مفتوحة في وضع القراءة فقط](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out)
+- [SharePoint الملفات المفتوحة للقراءة فقط](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out)
 
-إذا كان العميل يعتقد أن الأسباب المذكورة مثل آلية تعزيز الأمان أو الإعداد غير المتغير ليس واحداً من سيناريوهات التصميم المذكورة في [ملفات SharePoint المفتوحة في وضع القراءة فقط](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out)، فهناك حلول أخرى شائعة للمستندات المفتوحة في وضع القراءة فقط.
+إذا كان العميل يعتقد أن الأسباب المذكورة مثل آلية تحسين الأمان أو الإعداد الذي لم يطرأ عليه أي تغيير ليست أحد سيناريوهات التصميم حسب الموضحة في ملفات [SharePoint](https://docs.microsoft.com/sharepoint/troubleshoot/lists-and-libraries/files-open-as-read-only-and-cannot-check-in-or-out)المفتوحة للقراءة فقط ، فيما يلي حلول شائعة أخرى للمستندات التي يتم فتحها في وضع القراءة فقط.
 
-- قم بإعادة تشغيل الكمبيوتر.
-- ثبت تحديثات Office.
-- تحقق من برنامج مكافحة الفيروسات على الجهاز.
-- تأكد من أن الموقع موجود في منطقة "المواقع الموثوق بها" في Internet Explorer.
-- قم بإجراء إصلاح Office.
-- امسح [ذاكرة التخزين المؤقت لمستندات Office](https://support.microsoft.com/office/delete-your-office-document-cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d?ui=en-us&rs=en-us&ad=us).
+- أعد تشغيل الكمبيوتر.
+- تثبيت Office التحديثات.
+- تحقق من برنامج الحماية من الفيروسات على الجهاز.
+- تأكد من أن الموقع في منطقة المواقع الموثوق بها في Internet Explorer.
+- تنفيذ إصلاح Office.
+- مسح Office [ذاكرة التخزين المؤقت لمستندات](https://support.microsoft.com/office/delete-your-office-document-cache-b1d3765e-d71b-4bb8-99ca-acd22c42995d?ui=en-us&rs=en-us&ad=us).
 
