@@ -1,5 +1,5 @@
 ---
-title: Outlook.com أزاله Skype
+title: Outlook.com إزالة Skype
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1348"
 - "8000082"
-ms.openlocfilehash: f5494dec1960daea144fb2e2ddd0413689e03ab3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 03a866ac063d6136a5069b22216a9f3bf43a1202f9020f16ac5edb7cf89ce9ba
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723305"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53962082"
 ---
-# <a name="skype-icon-missing"></a>أيقونه Skype مفقوده
+# <a name="skype-icon-missing"></a>Skype أيقونة مفقودة
 
-لقد قمنا بازاله أيقونه Skype بشكل مؤقت من Outlook.com كجزء من تحديث "التصميم" والميزات التي نشعر أثارنا ان يتم نشرها. نقدر علي صبر الخاص بك بينما نقوم باعداد تجربه جديده ومحسنه لك.
+لقد أزلنا مؤقتا أيقونة Skype من Outlook.com كجزء من تحديث التصميم وتحديث الميزات الذي نحن متحمسون ل طرحه. نحن نقدر سعة صدرك بينما نقوم بإعداد تجربة جديدة ومحسنة لك.
 
-لا يزال بإمكانك استخدام Skype عبر المستعرض لديك في [web.skype.com](https://web.skype.com/).
+لا يزال بإمكانك استخدام Skype المستعرض في [web.skype.com](https://web.skype.com/).
