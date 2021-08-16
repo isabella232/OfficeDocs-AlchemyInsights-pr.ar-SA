@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002511"
 - "4892"
-ms.openlocfilehash: 88b7cbbe36882e06400869fbd211bb6fe81e845c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 452444aec11c001728c9d8de32ee0883e4d92dcafee6294b90f481dc9531ed53
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831001"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048683"
 ---
 # <a name="teams-meeting-invitations"></a>دعوات إلى اجتماعات Teams
 
-هل تحتاج إلى مساعدة في تخصيص دعوات اجتماعات Teams لمنظمتك؟ تأكد من مراجعة [تخصيص دعوات الاجتماع](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#customize-meeting-invitations).  
+هل تحتاج إلى مساعدة Teams دعوات الاجتماعات لمنظمتك؟ تأكد من مراجعة [تخصيص دعوات الاجتماع](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams#customize-meeting-invitations).  
 
 لمزيد من المعلومات، راجع [إدارة إعدادات الاجتماع في Microsoft Teams](https://docs.microsoft.com/microsoftteams/meeting-settings-in-teams).

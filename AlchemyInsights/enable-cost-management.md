@@ -1,5 +1,5 @@
 ---
-title: تمكين أداره التكلفة
+title: تمكين إدارة التكاليف
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,46 +13,46 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003547"
 - "6463"
-ms.openlocfilehash: 0bbf1158f7f5fa8a22cfe7242c86760057fc7bab
-ms.sourcegitcommit: 0f26f6b23b3d48c3c6cddf98bc41df484f16cb00
+ms.openlocfilehash: c3623aee9ab3592254ffb25aade7d52a2c7ddd49fde939956162cd4008d5ba19
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49676701"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54003556"
 ---
-# <a name="enable-cost-management"></a>تمكين أداره التكلفة
+# <a name="enable-cost-management"></a>تمكين إدارة التكاليف
 
-**ما المقصود بتكاليف التكلفة المعطلة لمؤسسك ؟**
+**ما معنى "يتم تعطيل التكاليف لمنظمتك"؟**
 
-يمكن للمؤسسات التي تستخدم حسابات اتفاقيه المؤسسة (EA) أو اتفاقيه عملاء Microsoft (MCA) تعطيل الوصول إلى معلومات التكلفة ومعلومات الأسعار.
+يمكن أن تقوم المؤسسات اتفاقية Enterprise (EA) أو اتفاقية عملاء Microsoft (MCA) بتعطيل الوصول إلى معلومات التكلفة ومعلومات الأسعار.
 
-بعد تسجيل الدخول إلى مدخل Azure ، يمكنه استخدام واجات برمجه التطبيقات (Api) للفوترة للحصول علي الفواتير بشكل برمجي (بمجرد تسجيل الدخول) وتفاصيل الاستخدام.
+بعد تسجيل الدخول إلى مدخل Azure، يمكنهم استخدام واجهات برمجة التطبيقات الخاصة بالفوترة للحصول على الفواتير (بمجرد الاشتراك) وتفاصيل الاستخدام برمجيا.
 
-**كيفيه السماح لمستخدمين إضافيين بالوصول إلى الفواتير**
+**كيفية السماح لمستخدمين إضافيين بالوصول إلى الفواتير**
 
-1. انتقل إلى **ريش الاشتراكات** في مدخل Azure.
+1. انتقل إلى **ريشة الاشتراكات** في مدخل Azure.
 2. حدد **الفواتير** ثم **الوصول إلى الفواتير**.
-3. قم بتشغيل access ، متبوعا بحفظ التغييرات ، للسماح للمستخدمين في الأدوار علي نطاق الاشتراكات بتنزيل الفواتير.
+3. قم تشغيل الوصول، متبوع حفظ التغييرات، للسماح للمستخدمين في أدوار نطاق الاشتراك بتنزيل الفواتير.
 
 > [!NOTE]
-> يمكن لمسؤول الحساب أيضا التكوين ليتم إرسال الفواتير عبر البريد الكتروني. لمعرفه المزيد ، راجع [الحصول علي فاتورتك في البريد الكتروني](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?).
+> يمكن لمسؤول الحساب أيضا تكوين الفواتير المرسلة عبر البريد الإلكتروني. لمعرفة المزيد، راجع [الحصول على الفاتورة في البريد الإلكتروني](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?).
 
-**كيفيه أضافه مستخدمين إلى دور قارئ الفوترة**
+**كيفية إضافة مستخدمين إلى دور قارئ الفوترة**
 
-1. انتقل إلى **ريش الاشتراكات** في مدخل Azure.
-2. حدد **التحكم بالوصول (أيام)** ، ثم انقر فوق **أضافه**.
-3. اختر **قارئ الفوترة** في صفحه **تحديد دور** .
-4. اكتب البريد الكتروني للمستخدم الذي تريد دعوته ، ثم انقر فوق **موافق** لإرسال الدعوة.
-5. اتبع الإرشادات الواردة في دعوه البريد الكتروني لتسجيل الدخول كقارئ فوتره. لمزيد من المعلومات ، راجع [منح حق الوصول إلى الفوترة](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support#opt-in).
+1. انتقل إلى **ريشة الاشتراكات** في مدخل Azure.
+2. حدد **التحكم بالوصول (IAM)** ثم انقر فوق **إضافة**.
+3. اختر **قارئ الفوترة** في **الصفحة تحديد دور.**
+4. اكتب البريد الإلكتروني للمستخدم الذي تريد دعوته، ثم انقر فوق **موافق** لإرسال الدعوة.
+5. اتبع الإرشادات المتوفرة في رسالة البريد الإلكتروني الخاصة بدعوة لتسجيل الدخول كقارئ فوترة. لمزيد من المعلومات، راجع [منح حق الوصول إلى الفوترة](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support#opt-in).
 
 **المستندات المستحسنة**
 
-- [تمكين طرق العرض أو و دا عبر مدخل EA](https://docs.microsoft.com/azure/cost-management-billing/costs/assign-access-acm-data?WT.mc_id=Portal-Microsoft_Azure_Support#enable-access-to-costs-in-the-ea-portal)
-- [التكاليف المضمنة في أداره التكاليف](https://docs.microsoft.com/azure/cost-management-billing/costs/understand-cost-mgt-data?WT.mc_id=Portal-Microsoft_Azure_Support#costs-included-in-cost-management)
+- [تمكين طرق عرض DA وOO عبر مدخل EA](https://docs.microsoft.com/azure/cost-management-billing/costs/assign-access-acm-data?WT.mc_id=Portal-Microsoft_Azure_Support#enable-access-to-costs-in-the-ea-portal)
+- [التكاليف المضمنة في إدارة التكاليف](https://docs.microsoft.com/azure/cost-management-billing/costs/understand-cost-mgt-data?WT.mc_id=Portal-Microsoft_Azure_Support#costs-included-in-cost-management)
 - [عروض Microsoft Azure المعتمدة](https://docs.microsoft.com/azure/cost-management-billing/costs/understand-cost-mgt-data?WT.mc_id=Portal-Microsoft_Azure_Support#supported-microsoft-azure-offers)
-- [مراجعه التكاليف في تحليل التكلفة](https://docs.microsoft.com/azure/cost-management-billing/costs/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support&tabs=azure-portal#review-costs-in-cost-analysis)
+- [مراجعة التكاليف في تحليل التكلفة](https://docs.microsoft.com/azure/cost-management-billing/costs/quick-acm-cost-analysis?WT.mc_id=Portal-Microsoft_Azure_Support&tabs=azure-portal#review-costs-in-cost-analysis)
 - [توفير الوصول إلى معلومات الفوترة](https://docs.microsoft.com/azure/cost-management-billing/manage/manage-billing-access?WT.mc_id=Portal-Microsoft_Azure_Support)
-- [التحقق من الوصول إلى اتفاقيه عملاء Microsoft](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)
+- [التحقق من الوصول إلى اتفاقية عملاء Microsoft](https://docs.microsoft.com/azure/cost-management-billing/manage/download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support#check-access-to-a-microsoft-customer-agreement)
 
 
 

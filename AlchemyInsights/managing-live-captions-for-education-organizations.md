@@ -1,5 +1,5 @@
 ---
-title: أداره التسميات التوضيحية المباشرة للمؤسسات التعليمية
+title: إدارة التسميات التوضيحية المباشرة لمنظمات التعليم
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "6140"
 - "9003263"
-ms.openlocfilehash: 1df49b09ef29c486d831e414cdf7fe22384c252f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
-ms.translationtype: HT
+ms.openlocfilehash: 0779f486e1b1d5099bd97bea4ca2ff187fd44c985060507b33cb00a1c6c1d4c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47812750"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066675"
 ---
-# <a name="managing-live-captions-for-education-organizations"></a>أداره التسميات التوضيحية المباشرة للمؤسسات التعليمية
+# <a name="managing-live-captions-for-education-organizations"></a>إدارة التسميات التوضيحية المباشرة لمنظمات التعليم
 
-من المستحسن لمسؤولي المؤسسات التعليمية التفكير في استخدام حزم النهج لمعلم الطلاب والمعلمين. لمزيد من المعلومات، راجع ما يلي:  
+نوصي المسؤولين في مؤسسات التعليم ب التفكير في استخدام حزم النهج سلامه الطلاب والمعلمين والمعلمين. لمزيد من المعلومات، راجع ما يلي:  
 
-- [حزم النهج في فرق Microsoft](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).  
+- [حزم النهج في Microsoft Teams](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).  
     
-- [النهج التي يجب تعيينها لامان الطالب](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety).
+- [السياسات التي يجب تعيينها سلامه الطلاب.](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety)
 
-- [النهج التي يجب تعيينها للمعلمين](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators).
+- [السياسات التي يجب تعيينها للمعلمين](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators).
 
-إذا أردت أداره القدرة علي تمكين التسميات التوضيحية المباشرة فقط ، فراجع [تمكين التسميات التوضيحية المباشرة](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#enable-live-captions). لمزيد من المعلومات ، راجع [أداره نهج الاجتماع في الفرق](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).
+إذا كنت تريد إدارة إمكانية تمكين التسميات التوضيحية المباشرة فقط، فشاهد [تمكين التسميات التوضيحية المباشرة](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams#enable-live-captions). لمزيد من المعلومات، راجع [إدارة سياسات الاجتماعات في Teams](https://docs.microsoft.com/microsoftteams/meeting-policies-in-teams).

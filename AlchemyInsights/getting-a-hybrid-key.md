@@ -1,5 +1,5 @@
 ---
-title: الحصول علي مفتاح مختلط
+title: الحصول على مفتاح مختلط
 ms.author: dstrome
 author: dstrome
 manager: dansimp
@@ -13,14 +13,14 @@ ms.custom:
 - "694"
 - "3500010"
 ms.assetid: f3195f97-4f11-482f-8cb4-58f1ab93cd8c
-ms.openlocfilehash: cc25383cc3dfa2e8fb41d0a3d7e8333ed3a57ae7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b677c7a119e9863db0221a4fbac1ac0a18deac1fecbc9e0ee22333d97144bc3d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706834"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54056513"
 ---
-# <a name="getting-an-exchange-hybrid-key"></a>الحصول علي مفتاح Exchange المختلط
+# <a name="getting-an-exchange-hybrid-key"></a>الحصول على Exchange مختلط
 
-لتوصيل المؤسسة المحلية ب Exchange Online في Microsoft 365 ، يجب اعداد خادم Exchange واحد علي الأقل في المؤسسة المحلية. يتم استخدام هذا الخادم لإنشاء نشر مختلط يصل مؤسسه Exchange المحلية إلى Exchange Online. للحصول علي مفتاح مختلط لهذا الخادم ، اتبع الخطوات الواردة في [معالج توزيع مفتاح منتج المختلط ل Exchange](https://aka.ms/hybridkey).
+لتوصيل مؤسستك Exchange Online في Microsoft 365، ستحتاج إلى إعداد خادم Exchange واحد على الأقل في مؤسستك. يتم استخدام هذا الخادم لإنشاء نشر مختلط يصل مؤسستك Exchange إلى Exchange Online. للحصول على مفتاح مختلط لهذا الخادم، اتبع الخطوات في Exchange [توزيع مفتاح المنتج المختلط](https://aka.ms/hybridkey).
   

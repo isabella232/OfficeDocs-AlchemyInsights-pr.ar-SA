@@ -13,14 +13,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004353"
 - "7784"
-ms.openlocfilehash: 9e686bd33414512b0a3a2bc24477832a508537a8
-ms.sourcegitcommit: 7b213fd5e8a3fdb5c602673dc194d576d372ac96
+ms.openlocfilehash: 3128402f72f034144a3d58074c65907d3d4f10745a9bdbee58fec14b09f419ea
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "49900780"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54056369"
 ---
 # <a name="grant-permissions"></a>منح الأذونات
 
-1. **منح الموافقة علي المسؤول علي مستوي المستاجر**: راجع [الموافقة علي منح المسؤولين علي مستوي المستاجر للحصول علي تطبيق](https://docs.microsoft.com/azure/active-directory/manage-apps/grant-admin-consent) للحصول علي إرشادات مفصله خطوه بخطوه لمنح موافقه المسؤول علي مستوي المستاجر من موقع Azure ، باستخدام Azure AD PowerShell ، أو من خلال موجه الموافقة نفسه.
-1. **منح الموافقة بالنيابة عن مستخدم معين**: بدلا من منح الموافقة للمؤسسة بأكملها ، يمكن للمسؤول أيضا استخدام واجهه برمجه التطبيق الخاصة ب [Microsoft Graph](https://docs.microsoft.com/graph/use-the-api) لمنح الموافقة علي الأذونات المفوضة بالنيابة عن مستخدم واحد. لمزيد من المعلومات ، راجع [الحصول علي حق الوصول بالنيابة عن مستخدم](https://docs.microsoft.com/graph/auth-v2-user).
+1. **منح** موافقة المسؤول على مستوى [](https://docs.microsoft.com/azure/active-directory/manage-apps/grant-admin-consent) المستأجر : راجع منح موافقة المسؤول على نطاق المستأجر على أحد التطبيقات للحصول على إرشادات مفصلة خطوة بخطوة لمنح موافقة المسؤول على مستوى المستأجر من مدخل Azure، باستخدام Azure AD PowerShell، أو من طلب الموافقة نفسه.
+1. **منح** الموافقة بالنيابة عن مستخدم معين : بدلا من منح الموافقة لمستخدم معين، يمكن للمسؤول أيضا استخدام واجهة برمجة تطبيقات [Microsoft Graph](https://docs.microsoft.com/graph/use-the-api) لمنح الموافقة على الأذونات المفوضة بالنيابة عن مستخدم واحد. لمزيد من المعلومات، راجع الوصول نيابة [عن مستخدم](https://docs.microsoft.com/graph/auth-v2-user).
