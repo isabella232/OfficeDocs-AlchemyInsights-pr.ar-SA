@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3154"
 - "9001194"
-ms.openlocfilehash: 06ded694893c020f862864215700853b19d35f08
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: c2f2a0c3888920a969a6fc70af7ef7bfd8435bdcf975e0f31452b5da85e3a208
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820165"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968868"
 ---
 # <a name="blocking-legacy-authentication"></a>حظر المصادقة القديمة
 
 المصادقة القديمة عبارة عن مصطلح يشير إلى طلب مصادقة تم تقديمه من خلال:
 
-- عملاء Office الأقدم الذين لا يستخدمون المصادقة الحديثة (على سبيل المثال، عميل Office 2010).
+- العملاء Office الذين لا يستخدمون المصادقة الحديثة (على سبيل المثال، Office 2010).
 
 - أي عميل يستخدم بروتوكولات البريد القديمة مثل IMAP/SMTP/POP3.
 

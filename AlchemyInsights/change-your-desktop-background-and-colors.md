@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001451"
 - "3475"
-ms.openlocfilehash: fbc231f9f0e980286346aed0ed78d928cb405cec
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 8dce08c019e3f49fb6254dbd98d792c107e4c96dbd36a0cf11aff70e171e7649
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818131"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54045695"
 ---
 # <a name="change-your-desktop-background-and-colors"></a>تغيير خلفية سطح المكتب وألوانه
 
-لتغيير إعداد الألوان، انتقل إلى بدء الإعدادات تخصيص الألوان ، ثم اختر اللون الخاص بك أو اسمع ل Windows بسحب لون  >    >    >  التمييز من الخلفية.
+لتغيير إعداد الألوان، انتقل إلى بدء الإعدادات تخصيص الألوان ، ثم اختر اللون الخاص بك أو Windows لون التمييز من  >    >    >  الخلفية.
 
 ![تخصيص الألوان في Windows.](media/windows-personalization-colors.png)
 
-لتغيير خلفية سطح المكتب، انتقل إلى بدء  >  **الإعدادات** تخصيص الخلفية ، ثم اختر صورة أو لون صلب أو أنشئ عرض شرائح  >    >  للصور. 
+لتغيير خلفية سطح المكتب، انتقل إلى بدء الإعدادات تخصيص الخلفية ، ثم اختر صورة أو لون صلب أو أنشئ عرض شرائح  >    >    >  للصور. 
 
-![تغيير خلفية سطح مكتب Windows.](media/windows-desktop-background.png)
+![يمكنك تغيير Windows سطح المكتب.](media/windows-desktop-background.png)
 
-هل تريد المزيد من الخلفيات والألوان لسطح المكتب؟ تفضل [بزيارة Microsoft Store](https://www.microsoft.com/store/collections/windowsthemes) للاختيار من بين العشرات من السمات المجانية.
+هل تريد المزيد من الخلفيات والألوان لسطح المكتب؟ تفضل [Microsoft Store](https://www.microsoft.com/store/collections/windowsthemes) للاختيار من بين العشرات من ال السمات المجانية.
