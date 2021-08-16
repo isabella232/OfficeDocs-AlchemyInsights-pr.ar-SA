@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006493"
 - "11109"
-ms.openlocfilehash: 5afae22d7327a5d841964c12c73d70904ae72132b82810af74d32fc15ef30d6f
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 3bb3e7756cade296671d679b0ad7babe3051d418
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53963954"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58295858"
 ---
 # <a name="use-update-related-group-policies-available-in-microsoft-edge"></a>استخدام سياسات المجموعات ذات الصلة بتحديث المتوفرة في Microsoft Edge
 
-استخدم السياسات المتوفرة في Microsoft Edge (الإصدار 77 أو الإصدارات الأحدث) للتحكم في كيفية Microsoft Edge التحديث. لمزيد من المعلومات، راجع Microsoft Edge [- تحديث السياسات](/DeployEdge/microsoft-edge-update-policies#available-policies).
+استخدم السياسات المتوفرة في Microsoft Edge (الإصدار 77 أو الإصدارات الأحدث) للتحكم في كيفية Microsoft Edge التحديث. لمزيد من المعلومات، راجع Microsoft Edge [- تحديث السياسات](https://docs.microsoft.com/DeployEdge/microsoft-edge-update-policies#available-policies).

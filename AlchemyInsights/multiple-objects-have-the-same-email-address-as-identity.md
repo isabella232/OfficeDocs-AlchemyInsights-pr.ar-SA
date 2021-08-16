@@ -1,5 +1,5 @@
 ---
-title: تحتوي العناصر المتعددة علي عنوان البريد الكتروني نفسه كهوية
+title: تملك كائنات متعددة عنوان البريد الإلكتروني نفسه كالهوية
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,37 +13,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "1834"
 - "9000247"
-ms.openlocfilehash: 05fb43133bc68b71ccdbab44d28679a1f659e762
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5866d182cb2e97e37bc6df87e05fb6ef55bfed1d36f9daa95b7b8993a509e2dd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724602"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011899"
 ---
-# <a name="multiple-objects-have-the-same-email-address-as-identity"></a>تحتوي العناصر المتعددة علي عنوان البريد الكتروني نفسه كهوية
+# <a name="multiple-objects-have-the-same-email-address-as-identity"></a>تملك كائنات متعددة عنوان البريد الإلكتروني نفسه كالهوية
 
 **كائنات متعددة**
 
-لا يمكن لأحد الأسباب الشائعة لهذا الخطا توجيه طلب Outlook Web Access بشكل صحيح في حاله وجود عده كائنات تحتوي علي عنوان البريد الكتروني نفسه كهوية. للعثور علي هذه العناصر ، قم بتشغيل الأوامر التالية:
+أحد الأسباب الشائعة لهذا الخطأ هو عدم القدرة على توجيه Outlook ويب Access بشكل صحيح في حالة وجود عدة كائنات لها عنوان البريد الإلكتروني نفسه كالهوية. للعثور على هذه الكائنات، يمكنك تشغيل الأوامر التالية:
 
-· الحصول علي المستلم <email address>
+· Get-Recipient <email address>
 
-· الحصول علي المستخدم <email address>
+· Get-User <email address>
 
-· الحصول علي المستخدم <email address> -سوفتديليتيدوسير
+· Get-User <email address> -SoftDeletedUser
 
-· الحصول علي جهة اتصال <email address>
+· Get-Contact <email address>
 
-· الحصول علي علبه بريد <email address> -بوبليكفولدير
+· Get-Mailbox <email address> -PublicFolder
 
-· الحصول علي علبه بريد <email address> -إينكلوديسوفتديليتيدمايلبوكس
+· Get-Mailbox <email address> -IncludeSoftDeletedMailbox
 
-· الحصول علي علبه بريد <email address> -إيناكتيفيمايلبوكسونلي
+· Get-Mailbox <email address> -InactiveMailboxOnly
 
-لحل هذه المشكلة ، قم بازاله كائنات متعددة باستخدام هويه البريد الكتروني نفسها وتاكد من وجود كائن واحد بهويه البريد الكتروني المحددة ومن ان نوع المستلم الخاص به هو أوسيرمايلبوكس.
+لحل هذه المشكلة، قم بإزالة كائنات متعددة بنفس هوية البريد الإلكتروني وتأكد من وجود كائن واحد له هوية بريد إلكتروني محددة ومن أن نوع المستلم الخاص به هو UserMailbox.
 
-**يتم استخدام العنوان نفسه لعلب بريد الاعمال والعملاء**
+**يتم استخدام العنوان نفسه لعلب بريد الأعمال والمستهلكين**
 
-والسبب الآخر هو عند استخدام العنوان نفسه لعلب بريد العمل والعملاء. في هذه الحالة ، يجب ان يقوم المستخدم بتغيير الاسم المستعار للمستهلك الأساسي الخاص به حتى يعتمد مقهى هذا السيناريو. هذا خطا دائم لا يتم الوصول اليه بدون تدخل.
+هناك سبب آخر وهو استخدام العنوان نفسه لعلب بريد الأعمال والمستهلكين. في هذه الحالة، يجب على المستخدم تغيير الاسم المستعار للمستهلك الأساسي حتى يدعم مقهى هذا السيناريو. هذا خطأ دائم لا يزول بدون تدخل.
 
-للحصول علي التفاصيل ، راجع [تغيير عنوان البريد الكتروني أو رقم الهاتف لحساب Microsoft الخاص بك](https://support.microsoft.com/help/11545/microsoft-account-rename-your-personal-account).
+للحصول على التفاصيل، راجع [تغيير عنوان البريد الإلكتروني أو رقم الهاتف لحساب Microsoft](https://support.microsoft.com/help/11545/microsoft-account-rename-your-personal-account)الخاص بك .

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7333"
-ms.openlocfilehash: 87527ffb4db54e95a1aa1a4b6093f1b65cc6f595584c6e04c9657ee7210f0201
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 768b31e26045e8276785261b26a04cdde478577f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54066783"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58295750"
 ---
 # <a name="manage-delegate-permissions-for-a-single-folder-in-outlook-for-mac"></a>إدارة أذونات المفوض لمجلد واحد في Outlook for Mac
 
@@ -28,5 +28,4 @@ ms.locfileid: "54066783"
 
 لتخصيص مستويات الأذونات، حدد خانات الاختيار للعناصر التي تريدها، ثم ضمن تحرير العناصر وحذف العناصر ، اختر مستوى الأذونات الذي تريده. 
 
-> [!NOTE]
-> إذا قمت بتعيين مستوى الأذونات إلى **بلا**، يبقى المفوض في القائمة، مما يسمح لك ب استعادة الأذونات بسرعة في وقت لاحق. للحصول على معلومات حول مستويات الأذونات، راجع [حول المشاركة والإذن](https://support.microsoft.com/office/options-for-sharing-and-delegating-folders-in-outlook-for-mac-480d8054-68ce-4150-ba1e-b9b7f2fc4ce5).
+**ملاحظة:** إذا قمت بتعيين مستوى الأذونات إلى **بلا،** يبقى المفوض في القائمة، مما يسمح لك ب استعادة الأذونات بسرعة في وقت لاحق. للحصول على معلومات حول مستويات الأذونات، راجع [حول المشاركة والإذن](https://support.microsoft.com/office/options-for-sharing-and-delegating-folders-in-outlook-for-mac-480d8054-68ce-4150-ba1e-b9b7f2fc4ce5).

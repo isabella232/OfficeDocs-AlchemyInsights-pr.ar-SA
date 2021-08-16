@@ -1,5 +1,5 @@
 ---
-title: إصدار بيتا من تقويم 9000198 Outlook.com
+title: 9000198 Outlook.com Calendar Beta
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1758"
 - "9000198"
-ms.openlocfilehash: 687819e0374c2c7195443ad0c1f15c6160bac665
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0399d1eac720d9c92afef666fa7c3563725daee21b88afb29d2d3abdb1501b58
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753354"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064551"
 ---
-# <a name="new-calendar-experiences-coming-to-outlookcom"></a>تجربه تقويم جديده تاتي إلى Outlook.com
+# <a name="new-calendar-experiences-coming-to-outlookcom"></a>تجارب التقويم الجديدة القادمة Outlook.com
 
-يقدم المظهر الجديد أفضل التصميمات وألكما توفر معارف من تجربه البريد إلى التقويم.
+يجمع شكل جديد أفضل التصميمات والتعلمات من تجربة البريد إلى التقويم.
 
-ستستمتع بتصميم حديث يقلل من البريد الإضافي ويوفر لك طرقا أسرع للتنقل في التقويم. من الأسهل أيضا العثور علي تقويمات شيقه لأنشطك المفضلة ، من العروض التلفزيونية إلى الفرق والاحداث الرياضية.
+ستستمتع بتصميم حديث يقلل من الفوضى المرئية ويمنحك طرقا أسرع للتنقل في التقويم. من السهل أيضا العثور على تقويمات مثيرة للاهتمام لأنشطتك المفضلة، من العروض التلفزيونية إلى الفرق والأحداث الرياضية.
 
-لقد قمنا بتوسيع مجموعتنا من أيقونات الاحداث وتحديث شكلها وأسلوب عملها الموجودة ، والآن سنقوم الآن باضافه الأيقونات ذات الصلة إلى الاحداث ، التالي يمكنك الاطلاع علي ما يحدث بسهوله.
+لقد قمنا بتوسيع مجموعتنا من أيقونات الأحداث وتحديث شكل تلك الموجودة ومستشعرها، والآن نضيف تلقائيا أيقونات ذات صلة إلى الأحداث الخاصة بك، حتى تتمكن من رؤية ما يحدث بسهولة بنظرة سريعة.
 
-يمكنك تقديم ملاحظات حول الميزات الجديدة عبر [قناه UserVoice لتقويم Outlook.com](https://go.microsoft.com/fwlink/?linkid=2103075).
+يمكنك تقديم ملاحظات حول الميزات الجديدة من خلال قناة [Outlook.com Calendar UserVoice](https://go.microsoft.com/fwlink/?linkid=2103075).

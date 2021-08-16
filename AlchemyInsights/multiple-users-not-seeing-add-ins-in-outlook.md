@@ -1,5 +1,5 @@
 ---
-title: مستخدمون متعددون لا يريون الوظائف الاضافيه في Outlook
+title: لا يرى عدة مستخدمين الوظائف الإضافية في Outlook
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -11,17 +11,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
-ms.openlocfilehash: a0c272f40044795754ed8630e88e00ed14ea6ad7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 850df2cb349f9a751def3d59fb665670e70e493daba56a88821afcef9c48ffa8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47729858"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54011791"
 ---
-# <a name="multiple-users-not-seeing-add-ins-in-outlook"></a>مستخدمون متعددون لا يريون الوظائف الاضافيه في Outlook
+# <a name="multiple-users-not-seeing-add-ins-in-outlook"></a>لا يرى عدة مستخدمين الوظائف الإضافية في Outlook
 
-إذا قمت باختبار وظائف Outlook الاضافيه ولم يظهر اي من الخطوات الاولي ، فاستخدم الأمر **get-organizationconfig** cmdlet للاستعلام عن المعلمة _أبسفوروفيسينابليد_ . إذا ارجع الاستعلام قيمه **False**، فقم بتعيين هذه المعلمة إلى **True** باستخدام الأمر **get-organizationconfig** cmdlet ، بحيث تظهر الوظائف الاضافيه كما هو متوقع.
+إذا قمت Outlook الوظائف الإضافية ولم تظهر أي منها، كخطوة أولى في استكشاف الأخطاء وإصلاحها، فاستخدم **الأمر Get-OrganizationConfig** PowerShell cmdlet للاستعلام عن المعلمة _AppsForOfficeEnabled._ إذا كان الاستعلام يرجع قيمة **False**، فحدد هذه المعلمة إلى **True** باستخدام **الأمر Cmdlet Set-OrganizationConfig،** بحيث تظهر الوظائف الإضافية كما هو متوقع.
 
-لا نوصي بتعيين المعلمة _أبسفوروفيسينابليد_ إلى **False**. تتجاوز قيمه **False** كل إعدادات ادوار المستخدمين والمسؤولين السابقة وتمنع تنشيط اي تطبيقات جديده من قبل اي مستخدم في المؤسسة.
+لا نوصي بتعيين المعلمة _AppsForOfficeEnabled_ إلى **False**. تتجاوز قيمة **False** كل إعدادات الدور الإداري ودور المستخدم أعلاه وتمنع أي تطبيقات جديدة من التنشيط من قبل أي مستخدم في المؤسسة.
 
-لمزيد من المعلومات ، راجع [تحديد المسؤولين والمستخدمين الذين يمكنهم تثبيت الوظائف الاضافيه وأدارتها ل Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins#user-roles).
+لمزيد من المعلومات، راجع تحديد المسؤولين والمستخدمين الذين يمكنهم تثبيت الوظائف الإضافية وإدارتها [Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins#user-roles).
