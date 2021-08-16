@@ -1,5 +1,5 @@
 ---
-title: استكشاف أخطاء المشاكل وإصلاحها في أداره الترحيل
+title: استكشاف أخطاء إدارة الترحيل وإصلاحها
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "7915"
-ms.openlocfilehash: 51e97fec700c239653a0da77ae879192697438e2
-ms.sourcegitcommit: 2500f4bfdf2383a968bd43b5d22286ef952093bf
-ms.translationtype: MT
+ms.openlocfilehash: 6b659ee67d00a9e225b438a063592b1e04d36c93149c113d302cb56e474db3a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49884755"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54021043"
 ---
-# <a name="troubleshoot-migration-manager-issues-and-errors"></a>استكشاف أخطاء المشاكل وإصلاحها في أداره الترحيل
+# <a name="troubleshoot-migration-manager-issues-and-errors"></a>استكشاف أخطاء إدارة الترحيل وإصلاحها
 
-إذا واجهت مشاكل أو أخطاء عند استخدام أداره الترحيل ، فالرجاء الاطلاع علي [مشاكل أداره الترحيل والأخطاء وإصلاحها](https://docs.microsoft.com/sharepointmigration/mm-troubleshoot).
+إذا كانت لديك مشاكل أو أخطاء عند استخدام إدارة الترحيل، فيرجى زيارة استكشاف أخطاء إدارة الترحيل [وإصلاحها.](https://docs.microsoft.com/sharepointmigration/mm-troubleshoot)
