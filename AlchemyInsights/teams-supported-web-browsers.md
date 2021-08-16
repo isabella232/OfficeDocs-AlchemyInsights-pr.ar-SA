@@ -1,5 +1,5 @@
 ---
-title: مستعرضات ويب المدعومة من Teams
+title: Teams الويب المعتمدة
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001490"
 - "3540"
-ms.openlocfilehash: 26701aa868930784e7bf968b7799175fa0f3f80b
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 05b765d53a0e432993f405fc5ea7ab86597d1e7c830251a77f4167a536d2b7dc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824674"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53981208"
 ---
-# <a name="teams-supported-web-browsers"></a>مستعرضات ويب المدعومة من Teams
+# <a name="teams-supported-web-browsers"></a>Teams الويب المعتمدة
 
-يدعم Teams بشكل كامل مستعرضات الإنترنت المدرجة في المقالة، الحدود والمواصفات ل [Microsoft Teams،](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers)مع الاستثناءات المذكورة للمتصلين والاجتماعات.
+Teams مستعرضات الإنترنت المدرجة في المقالة، الحدود والمواصفات الخاصة ب Microsoft Teams [،](https://docs.microsoft.com/microsoftteams/limits-specifications-teams#browsers)مع الاستثناءات المذكورة للمتصلين والاجتماعات.

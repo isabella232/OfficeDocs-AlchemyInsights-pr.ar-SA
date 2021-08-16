@@ -11,19 +11,19 @@ ms.custom:
 - "895"
 - "8000036"
 ms.assetid: c2016465-a57b-40da-b938-412467fea205
-ms.openlocfilehash: d939f9fa4f95a247d1db83cea1afb02161c19259
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: be448aea85d2a498f380c628b6a80680cd68ff34852c39568b227ede3f1c2c24
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47714198"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53968148"
 ---
 # <a name="changing-message-or-attachment-size"></a>تغيير حجم الرسالة أو المرفق
 
-بصفتك مسؤول Microsoft 365 ، يمكنك تغيير الحد الأقصى/الأدنى لحجم الرسائل (التي تتضمن مرفقات) التي يرسلها المستخدمون. يمكنك القيام بذلك للمستخدمين الفرديين أو كل المستخدمين (الاعداد الافتراضي للمؤسسة). بعد تغيير هذا الاعداد ، يستغرق الأمر حوالي 30 دقيقه.
+كمسؤول Microsoft 365، يمكنك تغيير الحد الأقصى/الأدنى لحجم الرسائل (الذي يتضمن المرفقات) التي يرسلها المستخدمون. يمكنك القيام بذلك للمستخدمين الفرديين أو لجميع المستخدمين (افتراضيا في المؤسسة). بعد تغيير هذا الإعداد، يستغرق الأمر حوالي 30 دقيقة لكي يدخل حيز التنفيذ.
   
-- لتغيير حجم الرسالة لمستخدم معين ، انتقل إلى **Admin centers** \> **Exchange** \> علبه البريد التي **يستخدمها المسؤولون** Exchange \> **mailboxes**. حدد علبه بريد المستخدم. حدد الايقونه تحرير ، وحدد **ميزات علبه البريد**، ثم ضمن **قيود حجم الرسالة**، اختر **عرض التفاصيل** وحدد الحد الأقصى لحجم الرسالة الجديد.
+- لتغيير حجم الرسالة لمستخدم معين،  انتقل إلى مراكز الإدارة Exchange \>  \> **علب بريد** \> **المستلمين.** حدد علبة بريد المستخدم. حدد أيقونة التحرير، وحدد ميزات علبة **البريد،** ثم ضمن قيود حجم **الرسالة،** اختر عرض التفاصيل **وحدد** الحد الأقصى لحجم الرسالة الجديد.
 
-- لمعرفه كيفيه تغيير هذا الاجراء لكل علب البريد ، يرجى مراجعه [هذه المقالة](https://www.microsoft.com/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).
+- لمعرفة كيفية تغيير هذا لكل علب البريد، الرجاء الاطلاع [على هذه المقالة](https://www.microsoft.com/microsoft-365/blog/2015/04/15/office-365-now-supports-larger-email-messages-up-to-150-mb/).
 
-- للقراءة حول الحد الأقصى للحدود باستخدام Outlook أو Outlook علي الويب ، راجع [هذه المقالة](https://technet.microsoft.com/library/exchange-online-limits.aspx#MessageLimits). يحتوي Outlook Mobile علي الحد الأقصى للعدد 25 ميغابايت. للحصول علي دعم Outlook iOS و Android ، [انقر هنا](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243).
+- لقراءة الحد الأقصى للحدود باستخدام Outlook أو Outlook على ويب، راجع [هذه المقالة](https://technet.microsoft.com/library/exchange-online-limits.aspx#MessageLimits). Outlook الحد الأقصى للجوال هو 25MB. للحصول على Outlook لنظامي التشغيل iOS وAndroid، [انقر هنا.](https://support.office.com/article/Get-in-app-help-for-Outlook-for-iOS-and-Android-218a22d1-9fa5-4889-b689-de1c63493243)

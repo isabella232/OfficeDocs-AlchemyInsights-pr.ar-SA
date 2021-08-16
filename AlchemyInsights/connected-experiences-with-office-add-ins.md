@@ -1,5 +1,5 @@
 ---
-title: تجربه متصلة مع وظائف Office الاضافيه
+title: تجربة متصلة مع Office الإضافية
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -11,21 +11,21 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
-ms.openlocfilehash: ca4aa57acfa8f2ddfd5b8ddbaa6d7214cfbb9140
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b6b05b39f6298eb6e05c4465584a884395c863a891ec525828f795809eeb787a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748275"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54032797"
 ---
-# <a name="connected-experience-with-office-add-ins"></a>تجربه متصلة مع وظائف Office الاضافيه
+# <a name="connected-experience-with-office-add-ins"></a>تجربة متصلة مع Office الإضافية
 
-قد لا تكون وظائف Office الاضافيه متوفرة إذا قام المستخدم أو المسؤول بإيقاف تشغيل التجربة المتصلة.
+Office الوظائف الإضافية غير متوفرة إذا قام المستخدم أو المسؤول ب إيقاف تشغيل التجارب المتصلة.
 
-قبل تغيير إعدادات النهج ، راجع [استخدام إعدادات النهج لأداره عناصر تحكم الخصوصية لتطبيقات Microsoft 365 ل enterprise](https://docs.microsoft.com/deployoffice/privacy/manage-privacy-controls).
+قبل تغيير أي إعدادات نهج، راجع استخدام إعدادات النهج [لإدارة عناصر](https://docs.microsoft.com/deployoffice/privacy/manage-privacy-controls)التحكم في الخصوصية Microsoft 365 Apps for enterprise .
 
-يمكن للمستخدمين تشغيل اعداد الخصوصية أو إيقاف تشغيله باتباع الخطوات التالية:
+يمكن للمستخدمين تشغيل إعداد الخصوصية أو إيقاف تشغيله باتباع الخطوات التالية:
 
-- **> حساب > خصوصية الحساب > أداره الإعدادات** 
+- **ملف > حساب > حساب > إدارة الإعدادات** 
 
-    ضمن التجارب المتصلة ، اختر ما إذا كانت التجربة المتصلة المعينة متوفرة ، مثل التجارب لتحليل المحتوي. إذا لم تحدد خبرات معينه في أداره الإعدادات ، ستتوفر كل التجربات المتصلة.
+    ضمن التجارب المتصلة، اختر ما إذا كانت التجارب المتصلة المحددة متوفرة، مثل التجارب لتحليل المحتوى. إذا لم تحدد تجارب معينة في إدارة الإعدادات، فإن جميع التجارب المتصلة متوفرة.
