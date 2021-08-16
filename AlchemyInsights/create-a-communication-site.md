@@ -9,23 +9,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 03a23778-ded1-4131-ba9c-59ecba15ff05
-ms.openlocfilehash: 0c4f1e7cf54950190d60b35bc3ea320de9b49e7e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: d11227a7fd58bd6320c2eafa4c204840c5a63a1e66ef1734dd781a3c1c0d3131
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47747358"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069549"
 ---
 # <a name="create-a-communication-site"></a>إنشاء موقع اتصالات
 
-لإنشاء موقع اتصالات في SharePoint Online ، أكمل الخطوات التالية: 
+لإنشاء موقع اتصال في SharePoint Online، أكمل الخطوات التالية: 
   
-1. في الزاوية العلوية اليمني من الصفحة ، انقر فوق مشغل التطبيق وحدد لوحه SharePoint. إذا لم تتمكن من رؤية لوحه SharePoint ، فانقر فوق **مواقع** أو **كل التطبيقات** إذا لم يكن SharePoint مرئيا. 
+1. في الزاوية العلوية اليمنى من الصفحة، انقر فوق مرسل التطبيق وحدد SharePoint المتجانبة. إذا لم تظهر لوحة SharePoint، انقر **فوق** المواقع  أو جميع التطبيقات إذا لم SharePoint مرئية. 
     
-2. في اعلي صفحه SharePoint ، انقر فوق **إنشاء موقع** واختر **موقع الاتصالات**. اتبع الخطوات الواردة في معالج إنشاء الموقع. 
+2. في أعلى صفحة SharePoint، انقر فوق إنشاء **موقع** واختر **موقع الاتصالات**. اتبع الخطوات في معالج إنشاء الموقع. 
     
- **ملاحظه**: إذا لم تتمكن من رؤية خيار **إنشاء**موقع ، فقد يتم تعطيل إنشاء موقع الخدمة الذاتية. اتصل بالشخص الذي يقوم باداره Microsoft 365 في مؤسستك لإنشاء موقع فريق. إذا كنت مسؤول مستاجر ، فراجع [أداره إنشاء موقع في SharePoint Online لتمكين إنشاء موقع الخدمة الذاتية لمؤسسك.](https://go.microsoft.com/fwlink/?linkid=2018780)
+ **ملاحظة:** إذا لم يكن الخيار إنشاء موقع، فقد يتم تعطيل إنشاء موقع الخدمة الذاتية. اتصل بالشخص الذي Microsoft 365 في مؤسستك لإنشاء موقع فريق. إذا كنت مسؤول مستأجر، فشاهد إدارة إنشاء الموقع في SharePoint Online لتمكين إنشاء موقع الخدمة الذاتية [لمنظمتك.](https://go.microsoft.com/fwlink/?linkid=2018780)
   
- **ملاحظه:** إذا كنت تحاول إنشاء موقع اتصال وكان عنوان URL ملحقا بالأرقام العشوائية ، فمن المحتمل ان يكون هناك موقع يحمل نفس عنوان URL هذا بالفعل في بيئة SharePoint أو تم حذفه ولا يزال موجودا في المواقع المحذوفة (سله المحذوفات). يستخدم [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) لتقييم سله المحذوفات [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) وأزاله الموقع من سله المحذوفات. 
+ **ملاحظة:** إذا كنت تحاول إنشاء موقع اتصالات وكان عنوان URL يتم إلحاقه بأرقم عشوائية، فمن المرجح أن يكون موقعا له عنوان URL نفسه موجودا بالفعل في بيئة SharePoint أو تم حذفه ولا يزال موجودا في المواقع المحذوفة (سلة المحذوفة). يتم [https://aka.ms/Get-SPODeletedSite](https://aka.ms/Get-SPODeletedSite) استخدامها لتقييم سلة المعاد تدويرها وإزالة الموقع من سلة [https://aka.ms/Remove-SPODeletedSite](https://aka.ms/Remove-SPODeletedSite) المعاد تدويرها. 
   
 
