@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3453"
 - "9001450"
-ms.openlocfilehash: 51d95ecdfd78fb501c23a5ad8b906eadad8b4bf2
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0bf4ae49aee6b1ccfcd1c7a55daef92f6f1eb6375017f24f715264235460c3ef
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835510"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051761"
 ---
 # <a name="set-up-one-monitor"></a>إعداد جهاز عرض واحد
 
 **التحقق من إعدادات مشروع الكمبيوتر**
 
-1. افتح إعدادات المشروع بالضغط على المفاتيح التالية في الوقت نفسه: مفتاح Windows (زر بدء شعار Windows) + P.
+1. افتح إعدادات المشروع بالضغط على المفاتيح التالية في الوقت نفسه: مفتاح Windows (Windows البدء) + P.
 2. اختر **تكرار** أو **توسيع** أو الشاشة **الثانية فقط**، استنادا إلى تفضيلاتك.
 
 **ملاحظة:** إذا كان جهاز الكمبيوتر الخاص بك به منفذ عرض واحد فقط (مثل HDMI أو VGA)، فسوف تحتاج إلى محطة إرساء أو محول USB لإعداد أجهزة عرض متعددة.

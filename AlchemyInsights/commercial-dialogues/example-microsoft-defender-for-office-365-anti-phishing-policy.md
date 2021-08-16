@@ -1,5 +1,5 @@
 ---
-title: مثال على نهج مكافحة التصيد الاحتيالي ل Microsoft Defender ل Office 365
+title: مثال على Microsoft Defender Office 365 نهج مكافحة التصيد الاحتيالي
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: eabff70c22b641627d3ab6c0b2f8846a0be2f49e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: b59abdeea6ac9be7e498e2b1ba531e7bf611c92097fbc12237e78364dae84f35
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743410"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034993"
 ---
-# <a name="example-microsoft-defender-for-office-365-anti-phishing-policy"></a>مثال على نهج مكافحة التصيد الاحتيالي ل Microsoft Defender ل Office 365
+# <a name="example-microsoft-defender-for-office-365-anti-phishing-policy"></a>مثال على Microsoft Defender Office 365 نهج مكافحة التصيد الاحتيالي
 
 تمكن هذه الإعدادات نهج يسمى *المجال والمدير التنفيذي*. يوفر هذا النهج الحماية للمستخدم والمجال من انتحال الشخصية، ثم يطبق النهج على كل رسائل البريد الإلكتروني التي يتلقاها المستخدمون ضمن المجال. أولا، أضف المعلومات التالية لإنشاء النهج:
 
@@ -33,4 +33,4 @@ ms.locfileid: "50743410"
   - **إضافة مرسلين ومجالات موثوق بها:** في هذا المثال، لا تحدد أي تجاوزات.
 - بعد مراجعة الإعدادات، حدد **إنشاء هذا النهج** أو **حفظ**، حسب الاقتضاء.
 
-لمعرفة المزيد، راجع سياسات مكافحة [التصيد الاحتيالي في Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2092235).
+لمعرفة المزيد، راجع سياسات مكافحة [التصيد](https://go.microsoft.com/fwlink/?linkid=2092235)الاحتيالي في Microsoft 365 .

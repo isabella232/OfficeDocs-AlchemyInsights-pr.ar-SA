@@ -1,5 +1,5 @@
 ---
-title: لم يتم توفير OneDrive لهذا المستخدم
+title: OneDrive هذا المستخدم
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,17 +9,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: ad61fdc7-f3b8-46f9-817a-49c6ae2425e2
-ms.openlocfilehash: 07ac096452e603f05fd1b332bc318fdaa911340c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2d3ef8d405abc1d0a36b448804f0bdc7ced616a7a5933c142bfd3dd7e4596bd0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672799"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984736"
 ---
-# <a name="onedrive-is-not-provisioned-for-this-user"></a>لم يتم توفير OneDrive لهذا المستخدم
+# <a name="onedrive-is-not-provisioned-for-this-user"></a>OneDrive هذا المستخدم
 
-بالنسبة إلى الحسابات التي تم إنشاؤها حديثا ، يجب علي المستخدمين تسجيل الدخول إلى مركز أداره Microsoft 365 باستخدام حسابهم الخاص والنقر فوق OneDrive لبدء توفير الموقع الخاص ب OneDrive يدويا.
+بالنسبة للحسابات التي تم إنشاؤها حديثا، يحتاج المستخدمون إلى تسجيل الدخول إلى مركز مسؤولي Microsoft 365 باستخدام حسابهم الخاص والنقر فوق OneDrive لبدء توفير OneDrive يدويا.
   
-علي الرغم من ذلك ، إذا قام المستخدم بالنقر بالفعل فوق OneDrive ولم يتم توفير الموقع الشخصي الخاص به خلال 24 ساعة ، يرجى تسجيل تذكره دعم للحصول علي مزيد من المساعدة.
+ومع ذلك، إذا قام المستخدم بالنقر OneDrive ولم يتم توفير موقعه الشخصي في غضون 24 ساعة، فيرجى تسجيل تذكرة دعم للحصول على مزيد من المساعدة.
   
 

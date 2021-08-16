@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "7456"
-ms.openlocfilehash: c841232525dd2eabc068494a1e22975d428705dc
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 9a845e9c51741f69edba328fbf147847d44690a211af0c091fe29733414f771b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50742980"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058709"
 ---
 # <a name="enable-permissions-for-communication-compliance"></a>تمكين الأذونات لتوافق الاتصالات
 
 إليك كيفية تنفيذ ذلك:
 
-1. سجل الدخول [https://protection.office.com/permissions](https://go.microsoft.com/fwlink/?linkid=2129828) إلى استخدام بيانات الاعتماد لحساب مسؤول في مؤسسة Microsoft 365.
+1. سجل الدخول [https://protection.office.com/permissions](https://go.microsoft.com/fwlink/?linkid=2129828) إلى استخدام بيانات الاعتماد لحساب مسؤول في Microsoft 365 المؤسسة.
 2. في مركز [التوافق &،](https://go.microsoft.com/fwlink/?linkid=2101341)انتقل إلى **أذونات**. حدد الارتباط لعرض الأدوار وإدارتها في Office 365، ثم حدد **\+ إنشاء**.
 3. في الحقل **الاسم،** امنح مجموعة الدور الجديدة اسما ودودا. حدد **التالي**.
 4. حدد **اختيار الأدوار**، ثم حدد **إضافة**. حدد خانة **الاختيار لمسؤول** المراجعة الإشرافية وإدارة الحالات ومسؤول التوافق **ومراجعة** **وحدد** إضافة **ثم** حدد **تم**. حدد **التالي**.

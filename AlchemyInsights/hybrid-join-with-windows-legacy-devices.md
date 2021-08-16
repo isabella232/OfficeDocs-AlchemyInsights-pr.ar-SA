@@ -1,5 +1,5 @@
 ---
-title: صله مختلطة مع أجهزه Windows القديمة
+title: الانضمام المختلط مع Windows القديمة
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "6137"
 - "9003244"
-ms.openlocfilehash: 03cc7753d1cfd93c2d87d7f2ab52ca2a2653ea84
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b4b5fdf79fc7eb4cc9124ef740a68d3425f2c9b023b792f3d2538a29dd1ad7c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47743704"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014995"
 ---
-# <a name="hybrid-join-with-windows-legacy-devices"></a>صله مختلطة مع أجهزه Windows القديمة
+# <a name="hybrid-join-with-windows-legacy-devices"></a>الانضمام المختلط مع Windows القديمة
 
-للحصول علي إرشادات حول كيفيه حل المشاكل المحتملة في الاجهزه القديمة في Azure Active Directory (Azure AD) ، راجع [استكشاف أخطاء الاجهزه التي تضم المستوي الأدنى والانضمام إلى Azure Active directory](https://docs.microsoft.com/azure/active-directory/devices/troubleshoot-hybrid-join-windows-legacy). 
+للحصول على إرشادات حول كيفية حل المشاكل المحتملة باستخدام Azure Active Directory المختلط (Azure AD) Windows الأجهزة القديمة، راجع استكشاف الأخطاء وإصلاحها للأجهزة المختلطة المنضمة إلى [Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/devices/troubleshoot-hybrid-join-windows-legacy) 
