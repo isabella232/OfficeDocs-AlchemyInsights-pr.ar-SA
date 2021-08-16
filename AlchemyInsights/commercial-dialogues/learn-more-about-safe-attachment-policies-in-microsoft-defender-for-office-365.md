@@ -1,5 +1,5 @@
 ---
-title: مكان معرفة المزيد حول سياسات المرفقات الآمنة في Microsoft Defender ل Office 365
+title: مكان معرفة المزيد حول خزينة المرفقات في Microsoft Defender Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 0d0c69d75afcad1d82f61669224b8518d760d19a
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 50a9d6c84f4ac086df76b1534972434d176bba4d4adadfb65fc2ca97da028c0b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743178"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54034273"
 ---
-# <a name="where-to-learn-more-about-safe-attachment-policies-in-microsoft-defender-for-office-365"></a>مكان معرفة المزيد حول سياسات المرفقات الآمنة في Microsoft Defender ل Office 365
+# <a name="where-to-learn-more-about-safe-attachment-policies-in-microsoft-defender-for-office-365"></a>مكان معرفة المزيد حول خزينة المرفقات في Microsoft Defender Office 365
 
-لمزيد من المعلومات، راجع [المرفقات الآمنة في Microsoft Defender ل Office 365](https://go.microsoft.com/fwlink/?linkid=2092213)
+لمزيد من المعلومات، راجع خزينة [المرفقات في Microsoft Defender Office 365](https://go.microsoft.com/fwlink/?linkid=2092213)

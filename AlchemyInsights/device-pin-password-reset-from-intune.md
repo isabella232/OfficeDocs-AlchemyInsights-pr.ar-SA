@@ -1,5 +1,5 @@
 ---
-title: أعاده تعيين كلمه المرور للجهاز/رمز pin من Intune
+title: إعادة تعيين كلمة المرور/تثبيت الجهاز من Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1278"
 - "6700008"
-ms.openlocfilehash: 66255fc87a55161158aa4121d68d7ccd04b552ec
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 32f832e1df81469cb74798a3c404d4cc978952b207850d51a05e63acb4a4a2f9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47730974"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101967"
 ---
-# <a name="device-pinpassword-reset-from-intune"></a>أعاده تعيين كلمه المرور للجهاز/رمز pin من Intune
+# <a name="device-pinpassword-reset-from-intune"></a>إعادة تعيين كلمة المرور/تثبيت الجهاز من Intune
 
-يمكنك أزاله رمز المرور أو فرض المستخدم لإنشاء رمز مرور جديد في Intune لجهاز يقوم بتشغيل iOS أو Android باستخدام الاجراء أزاله رمز المرور.
+يمكنك إزالة رمز مرور أو إجبار المستخدم على إنشاء رمز دخول جديد في Intune لجهاز يعمل بنظام التشغيل iOS أو Android باستخدام الإجراء إزالة رمز المرور.
 
-لا تعتمد سوي أنواع أنظمه التشغيل المحددة وأنواع ملفات تعريف العمل هذه العملية.
+تدعم أنواع أنظمة التشغيل وأنواع ملفات تعريف العمل المحددة فقط هذا الإجراء.
 
-للحصول علي تفاصيل حول الانظمه الاساسيه المعتمدة وكيفيه تشغيل اجراء أعاده تعيين رمز المرور ، راجع [أعاده تعيين رمز مرور الجهاز أو ازالته في Intune](https://docs.microsoft.com/intune/device-passcode-reset).
+للحصول على تفاصيل حول الأنظمة الأساسية المعتمدة وكيفية تشغيل إجراء إعادة تعيين رمز المرور، راجع إعادة تعيين رمز مرور الجهاز أو إزالته [في Intune](https://docs.microsoft.com/intune/device-passcode-reset).
 
-يمكنك أعاده تعيين رقم pin موجود إلى قيمه جديده باستخدام اجراء أعاده تعيين رقم Pin علي الاجهزه التي تعمل بنظام التشغيل Windows 10 Mobile. يتيح هذا المستخدم إلغاء تامين الجهاز وتعيين رقم pin جديد بالشكل المناسب. لمزيد من المعلومات ، راجع [أعاده تعيين رمز المرور علي أجهزه Windows باستخدام Intune](https://docs.microsoft.com/intune/device-windows-pin-reset).
+يمكنك إعادة تعيين دبوس موجود إلى قيمة جديدة باستخدام الإجراء تثبيت إعادة تعيين على الأجهزة التي تعمل Windows 10 Mobile التشغيل. يسمح هذا للمستخدم بإلغاء تأمين الجهاز، فضلا عن تعيين دبوس جديد كما هو مناسب. لمزيد من المعلومات، راجع إعادة تعيين رمز المرور على Windows [باستخدام Intune](https://docs.microsoft.com/intune/device-windows-pin-reset).

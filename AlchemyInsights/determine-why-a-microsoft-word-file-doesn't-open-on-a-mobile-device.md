@@ -1,5 +1,5 @@
 ---
-title: تحديد سبب عدم فتح ملف Microsoft Word علي جهاز محمول
+title: تحديد سبب Microsoft Word فتح ملف على جهاز محمول
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003959"
 - "7015"
-ms.openlocfilehash: 5113a847fea0b839d78b25eaec481e4d5a7fc713
-ms.sourcegitcommit: 728800af2fe596756bcd2280f85451926a3e987c
+ms.openlocfilehash: 356816ce8b6197023742e33280d7cf883f79492d071935c3024ea0d136e2b790
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "49721738"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54102009"
 ---
-# <a name="determine-why-a-microsoft-word-file-doesnt-open-on-a-mobile-device"></a>تحديد سبب عدم فتح ملف Microsoft Word علي جهاز محمول
+# <a name="determine-why-a-microsoft-word-file-doesnt-open-on-a-mobile-device"></a>تحديد سبب Microsoft Word فتح ملف على جهاز محمول
 
-من الممكن ان Microsoft Word لا يدعم تنسيق الملف هذا علي جهازك. للحصول علي التفاصيل ، راجع [لماذا يتعذر علي فتح ملفي في Word علي جهاز محمول ؟](https://go.microsoft.com/fwlink/?linkid=2135663)
+من المحتمل أن Microsoft Word لا يدعم تنسيق الملف هذا على جهازك. للحصول على التفاصيل، راجع لماذا لا يمكنني فتح [ملفي في Word على جهاز محمول؟](https://go.microsoft.com/fwlink/?linkid=2135663)
