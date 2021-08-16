@@ -13,16 +13,16 @@ ms.custom:
 - "853"
 - "8000008"
 ms.assetid: e7b3ce1b-9291-49ec-b6a6-4dad0f4d6880
-ms.openlocfilehash: 3a5703d3040c9bac6e611902e27400b9212f65be
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8cc2099aa725277cc15f39398a70fc5d9200b829bdee224a9c3fae480763a33a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666389"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010855"
 ---
-# <a name="how-to-stop-signing-in-automatically"></a>كيفيه إيقاف تسجيل الدخول تلقائيا
+# <a name="how-to-stop-signing-in-automatically"></a>كيفية إيقاف تسجيل الدخول تلقائيا
 
-لإيقاف تسجيل الدخول إلى Outlook.com تلقائيا ، قم بإلغاء تحديد المربع الخاص **بالاستمرار في تسجيل الدخول** علي الصفحة حيث تقوم بإدخال كلمه المرور الخاصة بك.
+لإيقاف تسجيل الدخول إلى Outlook.com تلقائيا، أ إلغاء تحديد  المربع الاستمرار في تسجيل الدخول على الصفحة حيث تقوم بإدخال كلمة المرور الخاصة بك.
   
-لمعرفه المزيد ، راجع [كيفيه تسجيل الدخول إلى Outlook.com أو الخروج منه](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
+لمعرفة المزيد، راجع كيفية تسجيل الدخول إلى موقع [Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy)أو الخروج منه.
   

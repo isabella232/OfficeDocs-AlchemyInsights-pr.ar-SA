@@ -1,5 +1,5 @@
 ---
-title: Outlook.com تغيير شكل علبه البريد
+title: Outlook.com تغيير شكل علبة البريد
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "1849"
 - "9000257"
-ms.openlocfilehash: d1331ca38fd1276bc062ee45801abf6f6944a287
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3522345eb8c0ed840a821fe4c3098464cf2e0ceedfaee558a703be643758ee7a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802548"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54096465"
 ---
-# <a name="change-the-look-of-your-outlookcom-mailbox"></a>تغيير مظهر علبه بريد Outlook.com
+# <a name="change-the-look-of-your-outlookcom-mailbox"></a>تغيير شكل علبة بريد Outlook.com
 
-يمكنك تغيير مظهر قائمه الرسائل وجزء القراءة في Outlook.com.
+يمكنك تغيير مظهر قائمة الرسائل و جزء القراءة في Outlook.com.
 
-- لتغيير تخطيط نافذه الرسالة ، افتح خيارات " [جزء القراءة](https://outlook.live.com/mail/options/mail/layout/readingPane) ".
-- لتغيير كيفيه فرز البريد الكتروني ، في اعلي قائمه الرسائل ، حدد **تصفيه**  >  **الفرز حسب** واختر الطريقة التي تريد بها فرز البريد الكتروني.
-- لتجميع الرسائل حسب المحادثة ، افتح خيارات [المؤسسة](https://outlook.live.com/mail/options/mail/layout/conversations) الخاصة بالرسالة.
-- لتشغيل "علبه وارد المركز عليه" أو إيقاف تشغيلها ، افتح خيارات [التخطيط](https://outlook.live.com/mail/options/mail/layout/focused) .
+- لتغيير تخطيط نافذة الرسالة، افتح خيارات [جزء](https://outlook.live.com/mail/options/mail/layout/readingPane) القراءة.
+- لتغيير كيفية فرز البريد الإلكتروني، في أعلى قائمة الرسائل، حدد تصفية الفرز حسب واختر الطريقة التي تريد  >   فرز البريد الإلكتروني بها.
+- ل تجميع الرسائل حسب المحادثة، افتح خيارات [مؤسسة](https://outlook.live.com/mail/options/mail/layout/conversations) الرسائل.
+- ل تشغيل "علبة وارد مركز عليه" أو إيقاف تشغيلها، افتح [خيارات](https://outlook.live.com/mail/options/mail/layout/focused) التخطيط.

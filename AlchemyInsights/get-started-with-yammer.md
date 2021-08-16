@@ -1,5 +1,5 @@
 ---
-title: بدء استخدام Yammer
+title: بدء العمل مع Yammer
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004222"
 - "7430"
-ms.openlocfilehash: ba3cff52a4907a0c11fb1cef165fe805ae369cc0
-ms.sourcegitcommit: 3c6e777d6679a24108171e9aa3f9379a8d44e001
+ms.openlocfilehash: a4bd4a24484596b8d14202d9490be297f5633b6b9ccd1a4958673b49752f77c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49676748"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002232"
 ---
-# <a name="get-started-with-yammer"></a>بدء استخدام Yammer
+# <a name="get-started-with-yammer"></a>بدء العمل مع Yammer
 
-Yammer هو الشبكة الاجتماعية الأفضل والأمن والخاصة بالمؤسسات. يوفر Yammer تجربه بسيطه وسهله الاستخدام علي الويب وفي تطبيق Yammer للاجهزه التي تعمل بنظام التشغيل Android و iOS. يمكن ان تتكامل Yammer مع فرق Microsoft و Outlook. توفر Yammer أيضا تجربه تكامل محدثه في SharePoint Online.
+Yammer هي شبكة اجتماعية للمؤسسات الخاصة وآمنة. Yammer تجربة جذابة وسهلة الاستخدام على الويب وفي تطبيق Yammer للأجهزة التي تعمل بنظامي التشغيل Android و iOS. Yammer دمجها مع Microsoft Teams Outlook. Yammer أيضا تجربة تكامل محدثة في SharePoint Online.
 
-استخدم "مرشد النشر Yammer" لاعداد شبكه Yammer عن طريق أضافه المجالات وتعريف المسؤولين وجمع شبكات Yammer. نشر Yammer ثم تخصيص المظهر وتكوين الأمان والتوافق وتحسين الإعدادات.
+استخدم Yammer النشر لإعداد Yammer من خلال إضافة المجالات وتعريف المسؤولين ودمج Yammer الشبكة. قم Yammer ثم قم بتخصيص شكل، وتكوين الأمان والتوافق، وتنقيح الإعدادات.

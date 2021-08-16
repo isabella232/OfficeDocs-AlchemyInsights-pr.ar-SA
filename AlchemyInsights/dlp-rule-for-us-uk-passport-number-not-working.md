@@ -1,5 +1,5 @@
 ---
-title: قاعده DLP لرقم Passport للولايات المتحدة/المملكة المتحدة لا يعمل
+title: قاعدة DLP لرقم جواز سفر الولايات المتحدة/المملكة المتحدة لا تعمل
 ms.author: deniseb
 author: denisebmsft
 manager: laurawi
@@ -13,38 +13,38 @@ ms.custom:
 - "1319"
 - "3200001"
 ms.assetid: fc178b8b-943b-4346-a2bd-a75c6af6f80f
-ms.openlocfilehash: c6c7191f380f264113e2042f2869d9767922b2cc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 85e3ed7fdc221981de13ab6e2ada8adf2a3a80b40ff163981e047cc4a02a1514
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47679211"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54004933"
 ---
-# <a name="problems-with-dlp---usuk-passport-numbers"></a>المشاكل المتعلقة بأرقام passport للولايات المتحدة/المملكة المتحدة
+# <a name="problems-with-dlp---usuk-passport-numbers"></a>مشاكل في DLP - أرقام جواز سفر الولايات المتحدة والمملكة المتحدة
 
 **هام**: خلال هذه الأوقات غير المسبوقة، نقوم باتخاذ الخطوات اللازمة لضمان توفر خدمات SharePoint Online و OneDrive بشكل كبير – الرجاء زيارة [تعديلات الميزات المؤقتة لـ SharePoint Online](https://aka.ms/ODSPAdjustments) للحصول على مزيد من المعلومات.
 
-**مشاكل DLP مع أرقام passport الامريكيه/المملكة المتحدة**
+**مشاكل DLP مع أرقام جواز سفر الولايات المتحدة والمملكة المتحدة**
 
-هل تواجه مشاكل متعلقة **بمنع فقدان البيانات (DLP)** لا تعمل علي المحتوي الذي يحتوي علي **رقم passport للولايات المتحدة/المملكة** المتحدة عند استخدام نوع المعلومات الحساسة ل DLP في O365 ؟ إذا كان الأمر كذلك ، فتاكد من ان المحتوي يحتوي علي المعلومات المطلوبة لما يبحث عنه نهج DLP عند تقييمه.
+هل تواجه مشاكل في منع فقدان البيانات **(DLP)** لا تعمل على محتوى يحتوي على رقم جواز سفر **أمريكي/المملكة** المتحدة عند استخدام نوع معلومات حساسة ل DLP في O365؟ إذا كان الأمر كذلك، فتأكد من أن المحتوى يحتوي على المعلومات المطلوبة حول ما يبحث عنه نهج DLP عند تقييمه.
   
-علي سبيل المثال ، بالنسبة إلى نهج **رقم passport للولايات المتحدة/المملكة** المتحدة المكون بمستوي الثقة في 75% ، يتم تقييم التالي ويجب الكشف عنه لكي يتم تشغيل القاعدة
+على سبيل المثال، بالنسبة إلى نهج رقم جواز سفر الولايات المتحدة **والمملكة** المتحدة الذي تم تكوينه بمستوى ثقة بنسبة 75٪، يتم تقييم ما يلي ويجب اكتشافه حتى يتم تشغيل القاعدة
   
-- **[تنسيق:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-77)** تسعه أرقام
+- **[التنسيق:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#format-77)** تسعة أرقام
 
-- **[النمط:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-77)** تسعه أرقام متتالية
+- **[النمط:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#pattern-77)** تسعة أرقام متتالية
 
-- **[المجموع الاختباري:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** لا ، لا توجد مجموعات اختباريه
+- **[الاختبارات:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#checksum-76)** لا، لا يوجد "شيكوم"
 
-- **[تعريف:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-77)** نهج DLP هو 75% تثق بأنه قد تم اكتشاف هذا النوع من المعلومات الهامه في حال وجوده في غضون أكثر من 300 حرفا:
+- **[التعريف:](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#definition-77)** إن نهج DLP واثق بنسبة 75٪ من أنه تم الكشف عن هذا النوع من المعلومات الحساسة إذا، ضمن تقارب 300 حرف:
 
-  - تعثر الدالة Func_usa_uk_passport علي المحتوي الذي يتطابق مع النمط.
+  - تعثر الدالة Func_usa_uk_passport المحتوى الذي يتطابق مع النمط.
 
-  - تم العثور علي كلمه أساسيه من Keyword_passport.
+  - تم العثور على كلمة أساسية Keyword_passport كلمة أساسية.
 
-    علي سبيل المثال ، سيتم تشغيل النموذج التالي لسياسة **رقم passport الامريكيه/المملكة** المتحدة: رقم passport الأمريكي 123456789
+    على سبيل المثال، قد يتم تشغيل العينة التالية لسياسة رقم جواز سفر الولايات **المتحدة/المملكة** المتحدة: رقم جواز السفر 123456789
 
-للحصول علي مزيد من المعلومات حول العناصر المطلوبة للحصول علي رقم Passport للولايات المتحدة/المملكة المتحدة ، راجع القسم التالي في هذه المقالة: [ما الذي تبحث عنه أنواع المعلومات الهامه لرقم الولايات المتحدة/المملكة المتحدة](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us--uk-passport-number)
+للحصول على مزيد من المعلومات حول ما هو مطلوب لرقم جواز سفر الولايات المتحدة/المملكة المتحدة للكشف عن المحتوى الخاص بك، راجع القسم التالي في هذه المقالة: ما تبحث عنه أنواع المعلومات الحساسة لرقم جواز سفر الولايات [المتحدة/المملكة المتحدة](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions#us--uk-passport-number)
   
-باستخدام نوع آخر من المعلومات الحساسة المضمنة ، راجع المقالة التالية للحصول علي معلومات حول ما هو مطلوب للأنواع الأخرى: [ما الذي تبحث عنه أنواع المعلومات الهامه](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
+باستخدام نوع مختلف من المعلومات الحساسة المضمنة، راجع المقالة التالية للحصول على معلومات حول ما هو مطلوب للأنواع الأخرى: ما تبحث عنه أنواع المعلومات [الحساسة](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions)
   

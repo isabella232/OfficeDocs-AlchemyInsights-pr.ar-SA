@@ -1,5 +1,5 @@
 ---
-title: أضافه Outlook علي حساب ويب إلى Outlook for Windows
+title: إضافة حساب Outlook على ويب إلى Outlook Windows
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -10,21 +10,21 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: ''
-ms.openlocfilehash: 636c5b7c239cf4d8ffc3b44b50c5a7ebb7b55e1c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cdb570c354c10798471eff282628b04400ad33abc9daea0abce6cb4bcc55e41d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47671287"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010675"
 ---
-# <a name="add-your-outlook-on-the-web-account-to-outlook"></a>أضافه Outlook علي حساب ويب إلى Outlook
+# <a name="add-your-outlook-on-the-web-account-to-outlook"></a>إضافة حساب Outlook على ويب إلى Outlook
 
-هذه الخطوات هي نفسها سواء كنت تقوم باضافه حساب البريد الكتروني الأول أو حسابات البريد الكتروني الاضافيه إلى Outlook.
+هذه الخطوات هي نفسها سواء كنت تضيف حساب بريدك الإلكتروني الأول أو حسابات بريد إلكتروني إضافية Outlook.
 
-1. حدد **ملف**  >  **أضافه حساب**.
-1. يتوقف ما تراه لاحقا علي إصدار Outlook الذي تريده:
-    - بالنسبة إلى **outlook ل Office 365** و **outlook 2016**، ادخل عنوان البريد الكتروني الخاص بك ثم انقر فوق **اتصال**.
-    - بالنسبة إلى **outlook 2013** و **outlook 2010**، ادخل الاسم وعنوان البريد الكتروني وكلمه المرور ، وانقر فوق **التالي**.
-1. إذا تمت مطالبتك بذلك ، فادخل كلمه المرور مره أخرى ، ثم حدد **موافق**  >  **Finish** للبدء باستخدام حساب البريد الكتروني في Outlook.
+1. حدد **ملف**  >  **إضافة حساب**.
+1. يعتمد ما تراه بعد ذلك على إصدارك من Outlook:
+    - بالنسبة **Outlook Office 365** **Outlook 2016**، أدخل عنوان بريدك الإلكتروني وانقر فوق **الاتصال**.
+    - بالنسبة **Outlook 2013** **Outlook 2010،** أدخل اسمك وعنوان بريدك الإلكتروني وكلمة المرور، وانقر فوق **التالي**.
+1. إذا تم مطالبتك بذلك، أدخل كلمة المرور مرة أخرى، ثم حدد **موافق** إنهاء لبدء استخدام حساب بريدك الإلكتروني  >   في Outlook.
 
-لمزيد من المعلومات ، راجع [أضافه حساب بريد الكتروني إلى Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b).
+لمزيد من المعلومات، راجع [إضافة حساب بريد إلكتروني Outlook](https://support.office.com/article/6e27792a-9267-4aa4-8bb6-c84ef146101b).
