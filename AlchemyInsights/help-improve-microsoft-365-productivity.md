@@ -1,5 +1,5 @@
 ---
-title: المساعدة على تحسين إنتاجية Microsoft 365
+title: المساعدة على Microsoft 365 الإنتاجية
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004612"
 - "8268"
-ms.openlocfilehash: 599b914e15e86e7899988a0178864b24d1782af1
-ms.sourcegitcommit: 0470a728d184ceb89d1419f7ed57166e07bb778b
+ms.openlocfilehash: 4a7aae1a1e95aa6e8d35a57ed7a7de692cf85901fc6879bcaa8dade37456eba3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/15/2021
-ms.locfileid: "50256660"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54002179"
 ---
-# <a name="help-improve-microsoft-365-productivity"></a>المساعدة على تحسين إنتاجية Microsoft 365
+# <a name="help-improve-microsoft-365-productivity"></a>المساعدة على Microsoft 365 الإنتاجية
 
-تدعم "نقاط الإنتاجية" التحويل الرقمي في مؤسستك من خلال تحليلات حول كيفية استخدام منتجات Microsoft 365 وتجارب التقنية خلفها.
+تدعم "نقاط الإنتاجية" التحويل الرقمي في مؤسستك من خلال رؤى حول Microsoft 365 استخدام المنتجات وتجارب التقنية خلفها.
 
 للتعرّف على المزيد، اطلع على:
 
@@ -29,4 +29,4 @@ ms.locfileid: "50256660"
 - [كيفية تفسير نقاط مؤسستك](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score)
 - [عناصر التحكم في الخصوصية ل "نقاط الإنتاجية"](https://docs.microsoft.com/microsoft-365/admin/productivity/privacy)
 
-لمزيد من التفاصيل، راجع [نظرة عامة حول نقاط الإنتاجية في Microsoft.](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score)
+لمزيد من التفاصيل، راجع [نظرة عامة حول نقاط الإنتاجية](https://docs.microsoft.com/microsoft-365/admin/productivity/productivity-score)في Microsoft .

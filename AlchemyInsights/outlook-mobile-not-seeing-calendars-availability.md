@@ -1,5 +1,5 @@
 ---
-title: تعذر علي Outlook Mobile رؤية التقويمات عند اختيار التوفر
+title: Outlook الأجهزة المحمولة لا ترى التقويمات عند اختيار التوفر
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,13 +12,13 @@ localization_priority: Normal
 ms.custom:
 - "3070"
 - "9001109"
-ms.openlocfilehash: e0523100caead474b63ef8ddfcd4622ccbd3669c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 150d0f470571a5e78124634f190ea61f2c5debbd13925af133c83b351bb6c6f8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47721794"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000307"
 ---
-# <a name="im-not-seeing-the-calendars-i-expect-when-choosing-my-availability"></a>لا اري التقويمات التي أتوقعها عند اختيار التوفر الخاص بي
+# <a name="im-not-seeing-the-calendars-i-expect-when-choosing-my-availability"></a>لا يمكنني رؤية التقويمات المتوقعة عند اختيار توفري
 
-إذا لم تكن تري التقويمات التي تتوقعها ، فانتقل إلى التقويم ، واضغط علي زر القائمة في الزاوية العلوية اليمني من الشاشة وتاكد من تحديد التقويمات التي تتوقع رؤيتها. ستظهر التقويمات التي تم تمكينها في هذه القائمة فقط عند اختيار أوقات لإرسال التوفر.
+إذا كنت لا ترى التقويمات التي تتوقعها، فاذهب إلى التقويم، واضغط على زر القائمة في الزاوية العلوية اليمنى من الشاشة وتأكد من تحديد التقويمات التي تتوقع رؤيتها. ستظهر التقويمات التي تم تمكينها في هذه القائمة فقط عند اختيار الأوقات لإرسال التوفر.

@@ -1,5 +1,5 @@
 ---
-title: تلقي البريد الكتروني من المرسلين المحظورين في Outlook.com
+title: تلقي البريد الإلكتروني من المرسلين المحظورين في Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -14,21 +14,21 @@ ms.custom:
 - "920"
 - "944"
 - "8000015"
-ms.openlocfilehash: 63ebc8d0b950fff1c1c18c26172436246341bbc3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0cf6ab817a49a058635eee1721f4605f29a01df088b6400d8c90f5137efd30c1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47723666"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54063831"
 ---
-# <a name="receiving-email-from-blocked-senders"></a>تلقي البريد الكتروني من المرسلين المحظورين
+# <a name="receiving-email-from-blocked-senders"></a>تلقي البريد الإلكتروني من المرسلين المحظورين
 
-إذا كان البريد الكتروني من مرسل محظور يظهر في علبه الوارد الخاصة بك في Outlook.com ، فقد يكون المرسل هو إخفاء عنوان البريد الكتروني الحقيقي الخاص به. للتحقق من عنوان البريد الكتروني الحقيقي للمرسل:
+إذا كان البريد الإلكتروني الوارد من مرسل تم حظره لا يزال يظهر في علبة الوارد Outlook.com، فمن المحتمل أن يكون المرسل يخفي عنوان بريده الإلكتروني الحقيقي. للتحقق من عنوان البريد الإلكتروني الحقيقي للمرسل:
   
-1. تحديد النقاط الثلاثة <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
- في اعلي نافذه الرسالة وحدد **عرض مصدر الرسالة**.
-2. في نافذه **مصدر الرسالة** ، قم بالتمرير لأسفل حتى تعثر علي الحقل " **من** ".
-3. تمييز عنوان البريد الكتروني المحاط \< \> بالداخل والنقر بزر الماوس الأيمن **للنسخ**
-4. استخدم العنوان الذي نسخته لحظر المرسل. للتعرف علي كيفيه حظر المرسلين ، راجع [وضع علامة علي البريد الكتروني كبريد غير هام أو حظر المرسلين في Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
+1. تحديد النقاط الثلاث <img src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAPCAYAAADgbT9oAAAACXBIWXMAAA7EAAAOxAGVKw4bAAAAB3RJTUUH4wYLFhkF94QzeAAAAAd0RVh0QXV0aG9yAKmuzEgAAAAMdEVYdERlc2NyaXB0aW9uABMJISMAAAAKdEVYdENvcHlyaWdodACsD8w6AAAADnRFWHRDcmVhdGlvbiB0aW1lADX3DwkAAAAJdEVYdFNvZnR3YXJlAF1w/zoAAAALdEVYdERpc2NsYWltZXIAt8C0jwAAAAh0RVh0V2FybmluZwDAG+aHAAAAB3RFWHRTb3VyY2UA9f+D6wAAAAh0RVh0Q29tbWVudAD2zJa/AAAABnRFWHRUaXRsZQCo7tInAAAAL0lEQVQ4jWP8////fwYaACZaGDpq8HAzuKGhnqGhoR5DIaniNHMx42gGGTUYAwAAw6QRD6XFR1wAAAAASUVORK5CYII=' />
+ في أعلى نافذة الرسالة وحدد **عرض مصدر الرسالة**.
+2. في نافذة **مصدر الرسالة،** قم بالتمرير لأسفل حتى تعثر على **الحقل من.**
+3. تمييز عنوان البريد الإلكتروني المضمن ضمن \< \> والنقر بيمين **للنسخ**
+4. استخدم العنوان الذي نسخته لحظر المرسل. لمعرفة كيفية حظر المرسلين، راجع وضع علامة على البريد الإلكتروني كعميل غير هام أو حظر المرسلين [في Outlook.com](https://support.office.com/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).
 
-لمزيد من المعلومات ، راجع [تلقي بريد الكتروني من المرسلين المحظورين في Outlook.com](https://support.office.com/article/265923a0-b52c-4157-92c8-370385215da1?wt.mc_id=Office_Outlook_com_Alchemy).
+لمزيد من المعلومات، راجع تلقي البريد الإلكتروني من المرسلين المحظورين [في Outlook.com](https://support.office.com/article/265923a0-b52c-4157-92c8-370385215da1?wt.mc_id=Office_Outlook_com_Alchemy).
