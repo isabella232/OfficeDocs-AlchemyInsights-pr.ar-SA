@@ -1,5 +1,5 @@
 ---
-title: مزامنة خدمه المجال
+title: مزامنة خدمة المجال
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "9003245"
 - "7922"
 - "7921"
-ms.openlocfilehash: b35d3a402bc08a27a818209385c5666b901fa524
-ms.sourcegitcommit: 83fe2a8d060794fdf58445b469b30a3294b7a9b6
+ms.openlocfilehash: 95b5c3b768caf4b5d80a088a17a33facb39805fc766e4888586ae052d91681e3
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "49884774"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057845"
 ---
-# <a name="domain-service-synchronization"></a>مزامنة خدمه المجال
+# <a name="domain-service-synchronization"></a>مزامنة خدمة المجال
 
-يمكن ان يتم إنشاء الكائنات وبيانات الاعتماد في المجال المدار ل Azure Active Directory (Azure AD DS) في المجال أو التي تمت مزامنتها من مستاجر Azure Active Directory (Azure AD). عندما تقوم بنشر Azure AD DS للمرة الاولي ، يتم تكوين المزامنة التلقائية أحاديه الاتجاه والتي تم بدؤها لاجراء نسخ متماثل للعناصر من Azure AD. تستمر هذه المزامنة أحاديه الاتجاه في العمل في الخلفية لإبقاء المجال المدار في Azure AD DS محدثا بأي تغييرات من Azure AD. لم يحدث اي مزامنة في Azure AD DS مره أخرى.
+يمكن إنشاء العناصر وبيانات الاعتماد في مجال Azure Active Directory Domain Services (Azure AD DS) المدار محليا داخل المجال، أو مزامنتها من مستأجر Azure Active Directory (Azure AD). عند نشر Azure AD DS للمرة الأولى، يتم تكوين مزامنة تلقائية في طريقة واحدة وشروعها في تكرار العناصر من Azure AD. يستمر تشغيل هذه المزامنة في طريقة واحدة في الخلفية لإبقاء مجال Azure AD DS المدار مواكبا لأي تغييرات من Azure AD. لا تحدث أي مزامنة من Azure AD DS مرة أخرى إلى Azure AD.
 
-للحصول علي مزيد من التفاصيل حول مزامنة خدمه مجالات Azure Active directory ، راجع [مزامنة خدمه المجال](https://docs.microsoft.com/azure/active-directory-domain-services/synchronization). 
+لمزيد من التفاصيل حول مزامنة خدمة مجال Azure Active Directory، راجع [مزامنة خدمة المجال](https://docs.microsoft.com/azure/active-directory-domain-services/synchronization). 

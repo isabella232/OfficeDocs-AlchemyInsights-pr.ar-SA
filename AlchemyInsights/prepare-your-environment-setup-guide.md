@@ -1,5 +1,5 @@
 ---
-title: اعداد بيئتك ل Microsoft 365 و Office 365 services
+title: تحضير بيئتك لخدمات Microsoft 365 Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004182"
 - "7361"
-ms.openlocfilehash: ff96f2cdd52a54afd579e7c0e7db1b2a69825bb7
-ms.sourcegitcommit: 64eb79b3664ce762813fd19fbcca7e6002a4d3de
+ms.openlocfilehash: f22eafc68eac3e68ddf831d5a728b004590ee8aaa7da22e508716ceb257250b1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49676816"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54040277"
 ---
-# <a name="prepare-your-environment-for-microsoft-365-and-office-365-services"></a>اعداد بيئتك ل Microsoft 365 و Office 365 services
+# <a name="prepare-your-environment-for-microsoft-365-and-office-365-services"></a>تحضير بيئتك لخدمات Microsoft 365 Office 365
 
-يساعدك " [تحضير دليل البيئة](https://go.microsoft.com/fwlink/?linkid=2005213) " علي اعداد بيئة المؤسسة ل Microsoft 365 و Office 365. بصرف النظر عن أهدافك ، هناك مهام ستحتاج إلى إكمالها لضمان نجاح النشر.
+يساعدك [دليل إعداد البيئة](https://go.microsoft.com/fwlink/?linkid=2005213) على إعداد بيئة مؤسستك Microsoft 365 Office 365 الخدمات. بغض النظر عن أهدافك، هناك مهام ستحتاج إلى إكمالها لضمان نجاح عملية النشر.
 
-لتجنب اي مشاكل اثناء تحضير بيئتك ، تتوفر لك الإرشادات المفصلة خطوه بخطوه لتوصيل مجالك وأضافه مستخدمين وتعيين تراخيص واعداد البريد الكتروني باستخدام Exchange Online وتثبيت تطبيقات Office أو نشرها.
+لتجنب أي مشاكل أثناء تحضير بيئتك، يتم تزويدك بتعليمات مفصلة خطوة بخطوة لتوصيل مجالك وإضافة المستخدمين وتعيين التراخيص وإعداد البريد الإلكتروني باستخدام Exchange Online وتثبيت تطبيقات Office ونشرها.
