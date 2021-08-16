@@ -1,5 +1,5 @@
 ---
-title: علبه بريد الأرشيف ممتلئة تقريبا
+title: علبة بريد الأرشيف ممتلئة تقريبا
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100006"
 - "7960"
-ms.openlocfilehash: 5c7081f8991716a8ac72f462c6c7ef88e800ab9c
-ms.sourcegitcommit: 6f1af4aed507d4c074c36d77666cf00100efe168
+ms.openlocfilehash: 085d9b211d5a8e9a0e1eb12af14d87a4e59c844a3afa012095dfd60db316ad14
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974149"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046739"
 ---
-# <a name="your-archive-mailbox-is-almost-full"></a>علبه بريد الأرشيف ممتلئة تقريبا
+# <a name="your-archive-mailbox-is-almost-full"></a>علبة بريد الأرشيف ممتلئة تقريبا
 
-إذا تلقي المستخدم التحذير ؛ **ان علبه بريد الأرشيف الخاصة بك ممتلئة تقريبا**، أو انك تحتاج إلى زيادة حجم علبه بريد الأرشيف ، اليك بعض التلميحات:
+إذا تلقى المستخدم التحذير؛ **إن علبة بريد الأرشيف ممتلئة تقريبا،** أو تحتاج إلى زيادة حجم علبة بريد الأرشيف، فيما يلي بعض التلميحات:
 
-1. إذا تم تعيين Exchange Online للخطة 1 ، فقم بالترقية إلى ترخيص **Exchange online الخطة 2** لزيادة الحجم من 50 غيغابايت إلى 100 غيغابايت.
-1. إذا كان المستخدم قد قام بالفعل بتعيين اي من الخيارين التاليين: **Exchange online الخطة 2** أو exchange Online الخطة 1 مع وظيفة اضافيه للارشفه في Exchange online ، استخدم الخطوات التالية لتمكين أرشفه التوسيع التلقائي:.
+1. إذا تم تعيين ترخيص Exchange Online 1 للمستخدم، فترقية إلى Exchange Online **الخطة 2 لزيادة** الحجم من 50 غيغابايت إلى 100 غيغابايت.
+1. إذا تم تعيين أي من المستخدمين بالفعل لأي من ما يلي: **Exchange Online الخطة 2** أو خطة Exchange Online 1 مع وظيفة أرشفة Exchange Online الإضافية، فاستخدم الخطوات أدناه لتمكين أرشفة التوسع التلقائي:.
  
-    1. [الاتصال ب Exchange Online Powershell](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps&preserve-view=true).
-    2. قم بتشغيل الكوماندليت التالية للمستخدم:  `Enable-Mailbox <user mailbox> -AutoExpandingArchive`
-    1. قم بتشغيل الكوماندليت التالية لتاكيد تمكينها للمستخدم:  `Get-Mailbox <user mailbox> | FL AutoExpandingArchiveEnabled`
+    1. [الاتصال Exchange Online Powershell.](https://docs.microsoft.com/powershell/exchange/connect-to-exchange-online-powershell?view=exchange-ps&preserve-view=true)
+    2. تشغيل الأمر التالي للمستخدم:  `Enable-Mailbox <user mailbox> -AutoExpandingArchive`
+    1. تشغيل الأمر التالي لتأكيد تمكينه للمستخدم:  `Get-Mailbox <user mailbox> | FL AutoExpandingArchiveEnabled`
 
-لمزيد من المعلومات ، راجع:
+لمزيد من المعلومات، راجع:
 
-- [ تمكين الارشفه غير المحدودة-تعليمات المسؤول-توافق Microsoft 365 | مستندات Microsoft](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving?view=o365-worldwide&preserve-view=true)
+- [تمكين الأرشفة غير المحدودة - تعليمات المسؤول - Microsoft 365 التوافق | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/enable-unlimited-archiving?view=o365-worldwide&preserve-view=true)
 
-- [حدود Exchange Online-أوصاف الخدمة | مستندات Microsoft](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#storage-limits-across-standalone-plans)
+- [Exchange Online حدود الخدمة - أوصاف | Microsoft Docs](https://docs.microsoft.com/office365/servicedescriptions/exchange-online-service-description/exchange-online-limits?redirectedfrom=MSDN#storage-limits-across-standalone-plans)
 
-- [الترقية إلى خطه اعمال مختلفه | مستندات Microsoft](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan?view=o365-worldwide&preserve-view=true)
+- [الترقية إلى خطة عمل | Microsoft Docs](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan?view=o365-worldwide&preserve-view=true)
 

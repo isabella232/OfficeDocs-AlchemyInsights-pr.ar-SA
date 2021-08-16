@@ -1,5 +1,5 @@
 ---
-title: كيفيه تنشيط Office
+title: كيفية تنشيط Office
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -11,20 +11,20 @@ ms.custom:
 - "936"
 - "2000023"
 ms.assetid: 52347c04-c0fd-4d54-9251-1d1ce79f8405
-ms.openlocfilehash: a3dcb4e87965ad655164c100f43b2355675c620b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 73c57123c2d1405de90c41ab13b752cf3ccd7201d3d17bb8e6f6ae25a2e0e7ad
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705070"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067539"
 ---
-# <a name="how-to-activate-office"></a>كيفيه تنشيط Office
+# <a name="how-to-activate-office"></a>كيفية تنشيط Office
 
-لتثبيت Office وتنشيطه بنجاح ، يجب ان يكون المسؤول قد قام بتعيين [ترخيص Office](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) إلى حساب العمل أو المؤسسة التعليمية الخاص بالمستخدم.
+لتثبيت وتنشيط Office بنجاح، يجب أن يكون المسؤول [](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) قد Office ترخيصا لحساب العمل أو المؤسسة المدرسية للمستخدم.
   
-بعد تثبيت Office ، في العديد من الحالات ، سيتم تنشيط التطبيقات تلقائيا وإذا لم تتم مطالبه المستخدم بالتنشيط ، فيمكنه البدء باستخدام Office علي الفور.
+بعد تثبيت Office، سيتم تنشيط التطبيقات تلقائيا في العديد من الحالات، وإذا لم يتم مطالبة المستخدم بتنشيطه، يمكنه بدء استخدام Office مباشرة.
   
-ومع ذلك ، إذا تمت مطالبه مستخدم **بتسجيل الدخول لاعداد Office**، فيجب عليه تسجيل الدخول باستخدام حساب العمل أو المؤسسة التعليمية ، والذي يجب ان يتوفر لديه [ترخيص Office معين](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)بالفعل.
+ومع ذلك، إذا طلب من مستخدم تسجيل الدخول لإعداد Office ، فيجب عليه تسجيل الدخول باستخدام حساب العمل أو المدرسة، الذي يجب أن يكون لديه بالفعل ترخيص [Office.](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users)
   
-للحصول علي معلومات مفصله ، راجع [تنشيط office علي كمبيوتر شخصي](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=Alchemy_ClientDIA) أو [تنشيط Office علي جهاز Mac](https://support.office.com/article/7f6646b1-bb14-422a-9ad4-a53410fcefb2?wt.mc_id=Alchemy_ClientDIA).
+للحصول على معلومات مفصلة، راجع تنشيط Office على جهاز [كمبيوتر شخصي](https://support.office.com/article/5bd38f38-db92-448b-a982-ad170b1e187e?wt.mc_id=Alchemy_ClientDIA) أو تنشيط Office على [جهاز Mac](https://support.office.com/article/7f6646b1-bb14-422a-9ad4-a53410fcefb2?wt.mc_id=Alchemy_ClientDIA).
   

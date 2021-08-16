@@ -15,24 +15,24 @@ search.appverid:
 - MED150
 - MBS150
 ms.assetid: e6112a76-bbb6-4c22-b2e6-690b004d92d4
-ms.openlocfilehash: 14d2c9b1fe6764f5cd3a5a968586a19a03b62694
-ms.sourcegitcommit: 1b554c31d008492f9e6464f0249af0332212a3fc
+ms.openlocfilehash: 07ad754a927be92ece07f91c5a64d8084c96d0344925467a195033bdd3f445ac
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50641505"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54075063"
 ---
 # <a name="restore-a-deleted-mailbox"></a>استعادة علبة بريد محذوفة
 
-عندما يفقد المستخدم ترخيص Exchange Online، يتم الاحتفاظ لعلبة البريد الخاصة به لمدة 30 يوما ويمكن استردادها ببساطة عن طريق إعادة تعيين الترخيص إلى المستخدم.
+عندما يفقد المستخدم ترخيصا Exchange Online، يتم الاحتفاظ علبة بريده لمدة 30 يوما ويمكن استردادها ببساطة عن طريق إعادة تعيين الترخيص للمستخدم.
   
-1. في مركز إدارة Microsoft 365،  انتقل إلى صفحة "المستخدمون \> **النشطون".** حدد المستخدم المعني.
+1. في مركز مسؤولي Microsoft 365، انتقل إلى  صفحة \> **المستخدمون النشطون.** حدد المستخدم المعني.
 
-2. على علامة **التبويب "التراخيص** والتطبيقات"، قم بتعيين ترخيص Exchange Online وحدد **"حفظ التغييرات".**
+2. على علامة **التبويب التراخيص** والتطبيقات، قم بتعيين Exchange Online وحدد **حفظ التغييرات**.
 
-إذا كنت تحاول استرداد علبة بريد مشتركة أو مستخدم تم حذفه، فإنه يمكن استرداده أيضا لمدة 30 يوما. يمكنك العثور عليها ضمن **المستخدمين** \> **المحذوفة؛** لا تتطلب علب البريد المشتركة ترخيصا. الرجاء الاطلاع [على استعادة مستخدم.](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user)
+إذا كنت تحاول استرداد علبة بريد مشتركة أو مستخدم تم حذفه، فإنه يمكن استرداده أيضا لمدة 30 يوما. يمكنك العثور عليها ضمن **المستخدمون** \> **المحذوفون؛** لا تتطلب علب البريد المشتركة ترخيصا. الرجاء الاطلاع [على استعادة مستخدم](https://docs.microsoft.com/microsoft-365/admin/add-users/restore-user).
 
-يمكن للمسؤولين استرداد البريد الإلكتروني من علبة بريد المستخدم من خلال الذهاب إلى [مركز إدارة Exchange الجديد.](https://techcommunity.microsoft.com/t5/exchange-team-blog/a-new-recoverableitems-experience-comes-to-exchange-online/ba-p/1505353)
+يمكن للمسؤولين استرداد البريد الإلكتروني من علبة بريد المستخدم عن طريق الذهاب إلى مركز إدارة Exchange [الجديد.](https://techcommunity.microsoft.com/t5/exchange-team-blog/a-new-recoverableitems-experience-comes-to-exchange-online/ba-p/1505353)
 
-وأخيرا، إذا كنت تحاول استرداد علبة بريد غير نشطة، [فاتبع الإرشادات الواردة هنا.](https://docs.microsoft.com/microsoft-365/compliance/recover-an-inactive-mailbox)
+وأخيرا، إذا كنت تحاول استرداد علبة بريد غير نشطة، [فاتبع الإرشادات الواردة هنا](https://docs.microsoft.com/microsoft-365/compliance/recover-an-inactive-mailbox).
   

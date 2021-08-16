@@ -1,5 +1,5 @@
 ---
-title: 8000006 تغيير اسم التشكيل الجانبي في Outlook.com
+title: 8000006 تغيير اسم ملف التعريف في Outlook.com
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -12,23 +12,23 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: 8000006
 ms.assetid: 0e32c516-a5ff-4deb-9bf8-485febd3def8
-ms.openlocfilehash: b0fe9d7f62738b96c9887f7b18fc29c90436ee71
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 29383f8b4c943871cdf12c2056d946f4ad841de0260a13fc824031daa78c0e6a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47681719"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54082497"
 ---
 # <a name="change-your-profile-name"></a>تغيير اسم ملف التعريف
 
-1. انتقل إلى [معلومات حسابك في Microsoft](https://go.microsoft.com/fwlink/p/?linkid=860841).
+1. انتقل إلى [معلومات حساب Microsoft](https://go.microsoft.com/fwlink/p/?linkid=860841)الخاص بك .
     
 2. حدد **تحرير اسم**. 
     
-3. ادخل الاسم الأول واسم العائلة ، ثم حدد **حفظ**. 
+3. أدخل الاسم الأول واسم العائلة، وحدد **حفظ**. 
     
-يرجى السماح لمده تصل إلى 24 ساعة لتغيير اسم ملف التعريف الخاص بك لكي يدخل حيز التنفيذ.
+يرجى السماح لمدة تصل إلى 24 ساعة لكي يتم إدخال تغييرات على اسم ملف التعريف الخاص بك لكي يتم إدخالها حيز التنفيذ.
   
-لمعرفه المزيد ، راجع [تغيير صوره ملف التعريف أو اسمه في Outlook.com](https://go.microsoft.com/fwlink/?linkid=873110).
+لمعرفة المزيد، راجع تغيير صورة ملف [التعريف أو الاسم في Outlook.com](https://go.microsoft.com/fwlink/?linkid=873110).
   
 
