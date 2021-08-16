@@ -1,5 +1,5 @@
 ---
-title: لا يمكن لOutlook.com تسجيل الخروج
+title: Outlook.com تسجيل الخروج
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,17 +12,17 @@ ms.custom:
 - "8000008"
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.openlocfilehash: 1a319509369e4832fa27ca4b35155c33a03d5245
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 78d3a570eedac8cb341d66b63d53048a7ba57a502bff63dfaa2148e087390289
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47752742"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53984628"
 ---
 # <a name="unable-to-sign-out-of-outlookcom"></a>تعذر تسجيل الخروج من Outlook.com
 
-لتسجيل الخروج من Outlook.com ، حدد الاسم أو الصورة في الزاوية العلوية اليسرى من الشاشة ، ثم حدد **تسجيل الخروج**.
+تسجيل الخروج من Outlook.com، حدد اسمك أو صورتك في الزاوية العلوية اليسرى من الشاشة، ثم حدد **تسجيل الخروج**.
 
-إذا لم تتمكن من رؤية الصورة في اعلي الشاشة ، فتحقق لمعرفه ما إذا كان حظر الإعلانات قيد التشغيل. في بعض الأحيان قد يمنع ذلك الصورة من الظهور.
+إذا لم تظهر صورتك في أعلى الشاشة، فتحقق لمعرفة ما إذا كان حظر الإعلانات قد تم تشغيله. في بعض الأحيان قد يمنع ذلك الصورة من الظهور.
 
-إذا كنت لا تزال غير قادر علي تسجيل الخروج من Outlook.com ، فانقر فوق  [https://login.live.com/logout.srf](https://login.live.com/logout.srf) ثم اغلق كل نوافذ المستعرض.
+إذا ما زلت لا تستطيع تسجيل الخروج من Outlook.com، انقر [https://login.live.com/logout.srf](https://login.live.com/logout.srf) فوق ثم أغلق كل نوافذ المستعرض.

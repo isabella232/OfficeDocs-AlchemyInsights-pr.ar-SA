@@ -1,5 +1,5 @@
 ---
-title: 1221-الاستيراد-التصدير-outlook-البريد الكتروني-جات الاتصال-التقويم
+title: 1221-import-export-outlook-email-contacts-calendar
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,12 +14,12 @@ ms.custom:
 - "1221"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 6aec4ba38e90ef120542e1b30855a232a59db6ac
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fb9bf34c5f185848a3cf4de7e5035c09ec6a24d0b5b84e065fcc9cd16e7e276d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47778930"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987346"
 ---
 # <a name="import-and-export-outlook-email-contacts-and-calendar-items"></a>استيراد البريد الإلكتروني وجهات الاتصال وعناصر التقويم وتصدير كل منها لـ Outlook
 
@@ -29,6 +29,6 @@ ms.locfileid: "47778930"
 
     يؤدي ذلك إلى بدء معالج الاستيراد والتصدير.
 
-للحصول علي مجموعه كامله من إرشادات الاستيراد والتصدير ل Outlook ، راجع  [هذه المقالة](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).
+للحصول على مجموعة كاملة من إرشادات الاستيراد والتصدير Outlook، راجع [هذه المقالة](https://support.office.com/article/import-and-export-outlook-email-contacts-and-calendar-92577192-3881-4502-b79d-c3bbada6c8ef).
 
-إذا كنت مسؤولا وتريد استيراد ملفات PST متعددة الرسائل إلى علب بريد Microsoft 365 ، فراجع [هذه المقالة](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email).
+إذا كنت مسؤولا وتريد استيراد ملفات PST متعددة مجمعة Microsoft 365 علب البريد، فشاهد [هذه المقالة](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email).

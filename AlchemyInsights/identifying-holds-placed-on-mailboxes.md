@@ -1,5 +1,5 @@
 ---
-title: تحديد القوائم الموضوعة علي علب البريد
+title: تحديد احكام التحمية الموضوعة على علب البريد
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,29 +13,29 @@ ms.custom:
 - "1202"
 - "3100023"
 ms.assetid: 3378775d-67a2-47aa-a7ed-fbc6d0b4d561
-ms.openlocfilehash: 192613ce56ef7e30b5d5be9301b573748d0332d4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1a5eeaab92ed7e687d05c212794a7adcadac6375c6e4b9ba4578835d9a9b9ef5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47668081"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53987535"
 ---
-# <a name="identify-holds-placed-on-mailboxes"></a>تحديد قوائم الاحتجاز الموضوعة علي علب البريد
+# <a name="identify-holds-placed-on-mailboxes"></a>تحديد عدد حاملات البريد الموضوعة على علب البريد
 
-هل لديك محتوي Microsoft 365 يتم **الاحتفاظ** به **بقائمه احتجاز** لا يمكنك التعرف عليها ؟ هل أنت بحاجه إلى **معرفه** مكان وجود التعليق علي **علبه البريد** ؟ يمكن تطبيق قوائم الاحتجاز (*ميزات الاستبقاء*) بواسطة أحد الأساليب التالية:
+هل لديك Microsoft 365 المحتوى الذي **يتم** الاحتفاظ به بواسطة قيد الانتظار **الذي** لا يمكنك تحديده؟ هل تحتاج **إلى معرفة** مكان وجود الانتظار في علبة **البريد؟** يمكن *تطبيق* الاحتفاظات ( ميزات الاستبقاء ) باستخدام أحد الأساليب التالية:
   
-- احتجاز دعوى قضائية
+- الاحتجاز القضائية
 
-- احتجاز eDiscovery
+- الاستمرار في eDiscovery
 
-- التعليق الموضعي
+- In-Place الانتظار
 
-- نهج الاستبقاء ل Microsoft 365 
+- Microsoft 365 الاستبقاء 
 
-  - نهج استبقاء معينه للموقع
+  - سياسات استبقاء مواقع معينة
 
-  - نهج الاستبقاء علي مستوي المؤسسة
+  - سياسات الاستبقاء على مستوى المؤسسة
 
-- ملصقات Microsoft 365
+- Microsoft 365 التسميات
 
-لتحديد نوع التعليق المطبق علي علبه بريد المستخدم ، راجع [كيفيه تحديد نوع التعليق الموضوع علي علبه بريد Exchange Online](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox).
+لتحديد نوع الانتظار الذي يتم تطبيقه على علبة بريد المستخدم، راجع كيفية تحديد نوع الانتظار الموضوع على علبة بريد Exchange Online [البريد.](https://docs.microsoft.com/microsoft-365/compliance/identify-a-hold-on-an-exchange-online-mailbox)

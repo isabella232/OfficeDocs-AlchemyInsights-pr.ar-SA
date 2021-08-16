@@ -1,5 +1,5 @@
 ---
-title: استخدام التسجيل الذاتي للخدمة في مؤسستك
+title: استخدام تسجيل الخدمة الذاتية في مؤسستك
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "5994"
 - "9002572"
-ms.openlocfilehash: 167ae49701828f228e991e5b92fb44adbfd76fee
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2c33646b80821693c6ba8ac1be6ca0d481dcf08c36b5276c26c332356a250c4c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748960"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54037559"
 ---
-# <a name="using-self-service-sign-up-in-your-organization"></a>استخدام التسجيل الذاتي للخدمة في مؤسستك
+# <a name="using-self-service-sign-up-in-your-organization"></a>استخدام تسجيل الخدمة الذاتية في مؤسستك
 
-باستخدام التسجيل الذاتي للمستخدمين يمكن التسجيل لاستخدام الخدمات المدفوعة من قبل اشتراكك.
+باستخدام الخدمة الذاتية، يمكن للمستخدمين التسجيل لاستخدام الخدمات المدفوعة مقابل اشتراكك.
 
-- للتحكم في ما إذا كان بإمكان المستخدمين التسجيل للحصول علي اشتراكات الخدمة الذاتية ، استخدم [مسولكومبانيسيتينجس](https://docs.microsoft.com/powershell/module/msonline/set-msolcompanysettings?view=azureadps-1.0) PowerShell cmdlet باستخدام المعلمة  **AllowAdHocSubscriptions**  . لمزيد من المعلومات ، راجع [كيف يمكنني التحكم في إعدادات الخدمة الذاتية](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/self-service-purchase-faq?view=o365-worldwide)؟
+- للتحكم في ما إذا كان يمكن للمستخدمين التسجيل للحصول على اشتراكات الخدمة الذاتية، استخدم أمر cmdlet [Set-MsolCompanySettings](https://docs.microsoft.com/powershell/module/msonline/set-msolcompanysettings?view=azureadps-1.0) PowerShell مع المعلمة **AllowAdHocSubscriptions.** لمزيد من المعلومات، راجع [كيف يمكنني التحكم في إعدادات الخدمة الذاتية؟](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/self-service-purchase-faq?view=o365-worldwide)
 
-- للاطلاع علي كل البرامج المتوفرة ، راجع [برامج الخدمة الذاتية المتوفرة](https://docs.microsoft.com/microsoft-365/admin/misc/self-service-sign-up?view=o365-worldwide#available-self-service-programs).
+- لرؤية كل البرامج المتوفرة، راجع [برامج الخدمة الذاتية المتوفرة](https://docs.microsoft.com/microsoft-365/admin/misc/self-service-sign-up?view=o365-worldwide#available-self-service-programs).
 
-للحصول علي معلومات كامله ، راجع [استخدام التسجيل الذاتي للخدمة في مؤسستك](https://docs.microsoft.com/microsoft-365/admin/misc/self-service-sign-up?view=o365-worldwide).
+للحصول على معلومات كاملة، راجع [استخدام تسجيل الخدمة الذاتية في مؤسستك](https://docs.microsoft.com/microsoft-365/admin/misc/self-service-sign-up?view=o365-worldwide).

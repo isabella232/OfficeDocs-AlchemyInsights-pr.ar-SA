@@ -1,5 +1,5 @@
 ---
-title: حظر المرسلين في Outlook.com الاسبانيه
+title: حظر المرسلين في Outlook.com - الإسبانية
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "1142"
 - "8000069"
-ms.openlocfilehash: b7397e69ea76bf195a2ce76a446df01faed3a69a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4339c5b9af181505877bfca689e7585dfe78a8cc65fdad48176dd64b6c728543
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47753534"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54064587"
 ---
-# <a name="bloquear-o-desbloquear-remitentes-en-outlookcom"></a>بلوكويار o ديسبلوكويار ريميتينتيس en Outlook.com
+# <a name="bloquear-o-desbloquear-remitentes-en-outlookcom"></a>Bloquear o desbloquear remitentes en Outlook.com
 
-بودي بلوكوير لوس منسيس de جده ديريكسيونيس de كورو electrónico específica o دومينيو ليجو بانديا. كواندو أجريجا انا dirección de كورو electrónico o دومينيو a ليستا ريميتينتيس بلوكويدوس Outlook.com لوس موفي de automáticamente mensajes لا ese remitente carpeta لا correo.
+Puede bloquear los mensajes de las direcciones de correo electrónico específica o dominio llegue a la Bandeja de entrada. Códo agrega una dirección de correo electrónico o un dominio a la lista de remitentes bloqueados, Outlook.com mueve automáticamente los mensajes de ese remitente a la carpeta correo electrónico no deseado.
 
-أبريندير más لير [أيودار مانتينير الكوريو بلا ديسيادو y كوريو لا ديسيادو فويرا](https://support.office.com/es-es/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy)de بانديجا de انترادا).
+Para aprender más leer [Ayudar a mantener el correo no deseado y el correo no deseado fuera de la bandeja de entrada de Outlook.com](https://support.office.com/es-es/article/a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4?wt.mc_id=Office_Outlook_com_Alchemy).

@@ -1,5 +1,5 @@
 ---
-title: استخدام مساعد الإعداد واسترداد الأخطاء في OneDrive for Business وإصلاحها
+title: استخدم "مساعد الإعداد واسترداد" لاسترجاع الأخطاء وإصلاحها OneDrive for Business
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 76748918-479b-4cdd-8666-dfbd6b483b74
-ms.openlocfilehash: 123c32a54ef3893448e8d149f35b9cb84fb10074
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 46b0f5eefb3ba6170f39263b81d0d59d66622644df0cfa3871b1ce4cdd214818
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51770762"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54037811"
 ---
-# <a name="fix-onedrive-sync-problems"></a>إصلاح مشاكل المزامنة في OneDrive
+# <a name="fix-onedrive-sync-problems"></a>إصلاح المزامنة من OneDrive
 
-يمكن أن يساعدك تطبيق مساعد الإصلاح والدعم في تحديد المشاكل الشائعة المتعلقة بمزامنة ملفات OneDrive وإصلاحها. 
+يمكن مساعد الإصلاح والدعم التطبيق مساعدتك في تحديد المشاكل الشائعة المتعلقة بمزامنة OneDrive الملفات وإصلاحها. 
   
-[قم بتنزيل مساعد](https://aka.ms/sara)الاسترداد والدعم، سجل الدخول باستخدام حساب العمل أو المدرسة، واتبع الإرشادات الموجودة في التطبيق لاستعلام OneDrive for Business وإصلاحها. 
+[قم بتنزيل مساعد الإصلاح والدعم](https://aka.ms/sara)، سجل الدخول باستخدام حساب العمل أو المدرسة، واتبع الإرشادات الموجودة في التطبيق لاستعلام الأخطاء وإصلاحها OneDrive for Business. 
   
 [المزيد من خطوات استكشاف الأخطاء وإصلاحها](https://go.microsoft.com/fwlink/?linkid=872097)
   
