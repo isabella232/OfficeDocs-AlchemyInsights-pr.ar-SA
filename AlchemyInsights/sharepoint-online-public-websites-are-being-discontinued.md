@@ -1,5 +1,5 @@
 ---
-title: يتم إيقاف مواقع SharePoint Online العامة علي الويب
+title: SharePoint يتم إيقاف مواقع الويب العامة عبر الإنترنت
 ms.author: clake
 author: pebaum
 manager: scotv
@@ -14,16 +14,16 @@ ms.custom:
 - "99"
 - "5200001"
 ms.assetid: 4b8b89f8-bfd8-4a60-812a-daf5d519788e
-ms.openlocfilehash: 1dce91425873c2aea84fac9b79951138502d5a58
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c515a8b0353c5747a086b68ff7937bd95888f70c43f6d134b4756653e2177b0b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719904"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54051257"
 ---
-# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>يتم إيقاف مواقع SharePoint Online العامة علي الويب
+# <a name="sharepoint-online-public-websites-are-being-discontinued"></a>SharePoint يتم إيقاف مواقع الويب العامة عبر الإنترنت
 
-إذا قمت بإنشاء موقع ويب عام علي SharePoint Online ، فيمكنك الاستمرار في استخدامه حتى 31 مارس 2018. إذا أردت الاستمرار في العمل علي موقع ويب عام ، ستحتاج إلى إنشاء ملف جديد يتضمن موفرا جديدا. سيتم حذف المحتوي الموجود علي موقع ويب العام في SharePoint Online ، التالي يجب نسخ اي محتوي تريد الاحتفاظ به.
+إذا قمت بإنشاء موقع ويب SharePoint Online، يمكنك الاستمرار في استخدامه حتى 31 مارس 2018. إذا كنت تريد الاستمرار في امتلاك موقع ويب عام، تحتاج إلى إنشاء موقع جديد مع موفر جديد. سيتم حذف المحتوى على SharePoint ويب العام عبر الإنترنت، لذلك تحتاج إلى نسخ أي محتوى تريد الاحتفاظ به.
   
-يظهر الشعار الآن في اعلي موقع ويب العام في SharePoint Online كاعلام بأنه ستتم أزاله الموقع. لا يمكنك إيقاف تشغيل هذا الشعار. للحصول علي معلومات حول حفظ المحتوي ونسخه إلى موقع ويب الخاص بالشريك ، اطلع علي [تفاصيل حول عمليه وقف الميزات](https://go.microsoft.com/fwlink/?linkid=866980).
+يظهر شعار الآن في أعلى موقع ويب SharePoint Online العام بإعلام بإزالة الموقع. لا يمكنك إيقاف تشغيل هذا الشعار. للحصول على معلومات حول حفظ المحتوى ونسخه إلى موقع شريك على ويب، راجع تفاصيل [حول عملية إيقاف الميزة](https://go.microsoft.com/fwlink/?linkid=866980).
   
