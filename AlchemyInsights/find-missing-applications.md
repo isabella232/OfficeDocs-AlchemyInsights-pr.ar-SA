@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004327"
 - "7828"
-ms.openlocfilehash: 5ebcc89448885df105c49f64af8a9f9598e16544
-ms.sourcegitcommit: 605a73b159d30634b064c1b63b0e734ceb3fdec8
+ms.openlocfilehash: 32e51d1b7eddf8ebc2ec8545e52396bac48f7c3ddc0ecfc7e85aea50ed5c452a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49974175"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068901"
 ---
 # <a name="find-missing-applications"></a>البحث عن التطبيقات المفقودة
 
-- [تشغيل: عرض قائمه التطبيقات التي تستخدم مستاجر Azure active directory (AZURE AD) الخاص بك لأداره الهوية](https://docs.microsoft.com/azure/active-directory/manage-apps/view-applications-portal) التي تعرض لك كيفيه عرض التطبيقات ، المعروفة أيضا بالتطبيقات التي تم اعدادها بالفعل لاستخدام مستاجر Azure AD كموفر الهويات (unhcr).
-- للبحث عن تطبيق معين ، انتقل إلى القائمة **نوع التطبيق** ، وحدد **جميع التطبيقات**، واختر **تطبيق**.
-  - ادخل اسم التطبيق الذي تريد البحث عنه. إذا تمت أضافه التطبيق إلى مستاجر Azure AD ، سيظهر في نتائج البحث. يمكنك أيضا إدخال الأحرف القليلة الاولي من اسم التطبيق.
-- [استكشاف المشكلة الشائعة التي تؤدي إلى أضافه تطبيق أو ازالته إلى Azure active](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-adding-apps) directory تساعدك علي فهم المشاكل الشائعة التي يعرضها الأشخاص الأعضاء في Azure active directory.
+- تشغيل سريع: عرض قائمة التطبيقات التي تستخدم مستأجر [Azure Active Directory (Azure AD)](https://docs.microsoft.com/azure/active-directory/manage-apps/view-applications-portal) لإدارة الهويات يوضح لك كيفية عرض التطبيقات، المعروفة أيضا باسم التطبيقات، التي تم إعدادها بالفعل لاستخدام مستأجر Azure AD كموفر الهوية (IdP).
+- للبحث عن تطبيق معين، انتقل إلى القائمة **نوع** التطبيق، وحدد **كافة التطبيقات**، واختر **تطبيق**.
+  - أدخل اسم التطبيق الذي تريد العثور عليه. إذا تم إضافة التطبيق إلى مستأجر Azure AD، يظهر في نتائج البحث. يمكنك أيضا إدخال الأحرف القليلة الأولى من اسم التطبيق.
+- يساعدك استكشاف الأخطاء الشائعة وإصلاحها عند إضافة تطبيق إلى [Azure Active Directory](https://docs.microsoft.com/azure/active-directory/manage-apps/troubleshoot-adding-apps) أو إزالته على فهم المشاكل الشائعة التي يواجهها الأشخاص عند عرض التطبيقات في Azure Active Directory.

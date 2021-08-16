@@ -12,15 +12,15 @@ ms.custom:
 - "934"
 - "1800018"
 ms.assetid: 244fb17f-f0e3-474a-b287-023f4fb74830
-ms.openlocfilehash: 7c444ce7a77fa34ac678de40b36c1c7e27cd1b47
-ms.sourcegitcommit: 62a83a1c6bd9779a1a11b749490bd11670d4b063
+ms.openlocfilehash: 1f26a1e411e27916ceb32409982c9e9ec5133975e527793657160b598f7da892
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "49560463"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099921"
 ---
 # <a name="find-your-pop-or-imap-server-settings"></a>البحث عن إعدادات خادم POP أو IMAP
 
-إذا لم تكن تعرف الإعدادات التي تحتاج اليها لأضافه حساب POP أو IMAP إلى Outlook ، فيمكنك البحث عنها في [إعدادات البريد الكتروني ل pop و imap ل outlook](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx).
+إذا لم تكن تعرف الإعدادات التي تحتاج إليها لإضافة حساب POP أو IMAP إلى Outlook، يمكنك البحث عنها في إعدادات بريد POP و [IMAP](https://support.office.com/article/8361e398-8af4-4e97-b147-6c6c4ac95353.aspx)الإلكتروني Outlook .
   
  

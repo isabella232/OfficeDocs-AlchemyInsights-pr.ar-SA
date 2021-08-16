@@ -1,5 +1,5 @@
 ---
-title: ما هو الحفظ التلقائي
+title: ما هو "ميزة "ال""، "اال"،
 ms.author: pebaum
 author: pebaum
 manager: jecon
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2446"
 - "9000610"
-ms.openlocfilehash: 36e4b57d518010c8a77bba5dd3828fe26178d20e
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 4792cff9989feb672784ae9bf1534a35a7535f21177c6cd41169796536fb41ce
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47783502"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069267"
 ---
-# <a name="what-is-autosave"></a>ما هو الحفظ التلقائي ؟
+# <a name="what-is-autosave"></a>ما هو "ميزة "ميزة "ال"" التلقائية؟
 
-الحفظ التلقائي هو ميزه متوفرة في مشتركي Excel و Word و PowerPoint for Microsoft 365 الذين يقومون بحفظ الملف تلقائيا ، كل بضع ثوان ، اثناء العمل. 
+الحفظ التلقائي هي ميزة متوفرة في Excel و Word PowerPoint لـ Microsoft 365 الذين يحفظون الملف تلقائيا كل بضع ثوان، بينما تعمل. 
 
-للحصول علي الاسئله المتداولة ، راجع [ما هو الحفظ التلقائي ؟](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)
+للحصول على الأسئلة التي يتم طرحها بشكل متكرر، راجع [ما هي ميزة "الطرح التلقائي"؟](https://support.office.com/article/6d6bd723-ebfd-4e40-b5f6-ae6e8088f7a5)

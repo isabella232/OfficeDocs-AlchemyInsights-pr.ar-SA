@@ -12,17 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: deaa54004554f65a1af9addab86c84bcee8c044a57448d577299c452ce5cf1a1
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cd5ca46d24c079b4b86a487bd70ffc63a6b4c1b08cfdb931769db8d16db3c3fd
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53978832"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57874526"
 ---
 # <a name="submit-an-email-message-using-message-trace"></a>إرسال رسالة بريد إلكتروني باستخدام تتبع الرسائل
 
-1. انتقل إلى Office 365 [الأمان & مركز التوافق](https://go.microsoft.com/fwlink/p/?linkid=2077143)، ثم انتقل إلى تتبع رسائل **تدفق**  >  [البريد](https://go.microsoft.com/fwlink/?linkid=2101048).
+1. انتقل إلى Exchange إدارة البريد (EAC) في <https://admin.exchange.microsoft.com> \> **تتبع رسائل تدفق** \> **البريد**.
+
+   الانتقال مباشرة إلى صفحة **تتبع** الرسائل، استخدم <https://admin.exchange.microsoft.com/#/messagetrace> .
+
 2. حدد **+ بدء عملية تتبع**.
 3. استعرض الخيارات المقدمة. حدد المستلمين والمرسلين، ثم اضبط نطاق التاريخ كما هو مناسب. يمكنك ترك الإعدادات الافتراضية الخاصة بالخيارات المتبقية.
-4. حدد **بحث**. سيتم عرض قائمة رسائل البريد الإلكتروني استنادا إلى معايير البحث. انقر نقرا مزدوجا فوق الرسالة التي تريد إرسالها، ثم حدد **إرسال الرسالة**.
-5. لمعرفة المزيد، راجع تتبع الرسائل في مركز & [الأمان.](https://go.microsoft.com/fwlink/?linkid=2101557)
+4. حدد **بحث**. سيتم عرض قائمة رسائل البريد الإلكتروني استنادا إلى معايير البحث. انقر نقرا مزدوجا فوق الرسالة التي تريد إرسالها، ثم حدد **إرسال رسالة**.
+
+لمعرفة المزيد، راجع [تتبع الرسائل في EAC الحديث](https://docs.microsoft.com/exchange/monitoring/trace-an-email-message/message-trace-modern-eac).

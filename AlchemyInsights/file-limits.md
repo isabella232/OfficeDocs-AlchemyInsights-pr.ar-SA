@@ -9,27 +9,27 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: dc0eb9d1-aec4-4c37-8e4a-b67089f3246b
-ms.openlocfilehash: d27c95b5cfae5f73aeb9027f4440b7ad1ea7f3f7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: a6ce3151ee6ec7529a4eeb8e4fb85354777f8b93d3c90461a12518af680ae60f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677951"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54099987"
 ---
 # <a name="file-upload-limits-in-sharepoint-online"></a>حدود تحميل الملفات في SharePoint Online
 
-- يمكن ان تتضمن المكتبة ما يصل إلى 30,000,000 ملفات ومجلدات.
+- يمكن أن تحتوي المكتبة على ما يصل إلى 30 مليون ملف ومجلد.
     
-- لا يمكن ان يتجاوز الطول الإجمالي لعنوان URL ، بما في ذلك اسم الملف ، 400 حرفا.
+- لا يمكن أن يتجاوز إجمالي طول عنوان URL، بما في ذلك اسم الملف، 400 حرف.
     
-- سيكون كل ملف موش اقل من 15 غيغابايت. يمكن ان يصل حجم الملفات المرفقة بعناصر القائمة إلى 250 ميغابايت.
+- يكون حجم كل ملف أقل من 15 غيغابايت. يمكن أن يصل حجم الملفات المرفقة إلى عناصر القائمة إلى 250 MB.
     
-- لاجراء مزامنة أفضل للأداء مع عميل المزامنة من OneDrive الجديد ، نوصي بتخزين أكثر من 100,000 ملف في مكتبه. 
+- لمزامنة الأداء الأمثل مع عميل المزامنة من OneDrive الجديد، نوصي بتخزين ما لا يزيد عن 100000 ملف في مكتبة. 
     
 [الأحرف التي لا يمكن استخدامها في أسماء الملفات](https://go.microsoft.com/fwlink/?linkid=866430)
   
-[أنواع الملفات التي لا يمكن اضافتها إلى قائمه أو مكتبه](https://go.microsoft.com/fwlink/?linkid=273757)
+[أنواع الملفات التي لا يمكن إضافتها إلى قائمة أو مكتبة](https://go.microsoft.com/fwlink/?linkid=273757)
   
-[مزيد من المعلومات حول حدود SharePoint Online](https://go.microsoft.com/fwlink/?linkid=271273)
+[مزيد من المعلومات حول SharePoint الإنترنت](https://go.microsoft.com/fwlink/?linkid=271273)
   
 

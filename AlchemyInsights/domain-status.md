@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11094"
 - "9006491"
-ms.openlocfilehash: 1ddf6475e7cf466a39f76486e0f809097917657bc8f4ae7f7f2b516657308f39
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 1476a88c7b974a9e6cfe443f6842df8cdc3d7073a73c0add7e6f183dd0528de1
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53947430"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57874382"
 ---
 # <a name="domain-status---no-services-selected"></a>حالة المجال - لم يتم تحديد أي خدمات
 
@@ -26,11 +26,11 @@ ms.locfileid: "53947430"
 
 لتحديد خدمات لمجالك:
 
-1. من **الإعدادات** المجالات ، حدد المربع إلى جانب المجال مع رسالة الحالة  >  [](https://admin.microsoft.com/Adminportal/Home)لا توجد خدمات **محددة**.
+1. من **الإعدادات** المجالات ، حدد المربع إلى جانب المجال مع  >  [](https://admin.microsoft.com/Adminportal/Home)رسالة الحالة لا توجد **خدمات محددة**.
 1. حدد **إدارة DNS** لبدء تشغيل معالج إعداد المجال.
     - إذا اخترت **إضافة سجلات DNS** الخاصة بك، فتأكد من تحديد خدمة عند مطالبتك بذلك. قد تتوفر المزيد من الخدمات ضمن **خيارات متقدمة.**
     - إذا اخترت السماح ل Microsoft بإضافة سجلات **DNS** أو خيارات إضافية يتم اقتراح كل الخدمات المتوفرة وتحديدها تلقائيا.  >  
 1. تابع عبر المعالج لإكمال إعداد DNS وخيارات الخدمة.
  
-للحصول على تعليمات إضافية لإعداد مجالك، راجع [إضافة سجلات DNS لتوصيل مجالك](/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
+للحصول على تعليمات إضافية لإعداد مجالك، راجع [إضافة سجلات DNS لتوصيل مجالك](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/create-dns-records-at-any-dns-hosting-provider).
 
