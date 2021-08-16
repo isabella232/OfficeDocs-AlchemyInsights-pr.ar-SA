@@ -1,5 +1,5 @@
 ---
-title: مشاكل تتعلق بالمورد أو الخدمة الأساسي
+title: المشاكل المتعلقة بالمورد أو الخدمة الأساسية
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,23 +12,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004336"
 - "7741"
-ms.openlocfilehash: 9c37ad8e4dfecdb59a37d767f8eb4a5d99be7fa1
-ms.sourcegitcommit: d13f23fb7994871d4e0e6e3e43672a101bd779e8
+ms.openlocfilehash: 52b9b2e950d66c2f4105b76c4e2c70ed51320e4a57eb0008c353a9587fcc6510
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "50713288"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028063"
 ---
-# <a name="issues-with-a-resource-or-service-principal"></a>مشاكل تتعلق بالمورد أو الخدمة الأساسي
+# <a name="issues-with-a-resource-or-service-principal"></a>المشاكل المتعلقة بالمورد أو الخدمة الأساسية
 
-1. إذا كنت قد بدأت للتو، فإن كائنات التطبيق والخدمة الأساسية في [Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals) تصف تسجيل التطبيقات، وأشياء التطبيق، وأشياء الخدمة الأساسية في Azure Active Directory: ما هي هذه العناصر وكيفية استخدامها وكيفية اتسامها ببعضها البعض. يتم أيضا تقديم سيناريو مثال متعدد المستأجرين لتوضيح العلاقة بين كائن التطبيق للتطبيق والكائنات الأساسية المقابلة للخدمة.
-2. يمكنك معرفة المزيد حول العلاقة بين التطبيقات وأهم الخدمات من خلال قراءة تطبيقات الخدمة والكائنات الأساسية [للخدمة في Azure Active Directory.](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals)
-3. كيفية: استخدام المدخل لإنشاء تطبيق [Azure AD](https://docs.microsoft.com/azure/active-directory/develop/howto-create-service-principal-portal) والخدمة الأساسية التي يمكنها الوصول إلى الموارد توضح لك كيفية إنشاء تطبيق Azure Active Directory (Azure AD) جديد وأهم خدمة يمكن استخدامها مع عنصر التحكم بالوصول المستند إلى الدور.
-4. باستخدام [API الأساسي](https://docs.microsoft.com/graph/api/resources/serviceprincipal)للخدمة، يمكنك إدارة مثيلات التطبيقات برمجيا والتحكم في ما يمكن للتطبيق القيام به داخل نطاق المستأجر.
-5. [يسرد نوع مورد servicePrincipal](https://docs.microsoft.com/graph/api/resources/serviceprincipal) جميع الخصائص والأساليب الخاصة بنوع مورد servicePrincipal.
-6. تبرز الاختلافات بين نوع المورد [بين Azure AD Graph](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences) و Microsoft Graph الاختلافات بين Azure AD Graph وموارد Microsoft Graph. تعرض الموارد التي لها أسماء مختلفة أو غير متوفرة؛ ويسلط الضوء أيضا على الموارد المتوفرة في إصدار بيتا من Microsoft Graph ولكن ليس في الإصدار v1.0.
+1. إذا كنت قد بدأت للتو، فإن العناصر الأساسية للتطبيقات والخدمات في [Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals) تصف تسجيل التطبيقات، وأشياء التطبيق، وأشياء الخدمة الأساسية في Azure Active Directory: ماهيتها، وكيفية استخدامها، وكيفية اتسامها ببعضها البعض. يتم أيضا تقديم سيناريو مثال متعدد المستأجرين لتوضيح العلاقة بين كائن تطبيق التطبيق والكائنات الأساسية المقابلة للخدمة.
+2. يمكنك معرفة المزيد حول العلاقة بين التطبيقات ومديري الخدمات من خلال قراءة التطبيقات والأشياء [الأساسية للخدمة في Azure Active Directory](https://docs.microsoft.com/azure/active-directory/develop/app-objects-and-service-principals).
+3. كيفية: استخدم المدخل لإنشاء تطبيق [Azure AD](https://docs.microsoft.com/azure/active-directory/develop/howto-create-service-principal-portal) وأهم خدمة يمكنها الوصول إلى الموارد توضح لك كيفية إنشاء تطبيق Azure Active Directory (Azure AD) جديد وأهم خدمة يمكن استخدامها مع عنصر تحكم الوصول المستند إلى الدور.
+4. باستخدام [API الأساسية للخدمة](https://docs.microsoft.com/graph/api/resources/serviceprincipal)، يمكنك إدارة مثيلات التطبيقات برمجيا والتحكم في ما يمكن للتطبيق القيام به داخل المستأجر.
+5. [نوع مورد servicePrincipal](https://docs.microsoft.com/graph/api/resources/serviceprincipal) يسرد كل الخصائص والأساليب لنوع مورد servicePrincipal.
+6. تسلط الاختلافات بين نوع المورد [Graph Azure AD](https://docs.microsoft.com/graph/migrate-azure-ad-graph-resource-differences) و Microsoft Graph الضوء على الاختلافات بين Azure AD Graph و Microsoft Graph الموارد. وهي تعرض الموارد التي لها أسماء مختلفة أو غير متوفرة؛ كما يسلط الضوء على الموارد المتوفرة في إصدار بيتا من Microsoft Graph ولكن ليس في الإصدار 1.0.
 
-**مشاكل تتعلق بالمستخدمين الضيوف**
+**المشاكل المتعلقة بالمستخدمين الضيوف**
 
-- [Quickstart:](https://docs.microsoft.com/azure/active-directory/external-identities/b2b-quickstart-add-guest-users-portal#prerequisites) Add guest users to your directory in the Azure portal shows you how to add a guest user to your Azure AD directory via the Azure portal, send an invitation, and see what the guest user's look like the invitation user's redemption process.
-- البرنامج التعليمي: يمكنك إنشاء تدفقات المستخدم في [Azure Active Directory B2C](https://docs.microsoft.com/azure/active-directory-b2c/tutorial-create-user-flows) لتظهر لك كيفية إنشاء بعض تدفقات المستخدمين المستحسنة باستخدام مدخل Azure. إذا كنت تبحث عن معلومات حول كيفية إعداد تدفق بيانات اعتماد كلمة مرور مالك المورد (ROPC) في التطبيق، فشاهد تكوين تدفق بيانات اعتماد كلمة مرور مالك المورد في Azure AD B2C.
+- [Quickstart:](https://docs.microsoft.com/azure/active-directory/external-identities/b2b-quickstart-add-guest-users-portal#prerequisites) إضافة مستخدمين ضيوف إلى الدليل في مدخل Azure يوضح لك كيفية إضافة مستخدم ضيف جديد إلى دليل Azure AD عبر مدخل Azure، وإرسال دعوة، وترى كيف تبدو عملية استرداد دعوة المستخدم الضيف.
+- البرنامج التعليمي: يعرض لك إنشاء تدفقات المستخدمين في [Azure Active Directory B2C](https://docs.microsoft.com/azure/active-directory-b2c/tutorial-create-user-flows) كيفية إنشاء بعض تدفقات المستخدمين المستحسنة باستخدام مدخل Azure. إذا كنت تبحث عن معلومات حول كيفية إعداد تدفق بيانات اعتماد كلمة مرور مالك المورد (ROPC) في التطبيق، فاطلع على تكوين تدفق بيانات اعتماد كلمة مرور مالك المورد في Azure AD B2C.

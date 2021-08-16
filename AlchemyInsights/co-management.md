@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "1556"
 - "9000080"
-ms.openlocfilehash: c7dc35a484894e147208ef7080c151c6d3af0c63
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b8a2806a6d828b8ef7ee4e6dff05dcc496857b8ca8f76c777c39ff3155809668
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51817699"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54006373"
 ---
 # <a name="co-management"></a>الإدارة المشاركة
 
@@ -31,7 +31,7 @@ ms.locfileid: "51817699"
 
 **كيفية تثبيت عميل Config Manager على الأجهزة المدارة من Intune**
 
-راجع أجهزة Windows المدارة [من Intune MDM](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm).
+راجع [أجهزة Intune MDM المدارة Windows .](https://docs.microsoft.com/mem/configmgr/core/clients/deploy/deploy-clients-to-windows-computers#bkmk_mdm)
 
 **ماذا لو أردت فقط تغيير مرجع MDM؟**
 

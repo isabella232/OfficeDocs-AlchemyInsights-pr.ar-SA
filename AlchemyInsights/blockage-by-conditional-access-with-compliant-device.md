@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9835"
 - "9003257"
-ms.openlocfilehash: 240bd25f4d62505202c8cd7ceabe4c1cd3d5c0b5
-ms.sourcegitcommit: c08bed4071baa3bb5879496df3ed44fb828c8367
-ms.translationtype: MT
+ms.openlocfilehash: 709749b1a62f2d9cdabfb3fe4b7538c22101d7109204d9163f6059336b817bf8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/19/2021
-ms.locfileid: "51034775"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54019135"
 ---
 # <a name="im-getting-blocked-by-conditional-access-with-compliant-device"></a>يتم حظري بواسطة "الوصول الشرطي" مع جهاز متوافق
 
@@ -40,9 +40,9 @@ ms.locfileid: "51034775"
 
 - للتحقق مما إذا كان الجهاز قد انضم إلى الشبكة، [](https://docs.microsoft.com/azure/active-directory/user-help/user-help-register-device-on-network#to-verify-that-youre-registered) يمكنك اتباع الخطوات الخاصة بالأجهزة المسجلة هنا أو أجهزة العمل [هنا.](https://docs.microsoft.com/azure/active-directory/user-help/user-help-join-device-on-network#to-make-sure-youre-joined) لنطاق المشكلة إلى اتصال شبكة المؤسسة، اتبع الإرشادات أدناه:
 
-    1. سجل الدخول إلى Windows باستخدام حساب العمل أو المدرسة، على سبيل المثال، alain@contoso.com.
-    2. اتصل بشبكة مؤسستك من خلال VPN أو DirectAccesss.
-    3. بعد الاتصال، اضغط على مفتاح **شعار Windows+L** لقفل جهازك.
+    1. سجل الدخول Windows باستخدام حساب العمل أو المدرسة، على سبيل المثال، alain@contoso.com.
+    2. الاتصال إلى شبكة مؤسستك من خلال VPN أو DirectAccesss.
+    3. بعد الاتصال، اضغط على مفتاح **Windows+L** لقفل جهازك.
     4. قم بإلغاء تأمين جهازك باستخدام حساب العمل أو المدرسة، ثم حاول الوصول إلى التطبيق أو الخدمة التي تسبب مشاكل مرة أخرى.
 
 إذا رأيت رسالة الخطأ **لا** يمكنك الوصول إلى هناك من هنا مرة أخرى، فمن المرجح أن تكون المشكلة في مكان آخر.
@@ -51,7 +51,7 @@ ms.locfileid: "51034775"
 
 تأكد من تشغيل إصدار معتمد من نظام التشغيل، بما في ذلك:
 
-- **عميل Windows**: Windows 7 أو أي وقت لاحق
+- **Windows العميل**: Windows 7 أو أي وقت لاحق
 
 - **Windows Server**: Windows Server 2008 R2 أو أي وقت لاحق
 
@@ -61,15 +61,15 @@ ms.locfileid: "51034775"
 
 4. **مستعرض ويب غير معتمد:**
 
-الرجاء العثور على المستعرضات المعتمدة أدناه. بالنسبة إلى دعم Chrome مع Windows 1703 أو الإصدارات الأحدث، يجب استخدام ملحق حسابات Windows 10. بالنسبة إلى Edge 85+، يحتاج المستخدم إلى تسجيل الدخول لتمرير معلومات توافق الجهاز بشكل صحيح. لمزيد من التفاصيل، راجع [هنا](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-conditions#chrome-support).
+الرجاء العثور على المستعرضات المعتمدة أدناه. بالنسبة إلى دعم Chrome Windows الإصدار 1703 أو الإصدارات الأحدث، يلزم Windows 10 الحسابات. بالنسبة إلى Edge 85+، يحتاج المستخدم إلى تسجيل الدخول لتمرير معلومات توافق الجهاز بشكل صحيح. لمزيد من التفاصيل، راجع [هنا](https://docs.microsoft.com/azure/active-directory/conditional-access/concept-conditional-access-conditions#chrome-support).
 
-- **Windows 10**: Microsoft Edge، Internet Explorer، Chrome
+- **Windows 10**: Microsoft Edge و Internet Explorer و Chrome
 - **Windows 8 / 8.1**: Internet Explorer، Chrome
 - **Windows 7**: Internet Explorer، Chrome
 - **iOS**: Microsoft Edge، مستعرض Intune المدار، Safari
 - **Android**: **Microsoft Edge**: مستعرض Intune المدار، Chrome
-- **Windows Phone**: Microsoft Edge، Internet Explorer
-- **Windows Server 2019**: Microsoft Edge، Internet Explorer، Chrome
+- **Windows Phone**: Microsoft Edge Internet Explorer
+- **Windows Server 2019**: Microsoft Edge و Internet Explorer و Chrome
 - **Windows Server 2016**: Internet Explorer
 - **Windows Server 2012 R2**: Internet Explorer
 - **Windows Server 2008 R2**: Internet Explorer
