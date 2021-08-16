@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004167"
 - "7299"
-ms.openlocfilehash: 03821a5a0b4ee283c0f0fa8a1bb81e88941ed0aa
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 2495ded9e8ddc6528aca99e548c37a3bc209ac5916ba5326b15c8ff4fab46ded
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50480909"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995428"
 ---
 # <a name="azure-active-directory-security-and-identity"></a>Azure Active Directory (الأمان والهوية)
 
 حدد أحد أدلة الإعداد التالية:
 
-- يعمل **Azure Active Directory Connect** [Sync](https://go.microsoft.com/fwlink/?linkid=2071310) users على تكوين مزامنة كلمة المرور المتزامنة أو المصادقة المرورية، بحيث يمكن للمستخدمين تسجيل الدخول إلى بريدهم الإلكتروني وب Active Directory المحلي (وحدة تحكم المجال) باستخدام نفس كلمة المرور. يمكنك أيضا إعداد تسجيل الدخول إلى الاتحاد باستخدام خدمات اتحاد Active Directory (AD FS).
+- **Azure Active Directory قم** [](https://go.microsoft.com/fwlink/?linkid=2071310) بتوصيل المستخدمين بمزامنة الدليل تكوين مزامنة كلمة المرور أو المصادقة المرورية، بحيث يمكن للمستخدمين تسجيل الدخول إلى بريدهم الإلكتروني ونقر على Active Directory المحلي (وحدة التحكم بالمجال) باستخدام كلمة المرور نفسها. يمكنك أيضا إعداد تسجيل الدخول إلى الاتحاد باستخدام خدمات الاتحاد ل Active Directory (AD FS).
 
-- **إعداد ميزات Azure** في دليل إعداد [Azure AD](https://go.microsoft.com/fwlink/?linkid=2134390) قم بإعداد الميزات المتقدمة المتوفرة في Azure Active Directory Premium، مثل المصادقة متعددة العوامل وتسجيل الجهاز ومراقبة الأمان.
+- **إعداد ميزات Azure** دليل إعداد [Azure AD](https://go.microsoft.com/fwlink/?linkid=2134390) إعداد الميزات المتقدمة المتوفرة في Azure Active Directory Premium، مثل المصادقة متعددة العوامل وتسجيل الجهاز ومراقبة الأمان.

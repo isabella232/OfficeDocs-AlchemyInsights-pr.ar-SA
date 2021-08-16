@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "6700002"
 - "7680"
-ms.openlocfilehash: b76754a696608939403498dcd996c04ff5338b68
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d07a9500b9f17e05b4982f1219f8b94cb8c8be4b5484d334108c9131b42b5659
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743121"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53995356"
 ---
 # <a name="application-protection-policy-requirements"></a>متطلبات نهج حماية التطبيق
 
@@ -26,6 +26,6 @@ ms.locfileid: "50743121"
 - لدى المستخدم ترخيص Intune أو EMS.
 - ينتمي المستخدم إلى مجموعة تستهدفها سياسات حماية التطبيقات.
 - يتم تسجيل دخول مستخدم شركة واحد فقط إلى التطبيقات المحمية على جهاز.
-- [نفذ التطبيق Intune SDK. للحصول على قائمة التطبيقات التي تدعم SDK، راجع تطبيقات Microsoft Intune المحمية.](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps)
+- [نفذ التطبيق Intune SDK. للحصول على قائمة التطبيقات التي تدعم SDK، راجع Microsoft Intune المحمية.](https://docs.microsoft.com/mem/intune/apps/apps-supported-intune-apps)
 
 [قراءة المزيد...](https://docs.microsoft.com/mem/intune/apps/app-protection-policy)
