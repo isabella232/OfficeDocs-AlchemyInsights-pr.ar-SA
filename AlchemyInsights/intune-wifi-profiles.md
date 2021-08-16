@@ -1,5 +1,5 @@
 ---
-title: ملفات تعريف Intune Wi-fi
+title: ملفات تعريف Wi-Fi Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,43 +13,43 @@ ms.collection: Adm_O365
 ms.custom:
 - "1548"
 - "9000076"
-ms.openlocfilehash: afc8142a635b8a9d715eb4325b570be20ad26645
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5e5258806c8a38965467a8878bc8ac922c2668f21abe3602f479dcdaff8c9b5b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47696248"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54028207"
 ---
-# <a name="intune-wi-fi-profiles"></a>ملفات تعريف Intune Wi-fi
+# <a name="intune-wi-fi-profiles"></a>ملفات تعريف Wi-Fi Intune
 
-يعتمد التنفيذ الناجح لاتصال Wi-fi لعملاء MDM علي ملف تعريف موزع بشكل صحيح يعكس متطلبات البنية الاساسيه للشركات Wi-fi. لمراجعه الإعدادات المناسبة للانظمه الاساسيه التي تقوم بالتحقق منها ، راجع: 
+يعتمد نجاح Wi-Fi اتصال عملاء MDM على ملف تعريف تم نشره بشكل صحيح يعكس متطلبات بنية Wi-Fi الأساسية الخاصة بالشركة. لمراجعة الإعدادات المناسبة ل الأنظمة الأساسية للعميل التي تحقق منها، راجع: 
 
-[أضافه إعدادات Wi-fi للاجهزه التي تعمل بنظام التشغيل Android في Microsoft Intune](https://docs.microsoft.com/intune/wi-fi-settings-android)
+[إضافة Wi-Fi للأجهزة التي تعمل بنظام التشغيل Android في Microsoft Intune](https://docs.microsoft.com/intune/wi-fi-settings-android)
 
-[أضافه إعدادات Wi-fi للاجهزه التي تعمل بنظام Android Enterprise المخصصة والاجهزه المدارة بالبالكامل في Microsoft Intune](https://docs.microsoft.com/intune/wi-fi-settings-android-enterprise)
+[أضف Wi-Fi لأجهزة Android Enterprise المخصصة والمدارة بالكامل في Microsoft Intune](https://docs.microsoft.com/intune/wi-fi-settings-android-enterprise)
 
-[أضافه إعدادات Wi-fi للاجهزه التي تعمل بنظام التشغيل iOS و إيبادوس في Microsoft Intune](https://docs.microsoft.com/intune/wi-fi-settings-ios)
+[أضف Wi-Fi الإعدادات الخاصة بأجهزة iOS وiPadOS في Microsoft Intune](https://docs.microsoft.com/intune/wi-fi-settings-ios)
 
-[أضافه إعدادات Wi-fi لنظام التشغيل Windows 10 والاجهزه الأحدث في Intune](https://docs.microsoft.com/intune/wi-fi-settings-windows)
+[إضافة Wi-Fi الإعدادات Windows 10 والأجهزة اللاحقة في Intune](https://docs.microsoft.com/intune/wi-fi-settings-windows)
 
-[استيراد إعدادات Wi-fi لأجهزه Windows في Intune](https://docs.microsoft.com/intune/wi-fi-settings-import-windows-8-1)
+[استيراد Wi-Fi جديدة للأجهزة Windows Intune](https://docs.microsoft.com/intune/wi-fi-settings-import-windows-8-1)
 
 **المشاكل الشائعة**
 
-**أقوم بنشر ملف تعريف Wi-fi المعتمد علي شهادة منشوره محدده في ملف تعريف Wi-fi. ومع ذلك ، تعرض ملفات تعريف التكوين حاله خطا.**
+**أقوم بنشر ملف تعريف Wi-Fi يعتمد على شهادة تم نشرها محددة في Wi-Fi التعريف. ومع ذلك، تظهر ملفات تعريف التكوين حالة خطأ.**
 
-تاكد من ان جهازك استلم الشهادة.
+تحقق من استلام جهازك للشهادة.
 
-1. في Intune ، انتقل إلى **كل الاجهزه** وحدد **تكوين جهاز**> الجهاز.
+1. في Intune، انتقل إلى **كافة الأجهزة** وحدد الجهاز > **تكوين الجهاز.**
 
-2. تاكد من ان كل ملفات التعريف المتوقعة مدرجه وفي حاله ناجحه.
+2. تحقق من أن كل ملفات التعريف المتوقعة مدرجة وفي حالة ناجحة.
 
-3. بالنسبة إلى ملف تعريف Android ، إذا كان لديك شهادات متوسطه في سلسله الشهادات ، فتاكد من نشرها علي أجهزه Android.
+3. بالنسبة لملف تعريف Android، إذا كان لديك شهادات وسيطة في سلسلة الشهادات، فتأكد من نشرها على أجهزة Android.
 
-    للتحقق من حاله الشهادة ، انتقل إلى ملفات تعريف **تكوين الجهاز**الخاصة  >  **Profiles**  >  **Android intermediate CA**  >  **Properties**  >  **بالشهادات الموثوق بها**لنظام التشغيل Android وسيطه.
+    للتحقق من حالة الشهادة، انتقل إلى **ملفات تعريف** تكوين الجهاز  >    >  **شهادة خصائص CA وسيطة** ل Android  >    >  .
 
-إذا استمر ظهور الأخطاء ، فراجع القسمين الإجراءات واستكشاف الأخطاء وإصلاحها. لمزيد من المعلومات ، راجع [نظره عامه حول استكشاف أخطاء ملفات تعريف شهادات سسيب وإصلاحها باستخدام Microsoft Intune](https://support.microsoft.com/help/4457481/troubleshooting-scep-certificate-profile-deployment-in-intune).
+إذا استمرت الأخطاء في رؤية الأخطاء، فراجع الإجراءات وأقسام استكشاف الأخطاء وإصلاحها. لمزيد من المعلومات، راجع نظرة عامة حول استكشاف الأخطاء وإصلاحها لملفات تعريف شهادات [SCEP باستخدام Microsoft Intune.](https://support.microsoft.com/help/4457481/troubleshooting-scep-certificate-profile-deployment-in-intune)
 
-**لقد قمت بنشر ملف تعريف Wi-fi إلى جهاز. يعرض Intune انه نجح ، ولكن الجهاز لا يتصل بشبكه Wi-fi.**
+**لقد نشرت ملف تعريف Wi-Fi على جهاز. يظهر Intune نجاحه، ولكن الجهاز لا يتصل بشبكة Wi-Fi.**
 
-تعني الحالة ناجح ان يقوم Intune بنشر ملف التعريف كما تم تكوينه بنجاح. ومع ذلك ، قد لا تتطابق هذه التكوينات مع متطلبات الشبكة و/أو المصادقة. للحصول علي مزيد من التفاصيل حول الاتصال الذي تمت محاولته ، راجع السجلات في البنية الاساسيه وخدمه المصادقة (علي جهاز التحكم بنقطه وصول wi-fi وخادم NPS/Radius). قد يتعين عليك استخدام فريق البنية الاساسيه للشبكة ، أو مورد Wi-fi للجهة الخارجية ، لجمع السجلات ومراجعتها.
+تعني الحالة الناجحة أن Intune قد نشر ملف التعريف بنجاح كما تم تكوينه. ومع ذلك، قد لا تتطابق هذه التكوينات مع متطلبات الشبكة و/أو المصادقة. للحصول على مزيد من التفاصيل حول الاتصال الذي تم محاولة الاتصال به، راجع السجلات في خدمة المصادقة والبنية الأساسية (على وحدة التحكم Wi-Fi نقطة الوصول وخادم NPS/نصف القطر). قد تحتاج إلى العمل مع فريق البنية الأساسية للشبكة، أو مورد Wi-Fi جهة خارجية، لجمع السجلات ومراجعتها.

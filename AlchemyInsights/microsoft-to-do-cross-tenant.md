@@ -10,21 +10,21 @@ localization_priority: Normal
 ms.custom:
 - "9003043"
 - "6015"
-ms.openlocfilehash: 638449cbe86b284673f60f62ca13d4cb38de3819
-ms.sourcegitcommit: 1ac3474897abb7c4969e222f934294e05f468536
+ms.openlocfilehash: 075811418fc697bffdc9d9bfa2d8c4527b1cc7f91bf5892447d099f1c5ee6140
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "48815925"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54012151"
 ---
-# <a name="microsoft-to-do-cross-tenant-sharing"></a>Microsoft لاجراء المشاركة عبر المستاجرين
+# <a name="microsoft-to-do-cross-tenant-sharing"></a>Microsoft To Do عبر المستأجرين
 
-دعم Microsoft للمشاركة في القائمة بين الحسابات الشخصية والعمل. يتيح ذلك للمستخدمين في مؤسستك
+Microsoft To Do مشاركة القائمة بين الحسابات الشخصية وحسابات العمل. يتيح هذا للمستخدمين في مؤسستك
 
-الانضمام إلى القوائم المملوكة لحسابات Microsoft الشخصية وعرضها وتعديلها وأضافها.
+الانضمام إلى البيانات وعرضها وتعديلها وإضافتها إلى القوائم التي تملكها حسابات Microsoft الشخصية.
 
-يتوفر اعداد مسؤول جديد للمسؤولين لتعطيل هذه الميزة عن طريق إلغاء تحديد الخيار.
+يتوفر إعداد مسؤول جديد للمسؤولين لتعطيل هذه الميزة عن طريق إلغاء تحديد الخيار.
 
-يمكن للمسؤول العثور علي هذا الاعداد في مدخل المسؤول ضمن **الإعدادات**  >  الخاصة **بخدمات إعدادات Org**  >  **Services**  >  **Microsoft To Do** .  
+يمكن للمسؤول العثور على هذا الإعداد في مدخل المسؤول **ضمن** الإعدادات  >  **المؤسسة الإعدادات**  >  **الخدمات**  >  **Microsoft To Do**.  
 
-[لماذا لا يمكنني الانضمام إلى قائمه مشتركه ؟](https://support.microsoft.com/office/why-can-t-i-join-a-shared-list-3a6195de-e3a8-437a-b562-7c8c011dc574?ui=en-us&rs=en-us&ad=us)
+[لماذا لا يمكنني الانضمام إلى قائمة مشتركة؟](https://support.microsoft.com/office/why-can-t-i-join-a-shared-list-3a6195de-e3a8-437a-b562-7c8c011dc574?ui=en-us&rs=en-us&ad=us)
