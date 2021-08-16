@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "2715"
 - "9000773"
-ms.openlocfilehash: 53eada8da3f9695e067aa45d7db6e98080e7a33c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f4771cd514e467f002c4517789a4ef8f1f77822b0b4d0884632cafb98b60e470
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47705033"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54015823"
 ---
 # <a name="help-with-printing-in-excel"></a>تعليمات حول الطباعة في Excel
 
-إذا تلقيت رسالة خطا عند محاولة الطباعة ، فقد يتم حل هذه المشكلة في بعض الأحيان عن طريق تحديث برنامج تشغيل الطابعة. للحصول علي تعليمات حول تحديث برامج التشغيل ، راجع [تحديث برامج التشغيل في Windows](https://support.microsoft.com/help/4028443/windows-10-update-drivers).
+إذا تلقيت خطأ عند محاولة الطباعة، يمكن حل هذا الأمر في بعض الأحيان عن طريق تحديث برنامج تشغيل الطابعة. للحصول على تعليمات حول تحديث برامج التشغيل، راجع [تحديث برامج التشغيل في Windows](https://support.microsoft.com/help/4028443/windows-10-update-drivers).
 
-لتكوين الطباعة والتنسيقات واستكشاف الأخطاء وإصلاحها في Excel ، راجع [الطباعة في excel](https://support.office.com/client/9785e791-de6f-48dd-9b0d-899d75c33d69).
+للحصول على تكوين الطباعة، وتنسيقها، وإصلاحها في Excel، راجع الطباعة [في Excel](https://support.office.com/client/9785e791-de6f-48dd-9b0d-899d75c33d69).

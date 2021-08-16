@@ -9,19 +9,19 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 6cc25b24-fc6c-4810-9ff8-6cc3a8b4e863
-ms.openlocfilehash: 7bb63e5035daa960de33b2b16e481226399245cf
-ms.sourcegitcommit: 0eb4f9bde53395b5fd4b5cd4ffc56ca96db91298
+ms.openlocfilehash: 5b3c42eaa4af881235ee5029063fa741ee4e952c451a6b87085f2294d2cd3f71
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "50708733"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069159"
 ---
 # <a name="experiencing-repeated-password-prompts-in-outlook-for-mac"></a>هل تواجه المطالبات المتكررة بكلمة مرور في Outlook for Mac؟
 
-يمكننا المساعدة في توفير تعليمات Outlook for Mac أكثر تخصصا مباشرة من التطبيق.
+يمكننا المساعدة في توفير معلومات Outlook for Mac مباشرة من التطبيق.
   
-الرجاء الانتقال إلى Mac الخاص بالمستخدم المتأثر، وفتح Outlook، والنقر فوق **"المساعدة** \> **في الاتصال بدعم".**
+يرجى الانتقال إلى جهاز Mac الخاص بالمستخدم المتأثر، Outlook، والنقر فوق **تعليمات** \> **الاتصال ب دعم**.
   
-لمعرفة المزيد حول استخدام Outlook for Mac لدعم العملاء داخل [التطبيق،](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517) راجع هذه المقالة: ميزة "الاتصال بدعم" جديدة في Outlook 2016 for Mac
+لمعرفة المزيد حول استخدام Outlook for Mac داخل التطبيق، راجع هذه المقالة: ميزة "الاتصال ب دعم جديد" [في Outlook 2016 for Mac](https://answers.microsoft.com/msoffice/forum/msoffice_outlook-mso_mac-mso_mac2016/new-contact-support-feature-in-outlook-2016-for/d4fc21c4-25e2-4e10-b943-1fba6542b517)
   
 
