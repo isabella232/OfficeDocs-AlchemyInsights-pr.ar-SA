@@ -1,5 +1,5 @@
 ---
-title: تعذر إنشاء فريق في الفرق
+title: لا يمكن إنشاء فريق في Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003306"
 - "6201"
-ms.openlocfilehash: 748008f11b3b480a4003ae4c1e6562fa6f0ce358
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e4298bbdb4d9e3f606c5bdf2bd0511ad56809bf616f1b02242519b2172c64e36
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47748528"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54035533"
 ---
-# <a name="cant-create-a-team-in-teams"></a>تعذر إنشاء فريق في الفرق
+# <a name="cant-create-a-team-in-teams"></a>لا يمكن إنشاء فريق في Teams
 
-ربما لم يمنحك مسؤول الفرق الأذونات اللازمة لإنشاء الفرق.  
+ربما Teams المسؤول لديك الأذونات اللازمة لإنشاء الفرق.  
 
-راجع المسؤول حول إنشاء إعدادات مجموعه أمان المؤسسة أو تغييرها في Microsoft 365. إذا تمت اضافتك إلى مجموعه الأمان ، فيمكنك إنشاء فرق.
+راجع المسؤول حول إنشاء إعدادات مجموعة أمان المؤسسة أو تغييرها في Microsoft 365. إذا أضفت إلى مجموعة الأمان، يمكنك إنشاء فرق.
