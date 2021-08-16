@@ -1,5 +1,5 @@
 ---
-title: إصلاح مشاكل مزامنة البريد الكتروني في Outlook.com
+title: إصلاح Outlook مزامنة البريد الإلكتروني في Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.assetid: 6f48a145-b258-4d47-ac7e-c4c3f76bd1c1
 ms.custom:
 - "8000048"
-ms.openlocfilehash: f66e1365339d2a6939299b1fe05364a04ccea9af
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1d0aa87fb3b4907108a9a5cd418d447cdaac920b4e5f96754dec2d0bd354b92d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47671809"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54041357"
 ---
-# <a name="fix-outlookcom-email-sync-issues"></a>إصلاح مشاكل مزامنة البريد الكتروني في Outlook.com
+# <a name="fix-outlookcom-email-sync-issues"></a>إصلاح Outlook مزامنة البريد الإلكتروني في Outlook.com
 
-إذا تعذر عليك إرسال البريد الكتروني أو تلقيه ، فتحقق أولا من [حاله الخدمة](https://go.microsoft.com/fwlink/p/?linkid=837482&amp;clcid=0x409).
+إذا لم تتمكن من إرسال البريد الإلكتروني أو تلقيه، فتحقق أولا من [حالة الخدمة](https://go.microsoft.com/fwlink/p/?linkid=837482&amp;clcid=0x409).
   
-إذا لم تكن تتلقي بريدا الكترونيا من مرسل معين ، مثل رسائل أعاده تعيين كلمه المرور ، فتاكد أولا من ان المرسل ليس في [قائمه المرسلين والمجالات المحظورة](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomains).
+إذا كنت لا تتلقى بريدا إلكترونيا من مرسل معين، مثل رسائل إعادة تعيين كلمة المرور، فتأكد أولا من أن المرسل غير ضمن قائمة المجالات والمرسلين [المحظورين](https://outlook.live.com/mail/options/mail/junkEmail/blockedSendersAndDomains).
   
-إذا لم يكن المرسل في قائمه المرسلين المحظورين لديك ، ستحتاج إلى الاتصال بالمرسل والسماح لهم بانك لا تتلقي بريدا الكترونيا في حساب Outlook.com الخاص بك. يرجى الرجوع إلى المرسل إلى [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135&amp;clcid=0x409) ، حيث يمكنه العثور علي معلومات حول أفضل الممارسات واستكشاف الأخطاء وإصلاحها والارتباط الخاص بالاتصال بفريق دعم المرسل Outlook.com.
+إذا لم يكن المرسل في قائمة المرسلين المحظورين، ستحتاج إلى الاتصال بالمرسل وإعلامه أنك لا تتلقى بريدا إلكترونيا على حساب Outlook.com الخاص بك. الرجاء إحالة المرسل إلى ، حيث يمكنه العثور على معلومات حول أفضل الممارسات، استكشاف الأخطاء وإصلاحها الموصى بها، فضلا عن ارتباط للاتصال بفريق دعم [https://postmaster.live.com](https://go.microsoft.com/fwlink/p/?linkid=872135&amp;clcid=0x409) Outlook.com.
   
-إذا لم تتلقي البريد الكتروني علي الإطلاق ، فراجع [إصلاح مشاكل مزامنة البريد الكتروني في Outlook.com](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).
+إذا لم تكن تتلقى البريد الإلكتروني على الإطلاق، فشاهد إصلاح مشاكل [Outlook.com للبريد الإلكتروني](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).

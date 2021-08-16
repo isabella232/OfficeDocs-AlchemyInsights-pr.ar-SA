@@ -12,30 +12,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 38f1e314b2e492e02c2ea6eea37ea775c67e354e
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: f536fbfe365538f49cee93f77f4a56400658400390535c9d2ae142004b2c2274
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743177"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53967968"
 ---
 # <a name="licenses-for-microsoft-365-defender"></a>تراخيص Microsoft 365 Defender
 
-توفر التراخيص التالية إمكانية الوصول المجاني إلى ميزات Microsoft 365 Defender في مركز أمان Microsoft 365:
+توفر التراخيص التالية إمكانية الوصول المجاني Microsoft 365 Defender الميزات في Microsoft 365 الأمان:
 
 - Microsoft 365 E5 أو A5
-- أمان Microsoft 365 E5 أو أمان A5
+- الأمان في Microsoft 365 E5 الأمان أو A5
 - Windows 10 Enterprise E5 أو A5
 - Enterprise Mobility + Security (EMS) E5 أو A5
 - Office 365 E5 أو A5
 - Microsoft Defender لنقطة النهاية
 - Microsoft Defender for Identity
-- أمان تطبيق Microsoft Cloud
-- Microsoft Defender ل Office 365 (الخطة 2)
+- Microsoft Cloud App Security
+- Microsoft Defender Office 365 (الخطة 2)
 
     > [!NOTE]
-    > في هذا الوقت، لا توفر التراخيص التجريبية ل Office 365 إمكانية الوصول إلى Microsoft 365 Defender.
+    > في هذا الوقت، لا توفر التراخيص التجريبية Office 365 الوصول إلى Microsoft 365 Defender.
 
-لمزيد من المعلومات، راجع مقارنة [خطط Microsoft 365 Enterprise](https://go.microsoft.com/fwlink/?linkid=2143458).
+لمزيد من المعلومات، راجع Microsoft 365 Enterprise [مقارنة الخطط.](https://go.microsoft.com/fwlink/?linkid=2143458)
 
-أليس لديك ترخيص بعد؟ [جرب أو اشتر اشتراك Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2143625).
+أليس لديك ترخيص بعد؟ [حاول شراء اشتراك Microsoft 365 أو شراؤه.](https://go.microsoft.com/fwlink/?linkid=2143625)
