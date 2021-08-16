@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002531"
 - "7375"
-ms.openlocfilehash: 145563a64bbebb6fcafcf249231e70dfa99d92d6
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 75ddbaf986b6d475a145afc91a7cbc5676dbe8645c74f9399969c78be5d0342f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50742975"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54069987"
 ---
 # <a name="whats-a-domain"></a>ما هو المجال
 
@@ -27,6 +27,6 @@ ms.locfileid: "50742975"
 فيما يلي بعض التلميحات حول المجالات:
 
 - يمكنك شراء اسم مجال من Microsoft. بهذه الطريقة، سيكون لديك عنوان بريد إلكتروني مخصص.
-- أو يمكنك فقط إضافة مجال تملكه بالفعل إلى Office 365.
+- أو يمكنك فقط إضافة مجال تملكه Office 365.
 
 لمزيد من المعلومات، [شاهد هذا الفيديو الرائع](https://www.youtube.com/watch).

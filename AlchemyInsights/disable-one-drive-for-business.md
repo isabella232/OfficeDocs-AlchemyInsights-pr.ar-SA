@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000674"
 - "2552"
-ms.openlocfilehash: 4ebb1d6ae1a83176f3f5df0f14e96d41090cc27f
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: df59b38eae53b028bddddb94def15c267e5e5d578f1ddd9e8459c930e67eabd8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51815161"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016075"
 ---
 # <a name="disable-onedrive-for-business"></a>تعطيل OneDrive for Business
 
-هناك عدة طرق يمكنك من خلالها تعطيل الوصول إلى OneDrive وخدماته وفقا لاحتياجات عملك:
+هناك عدة طرق يمكنك من خلالها تعطيل الوصول إلى OneDrive وخدماتها وفقا لاحتياجات عملك:
 
-- [إيقاف تشغيل OneDrive أو تعطيله أو إلغاء تثبيته](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
-- [السماح بمزامنة حسابات OneDrive لمنظمات معينة فقط](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
-- [تعطيل إنشاء موقع OneDrive لبعض المستخدمين](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
-- [التحكم في الوصول إلى بيانات SharePoint Online و OneDrive استنادا إلى موقع الشبكة](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
+- [إيقاف تشغيل أو تعطيل أو إلغاء تثبيت OneDrive](https://support.office.com/article/turn-off-disable-or-uninstall-onedrive-f32a17ce-3336-40fe-9c38-6efb09f944b0)
+- [السماح بمزامنة OneDrive حسابات مؤسسات معينة فقط](https://docs.microsoft.com/onedrive/use-group-policy#allow-syncing-onedrive-accounts-for-only-specific-organizations)
+- [تعطيل OneDrive موقع لبعض المستخدمين](https://docs.microsoft.com/sharepoint/manage-user-profiles#disable-onedrive-creation-for-some-users)
+- [التحكم في الوصول إلى SharePoint عبر الإنترنت OneDrive البيانات استنادا إلى موقع الشبكة](https://docs.microsoft.com/sharepoint/control-access-based-on-network-location)
 - [منع المستخدمين من مزامنة حسابات OneDrive الشخصية](https://docs.microsoft.com/onedrive/use-group-policy#DisablePersonalSync)
-- [إدارة الاتصالات من أجهزة Windows إلى OneDrive وخدمات أخرى](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)
+- [إدارة الاتصالات من Windows إلى OneDrive وخدمات أخرى](https://docs.microsoft.com/windows/privacy/manage-connections-from-windows-operating-system-components-to-microsoft-services#bkmk-onedrive)

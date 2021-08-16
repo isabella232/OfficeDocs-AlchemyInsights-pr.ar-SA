@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000682"
 - "7679"
-ms.openlocfilehash: 8bc5c98dc9f60ae23b52b36d2087cafbb9fd6491
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 487d12d8a4e53f7dd08b7231819086eceb578c3474f64e6d69bf0f7c1d40bcdd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51401822"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54058493"
 ---
 # <a name="set-up-an-anti-spam-protection"></a>إعداد حماية من البريد العشوائي
 
 فيما يلي كيفية القيام بذلك:
 
-1. انتقل إلى مركز التوافق [في Office 365 & الأمان.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
+1. انتقل إلى Office 365 [مركز & التوافق.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
 1. انتقل إلى **نهج إدارة**  >  **المخاطر،** وانقر فوق **[مكافحة البريد العشوائي.](https://go.microsoft.com/fwlink/p/?linkid=2077143)**
 1. على علامة **التبويب مخصص،** قم تشغيل **الإعدادات** المخصصة.
 1. قم بتوسيع **نهج تصفية البريد العشوائي الافتراضي،** وانقر فوق تحرير **نهج**، ثم حدد الإعدادات التالية:
