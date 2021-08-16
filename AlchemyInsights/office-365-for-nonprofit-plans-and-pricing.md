@@ -16,16 +16,16 @@ ms.custom:
 - "478"
 - "1500026"
 ms.assetid: e6ec87f5-98d4-444d-b1e7-dc36cd60f064
-ms.openlocfilehash: b92c129127dd3410eff54ea53481fe23b094076a
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 91911353be373c305d1d042883618cb1b78aa27f196eb35a21d031113b61c4fb
+ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58295596"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "54502523"
 ---
 # <a name="microsoft-365-for-nonprofit-plans-and-pricing"></a>Microsoft 365 لخطط المؤسسات غير الربحية وأسعارها
 
-يمكن للمؤسسات غير الربحية المؤهلة تلقي Microsoft 365 غير ربحية كتبرع أو الترقية إلى الميزات المتقدمة بخصم كبير. للتأهل لخطة غير ربحية Microsoft 365، يجب [](https://go.microsoft.com/fwlink/p/?LinkID=330253) أن تحمل الحالة الخيرية المتعرف عليها في بلدك وتوقيع نهج عدم التمييز من Microsoft. تحتفظ Microsoft بالحق في التحقق من الأهلية في أي وقت وتعليق الخدمة الخاصة ب المؤسسات غير المناسبة.
+يمكن للمؤسسات غير الربحية المؤهلة تلقي Microsoft 365 غير ربحية كتبرع أو الترقية إلى الميزات المتقدمة بخصم كبير. للتأهل لخطة غير ربحية Microsoft 365، يجب [](https://go.microsoft.com/fwlink/p/?LinkID=330253) أن تحمل الحالة الخيرية المتعرف عليها في بلدك وتوقيع سياسة عدم التمييز من Microsoft. تحتفظ Microsoft بالحق في التحقق من الأهلية في أي وقت وتعليق الخدمة في المؤسسات غير المناسبة.
   
 لمزيد من المعلومات، راجع [الأسئلة الشائعة](https://products.office.com/nonprofit/office-365-nonprofit).
   
