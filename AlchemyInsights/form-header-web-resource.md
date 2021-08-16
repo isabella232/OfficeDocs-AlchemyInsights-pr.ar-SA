@@ -1,5 +1,5 @@
 ---
-title: راس النموذج-مورد ويب
+title: رأس النموذج - مورد ويب
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "1929"
 - "9000308"
-ms.openlocfilehash: c3bd238ea600c4f982e41eaa566fa9a17448a356
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bb14708e33eb95f5f794536d4ee466684816c41bab7a2720d18c298a08e1b261
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47708058"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068079"
 ---
-# <a name="form-header---web-resource"></a>راس النموذج-مورد ويب
+# <a name="form-header---web-resource"></a>رأس النموذج - مورد ويب
 
-يمكنك أضافه موارد ويب أو تحريرها في نموذج لجعل النموذج جذابا أو مفيدا للمستخدمين. للبدء ، تاكد من انه لديك دور أمان مسؤول النظام أو مخصص النظام أو أذونات مكافئه.  
+يمكنك إضافة موارد ويب أو تحريرها في نموذج لجعل النموذج أكثر جاذبية أو مفيدا للمستخدمين. للبدء، تأكد من أن لديك دور أمان مسؤول النظام أو تخصيص النظام أو أذونات مكافئة.  
 
-**ملاحظه** لا يمكنك تضمين مورد ويب في راس أو تذييل نموذج.
+**ملاحظة** لا يمكنك تضمين مورد ويب في رأس نموذج أو ت إذا كنت تريد ذلك.
 
-للحصول علي مزيد من المعلومات ، راجع [إنشاء مورد ويب وتحريره في نموذج](https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-edit-web-resources#create-and-edit-a-web-resource-on-a-form).
+لمزيد من المعلومات، راجع [إنشاء مورد ويب وتحريره في نموذج](https://docs.microsoft.com/dynamics365/customer-engagement/customize/create-edit-web-resources#create-and-edit-a-web-resource-on-a-form).

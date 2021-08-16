@@ -1,5 +1,5 @@
 ---
-title: OneDrive لا يستجيب
+title: OneDrive الاستجابة
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,17 +9,17 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 889f1e71-fc26-4753-9a2b-14508bc5d38f
-ms.openlocfilehash: 1e186ed1394f88c63930f6bcc3eae62ebf3f08e4
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 812b9e781022370c5109dedf1cb9ec5a4655e19838a258b47508ca8e955a1250
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47802512"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54025345"
 ---
-# <a name="onedrive-not-responding"></a>OneDrive لا يستجيب
+# <a name="onedrive-not-responding"></a>OneDrive الاستجابة
 
-بالنسبة إلى الحسابات التي تم إنشاؤها حديثا ، يجب علي المستخدمين تسجيل الدخول إلى مركز أداره Microsoft 365 باستخدام حسابهم الخاص والنقر فوق OneDrive لبدء توفير الموقع الخاص ب OneDrive يدويا.
+بالنسبة للحسابات التي تم إنشاؤها حديثا، يحتاج المستخدمون إلى تسجيل الدخول إلى مركز مسؤولي Microsoft 365 باستخدام حسابهم الخاص والنقر فوق OneDrive لبدء توفير OneDrive يدويا.
   
-علي الرغم من ذلك ، إذا قام المستخدم بالنقر بالفعل فوق OneDrive ولم يتم توفير الموقع الشخصي الخاص به خلال 24 ساعة ، يرجى تسجيل تذكره دعم للحصول علي مزيد من المساعدة.
+ومع ذلك، إذا قام المستخدم بالنقر OneDrive ولم يتم توفير موقعه الشخصي في غضون 24 ساعة، فيرجى تسجيل تذكرة دعم للحصول على مزيد من المساعدة.
   
 

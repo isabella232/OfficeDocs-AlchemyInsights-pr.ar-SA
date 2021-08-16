@@ -9,21 +9,21 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 467477cc-9d4f-47f1-a602-dbf334a42be5
-ms.openlocfilehash: ccc5e5b871cb014a1edf6457cf26b35cdfad706f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: ef5de5d8c002f30d553d5c290a43d8e83f5d3c256612833e1f90ca65b6508e09
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47677627"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54068469"
 ---
 # <a name="fix-problems-uploading-files-to-onedrive"></a>إصلاح المشاكل المتعلقة بتحميل الملفات إلى OneDrive
 
-جرب هذا الاجراء إذا لم يتم تحميل ملف:
+جرب ذلك إذا لم يتم تحميل ملف:
   
-- أعد تسميه الملف وحاول مره أخرى. لا يسمح ببعض أسماء الملفات والأحرف في أسماء الملفات. 
+- أعد تسمية الملف وحاول مرة أخرى. لا يسمح ببعض أسماء الملفات والأحرف في أسماء الملفات. 
     
-- إذا كنت تقوم بمزامنة الملف ، فيمكنك نقله إلى خارج مجلد OneDrive (علي سبيل المثال ، نقله إلى سطح المكتب) ، وعندما تظهر حاله مزامنة OneDrive الخاصة بك كالتحديث المطلوب ، أعد النقل. 
+- إذا كنت تقوم بمزامنة الملف، فحركه خارج مجلد OneDrive (على سبيل المثال، نقله إلى سطح المكتب)، وعندما تظهر حالة المزامنة من OneDrive ك "مواعيد"، قم بنقله مرة أخرى. 
     
-[تلميحات حول استكشاف الأخطاء وإصلاحها](https://go.microsoft.com/fwlink/?linkid=873155)
+[المزيد من تلميحات استكشاف الأخطاء وإصلاحها](https://go.microsoft.com/fwlink/?linkid=873155)
   
 
