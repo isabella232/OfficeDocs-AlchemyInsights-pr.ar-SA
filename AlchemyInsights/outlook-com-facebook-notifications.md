@@ -1,5 +1,5 @@
 ---
-title: اعلامات Outlook.com Facebook
+title: Outlook.com على Facebook
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1968"
 - "9000339"
-ms.openlocfilehash: f9d5b94abda70c7383221a0d04c01a6f43f16100
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3b1276c7639fae8c5d3885f532995ea458abcca102288e82a9324a2f5d4bcfee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47672079"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54010963"
 ---
-# <a name="facebook-notifications-using-outlookcom"></a>اعلامات Facebook باستخدام Outlook.com
+# <a name="facebook-notifications-using-outlookcom"></a>إعلامات Facebook باستخدام Outlook.com
 
-إذا لم تكن ترغب في تلقي اعلامات من Facebook ، فيمكنك تغيير [إعدادات facebook](https://aka.ms/facebook-notifications-settings) أو اعداد قاعده علبه الوارد.
+إذا كنت لا تريد تلقي إعلامات من Facebook، يمكنك تغيير إعدادات [Facebook](https://aka.ms/facebook-notifications-settings) أو إعداد قاعدة علبة الوارد.
 
 1. انتقل إلى [إعدادات القواعد](https://outlook.live.com/mail/options/mail/rules/inboxRules).
-1. حدد **أضافه قاعده جديده**.
-1. تسميه القاعدة "Facebook".
-1. أضافه شرط "من" وإدخال "notification@facebookmail.com"
-1. أضافه اجراء "حذف". يعني اختيار المفتاح Delete ان الرسائل تبقي في العناصر المحذوفة ويمكن استردادها. إذا حددت "وضع علامة كبريد الكتروني غير هام" ، سيتم حذف الرسائل تلقائيا ولا يمكن استردادها.
+1. حدد **إضافة قاعدة جديدة**.
+1. تسمية القاعدة "Facebook".
+1. أضف شرطا من "من" وأدخل "notification@facebookmail.com"
+1. إضافة إجراء من "حذف". يعني اختيار حذف أن الرسائل تبقى في العناصر المحذوفة ويمكن استردادها. إذا حددت "وضع علامة ك غير هام"، سيتم حذف الرسائل تلقائيا ولا يمكن استردادها.
 1. حدد **حفظ**.
