@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "5677"
 - "9002964"
-ms.openlocfilehash: a773279a47a6e5462e9c06837513e75ce3d4f318
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: c1e2e6edaa3df301da0a7f5acb4197a5221bc5058e5c8158001e1f97692bcba4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49576202"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098013"
 ---
 # <a name="microsoft-lists"></a>قوائم Microsoft
 
-تقوم شركه microsoft بتشغيل المرحلة الاولي من قوائم Microsoft ، تطبيق Microsoft 365. تعد قوائم Microsoft المكان المركزي للاطلاع علي كل القوائم وأدارتها.  
+تقوم Microsoft بإطلاق المرحلة الأولى من قوائم Microsoft، Microsoft 365 التطبيق. قوائم Microsoft هو المكان المركزي لمشاهدة كل القوائم وإدارتها.  
   
-أصبحت الميزة 100 متوفرة الآن لأي مستخدم لديه ترخيص SharePoint ويمكن الوصول إلى أيقونه القوائم من مشغل التطبيق.
+تتوفر الميزة الآن بنسبة 100٪ لأي مستخدم SharePoint ترخيص ويمكن الوصول إلى أيقونة القوائم من "شريط التطبيقات".
 
-بصفتك مسؤولا عاما أو SharePoint في Microsoft 365 ، يمكنك التحكم في إعدادات قوائم Microsoft. يمكنك:
+كمسؤول SharePoint أو مسؤول Microsoft 365، يمكنك التحكم في إعدادات قوائم Microsoft. يمكنك:
 
-- تعطيل إنشاء القوائم الشخصية (منع المستخدمين من حفظ القوائم الجديدة في "القوائم الخاصة بي").
-- تعطيل قوالب القوائم المضمنة غير المرتبطة بمؤسسك.
+- قم بتعطيل إنشاء القوائم الشخصية (منع المستخدمين من حفظ قوائم جديدة إلى "قوائمي").
+- قم بتعطيل قوالب القائمة المضمنة غير ذات الصلة لمنظمتك.
 راجع [قوائم التحكم](https://docs.microsoft.com/sharepoint/control-lists)
 
-للحصول علي مزيد من المعلومات ، راجع [قوائم Microsoft](https://aka.ms/microsoftlists).
+لمزيد من المعلومات، راجع [قوائم Microsoft](https://aka.ms/microsoftlists).
