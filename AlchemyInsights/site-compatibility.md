@@ -1,5 +1,5 @@
 ---
-title: التعرف علي توافق الموقع – التاثير علي التغييرات الواردة في Microsoft Edge
+title: تعرف على توافق الموقع مع التغييرات التي ستطرأ على Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,13 +12,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003849"
 - "6899"
-ms.openlocfilehash: e7b4bc2a896133affa40b38c326cada6fcb396c6
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 80955b953f48a7cc70b009d71c7c0c65da6c8ad56e76cb2b4f76edd2486dc076
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49676798"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54022123"
 ---
-# <a name="learn-about-site-compatibilityaffecting-changes-coming-to-microsoft-edge"></a>التعرف علي توافق الموقع – التاثير علي التغييرات الواردة في Microsoft Edge
+# <a name="learn-about-site-compatibilityaffecting-changes-coming-to-microsoft-edge"></a>تعرف على توافق الموقع مع التغييرات التي ستطرأ على Microsoft Edge
 
-الويب بشكل مستمر لتحسين تجربه المستخدم والأمان والخصوصية. بعض التغييرات هامه بدرجه كافيه للتاثير علي وظائف الصفحات الموجودة. يقوم فريق Microsoft Edge بتحديث الصفحات كالتفكير في تطوير والخطوط السوليديفيه [والتغييرات التي يتم الإعلان](https://go.microsoft.com/fwlink/?linkid=2135534)عنها.
+يتطور الويب باستمرار لتحسين تجربة المستخدم والأمان والخصوصية. تعد بعض التغييرات مهمة بما يكفي لتؤثر على وظائف الصفحات الموجودة. ويحدث Microsoft Edge فريق العمل الصفحات مع تطور التفكير وتوطد المخططات الزمنية [والتغييرات.](https://go.microsoft.com/fwlink/?linkid=2135534)

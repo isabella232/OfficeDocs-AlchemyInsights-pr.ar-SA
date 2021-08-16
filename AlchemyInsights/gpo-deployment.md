@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004400"
 - "8602"
-ms.openlocfilehash: d31f77e70e8456a4076a8146025f1f8ada977a06
-ms.sourcegitcommit: 969219d6dff18d86d679d4d8741d1e39e4ce9539
+ms.openlocfilehash: 6f9e164713ce36023de954d45031fd4414780e174bf5c7741c4aec274a65b32e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "50426947"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54067827"
 ---
 # <a name="gpo-deployment"></a>نشر GPO
 
-غالبا ما تدار إعدادات كائنات المستخدم والكمبيوتر في Azure Active Directory Domain Services (Azure AD DS) باستخدام كائنات نهج المجموعة (GPOs). يتضمن Azure AD DS "GPOs" مضمنا لمستخدمي AADDC والحاويات "أجهزة كمبيوتر AADDC". يمكنك تخصيص هذه الإعدادات المضمنة في GPOs لتكوين نهج المجموعة كما هو مطلوب بيئة. لدى أعضاء مجموعة مسؤولي Azure AD DC امتيازات إدارة نهج المجموعة في مجال Azure AD DS، ويمكنهم أيضا إنشاء وحدات GPOs ووحدات تنظيمية مخصصة. لمزيد من المعلومات حول نهج المجموعة وكيفية عمله، راجع [نظرة عامة حول نهج المجموعة.](https://docs.microsoft.com/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh831791(v=ws.11))
+الإعدادات إدارة العناصر الخاصة ب المستخدم والكمبيوتر في Azure Active Directory Domain Services (Azure AD DS) غالبا باستخدام كائنات نهج المجموعة (GPOs). يتضمن Azure AD DS GPOs مضمنا في حاويات مستخدمي AADDC وأجهزة كمبيوتر AADDC. يمكنك تخصيص هذه الإعدادات المضمنة ل GPOs لتكوين نهج المجموعة كما هو مطلوب لبيئة. لدى أعضاء مجموعة مسؤولي Azure AD DC امتيازات إدارة نهج المجموعة في مجال Azure AD DS، ويمكنهم أيضا إنشاء وحدات GPOs مخصصة ووحدات تنظيمية (OUs). لمزيد من المعلومات حول نهج المجموعة وكيفية عمله، راجع [نظرة عامة حول نهج المجموعة](https://docs.microsoft.com/previous-versions/windows/it-pro/windows-server-2012-R2-and-2012/hh831791(v=ws.11)).
 
-في البيئة المختلطة، لا يتم مزامنة سياسات المجموعات التي تم تكوينها في بيئة AD DS المحلية مع Azure AD DS. لتعريف إعدادات التكوين للمستخدمين أو أجهزة الكمبيوتر في Azure AD DS، قم بتحرير أحد "برامج GPOs" الافتراضية أو قم بإنشاء "نقطة GPO" مخصصة.
+في بيئة مختلطة، لا يتم مزامنة سياسات المجموعة التي تم تكوينها في بيئة AD DS المحلية إلى Azure AD DS. لتعريف إعدادات التكوين للمستخدمين أو أجهزة الكمبيوتر في Azure AD DS، قم بتحرير أحد مواقع GPOs الافتراضية أو قم بإنشاء GPO مخصص.
 
-توضح لك هذه المقالة ["إدارة](https://docs.microsoft.com/azure/active-directory-domain-services/manage-group-policy) نهج المجموعة" كيفية تثبيت أدوات "إدارة نهج المجموعة"، وكيفية تحرير "أدوات إدارة نهج المجموعة" المضمنة، وكيفية إنشاء "أدوات إدارة نهج المجموعة" المخصصة.
+توضح [لك](https://docs.microsoft.com/azure/active-directory-domain-services/manage-group-policy) هذه المقالة إدارة نهج المجموعة كيفية تثبيت أدوات "إدارة نهج المجموعة"، وكيفية تحرير "أدوات إدارة نهج المجموعة" المضمنة، وكيفية إنشاء "GPOs" مخصصة.

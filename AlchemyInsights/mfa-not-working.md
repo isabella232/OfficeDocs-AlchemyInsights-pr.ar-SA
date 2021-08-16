@@ -12,12 +12,12 @@ ms.assetid: 63f7d676-7cd9-4549-ba84-c3a8a7867f63
 ms.custom:
 - "2417"
 - "9000557"
-ms.openlocfilehash: 2fed99ebf553a9bfda436d81797c841987759e98
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: b39c79063c66ea41585c8f9eec372bfac77bc0aa29ded5a5572e06c141b28f80
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51810471"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098589"
 ---
 # <a name="issues-with-azure-mfa"></a>مشاكل في Azure MFA
 هناك بعض الأمور التي يجب التحقق مما إذا كان المستخدمون لا يمكنهم تسجيل الدخول باستخدام المصادقة متعددة العوامل (MFA)
@@ -26,4 +26,4 @@ ms.locfileid: "51810471"
 
 2. إذا لم يساعد إلغاء حظر المستخدم أو لم يتم حظر المستخدم، يمكنك محاولة إعادة تعيين MFA للمستخدم وسيخوض عملية التسجيل مرة أخرى. [الرجاء اتباع الخطوات في هذه المقالة.](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userdevicesettings#require-users-to-provide-contact-methods-again)
 
-إذا كانت هذه هي المرة الأولى التي تقوم فيها بتمكين المصادقة متعددة العوامل (MFA) ويتمكن المستخدمون من تسجيل الدخول إلى عملاء لا تستخدم المستعرضات مثل Outlook وسكايب وغير ذلك، ربما لم يتم تمكين ADAL (مكتبة مصادقة Active Directory) في اشتراك O365. في هذه الحالة، ستحتاج إلى الاتصال ب Exchange Online Powershell وتشغيل الأمر cmdlet هذا:  *Set-OrganizationConfig -OAuth2ClientProfileEnabled:$true*
+إذا كانت هذه هي المرة الأولى التي تقوم فيها بتمكين المصادقة متعددة العوامل (MFA) ويتمكن المستخدمون من تسجيل الدخول إلى عملاء لا تستخدم المستعرضات مثل Outlook أو Skype أو غير ذلك، ربما لم يتم تمكين ADAL (مكتبة مصادقة Active Directory) في اشتراك O365. في هذه الحالة، ستحتاج إلى الاتصال Exchange Online Powershell وتشغيل الأمر cmdlet هذا: *Set-OrganizationConfig -OAuth2ClientProfileEnabled:$true*

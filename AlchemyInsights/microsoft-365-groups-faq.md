@@ -1,5 +1,5 @@
 ---
-title: الأسئلة الشائعة حول مجموعات Microsoft 365
+title: Microsoft 365 الأسئلة الشائعة حول المجموعات
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1200024"
 - "5704"
-ms.openlocfilehash: b116957864ea1ff7d09850df56177f765fe12cff
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 55ade817c9cd30181f77f65ebfc6d0c99a9e4c11aace7e123b6bf7e09fe516c2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51794531"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098625"
 ---
-# <a name="microsoft-365-groups-faq"></a>الأسئلة الشائعة حول مجموعات Microsoft 365
+# <a name="microsoft-365-groups-faq"></a>Microsoft 365 الأسئلة الشائعة حول المجموعات
 
-الرجاء التحقق من الأسئلة الشائعة حول مجموعة **[Microsoft 365](https://aka.ms/M365GroupsFAQ)** للحصول على أهم مهام المسؤول المتعلقة ب Microsoft 365 Groups.
+الرجاء التحقق **[Microsoft 365 الأسئلة الشائعة حول](https://aka.ms/M365GroupsFAQ)** المجموعة للحصول على أهم مهام المسؤول المتعلقة Microsoft 365 المجموعات.
 
 - مشاكل تدفق البريد
 - إدارة عناوين البريد الإلكتروني
 - البرامج النصية لتصدير معلومات أعضاء المجموعة
 - Send-As وواف آخر
-- المجموعات التي لا تظهر/يمكن الوصول إليها من عميل Outlook
+- المجموعات التي لا تظهر/يمكن الوصول إليها من Outlook العميل
