@@ -1,5 +1,5 @@
 ---
-title: 8000077 يتعذر عليك تسجيل الدخول إلى Hotmail أو Outlook.com ؟
+title: 8000077 هل لا يمكنك تسجيل الدخول إلى Hotmail أو Outlook.com؟
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,16 +13,16 @@ ms.custom:
 - "1198"
 - "8000077"
 ms.assetid: 51addffd-7c85-49ef-8ef5-dfa2605605dc
-ms.openlocfilehash: 851694cd42cf8ab0bcdf1d343c5fc268128779b6
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: de094f65a216d6d3548d3a222511e0b750e578071c506319f838550a69e02d29
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47683821"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54071751"
 ---
-# <a name="cant-sign-in-to-hotmail-or-outlookcom"></a>هل يتعذر عليك تسجيل الدخول إلى Hotmail أو Outlook.com ؟
+# <a name="cant-sign-in-to-hotmail-or-outlookcom"></a>هل لا يمكنك تسجيل الدخول إلى Hotmail أو Outlook.com؟
 
-للمحافظة علي تنشيط حساب Outlook.com الخاص بك ، يجب تسجيل الدخول إلى الحساب مره واحده علي الأقل كل 365 يوما. بعد 365 يوما من عدم النشاط ، سيتم حذف البريد الكتروني الخاص بك ولا يمكن استرداده.
+لإبقاء حساب Outlook.com نشطا، يجب تسجيل الدخول إلى الحساب مرة واحدة على الأقل كل 365 يوما. بعد مرور 365 يوما من عدم النشاط، سيتم حذف بريدك الإلكتروني ولا يمكن استرداده.
   
-إذا قمت بتسجيل الدخول في غضون 365 يوما ولكن لا يزال يتعذر عليك الوصول إلى حساب Hotmail أو Outlook.com ، فأقرا [كيفيه تسجيل الدخول إلى Outlook.com أو الخروج منه](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy).
+إذا كنت قد قمت تسجيل الدخول في غضون 365 يوما ولكن لا يزال لا يمكنك الوصول إلى حساب Hotmail أو Outlook.com، فاقرأ كيفية تسجيل الدخول إلى حساب [Outlook.com](https://support.office.com/article/e08eb8ac-ac27-49f4-a400-a47311e1ee7e?wt.mc_id=Office_Outlook_com_Alchemy)أو الخروج منه.
   

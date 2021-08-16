@@ -1,5 +1,5 @@
 ---
-title: تعرف علي تطبيقات ويب المتتالية () في Microsoft Edge (تشروميوم)
+title: تعرف على تطبيقات الويب التدرجية (PWAs) على Microsoft Edge (Chromium)
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003864"
 - "6916"
-ms.openlocfilehash: 79b72200dbede9b66da921e2a92b4191e9bc067d
-ms.sourcegitcommit: a7952283882d341515623d5ae58eda14d0553449
+ms.openlocfilehash: f214781071be412e2a7eabbf19ec9d271cf1e8081cb052c02cad614da0372eaf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "49676777"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54101433"
 ---
-# <a name="learn-about-progressive-web-apps-pwas-on-microsoft-edge-chromium"></a>تعرف علي تطبيقات ويب المتتالية () في Microsoft Edge (تشروميوم)
+# <a name="learn-about-progressive-web-apps-pwas-on-microsoft-edge-chromium"></a>تعرف على تطبيقات الويب التدرجية (PWAs) على Microsoft Edge (Chromium)
 
-الدالة PWAs عن مواقع ويب تدريجيا لتعمل كالتطبيقات الاصليه علي الانظمه الاساسيه التي تدعمها. يجمع PWAs صفات التطبيقات الاصليه والويب.
+إن PWAs هي مواقع ويب محسنة تدريجيا لتعمل مثل التطبيقات الأصلية على الأنظمة الأساسية التي تدعمها. تجمع PWAs أفضل صفات الويب والتطبيقات الأصلية.
 
-من منظور النظام الأساسي للويب ، [كان Pwas Microsoft Edge (تشروميوم)](https://go.microsoft.com/fwlink/?linkid=2135193) يستند إلى المعايير. يسمح للمستخدمين بتثبيت التطبيقات مباشره من داخل المستعرض ، ولا يحتاجون إلى نشر أو تسجيل مستند إلى Microsoft Store. تم دعم جهاز سطح المكتب في اي نظام أساسي حيث يتوفر Microsoft Edge (تشروميوم).
+من منظور النظام الأساسي على الويب، تستند [PWAs على Microsoft Edge (Chromium)](https://go.microsoft.com/fwlink/?linkid=2135193) إلى المعايير. فهي تسمح للمستخدمين بتثبيت التطبيقات مباشرة من داخل المستعرض، ولا يحتاجون إلى Microsoft Store أو تسجيل مستند إلى التطبيق. يتم دعم PWAs لسطح المكتب على أي نظام أساسي Microsoft Edge (Chromium) متوفر.
