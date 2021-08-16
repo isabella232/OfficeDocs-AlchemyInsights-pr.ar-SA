@@ -1,5 +1,5 @@
 ---
-title: يتعارض مع سورسينتشور ، بروكسيادريس ،
+title: تعارضات مع SourceAnchor و ProxyAddress و UserPrincipalName
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1699"
 - "1300022"
-ms.openlocfilehash: 877c954bea219cf8d885645cd25e41a5b7bab6fd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 2d58078fcabb416c418b67a2f2ce2eba679a18c6ecf3846c534bde74188d7827
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47713441"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54033049"
 ---
-# <a name="conflicts-with-sourceanchor-proxyaddress-userprincipalname"></a>يتعارض مع سورسينتشور ، بروكسيادريس ،
+# <a name="conflicts-with-sourceanchor-proxyaddress-userprincipalname"></a>تعارضات مع SourceAnchor و ProxyAddress و UserPrincipalName
 
-إذا تلقيت أخطاء اثناء اجراء مزامنة مثل "عنصر متزامن بنفس بروكسيادريس أو الاسم الظاهر في الدليل" ، فراجع [تشخيص أخطاء مزامنة السمات المكررة والريميدياتي](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors).
+إذا تلقيت أخطاء أثناء مزامنة مثل "كائن متزامن بنفس ProxyAddress أو UserPrincipalName موجود في الدليل"، ف راجع تشخيص أخطاء مزامنة السمات المكررة وحلها [.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-health-diagnose-sync-errors)
 
-يمكنك أيضا تمكين المرونة المتكررة للسمة. للحصول علي مزيد من المعلومات ، راجع [مزامنة الهوية وتكرار السمات المكررة](https://aka.ms/duplicateattributeresiliency).
+يمكنك أيضا تمكين مرونة السمات المكررة. لمزيد من المعلومات، راجع [مزامنة الهوية](https://aka.ms/duplicateattributeresiliency)و مرونة السمات المتكررة .
