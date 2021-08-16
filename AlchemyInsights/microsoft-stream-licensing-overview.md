@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001693"
 - "3770"
-ms.openlocfilehash: 3b336ce5ab2df59c9a6e8b611be80d66289a18cf
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: e4aa70aa22696bea42516b698d109a0c115d024468d4d8ab070b9c337c3e91fe
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51794207"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066207"
 ---
 # <a name="microsoft-stream-licensing-overview"></a>نظرة عامة حول ترخيص Microsoft Stream
 
-Microsoft Stream هي خدمة سحابية مرخصة على أساس اشتراك كل مستخدم. وهي متوفرة كجزء من اشتراكات Microsoft 365 المؤهلة. راجع أسعار Microsoft 365 للحصول على معلومات حول كل نوع اشتراك.
+Microsoft Stream هي خدمة سحابية مرخصة على أساس اشتراك كل مستخدم. وهي متوفرة كجزء من اشتراكات Microsoft 365 المؤهلة. راجع Microsoft 365 الأسعار للحصول على معلومات حول كل نوع اشتراك.
 
 - [نظرة عامة حول ترخيص Microsoft Stream](https://docs.microsoft.com/stream/license-overview)

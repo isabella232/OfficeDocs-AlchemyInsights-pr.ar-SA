@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004241"
 - "7600"
-ms.openlocfilehash: b467320d6c9dd0f9613752560b056028e864ee5b
-ms.sourcegitcommit: 7b2e5078dd65f11af6650e692a7ea48e91f544e0
+ms.openlocfilehash: 610357684f0086b4de5813c2246acf00be36f5cb873a0fd1162b00fd0e57eb42
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "51505379"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54066063"
 ---
-# <a name="microsoft-threat-experts"></a>خبراء المخاطر من Microsoft
+# <a name="microsoft-threat-experts"></a>خبراء المخاطر في Microsoft
 
-إن Microsoft Threat Experts هي خدمة مدارة لتعقب المخاطر في Microsoft Defender لنقطة النهاية.  نحن نعمل مع مركز عمليات الأمان لمراقبة التهديدات الحرجة في بيئتك الفريدة وتحليلها ودعمها.
+خبراء المخاطر في Microsoft خدمة اصطلاح المخاطر المدارة في Microsoft Defender لنقطة النهاية.  نحن نعمل مع مركز عمليات الأمان لمراقبة التهديدات الحرجة في بيئتك الفريدة وتحليلها ودعمها.
 
-توفر خدمة مكافحة المخاطر المدارة هذه تحليلات وبيانات يعتمد عليها الخبراء من خلال هاتين الإمكانتين: إعلام بالهجوم المستهدف والوصول إلى الخبراء عند الطلب. للحصول على تفاصيل حول Microsoft Defender لنقطة النهاية، راجع [خبراء المخاطر من Microsoft]( https://docs.microsoft.com/microsoft-365/security/defender-endpoint/microsoft-threat-experts).
+توفر خدمة مكافحة المخاطر المدارة هذه تحليلات وبيانات يعتمد عليها الخبراء من خلال هاتين الإمكانتين: إعلام بالهجوم المستهدف والوصول إلى الخبراء عند الطلب. للحصول على تفاصيل نقطة النهاية ل Microsoft Defender، [راجع]( https://docs.microsoft.com/microsoft-365/security/defender-endpoint/microsoft-threat-experts)خبراء المخاطر في Microsoft .
 
-للحصول على تفاصيل حول خدمة البحث عن التهديدات المدارة في سياق حماية نقاط نهاية المؤسسة والبريد الإلكتروني والهويات، راجع نظرة عامة حول Microsoft Threat Experts في [Microsoft 365](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-experts?view=o365-worldwide).
+للحصول على تفاصيل حول خدمة البحث عن التهديدات المدارة في سياق حماية نقاط نهاية مؤسستك والبريد الإلكتروني والهويات، راجع خبراء المخاطر في Microsoft في [Microsoft 365 عامة.](https://docs.microsoft.com/microsoft-365/security/mtp/microsoft-threat-experts?view=o365-worldwide)
