@@ -1,5 +1,5 @@
 ---
-title: 8000001 إيقاف تشغيل علبه وارد المركز عليه
+title: 8000001 إيقاف تشغيل "علبة وارد مركز عليه"
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -15,19 +15,19 @@ ms.custom:
 - "8000001"
 - "8000059"
 ms.assetid: 7d169f0f-828b-4d2a-b60b-ec9297df2c59
-ms.openlocfilehash: eb881f0d0c5ef9dbc90b14c4f351509f55614415
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8ab443c16069b44563a342948ca29a65d61a6616a5bdb8184978e70191eebcbc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47797067"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54038684"
 ---
-# <a name="turn-off-focused-inbox"></a>إيقاف تشغيل "علبه وارد المركز عليه"
+# <a name="turn-off-focused-inbox"></a>إيقاف تشغيل "علبة وارد مركز عليه"
 
-1. حدد **إعدادات** \> **علبه وارد المركز**عليه.  
+1. حدد **الإعدادات** \> **وارد مركز عليه**.  
 
-2. ضمن **عند تلقي البريد الكتروني**، حدد **عدم فرز الرسائل**.
+2. ضمن **عند تلقي البريد الإلكتروني،** حدد عدم **فرز الرسائل**.
 
 3. حدد **موافق**.
 
-لمعرفه المزيد ، راجع [علبه وارد المركز عليه ل Outlook](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978?wt.mc_id=Office_Outlook_com_Alchemy).
+لمعرفة المزيد، راجع "علبة وارد مركز [عليه" Outlook](https://support.office.com/article/f445ad7f-02f4-4294-a82e-71d8964e3978?wt.mc_id=Office_Outlook_com_Alchemy).

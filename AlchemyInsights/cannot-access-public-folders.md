@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3500007"
 - "3462"
-ms.openlocfilehash: af5bd57512ee917d6e22d3838d55a2a1d62750d4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f129da8731877aa00fd9b1dcf20905d353a4895303390ce7ff5642a8ff3ccbc2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51819499"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996617"
 ---
-# <a name="outlook-cannot-connect-to-public-folders"></a>يتعذر على Outlook الاتصال بالمجلدات العامة
+# <a name="outlook-cannot-connect-to-public-folders"></a>Outlook الاتصال بالمجلدات العمومية
 
 إذا لم يكن الوصول إلى المجلد العمومي يعمل مع بعض المستخدمين، فجرب ما يلي:
 
-الاتصال ب EXO PowerShell وتكوين المعلمة DefaultPublicFolderMailbox على حساب المستخدم للمشكلة لمطابقة المعلمة على حساب مستخدم يعمل.
+الاتصال EXO PowerShell وتكوين المعلمة DefaultPublicFolderMailbox على حساب المستخدم للمشكلة لمطابقة المعلمة في حساب مستخدم يعمل.
 
 على سبيل المثال:
 
@@ -39,12 +39,12 @@ Set-Mailbox ProblemUser -DefaultPublicFolderMailbox \<value from previous comman
 
 1.  استخدم Set-CASMailbox <mailboxname> -PublicFolderClientAccess $true أو $false  
       
-    $true: السماح للمستخدمين بالوصول إلى المجلدات العامة في Outlook  
+    $true: للسماح للمستخدمين بالوصول إلى المجلدات العامة في Outlook  
       
     $false: منع وصول المستخدم إلى المجلدات العامة في Outlook. هذه هي القيمة الافتراضية.  
         
 2.  Set-OrganizationConfig -PublicFolderShowClientControl $true   
       
-**ملاحظة** يمكن لهذا الإجراء التحكم في الاتصالات فقط مع Outlook لسطح المكتب لعملاء Windows. يمكن للمستخدم متابعة الوصول إلى المجلدات العامة باستخدام OWA أو Outlook for Mac.
+**ملاحظة** يمكن لهذا الإجراء التحكم في الاتصالات فقط Outlook سطح المكتب Windows العملاء. يمكن للمستخدم متابعة الوصول إلى المجلدات العامة باستخدام OWA أو Outlook for Mac.
  
-لمزيد من المعلومات، راجع الإعلان عن دعم الاتصالات التي يتم التحكم فيها [بالمجلدات العامة في Outlook](https://aka.ms/controlpf).
+لمزيد من المعلومات، راجع الإعلان عن دعم الاتصالات التي يتم التحكم فيها [بالمجلدات](https://aka.ms/controlpf)العامة في Outlook.

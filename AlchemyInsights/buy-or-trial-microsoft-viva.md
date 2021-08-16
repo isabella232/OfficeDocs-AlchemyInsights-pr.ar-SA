@@ -1,5 +1,5 @@
 ---
-title: شراء Microsoft Viva أو الإصدار التجريبي
+title: شراء أو الإصدار Microsoft Viva
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8335"
-ms.openlocfilehash: 0150279cf03a5e4bb25c7a950cbc107abc65cd94
-ms.sourcegitcommit: 45e32fe7fdba358925df0d26daaead2675e2408f
+ms.openlocfilehash: 3052727ce6462984ab56e1d84096fd18a4fb71a0a9242668768793e2d0416ab5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/17/2021
-ms.locfileid: "50294124"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53996509"
 ---
-# <a name="buy-or-trial-microsoft-viva"></a>شراء Microsoft Viva أو الإصدار التجريبي
+# <a name="buy-or-trial-microsoft-viva"></a>شراء أو الإصدار Microsoft Viva
 
-تتوفر مواضيع Microsoft Viva للشراء أو الإصدار [التجريبي هنا.](https://aka.ms/BuyVivaTopics)
+Microsoft Viva تتوفر المواضيع للشراء أو الإصدار [التجريبي هنا.](https://aka.ms/BuyVivaTopics)
 
 سيطلب من مؤسستك استخدام أحد الاشتراكات التالية:
 
