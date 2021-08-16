@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002427"
 - "4711"
-ms.openlocfilehash: 58bb9a5089ff88b57e8aba8fa1db23304ffbeaab
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 7e3f0b654aa38f388f5217a4c5804a3b59f7483569593deda5332068dd631b0b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51831937"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014203"
 ---
 # <a name="installing-office-client-apps-on-a-pc-or-mac"></a>تثبيت تطبيقات عميل Office على أجهزة الكمبيوتر الشخصية أو أجهزة Mac
 
@@ -27,7 +27,7 @@ ms.locfileid: "51831937"
 
 إذا كان لديك اشتراك يتضمن تطبيقات Microsoft 365، فلن يظهر لك خيار تثبيتها إلا إذا كان لديك [ترخيص معين](https://support.office.com/article/what-office-365-business-product-or-license-do-i-have-f8ab5e25-bf3f-4a47-b264-174b1ee925fd?wt.mc_id=scl_installoffice_home). إذا كنت أنت مسؤول Office 365 المسؤول عن تعيين التراخيص، فاطلع على [تعيين التراخيص للمستخدمين](https://support.office.com/article/assign-licenses-to-users-in-office-365-for-business-997596b5-4173-4627-b915-36abac6786dc?wt.mc_id=scl_installoffice_home). بالإضافة إلى ذلك، يمكنك استخدم [إعدادات تنزيل برامج Office‎](https://docs.microsoft.com/DeployOffice/manage-software-download-settings-office-365) لاختيار ما إذا كان بإمكان المستخدمين تثبيت تطبيقات ‎Office‎ على أجهزتهم الخاصة أم لا.
 
-**ملاحظة:** يوفر [لك تقرير تنشيط Office](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) طريقة عرض للمستخدمين الذين تم تثبيت تطبيقات Microsoft 365 وتنشيطها على جهاز واحد على الأقل.
+**ملاحظة**: [يوفر Office التنشيط](https://docs.microsoft.com/microsoft-365/admin/activity-reports/microsoft-office-activations?view=o365-worldwide) طريقة عرض للمستخدمين الذين تم تثبيت تطبيقاتهم Microsoft 365 على جهاز واحد على الأقل وتنشيطها.
 
 ثم اطلب من كل مستخدم اتباع الخطوات التالية:
 

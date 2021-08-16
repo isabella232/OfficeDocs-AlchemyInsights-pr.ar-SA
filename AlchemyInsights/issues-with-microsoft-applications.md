@@ -1,5 +1,5 @@
 ---
-title: المشاكل المتعلقة بتطبيقات Microsoft
+title: مشاكل في تطبيقات Microsoft
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004342"
 - "7844"
-ms.openlocfilehash: 377312674f586cec4a710e429f069627fb5aacf7
-ms.sourcegitcommit: ba3118b7ad5e02756d0e5c2113245090f54370af
+ms.openlocfilehash: 725738e5a00493aaea07b7a018a08f47c3ae996cfe768a1719f38e8557370348
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/25/2021
-ms.locfileid: "49984498"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054749"
 ---
-# <a name="issues-with-microsoft-applications"></a>المشاكل المتعلقة بتطبيقات Microsoft
+# <a name="issues-with-microsoft-applications"></a>مشاكل في تطبيقات Microsoft
 
-المشاكل المتعلقة بتسجيل الدخول إلى تطبيقات Microsoft:
+المشاكل المتعلقة تسجيل الدخول إلى تطبيقات Microsoft:
 
-- [اري صعوبة في تسجيل الدخول إلى التطبيق (التطبيقات) باستخدام مستعرض Chrome فقط](https://docs.microsoft.com/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications) 
+- [أواجه مشكلة في تسجيل الدخول إلى التطبيق (التطبيقات) باستخدام مستعرض Chrome فقط](https://docs.microsoft.com/office365/troubleshoot/miscellaneous/chrome-behavior-affects-applications) 
 - [لا يمكنني تسجيل الدخول إلى تطبيق Microsoft](https://docs.microsoft.com/azure/active-directory/application-sign-in-problem-first-party-microsoft/?WT.mc_id=UI_AAD_Apps_Sign_In_Support_L2_MicrosoftApp)

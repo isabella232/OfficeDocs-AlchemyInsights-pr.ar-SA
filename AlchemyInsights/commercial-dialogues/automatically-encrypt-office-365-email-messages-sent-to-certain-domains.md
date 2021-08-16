@@ -1,5 +1,5 @@
 ---
-title: تشفير رسائل البريد الإلكتروني ل Office 365 المرسلة إلى مجالات معينة تلقائيا
+title: تشفير رسائل Office 365 الإلكتروني المرسلة إلى مجالات معينة تلقائيا
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,17 +13,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000078"
 - "7342"
-ms.openlocfilehash: 7fb96a30cd1922bd39a4b99a7ecd869622f3a466
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 5a285f36aeb814e3b1d361c8cbffd5a6bef0770d10082d24654c7bbda59ce65b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743101"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54082173"
 ---
-# <a name="automatically-encrypt-office-365-email-messages-sent-to-certain-domains"></a>تشفير رسائل البريد الإلكتروني ل Office 365 المرسلة إلى مجالات معينة تلقائيا
+# <a name="automatically-encrypt-office-365-email-messages-sent-to-certain-domains"></a>تشفير رسائل Office 365 الإلكتروني المرسلة إلى مجالات معينة تلقائيا
 
-1. من مركز [إدارة Exchange،](https://outlook.office365.com/ecp/)اختر **تدفق البريد > قواعد .** 
-2. انقر فوق **الأيقونة جديد (+)،** ثم انقر فوق تطبيق تشفير الرسائل وحماية الحقوق في **Office 365 على الرسائل.**
+1. من مركز [Exchange،](https://outlook.office365.com/ecp/)اختر تدفق البريد **> قواعد .** 
+2. انقر فوق **الأيقونة جديد (+)،** ثم انقر فوق تطبيق تشفير الرسائل من Office 365 **وحماية الحقوق على الرسائل.**
 3. في **الاسم**، أدخل اسما للقاعدة، مثل *تشفير الرسائل المرسلة إلى contoso.com*.
 4. في **تطبيق هذه القاعدة إذا**، اختر المستلم > المجال **هو**. 
 5. أدخل اسم المجال، مثل contoso.com **.**
@@ -36,4 +36,4 @@ ms.locfileid: "50743101"
 > [!IMPORTANT]
 > يمكنك دائما الرجوع وتحرير هذه القاعدة لاحقا.
 
-لمزيد من المعلومات حول إنشاء قواعد التشفير، راجع تعريف قواعد تدفق البريد لتشفير رسائل البريد الإلكتروني [في Office 365](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email)
+لمزيد من المعلومات حول إنشاء قواعد التشفير، راجع تعريف قواعد تدفق البريد [لتشفير](https://docs.microsoft.com/microsoft-365/compliance/define-mail-flow-rules-to-encrypt-email) رسائل البريد الإلكتروني في Office 365

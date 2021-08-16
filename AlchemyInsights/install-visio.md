@@ -13,26 +13,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "1764"
 - "9000201"
-ms.openlocfilehash: e11c356e5a49667d26906989038215fe65f609f8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9b42e8299484feb84fdbd80e26508ff110daea0191e33043d55ac9880f12919d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47811598"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54014275"
 ---
 # <a name="install-visio"></a>تثبيت Visio
 
-يتم بيع Visio كتطبيق مستقل بحيث إذا لم يكن لديك بعد ، [فاشتر أو جرب Visio](https://products.office.com/visio). 
+Visio بيعها ك تطبيق قائمة بذاتها، وبالتالي إذا لم يكن لديك بعد، فحاول شراء أو [Visio.](https://products.office.com/visio) 
 
-**ملاحظه**: لا يتضمن Visio Online الخطة 1 إصدار سطح المكتب من Visio ، لذا لا يمكن اجراء اي تثبيت.
+**ملاحظة:** Visio لا تتضمن الخطة 1 عبر الإنترنت إصدار سطح المكتب من Visio، لذلك لا يمكن تثبيته.
 
-إذا كان لديك اشتراك في Visio Online الخطة 2 ، فيجب [تعيين ترخيص](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) لمستخدم أو لن يتوفر لديه خيار تثبيت Visio من **التثبيتات الخاصة بي** في [مدخل حسابي](https://portal.office.com/account#installs). 
+إذا كان لديك اشتراك في Visio عبر الإنترنت 2، فيجب تعيين ترخيص لمستخدم أو لن يكون لديه خيار  لتثبيت Visio من التثبيتات في مدخل حسابي [.](https://portal.office.com/account#installs) [](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) 
 
-يتم اقران إصدارات ترخيص غير مجمع من Visio Standard أو Visio Professional بحسابات Microsoft ولا يمكن ادارتها في مركز الاداره. لتثبيت هذه الإصدارات ، يجب علي المستخدمين تسجيل الدخول إلى [account.microsoft.com](https://account.microsoft.com) باستخدام حساب microsoft المقترن بهذا الإصدار من Visio.
+ترتبط إصدارات الترخيص غير Visio Standard أو Visio Professional حسابات Microsoft ولا يمكن إدارتها في مركز الإدارة. لتثبيت هذه الإصدارات، يجب على المستخدمين تسجيل الدخول account.microsoft.com [باستخدام](https://account.microsoft.com) حساب Microsoft المقترن بهذا الإصدار من Visio.
 
-للحصول علي المزيد من التعليمات المفصلة ، راجع [تثبيت Visio](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) واتباع الخطوات المتعلقة بإصدارك من Visio.
+للحصول على تعليمات أكثر تفصيلا، [راجع تثبيت](https://support.office.com/article/f98f21e3-aa02-4827-9167-ddab5b025710?wt.mc_id=OfficeAdm_ClientDIA_Alchemy1764) Visio واتبع الخطوات الخاصة بالإصدار الخاص بك من Visio.
 
-لمزيد من المعلومات ، راجع:<br>
-[دليل النشر ل Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
-[السيناريوهات المعتمدة لتثبيت إصدارات مختلفه من Office و Project و Visio علي الكمبيوتر نفسه](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer)<br>
-[ترخيص Visio](https://products.office.com/visio/microsoft-visio-volume-licensing-visio-for-multiple-users)
+لمزيد من المعلومات، راجع:<br>
+[دليل النشر Visio](https://docs.microsoft.com/deployoffice/deployment-guide-for-visio)<br>
+[السيناريوهات المعتمدة لتثبيت إصدارات مختلفة من Office Project و Visio على الكمبيوتر نفسه](https://docs.microsoft.com/deployoffice/install-different-office-visio-and-project-versions-on-the-same-computer)<br>
+[Visio الترخيص](https://products.office.com/visio/microsoft-visio-volume-licensing-visio-for-multiple-users)

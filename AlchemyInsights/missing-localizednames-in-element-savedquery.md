@@ -1,5 +1,5 @@
 ---
-title: "' لوكاليزيدناميس ' مفقود في العنصر ' سافيدكويري '"
+title: مفقود 'LocalizedNames' في عنصر 'savedquery'
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1739"
 - "9000187"
-ms.openlocfilehash: 4b25596ab68cf1723df4fa6a593cef5341c8ff16
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 122904b1eb2d1c20fd26bb6a388aa50ced766cec9649fce15c0fae7f6b322832
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47667109"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54065595"
 ---
-# <a name="missing-localizednames-in-element-savedquery"></a>' لوكاليزيدناميس ' مفقود في العنصر ' سافيدكويري '
+# <a name="missing-localizednames-in-element-savedquery"></a>مفقود 'LocalizedNames' في عنصر 'savedquery'
 
-للحصول علي تعليمات حول ' لوكاليزيدناميس ' مفقود ، راجع ["العنصر" سافيدكويري "علي محتوي غير كامل. قائمه بالعناصر المحتملة المتوقعة: يحدث الخطا ' لوكاليزيدناميس ' "عند استيراد حل Dynamics 365](https://support.microsoft.com/help/4463330/the-element-savedquery-has-incomplete-content-list-of-possible-element).
+للحصول على تعليمات حول "أسماء محلية" مفقودة، راجع ["العنصر 'savedquery' به محتوى غير كامل. قائمة بالعناصر المحتملة المتوقعة: يحدث الخطأ "LocalizedNames" عند استيراد حل Dynamics 365](https://support.microsoft.com/help/4463330/the-element-savedquery-has-incomplete-content-list-of-possible-element).
 
-ابحث عن أحرف خاصه في اسم طريقه العرض التي قد تؤدي إلى حدوث المشكلة. قم بازاله اي أحرف خاصه في اسم العرض وتصدير الحل مره أخرى.
+ابحث عن أحرف خاصة في اسم طريقة العرض التي قد تسبب المشكلة. قم بإزالة أي أحرف خاصة في اسم العرض وتصدير الحل مرة أخرى.
