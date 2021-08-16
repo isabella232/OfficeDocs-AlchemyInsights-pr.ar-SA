@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: 61e466d9ec203a66a7ce2e89bd1462f5a483c784
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: aa505491f205eafd032fb3eef95f5d7d6f5226c61b73462312573789745258fc
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50480946"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "53988354"
 ---
 # <a name="create-an-ediscovery-case"></a>إنشاء حالة eDiscovery
 
 فيما يلي كيفية إنشاء حالة eDiscovery:
 
-1. انتقل إلى [مركز & الأمان وحدد](https://go.microsoft.com/fwlink/p/?linkid=2077143) **eDiscovery**  >  **eDiscovery.**
-1. في صفحة eDiscovery، انقر فوق **"إنشاء حالة".**
-1. أدخل اسم حالة الدعوى ووصفها، ثم انقر فوق **"حفظ".**
+1. انتقل إلى مركز & [الأمان](https://go.microsoft.com/fwlink/p/?linkid=2077143) وحدد **eDiscovery**  >  **eDiscovery**.
+1. في صفحة eDiscovery، انقر **فوق إنشاء حالة .**
+1. أدخل اسم حالة الحالة ووصفها، ثم انقر فوق **حفظ**.
     > [!TIP]
-    >لإدارة الأذونات في الحالة، انقر فوق مساحة بيضاء بجانب اسم حالة الدعوى (لا تنقر فوق فتح).
-1. لإدارة إعدادات "الانتظار" و"البحث" و"التصدير" لهذه الحالة، انقر فوق **"فتح".**
+    >لإدارة الأذونات الخاصة بالقضية، انقر فوق مساحة بيضاء بجانب اسم الحالة (لا تنقر فوق فتح).
+1. لإدارة إعدادات الانتظار والبحث والتصدير لهذه الحالة، انقر فوق **فتح**.
 
-للحصول على معلومات مفصلة حول كيفية عمل حالات eDiscovery مع المحتوى، راجع [حالات eDiscovery.](https://go.microsoft.com/fwlink/?linkid=2101589)
+للحصول على معلومات مفصلة حول كيفية عمل حالات eDiscovery مع المحتوى، راجع [حالات eDiscovery](https://go.microsoft.com/fwlink/?linkid=2101589).

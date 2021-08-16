@@ -1,5 +1,5 @@
 ---
-title: دليل اعداد العمل عن بعد
+title: دليل إعداد العمل عن بعد
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -12,15 +12,15 @@ localization_priority: Normal
 ms.custom:
 - "9004181"
 - "7355"
-ms.openlocfilehash: a1e26fdeeac6dae00e9ad3d1308b253ca6b114de
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 03bf96aa1d50e7a43342030496ad652dc77999c0174e2bfd3c82049a60560762
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573290"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54023977"
 ---
-# <a name="remote-work-setup-guide"></a>دليل اعداد العمل عن بعد
+# <a name="remote-work-setup-guide"></a>دليل إعداد العمل عن بعد
 
-يتم اجراء المزيد والمزيد من العمل عن بعد. يجب ان تكون مؤسستك مجهزه لأداره الطلب المتزايد للعمل عن بعد.
+يتم إنجاز المزيد والمزيد من العمل عن بعد. يجب أن تكون المؤسسة مجهزه لإدارة الطلب المتزايد على العمل عن بعد.
 
-استخدم [دليل اعداد العمل عن بعد](https://go.microsoft.com/fwlink/?linkid=2142062) لتمكين ميزات الأمان الاساسيه ومراجعه توصيات الأمان الاضافيه. ستحصل علي إرشادات لتقليل الإجهاد علي البنية الاساسيه ل VPN واعداد الوصول البعيد لسطح المكتب والتطبيقات بشكل اختياري. ثم ستقوم بمراجعه الخيارات الخاصة بنشر فرق Microsoft وتطبيقات Office.
+استخدم دليل [إعداد العمل عن](https://go.microsoft.com/fwlink/?linkid=2142062) بعد لتمكين ميزات الأمان الأساسية ومراجعة توصيات الأمان الإضافية. ستحصل على إرشادات لتقليل الضغط على البنية الأساسية ل VPN لديك، كما يمكنك إعداد الوصول عن بعد لسطح المكتب والتطبيقات بشكل اختياري. بعد ذلك، ستراجع خياراتك لنشر Microsoft Teams Office التطبيق.
