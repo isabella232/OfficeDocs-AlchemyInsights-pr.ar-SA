@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 Service Health
+title: Microsoft 365 "صحة الخدمة"
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001682"
 - "3747"
-ms.openlocfilehash: a636305b369d6a0d78d768acd420f14b295812a5
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 649c36d848223613c6188f600bb8f041fd205078c2a2d3ce66cb3387a4f84bd7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51794459"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54098445"
 ---
-# <a name="microsoft-365-service-health"></a>Microsoft 365 Service Health
+# <a name="microsoft-365-service-health"></a>Microsoft 365 "صحة الخدمة"
 
 
 تحقق من صحة الخدمة لأي خدمة من [لوحة معلومات "صحة الخدمة".](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/servicehealth) من خلال تحديد **مركز الإدارة الجديد** في الزاوية العلوية اليسرى، سترى خيارات حالة الخدمة الجديدة.
@@ -30,4 +30,4 @@ ms.locfileid: "51794459"
 
 - حدد **محفوظات** لمراجعة محفوظات حالة الخدمة في مؤسستك. 
 
-لمزيد من المعلومات، [راجع كيفية التحقق من صحة خدمة Microsoft 365](https://docs.microsoft.com/office365/enterprise/view-service-health). 
+لمزيد من المعلومات، راجع [كيفية التحقق من Microsoft 365 الخدمة](https://docs.microsoft.com/office365/enterprise/view-service-health). 
