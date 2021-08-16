@@ -1,5 +1,5 @@
 ---
-title: خدمه سحب خوادم Azure Rights Management (RMS)
+title: إلغاء تشغيل خدمة Azure Rights Management (RMS)
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "5070"
 - "9002278"
-ms.openlocfilehash: 6bacfd0e383c1a7c02b50e60f9626a733ee68cbc
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9347eb827c5225042b4c84a4a324c8dcba2b5403bf033b86b498047ba696bfce
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47745774"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031789"
 ---
-# <a name="decommission-azure-rights-management-service-rms"></a>خدمه سحب خوادم Azure Rights Management (RMS)
+# <a name="decommission-azure-rights-management-service-rms"></a>إلغاء تشغيل خدمة Azure Rights Management (RMS)
 
-تاكد من ان لديك نسخه من مفتاح مستاجر حماية البيانات في Azure ومجال نشر موثوق به مناسب (تبد) قبل إلغاء تنشيط خدمه Azure Rights Management.
+تأكد من أن لديك نسخة من مفتاح مستأجر Azure Information Protection ومجال نشر مناسب موثوق به (TPD) قبل إلغاء تنشيط خدمة Azure Rights Management.
 
-لمزيد من الموارد حول ديكوميشنينج وإلغاء تنشيط الحماية لحماية البيانات في Azure ، راجع:
+للحصول على موارد إضافية حول إلغاء تشغيل الحماية من Azure Information Protection أو إلغاء تنشيطها، راجع:
 
-- [برنامج تعليمي: تكوين إعدادات نهج حماية البيانات في Azure وإنشاء تسميه جديده](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
-- [ما المقصود بحماية البيانات في Azure ؟](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
-- [إرشادات ارشاديه للسيناريوهات الشائعة التي تستخدم حماية البيانات في Azure](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
+- [البرنامج التعليمي: تكوين إعدادات نهج حماية المعلومات في Azure وإنشاء تسمية جديدة](https://docs.microsoft.com/azure/information-protection/get-started/infoprotect-quick-start-tutorial)
+- [ما هو Azure Information Protection؟](https://docs.microsoft.com/azure/information-protection/what-is-information-protection)
+- [أدلة إرشادية للسيناريوهات الشائعة التي تستخدم Azure Information Protection](https://docs.microsoft.com/azure/information-protection/how-to-guides)  
     
-- [كيفيه ترحيل تسميات حماية البيانات في Azure إلى تسميات الحساسية الموحدة](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels)  
+- [كيفية ترحيل تسميات Azure Information Protection إلى تسميات الحساسية الموحدة](https://docs.microsoft.com/azure/information-protection/configure-policy-migrate-labels)  
     
-- [أسعار حماية البيانات في Azure](https://azure.microsoft.com/pricing/details/information-protection)  
+- [أسعار Azure Information Protection](https://azure.microsoft.com/pricing/details/information-protection)  
     
-- [متطلبات حماية البيانات في Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)  
+- [متطلبات حماية معلومات Azure](https://docs.microsoft.com/azure/information-protection/get-started/requirements)  
     
-- [كيفيه تنشيط خدمه حماية أداره الحقوق من مدخل Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/activate-azure)
+- [كيفية تنشيط خدمة حماية إدارة الحقوق من مدخل Azure](https://docs.microsoft.com/azure/information-protection/deploy-use/activate-azure)

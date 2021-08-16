@@ -1,5 +1,5 @@
 ---
-title: نشر تطبيقات Microsoft 365 للمؤسسات للاستخدام المشترك على RDS أو Terminal Server أو VDI
+title: نشر Microsoft 365 Apps for enterprise للاستخدام المشترك على RDS أو Terminal Server أو VDI
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,41 +13,41 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: a57be7fcf9d8236a51dc4b38e33ad1c2ac717f11
-ms.sourcegitcommit: 2eab0980268e08a58014459d44a08a1cc34a17d4
+ms.openlocfilehash: 55b86557ec205dde2c459d76e8e330d2a8271dbec723f079e119ebe409b41c3f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "51200660"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54031465"
 ---
-# <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>نشر تطبيقات Microsoft 365 للمؤسسات للاستخدام المشترك على RDS أو Terminal Server أو VDI
+# <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>نشر Microsoft 365 Apps for enterprise للاستخدام المشترك على RDS أو Terminal Server أو VDI
 
-لنشر تطبيقات Microsoft 365 للمؤسسات باستخدام خدمات سطح المكتب البعيد (RDS)، التي كانت تسمى سابقا خدمات المحطة الطرفية:
+لنشر الأجهزة Microsoft 365 Apps for enterprise خدمات سطح المكتب البعيد (RDS)، التي كانت تسمى سابقا خدمات المحطة الطرفية:
 
-- يجب أن يكون لديك خطة Microsoft 365 for Business أو خطة Office 365 تتضمن تطبيقات Microsoft 365 للمؤسسات، مثل Office 365 Enterprise E3 أو Enterprise E5.
+- يجب أن يكون لديك Microsoft 365 For Business أو خطة Office 365 تتضمن Microsoft 365 Apps for enterprise، مثل Office 365 Enterprise E3 أو Enterprise E5.
    > [!NOTE]
-   > لا تتضمن خطط Microsoft 365 Apps للأعمال و Microsoft 365 Business Standard تطبيقات Microsoft 365 للمؤسسات.
+   > لا Microsoft 365 Apps for business الخطط Microsoft 365 Business Standard تتضمن Microsoft 365 Apps for enterprise.
 - يجب تمكين تنشيط [الكمبيوتر المشترك](https://docs.microsoft.com/DeployOffice/overview-shared-computer-activation).
 
 > [!NOTE]
-> يمكنك أيضا تنزيل مساعد الاسترداد والدعم [من Microsoft](https://aka.ms/SaRA_OfficeSCA_M365Portal) وتشغيله لتثبيت تطبيقات Microsoft 365 للمؤسسات في وضع تنشيط الكمبيوتر المشترك.
+> يمكنك أيضا تنزيل ملف [Microsoft](https://aka.ms/SaRA_OfficeSCA_M365Portal) مساعد الإصلاح والدعم عليه Microsoft 365 Apps for enterprise في وضع تنشيط الكمبيوتر المشترك.
 
-لمزيد من المعلومات حول المتطلبات الأساسية وإرشادات الإعداد والإرشادات حول عمليات التثبيت المخصصة باستخدام أداة نشر Office، راجع نشر [تطبيقات Microsoft 365](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services)للمؤسسات باستخدام خدمات سطح المكتب البعيد .
+لمزيد من المعلومات حول المتطلبات الأساسية وإرشادات الإعداد والإرشادات حول عمليات التثبيت المخصصة باستخدام أداة النشر Office، راجع نشر Microsoft 365 Apps for enterprise باستخدام خدمات سطح المكتب [البعيد.](https://docs.microsoft.com/DeployOffice/deploy-microsoft-365-apps-remote-desktop-services)
 
 لإصلاح الأخطاء المتعلقة بتنشيط الكمبيوتر المشترك:
 
-- راجع استكشاف المشاكل المتعلقة بتنشيط الكمبيوتر المشترك وإصلاحها [لتطبيقات Microsoft 365 للمؤسسات](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation).
+- راجع [استكشاف المشاكل المتعلقة بتنشيط الكمبيوتر المشترك](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation)وإصلاحها Microsoft 365 Apps for enterprise .
 - راجع [إعادة تعيين تطبيقات Microsoft 365 لحالة تفعيل المؤسسة](https://go.microsoft.com/fwlink/?linkid=2109218).
 
-إذا كنت تريد تثبيت تطبيقات Microsoft 365 للمؤسسات على RDS من مركز إدارة Microsoft 365، الذي يستخدم إعدادات التثبيت الافتراضية، فاتبع الخطوات التالية:
+إذا كنت تريد تثبيت Microsoft 365 Apps for enterprise RDS من مركز مسؤولي Microsoft 365 الذي يستخدم إعدادات التثبيت الافتراضية، فاتبع الخطوات التالية:
 
 1. تحقق من الاشتراك الذي تملكه. [تعرف على كيفية](https://docs.microsoft.com/microsoft-365/admin/admin-overview/what-subscription-do-i-have).
 2. إذا لزم الأمر، قم بالتبديل إلى اشتراك آخر. [تعرف على كيفية](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
-3. إذا كان Office مثبتا بالفعل على خادم RDS باستخدام أي اشتراكات Microsoft أخرى، ف إلغاء تثبيته. على سبيل المثال، عن طريق الذهاب إلى **لوحة التحكم** إلغاء  >  **تثبيت برنامج**. إلغاء التثبيت باستخدام مساعد الاسترداد [والدعم من Microsoft](https://aka.ms/SARA-OfficeUninstall-Alchemy) إذا كنت تخوض مشاكل.
-4. على خادم RDS، سجل الدخول إلى مركز إدارة Microsoft 365 باستخدام حساب المسؤول وثبت [تطبيقات Microsoft 365 للمؤسسات](https://portal.office.com/OLS/MySoftware.aspx).
-5. بعد تثبيت ***Office، لا*** تفتح أو سجل الدخول إلى أي من تطبيقات Office.
+3. إذا Office تم تثبيته بالفعل على خادم RDS باستخدام أي اشتراكات Microsoft أخرى، ف إلغاء تثبيته. على سبيل المثال، عن طريق الذهاب إلى **لوحة التحكم** إلغاء  >  **تثبيت برنامج**. إلغاء تثبيت استخدام [Microsoft مساعد الإصلاح والدعم](https://aka.ms/SARA-OfficeUninstall-Alchemy) إذا كنت تخوض مشاكل.
+4. على خادم RDS، سجل الدخول إلى مركز مسؤولي Microsoft 365 باستخدام حساب المسؤول ثم [قم بتثبيت Microsoft 365 Apps for enterprise](https://portal.office.com/OLS/MySoftware.aspx).
+5. بعد Office، ***لا*** تفتح أو سجل الدخول إلى أي Office أخرى.
 6. على خادم RDS، قم بتمكين تنشيط الكمبيوتر المشترك عن طريق تحرير السجل باتباع الخطوات التالية:
-   1. انقر بزر الماوس الأيمن فوق زر Windows في الزاوية السفلية اليمنى من الشاشة وحدد **تشغيل**. في المربع فتح، اكتب **regedit**، ثم حدد **موافق**.
+   1. انقر بزر الماوس الأيمن Windows في الزاوية السفلية اليمنى من الشاشة وحدد **تشغيل**. في المربع فتح، اكتب **regedit**، ثم حدد **موافق**.
    2. حدد **نعم** عند مطالبتك بالسماح لمحرر السجل بإجراء تغييرات على جهازك.
    3. في محرر السجل، أضف قيمة سلسلة **ل SharedComputerLicensing** بإعداد 1 ضمن HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft \Office\ClickToRun\Configuration.
-   4. على خادم RDS، سجل الدخول كمستخدم وتحقق من تمكين تنشيط الكمبيوتر المشترك  [لتطبيقات Microsoft 365 للمؤسسات.](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded)
+   4. على خادم RDS، سجل الدخول كمستخدم وتحقق من تمكين تنشيط الكمبيوتر المشترك [Microsoft 365 Apps for enterprise.](https://docs.microsoft.com/DeployOffice/troubleshoot-shared-computer-activation#verify-that-activation-for-microsoft-365-apps-succeeded) 
