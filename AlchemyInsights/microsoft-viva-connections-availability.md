@@ -1,5 +1,5 @@
 ---
-title: توفر Microsoft Viva Connections
+title: Microsoft Viva Connections التوفر
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004616"
 - "8336"
-ms.openlocfilehash: b8bdb514949750f6041019bcbb725934b76e68f4
-ms.sourcegitcommit: 0fc6005bbe351a861be1805a2e15b52438c914c9
+ms.openlocfilehash: aca273a73ba1ae750e1467857ad777bbbfbc90e98b8ff4912e7acef498010221
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "50315309"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000451"
 ---
-# <a name="microsoft-viva-connections-availability"></a>توفر Microsoft Viva Connections
+# <a name="microsoft-viva-connections-availability"></a>Microsoft Viva Connections التوفر
 
-سيتوفر Microsoft Viva Connections لسطح المكتب في النصف الأول من عام 2021 وللهواتف المحمولة في فصل الصيف من عام 2021. سيتم طرح ميزات إضافية خلال عام 2022.
+Microsoft Viva Connections متوفرة لسطح المكتب في النصف الأول من عام 2021 وللهواتف المحمولة في فصل الصيف من عام 2021. سيتم طرح ميزات إضافية خلال عام 2022.
 
-لمزيد من المعلومات، راجع كيف يساعد [Microsoft Viva Connections الجميع](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-connections-helps-everyone-to-stay-engaged-and/ba-p/2107009)على البقاء على اطلاع والبقاء على اطلاع.
+لمزيد من المعلومات، راجع كيف يساعد Microsoft Viva Connections الجميع على البقاء [على اطلاع.](https://techcommunity.microsoft.com/t5/microsoft-viva-blog/microsoft-viva-connections-helps-everyone-to-stay-engaged-and/ba-p/2107009)

@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 7b4cbc70db75af36ce35160f39d06e51e21e7513
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 9c95e224f64c287b04a98c2a41d7f83b32b386b7641fe483030fa8cc931855a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743079"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54017083"
 ---
 # <a name="fix-languageip-filter-policy"></a>إصلاح نهج تصفية اللغة/IP
 
 لقد تأثر نهج مكافحة البريد العشوائي المخصص في نطاق المستأجر بهذه الرسالة. لمراجعة النهج، يمكنك القيام بما يلي:
 
-1. انتقل إلى مركز التوافق في [Office 365 security &](https://go.microsoft.com/fwlink/p/?linkid=2077143)، ثم انتقل إلى نهج إدارة المخاطر لمكافحة البريد   >    >  [العشوائي](https://go.microsoft.com/fwlink/?linkid=2101518).
+1. انتقل إلى مركز Office 365 [الأمان &](https://go.microsoft.com/fwlink/p/?linkid=2077143)، ثم انتقل **إلى** نهج إدارة المخاطر لمكافحة البريد  >    >  [العشوائي.](https://go.microsoft.com/fwlink/?linkid=2101518)
 2. على علامة **التبويب مخصص،** حدد نهج تصفية البريد العشوائي **الافتراضي** أو أي نهج مخصص آخر قد تكون أنشأته، ثم حدد **تحرير نهج**.
 3. قم بتوسيع **خيار البريد العشوائي** الدولي وراجع الإعدادات.
 

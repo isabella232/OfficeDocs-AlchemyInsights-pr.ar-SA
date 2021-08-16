@@ -1,5 +1,5 @@
 ---
-title: استخدام Microsoft Edge لحماية المستخدمين من البواس
+title: استخدام Microsoft Edge لحماية المستخدمين من PUAs
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004025"
 - "7091"
-ms.openlocfilehash: 2b62e800fe67460192e0cd79a078e544004c4834
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: aaae60092dd49d15f2f437750d876d469bf7f8e39180bcaa3d44fdea5410e028
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49676799"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54000487"
 ---
-# <a name="use-microsoft-edge-to-protect-users-against-puas"></a>استخدام Microsoft Edge لحماية المستخدمين من البواس
+# <a name="use-microsoft-edge-to-protect-users-against-puas"></a>استخدام Microsoft Edge لحماية المستخدمين من PUAs
 
-تحظر إصدارات Microsoft Edge 80.0.361.50 والإصدارات الأحدث من التطبيقات التي من المحتمل ان تكون غير مرغوب فيها (بواس) وعناوين Url المقترنة. لتشغيل هذه الميزة ، قم بما يلي:
+Microsoft Edge الإصدارات 80.0.361.50 والإصدارات الأحدث إلى حظر تنزيلات التطبيقات التي يحتمل أن تكون غير مرغوب فيها (PUAs) أو عناوين URL المقترنة بها. تشغيل هذه الميزة، قم بما يلي:
 
-1. انتقل إلى **إعدادات**  >  **الخصوصية والخدمات** في المستعرض.
+1. انتقل إلى **الإعدادات**  >  **الخصوصية والخدمات** في المستعرض.
 
-2. قم بالتمرير للأسفل وصولا إلى قسم **الخدمات** وتاكد من انه تم تشغيل **التطبيقات غير المرغوب** **فيها.**
+2. قم **بالتمرير** لأسفل وصولا  إلى قسم الخدمات وتأكد من تشغيل Microsoft Defender SmartScreen وحظر التطبيقات **التي** يحتمل أن تكون غير مرغوب فيها.
 
-    في المرة التالية التي يقوم فيها SmartScreen ل Microsoft Defender بالكشف عن بوا ، سيمنعه ويعلمك وفقا لذلك.
+    في المرة التالية Microsoft Defender SmartScreen كشف عن PUA، سيتم حظره وإعلامك وفقا لذلك.
 
-    لمعرفه المزيد ، راجع [كيفيه الحظر مقابل عناوين url المقترنة ب بوا](https://go.microsoft.com/fwlink/?linkid=2133024).
+    لمعرفة المزيد، [راجع كيفية الحظر](https://go.microsoft.com/fwlink/?linkid=2133024)مقابل عناوين URL المقترنة ب PUA .

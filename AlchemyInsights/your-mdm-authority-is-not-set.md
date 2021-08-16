@@ -1,5 +1,5 @@
 ---
-title: لم يتم تعيين تخويل MDM الخاص بك
+title: لم يتم تعيين مرجع MDM
 ms.author: erikje
 author: erikje
 manager: dougeby
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000662"
 - "2636"
-ms.openlocfilehash: 435c8f50c336f6c7c34ff04cf0a3dda20f693cc3
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 6cd7f1f663bf61290acca29251043898a3d4a4bfecab2b3c56eeb3207e8ccf9d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47796275"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54046667"
 ---
-# <a name="your-mdm-authority-is-not-set"></a>لم يتم تعيين تخويل MDM الخاص بك
+# <a name="your-mdm-authority-is-not-set"></a>لم يتم تعيين مرجع MDM
 
-لم يتم تعيين الجهة الموثقة لأداره أجهزه المحمول (MDM) لهذا المستاجر. يجب تعيين تخويل MDM قبل تسجيل الاجهزه وأدارتها عبر Intune MDM. بدون تعيين تخويل MDM ، لن تتمكن من استخدام ميزات الإصدار MDM من Intune. يحدد اعداد تخويل MDM كيفيه أداره الاجهزه.
+لم يتم تعيين هيئة إدارة أجهزة المحمول (MDM) لهذا المستأجر. يجب تعيين مرجع MDM قبل تسجيل الأجهزة وإدارتها من خلال Intune MDM. بدون تعيين مرجع MDM، لن تتمكن من استخدام ميزات MDM الخاصة ب Intune. يحدد إعداد مرجع MDM كيفية إدارة أجهزتك.
 
-الخطوات الموصي بها:
-1. انتقل إلى ريش النظرة العامة حول تسجيل Intune لتعيين تخويل MDM.
-2. اختر الجهة الموثقة المناسبة استنادا إلى احتياجاتك الاداريه. لمزيد من المعلومات ، راجع [تعيين مقاله الجهة المصنعة لأداره الاجهزه المحمولة](https://docs.microsoft.com/intune/mdm-authority-set).
+الخطوات المستحسنة:
+1. انتقل إلى شفرة نظرة عامة حول تسجيل Intune لتعيين مرجع MDM.
+2. اختر السلطة المناسبة استنادا إلى احتياجاتك الإدارية. لمزيد من المعلومات، راجع [تعيين مقالة هيئة إدارة أجهزة المحمول](https://docs.microsoft.com/intune/mdm-authority-set).

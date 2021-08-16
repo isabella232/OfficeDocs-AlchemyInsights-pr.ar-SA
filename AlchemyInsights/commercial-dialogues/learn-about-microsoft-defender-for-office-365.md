@@ -1,5 +1,5 @@
 ---
-title: تعرف على Microsoft Defender ل Office 365
+title: تعرف على Microsoft Defender Office 365
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 9eac6f1b666f7b8031fe3ff7b439c5c5ddf9e998
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: d384b1d0aaba2faca60870dd04727985f9e13cda43687bc6f7bc53da90db4b9e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743375"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54016939"
 ---
-# <a name="learn-about-microsoft-defender-for-office-365"></a>تعرف على Microsoft Defender ل Office 365
+# <a name="learn-about-microsoft-defender-for-office-365"></a>تعرف على Microsoft Defender Office 365
 
-فيما يلي بعض المعلومات حول Microsoft Defender ل Office 365:
+فيما يلي بعض المعلومات حول Microsoft Defender Office 365:
 
-- **ما هو Microsoft Defender ل Office 365؟**  
-    إن Defender ل Office 365 هي خدمة تصفية بريد إلكتروني مستندة إلى السحابة وتساعد على حماية المؤسسات من البرامج الضارة والفيروسات غير المعروفة من خلال توفير حماية قوية لمدة صفرية. ويتضمن ميزات لحماية المؤسسات من الارتباطات الضارة في الوقت الحقيقي.
-- **كيف يمكنني تنشيط Microsoft Defender ل Office 365؟**  
-    المرفقات الآمنة والربط الآمن و مكافحة التصيد الاحتيالي هي جزء من Defender ل Office 365. تتضمن Enterprise E5 و Education A5 و Microsoft 365 Business ميزات Defender المضمنة ل Office 365. تتطلب كل الخطط الأخرى اشتراكا في Office 365 ل Defender. تحتاج إلى تعيين التراخيص المناسبة للمستخدمين لتكون محمية بواسطة Defender ل Office 365. يجب أن يكون *لديك أذونات* المسؤول العام *أو مسؤول الأمان* للوصول إلى Defender ل Office 365. لمعرفة المزيد حول كيفية تطبيق التراخيص بشكل مجمع على المستخدمين، راجع تعيين تراخيص للمستخدمين في [Office 365 للأعمال](https://go.microsoft.com/fwlink/?linkid=2093435).
-- **كيف يمكنني إدارة Defender ل Office 365 أو معرفة المزيد حول ذلك؟**  
+- **ما هو Microsoft Defender Office 365؟**  
+    إن defender for Office 365 هي خدمة تصفية بريد إلكتروني مستندة إلى السحابة وتساعد على حماية المؤسسات من البرامج الضارة والفيروسات غير المعروفة من خلال توفير حماية قوية لمدة صفرية. ويتضمن ميزات لحماية المؤسسات من الارتباطات الضارة في الوقت الحقيقي.
+- **كيف يمكنني تنشيط Microsoft Defender Office 365؟**  
+    خزينة المرفقات خزينة الارتباطات و مكافحة التصيد الاحتيالي هي جزء من Defender for Office 365. تتضمن Enterprise E5 و Education A5 و Microsoft 365 Business المضمنة Defender Office 365 الإضافية. تتطلب كل الخطط الأخرى الحصول على اشتراك في Office 365 جديد. تحتاج إلى تعيين التراخيص المناسبة للمستخدمين لتكون محمية بواسطة Defender Office 365. يجب أن يكون *لديك أذونات* مسؤول الأمان *أو* المسؤول العام للوصول إلى Defender for Office 365. لمعرفة المزيد حول كيفية تطبيق التراخيص بشكل مجمع على المستخدمين، راجع تعيين التراخيص للمستخدمين في Office 365 [للأعمال](https://go.microsoft.com/fwlink/?linkid=2093435).
+- **كيف يمكنني إدارة Defender Office 365 أو معرفة المزيد حول ذلك؟**  
   - انتقل إلى [إعداد](https://go.microsoft.com/fwlink/p/?linkid=2075721).  
   - ضمن **تسجيل الدخول والأمان** ابحث عن زيادة الحماية من **التهديدات** المتقدمة ، ثم حدد [عرض](https://go.microsoft.com/fwlink/?linkid=2109302).

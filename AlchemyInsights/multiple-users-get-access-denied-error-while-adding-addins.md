@@ -1,5 +1,5 @@
 ---
-title: ظهور رسالة الخطا "رفض الوصول" لعده مستخدمين اثناء أضافه وظائف اضافيه في Outlook
+title: يحصل عدة مستخدمين على خطأ رفض الوصول أثناء إضافة الوظائف الإضافية في Outlook
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,30 +13,30 @@ ms.collection: Adm_O365
 ms.custom:
 - "5892"
 - "6700008"
-ms.openlocfilehash: 611a4df473458abc0ab0c65442f2141763f7b868
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5e5f881ad72d2a0f76c8659d6b1044bf6a18464fa8d65c079e44eb1a2afd4431
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47724350"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54065379"
 ---
-# <a name="multiple-users-get-access-denied-error-while-adding-add-ins-in-outlook"></a>ظهور رسالة الخطا "رفض الوصول" لعده مستخدمين اثناء أضافه وظائف اضافيه في Outlook
+# <a name="multiple-users-get-access-denied-error-while-adding-add-ins-in-outlook"></a>يحصل عدة مستخدمين على خطأ رفض الوصول أثناء إضافة الوظائف الإضافية في Outlook
 
-يمكنك تحديد المسؤولين الذين لديهم الأذونات لتثبيت الوظائف الاضافيه وأدارتها ل Outlook. يمكنك أيضا تحديد المستخدمين الذين لديهم الاذن لتثبيت الوظائف الاضافيه وأدارتها لاستخدامها.
+يمكنك تحديد المسؤولين في مؤسستك الذين لديهم الأذونات لتثبيت الوظائف الإضافية وإدارتها Outlook. يمكنك أيضا تحديد المستخدمين في مؤسستك الذين لديهم الإذن لتثبيت الوظائف الإضافية وإدارتها لاستخدامها الخاص.
 
-للحصول علي التفاصيل ، راجع [تحديد المسؤولين والمستخدمين الذين يمكنهم تثبيت الوظائف الاضافيه وأدارتها ل Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins).
+للحصول على التفاصيل، راجع [تحديد المسؤولين](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins)والمستخدمين الذين يمكنهم تثبيت الوظائف الإضافية وإدارتها Outlook .
 
-للتحقق من انك قمت بتعيين الأذونات لمستخدم بنجاح ، استبدل <Role Name> باسم الدور الذي تريد التحقق منه ، ثم قم بتشغيل الأمر التالي في Exchange Online PowerShell:
+للتحقق من أنك قمت بتعيين أذونات لمستخدم بنجاح، استبدل باسم الدور الذي يجب التحقق منه، ثم قم بتشغيل الأمر التالي <Role Name> في Exchange Online PowerShell:
 
-ماناجيمينتروليسيجنمينت-Role " <Role Name> "-جيتيفيكتيفيوسيرس
+Get-ManagementRoleAssignment -Role " <Role Name> " -GetEffectiveUsers
 
-يوضح هذا المثال كيفيه التحقق من الأشخاص الذين قمت بتعيين أذونات لهم لتثبيت الوظائف الاضافيه من متجر Office للمؤسسة.
+يوضح لك هذا المثال كيفية التحقق من الأشخاص الذين قمت بتعيين أذونات لتثبيت الوظائف الإضافية من Office Store الخاص بهذه المؤسسة.
 
 PowerShell
 
--الدور "التطبيقات الخاصة بسوق المؤسسة"-جيتيفيكتيفيوسيرس
+-Role "Org Marketplace Apps" -GetEffectiveUsers
 
-في النتائج ، ماناجيمينتروليسيجنمينت ، راجع الإدخالات في العمود المستخدمون الفعالون.
+في النتائج، Get-ManagementRoleAssignment، راجع الإدخالات في العمود المستخدمون الفعّالون.
 
-للحصول علي معلومات تفصيليه حول المعلمات وبناءها ، راجع [ماناجيمينتروليسيجنمينت](https://docs.microsoft.com/powershell/module/exchange/get-managementroleassignment).
+للحصول على معلومات مفصلة حول بناء الجملة والمعلمات، راجع [Get-ManagementRoleAssignment](https://docs.microsoft.com/powershell/module/exchange/get-managementroleassignment).
  

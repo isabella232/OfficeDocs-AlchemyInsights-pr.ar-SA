@@ -1,5 +1,5 @@
 ---
-title: استخدام مثبت Office غير المتصل
+title: استخدام Office غير المتصل
 ms.author: janellem
 author: janellem
 ms.date: 04/21/2020
@@ -12,16 +12,16 @@ ms.custom:
 - "938"
 - "2000022"
 ms.assetid: 69ed12bf-c47a-4e08-bd52-2a90bec1ee91
-ms.openlocfilehash: 6098ac9ad117264ad2a6d38eb077cec9541954d7
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: cfd666ddb0aa5edb4d0f4fc0a03c6442b201d331da7d2193e7ad8615790c36a6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770178"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54037919"
 ---
-# <a name="use-the-office-offline-installer"></a>استخدام مثبت Office غير المتصل
+# <a name="use-the-office-offline-installer"></a>استخدام Office غير المتصل
 
-يجب ان تكون متصلا بالإنترنت لتنزيل ملفات المثبت ، ولكن بمجرد اجراء ذلك ، يمكنك حينئذ تثبيت Office غير متصل علي الكمبيوتر الشخصي باستخدام أداه نشر Office (ODT)
+يجب أن تكون متصلا بالإنترنت لتنزيل ملفات المثبت، ولكن بمجرد أن يتم ذلك، يمكنك بعد ذلك تثبيت Office دون اتصال على جهاز الكمبيوتر الشخصي بما يلائمك باستخدام أداة نشر Office (ODT)
 
-تم تصميم ODT لبيئات enterprise ويتم تشغيله من سطر الأوامر ، بحيث تكون الخطوات أكثر تعقيدا ، ولكنه سيستمر في العمل علي التثبيت علي جهاز واحد. راجع [استخدام مثبت Office غير المتصل](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).
+تم تصميم ODT لبيئات المؤسسة ويعمل من سطر الأوامر، وبالتالي تكون الخطوات أكثر تعقيدا-- ولكنها ستعمل مع ذلك على التثبيت على جهاز واحد. راجع [استخدام Office غير المتصل](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA).
   
