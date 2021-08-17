@@ -1,5 +1,5 @@
 ---
-title: السماح للمستخدمين المجهولين أو منعهم من الانضمام إلى اجتماعات Teams
+title: السماح للمستخدمين المجهولين أو منعهم من الانضمام Teams الاجتماعات
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003005"
 - "5759"
-ms.openlocfilehash: 04813fc092ef58a533164a4e22f4ed9ee959cf9d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a867d9b8da34b3c78add5bad6f30c45653adc965a061ed235429a7d7447cffd6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51824746"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54106932"
 ---
-# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>السماح للمستخدمين المجهولين أو منعهم من الانضمام إلى اجتماعات Teams
+# <a name="allow-or-prevent-anonymous-users-from-joining-teams-meetings"></a>السماح للمستخدمين المجهولين أو منعهم من الانضمام Teams الاجتماعات
 
-يمكنك التحكم في إعدادات الانضمام إلى الاجتماعات المجهولة في مركز إدارة Teams.
+يمكنك التحكم في إعدادات الانضمام إلى الاجتماع المجهولة في Teams الإدارة.
 
 **قد يستغرق هذا التغيير ما يصل إلى 24 ساعة حتى يتم التنفيذ.**
 
-1.  الانتقال إلى [مركز إدارة Teams](https://admin.teams.microsoft.com)
+1.  الانتقال إلى مركز [إدارة](https://admin.teams.microsoft.com) Teams
 2.  في التنقل الأيسر، انتقل إلى **إعدادات**   >   **اجتماع الاجتماعات**.
 3.  ضمن  **المشاركون**، قم تشغيل  **يمكن للمستخدمين المجهولين الانضمام إلى اجتماع**.

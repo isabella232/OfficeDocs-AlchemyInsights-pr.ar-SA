@@ -14,12 +14,12 @@ ms.custom:
 - "833"
 - "2000020"
 ms.assetid: 92f0ef7c-4a39-4885-994d-473a4d13accd
-ms.openlocfilehash: 5f9c9ae86f0f80a209444bb161e763a2fbceddeb
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a5adca5950e2db34b88c77f1b635c3f273eff4e45eea7312ed2100b8d6f7f3c7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835330"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050213"
 ---
 # <a name="solutions-for-error-30068-39"></a>حلول الخطأ 30068-39
 
@@ -31,10 +31,10 @@ ms.locfileid: "51835330"
 
 - قم بتنزيل وتثبيت [مساعد الإصلاح والدعم](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. عند فتحه، من إلغاء تثبيت منتجات **Office،** حدد الإصدار الذي تريد إلغاء تثبيته وحدد **التالي.**
+1. عند فتحه، من إلغاء تثبيت Office **حدد** الإصدار الذي تريد إلغاء تثبيته وحدد **التالي**.
 
 2. استمر في العمل عبر الشاشات وقم بإعادة تشغيل الكمبيوتر عندما تتم مطالبتك بذلك.
 
-    بعد إعادة التشغيل، يتم إعادة فتح مساعد الإصلاح والدعم تلقائيا لإكمال عملية إلغاء التثبيت.
+    بعد إعادة التشغيل، مساعد الإصلاح والدعم إعادة فتح تلقائيا لإكمال عملية إلغاء التثبيت.
 
-3. اتبع المطالبات المتبقية، [ثم اعاد تثبيت Office](https://portal.office.com/OLS/MySoftware.aspx) أو أغلق المساعد.
+3. اتبع المطالبات المتبقية، ثم Office [إعادة](https://portal.office.com/OLS/MySoftware.aspx) تثبيت المساعد أو إغلاقه.

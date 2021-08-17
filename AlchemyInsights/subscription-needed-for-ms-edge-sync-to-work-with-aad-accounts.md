@@ -1,5 +1,5 @@
 ---
-title: الاشتراك المطلوب لمزامنة Microsoft Edge للعمل مع حسابات Azure Active directory
+title: الاشتراك المطلوب لمزامنة Microsoft Edge للعمل مع حسابات Azure Active Directory
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,24 +13,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004022"
 - "7088"
-ms.openlocfilehash: ee2369c02896b67eb7c7f448a38fa862de545c73
-ms.sourcegitcommit: c069f1b53567ad14711c423740f120439a312a60
+ms.openlocfilehash: 21e4db366f2650bdd4902b2877ace3c1b3a09be8be215c0c27a4faaf4deef8d4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49573287"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049592"
 ---
-# <a name="subscription-needed-for-microsoft-edge-sync-to-work-with-azure-active-directory-accounts"></a>الاشتراك المطلوب لمزامنة Microsoft Edge للعمل مع حسابات Azure Active directory
+# <a name="subscription-needed-for-microsoft-edge-sync-to-work-with-azure-active-directory-accounts"></a>الاشتراك المطلوب لمزامنة Microsoft Edge للعمل مع حسابات Azure Active Directory
 
-ستعمل المزامنة مع اي من الاشتراكات التالية:
+ستعمل المزامنة مع أي من الاشتراكات التالية:
 
-1. Azure Active directory Premium (P1 و P2)
+1. Azure Active Directory Premium (P1 و P2)
 1. Microsoft 365 Business Premium
-1. Office 365 E3 والإصدارات الأحدث
-1. حماية البيانات في Azure (P1 و P2)
-1. كل الاشتراكات التعليمية في Office 365:
-    - تطبيقات Microsoft للطلاب أو هيئه التدريس
-    - Exchange Online للطلاب أو هيئه التدريس
-    - Office 365 A1 أو إصدار أحدث
-    - Microsoft 365 A1 أو إصدار أحدث
-    - حماية البيانات في Azure P1 أو P2 ، للطلاب أو هيئه التدريس
+1. Office 365 E3 والأعلى
+1. Azure Information Protection (P1 و P2)
+1. كل Office 365 Education اشتراكات:
+    - تطبيقات Microsoft للطلاب أو هيئة التدريس
+    - Exchange Online للطلاب أو هيئة التدريس
+    - Office 365 A1 أو أعلى
+    - Microsoft 365 A1 أو أعلى
+    - Azure Information Protection P1 أو P2، للطلاب أو هيئة التدريس

@@ -1,5 +1,5 @@
 ---
-title: مشاكل في عنوان URL ل SSO
+title: مشاكل عنوان URL SSO
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004357"
 - "7812"
-ms.openlocfilehash: 7ab8c9f64e376218ca6c76056952f8f835f699ac
-ms.sourcegitcommit: 688642f4ebc0f1c335e954e780bb9ec8893e2f3f
+ms.openlocfilehash: 2ebad785eb966e822d7dfedbaaa0e37c6d6acb2e4aff12e1c4f85c5cc481bd65
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "49916648"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54049961"
 ---
-# <a name="sso-url-issues"></a>مشاكل في عنوان URL ل SSO
+# <a name="sso-url-issues"></a>مشاكل عنوان URL SSO
 
-1. [المستخدم-إنشاء عنوان url ل SSO](https://docs.microsoft.com/rest/api/apimanagement/2019-12-01/User/GenerateSsoUrl) -استرداد عنوان url لأعاده التوجيه الذي يحتوي علي رمز مصادقه للتوقيع علي مستخدم معين في مدخل المطور.
-2. يمكنك الرجوع إلى [المشاكل عند النقر فوق ارتباط تشعبي إلى موقع SSO علي ويب في مستند](https://docs.microsoft.com/office/troubleshoot/office-suite-issues/click-hyperlink-to-sso-website) إذا تمت أعاده توجيهك إلى صفحه تسجيل الدخول أو إلى صفحه خطا ، أو إذا تمت مطالبتك بمعلومات المصادقة عند النقر فوق ارتباط تشعبي إلى موقع ويب SSO في مستند Office.
-3. يمكنك الرجوع إلى [هذه المقالة](https://docs.microsoft.com/azure/active-directory/develop/reply-url) للحصول علي قيود وقيود أعاده توجيه URI (URL الرد).
+1. [المستخدم - إنشاء عنوان URL SSO](https://docs.microsoft.com/rest/api/apimanagement/2019-12-01/User/GenerateSsoUrl) - يسترد عنوان URL لإعادة التوجيه يحتوي على رمز مصادقة مميز لتوقيع مستخدم معين في مدخل المطور.
+2. يمكنك الرجوع إلى المشاكل عند النقر فوق ارتباط تشعبي إلى موقع [SSO على](https://docs.microsoft.com/office/troubleshoot/office-suite-issues/click-hyperlink-to-sso-website) ويب في مستند إذا تمت إعادة توجيهك إلى صفحة تسجيل الدخول أو صفحة خطأ، أو إذا تمت مطالبتك بمعلومات المصادقة عند النقر فوق ارتباط تشعبي إلى موقع SSO على ويب في مستند Office.
+3. راجع [هذه المقالة](https://docs.microsoft.com/azure/active-directory/develop/reply-url) للحصول على قائمة بالقيود والقيود الخاصة ب URI (عنوان URL للرد).
