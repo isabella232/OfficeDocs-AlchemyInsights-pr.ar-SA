@@ -1,5 +1,5 @@
 ---
-title: 9001220 مداتب الاستعلامات المشتركة المتقدمة بحث
+title: 9001220 mdatp المتقدمة للاستعلامات المشتركة للصيد
 ms.author: dolmont
 author: DulceMontemayor
 manager: dansimp
@@ -14,15 +14,15 @@ ms.custom:
 - "3201"
 - "9001220"
 ms.assetid: ''
-ms.openlocfilehash: 4f04b090208d41131fd6abc763b249f0f713e63a
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: 7f535f5aaa42071c81cbae5df51efba1a28fe070c13ef1bf21a78b23c10f6bbb
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48299662"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042107"
 ---
-# <a name="sharing-advanced-hunting-queries"></a>مشاركه استعلامات بحث المتقدمة
+# <a name="sharing-advanced-hunting-queries"></a>مشاركة استعلامات البحث المتقدمة
 
-يمكن مشاركه استعلامات بحث المتقدمة بين المستخدمين في المؤسسة نفسها. يمكنك أيضا العثور علي الاستعلامات المشتركة بشكل عام علي GitHub. تتيح لك هذه الاستعلامات بورسوي السيناريوهات الخاصة بتهديدات معينه بسرعة من دون الحاجة إلى كتابه الاستعلامات من البداية.
+يمكن مشاركة استعلامات الصيد المتقدمة بين المستخدمين في المؤسسة نفسها. يمكنك أيضا العثور على الاستعلامات المشتركة بشكل عام على GitHub. تسمح لك هذه الاستعلامات بمتابعة سيناريوهات محددة لصيد التهديدات بسرعة دون الحاجة إلى كتابة الاستعلامات من البداية.
   
-للحصول علي التفاصيل ، راجع [استخدام الاستعلامات المشتركة في بحث المتقدمة](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-shared-queries).
+للحصول على التفاصيل، راجع [استخدام الاستعلامات المشتركة في البحث المتقدم](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-atp/advanced-hunting-shared-queries).
