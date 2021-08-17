@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000766"
 - "3183"
-ms.openlocfilehash: d773d371759b857044fc61f2b8f133d88f32e9aa
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 2aba4611863c8d3617fa682219c298ed00949739f5425ccd2b8f6bba18b28a1a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828463"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54108327"
 ---
 # <a name="setup-audio-conferencing-for-teams"></a>إعداد المؤتمرات الصوتية لـ Teams
 
@@ -43,4 +43,4 @@ ms.locfileid: "51828463"
 
 7. حدد المستخدم المطلوب وتحقق من أنه يتوفر لدى المستخدم **رقم المكالمات الافتراضي**.
 
-لمزيد من المعلومات، يمكنك الرجوع إلى خطط الاتصال في Microsoft Teams ل [Microsoft 365](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) أو الاتصال بفريق الفوترة التجارية من Microsoft للحصول على المساعدة في الأسئلة المتعلقة بالترخيص.
+لمزيد من المعلومات، [راجع](https://docs.microsoft.com/microsoftteams/calling-plans-for-office-365) Microsoft Teams الاتصال بخطط Microsoft 365 أو اتصل بفريق الفوترة التجارية من Microsoft للحصول على المساعدة في الأسئلة المتعلقة بالترخيص.

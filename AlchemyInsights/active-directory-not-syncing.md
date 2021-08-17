@@ -14,12 +14,12 @@ ms.custom:
 - "1300023"
 - "3754"
 - "4531"
-ms.openlocfilehash: 4bfbe6b2dd9a2112f0cb7af0d6e7a46693bc70680895fd674ddb0332b7071797
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d0ef27e7c03eb8bcd9de74c58a5e0398d8892a6eb0ab50944b3c2201247fa0b8
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53937088"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889205"
 ---
 # <a name="active-directory-not-syncing"></a>لا تتم مزامنة Active Directory
 
@@ -29,8 +29,8 @@ ms.locfileid: "53937088"
 
 1. [قم بتنزيل أحدث إصدار من AADConnect](https://go.microsoft.com/fwlink/?LinkId=615771).
 
-2. [اتبع إرشادات التثبيت السريع.](/azure/active-directory/hybrid/how-to-connect-install-express)
+2. [اتبع إرشادات التثبيت السريع.](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-express)
 
-يجب تثبيت Azure AD Connect على نظام التشغيل Windows Server 2012 أو أحدث. يجب أن يكون هذا الخادم مشتركاً وقد يكون عبارة عن وحدة تحكم بالمجال أو خادم عضو. للحصول على قائمة كاملة بمتطلبات Azure AD الاتصال والمتطلبات الأساسية، راجع المتطلبات الأساسية ل [Azure AD الاتصال](/azure/active-directory/hybrid/how-to-connect-install-prerequisites).
+يجب تثبيت Azure AD Connect على نظام التشغيل Windows Server 2012 أو أحدث. يجب أن يكون هذا الخادم مشتركاً وقد يكون عبارة عن وحدة تحكم بالمجال أو خادم عضو. للحصول على قائمة كاملة بمتطلبات Azure AD الاتصال والمتطلبات الأساسية، راجع المتطلبات الأساسية ل [Azure AD الاتصال](https://docs.microsoft.com/azure/active-directory/hybrid/how-to-connect-install-prerequisites).
 
-لمزيد من المعلومات حول حسابات خدمة AADConnect، راجع [Azure AD الاتصال: الحسابات والأذونات](/azure/active-directory/hybrid/reference-connect-accounts-permissions).
+لمزيد من المعلومات حول حسابات خدمة AADConnect، راجع [Azure AD الاتصال: الحسابات والأذونات](https://docs.microsoft.com/azure/active-directory/hybrid/reference-connect-accounts-permissions).

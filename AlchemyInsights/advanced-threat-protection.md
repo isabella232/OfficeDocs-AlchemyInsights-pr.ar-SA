@@ -11,23 +11,27 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1036
 ms.assetid: ''
-ms.openlocfilehash: 2518c831277bc1cea0b339fc62fa456b7decbf5d9e5b8c2bb2733fe47c969a81
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0aa2d25952587bdc5e6294870b262116bb7170b38054f91ca1807ebb940ac031
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53952200"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888945"
 ---
 # <a name="microsoft-defender-for-office-365"></a>Microsoft Defender Office 365
 
-- خزينة المرفقات خزينة الارتباطات و مكافحة التصيد الاحتيالي هي جزء من Microsoft Defender Office 365. تتضمن كل من Enterprise E5 و Education A5 Microsoft 365 Business Premium Microsoft Defender Office 365. تتطلب كل الخطط الأخرى إضافة Microsoft Defender Office 365 اشتراك.
+- خزينة المرفقات خزينة الارتباطات و مكافحة التصيد الاحتيالي هي جزء من Microsoft Defender Office 365. تتضمن كل من Enterprise E5 و Education A5 Microsoft 365 Business Premium Microsoft Defender Office 365. تتطلب كل الخطط الأخرى إضافة Microsoft Defender Office 365 الاشتراك.
 
-- تحتاج إلى تعيين التراخيص المناسبة لحماية المستخدمين بواسطة Microsoft Defender Office 365. راجع [إضافة مستخدمين وتعيين تراخيص](/microsoft-365/admin/add-users/add-users) في الوقت نفسه للحصول على إرشادات حول كيفية تطبيق التراخيص المجمعة على المستخدمين.
+- تحتاج إلى تعيين التراخيص المناسبة لحماية المستخدمين بواسطة Microsoft Defender Office 365. راجع [إضافة مستخدمين وتعيين تراخيص](https://docs.microsoft.com/microsoft-365/admin/add-users/add-users) في الوقت نفسه للحصول على إرشادات حول كيفية تطبيق التراخيص المجمعة على المستخدمين.
 
-- يمكن للمسؤولين العامين أو مسؤولي الأمان الوصول إلى Microsoft Defender Office 365 في مركز التوافق & الأمان في **نهج إدارة** \> المخاطر.
+- يمكن للمسؤولين العامين أو مسؤولي الأمان الوصول إلى Microsoft Defender لمميزات Office 365 في مدخل Microsoft 365 Defender في قسم التعاون في البريد الإلكتروني **& منهج** & قواعد \>  \> المخاطر.
 
-- خزينة يمكن تحديد خزينة الارتباطات والمرفقات في مؤسستك بكاملها أو مجالات معينة أو مجموعات أصغر من المستخدمين.
+- خزينة يمكن تحديد نطاق خزينة الارتباطات إلى مجالات معينة أو أعضاء مجموعة أو مستخدمين فرديين. يمكنك أيضا تحديد استثناءات خزينة المرفقات خزينة الارتباطات المستندة إلى المجال أو عضوية المجموعة أو المستخدمين الفرديين.
 
-- لا يوجد نهج افتراضي خزينة المرفق. يجب إنشاء [نهج وتطبيقه](/microsoft-365/security/office-365-security/set-up-atp-safe-attachments-policies) على المستخدمين.
+- لا يوجد نهج خزينة المرفقات الذي يحمي رسائل البريد الإلكتروني. تحتاج إلى [إنشاء نهج لحماية](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-attachments-policies) خزينة المرفقات في البريد الإلكتروني.
 
-- يوجد نهج ارتباطات خزينة الافتراضي الذي ينطبق على جميع الأشخاص في مؤسستك. لتحرير هذا النهج أو لإنشاء نهج مخصصة، راجع إعداد نهج الارتباطات خزينة [في Microsoft Defender Office 365](/microsoft-365/security/office-365-security/set-up-atp-safe-links-policies).
+  خزينة يتم تمكين SharePoint OneDrive والمرفقات Microsoft Teams بشكل عام، ولا تتطلب خزينة المرفقات. لمزيد من المعلومات، راجع خزينة [المرفقات SharePoint](https://docs.microsoft.com/microsoft-365/security/office-365-security/mdo-for-spo-odb-and-teams)OneDrive Microsoft Teams .
+
+- لا يوجد نهج ارتباطات خزينة الافتراضي الذي يحمي رسائل البريد الإلكتروني أو Microsoft Teams. تحتاج إلى [إنشاء نهج لحماية الارتباطات](https://docs.microsoft.com/microsoft-365/security/office-365-security/set-up-safe-links-policies) خزينة في البريد الإلكتروني Teams.
+
+  خزينة يتم تطبيق حماية الارتباطات لتطبيقات Office 365 على جميع المستخدمين في المؤسسة المرخص لهم ل Defender ل Office 365، بغض النظر عما إذا كان المستخدمون مضمنين في خزينة الارتباطات النشطة أم لا. لمزيد من المعلومات، [راجع خزينة الارتباطات لتطبيقات Office 365 .](https://docs.microsoft.com/microsoft-365/security/office-365-security/safe-links#safe-links-settings-for-office-365-apps)

@@ -1,5 +1,5 @@
 ---
-title: تعرف علي كيفيه دعم Microsoft Edge لحماية المعلومات في Windows (WIP)
+title: تعرف على Microsoft Edge دعم Windows المعلومات (WIP)
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003933"
 - "6988"
-ms.openlocfilehash: 51fec3423e938045d2324528e7130e933c6269f9
-ms.sourcegitcommit: 3802f2f4db4f53a408a360187db67f2296448c21
+ms.openlocfilehash: d66e7e95e3dc8e7df02b01c29bdea89895defb93a1cc0567dabc3914a8af22f6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49676732"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54054262"
 ---
-# <a name="learn-how-microsoft-edge-supports-windows-information-protection-wip"></a>تعرف علي كيفيه دعم Microsoft Edge لحماية المعلومات في Windows (WIP)
+# <a name="learn-how-microsoft-edge-supports-windows-information-protection-wip"></a>تعرف على Microsoft Edge دعم Windows المعلومات (WIP)
 
-بمجرد زيادة عدد العمال البعيدين ، فان عدد الانشطه الشخصية والعمل أوككورينج علي أجهزه الشركة. يؤدي ذلك إلى زيادة المخاطر التي قد يشارك فيها بيانات الشركة خارج مكان العمل. لتقليل هذه المخاطر ، يقوم Microsoft Edge (الإصدار 81 أو إصدار أحدث) بدعم حماية المعلومات الخاصة بنظام التشغيل Windows (WIP): ميزه تساعدك علي حماية بيانات المؤسسة من الديسكلوسوريس غير المخول وغير المقصود.
+مع زيادة عدد العاملين عن بعد، يزداد أيضا عدد الأنشطة الشخصية وأنشطة العمل التي تحدث على أجهزة الشركة. وهذا بدوره يزيد من خطر مشاركة بيانات الشركة خارج مكان العمل. للحد من هذا الخطر، Microsoft Edge (الإصدار 81 أو الإصدارات الأحدث) Windows حماية المعلومات (WIP): ميزة Windows-10 التي تساعد على حماية بيانات المؤسسة من عمليات الكشف غير المصرح بها والعارضة.

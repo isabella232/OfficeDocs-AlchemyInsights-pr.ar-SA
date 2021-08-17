@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001421"
 - "3495"
-ms.openlocfilehash: b32cb8956c66a61090531c137532a2e93819b10b1dee3aa94a429e4d94844451
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7bcf7ec2d65097a9adf6ec0049d68ee2af12b8434859131004a7c62106925e05
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53937664"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889241"
 ---
 # <a name="activating-microsoft-365-apps"></a>تنشيط تطبيقات Microsoft 365
 
@@ -29,7 +29,7 @@ ms.locfileid: "53937664"
 
 - [تنشيط Office على جهاز Mac](https://support.office.com/article/activate-office-for-mac-7f6646b1-bb14-422a-9ad4-a53410fcefb2)
 
-**ملاحظة:**  تأكد من وجود اشتراك Office 365 أو Microsoft 365 يتضمن [](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)Office العميل ، على سبيل المثال، Microsoft 365 Business Standard أو Microsoft 365 Apps for business أو Microsoft 365 Apps for enterprise. بالإضافة إلى ذلك، تأكد من تعيين ترخيص لحساب المستخدم الذي تستخدمه Office تسجيل الدخول إلى [تطبيقاتك.](/microsoft-365/admin/manage/assign-licenses-to-users)
+**ملاحظة:**  تأكد من وجود اشتراك Office 365 أو Microsoft 365 يتضمن [](https://support.office.com/article/28cbc8cf-1332-4f04-9123-9b660abb629e)Office العميل ، على سبيل المثال، Microsoft 365 Business Standard أو Microsoft 365 Apps for business أو Microsoft 365 Apps for enterprise. بالإضافة إلى ذلك، تأكد من تعيين ترخيص لحساب المستخدم الذي تستخدمه في تسجيل الدخول إلى Office [التطبيقات.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 
 لإصلاح مشاكل تنشيط Office، اطلع على ما يلي:
 
@@ -38,7 +38,7 @@ ms.locfileid: "53937664"
 
 - [الخطوات التي يجب اتباعها إذا لم تتمكن من تثبيت Office for Mac أو تنشيطه](https://support.office.com/article/what-to-try-if-you-can-t-install-or-activate-office-for-mac-5efba2b4-b1e6-4e5f-bf3c-6ab945d03dea)
 
-**تلميح** على Windows الأجهزة، يمكننا تشخيص العديد من مشاكل تسجيل الدخول الشائعة Office تلقائيا. قم بتنزيل **[Microsoft مساعد الإصلاح والدعم](https://aka.ms/SaRA-OfficeSignInScenario)** لاستخدام الأداة التلقائية.
+**تلميح** على Windows الأجهزة، يمكننا تشخيص العديد من المشاكل الشائعة Office تسجيل الدخول وإصلاحها تلقائيا. قم بتنزيل **[Microsoft مساعد الإصلاح والدعم](https://aka.ms/SaRA-OfficeSignInScenario)** لاستخدام الأداة التلقائية.
 
 إذا تعذر عليك تسجيل الدخول إلى Microsoft 365 التطبيقات، فاتبع الخطوات أدناه:
 
@@ -48,6 +48,6 @@ ms.locfileid: "53937664"
 
 3. من خلال **إعدادات Windows > الحسابات > الوصول إلى العمل أو المؤسسة التعليمية**، قم بإلغاء توصيل حسابات العمل القديمة وغير المستخدمة
 
-4. [قم بإعادة تعيين حالة تنشيط Office](/office365/troubleshoot/activation/reset-office-365-proplus-activation-state) ثم [سجّل الدخول إلى تطبيقات](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426) Office باستخدام الحساب الجديد.
+4. [قم بإعادة تعيين حالة تنشيط Office](https://docs.microsoft.com/office365/troubleshoot/activation/reset-office-365-proplus-activation-state) ثم [سجّل الدخول إلى تطبيقات](https://support.office.com/article/sign-in-to-office-b9582171-fd1f-4284-9846-bdd72bb28426) Office باستخدام الحساب الجديد.
 
 للحصول على الإجراءات الإضافية لاستكشاف الأخطاء وإصلاحها، اطلع على [ظهور إشعار للاشتراك عند فتح تطبيق Office 365](https://support.office.com/article/a-subscription-notice-appears-when-i-open-an-office-365-application-4cabe32c-f594-4c0e-9191-3d3ade10cceb).

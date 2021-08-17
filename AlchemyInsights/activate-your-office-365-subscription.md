@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "1500028"
 - "4744"
-ms.openlocfilehash: be0086b8c2e1907d28e81227b82ade09fc46c1ed4749a50ac0c776eb431ece56
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 05c6df5290e079e1d50d43c730f5e76eb04ec49eebf596f5835e4f8939e968a4
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53937736"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889301"
 ---
 # <a name="activate-your-subscription"></a>تنشيط الاشتراك
 
 **تنشيط اشتراك**
 
-- لمنح المستخدمين إمكانية الوصول إلى خدمة ما، قم بتعيين ترخيص لهم. لمعرفة كيفية القيام بذلك، راجع [تعيين تراخيص للمستخدمين](/microsoft-365/admin/manage/assign-licenses-to-users).
+- لمنح المستخدمين إمكانية الوصول إلى خدمة ما، قم بتعيين ترخيص لهم. لمعرفة كيفية القيام بذلك، راجع [تعيين تراخيص للمستخدمين](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 - إذا كان لديك ترخيص تم تعيينه بالفعل، يمكنك العثور على التطبيقات التي يمكنك تنزيلها من [صفحة حسابي](https://portal.office.com/account/#installs). تعرض هذه الصفحة قائمة بالتطبيقات المتوفرة للتنزيل استناداً إلى التراخيص المعينة.
-- إذا قمت بالفعل بتنزيل Office، فقد تحتاج إلى تسجيل الدخول إلى التطبيقات باستخدام حساب العمل أو المدرسة. يمكنك القيام بذلك في أي تطبيق Office (Word أو Excel أو غير ذلك) عن طريق تحديد ملف > **الحساب** (بالقرب من الأسفل). ضمن معلومات المستخدم، حدد **تبديل الحساب**. للحصول على مزيد من المعلومات، اطلع على [تثبيت تطبيقات Office](/microsoft-365/admin/setup/install-applications).
+- إذا قمت بالفعل بتنزيل Office التطبيقات، فقد تحتاج إلى تسجيل الدخول إلى التطبيقات باستخدام حساب العمل أو المدرسة. يمكنك القيام بذلك في أي تطبيق Office (Word أو Excel أو غير ذلك) عن طريق تحديد ملف > **الحساب** (بالقرب من الأسفل). ضمن معلومات المستخدم، حدد **تبديل الحساب**. للحصول على مزيد من المعلومات، اطلع على [تثبيت تطبيقات Office](https://docs.microsoft.com/microsoft-365/admin/setup/install-applications).
 
 **إعادة تنشيط اشتراك**
 
@@ -36,9 +36,9 @@ ms.locfileid: "53937736"
 3. في الجزء **إعادة تنشيط هذا** الاشتراك، حدد طريقة دفع من القائمة المنسدل، أو حدد إضافة طريقة **دفع**.
 4. حدد **حفظ**.
 
-للحصول على مزيد من المعلومات، اطلع على [إعادة تنشيط اشتراكك](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+للحصول على مزيد من المعلومات، اطلع على [إعادة تنشيط اشتراكك](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **تنشيط اشتراك جديد باستخدام مفتاح منتج**
 
 - لتنشيط اشتراك Microsoft 365 جديد باستخدام مفتاح المنتج، راجع مكان إدخال مفتاح Office [المنتج.](https://support.office.com/article/where-to-enter-your-office-product-key-0a82e5ae-739e-4b92-a6f4-2ec780c185db)
-- أدخل مفتاح منتج Microsoft 365 الخاص بك واتبع المطالبات لتنشيط الاشتراك. إذا كنت تواجه مشاكل أثناء التنشيط، فاطلع على قائمة [أخطاء مفتاح المنتج الشائعة وحلولها](/microsoft-365/commerce/product-key-errors-and-solutions) هذه.
+- أدخل مفتاح منتج Microsoft 365 الخاص بك واتبع المطالبات لتنشيط الاشتراك. إذا كنت تواجه مشاكل أثناء التنشيط، فاطلع على قائمة [أخطاء مفتاح المنتج الشائعة وحلولها](https://docs.microsoft.com/microsoft-365/commerce/product-key-errors-and-solutions) هذه.
