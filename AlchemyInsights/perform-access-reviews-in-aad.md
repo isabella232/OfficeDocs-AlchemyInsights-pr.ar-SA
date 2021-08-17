@@ -1,5 +1,5 @@
 ---
-title: اجراء مراجعات الوصول في Azure Active directory
+title: إجراء مراجعات الوصول في Azure Active Directory
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003889"
 - "6943"
-ms.openlocfilehash: a1582345ae33f217d2dc60f53bf05859f04d0f2b
-ms.sourcegitcommit: c033720921cb9a06b9560eedef4f1935e69a846b
+ms.openlocfilehash: f58f35d6e66952347d880a5c443bb47e9deab2798410b5bb32895667572f1f58
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49680642"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54086763"
 ---
-# <a name="perform-access-reviews-in-azure-active-directory"></a>اجراء مراجعات الوصول في Azure Active directory
+# <a name="perform-access-reviews-in-azure-active-directory"></a>إجراء مراجعات الوصول في Azure Active Directory
 
-بإمكان المراجعين المحددين اجراء مراجعات Azure Active directory للوصول إلى عضويات المجموعات والوصول إلى التطبيقات وتعيينات الأدوار. تساعد هذه المراجعات علي تقليل المخاطر المتعلقة بالأمان التي قد تواجهها مؤسستك عندما يتوفر لدي المستخدمين حق الوصول بشكل أكبر مما يحتاجونه. يمكنك القيام بمراجعه الوصول باستخدام [التطبيقات](https://go.microsoft.com/fwlink/?linkid=2134605) أو [الوصول الخاص بي](https://go.microsoft.com/fwlink/?linkid=2134505).
+يمكن للمراجعين المعينين إجراء مراجعات الوصول إلى Azure Active Directory لعضوية المجموعة والوصول إلى التطبيقات وواجبات الدور. تساعد هذه المراجعات على تقليل مخاطر الأمان التي قد تواجهها مؤسستك عندما يكون لدى المستخدمين إمكانية وصول أكثر مما يحتاجون إليه. يمكنك إجراء مراجعات الوصول باستخدام [My Apps](https://go.microsoft.com/fwlink/?linkid=2134605) أو [My Access](https://go.microsoft.com/fwlink/?linkid=2134505).

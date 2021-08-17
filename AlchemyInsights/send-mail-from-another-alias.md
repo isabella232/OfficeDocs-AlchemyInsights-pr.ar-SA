@@ -14,12 +14,12 @@ ms.custom:
 - "703"
 - "1"
 ms.assetid: aa1bcbea-c09e-40f1-81ad-e86ad567ae16
-ms.openlocfilehash: 704d5f5bb251c02169f155635c48633ec55848936b4fd211a3b2978811a45dc7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: fd0981edd96aee4daa7eaf39c3c1e069911ce7d1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54052481"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58310846"
 ---
 # <a name="send-email-from-an-alias-or-secondary-address"></a>إرسال بريد إلكتروني من اسم مستعار أو عنوان ثانوي
 
@@ -27,4 +27,4 @@ Microsoft 365 حاليا إرسال البريد الإلكتروني من اس�
   
 - [الانتقال إلى هنا لإنشاء علبة بريد مشتركة](https://portal.office.com/AdminPortal/Home#/AssistedGuide/addemailoptions)
 
-يمكنك أيضا قراءة المقالة إنشاء [علبة بريد](/microsoft-365/admin/email/create-a-shared-mailbox) مشتركة التي ستخبرك بكل ما تحتاج إلى معرفته حول علب البريد المشتركة، بما في ذلك كيفية استخدامها.
+يمكنك أيضا قراءة المقالة [إنشاء علبة](https://docs.microsoft.com/microsoft-365/admin/email/create-a-shared-mailbox) بريد مشتركة التي ستخبرك بكل ما تحتاج إلى معرفته حول علب البريد المشتركة، بما في ذلك كيفية استخدامها.

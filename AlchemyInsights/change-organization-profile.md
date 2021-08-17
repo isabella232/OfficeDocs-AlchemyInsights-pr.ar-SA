@@ -15,17 +15,17 @@ ms.custom:
 - commerce_billing
 - "9000175"
 - "1714"
-ms.openlocfilehash: 08a19a57c5366a1e45a5dc24d3572dce0e9ec51694f4671bd0881218f5cd4b89
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: ac180a3af521d42013849a6d8cab8fc3dc7d8640c584021cfc5618a688f73b59
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499679"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890193"
 ---
 # <a name="change-organization-profile"></a>تغيير ملف تعريف المؤسسة
 
-يمكنك تغيير اسم الشركة وعنوانها ومعلومات الاتصال التقنية والمزيد في **مركز** الإدارة على علامة التبويب الإعدادات  >  **المؤسسة الإعدادات** ملف تعريف  >  [المؤسسة.](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation)
+يمكنك تغيير اسم الشركة وعنوانها ومعلومات الاتصال التقنية والمزيد في مركز الإدارة على علامة التبويب الإعدادات  >  **المؤسسة الإعدادات** ملف تعريف  >  [المؤسسة.](https://admin.microsoft.com/AdminPortal/Home#/Settings/OrganizationProfile/:/Settings/L1/OrganizationInformation)
 
 تأكد من تعبئة كل الحقول المطلوبة التي تم وضع علامة * عليها لتمكين حفظ التغييرات.
 
-راجع المزيد من المعلومات حول تغييرات العنوان [أو عنوان الفوترة](/microsoft-365/admin/manage/change-address-contact-and-more).
+راجع المزيد من المعلومات حول تغييرات العنوان [أو عنوان الفوترة](https://docs.microsoft.com/microsoft-365/admin/manage/change-address-contact-and-more).

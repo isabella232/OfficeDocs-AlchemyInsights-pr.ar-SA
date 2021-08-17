@@ -1,5 +1,5 @@
 ---
-title: معلومات حول الوظائف الاضافيه ل Outlook العامة
+title: معلومات Outlook الوظائف الإضافية العامة
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003117"
 - "5902"
-ms.openlocfilehash: 308c53545a73b5c2ea9052e04a29773b586dc86b
-ms.sourcegitcommit: 097a8cabe0d2280af489159789988a0ab532dabb
+ms.openlocfilehash: 790de41737c2915969a7a5a2300213559f08b2ae2f9c3e900b96e0e25fb9c06a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "49676803"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54116931"
 ---
-# <a name="general-outlook-add-ins-information"></a>معلومات حول الوظائف الاضافيه ل Outlook العامة
+# <a name="general-outlook-add-ins-information"></a>معلومات Outlook الوظائف الإضافية العامة
 
-قم بزيارة موقع ويب هذا لكل موارد الوثائق الخاصة بك فيما يتعلق [بإنشاء وظائف Outlook الاضافيه](https://docs.microsoft.com/office/dev/add-ins/outlook/).
+تفضل بزيارة موقع ويب هذا للحصول على موارد الوثائق الخاصة بك المتعلقة [Outlook الوظائف الإضافية.](https://docs.microsoft.com/office/dev/add-ins/outlook/)
 
-للحصول علي موارد اضافيه فيما يتعلق باداره الوظائف الاضافيه ونشرها وتمكينها ، راجع:
+للحصول على موارد إضافية تتعلق بإدارة الوظائف الإضافية ونشرها وتمكينها، راجع:
 
-- [تحديد ما إذا كان النشر المركزي للوظائف الاضافيه يعمل في مؤسستك](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins).
+- تحديد ما إذا كان النشر المركزي ل [الوظائف الإضافية يعمل مع مؤسستك.](https://docs.microsoft.com/microsoft-365/admin/manage/centralized-deployment-of-add-ins)
 - [إدارة نشر الوظائف الإضافية في مركز إدارة Microsoft 365 ](https://docs.microsoft.com/microsoft-365/admin/manage/manage-deployment-of-add-ins)
-- [تحديد المسؤولين والمستخدمين الذين يمكنهم تثبيت الوظائف الاضافيه وأدارتها ل Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins)
+- [تحديد المسؤولين والمستخدمين الذين يمكنهم تثبيت الوظائف الإضافية وإدارتها Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins)

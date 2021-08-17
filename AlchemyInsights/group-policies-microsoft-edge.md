@@ -13,13 +13,13 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006493"
 - "11108"
-ms.openlocfilehash: c0223511c321a3be441863e72021f67e765748264c60944266ac1bdccdc78896
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 55b98c3d34b1b4bce5cef746e18bc2933902624547d2020118579593ca5c6f77
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53913414"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889877"
 ---
 # <a name="group-policies-in-microsoft-edge"></a>سياسات المجموعة في Microsoft Edge
 
-استخدم سياسات المجموعة المتوفرة في Microsoft Edge (الإصدار 77 أو الإصدارات الأحدث) لتحديد كيفية تشغيل المستعرض في مؤسستك. لمزيد من المعلومات، راجع Microsoft Edge [- سياسات](/deployedge/microsoft-edge-policies#available-policies).
+استخدم سياسات المجموعة المتوفرة في Microsoft Edge (الإصدار 77 أو الإصدارات الأحدث) لتحديد كيفية تشغيل المستعرض في مؤسستك. لمزيد من المعلومات، راجع Microsoft Edge [- سياسات](https://docs.microsoft.com/deployedge/microsoft-edge-policies#available-policies).
