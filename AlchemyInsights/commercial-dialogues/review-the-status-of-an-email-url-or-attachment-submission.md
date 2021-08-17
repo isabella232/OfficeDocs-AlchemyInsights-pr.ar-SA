@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 170219c96a82a00db66757874c9d0c447e9064c626331b153e070ad9010f7e7b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: c93f281d8d9a19eb31df7c265a963e93089a0ef5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54081813"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314795"
 ---
 # <a name="review-the-status-of-an-email-url-or-attachment-submission"></a>مراجعة حالة إرسال رسالة بريد إلكتروني أو عنوان URL أو مرفق
 
@@ -25,5 +25,4 @@ ms.locfileid: "54081813"
 
 سترى تقدم الإرسال على الصفحة، كما يمكنك التنقل لأسفل في الواجبات المرسلة السابقة لرؤية تفاصيل الإرسال والنتائج.
 
-> [!NOTE]
-> بمجرد إرسال عنصر باستخدام "مستكشف الواجبات المرسلة"، قد يستغرق ظهور النتائج بضع دقائق.
+**ملاحظة:** بمجرد إرسال عنصر باستخدام "مستكشف الواجبات المرسلة"، قد يستغرق ظهور النتائج بضع دقائق.

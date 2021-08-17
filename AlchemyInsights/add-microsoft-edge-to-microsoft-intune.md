@@ -13,37 +13,37 @@ ms.collection: Adm_O365
 ms.custom:
 - "8240"
 - "9004604"
-ms.openlocfilehash: d56c65910d1c2170d3e0ce9676e913663701db96
-ms.sourcegitcommit: 03378c78eadac5d950802dcbacc328bca3314032
+ms.openlocfilehash: 7cfc2279acf18a7cb6fab89befc8ef1ccc7a4be7
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50194446"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315111"
 ---
 # <a name="add-microsoft-edge-to-microsoft-intune"></a>إضافة Microsoft Edge إلى Microsoft Intune
 
-لكي تتمكن من نشر Microsoft Edge ل Windows 10 وتكوينه ومراقبته وحمايته، يجب أولا إضافته إلى Microsoft Intune.
+لكي تتمكن من نشر عناصر Microsoft Edge وحمايتها وتكوينها ومراقبتها Windows 10، يجب أولا إضافتها إلى Microsoft Intune.
 
-> [!IMPORTANT]
+> **هام**:
 - يدعم Intune Microsoft Edge 77 والإصدارات الأحدث.
-- سيكتشف Intune أي عمليات تثبيت موجودة مسبقا ل Microsoft Edge.
-- إذا كان Microsoft Edge مثبتا في سياق المستخدم، فإن تثبيت النظام سي الكتابة فوق التثبيت في سياق المستخدم.
-- إذا تم تثبيت Microsoft Edge في سياق النظام، سيتم إعلام نجاح التثبيت.
-- سيتم الكتابة فوق Microsoft Edge المثبت مسبقا والإصدارات الأحدث، لكل القنوات في سياق المستخدم، مع تثبيت Microsoft Edge في سياق النظام.
+- سيكشف Intune عن أي عمليات تثبيت موجودة مسبقا Microsoft Edge.
+- إذا Microsoft Edge تثبيت التثبيت في سياق المستخدم، سيتم الكتابة فوق التثبيت في سياق المستخدم.
+- إذا Microsoft Edge تثبيت التثبيت في سياق النظام، سيتم إعلامك بنجاح التثبيت.
+- سيتم الكتابة فوق Microsoft Edge الإصدار 77 والإصدارات الأحدث، لكل القنوات في سياق المستخدم، Microsoft Edge تثبيتها في سياق النظام.
 
 **المتطلبات الأساسية**
 
-الإصدار 1709 من Windows 10 أو الإصدارات الأحدث
+Windows 10 الإصدار 1709 أو الإصدارات الأحدث
 
 **خطوات إضافة Edge إلى Intune**
 
-1. [تكوين التطبيق في Intune.](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge)
-2. [تكوين معلومات التطبيق.](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge)
-3. [تكوين إعدادات التطبيق.](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge)
-4. [حدد علامات النطاق (اختياري).](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge)
-5. [أضف التطبيق.](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge)
+1. [تكوين التطبيق في Intune](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge).
+2. [تكوين معلومات التطبيق](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge).
+3. [تكوين إعدادات التطبيق](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge).
+4. [حدد علامات النطاق (اختياري)](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge).
+5. [أضف التطبيق](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge).
 
-لمزيد من المساعدة، راجع [استكشاف الأخطاء وإصلاحها.](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge)
+لمزيد من المساعدة، راجع استكشاف [الأخطاء وإصلاحها](https://docs.microsoft.com/mem/intune/apps/apps-windows-edge).
 
 
 

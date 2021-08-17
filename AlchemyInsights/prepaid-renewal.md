@@ -15,12 +15,12 @@ ms.custom:
 - commerce_billing
 - "662"
 - "1500012"
-ms.openlocfilehash: 5b1a2e169d6613d71ef52bcdf6bec2b5206dee2e486fddb150dd288d402a855f
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: e479501eb0bd751d364b39ec75b8c8b990702e84
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502847"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314515"
 ---
 # <a name="prepaid-microsoft-365-renewal"></a>تجديد Microsoft 365 مسبق الدفع
 
@@ -29,8 +29,7 @@ ms.locfileid: "54502847"
 3. في صفحة تفاصيل الاشتراك، في المقطع **إعدادات الاشتراك والدفع،** حدد **تمديد تاريخ الانتهاء**.
 4. في صفحة تجديد تراخيص المستخدمين أو **إضافتها،** حدد **استخدام مفتاح** منتج جديد وغير مستخدم ، ثم حدد **التالي**.
 5. أدخل مفتاح المنتج، ثم حدد **التالي**.
-    > [!NOTE]
-    > إذا كان لديك أكثر من مفتاح منتج واحد، يمكنك تحديد **إضافة مفتاح منتج آخر** لإدخاله.
+    **ملاحظة:** إذا كان لديك أكثر من مفتاح منتج واحد، يمكنك تحديد **إضافة مفتاح منتج آخر** لإدخاله.
 6. راجع تفاصيل طلبك، ثم حدد **استرداد**.
 
-لمعرفة المزيد، راجع إضافة تراخيص إلى اشتراك مدفوع أو تمديده [لاستخدام مفتاح منتج](/microsoft-365/commerce/licenses/add-licenses-using-product-key).
+لمعرفة المزيد، راجع إضافة تراخيص إلى اشتراك مدفوع أو تمديده [لاستخدام مفتاح منتج](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key).
