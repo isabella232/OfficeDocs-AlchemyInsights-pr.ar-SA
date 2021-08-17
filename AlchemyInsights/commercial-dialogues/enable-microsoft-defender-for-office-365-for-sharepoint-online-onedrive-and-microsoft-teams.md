@@ -1,5 +1,5 @@
 ---
-title: تمكين Microsoft Defender Office 365 SharePoint Online OneDrive Microsoft Teams
+title: تمكين خزينة المرفقات SharePoint عبر الإنترنت OneDrive Microsoft Teams
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,21 +12,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: db79c1d79ddb9bc92f0601ac156e5e41a8ab83cd603556f191d5491cdd5ae2a3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7357f53ef7827aea9cbb0d222c338a5edf429ffd201bfbb6d7307b3d446fdae2
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54058853"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894450"
 ---
-# <a name="enable-microsoft-defender-for-office-365-for-sharepoint-online-onedrive-and-microsoft-teams"></a>تمكين Microsoft Defender Office 365 SharePoint Online OneDrive Microsoft Teams
+# <a name="enable-safe-attachments-for-sharepoint-online-onedrive-and-microsoft-teams"></a>تمكين خزينة المرفقات SharePoint عبر الإنترنت OneDrive Microsoft Teams
 
-1. باستخدام بيانات اعتماد المسؤول العام أو مسؤول الأمان، سجل دخولك إلى Office 365 [الأمان والتوافق](https://protection.office.com/).
-2. حدد **إدارة المخاطر** في الجزء الأيسر، ثم حدد نهج خزينة   >  [المرفقات](https://protection.office.com/safeattachment).
-3. حدد **تشغيل Microsoft Defender Office 365 SharePoint** OneDrive و Microsoft Teams ، ثم حدد **حفظ**.
+1. باستخدام بيانات اعتماد المسؤول العام أو مسؤول الأمان، افتح مدخل Microsoft 365 Defender في ، ثم انتقل إلى سياسات & قواعد المخاطر خزينة <https://security.microsoft.com>  \>  \> **المرفقات**  في القسم "سياسات"
+
+   الانتقال مباشرة إلى صفحة خزينة **المرفقات،** استخدم <https://security.microsoft.com/safeattachmentv2> .
+
+2. في صفحة **خزينة المرفقات،** انقر فوق **إعدادات عام**.
+3. في flyout التي تظهر، حدد **تشغيل Microsoft Defender ل** Office 365 SharePoint و OneDrive و Microsoft Teams ، ثم حدد **حفظ**.
+
     > [!TIP]
     >
-    > - كمسؤول عام أو مسؤول SharePoint Online، قم بتشغيل الأمر cmdlet التالي في PowerShell باستخدام معلمة **DisallowInfectedFileDownload set** to *true*: [Set-SPOTenant](https://go.microsoft.com/fwlink/?linkid=2092301)
-    > - [إعداد التنبيهات للملفات التي تم الكشف عنها](https://go.microsoft.com/fwlink/?linkid=2092110)
+    > قم بالخطوات التالية لتحسين حماية المرفقات خزينة للمرفقات SharePoint OneDrive Microsoft Teams:
+    >
+    > - لمنع المستخدمين من تنزيل الملفات الضارة، استخدم قيمة المعلمة `$true` *DisallowInfectedFileDownload* على الأمر **[cmdlet Set-SPOTenant](https://docs.microsoft.com/powershell/module/sharepoint-online/Set-SPOTenant)** في SharePoint Online PowerShell. لمزيد من المعلومات، راجع [استخدام SharePoint Online PowerShell](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-2-recommended-use-sharepoint-online-powershell-to-prevent-users-from-downloading-malicious-files)لمنع المستخدمين من تنزيل الملفات الضارة .
+    > - [إنشاء نهج تنبيه للملفات التي تم الكشف عنها](https://docs.microsoft.com/microsoft-365/security/office-365-security/turn-on-mdo-for-spo-odb-and-teams#step-3-recommended-use-the-microsoft-365-defender-portal-to-create-an-alert-policy-for-detected-files)
 
-لمزيد من المعلومات، راجع [Microsoft Defender Office 365 SharePoint](https://go.microsoft.com/fwlink/?linkid=2092041)OneDrive Microsoft Teams .
+لمزيد من المعلومات، راجع خزينة [المرفقات Office 365 SharePoint](https://go.microsoft.com/fwlink/?linkid=2092041)OneDrive Microsoft Teams .

@@ -14,16 +14,16 @@ ms.custom:
 - "1300023"
 - "3754"
 - "4531"
-ms.openlocfilehash: d0ef27e7c03eb8bcd9de74c58a5e0398d8892a6eb0ab50944b3c2201247fa0b8
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: d4615d335b9aeef69148cd93ff9f44bec6d7d876
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57889205"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58314191"
 ---
 # <a name="active-directory-not-syncing"></a>لا تتم مزامنة Active Directory
 
-إذا كنت تتلقى أخطاء في المزامنة، مثل "لا توجد مزامنة حديثة"، أو لاحظت حالة مزامنة الدليل في مدخل مسؤول Office، تقول "آخر مزامنة منذ أكثر من 3 أيام"، فقد يكون سبب ذلك أن AADConnect لديه إعدادات غير صحيحة أو أذونات غير كافية لتنفيذ المزامنة.  
+إذا كنت تتلقى أخطاء في المزامنة، مثل "لا توجد مزامنة حديثة"، أو لاحظت حالة مزامنة الدليل في مدخل مسؤول Office، تقول "آخر مزامنة منذ أكثر من 3 أيام"، فقد يكون ذلك بسبب وجود إعدادات غير صحيحة أو أذونات غير كافية لتنفيذ المزامنة.  
 
 قد يحل إعادة تثبيت AADConnect باستخدام الإعدادات المعبرة المشكلة بسرعة:
 
