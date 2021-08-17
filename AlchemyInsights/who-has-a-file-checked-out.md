@@ -1,5 +1,5 @@
 ---
-title: من قام بسحب ملف ؟
+title: روبوت Who ملف تم سحبه؟
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -9,23 +9,23 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 395eb03f-2885-43d5-b2fe-55febf85b1e5
-ms.openlocfilehash: 12407f490f80412d801d01b717e3f7919b3cfb05
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 32f22a3906f7a976ce607c0516be8b63dcfe472dd22f0b9c933e79950ba5e932
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47699182"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047819"
 ---
-# <a name="who-has-a-file-checked-out"></a>من قام بسحب ملف ؟
+# <a name="who-has-a-file-checked-out"></a>روبوت Who ملف تم سحبه؟
 
-لمعرفه من قام بسحب ملف في SharePoint ، يمكنك القيام بأي من الخطوات التالية:
+لمعرفة من لديه ملف تم سحبه SharePoint، يمكنك تنفيذ إحدى الخطوات التالية:
   
-1. مرر مؤشر الماوس فوق **السحب** للاطلاع علي تلميح الاداه الذي يعلمك بأنه قد تم سحب الملف. 
+1. مرر فوق **تم السحب** لرؤية قتفة أدوات تخبرك عن الشخص الذي سحب الملف. 
     
-2. أضف العمود "تم السحب **من قبل** " إلى طريقه العرض الافتراضية للمكتبة. بهذه الطريقة ، يمكن للجميع الاطلاع بسهوله علي الأشخاص الذين سحبوا المستند. 
+2. أضف **العمود تم سحبه حسب** إلى طريقة العرض الافتراضية للمكتبة. بهذه الطريقة، يمكن للجميع رؤية الأشخاص الذين سحبوا مستندا بسهولة. 
     
-لمعرفه كيفيه أضافه عمود تم سحبه بواسطة في SharePoint ، راجع [إنشاء عمود في قائمه أو مكتبه](https://go.microsoft.com/fwlink/?linkid=2019591). 
+لمعرفة كيفية إضافة عمود تم سحبه حسب في SharePoint، راجع إنشاء عمود [في قائمة أو مكتبة](https://go.microsoft.com/fwlink/?linkid=2019591). 
   
-اطلع علي المزيد من الاسئله المتداولة حول إيداع أو سحب ، راجع [أهم الاسئله حول السحب ، إيداع](https://go.microsoft.com/fwlink/?linkid=2018786).
+اطلع على الأسئلة التي يتم طرحها بشكل متكرر حول تسجيل الدخول أو الخروج، راجع أهم الأسئلة حول تسجيل الخروج، [تحقق من](https://go.microsoft.com/fwlink/?linkid=2018786).
   
 
