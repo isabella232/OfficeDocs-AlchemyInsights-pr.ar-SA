@@ -13,12 +13,12 @@ ms.custom:
 - "1367"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: fcad71bcc5ea6036bc8fa25a9be38caabc4d0889ee01ea86e23065333d5fce0a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 080b3df3934781ebf0d0cd5243787bf6975fc5f123b5b1593c0b6d9ada4eae5d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54014887"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57887487"
 ---
 # <a name="identify-ip-address-and-client-in-audit-logs"></a>تحديد عنوان IP والعميل في سجلات التدقيق
 
@@ -34,6 +34,6 @@ ms.locfileid: "54014887"
 
 3. حدد اسم المستخدم في الحقل **المستخدمون،** وحدد نطاق التاريخ المناسب للنشاط، ثم انقر فوق **بحث**.
 
-في النتائج، يمكنك رؤية عنوان IP لهذا النشاط في جزء النتائج. حدد سجل التدقيق لرؤية معلومات  تفصيلية في قائمة التفاصيل من قائمة من حولي (على سبيل المثال، العميل، المستخدم الذي قام بتنفيذ الإجراء، وما إلى ذلك).
+في النتائج، يمكنك رؤية عنوان IP لهذا النشاط في جزء النتائج. حدد سجل التدقيق لرؤية معلومات  تفصيلية في قائمة التفاصيل من خلال قائمة منتحلة (على سبيل المثال، العميل، المستخدم الذي قام بتنفيذ الإجراء، وما إلى ذلك).
 
-لمزيد من المعلومات، راجع [البحث عن عنوان IP للكمبيوتر المستخدم](/microsoft-365/compliance/auditing-troubleshooting-scenarios#find-the-ip-address-of-the-computer-used-to-access-a-compromised-account)للوصول إلى حساب م اختراق .
+لمزيد من المعلومات، راجع [البحث عن عنوان IP للكمبيوتر المستخدم للوصول إلى حساب م اختراق](https://docs.microsoft.com/microsoft-365/compliance/auditing-troubleshooting-scenarios#find-the-ip-address-of-the-computer-used-to-access-a-compromised-account).

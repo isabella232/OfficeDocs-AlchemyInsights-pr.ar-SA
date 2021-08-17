@@ -1,5 +1,5 @@
 ---
-title: تحديثات Outlook.com
+title: Outlook.com
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -12,19 +12,19 @@ localization_priority: Normal
 ms.custom:
 - "1840"
 - "9000250"
-ms.openlocfilehash: 1285a90e651d915cdff292d102669020ee738a3c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 811a694f6361a67d3f5e74299b144a922fdbeae74b84f8a065e3fe85db059087
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722478"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54053489"
 ---
-# <a name="outlookcom-updates"></a>تحديثات Outlook.com
+# <a name="outlookcom-updates"></a>Outlook.com
 
-**التحديثات الاخيره**
+**التحديثات الأخيرة**
 
-- استفد أكثر من بريدك الكتروني باستخدام Outlook.com الجديد. لقد قمنا بتبسيط البحث لتسهيل العثور علي ما تبحث عنه. تتيح لك الميزات الجديدة مثل الصور ومعاينه المرفقات رؤية الصور والملفات من دون مغادره علبه الوارد. والآن يمكنك أضافه مشاعر وملفات Gif إلى رسائلك.  [تعرف علي المزيد حول Outlook.com الجديد.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
+- احصل على المزيد من بريدك الإلكتروني باستخدام Outlook.com الجديد. لقد قمنا بتبسيط البحث لتسهيل العثور على ما تبحث عنه أكثر من أي وقت مضى. تسمح لك الميزات الجديدة مثل الصور ومعاينات المرفقات برؤية الصور والملفات دون مغادرة علبة الوارد. والآن يمكنك إضافة رموز emojis ومزدوجات GIF إلى رسائلك. [تعرف على المزيد حول Outlook.com الجديد.](https://support.office.com/article/40676ad0-c831-45ac-a023-5be633be798d?wt.mc_id=Office_Outlook_com_Alchemy)
 
-**تحديثات البريد الكتروني**
+**تحديثات البريد الإلكتروني**
 
-- إذا لم يتم تحديث علبه بريد Outlook.com الخاصة بك ، فراجع [إصلاح مشاكل مزامنة البريد الكتروني في Outlook.com](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).
+- إذا لم Outlook بريدك على Outlook.com، فشاهد إصلاح مشاكل مزامنة البريد الإلكتروني [Outlook.com](https://support.office.com/article/d39e3341-8d79-4bf1-b3c7-ded602233642?wt.mc_id=Office_Outlook_com_Alchemy).

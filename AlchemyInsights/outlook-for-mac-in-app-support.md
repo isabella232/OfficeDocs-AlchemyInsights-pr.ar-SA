@@ -1,5 +1,5 @@
 ---
-title: 1800009 دعم Outlook for Mac داخل التطبيق
+title: 1800009 Outlook for Mac الدعم داخل التطبيق
 ms.author: supravee
 author: supravee
 manager: scotv
@@ -13,15 +13,15 @@ ms.custom:
 - "135"
 - "1800009"
 ms.assetid: cd3fdff4-346c-4730-9a5e-de02fbb60613
-ms.openlocfilehash: e56e283e3a587616e24a49f96be07c0a7805134d
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 33ec262ed3f6bd45424476fded5d88b62f59cdf31542e675923a030f1d6b8fa0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47722082"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54053453"
 ---
-# <a name="in-app-support-in-outlook-for-mac"></a>دعم داخل التطبيق في Outlook for Mac
+# <a name="in-app-support-in-outlook-for-mac"></a>الدعم داخل التطبيق في Outlook for Mac
 
-لتلقي الدعم في التطبيق لمشاكل Outlook for Mac ، افتح Outlook وانقر فوق **تعليمات** \> **الاتصال بالدعم**. اكتب سؤالك ، سيقوم عضو دعم Outlook for Mac بالتواصل معك. 
+لتلقي الدعم داخل التطبيق Outlook for Mac، افتح Outlook وانقر فوق **المساعدة** \> **في الاتصال بالدعم**. اكتب سؤالك، وسيتواصل Outlook for Mac فريق الدعم معك. 
 
-تعرف علي المزيد: [الاتصال بقسم الدعم في Outlook For Mac](https://support.office.com//article/d0410177-8e65-4487-93f7-206a3a3d71a8)
+تعرف على المزيد: [الاتصال بالدعم ضمن Outlook for Mac](https://support.office.com//article/d0410177-8e65-4487-93f7-206a3a3d71a8)

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006672"
 - "11357"
-ms.openlocfilehash: f5ef7d216d5c6b1a116f3a58cdd7fc9c3263f94732c45a403381b987381be37b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 82c6524011f996de07025e4401604101f50a326b37e38b890524626325a01aaf
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53964404"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57888229"
 ---
 # <a name="getting-started-with-teams-webinars"></a>بدء استخدام Teams ويب
 
@@ -25,6 +25,6 @@ ms.locfileid: "53964404"
 
 بعد إعداد نيجرات ويب في مؤسستك، يمكن للمستخدمين جدولة عبر الويب وفتح التسجيل للحضور. بخلاف الاجتماعات التقليدية التي تتضمن الكثير من المناقشات والمهام، تهدف محاضرات الويب إلى العروض التقديمية التفاعلية وتوفير أدوات لتحليل الحضور.
 
-**ملاحظة:** ما زالت وظيفة "عبر الويب" قيد طرحها Microsoft 365 المستأجرين. 
+**ملاحظة:** لا تزال وظيفة "ندوة عبر الويب" قيد طرحها Microsoft 365 المستأجرين. 
 
-للحصول على مزيد من المعلومات حول كيفية إعداد Teams ويب وتكوينها، راجع إعداد نيجرات ويب في [Microsoft Teams](/microsoftteams/set-up-webinars).
+للحصول على مزيد من المعلومات حول كيفية إعداد Teams ويب وتكوينها، راجع إعداد عبر الإنترنت [في Microsoft Teams](https://docs.microsoft.com/microsoftteams/set-up-webinars).
