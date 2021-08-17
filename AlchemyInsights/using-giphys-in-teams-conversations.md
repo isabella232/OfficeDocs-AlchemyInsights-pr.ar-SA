@@ -1,5 +1,5 @@
 ---
-title: استخدام Giphys في محادثات الفرق
+title: استخدام Giphys في Teams المحادثات
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -12,26 +12,26 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003825"
 - "6850"
-ms.openlocfilehash: 2fc29974bff9484c226c9651b9b000a89cad14dc
-ms.sourcegitcommit: 534e9217d99336eb471166ff83231c7e408fb1d9
+ms.openlocfilehash: 0244b68ffa2ebd3d70bae66a24ac299004848557b63b17c2ea74fafaff22bb8c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/09/2020
-ms.locfileid: "48982419"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104295"
 ---
-# <a name="using-giphys-in-teams-conversations"></a>استخدام Giphys في محادثات الفرق
+# <a name="using-giphys-in-teams-conversations"></a>استخدام Giphys في Teams المحادثات
 
-يتم تمكين الوصول إلى Giphys في دردشة الفرق بشكل افتراضي. بصفتك المسؤول ، يمكنك التحكم في ما إذا كانت Giphys متوفرة للمستخدمين من خلال [تعيين نهج المراسلة](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings) والتاكد من ان **استخدام Giphys في المحادثات** قيد **التشغيل**.
+يتم تمكين الوصول إلى giphys Teams المحادثة بشكل افتراضي. كمسؤول، يمكنك التحكم في ما إذا كانت [](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams#messaging-policy-settings) Giphys متوفرة للمستخدمين من خلال تعيين نهج مراسلة والتأكد من أن **استخدام Giphys** في المحادثات هو **على .**
 
-إذا لم تعمل صور Gif كما هو متوقع في محادثات الفرق ، فتحقق من:
+إذا لم تعمل "فوف" كما هو متوقع في Teams المحادثات، فتحقق مما يلي:
 
-يحتاج [نهج المراسلة](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) إلى السماح بالGiphys. للتحقق من الصحة باستخدام أوامر PowerShell cmdlets:
+يجب [أن يسمح نهج المراسلة](https://docs.microsoft.com/microsoftteams/messaging-policies-in-teams) ب Giphys. للتحقق باستخدام PowerShell cmdlets:
 
-- تاكد من انه يمكنك [أداره الفرق باستخدام PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview?view=o365-worldwide#manage-teams-with-powershell).
-- قم بتشغيل [الكستيمسميساجينجبوليسي العام](https://docs.microsoft.com/powershell/module/skype/get-csteamsmessagingpolicy?view=skype-ps) الخاص بالأمر PowerShell والتحقق من تعيين **اللووجيفي** إلى **TRUE**.
-- إذا تم تعيين **اللووجيفي** إلى **FALSE** ، فقم بتشغيل مجموعه أوامر PowerShell [التالية-ال$True اللووجيفي العامة](https://docs.microsoft.com/powershell/module/skype/set-csteamsmessagingpolicy?view=skype-ps)الخاصة بالكستيمسميساجينجبوليسي.
+- تحقق من أنه يمكنك إدارة [Teams باستخدام PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview?view=o365-worldwide#manage-teams-with-powershell).
+- قم بتشغيل الأمر PowerShell [Get-CsTeamsMessagingPolicy -Identity Global](https://docs.microsoft.com/powershell/module/skype/get-csteamsmessagingpolicy?view=skype-ps) وتحقق من تعيين **AllowGiphy** إلى **TRUE**.
+- إذا **تم تعيين AllowGiphy** إلى **FALSE**، ف قم بتشغيل الأمر PowerShell [التالي Set-CsTeamsMessagingPolicy -Identity Global -AllowGiphy $True](https://docs.microsoft.com/powershell/module/skype/set-csteamsmessagingpolicy?view=skype-ps).
 
-يجب تمكين [التجربة المتصلة الاختيارية](https://docs.microsoft.com/deployoffice/privacy/optional-connected-experiences) للسماح بالوصول إلى عنوان URL لجيفي.
+[يجب تمكين التجارب الاختيارية](https://docs.microsoft.com/deployoffice/privacy/optional-connected-experiences) المتصلة للسماح بالوصول إلى عنوان URL الخاص ب Giphy.
 
 > [!NOTE]
-> إذا كان لديك العديد من النهج الخاصة بالمراسلة التي تم تكوينها للمستاجر المستاجر ، فيمكنك تحديد هويه النهج المعين إلى المستخدم المتاثر باستخدام الأمر PowerShell [كسونلينيوسير الحصول علي الهوية](https://docs.microsoft.com/powershell/module/skype/get-csonlineuser?view=skype-ps) <user@domain.com> | حدد تيمسميساجينجبوليسي.
+> إذا تم تكوين Teams متعددة للمستأجر، يمكنك تحديد هوية النهج المعين للمستخدم المتأثير باستخدام الأمر [Get-CsOnlineUser -Identity](https://docs.microsoft.com/powershell/module/skype/get-csonlineuser?view=skype-ps) <user@domain.com> | حدد TeamsMessagingPolicy.

@@ -1,5 +1,5 @@
 ---
-title: استخدام Microsoft Intune لنشر Microsoft Edge علي جهاز macOS
+title: استخدام Microsoft Intune لنشر Microsoft Edge على جهاز macOS
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003874"
 - "6927"
-ms.openlocfilehash: 4f367df110168260b0607e7747853767437adc37
-ms.sourcegitcommit: 2e4a5153e530bf15744a52e982eeb0d99757e9d2
+ms.openlocfilehash: 5a1ddaf841111f4be79ee0e2235c54ced4b0d49efad0110cc609441db5b20800
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/04/2020
-ms.locfileid: "49583202"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104367"
 ---
-# <a name="use-microsoft-intune-to-deploy-microsoft-edge-to-a-macos-device"></a>استخدام Microsoft Intune لنشر Microsoft Edge علي جهاز macOS
+# <a name="use-microsoft-intune-to-deploy-microsoft-edge-to-a-macos-device"></a>استخدام Microsoft Intune لنشر Microsoft Edge على جهاز macOS
 
-لنشر تطبيق وتكوينه ومراقبته وحمايته علي جهاز macOS ، يجب أضافه التطبيق إلى Microsoft Intune. يجب ان يكون التطبيق من نوع معتمد في Intune ، ستعتمد خيارات الاداره المتوفرة في Intune علي نوع التطبيق. يعني استخدام Intune أيضا انك لن تحتاج إلى استخدام أداه التفاف تطبيق macOS.
+لنشر تطبيق وتكوينه ومراقبته وحمايته على جهاز macOS، يجب إضافة التطبيق إلى Microsoft Intune. يجب أن يكون التطبيق من النوع الذي يدعمه Intune، وستعتمد خيارات الإدارة المتوفرة في Intune على نوع التطبيق. يعني استخدام Intune أيضا أنك لن تحتاج إلى استخدام أداة التفاف تطبيق macOS.
 
-يدعم Intune Microsoft Edge. لمعرفه المزيد ، راجع [أضافه Microsoft Edge إلى الاجهزه الmacOSه باستخدام Microsoft Intune](https://go.microsoft.com/fwlink/?linkid=2134949).
+يدعم Intune Microsoft Edge. لمعرفة المزيد، راجع [إضافة Microsoft Edge إلى أجهزة macOS باستخدام Microsoft Intune](https://go.microsoft.com/fwlink/?linkid=2134949).

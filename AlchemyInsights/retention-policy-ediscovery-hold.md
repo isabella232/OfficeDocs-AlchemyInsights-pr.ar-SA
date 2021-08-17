@@ -1,5 +1,5 @@
 ---
-title: 2609-الاحتفاظ-أو ediscovery-احتجاز
+title: 2609-retention-or-ediscovery-hold
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "2609"
 - "9000048"
-ms.openlocfilehash: dee208560e7576597e20aec897f42432d7973727
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3aa158f5f84d3de018f9949ed0123fafec5bbecd7d4c18a3cef8af7fe738d78c
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727878"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54074811"
 ---
-# <a name="unable-to-delete-items-in-sharepoint-online-or-onedrive-for-business"></a>تعذر حذف العناصر الموجودة في SharePoint Online أو OneDrive for Business
+# <a name="unable-to-delete-items-in-sharepoint-online-or-onedrive-for-business"></a>يتعذر حذف العناصر في SharePoint عبر الإنترنت أو OneDrive for Business
 
-قد لا تتمكن أنت أو المستخدمون من حذف العناصر الموجودة في SharePoint Online أو OneDrive for Business لأنه يتم تطبيق نهج الاستبقاء أو تسميه الاستبقاء أو احتجاز eDiscovery علي موقع SharePoint من OneDrive أو إلى عنصر معين. بما في ذلك لا يمكن حذف مستند أو إصدار مستند أو مجلد أو مكتبه مستندات أو قائمه أو تطبيق أو موقع أو مجموعه مواقع مشتركه. 
+قد يتعذر عليك أنت أو المستخدمون حذف العناصر في SharePoint Online أو OneDrive for Business بسبب تطبيق نهج استبقاء أو تسمية استبقاء أو احتجاز eDiscovery على موقع SharePoint من OneDrive أو على عنصر معين. يشمل ذلك عدم القدرة على حذف مستند أو إصدار مستند أو مجلد أو مكتبة مستندات أو قائمة أو تطبيق أو موقع أو مجموعة مواقع ويب. 
 
-لحذف العناصر الموجودة في أحد هذه السيناريوهات ، يجب أزاله نهج الاستبقاء أو تسميه الاستبقاء أو احتجاز eDiscovery (أو يجب استبعاد موقع من نهج الاستبقاء). يجب اما تعطيل التعليق أو استبعاده الذي يسبب هذه المشكلة. بعد أزاله نهج الاستبقاء أو التعليق ، قد تستغرق التغييرات حيز التنفيذ حتى 24 ساعة. 
+لحذف عناصر في أحد هذه السيناريوهات، يجب إزالة نهج الاستبقاء أو تسمية الاستبقاء أو احتجاز eDiscovery (أو يجب استبعاد موقع من نهج استبقاء). تحتاج إما إلى تعطيل أو استبعاد أي من الانتظار الذي يتسبب في هذه المشكلة. بعد إزالة نهج الاستبقاء أو الاستمرار، قد يستغرق الأمر ما يصل إلى 24 ساعة حتى يتم إجراء التغيير. 
 
-للحصول علي مزيد من المعلومات حول ميزات الاستبقاء والتعليقات المختلفة التي يمكن تطبيقها علي مواقع SharePoint وحسابات OneDrive ، راجع أحد المواضيع التالية.
+للحصول على معلومات حول ميزات الاستبقاء والاحتفاظ المختلفة التي يمكن تطبيقها على SharePoint الحسابات OneDrive، راجع أحد المواضيع التالية.
 
-- [نظره عامه حول نهج الاستبقاء](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
-- [نظره عامه علي تسميات الاستبقاء](https://docs.microsoft.com/microsoft-365/compliance/labels)
-- [أداره قوائم الاحتجاز في eDiscovery المتقدم](https://docs.microsoft.com/microsoft-365/compliance/managing-holds)
-- [قوائم احتجاز eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases#step-4-place-content-locations-on-hold)
-- [نهج الإغلاق والحذف للموقع القديم](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5)
+- [نظرة عامة حول سياسات الاستبقاء](https://docs.microsoft.com/microsoft-365/compliance/retention-policies)
+- [نظرة عامة حول تسميات الاستبقاء](https://docs.microsoft.com/microsoft-365/compliance/labels)
+- [إدارة عمليات Advanced eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/managing-holds)
+- [يتولى eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases#step-4-place-content-locations-on-hold)
+- [سياسات إغلاق الموقع القديم وحذفه](https://support.office.com/article/Use-policies-for-site-closure-and-deletion-A8280D82-27FD-48C5-9ADF-8A5431208BA5)

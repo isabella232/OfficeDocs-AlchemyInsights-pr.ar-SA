@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003257"
 - "9890"
-ms.openlocfilehash: 59e3798131956847a61af2416c2e4210199cffa5
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: a3815d6fcabcfe81b079657c68adb89d7be244ca128af3473c6b22c1a4f7c833
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51404186"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104044"
 ---
 # <a name="azure-active-directory-join"></a>انضمام Azure Active Directory
 
@@ -27,4 +27,4 @@ ms.locfileid: "51404186"
 1. تأكد من أنك م مخولا لتنفيذ عمليات في Azure AD. يمكن للمسؤول العام فقط في Azure AD إدارة إعدادات تسجيلات الأجهزة.
 1. لتنفيذ تنفيذ الانضمام إلى Azure AD، راجع [تخطيط انضمام Azure AD](/azure/active-directory/devices/azureadjoin-plan).
 
-للحصول على مزيد من التفاصيل حول حل المشاكل الشائعة مع انضمام Azure AD، راجع الأسئلة الشائعة حول انضمام [Azure Ad](/azure/active-directory/devices/faq) وعلى جهاز Windows 10 pro، راجع تعذر الانضمام إلى [جهاز Windows 10 Pro إلى Azure AD -](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_install-mso_win10-mso_365hp/unable-to-join-windows-10-pro-machine-to-azure-ad/abb1ca7d-b317-45ec-a628-e1c10eae2900)الحاجة إلى الترقية إلى - مجتمع Microsoft .
+للحصول على مزيد من التفاصيل حول حل المشاكل الشائعة مع انضمام Azure AD، راجع الأسئلة الشائعة حول انضمام [Azure Ad](/azure/active-directory/devices/faq) وعلى جهاز Windows 10 pro، راجع تعذر الانضمام إلى جهاز Windows 10 Pro إلى [Azure AD -](https://answers.microsoft.com/en-us/msoffice/forum/msoffice_install-mso_win10-mso_365hp/unable-to-join-windows-10-pro-machine-to-azure-ad/abb1ca7d-b317-45ec-a628-e1c10eae2900)الحاجة إلى الترقية إلى - مجتمع Microsoft .

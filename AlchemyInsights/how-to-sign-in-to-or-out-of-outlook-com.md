@@ -1,5 +1,5 @@
 ---
-title: كيفيه تسجيل الدخول إلى Outlook.com أو الخروج منه
+title: كيفية تسجيل الدخول إلى موقع Outlook.com أو الخروج منه
 ms.author: daeite
 author: daeite
 manager: joallard
@@ -11,15 +11,15 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 8000055
 ms.assetid: a4a4c974-7a8b-46c7-92d9-f17084d89677
-ms.openlocfilehash: 86c76fa3d9f7f72fa4061321cd95cabb90fa4c35
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 7ce3ea7b6d0677796713ca98dbfe863f6033b8d6ea4bb4aa0aef6a86df7ab119
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47703287"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042905"
 ---
-# <a name="how-to-sign-in-to-or-out-of-outlookcom"></a>كيفيه تسجيل الدخول إلى Outlook.com أو الخروج منه
+# <a name="how-to-sign-in-to-or-out-of-outlookcom"></a>كيفية تسجيل الدخول إلى موقع Outlook.com أو الخروج منه
 
-إذا لم تتمكن من تسجيل الدخول إلى حساب بريدك الكتروني في Outlook.com أو Hotmail أو Live أو MSN ، أو إذا لم تكن متاكدا من تسجيل الدخول أو تسجيل الخروج ، [فاليك بعض الحلول](https://go.microsoft.com/fwlink/p/?linkid=2005840).
+إذا لم تتمكن من تسجيل الدخول إلى حساب البريد الإلكتروني Outlook.com أو Hotmail أو Live أو MSN، أو إذا لم تكن متأكدا من كيفية تسجيل الدخول أو تسجيل الخروج، إليك بعض [الحلول](https://go.microsoft.com/fwlink/p/?linkid=2005840).
   
-إذا كنت لا تزال تواجه مشاكل تتعلق بتسجيل الدخول ، فراجع [عندما يتعذر عليك تسجيل الدخول إلى حساب Microsoft الخاص بك](https://go.microsoft.com/fwlink/p/?linkid=837479).
+إذا كنت لا تزال تواجه مشاكل في تسجيل الدخول، فشاهد عندما لا تتمكن من تسجيل الدخول [إلى حساب Microsoft](https://go.microsoft.com/fwlink/p/?linkid=837479)الخاص بك .

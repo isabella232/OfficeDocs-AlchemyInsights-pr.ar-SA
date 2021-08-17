@@ -1,5 +1,5 @@
 ---
-title: أداره تسجيلات الاجتماعات للحصول علي التعليم
+title: إدارة تسجيلات الاجتماعات للتعليم
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,35 +13,35 @@ ms.collection: Adm_O365
 ms.custom:
 - "6131"
 - "9002530"
-ms.openlocfilehash: 144480dbed8b74f8b395b6b80c586038a1f12697
-ms.sourcegitcommit: e1d72cf118451ed62e975970e5a2faa4b13282f5
+ms.openlocfilehash: b064c5773a681c1602dc939049d5eb6084fb661906d3a406169c31f313876a6b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/24/2020
-ms.locfileid: "48753658"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54042257"
 ---
-# <a name="manage-meeting-recordings-for-education"></a>أداره تسجيلات الاجتماعات للحصول علي التعليم
+# <a name="manage-meeting-recordings-for-education"></a>إدارة تسجيلات الاجتماعات للتعليم
 
-بدءا من **20 أغسطس 2020**، عندما يقوم المستخدمون الذين يملكون a1 (بما في ذلك A1 بعلامات
+بدءا **من 20 أغسطس 2020**، عندما يبدأ المستخدمون الذين لديهم تراخيص A1 (بما في ذلك A1 Plus) تسجيل اجتماع Teams، يتوفر التسجيل لمدة 21 يوما.
 
-للحصول علي مزيد من المعلومات ، بما في ذلك كيفيه حفظ الاجتماع في موقع آخر ، راجع [تحميل تسجيل اجتماعات فرق Microsoft إلى التدفق](https://docs.microsoft.com/stream/portal-upload-teams-meeting-recording).
+لمزيد من المعلومات، بما في ذلك كيفية حفظ الاجتماع في موقع آخر، راجع Upload تسجيل Microsoft Teams [إلى Stream](https://docs.microsoft.com/stream/portal-upload-teams-meeting-recording).
 
-يمكن الآن تخزين تسجيل اجتماعات فرق Microsoft في OneDrive SharePoint ، للحصول علي مزيد من المعلومات والمشاركة ، راجع منشور مركز الرسائل التالي:
+Microsoft Teams يمكن الآن تخزين تسجيل الاجتماع في OneDrive SharePoint للحصول على مزيد من المعلومات ولإلغاء الاشتراك، راجع منشور مركز الرسائل التالي:
 
-[التي فرق Microsoft: تسجيلات الاجتماعات المحفوظة في OneDrive و SharePoint](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)
+[(محدث) Microsoft Teams: حفظ تسجيلات الاجتماعات OneDrive SharePoint](https://portal.microsoft.com/Adminportal/Home?ref=MessageCenter&id=MC222640)
 
-يؤدي نقل موقع التخزين إلى OneDrive و SharePoint إلى استبعاد المتطلبات السابقة التي يتوفر فيها الدفق في منطقتك.
+إن نقل موقع التخزين OneDrive SharePoint يلغي المتطلب السابق الذي يقضي بأن يكون Stream متوفرا في المنطقة.
 
-إذا كنت تبحث عن كيفيه حظر الطلاب **أو تمكينهم** من تسجيل الاجتماعات في الفرق ، فمن المستحسن استخدام حزم النهج لمعلم الطلاب والأمان. لمزيد من المعلومات، راجع ما يلي:
+إذا كنت تبحث عن  كيفية حظر الطلاب أو تمكينهم من تسجيل الاجتماعات في Teams، نوصي باستخدام حزم النهج لضمان أمان الطلاب والمعلمين. لمزيد من المعلومات، راجع ما يلي:
 
-[حزم النهج في فرق Microsoft](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).
+[حزم النهج في Microsoft Teams](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policy-packages-in-microsoft-teams).
 
-[النهج التي يجب تعيينها لامان الطالب](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety).
+[السياسات التي يجب تعيينها سلامه الطلاب.](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-student-safety)
 
-[النهج التي يجب تعيينها للمعلمين](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators).
+[السياسات التي يجب تعيينها للمعلمين](https://docs.microsoft.com/microsoftteams/policy-packages-edu#policies-that-should-be-assigned-for-educators).
 
-إذا أردت أداره القدرة علي تسجيل الاجتماعات فقط ، فراجع [تشغيل أو إيقاف تشغيل تسجيل السحابة](https://docs.microsoft.com/microsoftteams/cloud-recording#turn-on-or-turn-off-cloud-recording).
+إذا كنت تريد إدارة إمكانية تسجيل الاجتماعات فقط، فشاهد تشغيل التسجيل السحابي أو إيقاف [تشغيله](https://docs.microsoft.com/microsoftteams/cloud-recording#turn-on-or-turn-off-cloud-recording).
 
-**ملاحظه** إذا لم تكن قد قمت بالاشتراك في مساحة تخزين OneDrive SharePoint لتسجيلات اجتماعات الفرق ، فهذه الإمكانيات تعتمد علي التدفقات الاقليميه ومدي توفر البلد. إذا تعذر عليك تسجيل اجتماع ، فراجع [المناطق التي تستضيف Microsoft Stream البيانات الخاصة بي ؟](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in).
+**ملاحظة** ما لم تكن قد اخترت OneDrive SharePoint التخزين Teams تسجيلات الاجتماعات، تعتمد هذه الإمكانات على توفر Stream الإقليمي والبلدي. إذا لم تتمكن من تسجيل اجتماع، فشاهد ما هي المناطق التي يستضيف [فيها Microsoft Stream بياناتي؟](https://docs.microsoft.com/stream/faq#which-regions-does-microsoft-stream-host-my-data-in).
 
-لمزيد من المعلومات ، راجع [الميزة المحدثة: التحكم الإقليمي لتسجيلات السحابة في Microsoft Stream](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327).
+لمزيد من المعلومات، راجع [الميزة المحدثة: التحكم](https://admin.microsoft.com/AdminPortal/Home#/MessageCenter?id=MC214327)الإقليمي في التخزين في Microsoft Stream لتسجيلات السحابة .
