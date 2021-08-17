@@ -1,5 +1,5 @@
 ---
-title: إنشاء موقع SharePoint
+title: إنشاء موقع SharePoint ويب
 ms.author: pebaum
 author: pebaum
 ms.audience: Admin
@@ -14,19 +14,19 @@ ms.custom:
 - "1386"
 - "2303"
 ms.assetid: e62b9f80-b017-42dc-9464-f4e32c19d6c9
-ms.openlocfilehash: 5ebaa342ca9864bc31a9ef26eebcf42d96523871
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: bf9380727fff415357884a5122e633f2254337d3db50e2b8656d94938f76d394
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806926"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54080877"
 ---
-# <a name="create-a-sharepoint-site"></a>إنشاء موقع SharePoint
+# <a name="create-a-sharepoint-site"></a>إنشاء موقع SharePoint ويب
 
-إنشاء مواقع أو ادارتها من [مواقع نشطه](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) في مركز أداره SharePoint. للحصول علي مزيد من المعلومات ، راجع [أداره المواقع في مركز أداره SharePoint الجديد](https://docs.microsoft.com/sharepoint/manage-site-creation). 
+يمكنك إنشاء مواقع أو إدارتها من [المواقع النشطة](https://admin.microsoft.com/sharepoint?page=sitemanagement&modern=true) في SharePoint الإدارة. لمزيد من المعلومات، راجع إدارة المواقع في مركز إدارة SharePoint [الجديد.](https://docs.microsoft.com/sharepoint/manage-site-creation) 
 
-## <a name="tips"></a>المزيد
+## <a name="tips"></a>تلميحات:
 
-- **لا يمكنك** إنشاء موقع باستخدام عنوان URL نفسه لموقع موجود. إذا قمت بحذف موقع واتمني لك أعاده استخدام عنوان URL ، فمن المحتمل ان يكون الموقع المحذوف موجودا ضمن [المواقع المحذوفة](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true). سيحتاج الموقع إلى الحذف بشكل دائم لأعاده استخدام عنوان URL. لأزاله موقع بالبالكامل باستخدام Powershell ، راجع المثال الخاص [بازاله SPSite](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site) cmdlet.
-- قد لا يتمكن بعض المستخدمين من إنشاء موقع. [راجع أداره إنشاء الموقع في SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
-- من المحتمل ان يظهر الموقع بشكل عالق عند **الإنشاء** أكثر من المتوقع. إذا تم تمرير أكثر من 24 ساعة منذ المرة الاولي التي قمت فيها بمشاهده هذه المشكلة ، يرجى تسجيل تذكره دعم. في حالات كثيره ، نحن نعمل بالفعل علي حل. يرجى تقديم 24 ساعة علي الأقل لإكمال حل.
+- لا **يمكنك** إنشاء موقع باستخدام عنوان URL نفسه لموقع موجود. إذا قمت بحذف موقع ورغبت في إعادة استخدام عنوان URL، فمن المحتمل أن يكون الموقع المحذوف لا يزال موجودا ضمن [المواقع المحذوفة](https://admin.microsoft.com/sharepoint?page=recyclebin&modern=true). يجب حذف الموقع بشكل دائم لإعادة استخدام عنوان URL. لإزالة موقع بالكامل باستخدام Powershell، راجع مثال [cmdlet Remove-SPSite.](https://docs.microsoft.com/sharepoint/manage-sites-in-new-admin-center#delete-a-site)
+- قد لا يتمكن بعض المستخدمين من إنشاء موقع. [راجع إدارة إنشاء الموقع في SharePoint Online](https://docs.microsoft.com/sharepoint/manage-site-creation).
+- من المحتمل أن يظهر الموقع عالقا عند **إنشاء** مدة أطول من المتوقع. إذا مرت أكثر من 24 ساعة منذ أن رأيت هذه المشكلة للمرة الأولى، فالرجاء تسجيل تذكرة دعم. في العديد من الحالات، نحن نعمل بالفعل على إيجاد حل. الرجاء منحنا 24 ساعة على الأقل لإكمال الحل.

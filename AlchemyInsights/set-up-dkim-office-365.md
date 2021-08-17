@@ -1,5 +1,5 @@
 ---
-title: اعداد DKIM
+title: إعداد DKIM
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -10,20 +10,20 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1388
 ms.assetid: ''
-ms.openlocfilehash: b34bfdafcab6229a4dd2e9d9f23103fa13556482
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5dc90965516cc4d360b9be56c7737c6d134123ea8ac263b092559dd1416faff4
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47808694"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54108543"
 ---
-# <a name="setup-dkim"></a>اعداد DKIM
+# <a name="setup-dkim"></a>إعداد DKIM
 
-تتوفر الإرشادات الكاملة لتكوين العلامات الخاصة ب DKIM خاصه بالمجالات المخصصة في Microsoft 365 [هنا](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim).
+الإرشادات الكاملة لتكوين DKIM للمجالات المخصصة في Microsoft 365 [هنا](https://docs.microsoft.com/microsoft-365/security/office-365-security/use-dkim-to-validate-outbound-email#steps-you-need-to-do-to-manually-set-up-dkim).
 
-1. بالنسبة إلى **كل** مجال مخصص ، تحتاج إلى إنشاء **سجلي CNAME لوحدتي** الأشرف في خدمه استضافه DNS الخاصة بمجالك (عاده ما يكون مسجل المجال). علي سبيل المثال ، يتطلب contoso.com و fourthcoffee.com أربعه سجلات CNAME للحصول علي اليم: اثنين لcontoso.com واثنين لfourthcoffee.com.
+1. لكل **مجال** مخصص، تحتاج إلى إنشاء سجلي **DKIM** CNAME في خدمة استضافة DNS لمجالك (عادة ما تكون جهة تسجيل المجالات). على سبيل المثال contoso.com يتطلب fourthcoffee.com DKIM CNAME أربعة سجلات: سجلان contoso.com واثنان fourthcoffee.com.
 
-   تستخدم سجلات "العلامات الأشرف" ل **dkim كل** مجال مخصص التنسيقات التالية:
+   تستخدم سجلات DKIM CNAME **لكل** مجال مخصص التنسيقات التالية:
 
    - **اسم المضيف**: `selector1._domainkey.<CustomDomain>`
 
@@ -37,16 +37,16 @@ ms.locfileid: "47808694"
 
      **TTL**: 3600
 
-   \<DomainGUID\> النص إلى اليمين `.mail.protection.outlook.com` في سجل MX المخصص للمجال المخصص (علي سبيل `contoso-com` المثال ، لمجال contoso.com). \<InitialDomain\> هو المجال الذي استخدمته عند التسجيل في Microsoft 365 (علي سبيل المثال ، contoso.onmicrosoft.com).
+   \<DomainGUID\> هو النص إلى يسار في سجل MX المخصص للمجال المخصص (على سبيل المثال، `.mail.protection.outlook.com` `contoso-com` للمجال contoso.com). \<InitialDomain\>هو المجال الذي استخدمته عند تسجيل Microsoft 365 (على سبيل المثال، contoso.onmicrosoft.com).
 
-2. بعد إنشاء سجلات CNAME للمجالات المخصصة ، أكمل الإرشادات التالية:
+2. بعد إنشاء سجلات CNAME للمجالات المخصصة، أكمل الإرشادات التالية:
 
-   علي. [سجل دخولك إلى Microsoft 365](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) باستخدام حساب العمل أو المؤسسة التعليمية.
+   a. [سجل الدخول Microsoft 365](https://support.office.microsoft.com/article/e9eb7d51-5430-4929-91ab-6157c5a050b4) باستخدام حساب العمل أو المدرسة.
 
-   ب. حدد أيقونه مشغل التطبيق في الزاوية العلوية اليمني واختر **المسؤول**.
+   b. حدد أيقونة شريط التطبيقات في الزاوية العلوية اليمنى واختر **المسؤول**.
 
-   ن. في جزء التنقل السفلي الأيمن ، قم بتوسيع **المسؤول** واختر **Exchange**.
+   c. في التنقل السفلي الأيسر، قم بتوسيع **المسؤول** **واختر** Exchange .
 
-   ثلاثي. انتقل إلى **حماية**  >  **dkim**.
+   d. انتقل إلى **Protection**  >  **DKIM**.
 
-   ه. حدد المجال ، ثم اختر **تمكين** **التوقيع علي الرسائل لهذا المجال بواسطة التواقيع التي تضم اليم إلى dkim** كرر هذه الخطوة لكل مجال مخصص.
+   e. حدد المجال ثم اختر **تمكين** **لتوقيع رسائل لهذا المجال باستخدام تواقيع DKIM**. كرر هذه الخطوة لكل مجال مخصص.

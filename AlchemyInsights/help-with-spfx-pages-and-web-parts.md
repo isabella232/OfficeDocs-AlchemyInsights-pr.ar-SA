@@ -1,5 +1,5 @@
 ---
-title: تعليمات حول صفحات SPFx وأجزاء ويب
+title: تعليمات حول إطار عمل SharePoint والصفحات أجزاء ويب
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003014"
 - "5806"
-ms.openlocfilehash: 168cf7c9fbe2d1ce6c0463092770719cdc63d45c
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 59e0160dc3c206aa675841d391b4f45e953cda100b991992fe4668d697c9e069
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51811515"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055685"
 ---
-# <a name="help-with-spfx-pages-and-web-parts"></a>تعليمات حول صفحات SPFx وأجزاء ويب
+# <a name="help-with-spfx-pages-and-web-parts"></a>تعليمات حول إطار عمل SharePoint والصفحات أجزاء ويب
 
-يتم دعم SPFx من خلال دعم مطور Microsoft فقط. يستجيب فريق منتج SharePoint إلى مجتمع المطور عبر قنوات متعددة.
+إطار عمل SharePoint من خلال دعم مطور Microsoft فقط. يستجيب SharePoint المنتج إلى مجتمع المطور عبر قنوات متعددة.
 
-- [يمكن إرسال أسئلة](https://docs.microsoft.com/sharepoint/dev/support-feedback#programming-questions)  البرمجة إلى  **GitHub sp-dev-docs**  أو  **Stack Overflow**.
-- [يمكن إرسال أخطاء](https://docs.microsoft.com/sharepoint/dev/support-feedback#documentation-bugs)  الوثائق إلى **GitHub**.
-- [يمكن إرسال أخطاء](https://docs.microsoft.com/sharepoint/dev/support-feedback#sample-application-bugs)  التطبيق العينة إلى  **GitHub**.
+- [يمكن إرسال أسئلة](https://docs.microsoft.com/sharepoint/dev/support-feedback#programming-questions) البرمجة إلى GitHub **sp-dev-docs** أو **Stack Overflow**.
+- [يمكن إرسال](https://docs.microsoft.com/sharepoint/dev/support-feedback#documentation-bugs) أخطاء الوثائق إلى **GitHub**.
+- [يمكن إرسال](https://docs.microsoft.com/sharepoint/dev/support-feedback#sample-application-bugs) أخطاء التطبيق العينة إلى **GitHub**.
 - [يمكن إرسال طلبات](https://docs.microsoft.com/sharepoint/dev/support-feedback#feature-requests)  الميزات إلى UserVoice.
 
 للحصول على مزيد من موارد المطور، راجع  [& الملاحظات](https://docs.microsoft.com/sharepoint/dev/support-feedback)
