@@ -1,5 +1,5 @@
 ---
-title: تحديث مؤثرات مواقع SharePoint
+title: تحديث مواقع SharePoint الخاصة بك
 ms.author: v-miegge
 author: v-miegge
 ms.audience: Admin
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000153"
 - "1692"
-ms.openlocfilehash: 42b36e13af59c2323ab0db6107174f4b9d652e28
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 3f0fdc6988ea693f6c0e012af719cdaca2f6fa13c888a5fb39e35387e1a820e7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47800559"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107823"
 ---
-# <a name="modernize-your-sharepoint-sites"></a>تحديث مؤثرات مواقع SharePoint
+# <a name="modernize-your-sharepoint-sites"></a>تحديث مواقع SharePoint الخاصة بك
 
-للحصول علي نظره عامه مفصله خطوه بخطوه حول موديرنيزينج مواقع SharePoint الكلاسيكية إلى التجربة الحديثة ، راجع [تحديث مؤثرات مواقع sharepoint الكلاسيكية](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites).
+للحصول على نظرة عامة مفصلة خطوة بخطوة حول تحديث مواقعك SharePoint الكلاسيكية إلى التجربة الحديثة، راجع تحديث مواقعك SharePoint [الكلاسيكية.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-classic-sites)
 
-* لتكبير استخدام واجهه المستخدم الحديثة لصفحات الموقع وصفحات القوائم والمكتبات ، راجع [تحديث مؤثرات واجهه المستخدم](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface).
-* لمعرفه المزيد حول كيفيه إلغاء حظر القوائم والمكتبات عند استخدام واجهه المستخدم الحديثة ، راجع [التكبير استخدام القوائم والمكتبات الحديثة](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries).
-* للحصول علي مزيد من المعلومات حول الاتصال بمجموعه Microsoft 365 واجراء اتصال مجموعه ، راجع [الاتصال بمجموعه microsoft 365](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group).
+* لتكبير استخدام واجهة المستخدم الحديثة لصفحات الموقع وصفحات القائمة والمكتبة، راجع تحديث [واجهة المستخدم](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface).
+* لمعرفة المزيد حول كيفية إلغاء حظر القوائم والمكتبات عند استخدام واجهة المستخدم الحديثة، راجع زيادة استخدام القوائم والمكتبات [الحديثة.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-userinterface-lists-and-libraries)
+* لمزيد من المعلومات حول الاتصال Microsoft 365 مجموعة وإجراء اتصال مجموعة، راجع الاتصال [إلى مجموعة](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group)Microsoft 365 مجموعة .
 
-**هام**: إذا شعرت بأنه يجب ان تكون الصفحة معروضه بالفعل في طريقه العرض الحديثة ولم تكن موجودة ، فيرجى الاستعراض وصولا إلى الصفحة المطلوبة ، ونسخ عنوان url ، وتوفير عنوان url كجزء من تفاصيل تذكره الدعم.
+**هام:** إذا كنت تشعر أنه يجب عرض صفحتك بالفعل في طريقة العرض الحديثة ولم تظهر، فالرجاء الاستعراض إلى الصفحة المعنية ونسخ عنوان URL وتوفير عنوان URL كجزء من تفاصيل تذكرة الدعم.

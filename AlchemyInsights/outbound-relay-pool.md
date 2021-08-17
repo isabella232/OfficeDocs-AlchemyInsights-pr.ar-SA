@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "12315"
-ms.openlocfilehash: 8750c9036f258d9c5edc94bb027d564140bbd9914712cc1f25ff3abc3f4b9468
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d2f83b3afc4abf72a3e18bffe5ac9d6c940cc216916925338c18f0fb8a39948a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54041573"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57883118"
 ---
 # <a name="outbound-relay-pool"></a>تجمع الترحيل الصادر
 
-تقوم Microsoft بإجراء بعض التغييرات على التكوين لترحيل البريد الإلكتروني أو إعادة توجيهه عبر Microsoft 365. يتم إعادة توجيه الرسائل في سيناريوهات معينة أو ترحيلها Microsoft 365 باستخدام تجمع ترحيل خاص. قد تنتهي الرسائل المرسلة باستخدام تجمع الترحيل في مجلد البريد غير الهام الخاص بالمستلم. لمزيد من المعلومات، راجع [تجمعات التسليم الصادرة](/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages#relay-pool)
+تقوم Microsoft بإجراء بعض التغييرات على التكوين لترحيل البريد الإلكتروني أو إعادة توجيهه عبر Microsoft 365. يتم إعادة توجيه الرسائل في سيناريوهات معينة أو ترحيلها Microsoft 365 باستخدام تجمع ترحيل خاص. قد تنتهي الرسائل المرسلة باستخدام تجمع الترحيل في مجلد البريد غير الهام الخاص بالمستلم. لمزيد من المعلومات، راجع [تجمعات تسليم الصادرات](https://docs.microsoft.com/microsoft-365/security/office-365-security/high-risk-delivery-pool-for-outbound-messages#relay-pool)
 
 لتجنب سيناريو باستخدام تجمع الترحيل، تأكد من أن الرسائل التي تم إعادة توجيهها/ترحيلها تلبي أحد المعايير التالية:
 
