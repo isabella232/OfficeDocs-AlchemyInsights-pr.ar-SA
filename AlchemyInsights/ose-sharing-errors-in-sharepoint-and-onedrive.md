@@ -1,5 +1,5 @@
 ---
-title: أخطاء مشاركه OSE في SharePoint و OneDrive
+title: أخطاء مشاركة OSE في SharePoint OneDrive
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -10,13 +10,13 @@ localization_priority: Normal
 ms.custom:
 - "1939"
 - "9000314"
-ms.openlocfilehash: dd053bbff803caaa35a56ed49cecef37b9ac7f17
-ms.sourcegitcommit: 4a82381bdb22cbc8bc91d2e02c633897d45ade4b
+ms.openlocfilehash: c54483916b2391b3723f0199627ebad8778ee8f15d6884b6d19b1f59f7093918
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "49668465"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54075387"
 ---
-# <a name="ose-sharing-errors"></a>أخطاء مشاركه OSE
+# <a name="ose-sharing-errors"></a>أخطاء مشاركة OSE
 
-للحصول علي مزيد من المعلومات حول رموز أخطاء OSE ، راجع [مشاركه الأخطاء في SharePoint و OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).
+لمزيد من المعلومات حول رموز أخطاء OSE، راجع مشاركة الأخطاء في SharePoint [OneDrive](https://docs.microsoft.com/sharepoint/sharepoint-onedrive-error-message).

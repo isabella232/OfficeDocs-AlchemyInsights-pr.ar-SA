@@ -1,5 +1,5 @@
 ---
-title: 932 ترقيه AADConnect
+title: 932 ترقية AADConnect
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,23 +13,23 @@ ms.custom:
 - "932"
 - "1300025"
 ms.assetid: 8f43f36c-9722-43a4-b0de-c5341c06dac5
-ms.openlocfilehash: 5c8ec5d9282c53c655e28f5d38fe36fc3ab005b8
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 9582f1f56e6730e35520b5d79bc245cd74bea0bf4db39b379a7cd133bafc16ee
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47806026"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54104799"
 ---
-# <a name="upgrade-azure-ad-connect"></a>ترقيه Azure AD Connect
+# <a name="upgrade-azure-ad-connect"></a>ترقية Azure AD الاتصال
 
-بشكل افتراضي ، يتم تمكين الترقية التلقائية ل Azure AD Connect ، مما يساعد علي التاكد من تشغيل الإصدار الأخير. للتحقق من إعدادات الترقية التلقائية ، استخدم الأمر **أدسينكاوتوبجرادي** Cmdlet في Azure AD PowerShell. سيقوم أمر cmdlet بإرجاع أحدي القيم التالية:
+بشكل افتراضي، يتم تمكين الترقية التلقائية ل Azure AD الاتصال، مما يساعد على ضمان تشغيل الإصدار الأخير. للتحقق من إعدادات الترقية التلقائية، استخدم **أمر cmdlet Get-ADSyncAutoUpgrade** في Azure AD PowerShell. سيرجع cmdlet إحدى القيم التالية:
 
-- **ممكن**: تم تمكين الترقية التلقائية.
+- **تمكين**: يتم تمكين الترقية التلقائية.
 
-- **معطل**: تم تعطيل الترقية التلقائية.
+- **معطل**: يتم تعطيل الترقية التلقائية.
 
-- **معلق**: لم يعد النظام مؤهلا لتلقي الترقيات التلقائية. لا يمكنك تكوين هذه القيمة ؛ تم تعيينه بواسطة النظام.
+- **معلق**: لم يعد النظام مؤهلا لتلقي الترقيات التلقائية. لا يمكنك تكوين هذه القيمة؛ يتم تعيينه بواسطة النظام.
 
-لمزيد من المعلومات ، راجع [الترقية التلقائية](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade).
+لمزيد من المعلومات، راجع [الترقية التلقائية](https://docs.microsoft.com/azure/active-directory/connect/active-directory-aadconnect-feature-automatic-upgrade).
 
-لتنزيل الإصدار الأخير من Azure AD Connect ، انتقل إلى [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594) .
+لتنزيل أحدث إصدار من Azure AD الاتصال، انتقل إلى [https://www.microsoft.com/download/details.aspx?id=47594](https://www.microsoft.com/download/details.aspx?id=47594) .

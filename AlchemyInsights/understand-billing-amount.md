@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6680"
-ms.openlocfilehash: 50a420bd938519c81a1f7fd234f8cdbb10f5855e6d7d69dd27e261ebc7e0c091
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48c62896b4821ef45d47b582ed723a38403853c8
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53919626"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58304320"
 ---
 # <a name="understand-billing-amount"></a>استيعاب مبالغ الفوترة
 
 **العميل LED (WD):**
 
-- للمساعدة في مراجعة الفاتورة وفهمها، الرجاء الرجوع إلى: [البرنامج التعليمي: مراجعة فاتورة Azure الفردية](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
+- للمساعدة في مراجعة الفاتورة وفهمها، يرجى الرجوع إلى: [البرنامج التعليمي: مراجعة فاتورة Azure الفردية](https://docs.microsoft.com/azure/cost-management-billing/understand/review-individual-bill?WT.mc_id=Portal-Microsoft_Azure_Support)
 - فهم الشروط في فاتورتك: توضيح [شروط فاتورة Azure](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-invoice?WT.mc_id=Portal-Microsoft_Azure_Support)
 - فهم الشروط الخاصة بمصاريف استخدام Azure: [شرح شروط الاستخدام](https://docs.microsoft.com/azure/cost-management-billing/understand/understand-usage?WT.mc_id=Portal-Microsoft_Azure_Support)
 - للحصول على ملف PDF من الفاتورة ونسخة من ملف الاستخدام اليومي المفصل (.CSV): الحصول على [بيانات الفاتورة والاستخدام](https://docs.microsoft.com/azure/billing/billing-download-azure-invoice-daily-usage-date?WT.mc_id=Portal-Microsoft_Azure_Support)
@@ -54,7 +54,7 @@ ms.locfileid: "53919626"
 - سجل الدخول إلى **مدخل Enterprise**. تحديد **التقارير**
 - في الزاوية العلوية اليسرى من علامة التبويب، قم بتبديل طريقة العرض من **M** إلى **C** ومطابقة الفترة الزمنية على الفاتورة
 - يجب أن **تتطابق قيمة إجمالي** الاستخدام مع إجمالي المبلغ **الممتد** على فاتورة تجاوز الخدمة
-- انتقل إلى تنزيل الاستخدام **> تقرير** متقدم للحصول على مزيد من المعلومات حول الرسوم **ملاحظة:** لا يتضمن هذا التقرير الضرائب أو رسوم الحجوزات أو رسوم السوق
+- انتقل إلى **تنزيل** > التقرير المتقدم للحصول على مزيد من المعلومات حول الرسوم **ملاحظة:** لا يتضمن هذا التقرير الضرائب أو رسوم الحجوزات أو رسوم السوق
 
 **Azure Marketplace**
 
@@ -62,12 +62,14 @@ ms.locfileid: "53919626"
 
 مراجعة فاتورة السوق:
 
-قارن إجمالي موقع Azure Marketplace على > "ملخص الاستخدام" في مدخل Enterprise مع فاتورة السوق. فاتورة السوق هي فقط لمشتريات Azure Marketplace واستخدامه. لا تتضمن المبالغ في "ملخص الاستخدام" الضريبة.
+قارن إجمالي موقع Azure Marketplace على > "ملخص الاستخدام" في مدخل المؤسسة مع فاتورة السوق. فاتورة السوق هي فقط لمشتريات Azure Marketplace واستخدامه. لا تتضمن المبالغ في "ملخص الاستخدام" الضريبة.
 
 - سجل الدخول إلى **مدخل Enterprise**. تحديد **التقارير**
 - في الزاوية العلوية اليسرى من علامة التبويب، قم بتبديل طريقة العرض من **M** إلى **C** ومطابقة الفترة الزمنية على الفاتورة
 - يجب **أن يكون إجمالي Azure Marketplace** متطابقا مع إجمالي **المبيعات** في فاتورة السوق
-- انتقل إلى **تنزيل الاستخدام** للحصول على مزيد من المعلومات حول الرسوم المستندة إلى الاستخدام. ضمن **رسوم السوق**، حدد **تنزيل** **ملاحظة**: لا يتضمن هذا التقرير الضرائب أو إظهار عمليات الشراء مرة واحدة
+- انتقل إلى **تنزيل الاستخدام** للحصول على مزيد من المعلومات حول الرسوم المستندة إلى الاستخدام. ضمن **رسوم السوق**، حدد **تنزيل** 
+
+**ملاحظة:** لا يتضمن هذا التقرير الضرائب أو يظهر عمليات الشراء مرة واحدة
 
 **Cloud Solution Provider (CSP)**
 
