@@ -14,12 +14,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002449"
 - "4748"
-ms.openlocfilehash: 756672d6fc04226c8036bf649a4bf79ad9849799361f34d7472015300e59abda
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 08c39ca6b0e56bb6856bc214121d8c39e028f828a54ec47694bdec06667b4456
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54020539"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57883082"
 ---
 # <a name="unable-to-access-my-account"></a>الوصول إلى حسابي غير ممكن
 
@@ -32,4 +32,4 @@ ms.locfileid: "54020539"
 3. في الجزء **إعادة تنشيط هذا** الاشتراك، حدد طريقة دفع من القائمة المنسدل، أو حدد إضافة طريقة **دفع**.
 4. حدد **حفظ**.
 
-للتعرّف على المزيد، اطلع على [إعادة تنشيط الاشتراك](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+للتعرّف على المزيد، اطلع على [إعادة تنشيط الاشتراك](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).

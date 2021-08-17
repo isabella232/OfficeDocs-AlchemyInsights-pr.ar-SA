@@ -1,5 +1,5 @@
 ---
-title: مستخدم واحد لا يري الوظائف الاضافيه في Outlook
+title: لا يرى مستخدم واحد الوظائف الإضافية في Outlook
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -11,17 +11,17 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom: ''
-ms.openlocfilehash: 8c99b443a2d83f3ac24362d63cd6363a66a81393
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 647a17bb5220d3591934c4f53cf417d42810b2c1a681bafd3e2d703abbfcbc64
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47719652"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54050645"
 ---
-# <a name="single-user-not-seeing-add-ins-in-outlook"></a>مستخدم واحد لا يري الوظائف الاضافيه في Outlook
+# <a name="single-user-not-seeing-add-ins-in-outlook"></a>لا يرى مستخدم واحد الوظائف الإضافية في Outlook
 
-قد يكون المستخدم جزءا من دور لا يحتوي علي معلمه أبسفوروفيسينابليد الصحيحة. قم بتشغيل أمر cmdlet هذا لمعرفه ما إذا كان الدور الصحيح مقترنا بالمستخدم:
+قد يكون المستخدم جزءا من دور لا تملك المعلمة الصحيحة AppsForOfficeEnabled. تشغيل أمر cmdlet هذا لمعرفة ما إذا كان الدور الصحيح مقترن بالمستخدم:
 
-ماناجيمينتروليسيجنمينت-روليسيجني user@domain.com-تفويض $false | تنسيق-الجدول-الدور التلقائي ، روليسيجنينامي ، روليسيجنيتيبي
+Get-ManagementRoleAssignment -RoleAssignee user@domain.com -تفويض $false | Format-Table -Auto Role,RoleAssigneeName,RoleAssigneeType
 
-للحصول علي مزيد من المعلومات ، راجع [تحديد المسؤولين والمستخدمين الذين يمكنهم تثبيت الوظائف الاضافيه وأدارتها ل Outlook](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins).
+لمزيد من المعلومات، راجع [تحديد المسؤولين](https://docs.microsoft.com/exchange/clients-and-mobile-in-exchange-online/add-ins-for-outlook/specify-who-can-install-and-manage-add-ins)والمستخدمين الذين يمكنهم تثبيت الوظائف الإضافية وإدارتها Outlook .

@@ -1,5 +1,5 @@
 ---
-title: تلميحات نهج DLP لا تعمل
+title: نهج DLP تلميحات يعمل
 ms.author: deniseb
 author: denisebmsft
 manager: laurawims
@@ -13,12 +13,12 @@ ms.assetid: c03d30be-474a-4a34-b3c0-240eb2a2c466
 ms.custom:
 - "1428"
 - "3200001"
-ms.openlocfilehash: 8a3b8175c077b77d1c9b5d859012faddcb1fa3a0
-ms.sourcegitcommit: 099704f7f4bdf122d09bb4f7cc71d36fc77a7fcf
+ms.openlocfilehash: f93b7efebd0a619acf300120cc6ece0adbedc39675f6e782fd982dc1f988edbd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/22/2021
-ms.locfileid: "51958689"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54079653"
 ---
 # <a name="dlp-policy-tip-issues"></a>مشاكل تلميح نهج DLP
 
@@ -30,6 +30,6 @@ ms.locfileid: "51958689"
 
 - تأكد من تطابق المحتوى مع ما هو مطلوب لتحريك القاعدة الموضحة في تعريفات كيان نوع المعلومات [الحساسة](https://docs.microsoft.com/microsoft-365/compliance/sensitive-information-type-entity-definitions).
 
-- يتم عرض تلميحات النهج في كل من OWA و Outlook. ومع ذلك، عند استخدام Outlook 2013 أو أي وقت لاحق، يتم عرض تلميحات النهج فقط في ظروف معينة. للحصول على قائمة الشروط المحددة، راجع الشروط المعتمدة ل [Outlook 2013](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)أو أي وقت لاحق لعرض تلميحات النهج .
+- يتم عرض تلميحات النهج في كل من OWA Outlook. ومع ذلك، عند Outlook 2013 أو أي وقت لاحق، يتم عرض تلميحات النهج في ظروف معينة فقط. للحصول على قائمة الشروط المحددة، راجع الشروط المعتمدة Outlook [2013](https://docs.microsoft.com/microsoft-365/compliance/use-notifications-and-policy-tips)أو أي وقت لاحق لعرض نهج تلميحات .
 
-للحصول على معلومات حول تلميحات نهج DLP، راجع مرجع تلميحات نهج [DLP](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) ومصفوفة الدعم [لتلميحات نهج DLP](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps).
+للحصول على معلومات حول تلميحات نهج DLP، راجع نهج [DLP تلميحات المرجع](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps) ومصفوفة الدعم [لتلميحات نهج DLP](https://docs.microsoft.com/microsoft-365/compliance/dlp-policy-tips-reference?view=o365-worldwide#support-matrix-for-dlp-policy-tips-across-microsoft-apps).

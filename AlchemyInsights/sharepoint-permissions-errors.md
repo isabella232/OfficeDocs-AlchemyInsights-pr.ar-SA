@@ -1,5 +1,5 @@
 ---
-title: أخطاء أذونات SharePoint
+title: SharePoint الأذونات
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000156"
 - "2595"
-ms.openlocfilehash: 051d0d002394b4685b044f2ed15057f5f26b3024
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: ab3e2accbb9c2e765dd77fc64b92305dce748cd5da3bf0c6c6dd8414737c709f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51826582"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54107634"
 ---
-# <a name="sharepoint-permissions-errors"></a>أخطاء أذونات SharePoint
+# <a name="sharepoint-permissions-errors"></a>SharePoint الأذونات
 
 هناك العديد من السيناريوهات التي يمكنها المطالبة بوا واحدة من هذه الرسائل. في أغلب الأحيان، يتم تكوين الأذونات للمستخدم أو المسؤول بشكل غير صحيح أو لم يتم تكوينها على الإطلاق. 
 
-لمزيد من المعلومات، الرجاء الاطلاع على أخطاء "رفض الوصول" أو "أنت بحاجة إلى إذن للوصول إلى هذا الموقع" أو أخطاء "لم يتم العثور على المستخدم في الدليل" في SharePoint Online و[OneDrive for Business](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business).
+لمزيد من المعلومات، الرجاء الاطلاع على أخطاء "رفض الوصول" أو "أنت بحاجة إلى إذن للوصول إلى هذا الموقع" أو أخطاء "لم يتم العثور على المستخدم في[الدليل" في](https://docs.microsoft.com/sharepoint/support/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)SharePoint عبر الإنترنت OneDrive for Business .
