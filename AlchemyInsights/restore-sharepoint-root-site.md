@@ -1,5 +1,5 @@
 ---
-title: استعادة موقع الجذر SharePoint
+title: استعادة SharePoint الجذر
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,14 +12,14 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003017"
 - "5730"
-ms.openlocfilehash: fd0d3858cd073ab6f5dbfdd8b1f24adde37f8146
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
-ms.translationtype: HT
+ms.openlocfilehash: 7793e28fbf17efbfa72da9bcb0a06f094b90b041f65aa500b9ab85010c234a02
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51835690"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109587"
 ---
-# <a name="restore-the-sharepoint-root-site"></a>استعادة موقع الجذر SharePoint
+# <a name="restore-the-sharepoint-root-site"></a>استعادة SharePoint الجذر
 
 استعادة الموقع الجذر المحذوف من مركز إدارة SharePoint الجديد. بعد استعادته، استبدل الموقع بدلا من ذلك.
 

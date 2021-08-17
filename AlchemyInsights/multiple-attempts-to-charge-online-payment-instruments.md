@@ -16,12 +16,12 @@ ms.custom:
 - "445"
 - "1500018"
 ms.assetid: 29635602-3521-4663-9d85-d111f85b3a19
-ms.openlocfilehash: 01048236f5278d9c0c866e64b2f01e221f9e12d530b795467c638387b111d85e
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: d65e2d4404ec6bfceb653c4f04deb7529c056cc746e9fefb113cdc1fd16261b1
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502703"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57889749"
 ---
 # <a name="past-due-account"></a>هل تم استحقاء الحساب؟
 
@@ -29,8 +29,8 @@ ms.locfileid: "54502703"
 
 1. في مركز الإدارة، انتقل إلى الفوترة > **[المنتجات & الخدمات](https://go.microsoft.com/fwlink/p/?linkid=842054)**.
 ابحث عن الاشتراك بالرصيد المستحق. في **قسم الفوترة،** بجانب الاشتراك تم دفع  مستحق الدفع من قبل **،** انقر فوق تسوية الرصيد لدفع الرصيد المستحق بالكامل.
-2. إذا كنت تملك بطاقة الائتمان، يمكنك تغيير تاريخ انتهاء الصلاحية أو اختيار بطاقة مختلفة أو [إضافة بطاقة جديدة.](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
-3. إذا لم تكن تملك بطاقة الائتمان، يمكنك اختيار بطاقة ائتمان مختلفة أو [إضافة بطاقة جديدة.](/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
-4. بعد الانتهاء من التحديثات، انقر فوق **حفظ**.
+2. إذا كنت تملك بطاقة الائتمان، يمكنك تغيير تاريخ انتهاء الصلاحية أو اختيار بطاقة مختلفة أو [إضافة بطاقة جديدة.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+3. إذا لم تكن تملك بطاقة الائتمان، يمكنك اختيار بطاقة ائتمان مختلفة أو [إضافة بطاقة جديدة.](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods)
+4. بعد إكمال التحديثات، انقر فوق **حفظ**.
 
 **ملاحظة:** بعد تسديد الدفعة، قد لا يزال الإعلام السابق المستحق مرئيا لفترة زمنية قصيرة. يرجى الانتظار **لمدة 48 ساعة على** الأقل قبل الاتصال بالدعم.
