@@ -1,5 +1,5 @@
 ---
-title: إنشاء مجلدات عمومية
+title: إنشاء مجلدات عامة
 ms.author: dmaguire
 author: msdmaguire
 manager: dansimp
@@ -12,24 +12,24 @@ ms.custom:
 - "632"
 - "3500007"
 ms.assetid: a53e3a0a-db1c-410e-8340-e93c06155f60
-ms.openlocfilehash: 7c6cd03163dba1b0b64e2f6dbe3abac747065645
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f380ad158108e07c08d50daafd415a5847df730c1bf4715d70aab7c30860f4d6
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47746674"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54103287"
 ---
-# <a name="creating-public-folders"></a>إنشاء مجلدات عمومية
+# <a name="creating-public-folders"></a>إنشاء مجلدات عامة
 
-قبل ان يتمكن المستخدمون من استخدام المجلدات العامة ، ستحتاج إلى إنشاء علبه بريد مجلد عمومي واحده علي الأقل. لإنشاء:
+قبل أن يستطيع المستخدمون استخدام المجلدات العامة، ستحتاج إلى إنشاء علبة بريد مجلد عمومي واحدة على الأقل. لإنشاء:
   
-1. في مركز أداره Microsoft 365 ، انتقل إلى Exchange **مراكز الاداره** \> **Exchange**.
+1. في مركز مسؤولي Microsoft 365، انتقل إلى **مراكز الإدارة Exchange** \> .
 
-2. انتقل إلى **Public folders** \> **علب بريد المجلدات**العمومية ، ثم انقر فوق **أضافه**.
+2. انتقل إلى **المجلدات العامة** \> **علب بريد المجلدات العامة**، ثم انقر فوق **إضافة**.
 
-3. في **علبه بريد المجلد العمومي**، ادخل اسما لعلبه بريد المجلد العمومي.
+3. في **علبة بريد المجلد العمومي**، املأ اسما لعلبة بريد المجلد العمومي.
 
 4. انقر فوق **حفظ**.
 
-بمجرد إنشاء علبه بريد ، يمكنك البدء في إنشاء مجلدات فرديه أو اعلام المستخدمين [بإنشاء المجلدات العامة واستخدامها في Outlook](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97).
+بمجرد إنشاء علبة بريد، يمكنك بدء إنشاء مجلدات فردية أو إخبار المستخدمين ببدء إنشاء المجلدات العامة واستخدامها في [Outlook.](https://support.office.com/article/Create-and-share-a-public-folder-in-Outlook-a2835011-d524-4a5c-a207-05c159bb2a97)
   

@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100008"
 - "7255"
-ms.openlocfilehash: 7c5d4e29cf3d18493ea4a46fa75c3586aeb456c9dbfd55e116caa67b6cd11202
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 691439e12f69643fcb97596127c00e1388d53829
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54034489"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58303384"
 ---
 # <a name="how-users-can-search-their-online-archive-for-messages"></a>كيف يمكن للمستخدمين البحث في الأرشيف عبر الإنترنت عن الرسائل
 
@@ -27,5 +27,4 @@ ms.locfileid: "54034489"
 2. في Outlook على ويب، يسمى الأرشيف الأرشيف *في مكان .* انتقل إلى In-Place بريد الأرشيف ثم قم بإجراء البحث.
 3. في Outlook 2016، يسمى الأرشيف عبر *الإنترنت - <`name` >*. انتقل إلى علبة بريد الأرشيف عبر الإنترنت ثم قم بإجراء البحث.
 
-> [!TIP]
-> لا يمكن للمستخدمين الوصول إلى علبة بريد الأرشيف عبر الإنترنت باستخدام Outlook على جهاز محمول، مثل هاتف ذكي.
+**تلميح:** لا يمكن للمستخدمين الوصول إلى علبة بريد الأرشيف عبر الإنترنت باستخدام Outlook على جهاز محمول، مثل هاتف ذكي.
