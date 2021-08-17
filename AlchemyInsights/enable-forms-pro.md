@@ -1,5 +1,5 @@
 ---
-title: تمكين Forms Pro أو تعطيله
+title: تمكين النماذج أو تعطيلها Pro
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,19 +12,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "2546"
 - "9000672"
-ms.openlocfilehash: c4fad42beb2eebd96ee096732a12c206c1d6cbf4
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 03d5a9d06e2fe2f34d26d4fdc5b2e1b3cc40268d9e226cba2f30aae880d941fe
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814215"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057197"
 ---
-# <a name="enable-or-disable-forms-pro"></a>تمكين Forms Pro أو تعطيله
+# <a name="enable-or-disable-forms-pro"></a>تمكين النماذج أو تعطيلها Pro
 
-لقد تطور Microsoft Forms Pro إلى Dynamics 365 Customer Voice، مما يوفر لك قدرات استطلاع إضافية وفوائد أعمال. لمزيد من المعلومات، راجع [موارد المساعدة ل Dynamics 365 Customer Voice](https://go.microsoft.com/fwlink/p/?linkid=2128357).  
+لقد Pro Microsoft Forms إلى Dynamics 365 Customer Voice، مما يوفر لك قدرات استطلاع إضافية وفوائد أعمال. لمزيد من المعلومات، راجع [موارد المساعدة ل Dynamics 365 Customer Voice](https://go.microsoft.com/fwlink/p/?linkid=2128357).  
 
-يتم تضمين Microsoft Forms Pro كجزء من ترخيص مؤسسة Dynamics 365. بدلا من ذلك، يمكن للمسؤول شراء ترخيص Microsoft Forms Pro. يمكنك أيضا إزالة ترخيص Microsoft Forms Pro من مستخدم.  
+يتم Pro Microsoft Forms كجزء من ترخيص مؤسسة Dynamics 365. بدلا من ذلك، يمكن للمسؤول شراء ترخيص Microsoft Forms Pro جديد. يمكنك أيضا إزالة ترخيص Microsoft Forms Pro من مستخدم.  
 
-لمزيد من المعلومات حول الترخيص، راجع [شراء Microsoft Forms Pro](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant) [وتعطيل Microsoft Forms Pro لمستخدم](https://docs.microsoft.com/forms-pro/purchase#disable-microsoft-forms-pro-for-a-user-1).
+لمزيد من المعلومات حول الترخيص، راجع شراء [Microsoft Forms](https://docs.microsoft.com/forms-pro/purchase#purchase-microsoft-forms-pro-for-users-in-a-dynamics-365-tenant) Pro Microsoft [Forms Pro مستخدم](https://docs.microsoft.com/forms-pro/purchase#disable-microsoft-forms-pro-for-a-user-1).
   
-للحصول على موارد المساعدة، راجع استكشاف الأخطاء وإصلاحها [في Forms Pro](https://docs.microsoft.com/forms-pro/troubleshoot).
+للحصول على موارد المساعدة، راجع استكشاف الأخطاء وإصلاحها [في النماذج Pro](https://docs.microsoft.com/forms-pro/troubleshoot).

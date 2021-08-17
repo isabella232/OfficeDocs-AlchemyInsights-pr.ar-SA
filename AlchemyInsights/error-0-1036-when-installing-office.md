@@ -1,5 +1,5 @@
 ---
-title: ظهور رسالة الخطا 0-1036 عند تثبيت office
+title: الخطأ 0-1036 عند تثبيت office
 ms.author: janellem
 author: janellem
 ms.date: 04/21/2020
@@ -12,27 +12,27 @@ ms.custom:
 - "984"
 - "2000020"
 ms.assetid: 42017e50-9544-4869-86e6-0009d325aa1b
-ms.openlocfilehash: 9047f30109428c5d94ff5d69c17ed57562175fef
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f0779ef2460059d5469fc3e7c3ace6f57ce137559ca782152c8c312eb1a5b07d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47709258"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057161"
 ---
-# <a name="error-0-1036-when-installing-office"></a>ظهور رسالة الخطا 0-1036 عند تثبيت office
+# <a name="error-0-1036-when-installing-office"></a>الخطأ 0-1036 عند تثبيت office
 
-جرب هذه الحلول لإصلاح خطا Office 0-1036:
+جرب هذه الحلول لإصلاح الخطأ Office 0-1036:
   
-- أعد تشغيل الكمبيوتر وحاول [تثبيت Office](https://portal.office.com/OLS/MySoftware.aspx) مره أخرى.
+- أعد تشغيل الكمبيوتر وحاول [تثبيت Office](https://portal.office.com/OLS/MySoftware.aspx) مرة أخرى.
 
 - قم بتنزيل وتثبيت [مساعد الإصلاح والدعم](https://aka.ms/SARA-OfficeUninstall-Alchemy).
 
-1. عند فتحه ، من **إلغاء تثبيت منتجات Office** ، حدد الإصدار الذي تريد إلغاء تثبيته ، وحدد **التالي**.
+1. عند فتحه،  من إلغاء تثبيت Office حدد الإصدار الذي تريد إلغاء تثبيته، وحدد **التالي**.
 
 2. استمر في العمل عبر الشاشات وقم بإعادة تشغيل الكمبيوتر عندما تتم مطالبتك بذلك.
 
-    بعد أعاده التشغيل ، يعاد فتح مساعد الإصلاح والدعم تلقائيا لإكمال عمليه أزاله التثبيت.
+    بعد إعادة التشغيل، مساعد الإصلاح والدعم إعادة فتح تلقائيا لإكمال عملية إلغاء التثبيت.
 
-3. اتبع المطالبات المتبقية ، وقم [باعاده تثبيت Office](https://portal.office.com/OLS/MySoftware.aspx) أو اغلق المساعد.
+3. اتبع المطالبات المتبقية، ثم Office [إعادة](https://portal.office.com/OLS/MySoftware.aspx) تثبيت المساعد أو إغلاقه.
 
-- [استخدام مثبت office غير المتصل](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) لتثبيت office
+- [استخدم Office غير المتصل](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) لتثبيت Office
