@@ -14,12 +14,12 @@ ms.custom:
 - commerce_licensing
 - "652"
 - "2000017"
-ms.openlocfilehash: a7c749095478a227f7981b7057a92690d90b9195802bde3a8f784e25d1ac03a7
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 51c3e5ed3398b8d341bc2e84b8ae56bfd36a07f4de167042891a9ed606a94669
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499643"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892526"
 ---
 # <a name="how-to-buy-licenses-for-your-microsoft-365-apps-for-business-subscription"></a>كيفية شراء التراخيص لاشتراكك في Microsoft 365 Apps for business
 
@@ -32,4 +32,4 @@ ms.locfileid: "54499643"
 3. في الجزء **شراء التراخيص،** ضمن كمية  جديدة في المربع إجمالي التراخيص، أدخل العدد الإجمالي للتراخيص التي تريدها لهذا الاشتراك.  على سبيل المثال، إذا كان لديك 100 ترخيص وتريد إضافة 25 ترخيصا آخر، أدخل 125.
 4. حدد **حفظ**.
 
-لمعرفة المزيد، راجع [شراء التراخيص أو إزالتها](/microsoft-365/commerce/licenses/buy-licenses).
+لمعرفة المزيد، راجع [شراء التراخيص أو إزالتها](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

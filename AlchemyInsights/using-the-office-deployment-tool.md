@@ -1,5 +1,5 @@
 ---
-title: استخدام أداه النشر من Office
+title: استخدام أداة Office النشر
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,31 +12,31 @@ ms.custom:
 - "918"
 - "2000022"
 ms.assetid: 7ff7cc06-76d0-468f-bd66-3f2760750d04
-ms.openlocfilehash: f3a5dbfc6b64ccd4f0b19a5f86236336e78838d4
-ms.sourcegitcommit: 35e2c122d8a838d98d1f0851c29b16282261580f
+ms.openlocfilehash: 39a011d4b121492d222ff620e70d9860231b7bcfe0d7fd2ecfd93de1ef502f5f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "49085819"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083757"
 ---
-# <a name="using-the-office-deployment-tool-odt"></a>استخدام أداه النشر من Office (ODT)
+# <a name="using-the-office-deployment-tool-odt"></a>استخدام أداة Office (ODT)
 
-يمكنك استخدام أداه النشر من office (ODT) لنشر إصدارات Office 365 من Office. يتم تشغيل أداه نشر Office (setupodt.exe) من سطر الأوامر وتستخدم ملف XML تكوين لتحديد الإعدادات التي يجب تطبيقها عند نشر Office.
+يمكنك استخدام أداة Office (ODT) لنشر Office 365 من Office. يتم Office أداة النشر (setup.exe) من سطر الأوامر وتستخدم ملف تكوين XML لتحديد الإعدادات التي يجب تطبيقها عند نشر Office.
   
-1. قم بتنزيل أحدث إصدار من أداه نشر Office من [مركز التنزيل ل Microsoft](https://go.microsoft.com/fwlink/p/?LinkID=626065).
+1. قم بتنزيل أحدث إصدار من أداة Office من [مركز تنزيل Microsoft](https://go.microsoft.com/fwlink/p/?LinkID=626065).
 
-2. استخدم [أداه تخصيص Office (OCT)](https://config.office.com) لتحديد تفضيلات النشر وإنشاء ملف XML للتكوين. تصدير ملف التكوين ووضعه محليا علي المجلد نفسه الذي يتواجد فيه الsetupodt.exe.
+2. استخدم أداة [Office التخصيص (OCT)](https://config.office.com) لتحديد تفضيلات النشر وإنشاء ملف تكوين XML. تصدير ملف التكوين ثم ضعه محليا على المجلد نفسه الذي setup.exe فيه.
 
-    **ملاحظه:** تحدث مشاكل تثبيت Office بشكل عام بسبب ملفات تكوين غير صحيحه أو مالفورماتيد. لتجنب هذه المشاكل ، ننصحك باستخدام أداه تخصيص Office لإنشاء ملف التكوين. يمكنك أيضا استيراد ملفات التكوين الموجودة في أداه تخصيص Office.
+    **ملاحظة:** Office عادة ما تحدث مشاكل التثبيت بسبب ملفات التكوين التي تم تكوينها بشكل غير صحيح أو التي تم تكوينها بشكل غير صحيح. لتجنب مثل هذه المشاكل، نوصي باستخدام أداة Office التخصيص لإنشاء ملف التكوين. يمكنك أيضا استيراد ملفات التكوين الموجودة إلى Office التخصيص.
 
-3. من موجه أوامر غير مقيد ، انتقل إلى الموقع الذي setupodt.exe فيه وقم بتشغيل أداه نشر Office في وضع التنزيل وحدد ملف التكوين الذي حفظته للتو. في هذا المثال ، يتم تسميه ملف التكوين Configuration.xml:
+3. من موجه أوامر غير مرفأ، قم بالتبديل إلى الموقع الذي setup.exe فيه وتشغيل أداة النشر Office في وضع التنزيل وحدد ملف التكوين الذي حفظته للتو. في هذا المثال، يسمى ملف التكوين Configuration.xml:
 
-```setupodt.exe /download Configuration.xml```
+```setup.exe /download Configuration.xml```
 
-4. قم بتشغيل أداه نشر Office في وضع التكوين وحدد ملف التكوين.
+4.قم بتشغيل Office النشر في وضع التكوين وحدد ملف التكوين.
 
-```setupodt.exe /configure Configuration.xml```
+```setup.exe /configure Configuration.xml```
 
-**ملاحظه:** يجب تشغيل هذه الخطوة من الكمبيوتر العميل الذي تريد تثبيت Office عليه ، ويجب ان يكون لديك أذونات المسؤول المحلي علي هذا الكمبيوتر.
+**ملاحظة:** يجب تشغيل هذه الخطوة من الكمبيوتر العميل الذي تريد تثبيت Office عليه ويجب أن يكون لديك أذونات المسؤول المحلي على هذا الكمبيوتر.
 
-للحصول علي مزيد من المعلومات حول استخدام أداه النشر من Office الخاصة بتطبيقات Microsoft 365 لسيناريوهات نشر المؤسسة ، راجع [نظره عامه حول أداه نشر Office](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool). للحصول علي مزيد من التفاصيل حول كيفيه استخدام أداه تخصيص Office ، راجع [نظره عامه حول أداه تخصيص office](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run).
+لمعرفة المزيد حول استخدام أداة Office لسيناريوهات النشر Microsoft 365 Apps for enterprise، راجع نظرة عامة على Office [النشر.](https://docs.microsoft.com/deployoffice/overview-office-deployment-tool) لمزيد من التفاصيل حول كيفية استخدام أداة Office التخصيص، راجع نظرة عامة [على Office التخصيص.](https://docs.microsoft.com/DeployOffice/overview-of-the-office-customization-tool-for-click-to-run)

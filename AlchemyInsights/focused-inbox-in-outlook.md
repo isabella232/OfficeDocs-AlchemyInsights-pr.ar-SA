@@ -1,5 +1,5 @@
 ---
-title: 1800019 علبه وارد المركز عليه في Outlook
+title: 1800019 "علبة وارد مركز عليه" في Outlook
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,21 +13,21 @@ ms.custom:
 - "908"
 - "1800019"
 ms.assetid: f01362e1-17da-4528-b116-9b3240dd3f15
-ms.openlocfilehash: d6aa9482d1b424ab52b7f38ee4f731055d2d13ea
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 37a19bc27b04cdb5d1682f46087fb4286d8f0aeba13300a0dbf3ca549d9dd402
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744460"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117003"
 ---
-# <a name="focused-inbox-in-outlook"></a>علبه وارد المركز عليه في Outlook
+# <a name="focused-inbox-in-outlook"></a>علبة وارد مركز عليه في Outlook
 
-تمثل علبه وارد المركز عليه علبه الوارد الخاصة بك في علامتي تبويب — المركز عليه وغيرها. توجد الرسائل الأكثر اهميه في علامة التبويب المركز عليه اثناء الوصول إلى الباقي بسهوله — ولكن بالخارج عن الطريق ، علي علامة التبويب غير ذلك.
+تفصل "علبة وارد مركز عليه" علبة الوارد إلى تبويبتين— "مركز عليه" و"أخرى". توجد رسائلك الأكثر أهمية على علامة التبويب "مركز عليه" في حين تبقى الرسائل المتبقية سهلة الوصول إليها— ولكن بعيدا عن بعضها— على علامة التبويب "أخرى".
   
-[Outlook 2016](https://go.microsoft.com/fwlink/p/?linkid=2002112&amp;clcid=0x409)  |  [Outlook علي الويب](https://go.microsoft.com/fwlink/p/?linkid=2002113&amp;clcid=0x409)  |  [Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2002012&amp;clcid=0x409)  |  [Outlook 2016 For Mac](https://go.microsoft.com/fwlink/p/?linkid=2002013&amp;clcid=0x409)  |  [البريد لنظام التشغيل Windows 10](https://go.microsoft.com/fwlink/p/?linkid=2001919&amp;clcid=0x409)
+[Outlook 2016](https://go.microsoft.com/fwlink/p/?linkid=2002112&amp;clcid=0x409)  |  [Outlook على ويب](https://go.microsoft.com/fwlink/p/?linkid=2002113&amp;clcid=0x409)  |  [Outlook.com](https://go.microsoft.com/fwlink/p/?linkid=2002012&amp;clcid=0x409)  |  [Outlook 2016 for Mac](https://go.microsoft.com/fwlink/p/?linkid=2002013&amp;clcid=0x409)  |  [البريد Windows 10](https://go.microsoft.com/fwlink/p/?linkid=2001919&amp;clcid=0x409)
   
-التعرف على المزيد:
+معرفة المزيد:
   
-- [راجع علبه وارد المركز عليه في العمل](https://go.microsoft.com/fwlink/p/?linkid=2002212&amp;clcid=0x409)
+- [راجع "علبة وارد مركز عليه" في الإجراء](https://go.microsoft.com/fwlink/p/?linkid=2002212&amp;clcid=0x409)
 
-- [تكوين علبه وارد المركز عليه لجميع الأشخاص في مؤسستك باستخدام PowerShell](https://go.microsoft.com/fwlink/p/?linkid=2002308&amp;clcid=0x409)
+- [تكوين "علبة وارد مركز عليه" لجميع الأشخاص في مؤسستك باستخدام PowerShell](https://go.microsoft.com/fwlink/p/?linkid=2002308&amp;clcid=0x409)

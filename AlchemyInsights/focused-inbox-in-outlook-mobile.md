@@ -1,5 +1,5 @@
 ---
-title: 1800019 علبه وارد المركز عليه في Outlook mobile
+title: 1800019 "علبة وارد مركز عليه" في Outlook المحمول
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -13,24 +13,24 @@ ms.custom:
 - "910"
 - "1800019"
 ms.assetid: 88b55558-3c45-47d1-8b34-f297c0e344f5
-ms.openlocfilehash: 3593277f39ac003cc56efafe20c7ede21b71ea1a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: be1962be5200c2b665e5c52abcabf151d27887e8fd39f7f9296381abdd430d51
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47744388"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54117039"
 ---
-# <a name="focused-inbox-for-outlook-mobile"></a>علبه وارد المركز عليه ل Outlook mobile
+# <a name="focused-inbox-for-outlook-mobile"></a>علبة وارد مركز عليه Outlook المحمول
 
-[ما هو علبه وارد المركز عليه ؟](https://go.microsoft.com/fwlink/p/?linkid=2001915&amp;clcid=0x409)
+[ما هي "علبة وارد مركز عليه"؟](https://go.microsoft.com/fwlink/p/?linkid=2001915&amp;clcid=0x409)
   
-[كيف يمكنني تحرير القواعد التي تنقل البريد الكتروني في علبه وارد المركز عليه والخروج منها ؟](https://go.microsoft.com/fwlink/p/?linkid=2002210&amp;clcid=0x409)
+[كيف يمكنني تحرير القواعد التي تحرك بريدي الإلكتروني داخل علبة وارد "مركز عليه" أو خارجها؟](https://go.microsoft.com/fwlink/p/?linkid=2002210&amp;clcid=0x409)
   
-[كيف يمكنني إيقاف تشغيل "علبه وارد المركز عليه" أو تغيير عدد الشارات ومزامنة الاعلامات إلى "علبه وارد المركز عليه" ؟](https://go.microsoft.com/fwlink/p/?linkid=2001916&amp;clcid=0x409)
+[كيف يمكنني إيقاف تشغيل "علبة وارد مركز عليه" أو تغيير ما إذا كان عدد الشارات والإعلامات تتم مزامنتها مع "علبة وارد مركز عليه"؟](https://go.microsoft.com/fwlink/p/?linkid=2001916&amp;clcid=0x409)
   
-[كيف يمكنني إيقاف تشغيل "علبه وارد المركز عليه" أو تغيير ما إذا كنت تريد مزامنة الاعلامات إلى "علبه وارد المركز عليه" ؟](https://go.microsoft.com/fwlink/p/?linkid=2001917&amp;clcid=0x409)
+[كيف يمكنني إيقاف تشغيل "علبة وارد مركز عليه" أو تغيير ما إذا كانت الإعلامات تتم مزامنتها مع "علبة وارد مركز عليه"؟](https://go.microsoft.com/fwlink/p/?linkid=2001917&amp;clcid=0x409)
   
-[كيف يمكنني التبديل بين المركز عليه وغير ذلك ؟](https://go.microsoft.com/fwlink/p/?linkid=2002211&amp;clcid=0x409)
+[كيف يمكنني تبديل بين "مركز عليه" و"أخرى"؟](https://go.microsoft.com/fwlink/p/?linkid=2002211&amp;clcid=0x409)
   
-تعرف علي [المزيد: الحصول علي تعليمات في تطبيق Outlook ل iOS و Android](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)
+تعرف على المزيد: [الحصول على تعليمات داخل التطبيق Outlook لنظامي التشغيل iOS وAndroid](https://go.microsoft.com/fwlink/p/?linkid=2001918&amp;clcid=0x409)
   

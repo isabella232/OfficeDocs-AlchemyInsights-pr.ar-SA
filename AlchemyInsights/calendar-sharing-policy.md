@@ -1,5 +1,5 @@
 ---
-title: نهج مشاركه تقويم 618
+title: نهج مشاركة التقويم 618
 ms.author: chrisda
 author: chrisda
 manager: scotv
@@ -15,27 +15,27 @@ ms.custom:
 - "899"
 - "3800014"
 ms.assetid: bc3db17b-87f8-4e50-b3ee-8b105b70d67a
-ms.openlocfilehash: d2511183d068330cdcfb4e08b08df4f18625c822
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 1f1bfb0273301c05f5fe5f8af5fb9039328390d16305e33897680dce1c1977e8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684217"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54091570"
 ---
-# <a name="policy-error-when-sharing-a-calendar"></a>خطا في النهج عند مشاركه تقويم
+# <a name="policy-error-when-sharing-a-calendar"></a>خطأ النهج عند مشاركة تقويم
 
-1. قم بواحد مما يلي ، بما يتناسب مع حالتك:
-    - الاتصال ب Exchange Online باستخدام PowerShell البعيد. لمزيد من المعلومات ، راجع [الاتصال ب Exchange Online باستخدام PowerShell البعيد](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx).
-    - علي الخادم المحلي ، افتح Exchange Management Shell.
-2. تحديد نهج المشاركة الذي تم تعيينه إلى المستخدم. للقيام بذلك ، قم بتشغيل الأمر التالي ولاحظ ان النهج ارجع:
+1. القيام بوا واحد من الإجراءات التالية، بما يلائم وضعك:
+    - الاتصال Exchange Online باستخدام Remote PowerShell. لمزيد من المعلومات، راجع الاتصال [Exchange Online Remote PowerShell](https://technet.microsoft.com/library/jj984289%28v=exchg.160%29.aspx).
+    - على الخادم في الموقع، افتح Exchange Management Shell.
+2. تحديد نهج المشاركة المعين إلى المستخدم. للقيام بذلك، يمكنك تشغيل الأمر التالي ولاحظ أن النهج تم إرجاعه:
 
     `
     Get-Mailbox User1 | fl *sharing*
     `
 
 3. تحديث نهج المشاركة للمستخدم. لعمل ذلك، اتبع الخطوات التالية:
-    - افتح مركز أداره Exchange.
-    - انقر فوق **المؤسسة**، ثم انقر نقرا مزدوجا فوق النهج الذي تم تعيينه إلى المستخدم ضمن **المشاركة الفردية**. هذا هو النهج الذي تم إرجاعه في الخطوة 2.
-    - في صفحه قاعده المشاركة ، حدد مستوي مشاركه التقويم الذي تريد السماح به ضمن **تحديد المعلومات التي تريد مشاركتها**؛ انقر فوق **حفظ**.
+    - افتح Exchange الإدارة.
+    - انقر **فوق** المؤسسة ، ثم انقر نقرا مزدوجا فوق النهج المعين إلى المستخدم ضمن **المشاركة الفردية**. هذا هو النهج الذي تم إرجاعه في الخطوة 2.
+    - في صفحة قاعدة المشاركة، حدد مستوى مشاركة التقويم الذي تريد السماح به ضمن **تحديد المعلومات التي تريد مشاركتها**؛ انقر فوق **حفظ**.
 
-لمزيد من المعلومات ، راجع: ["لا يسمح النهج بمنح الأذونات الموجودة في هذا المستوي إلى رسالة واحده أو أكثر من المستلمين" عند محاولة المستخدم مشاركه التقويم](https://docs.microsoft.com/exchange/troubleshoot/calendar-sharing/policy-permissions-issue).
+لمزيد من المعلومات، راجع: "لا يسمح النهج بمنح أذونات على هذا المستوى لخطأ واحد أو أكثر من المستلمين [(المستلمين)](https://docs.microsoft.com/exchange/troubleshoot/calendar-sharing/policy-permissions-issue)عندما يحاول المستخدم مشاركة التقويم.

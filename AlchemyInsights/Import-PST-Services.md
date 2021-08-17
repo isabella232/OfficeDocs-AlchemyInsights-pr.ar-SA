@@ -14,12 +14,12 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 71d2eb88c6ef79952084ff74e63506f097562f7b181248cf9a83ddc56dbffb2a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 55cccce6f2c8e628bd76278486f4e95a09e020f5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57891742"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58312710"
 ---
 # <a name="microsoft-365-import-service"></a>Microsoft 365 استيراد الخدمة
 
@@ -31,7 +31,7 @@ ms.locfileid: "57891742"
 
 1. في الصفحة **استيراد،** حدد **مهمة استيراد جديدة**. أدخل اسم مهمة، وحدد **التالي**.
 
-1. حدد **Upload البيانات لاستخدام** خيار تحميل الشبكة لنوع مهمة **الاستيراد**. للحصول على خطوات مفصلة، راجع [استخدام تحميل الشبكة لاستيراد](https://docs.microsoft.com/compliance/use-network-upload-to-import-pst-files)ملفات PST الخاصة مؤسستك Microsoft 365 .
+1. حدد **Upload البيانات لاستخدام** خيار تحميل الشبكة ل نوع مهمة **الاستيراد**. للحصول على خطوات مفصلة، راجع [استخدام تحميل الشبكة لاستيراد](https://docs.microsoft.com/compliance/use-network-upload-to-import-pst-files)ملفات PST الخاصة مؤسستك Microsoft 365 .
 
 للوصول إلى **صفحة الاستيراد،** تأكد من تعيين الأذونات المناسبة لك. لمزيد من المعلومات، راجع [استخدام تحميل الشبكة لاستيراد ملفات PST](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files).
 

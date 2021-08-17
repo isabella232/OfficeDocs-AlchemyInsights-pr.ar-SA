@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "530"
 - "1400007"
-ms.openlocfilehash: 86a51ca294c18c5a596d626f4e2caf8e0a2fa9cdf554d0390dd31b97445a0b6d
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: e7d9616a1e3ff499cf7859699e837893927fcded
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54499067"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58313721"
 ---
 # <a name="buy-additional-licenses"></a>شراء تراخيص إضافية
 
@@ -31,8 +31,8 @@ ms.locfileid: "54499067"
 3. ضمن **كمية جديدة** في المربع إجمالي **التراخيص،** أدخل العدد الإجمالي للتراخيص التي تريدها لهذا الاشتراك. على سبيل المثال، إذا كان لديك 100 ترخيص وتريد إضافة 25 ترخيصا آخر، أدخل 125.
 4. حدد **حفظ**.
 
-لمعرفة المزيد، راجع [شراء التراخيص أو إزالتها](/microsoft-365/commerce/licenses/buy-licenses).
+لمعرفة المزيد، راجع [شراء التراخيص أو إزالتها](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).
 
 **موارد إضافية**
 
-[تعيين تراخيص للمستخدمين في Microsoft 365 للأعمال](/microsoft-365/admin/manage/assign-licenses-to-users)
+[تعيين تراخيص للمستخدمين في Microsoft 365 للأعمال](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)

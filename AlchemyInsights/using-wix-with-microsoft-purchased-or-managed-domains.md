@@ -1,5 +1,5 @@
 ---
-title: استخدام موقع ويب Wix مع المجالات التي تم شراؤها أو مداره من Microsoft
+title: استخدام موقع ويب Wix مع مجالات Microsoft التي تم شراؤها أو إدارتها
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "5855"
 - "9003096"
-ms.openlocfilehash: bef0943c8621043218088abf0deebddf6c19ef50
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: dd0f8beb8f1871c2c43ac14a7f6d1cce79386fcc353bb2a690ba184904ca5857
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47664733"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083721"
 ---
-# <a name="using-a-wix-website-with-microsoft-purchased-or-managed-domains"></a>استخدام موقع ويب Wix مع المجالات التي تم شراؤها أو مداره من Microsoft
+# <a name="using-a-wix-website-with-microsoft-purchased-or-managed-domains"></a>استخدام موقع ويب Wix مع مجالات Microsoft التي تم شراؤها أو إدارتها
 
-للحصول علي معلومات حول كيفيه استخدام موقع ويب Wix مع مجال تم شراؤه أو مدار من قبل Microsoft ، راجع [تحديث سجلات DNS للاحتفاظ بموقعك علي ويب مع موفر الاستضافة الحالي](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider).
+للحصول على معلومات حول كيفية استخدام موقع ويب Wix مع مجال Microsoft تم شراؤه أو إدارته، راجع تحديث سجلات DNS لإبقاء موقعك على ويب مع موفر [الاستضافة الحالي.](https://docs.microsoft.com/microsoft-365/admin/dns/update-dns-records-to-retain-current-hosting-provider)
 
-للحصول علي التفاصيل ، راجع: 
+للحصول على التفاصيل، راجع: 
 
-- Wix المقالة "الاتصال بمجال إلى Wix باستخدام أسلوب التاشير ،" يوصي باضافه سجلات DNS كما هو مبين في الارتباط أعلاه بدلا من تغيير خوادم الأسماء عند استخدام Microsoft 365.
+- توصي مقالة Wix، "توصيل مجال ب Wix باستخدام أسلوب الإشارة"، بإضافة سجلات DNS كما هو موضح في الارتباط أعلاه بدلا من تغيير خوادم الأسماء عند استخدام Microsoft 365.
 
-- إذا اخترت تغيير خوادم الأسماء إلى Wix ، فيجب إنشاء سجلات DNS في Wix لشركه Microsoft. لمزيد من المعلومات ، راجع [إنشاء سجلات DNS في Wix ل Microsoft](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-wix).
+- إذا اخترت تغيير خوادم الاسم إلى Wix، فيجب إنشاء سجلات DNS في Wix ل Microsoft. لمزيد من المعلومات، راجع [إنشاء سجلات DNS في Wix ل Microsoft](https://docs.microsoft.com/microsoft-365/admin/dns/create-dns-records-at-wix).
 
-- إذا تم شراء مجالك من Microsoft ، فلا يمكن تغيير خوادم الأسماء. إذا كان يجب عليك تغيير خوادم الأسماء ، فيجب نقل المجال الذي اشتريته Microsoft إلى موفر استضافه آخر بعد 60 يوما. للحصول علي مزيد من المعلومات ، راجع [نقل مجال من Microsoft إلى مضيف آخر](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host).
+- إذا تم شراء مجالك من Microsoft، لا يمكن تغيير خوادم الاسم. إذا كان عليك تغيير خوادم الأسماء، فيجب نقل المجال الذي اشتريته Microsoft إلى موفر استضافة آخر بعد مرور 60 يوما. لمزيد من المعلومات، راجع [نقل مجال من Microsoft إلى مضيف آخر.](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host)

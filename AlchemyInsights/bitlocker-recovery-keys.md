@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "1922"
 - "9000220"
-ms.openlocfilehash: ec90e412302c74748e253f2e5430fa4205466f0d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f71fae0aabda3fc48f20d5ea1e6909475f0c17ff5cdf98b58b1403bd2e291c19
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51820273"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54060051"
 ---
 # <a name="accessing-bitlocker-recovery-keys"></a>الوصول إلى مفاتيح استرداد Bitlocker
 
-عند تكوين إعدادات Bitlocker نهج حماية نقطة نهاية Intune، من الممكن تحديد ما إذا كان يجب تخزين معلومات استرداد Bitlocker في Azure Active Directory.
+عند تكوين إعدادات Bitlocker Intune Endpoint Protection، من الممكن تحديد ما إذا كان يجب تخزين معلومات استرداد Bitlocker في Azure Active Directory.
 
 إذا تم تكوين هذا الإعداد، يجب أن تكون بيانات الاسترداد المخزنة مرئية لمسؤول Intune كجزء من بيانات سجل الجهاز في شفرة أجهزة Intune باستخدام طريقتين:
 

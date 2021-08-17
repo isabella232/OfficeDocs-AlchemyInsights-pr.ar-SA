@@ -14,16 +14,16 @@ ms.custom:
 - commerce_subscriptions
 - "9003019"
 - "5777"
-ms.openlocfilehash: a7d4bd596c12609385b35d520dd1179a8c4a49b8f3d9e630ff6c3cf1acaae761
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48c8c82257467a484205c4fcbb218b2441244915f943ed8d984c9d41767c676d
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54059387"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57894010"
 ---
 # <a name="cancel-advanced-threat-protection"></a>إلغاء الحماية المتقدمة من المخاطر
 
-يمكن للمسؤولين إلغاء اشتراك الحماية من المخاطر المتقدمة لمنظمتهم في مركز مسؤولي Microsoft 365.
+يمكن للمسؤولين إلغاء اشتراك الحماية المتقدمة من المخاطر لمنظمتهم في مركز مسؤولي Microsoft 365.
 
 1. انتقل إلى **صفحة فوترة**  >  [منتجاتك.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. على علامة **التبويب** المنتجات، ابحث عن خطة الحماية المتقدمة من المخاطر التي تريد إلغاؤها. حدد النقاط الثلاث (المزيد من الإجراءات)، ثم حدد **إلغاء الاشتراك**.
@@ -32,4 +32,4 @@ ms.locfileid: "54059387"
 
 **المبلغ المسترد:** سيتم إرجاع أي رصيد مفوتر لك خلال دورة الفوترة التالية.
 
-لمعرفة المزيد، راجع [إلغاء اشتراكك](/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+لمعرفة المزيد، راجع [إلغاء اشتراكك](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
