@@ -1,5 +1,5 @@
 ---
-title: مشاركه الشاشة لا تعمل في الفرق
+title: لا تعمل مشاركة الشاشة في Teams
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,21 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003304"
 - "6207"
-ms.openlocfilehash: 6412791dbd2c9a4c604c114574a00c9b80dfd332
-ms.sourcegitcommit: fbe6925797cab0b38172386f1b059dc122e452a4
+ms.openlocfilehash: bee7d313ccb56aad7ccdd5d20a55a843f069cdaa01c23e763a253c54a2ad55ce
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "48277863"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109083"
 ---
-# <a name="screen-sharing-not-working-in-teams"></a>مشاركه الشاشة لا تعمل في الفرق
+# <a name="screen-sharing-not-working-in-teams"></a>لا تعمل مشاركة الشاشة في Teams
 
-لا تعمل مشاركه الشاشة في الحالات التالية:
+لا تعمل مشاركة الشاشة في هذه الحالات:
 
-- يقوم المستخدم بتشغيل الفرق علي الويب. يجب علي المستخدم التبديل إلى الإصدار المثبت من الفرق.
-- تم تعطيل مشاركه الشاشة علي جهاز Mac. لتمكينه ، راجع  [مشاركه المحتوي علي جهاز Mac](https://support.microsoft.com/office/fcc2bf59-aecd-4481-8f99-ce55dd836ce8#bkmk_sharecontentonmac).
-- مشاركه الشاشة المحظورة من قبل مسؤول الفرق. يمكنك الاطلاع علي مسؤول الفرق إذا كانت هذه هي الحالة.  
+- المستخدم على Teams على الويب. يجب على المستخدم التبديل إلى الإصدار المثبت من Teams.
+- يتم تعطيل مشاركة الشاشة على جهاز Mac. لتمكينه، راجع  [مشاركة المحتوى على جهاز Mac](https://support.microsoft.com/office/fcc2bf59-aecd-4481-8f99-ce55dd836ce8#bkmk_sharecontentonmac).
+- Teams مشاركة الشاشة المحظورة من قبل المسؤول. راجع المسؤول Teams إذا كان الأمر كذلك.  
 
-لمشاركه الصوت مع حضور الاجتماع ، حدد  **تضمين صوت الكمبيوتر**  في عناصر التحكم بالمشاركة بالقرب من اعلي النافذة.
+لمشاركة الصوت مع الحضور في الاجتماع، حدد  **تضمين صوت الكمبيوتر**  في عناصر التحكم بالمشاركة بالقرب من أعلى النافذة.
 
-للحصول علي مزيد من المعلومات ، راجع [مشاركه المحتوي في اجتماع في الفرق](https://support.microsoft.com/office/fcc2bf59-aecd-4481-8f99-ce55dd836ce8).
+لمزيد من المعلومات، راجع مشاركة [المحتوى في اجتماع في Teams](https://support.microsoft.com/office/fcc2bf59-aecd-4481-8f99-ce55dd836ce8).
