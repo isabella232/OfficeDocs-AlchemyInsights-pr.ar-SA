@@ -1,5 +1,5 @@
 ---
-title: خطا 404 ، لم يتم العثور علي الملف
+title: استكشاف أخطاء الخطأ 404 وإصلاحها، لم يتم العثور على الملف
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -8,25 +8,25 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 1b15444c-367b-4523-8e08-1c77bbea7524
-ms.openlocfilehash: e76864949bde7230e63f509823ab1e3edf631388
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 5c65aabf41ca17c9164e3f167346d314bc4e92d47f5fc17c188f12819b0a2cfa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47750078"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54048539"
 ---
-# <a name="troubleshoot-error-404-file-not-found"></a>خطا 404 ، لم يتم العثور علي الملف
+# <a name="troubleshoot-error-404-file-not-found"></a>استكشاف أخطاء الخطأ 404 وإصلاحها، لم يتم العثور على الملف
 
-يتم تلقي خطا 404 عندما يحاول المستخدمون الوصول إلى موقع أو ملف في SharePoint أو OneDrive. يحدث هذا غالبا بسبب أعاده تسميه موقع أو ملف أو مجموعه أو نقله أو حذفه. علي سبيل المثال: سيواجه المستخدمون خطا 404 اثناء محاولة الوصول إلى مجموعه المواقع المشتركة الجذر وتم حذفه.
+يتم تلقي الخطأ 404 عندما يحاول المستخدمون الوصول إلى موقع أو ملف في SharePoint أو OneDrive. يحدث ذلك في أغلب الأحيان بسبب إعادة تسمية موقع أو ملف أو مجموعة أو نقلها أو حذفها. على سبيل المثال: سيختبر المستخدمون خطأ 404 عند محاولة الوصول إلى مجموعة المواقع الموقعة الجذر وقد تم حذفها.
 
-لحل الخطا 404 لأحد المواقع التي تمت أعاده تسميتها أو نقلها أو حذفها:
+لحل الخطأ 404 لموقع تمت إعادة تسميته أو نقله أو حذفه:
 
-بالنسبة إلى المواقع الكلاسيكية الموجودة في مركز الاداره الكلاسيكي ، راجع [استعاده مجموعه مواقع مشتركه محذوفة](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).
+بالنسبة للمواقع الكلاسيكية الموجودة في مركز الإدارة التقليدي، راجع [استعادة مجموعة مواقع ويب محذوفة](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).
 
-بالنسبة إلى المواقع الحديثة (الاتصال أو المتصل بالمجموعة أو مواقع أخرى) الموجودة في مركز أداره SharePoint الجديد ، راجع [عرض المواقع المحذوفة واستعادتها في مركز أداره sharepoint الجديد](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection).
+بالنسبة للمواقع الحديثة (الاتصالات أو المواقع المتصلة بالمجموعة أو المواقع الأخرى) الموجودة في مركز إدارة SharePoint الجديد، راجع عرض المواقع المحذوفة واستعادتها في مركز إدارة SharePoint [الجديد.](https://docs.microsoft.com/sharepoint/restore-deleted-site-collection)
 
-لحل الخطا 404 لملف (أو عنصر آخر) تمت أعاده تسميته أو نقله أو حذفه:
+لحل الخطأ 404 لملف (أو عنصر آخر) تمت إعادة تسميته أو نقله أو حذفه:
 
-انتقل إلى موقع SharePoint أو OneDrive واعرض سله المحذوفات من محتويات الموقع. راجع ، [استعاده العناصر الموجودة في سله المحذوفات لموقع SharePoint](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be#ID0EAADAAA=Online).
+انتقل إلى SharePoint أو OneDrive وانظر إلى سلة المعاد تدويرها من محتويات الموقع. راجع، [استعادة العناصر في سلة مواعيد موقع](https://support.office.com/article/Restore-items-in-the-Recycle-Bin-of-a-SharePoint-site-6df466b6-55f2-4898-8d6e-c0dff851a0be#ID0EAADAAA=Online)SharePoint .
 
-إذا لم تتمكن من العثور علي العنصر ، فيمكنك البحث في سجل التدقيق إذا تم تمكين التسجيل ، [فابحث في سجل التدقيق في مركز توافق ال& الأمان ل Microsoft 365](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance).
+إذا كنت لا تزال غير قادر على العثور على العنصر، يمكنك البحث في سجل التدقيق إذا تم تمكين التسجيل، فراجع البحث في سجل التدقيق في Microsoft 365 مركز & [التوافق.](https://docs.microsoft.com/microsoft-365/compliance/search-the-audit-log-in-security-and-compliance)
