@@ -1,5 +1,5 @@
 ---
-title: 726 حظر أعاده توجيه البريد الكتروني
+title: 726 حظر إعادة توجيه البريد الإلكتروني
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "726"
 - "1200004"
 ms.assetid: 8865c68e-7e8a-4135-a254-d7f69f1ded30
-ms.openlocfilehash: 610013c4f46e999f1a8715aea14dd557ed8b0e2a
-ms.sourcegitcommit: 88f24bb6ced16842de165af416e3f21feae13063
+ms.openlocfilehash: 0bff7ede02809e133dc6616452ec840f552bd4fa6c45b7987d6455b2a9ba49bf
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "48478338"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54059619"
 ---
-# <a name="blocking-or-unblocking-email-forwarding"></a>حظر أعاده توجيه البريد الكتروني أو إلغاء حظره
+# <a name="blocking-or-unblocking-email-forwarding"></a>حظر إعادة توجيه البريد الإلكتروني أو إلغاء حظرها
 
-لتمكين أعاده توجيه البريد الكتروني لعلبه بريد معينه أو تعطيلها ، راجع [تكوين أعاده توجيه البريد الكتروني](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
+لتمكين إعادة توجيه البريد الإلكتروني لعلبة بريد معينة أو تعطيلها، راجع [تكوين إعادة توجيه البريد الإلكتروني](https://docs.microsoft.com/microsoft-365/admin/email/configure-email-forwarding).
 
-علي مستوي المستاجر ، يتم التحكم في أعاده التوجيه الخارجي باستخدام نهج البريد العشوائي الصادر. يمكنك التحقق من نهج تصفيه البريد العشوائي الصادر من مركز الأمان والتوافق [هنا](https://protection.office.com/antispam) أو باستخدام [الأمر هوستيدوتبوندسبامفيلتيربوليسي](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy).
+على مستوى المستأجر، يتم التحكم في إعادة توجيه البريد الخارجي باستخدام نهج البريد العشوائي الصادر. يمكنك التحقق من نهج تصفية البريد العشوائي [](https://protection.office.com/antispam) الصادر من مركز الأمان والتوافق هنا أو باستخدام الأمر [Get-HostedOutboundSpamFilterPolicy](https://docs.microsoft.com/powershell/module/exchange/get-hostedoutboundspamfilterpolicy).
 
-إذا ظهرت رسالة الخطا التالية: **"550 5.7.520 تم رفض الوصول ، فلا تسمح مؤسستك باعاده التوجيه الخارجي"**، الرجاء التاكد من تكوين النهج لتمكين الإرسال التلقائي الخارجي.
+إذا كنت تحصل على الخطأ التالي: "تم رفض **الوصول إلى 550 5.7.520،** لا تسمح مؤسستك ب إعادة توجيه خارجي"، فالرجاء التأكد من تكوين النهج لتمكين إعادة توجيه تلقائي خارجي.
 
-**ملاحظه:** من المستحسن الإبقاء علي أوتوفوروارد الخارجي معطلا علي نهج تصفيه البريد الكتروني الصادر الافتراضي وتمكينه فقط للمستخدمين الذين يحتاجون إلى أعاده توجيه خارجيه من خلال إنشاء نهج مخصص لهؤلاء المستخدمين. يمكنك قراءه المزيد في [تكوين أعاده توجيه البريد الكتروني الخارجي في Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).
+**ملاحظة:** من المستحسن الاحتفاظ ب "توجيه تلقائي خارجي" معطلا على نهج تصفية البريد العشوائي الخارجي الافتراضي وتمكينه فقط للمستخدمين الذين يحتاجون إلى إعادة توجيه خارجية عن طريق إنشاء نهج مخصص لهؤلاء المستخدمين. يمكنك قراءة المزيد في تكوين إعادة توجيه البريد الإلكتروني [الخارجي في Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/external-email-forwarding).

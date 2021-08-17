@@ -11,12 +11,12 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.collection: Admin_O365
 ms.custom: 3100021
-ms.openlocfilehash: 2a770796fe535725e3bfbbd28ac759eca0c61e3d9c9be94465af2d0988bff7c9
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7ffab72bc4c00ecc1c6d0e92263800c99858980c11764d307914635370306087
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53939150"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57890289"
 ---
 # <a name="troubleshoot-issues-with-microsoft-defender-for-office-365"></a>استكشاف المشاكل المتعلقة ب Microsoft Defender Office 365
 
@@ -24,9 +24,9 @@ ms.locfileid: "53939150"
 - **هل تريد الإبلاغ عن إيجابيات خاطئة أو سالبة خاطئة؟** استخدم ["مستكشف الواجبات المرسلة".](https://protection.office.com/reportsubmission)
 - **هل كنت تعلم أنه يمكنك تمكين Microsoft Defender ل Microsoft Defender Office 365 خزينة ارتباطات** الحماية للبريد الإلكتروني المرسل بين الأشخاص في مؤسستك؟ اتبع الخطوات التالية:
     1. انتقل إلى https://protection.office.com ، ثم سجل الدخول.
-    2. انتقل إلى **نهج إدارة**  >  **المخاطر**  >  **خزينة الارتباطات**.
+    2. انتقل إلى **نهج إدارة المخاطر خزينة**  >    >  **الارتباطات**.
     3. ضمن **النهج التي تنطبق على مستلمين معينين،** قم بتحرير (أو إضافة) نهج.
-    4. حدد **تطبيق ارتباطات آمنة على الرسائل المرسلة داخل المؤسسة**.
+    4. حدد **تطبيق ارتباطات آمنة على الرسائل المرسلة ضمن المؤسسة**.
     5. احفظ النهج، واسمح بتطبيق تغييراتك لمدة تصل إلى 30 دقيقة.
 
-- للحصول على مزيد من المساعدة حول Microsoft Defender Office 365، راجع [Microsoft Defender Office 365](/microsoft-365/security/office-365-security/office-365-atp).
+- للحصول على مزيد من المساعدة حول Microsoft Defender Office 365، راجع [Microsoft Defender Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp).

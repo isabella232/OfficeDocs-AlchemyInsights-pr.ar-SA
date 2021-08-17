@@ -1,5 +1,5 @@
 ---
-title: كيفيه تمكين البريد الصوتي المستضاف
+title: كيفية تمكين البريد الصوتي المستضاف
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7563"
-ms.openlocfilehash: 26eb22054d246a6ca5a2491c68a5d9e4ed90d45b
-ms.sourcegitcommit: 523098560e54a50184a99c974809dfbfffadacb5
+ms.openlocfilehash: 4d70e92a7c1bf8f3cc62d4a310aa140ee2dfdef4c798ae17faa961736d9db500
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "49676736"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54055541"
 ---
-# <a name="how-to-enable-hosted-voicemail"></a>كيفيه تمكين البريد الصوتي المستضاف
+# <a name="how-to-enable-hosted-voicemail"></a>كيفية تمكين البريد الصوتي المستضاف
 
-لتمكين البريد الصوتي ، يجب تعيين **هوستيدفويسيميل** إلى $true.
+لتمكين البريد الصوتي، يجب تعيين **HostedVoicemail** إلى $true.
 
-الخاصية **هوستيدفويسيميل** علي المستخدم الذي يستخدم PowerShell البعيد (ربس).
+الخاصية **HostedVoicemail** على المستخدم باستخدام Remote PowerShell (RPS).
 
-لمزيد من المعلومات حول الاتصال ب ربس ، راجع [نظره عامه حول فرق Microsoft](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) للحصول علي مزيد من المعلومات حول الاتصال ب ربس.
+لمزيد من المعلومات حول الاتصال ب RPS، راجع Microsoft Teams نظرة عامة حول [PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) للحصول على مزيد من المعلومات حول الاتصال ب RPS.
 
-1. يجب ان يتم تسجيل دخول مسؤول الفرق إلى PowerShell البعيد للفرق.
-1. من موجه PowerShell ، يمكن لمسؤول الفرق تشغيل **move-csuser user@contoso.com-هوستيدفويسيميل $true** حيث يكون sip uri الخاص بالمستخدم.
+1. يجب Teams تسجيل الدخول إلى Remote PowerShell Teams.
+1. من PowerShell، Teams يمكن للمسؤول تشغيل **set-csuser user@contoso.com -HostedVoiceMail $true** حيث يكون sip uri من المستخدم المعني.
 
 > [!NOTE]
-> قد تستغرق التغييرات في النهج ما يصل إلى 24 ساعة للنسخ المتماثل.
+> قد تستغرق التغييرات التي يتم إدخالها على السياسات ما يصل إلى 24 ساعة للتكرار.

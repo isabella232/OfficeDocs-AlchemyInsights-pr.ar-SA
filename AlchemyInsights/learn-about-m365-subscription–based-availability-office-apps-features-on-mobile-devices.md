@@ -1,5 +1,5 @@
 ---
-title: التعرف علي الاشتراك في Microsoft 365-توفر ميزات تطبيقات Office علي الاجهزه المحمولة
+title: تعرف على Microsoft 365 المستندة إلى الاشتراك Office ميزات التطبيقات على الأجهزة المحمولة
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003891"
 - "6945"
-ms.openlocfilehash: c73fec987bc9ec63c97ee05962ee16fb857e809b
-ms.sourcegitcommit: 4fbe6ac3b7c94303ab0f85807d6f49e70cf7721f
+ms.openlocfilehash: 19955a72cf9c9888f011f26085fbd493fdf8a15d1dfe17709244497f52be02d7
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49676947"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087411"
 ---
-# <a name="learn-about-microsoft-365-subscriptionbased-availability-of-office-apps-features-on-mobile-devices"></a>التعرف علي الاشتراك في Microsoft 365-توفر ميزات تطبيقات Office علي الاجهزه المحمولة
+# <a name="learn-about-microsoft-365-subscriptionbased-availability-of-office-apps-features-on-mobile-devices"></a>تعرف على Microsoft 365 المستندة إلى الاشتراك Office ميزات التطبيقات على الأجهزة المحمولة
 
-تسمح لك كل خطط Microsoft 365 بعرض المستندات في Word و Excel و PowerPoint و OneNote علي أجهزه iOS و Android و Windows mobile. ومع ذلك ، يعتمد توفر ميزات وملفات هذه التطبيقات علي اشتراكك ، أو خطه Microsoft 365 المؤهلة أو خطه غير مؤهله ، أو عمليه شراء لمره واحده من Office — وحجم الشاشة لجهاز محمول.
+تسمح Microsoft 365 كافة الخطط لعرض المستندات في Word Excel و PowerPoint و OneNote على أجهزة iOS وAndroid Windows المحمولة. ومع ذلك، يعتمد توفر ميزات هذه التطبيقات وملفاتها على اشتراكك — خطة مؤهلة ل Microsoft 365 أو خطة غير مؤهلة، أو شراء Office مرة واحدة — وحجم شاشة جهاز محمول.
 
-لمعرفه المزيد ، راجع [الإجراءات التي يمكنك تنفيذها في تطبيقات Office علي الاجهزه المحمولة باستخدام اشتراك Microsoft 365](https://go.microsoft.com/fwlink/?linkid=2135575). 
+لمعرفة المزيد، راجع [ما يمكنك فعله](https://go.microsoft.com/fwlink/?linkid=2135575)في Office التطبيقات على الأجهزة المحمولة باستخدام Microsoft 365 اشتراك . 

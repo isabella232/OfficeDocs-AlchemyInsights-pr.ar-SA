@@ -1,5 +1,5 @@
 ---
-title: تخصيص صوره مضيف جلسة العمل لسطح مكتب Windows الظاهري
+title: تخصيص صورة مضيف جلسة عمل Windows سطح المكتب الظاهري
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,18 +13,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003902"
 - "6957"
-ms.openlocfilehash: 23bf130aad5bafa6756f0adfc2e58a130c2f6c4e
-ms.sourcegitcommit: ec88047d550006a1df4b6f10a3f513218113b9a5
+ms.openlocfilehash: 2740fc58b33606e8475b4d8a80b62330d1deeaacd48b7c8035a75eb93e93c2a1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "49691917"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118623"
 ---
-# <a name="customize-a-session-host-image-for-windows-virtual-desktop"></a>تخصيص صوره مضيف جلسة العمل لسطح مكتب Windows الظاهري
+# <a name="customize-a-session-host-image-for-windows-virtual-desktop"></a>تخصيص صورة مضيف جلسة عمل Windows سطح المكتب الظاهري
 
-هناك طريقتان لتحضير جهاز ظاهري (VM) باستخدام صوره القرص الثابت الرئيسي الأساسي لنظام التشغيل Windows الظاهري:
+هناك طريقتان لإعداد جهاز ظاهري (VM) باستخدام صورة "القرص الثابت الافتراضي" الرئيسية Windows سطح المكتب الظاهري:
 
-1. [قم بإنشاء VM من صوره مداره في Azure](https://go.microsoft.com/fwlink/?linkid=2127906)، ثم انتقل إلى الامام [لاعداد البرنامج وتثبيته](https://go.microsoft.com/fwlink/?linkid=2128064).
-1. [قم بإنشاء الصورة محليا](https://go.microsoft.com/fwlink/?linkid=2128065) بتنزيل الصورة وتوفير ملفات الوصول إلى الإصدار الواحد من نوع الملف [التشعبي](https://go.microsoft.com/fwlink/?linkid=2127907)بتنسيق VM ، ثم تخصيصها بما يتناسب مع احتياجاتك.
+1. [قم بإنشاء VM من صورة](https://go.microsoft.com/fwlink/?linkid=2127906)مدارة في Azure ، ثم انتقل إلى إعداد [البرامج وتثبيتها.](https://go.microsoft.com/fwlink/?linkid=2128064)
+1. [يمكنك إنشاء الصورة محليا](https://go.microsoft.com/fwlink/?linkid=2128065) من خلال تنزيل الصورة وتوفير Hyper-V [VM](https://go.microsoft.com/fwlink/?linkid=2127907)، ثم تخصيصها لتتناسب مع احتياجاتك.
 
-لمعرفه المزيد ، راجع [تحضير صوره VHD الرئيسية وتخصيصها](https://go.microsoft.com/fwlink/?linkid=2127838).
+لمعرفة المزيد، راجع إعداد صورة [VHD](https://go.microsoft.com/fwlink/?linkid=2127838)رئيسية وتخصيصها .

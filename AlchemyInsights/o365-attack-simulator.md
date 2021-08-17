@@ -12,18 +12,18 @@ localization_priority: Normal
 ms.custom:
 - "2681"
 ms.assetid: ''
-ms.openlocfilehash: b173c6eb3bbbd1beba3b59878ae12bbe7684d0447a16fef746e5b97b82349e53
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 43f7ae0df98726e61bfe6f93f91909b0bb8a6d19129a99dc027e8b563bc35a6c
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54065271"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895778"
 ---
 # <a name="attack-simulator-in-microsoft-365"></a>محاكي الهجوم في Microsoft 365
 
-- هل تفتقد "محاكي الهجوم"؟ يتطلب محاكي الهجوم **وجود Microsoft Defender Office 365 2** أو Office 365 Enterprise **E5**. لا يتم **تضمين** محاكي الهجوم في Microsoft Defender Office 365 1 أو Office 365 Enterprise E3 أو أي اشتراكات Microsoft 365 Apps for business اشتراكات.
+- هل تفتقد "محاكي الهجوم"؟ يتطلب محاكي الهجوم **وجود Microsoft Defender Office 365 الخطة 2** أو Office 365 Enterprise **E5**. لا يتم **تضمين** محاكي الهجمات في Microsoft Defender Office 365 1 أو Office 365 Enterprise E3 أو أي اشتراكات Microsoft 365 Apps for business اشتراكات.
 
-- يتطلب الحساب الذي تستخدمه لشن هجمات محاكاة أذونات المسؤول العام أو مسؤول الأمان والمصادقة متعددة العوامل (MFA). لمزيد من المعلومات حول متطلبات "محاكي الهجمات"، راجع [هذا الموضوع](/microsoft-365/security/office-365-security/attack-simulator).
+- يتطلب الحساب الذي تستخدمه لشن هجمات محاكاة أذونات المسؤول العام أو مسؤول الأمان والمصادقة متعددة العوامل (MFA). لمزيد من المعلومات حول متطلبات "محاكي الهجمات"، راجع [هذا الموضوع](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator).
 
 - أشياء مهمة يجب معرفتها حول عمليات محاكاة هجوم **"القوة الغاشمة لكلمة** المرور":
 
@@ -35,8 +35,8 @@ ms.locfileid: "54065271"
 
   - حسب التصميم، لا يمكنك توفير قيمة مخصصة ل URL خادم تسجيل الدخول إلى التصيد **الاحتيالي**.
 
-  - إذا استخدم المستلم [](/microsoft-365/security/office-365-security/enable-the-report-message-add-in) الميزة الإضافية تمكين رسالة التقرير للتقارير حول الرسالة على أنها تصيد احتيالي، فقد لا تتلقى تنبيهات للرسالة (لأن هذا هجوم محاكاة).
+  - إذا استخدم المستلم [](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in) الميزة الإضافية تمكين رسالة التقرير للتقارير حول الرسالة على أنها تصيد احتيالي، فقد لا تتلقى تنبيهات للرسالة (لأن هذا هجوم محاكاة).
 
 - التقارير: بعد اكتمال الهجوم المحاكاة، يمكنك النقر **فوق** تفاصيل الهجوم لرؤية التقرير.
 
-- للحصول على إرشادات مفصلة وميزات جديدة في "محاكي الهجوم"، راجع [محاكي](/microsoft-365/security/office-365-security/attack-simulator)الهجوم في Microsoft 365 .
+- للحصول على إرشادات مفصلة وميزات جديدة في "محاكي الهجوم"، راجع [محاكي](https://docs.microsoft.com/microsoft-365/security/office-365-security/attack-simulator)الهجوم في Microsoft 365 .

@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "456"
 - "1500020"
-ms.openlocfilehash: d36d6c418d405be9acf31bc17f7da511a4941cc790353812dce2f088a2d19604
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 93ce084a307d79c1ca7181c1a3abdd3d038a5b52aace0486b088cbc6ecb4ff57
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54029719"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57895874"
 ---
 # <a name="expired-subscription"></a>اشتراك منتهية الصلاحية
 
@@ -35,7 +35,7 @@ ms.locfileid: "54029719"
 3. في الجزء **إعادة تنشيط هذا** الاشتراك، حدد طريقة دفع من القائمة المنسدل، أو حدد إضافة طريقة **دفع**.
 4. حدد **حفظ**.
 
-للتعرّف على المزيد، اطلع على [إعادة تنشيط الاشتراك](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+للتعرّف على المزيد، اطلع على [إعادة تنشيط الاشتراك](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **إجراء عملية شراء جديدة**
   
@@ -44,4 +44,4 @@ ms.locfileid: "54029719"
 3. أدخل عدد التراخيص التي تحتاج إليها، واختر ما إذا كنت تريد الدفع كل شهر أو طوال السنة. اختر ما إذا كنت تريد تعيين التراخيص تلقائيا لكل شخص ليس لديه ترخيص حاليا. ثم اختر **سحب الآن**.
 4. اتبع الخطوات المتبقية لإكمال عملية سحب.
 
-لمعرفة المزيد، راجع [شراء اشتراك آخر](/microsoft-365/commerce/buy-another-subscription).
+لمعرفة المزيد، راجع [شراء اشتراك آخر](https://docs.microsoft.com/microsoft-365/commerce/buy-another-subscription).
