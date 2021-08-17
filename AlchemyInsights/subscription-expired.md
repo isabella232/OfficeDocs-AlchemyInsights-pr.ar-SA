@@ -15,12 +15,12 @@ ms.custom:
 - "9002437"
 - "4741"
 - "4739"
-ms.openlocfilehash: 9925c220897337cdc6956674448b31c818dfc42635459076ca29806f565b3050
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9571bcdadb5e408bf66c2b9da18296e48eb1de7a484e1524dd1751008eb5fe5a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54009163"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57891886"
 ---
 # <a name="subscription-expired"></a>انتهاء صلاحية الاشتراك
 
@@ -35,7 +35,7 @@ ms.locfileid: "54009163"
 3. في الجزء **إعادة تنشيط هذا** الاشتراك، حدد طريقة دفع من القائمة المنسدل، أو حدد إضافة طريقة **دفع**.
 4. حدد **حفظ**.
 
-للحصول على مزيد من المعلومات، اطلع على [إعادة تنشيط اشتراكك](/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
+للحصول على مزيد من المعلومات، اطلع على [إعادة تنشيط اشتراكك](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/reactivate-your-subscription).
 
 **إدارة تجديد الاشتراك**
 
@@ -47,4 +47,4 @@ ms.locfileid: "54009163"
 4. في الجزء **تحرير إعدادات** الفوترة المتكررة، حدد **تشغيل** أو تشغيل ولكن **تجديد مرة** واحدة أو إيقاف **تشغيل**.
 5. حدد **حفظ**.
 
-للحصول على مزيد من المعلومات، اطلع على [تشغيل الفوترة المتكررة أو إيقاف تشغيلها](/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).
+للحصول على مزيد من المعلومات، اطلع على [تشغيل الفوترة المتكررة أو إيقاف تشغيلها](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/renew-your-subscription#turn-recurring-billing-off-or-on).

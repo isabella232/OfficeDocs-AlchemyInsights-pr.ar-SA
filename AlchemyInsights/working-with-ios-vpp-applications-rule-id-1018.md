@@ -1,5 +1,5 @@
 ---
-title: العمل باستخدام معرف قاعده تطبيقات iOS فب 1018
+title: استخدام iOS VPP Applications IOS IOS VPP Rule ID 1018
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,19 +12,19 @@ ms.custom:
 - "1018"
 - "6700004"
 ms.assetid: 2e51ae64-8ba2-42e1-9e3e-f4aad102c391
-ms.openlocfilehash: 67800b261e7d670181b17783bc81e276d75026e0
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: f693d12ff0f9c193cba0c6a6802b22d7acd37532c65986e5f6613e18c021f06b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47688933"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54083001"
 ---
-# <a name="working-with-ios-vpp-applications"></a>استخدام تطبيقات iOS فب
+# <a name="working-with-ios-vpp-applications"></a>استخدام تطبيقات vPP ل iOS
 
-أقرا [كيفيه أداره تطبيقات iOS التي تم شراؤها من خلال برنامج لشراء وحده التخزين باستخدام Microsoft Intune](https://docs.microsoft.com/intune/vpp-apps-ios) للتعرف علي الميزات والقيود والخطوات المتعلقة باستخدام برنامج الشراء الخاص بوحدات التخزين التي تستخدمها والدعم لها في Microsoft intune.
+اقرأ كيفية إدارة تطبيقات [iOS](https://docs.microsoft.com/intune/vpp-apps-ios) التي تم شراؤها من خلال برنامج شراء كمية باستخدام Microsoft Intune للتعرف على الميزات والقيود والخطوات اللازمة لاستخدام برنامج شراء Apple Volume Purchase Program والدعم الخاص به في Microsoft Intune.
   
- **المشاكل الشائعة:** "لقد قمت بتعيين تطبيق iOS فب للمستخدمين ، ولكن فشل التثبيت."
+ **المشاكل الشائعة:** "لقد عينت تطبيق iOS VPP للمستخدمين، ولكن فشل التثبيت."
   
-- قد يحدث هذا في حاله استخدام رمز مميز لفب واحده علي العديد من موفري أداره الاجهزه المحمولة. يمكن استخدام الرموز المميزة لفب من Apple فقط مع موفر واحد. إذا استخدمت رمزا مميزا لفب مع عده موفرين ، فيجب أعاده تحميل الرمز المميز إلى Intune.
+- قد يحدث هذا إذا تم استخدام رمز VPP مميز واحد عبر موفري إدارة أجهزة محمولة متعددين. قد يتم استخدام الرموز المميزة ل VPP من Apple مع موفر واحد فقط. إذا استخدمت رمز VPP مميزا مع عدة موفرين، فيجب إعادة تحميل الرمز المميز إلى Intune.
 
-- يمكن ان يفشل التثبيت أيضا إذا تجاوز عدد التثبيتات الإجمالي عدد التراخيص. لعرض تقرير استخدام للتراخيص ، انتقل إلى صفحه تراخيص تطبيق **تطبيقات الاجهزه المحمولة في Intune** \> **App licenses** . لمعرفه كيفيه استرداد التراخيص المستخدمة ، راجع [هذه المقالة.](https://docs.microsoft.com/intune/vpp-apps-ios#revoking-app-licenses-and-deleting-tokens)
+- قد يفشل التثبيت أيضا إذا تجاوز العدد الإجمالي لعدد التثبيتات عدد التراخيص. لعرض تقرير استخدام للتراخيص، انتقل إلى صفحة تراخيص تطبيقات **Intune** \>  Mobile. للتعرف على كيفية استعادة التراخيص التي يتم استخدامها، راجع [هذه المقالة.](https://docs.microsoft.com/intune/vpp-apps-ios#revoking-app-licenses-and-deleting-tokens)

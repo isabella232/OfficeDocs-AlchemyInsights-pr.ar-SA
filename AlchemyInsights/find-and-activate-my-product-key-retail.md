@@ -15,19 +15,18 @@ ms.custom:
 - commerce_purchase
 - "9001519"
 - "3576"
-ms.openlocfilehash: fbe6a7e6541e9172301b848a0fa733f66af7c8d128ac8557ca2cd62cad1d06ad
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: f9c84853d30ca327cd12f06d2b802286b7ce1beb
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54068871"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320976"
 ---
 # <a name="retail-prepaid-card"></a>بطاقة مسبقة الدفع للبيع بالتجزئة
 
 إذا قمت بشراء Microsoft 365 Business Standard من متجر بيع بالتجزئة، فاستخدم الخطوات التالية لتمدد تاريخ انتهاء الصلاحية أو إضافة ترخيص إلى اشتراك موجود.
 
-> [!NOTE]
-> لاستخدام مفتاح منتج لتوسيع تاريخ انتهاء الصلاحية أو إضافة ترخيص إلى اشتراكك الحالي في Microsoft 365 Business Standard، ستحتاج إلى مفتاح جديد وغير Microsoft 365 الاشتراك. لن يعمل إدخال مفتاح Microsoft 365 الأصلي لأنه لا يمكن استخدام المفتاح الذي تم استرداده مسبقا مرة أخرى.
+**ملاحظة:** لاستخدام مفتاح منتج لتوسيع تاريخ انتهاء الصلاحية أو إضافة ترخيص إلى اشتراك Microsoft 365 Business Standard الحالي، تحتاج إلى مفتاح جديد وغير مستخدم لنفس Microsoft 365 الاشتراك. لن يعمل إدخال مفتاح Microsoft 365 الأصلي لأنه لا يمكن استخدام المفتاح الذي تم استرداده مسبقا مرة أخرى.
 
 1. في مركز الإدارة، انتقل إلى **صفحة فوترة**  >  **[منتجاتك.](https://go.microsoft.com/fwlink/p/?linkid=842054)**
 2. ابحث عن الاشتراك الذي تريد تمديده أو إضافة ترخيص له. حدد [تمديد تاريخ الانتهاء](https://go.microsoft.com/fwlink/p/?linkid=842054) أو إضافة المزيد من [التراخيص](https://go.microsoft.com/fwlink/p/?linkid=842054).

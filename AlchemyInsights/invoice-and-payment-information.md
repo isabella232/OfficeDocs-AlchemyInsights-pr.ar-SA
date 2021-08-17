@@ -16,18 +16,18 @@ ms.custom:
 - commerce_billing
 - "485"
 - "1500018"
-ms.openlocfilehash: 8b9b8545607e230a13de78478e3b1c655c461f6259f649aeb2b369d94d2697aa
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: c21ac83a5108c79268631877cf325fe05bf67c716124b0b4896665395c03178b
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54502595"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892114"
 ---
 # <a name="invoice-and-payment-information"></a>معلومات الدفع والفاتورة
 
 **الدفع**
 
-عند شراء اشتراك Microsoft 365 للأعمال مباشرة من Microsoft، يمكنك الدفع باستخدام بطاقة ائتمان أو بطاقة خصم.  في بعض البلدان/المناطق، يمكنك أيضا الدفع باستخدام حساب بنكي.  يمكنك التعرف على كيفية إدارة طرق الدفع هذه وإصلاحها من [إدارة طرق الدفع](/microsoft-365/commerce/billing-and-payments/manage-payment-methods). يشمل ذلك حل المشاكل عند رفض بطاقة الائتمان وتحديث معلومات الدفع.
+عند شراء اشتراك Microsoft 365 للأعمال مباشرة من Microsoft، يمكنك الدفع باستخدام بطاقة ائتمان أو بطاقة خصم.  في بعض البلدان/المناطق، يمكنك أيضا الدفع باستخدام حساب بنكي.  يمكنك التعرف على كيفية إدارة طرق الدفع هذه وإصلاحها من [إدارة طرق الدفع](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/manage-payment-methods). يشمل ذلك حل المشاكل عند رفض بطاقة الائتمان وتحديث معلومات الدفع.
 
 **الفاتورة/الفاتورة**
 
@@ -37,4 +37,4 @@ ms.locfileid: "54502595"
 
 يتم إنشاء الفواتير شهريا أو سنويا استنادا إلى معدل تكرار الفوترة الذي تم اختياره أثناء الشراء.  إذا كنت تدفع سنويا، فقد تحصل على فاتورة في منتصف المدة عند إضافة تراخيص أو إزالتها من اشتراك.
 
-- لمزيد من المعلومات، راجع [فهم فاتورة Microsoft 365 للأعمال](/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
+- لمزيد من المعلومات، راجع [فهم الفاتورة الخاصة Microsoft 365 للأعمال](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).

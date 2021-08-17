@@ -11,39 +11,39 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 84f2b70e-2b23-4039-8305-85783798feed
-ms.openlocfilehash: b554bfa4ccccbd68d0c3df27cf17397f860735c2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: eaf09aebad5568aab3a716ce28c8ce3357c9f43175e1b1458bfcd43fd95a71fa
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732198"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54057953"
 ---
-# <a name="create-sharepoint-sites-using-templates"></a>إنشاء مواقع SharePoint باستخدام القوالب
+# <a name="create-sharepoint-sites-using-templates"></a>إنشاء SharePoint جديدة باستخدام القوالب
 
-القدرة علي حفظ موقع كقالب غير معتمده مع الاتصال الحديث أو مواقع الفريق. للحصول علي مزيد من المعلومات حول استخدام القوالب [، راجع حفظ موقع SharePoint وتنزيله وتحميله كقالب](https://docs.microsoft.com/sharepoint/dev/general-development/save-download-and-upload-a-sharepoint-site-as-a-template).
+القدرة على حفظ موقع كقالب غير مدعومة في وسائل الاتصال الحديثة أو مواقع الفريق. لمزيد من المعلومات حول استخدام القوالب، راجع [حفظ موقع SharePoint وتنزيله وتحميله كقالب](https://docs.microsoft.com/sharepoint/dev/general-development/save-download-and-upload-a-sharepoint-site-as-a-template).
 
-اليك بعض المشاكل الشائعة/الحلول المتعلقة بحفظ موقع أو قائمه كقالب في Sharepoint Online. 
+فيما يلي بعض المشاكل/الحلول الشائعة المتعلقة حفظ موقع أو قائمة كقالب في Sharepoint Online. 
 
 **الزر "حفظ قالب الموقع/القائمة" غير متوفر أو مفقود**
 
-سيحتاج المسؤولون إلى السماح لبرنامج نصي مخصص بتمكين ميزات القالب. للاطلاع علي الخطوات التفصيلية والامثله والاعتبارات 
+سيحتاج المسؤولون إلى السماح بالبرنامج النصي المخصص لتمكين ميزات القالب. للحصول على خطوات مفصلة، راجع الأمثلة والاعتبارات 
 
-- [السماح بالبرامج النصية المخصصة أو منعها](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
+- [السماح بالبرنامج النصي المخصص أو منعه](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
-- الأمر "حفظ الموقع كقالب" غير معتمد وقد يؤدي إلى حدوث مشاكل في المواقع التي تستخدم البنية الاساسيه لنشر SharePoint Server.
+- الأمر حفظ الموقع كقالب غير مدعوم ويمكن أن يسبب مشاكل في المواقع التي تستخدم البنية الأساسية للنشر في SharePoint Server.
 
-**لا يمكن إنشاء قالب الموقع أو انه لا يعمل بشكل صحيح**
+**لا يمكن إنشاء قالب الموقع أو لا يعمل بشكل صحيح**
 
-قد لا يحتوي القالب علي [ميزه](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) ولن يتم تنشيطها. إذا لم تكن الميزة متوفرة للتنشيط في مجموعه المواقع المشتركة الحالية ، فلا يمكنك استخدام قالب الموقع لإنشاء موقع.
+قد يفتقد القالب إلى [ميزة](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) ولن يتم تنشيطه. إذا لم تكن الميزة متوفرة للتنشيط في مجموعة المواقع الحالية، فلا يمكنك استخدام قالب الموقع لإنشاء موقع.
 
-- التحقق لمعرفه ما إذا كانت هناك اي قوائم أو مكتبات تتجاوز [عتبه حدود طريقه عرض القائمة](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) لعناصر 5000 بما انه بإمكانه حظر إنشاء قالب الموقع.
+- تحقق لمعرفة ما إذا كانت هناك [](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) أي قوائم أو مكتبات تتجاوز عتبة حد طريقة عرض القائمة وهو 5000 عنصر حيث يمكن أن يمنع ذلك إنشاء قالب موقع.
 
-- قد يستخدم الموقع عددا كبيرا جدا من الموارد ، التالي فان قالب الموقع يتجاوز الحد الأقصى ل50.
+- قد يستخدم الموقع موارد كثيرة جدا، وبالتالي يتجاوز قالب الموقع الحد الأقصى وهو 50 مبايت.
 
 
-- هناك مشاكل تعرض البيانات من قائمه تستخدم عمود بحث. لمزيد من المعلومات ، راجع [القائمة التي تم إنشاؤها بالقوالب لا تعرض البيانات من قائمه البحث الصحيحة في SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).
+- هناك مشاكل في عرض البيانات من قائمة تستخدم عمود البحث. لمزيد من المعلومات، راجع لا تعرض القائمة التي تم إنشاؤها بواسطة القالب البيانات من قائمة البحث الصحيحة في SharePoint [Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).
 
-للحصول علي مزيد من المعلومات حول المشاكل والحلول الشائعة ، يرجى التحقق من [إنشاء قوالب الموقع واستخدامها](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).
+للحصول على مزيد من المعلومات المفصلة حول المشاكل والحلول الشائعة، يرجى التحقق [من إنشاء قوالب الموقع واستخدامها](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).
 
 
 

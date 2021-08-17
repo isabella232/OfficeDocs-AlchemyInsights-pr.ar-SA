@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002292"
 - "4441"
-ms.openlocfilehash: 2b60d65f6f5144c00b23664075d05af1995d5baac7fb884c59cbe82efca3d198
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0b6155ce38cd2703a4bf406d73ebbc59eb4c9034
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54013123"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320742"
 ---
 # <a name="solutions-for-issues-when-installing-office"></a>حلول للمشاكل المتعلقة بتثبيت Office
 
@@ -30,7 +30,8 @@ ms.locfileid: "54013123"
 - قم بتنظيف أي عمليات التتبع السابقة من Office وإعادة تثبيتها باستخدام مساعد الإصلاح والدعم (SaRA). 
 
     - قم بتنزيل وتثبيت [مساعد الإصلاح والدعم](https://aka.ms/SARA-OfficeUninstall-Alchemy). عند الفتح، من **إزالة تثبيت منتجات Office**، حدد الإصدار الذي تريد إلغاء تثبيته (إن وجد)، ثم انقر فوق **التالي**. استمر في العمل عبر الشاشات وقم بإعادة تشغيل الكمبيوتر عندما تتم مطالبتك بذلك. بعد إعادة التشغيل، يتم تلقائياً إعادة فتح SaRA لإكمال عملية إلغاء التثبيت.
-    - استخدم SaRA من أجل [إعادة تثبيت Office](https://aka.ms/sara-officeinstall). **ملاحظة**: لإعداد Visio أو Project باستخدام SaRA، استخدم [تثبيت Visio](https://aka.ms/SaRA-VisioSetupScenario) أو [تثبيت Project](https://aka.ms/SaRA-ProjectSetupScenario).  
+    - استخدم SaRA من أجل [إعادة تثبيت Office](https://aka.ms/sara-officeinstall). 
+    **ملاحظة**: لإعداد Visio أو Project باستخدام SaRA، استخدم [تثبيت Visio](https://aka.ms/SaRA-VisioSetupScenario) أو [تثبيت Project](https://aka.ms/SaRA-ProjectSetupScenario).  
 
 - [استخدم المثبّت غير المتصل بالإنترنت](https://support.office.com/article/f0a85fe7-118f-41cb-a791-d59cef96ad1c?wt.mc_id=Alchemy_ClientDIA) لتثبيت Office.
 
