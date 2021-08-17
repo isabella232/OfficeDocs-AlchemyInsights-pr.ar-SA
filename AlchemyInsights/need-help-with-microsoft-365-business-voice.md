@@ -1,5 +1,5 @@
 ---
-title: هل تحتاج إلى مساعدة في Microsoft 365 Business Premium Voice؟
+title: هل تحتاج إلى مساعدة Microsoft 365 Business Premium Voice؟
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001713"
 - "3795"
-ms.openlocfilehash: 014752ac52038c2e49d7d440d17c6f24ce10102d
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 0f8b02eb71adf56fe221d9ae7e9ace4c3566da0bdc03a93698746e938a36a283
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51792587"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077241"
 ---
-# <a name="need-help-with-microsoft-365-business-premium-voice"></a>هل تحتاج إلى مساعدة في Microsoft 365 Business Premium Voice؟
+# <a name="need-help-with-microsoft-365-business-premium-voice"></a>هل تحتاج إلى مساعدة Microsoft 365 Business Premium Voice؟
 
-يسهل Microsoft 365 Business Premium Voice على المؤسسات الصغيرة والمتوسطة تحويل Microsoft Teams إلى نظام هاتف قوي ومرن. لمزيد من المعلومات حول Business Voice، راجع [ما هو Microsoft 365 Business Premium Voice؟](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)
+Microsoft 365 Business Premium يسهل الصوت على المؤسسات الصغيرة والمتوسطة Microsoft Teams إلى نظام هاتف قوي ومرن. لمزيد من المعلومات حول Business Voice، راجع [ما هو Microsoft 365 Business Premium Voice؟](https://docs.microsoft.com/microsoftteams/business-voice/whats-business-voice)
 
-إذا كنت قد حصلت بالفعل على Microsoft 365 Business Premium Voice، يمكن [أن](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) يساعدك معالج بدء العمل على بدء العمل. 
+إذا كنت قد حصلت على Microsoft 365 Business Premium Voice، يمكن أن يساعدك معالج بدء العمل على بدء العمل. [](https://docs.microsoft.com/microsoftteams/business-voice/use-getting-started-wizard) 

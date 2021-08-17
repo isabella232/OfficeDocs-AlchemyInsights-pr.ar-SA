@@ -1,5 +1,5 @@
 ---
-title: بدء استخدام تقارير استخدام Microsoft Search
+title: بدء استخدام تقارير البحث من Microsoft الاستخدام
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9006479"
 - "11047"
-ms.openlocfilehash: 2da847a66d227cbad07d56d733488a216deacbe7
-ms.sourcegitcommit: 29a88bc83086b18b0e0fd14fe8ed18a4f88edd06
+ms.openlocfilehash: b5bfba500c229ee58f82fde1de01da91c46ecbc991fb4c2f7418b0dc3bf141e5
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/25/2021
-ms.locfileid: "52676031"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54077277"
 ---
-# <a name="get-started-with-using-microsoft-search-usage-reports"></a>بدء استخدام تقارير استخدام Microsoft Search
+# <a name="get-started-with-using-microsoft-search-usage-reports"></a>بدء استخدام تقارير البحث من Microsoft الاستخدام
 
-توفر تقارير استخدام البحث من Microsoft معلومات حول كيفية عمل البحث في مؤسستك. ستساعدك هذه الرؤى في العثور على المحتوى وجعل البحث تجربة مفيدة ومبهجة للمستخدمين في مؤسستك.
+البحث من Microsoft تقارير الاستخدام هذه معلومات حول كيفية عمل البحث في مؤسستك. ستساعدك هذه الرؤى في العثور على المحتوى وجعل البحث تجربة مفيدة ومبهجة للمستخدمين في مؤسستك.
 
-لمعرفة المزيد، راجع [تقارير استخدام البحث من Microsoft](https://go.microsoft.com/fwlink/?linkid=2152048).
+لمعرفة المزيد، [راجع](https://go.microsoft.com/fwlink/?linkid=2152048)البحث من Microsoft تقارير الاستخدام .
