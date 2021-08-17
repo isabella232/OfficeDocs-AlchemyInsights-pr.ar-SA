@@ -1,5 +1,5 @@
 ---
-title: أداره مخطط البحث في SharePoint Online
+title: إدارة مخطط البحث في SharePoint Online
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -8,30 +8,30 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: fe00f4c0-44d5-49d4-9db0-a62698bcd1d1
-ms.openlocfilehash: f2d8d3e07fe32d21af484e4c59e0f5ac6fe8081c
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 8eb0e93ea5bbf2154213274041b28a3c908090dae724b8f8e55fa2fb05f16d86
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47770538"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085071"
 ---
-# <a name="manage-search-schema-in-sharepoint-online"></a>أداره مخطط البحث في SharePoint Online
+# <a name="manage-search-schema-in-sharepoint-online"></a>إدارة مخطط البحث في SharePoint Online
 
-يتحكم مخطط البحث بما يمكن للمستخدمين البحث عنه ، وكيف يمكن للمستخدمين البحث عنه ، وكيفيه تقديم النتائج علي مواقع البحث علي الويب. 
+يتحكم مخطط البحث في ما يمكن للمستخدمين البحث عنه، وكيف يمكن للمستخدمين البحث عنه، وكيفية تقديم النتائج على مواقع البحث على الويب. 
 
-راجع [أداره مخطط البحث في SharePoint Online](https://docs.microsoft.com/sharepoint/manage-search-schema) للتعرف علي كيفيه القيام بما يلي: 
+راجع [إدارة مخطط البحث في SharePoint Online](https://docs.microsoft.com/sharepoint/manage-search-schema) لمعرفة كيفية: 
 - تغيير مخطط البحث.
-- إنشاء الخصائص المدارة.
-- تعيين الخصائص المتتبعة والتي تم تتبع ارتباطاتها إلى الخصائص المدارة.
+- إنشاء خصائص مدارة.
+- خصائص الخريطة التي تم تتبع ارتباطاتها إلى الخصائص المدارة.
 
-لاحظ ما يلي فيما يتعلق باداره مخطط البحث:
+لاحظ ما يلي فيما يتعلق بإدارة مخطط البحث:
 
-- إذا تلقيت تحذيرا يفيد **بان التطبيق متوقف مؤقتا** عند اجراء تغيير في المخطط ، فهذا مؤقت فقط بالشكل الذي تحدث فيه صيانة الخدمة. 
+- إذا تلقيت تحذيرا  يفيد بإيقاف التطبيق مؤقتا عند إجراء تغيير في المخطط، فهذا يكون مؤقتا فقط عند حدوث صيانة الخدمة. 
 
-    إذا تم تمرير أكثر من 24 ساعة وما زلت تواجه التحذير ، يرجى تسجيل حاله الدعم.
-- عند تغيير الخصائص المدارة أو أضافه عناصر جديده ، تصبح التغييرات ساريه المفعول فقط بعد أعاده تتبع الارتباطات للمحتوي. في SharePoint Online ، تتم عمليه تتبع الارتباطات تلقائيا استنادا إلى جدول تتبع الارتباطات المحدد.
-- للتاكد من اجراء التغييرات التي تم تتبع ارتباطاتها ، يمكنك [طلب أعاده فهرسه القائمة أو المكتبة بشكل](https://docs.microsoft.com/sharepoint/manage-search-schema#request-re-indexing-of-a-document-library-or-list) خاص 
+    إذا مرت أكثر من 24 ساعة ولا تزال تواجه التحذير، فيرجى تسجيل حالة دعم.
+- عند تغيير الخصائص المدارة أو إضافة خصائص جديدة، لن يتم إجراء التغييرات إلا بعد إعادة تتبع ارتباطات المحتوى. في SharePoint Online، يحدث تتبع الارتباطات تلقائيا استنادا إلى جدول تتبع الارتباطات المحدد.
+- للتأكد من تتبع ارتباطات التغييرات، يمكنك طلب إعادة فهرسة القائمة أو [المكتبة بشكل خاص](https://docs.microsoft.com/sharepoint/manage-search-schema#request-re-indexing-of-a-document-library-or-list) 
 
-للحصول علي نظره عامه حول مخطط البحث ، راجع [تقديم مخطط البحث](https://blogs.technet.microsoft.com/tothesharepoint/2012/11/25/introducing-search-schema-for-sharepoint-2013/) 
+للحصول على نظرة عامة كاملة حول مخطط البحث، راجع [تقديم مخطط البحث](https://blogs.technet.microsoft.com/tothesharepoint/2012/11/25/introducing-search-schema-for-sharepoint-2013/) 
 
 
