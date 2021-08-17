@@ -1,5 +1,5 @@
 ---
-title: استعاده OneDrive
+title: استعادة OneDrive
 ms.author: matteva
 author: pebaum
 manager: scotv
@@ -12,25 +12,25 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 8c07fc4e-98ba-438d-a4f7-9cfb1ed6a08a
-ms.openlocfilehash: 741c227b5d39282d53d36cefebe9e86290167447
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 27ab60bc794d50c031e22a7c1497d529f0403dde9b5a45708a54495117c1939f
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "47801279"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109335"
 ---
-# <a name="restore-your-onedrive"></a>استعاده OneDrive
+# <a name="restore-your-onedrive"></a>استعادة OneDrive
 
-إذا كانت العديد من ملفات OneDrive الخاصة بك محذوفة أو أوفيروريتيد أو تالفة أو مصابه بالبرامج الضارة ، فيمكنك استعاده OneDrive بأكمله إلى وقت سابق خلال 30 يوما الماضية.
+إذا تم حذف الكثير من ملفات OneDrive أو الكتابة فوقها أو تالفة أو أصيبت بالبرامج الضارة، يمكنك استعادة ملف OneDrive بالكامل إلى وقت سابق خلال آخر 30 يوما.
   
-1. انتقل إلى OneDrive في مستعرض ويب.
+1. انتقل إلى OneDrive في مستعرض الويب.
     
-2. انقر فوق الايقونه إعدادات في الزاوية العلوية اليسرى ، ثم حدد **استعاده OneDrive**.
+2. انقر فوق الإعدادات في الزاوية العلوية اليسرى، ثم حدد **استعادة OneDrive**.
     
-3. حدد تاريخا من القائمة ، أو اختر **التاريخ والوقت المخصصين**.
+3. حدد تاريخا من القائمة، أو اختر **التاريخ والوقت المخصصين**.
     
-4. انقر فوق **استعاده** للتراجع عن كل الانشطه بعد التاريخ الذي حددته. 
+4. انقر **فوق** استعادة للتراجع عن كل الأنشطة بعد التاريخ الذي حددته. 
     
-[مزيد من المساعدة في استخدام استعاده الملفات](https://go.microsoft.com/fwlink/?linkid=872874)
+[مزيد من المساعدة باستخدام "استعادة الملفات"](https://go.microsoft.com/fwlink/?linkid=872874)
   
 

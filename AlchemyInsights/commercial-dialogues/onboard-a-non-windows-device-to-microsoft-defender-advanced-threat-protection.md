@@ -1,5 +1,5 @@
 ---
-title: تشغيل جهاز غير Windows للحماية المتقدمة من المخاطر من Microsoft Defender (MDATP)
+title: تشغيل جهاز غير Windows الحماية المتقدمة من المخاطر ل Microsoft Defender (MDATP)
 ms.author: v-jmathew
 author: v-jmathew
 manager: dansimp
@@ -12,17 +12,17 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: de230abdc56d32780e70e5ae1bf95ac45e9252cc
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: 228fe6a4514df4508dda7f7fbdfa650a439b38ef51abafa7936afa4ecfd54e04
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743036"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54081849"
 ---
-# <a name="onboard-a-non-windows-device-to-microsoft-defender-advanced-threat-protection-mdatp"></a>تشغيل جهاز غير Windows للحماية المتقدمة من المخاطر من Microsoft Defender (MDATP)
+# <a name="onboard-a-non-windows-device-to-microsoft-defender-advanced-threat-protection-mdatp"></a>تشغيل جهاز غير Windows الحماية المتقدمة من المخاطر ل Microsoft Defender (MDATP)
 
 تحديد ما إذا كان إصدار Linux لتوزيعه أو macOS متوافقا مع MDATP:
 
 - [متطلبات أجهزة Linux](https://go.microsoft.com/fwlink/?linkid=2143462)
 - [متطلبات أجهزة macOS](https://go.microsoft.com/fwlink/?linkid=2143461)
-- [الأجهزة غير التي تعمل بنظام التشغيل Windows](https://go.microsoft.com/fwlink/?linkid=2143628)
+- [الأجهزة غير المجهزة Windows](https://go.microsoft.com/fwlink/?linkid=2143628)

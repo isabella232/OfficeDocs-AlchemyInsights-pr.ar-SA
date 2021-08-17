@@ -13,25 +13,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "6108"
 - "3200001"
-ms.openlocfilehash: b9369b2c2ca31f7d2fceac37ef1e2252b82e933b
-ms.sourcegitcommit: 0c104e2bd34ccc09bcea389e470692e92bcf1f8f
+ms.openlocfilehash: 4a4dbd60f98e86cf2a4d861a763f75ada04f9e500164c01cb858a1537148a62f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 05/26/2021
-ms.locfileid: "52657916"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892786"
 ---
 # <a name="configure-endpoint-dlp"></a>تكوين تفادي فقدان البيانات على الأجهزة
 
-يسمح لك تفادي فقدان البيانات على الأجهزة من Microsoft بتوسيع حماية تفادي فقدان البيانات وقدرة مراقبة المعلومات الحساسة على أجهزة Windows 10. بعد إلحاق الأجهزة في إدارة الأجهزة، يمكنك إنشاء نُهج DLP لفرض إجراءات الحماية على العناصر. يمكن استخدام مستكشف النشاط لمراقبة نشاط العناصر الحساسة. لمزيد من المعلومات، اطلع على [إلحاق الأجهزة في إدارة الأجهزة](/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management).  
+يسمح لك تفادي فقدان البيانات على الأجهزة من Microsoft بتوسيع حماية تفادي فقدان البيانات وقدرة مراقبة المعلومات الحساسة على أجهزة Windows 10. بعد إلحاق الأجهزة في إدارة الأجهزة، يمكنك إنشاء نُهج DLP لفرض إجراءات الحماية على العناصر. يمكن استخدام مستكشف النشاط لمراقبة نشاط العناصر الحساسة. لمزيد من المعلومات، اطلع على [إلحاق الأجهزة في إدارة الأجهزة](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management).  
 
 لبدء استخدام تفادي فقدان البيانات على الأجهزة:
 
-- تأكد من حصولك على ترخيص SKU/الاشتراكات المناسبة. لمزيد من المعلومات، اطلع على [ترخيص SKU/الاشتراكات](/microsoft-365/compliance/endpoint-dlp-getting-started#skusubscriptions-licensing).
-- تحقق من الأذونات المطلوبة لتمكين إدارة الجهاز أو الوصول إلى صفحة الإلحاق أو تشغيل/إيقاف مراقبة الجهاز. للمزيد من المعلومات، اطلع على [الأذونات](/microsoft-365/compliance/endpoint-dlp-getting-started#permissions).
-- قم بإلحاق الأجهزة في إدارة الأجهزة باتباع إجراء إلحاق الأجهزة. لمزيد من المعلومات، اطلع على [إلحاق الأجهزة](/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices). 
-- قم بإنشاء نُهج DLP لحماية العناصر الحساسة الخاصة بك. لمزيد من المعلومات، اطلع على [سيناريوهات نهج تفادي فقدان البيانات على الأجهزة](/microsoft-365/compliance/endpoint-dlp-using?view=o365-worldwide#endpoint-dlp-policy-scenarios).
+- تأكد من حصولك على ترخيص SKU/الاشتراكات المناسبة. لمزيد من المعلومات، اطلع على [ترخيص SKU/الاشتراكات](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#skusubscriptions-licensing).
+- تحقق من الأذونات المطلوبة لتمكين إدارة الجهاز أو الوصول إلى صفحة الإلحاق أو تشغيل/إيقاف مراقبة الجهاز. للمزيد من المعلومات، اطلع على [الأذونات](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#permissions).
+- قم بإلحاق الأجهزة في إدارة الأجهزة باتباع إجراء إلحاق الأجهزة. لمزيد من المعلومات، اطلع على [إلحاق الأجهزة](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices). 
+- قم بإنشاء نُهج DLP لحماية العناصر الحساسة الخاصة بك. لمزيد من المعلومات، اطلع على [سيناريوهات نهج تفادي فقدان البيانات على الأجهزة](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-using?view=o365-worldwide#endpoint-dlp-policy-scenarios).
 
-لمزيد من المعلومات حول تفادي فقدان البيانات على الأجهزة من Microsoft، اطلع على [تعرّف على المزيد حول تفادي فقدان البيانات على الأجهزة من Microsoft 365 (معاينة)](/microsoft-365/compliance/endpoint-dlp-learn-about).
+لمزيد من المعلومات حول تفادي فقدان البيانات على الأجهزة من Microsoft، اطلع على [تعرّف على المزيد حول تفادي فقدان البيانات على الأجهزة من Microsoft 365 (معاينة)](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-learn-about).
 
 **خطوات مهمة لجمع البيانات، إذا كان الدعم مطلوباً:**
 

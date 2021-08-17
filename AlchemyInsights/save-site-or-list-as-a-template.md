@@ -1,5 +1,5 @@
 ---
-title: حفظ الموقع أو القائمة كقالب
+title: حفظ موقع أو قائمة كقالب
 ms.author: pebaum
 author: pebaum
 ms.audience: ITPro
@@ -8,40 +8,40 @@ ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.assetid: 368ff1fa-82cf-4a07-986e-140b212ffc5c
-ms.openlocfilehash: 37ae727aa6dd6af94d0d833ce972aec413d90194
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 31cb294be6b72be313cf63ed5ed2af0ef041dcf6efb7a7a2af4e1b6a9a149c43
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47727518"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54109191"
 ---
-# <a name="save-site-or-list-as-a-template"></a>حفظ الموقع أو القائمة كقالب
+# <a name="save-site-or-list-as-a-template"></a>حفظ موقع أو قائمة كقالب
 
-قوالب موقع SharePoint هي تعريفات منشاه مسبقا التي تم تصميمها حول احتياجات عمل معينه. لمزيد من المعلومات ، راجع [استخدام القوالب لإنشاء أنواع مختلفه من مواقع SharePoint](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4).
+SharePoint قوالب المواقع هي تعريفات معنيه مسبقا تم تصميمها حول حاجة عمل معينة. لمزيد من المعلومات، راجع استخدام القوالب لإنشاء أنواع مختلفة من المواقع [SharePoint.](https://support.office.com/article/using-templates-to-create-different-kinds-of-sharepoint-sites-449eccec-ff99-4cf3-b62e-dcfee37e8da4)
 
-اليك بعض المشاكل الشائعة/الحلول المتعلقة بحفظ موقع أو قائمه كقالب في SharePoint Online.
+فيما يلي بعض المشاكل/الحلول الشائعة حول حفظ موقع أو قائمة كقالب في SharePoint Online.
 
-**الزر "حفظ قالب الموقع/القائمة" غير متوفر أو مفقود**. 
+**الزر "حفظ قالب الموقع/القائمة" غير متوفر أو مفقود.** 
 
-- سيحتاج المسؤولون إلى السماح لبرنامج نصي مخصص بتمكين ميزات القالب. للاطلاع علي الخطوات التفصيلية والامثله والاعتبارات ، راجع [السماح بالبرنامج النصي المخصص أو منعه](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script).
-
-
-- الأمر "حفظ الموقع كقالب" غير معتمد وقد يؤدي إلى حدوث مشاكل في المواقع التي تستخدم البنية الاساسيه لنشر SharePoint Server.
+- سيحتاج المسؤولون إلى السماح بالبرنامج النصي المخصص لتمكين ميزات القالب. للحصول على خطوات مفصلة، راجع الأمثلة والاعتبارات السماح بالنص النصي [المخصص أو منعه.](https://docs.microsoft.com/sharepoint/allow-or-prevent-custom-script)
 
 
-**لا يمكن إنشاء قالب الموقع أو انه لا يعمل بشكل صحيح**
-
-- قد لا يحتوي القالب علي [ميزه](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) ولن يتم تنشيطها. إذا لم تكن الميزة متوفرة للتنشيط في مجموعه المواقع المشتركة الحالية ، فلا يمكنك استخدام قالب الموقع لإنشاء موقع.
+- الأمر حفظ الموقع كقالب غير مدعوم ويمكن أن يسبب مشاكل في المواقع التي تستخدم البنية الأساسية للنشر في SharePoint Server.
 
 
-- التحقق لمعرفه ما إذا كانت هناك اي قوائم أو مكتبات تتجاوز [عتبه حدود طريقه عرض القائمة](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) لعناصر 5000 بما انه بإمكانه حظر إنشاء قالب الموقع.
+**لا يمكن إنشاء قالب الموقع أو لا يعمل بشكل صحيح**
+
+- قد يفتقد القالب إلى [ميزة](https://social.technet.microsoft.com/wiki/contents/articles/14423.sharepoint-2013-existing-features-guid.aspx) ولن يتم تنشيطه. إذا لم تكن الميزة متوفرة للتنشيط في مجموعة المواقع الحالية، فلا يمكنك استخدام قالب الموقع لإنشاء موقع.
 
 
-- قد يستخدم الموقع عددا كبيرا جدا من الموارد ، التالي فان قالب الموقع يتجاوز الحد الأقصى ل50 ميغابايت.
+- تحقق لمعرفة ما إذا كانت هناك [](https://support.office.com/article/Manage-large-lists-and-libraries-in-SharePoint-B8588DAE-9387-48C2-9248-C24122F07C59) أي قوائم أو مكتبات تتجاوز عتبة حد طريقة عرض القائمة وهو 5000 عنصر حيث يمكن أن يمنع ذلك إنشاء قالب موقع.
 
 
-- هناك مشاكل تعرض البيانات من قائمه تستخدم عمود بحث. لمزيد من المعلومات ، راجع [القائمة التي تم إنشاؤها بالقوالب لا تعرض البيانات من قائمه البحث الصحيحة في SharePoint Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).
+- قد يستخدم الموقع موارد كثيرة جدا، وبالتالي يتجاوز قالب الموقع الحد الأقصى وهو 50 ميغابايت.
 
 
-للحصول علي مزيد من المعلومات حول المشاكل والحلول الشائعة ، يرجى الاشاره إلى [قوالب الموقع وإنشاءها واستخدامها](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).
+- هناك مشاكل في عرض البيانات من قائمة تستخدم عمود البحث. لمزيد من المعلومات، راجع لا تعرض القائمة التي تم إنشاؤها بواسطة القالب البيانات من قائمة البحث الصحيحة في SharePoint [Online](https://docs.microsoft.com/sharepoint/support/lists-and-libraries/template-generated-list-incorrect-data).
+
+
+لمزيد من المعلومات المفصلة حول المشاكل والحلول الشائعة، الرجاء الرجوع [إلى إنشاء قوالب الموقع واستخدامها](https://support.office.com/article/Create-and-use-site-templates-60371B0F-00E0-4C49-A844-34759EBDD989).
 

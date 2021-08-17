@@ -13,24 +13,24 @@ ms.custom:
 - "2711"
 - "2712"
 - "9000766"
-ms.openlocfilehash: a455c7123f45bdcdd6fb9933037b2d3cfb0e616c7d425e4b0e54b2c15b7280e2
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 6b6493fefbd073935441a6344a166e4739a756e23cadd0169d41ebdbd927ae85
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53927132"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57892586"
 ---
 # <a name="microsoft-teams--audio-conferencing"></a>Microsoft Teams – المؤتمرات الصوتية
 
-هل تحتاج إلى مساعدة في تشغيل المؤتمرات الصوتية أو [إعدادها Microsoft Teams؟](/microsoftteams/set-up-audio-conferencing-in-teams)  هل تم إنشاء المستخدم مؤخرا؟ إذا كان الأمر كذلك، ستحتاج إلى عدة ساعات لكي يتم تطبيق الإعدادات.
+هل تحتاج إلى مساعدة في تشغيل المؤتمرات الصوتية أو [إعدادها Microsoft Teams؟](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams)  هل تم إنشاء المستخدم مؤخرا؟ إذا كان الأمر كذلك، ستحتاج إلى عدة ساعات لكي يتم تطبيق الإعدادات.
 
-إذا [تم شراء التراخيص ،](/microsoftteams/set-up-audio-conferencing-in-teams#step-2-get-and-assign-licenses)فتحقق من أن المستخدم مرخص Microsoft 365 المؤتمرات الصوتية لديه رقم افتراضي.
+إذا [تم شراء التراخيص ،](https://docs.microsoft.com/microsoftteams/set-up-audio-conferencing-in-teams#step-2-get-and-assign-licenses)فتحقق من أن المستخدم مرخص Microsoft 365 المؤتمرات الصوتية لديه رقم افتراضي.
 
 1. انتقل إلى [المستخدمين النشطين](https://admin.microsoft.com/Adminportal/Home?source=applauncher#/users)، ثم حدد المستخدم المطلوب.
 
 2. استناداً إلى إصدار مركز الإدارة، اختر إما **التراخيص والتطبيقات** أو انقر فوق **تحرير** في **تراخيص المنتجات**.
 
-3. تأكد من أن المستخدم لديه تراخيص محددة Microsoft 365 **المؤتمرات** الصوتية Microsoft Teams و Skype for Business عبر الإنترنت **(الخطة 2)**. إذا كان **Microsoft 365 المؤتمرات** الصوتية غير موجود، ستحتاج إلى شراء إضافة تراخيص [أولا.](/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business)
+3. تأكد من أن المستخدم لديه تراخيص محددة Microsoft 365 المؤتمرات الصوتية Microsoft Teams **و** Skype for Business عبر الإنترنت **(الخطة 2)**. إذا كان **Microsoft 365 المؤتمرات** الصوتية غير موجود، ستحتاج إلى شراء إضافة [تراخيص أولا.](https://docs.microsoft.com/microsoftteams/teams-add-on-licensing/microsoft-teams-add-on-licensing?tabs=small-business)
 
 4. المستخدم **مراكز الإدارة** انقر فوق **عرض الجميع** ثم **Teams**.
 
