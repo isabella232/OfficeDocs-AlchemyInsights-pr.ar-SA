@@ -1,5 +1,5 @@
 ---
-title: إجراءات Windows Defender في Intune
+title: Windows إجراءات Defender في Intune
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "1282"
 - "6700008"
-ms.openlocfilehash: 732b7450121f85416bb0f1868b3722899bee8194
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: af9e8e16fe96b7460b19481900e4c46d0a2a27f73293f81b5af86131af40287a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47699074"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047351"
 ---
-# <a name="windows-defender-actions-in-intune"></a>إجراءات Windows Defender في Intune
+# <a name="windows-defender-actions-in-intune"></a>Windows إجراءات Defender في Intune
 
-يمكن استخدام Intune لتشغيل الفحص عند الطلب وتحديث توقيع الفيروسات ل Windows Defender علي الاجهزه الفردية.
+يمكن استخدام Intune لتحريك عملية فحص عند الطلب وتحديث توقيع الفيروسات Windows Defender على أجهزة فردية.
 
-بعد تشغيل الاجراء البعيد بنجاح ، ينعكس النشاط في سجل الاحداث ل Windows Defender.
+بعد تشغيل إجراء عن بعد بنجاح، يظهر النشاط في سجل Windows Defender.
 
-يسمح نهج حماية نقاط النهاية ل windows بإنشاء إعدادات اضافيه لميزات Windows Defender في Intune ويتم تطبيقه علي مجموعات من الاجهزه.
+Windows Endpoint Protection الإعدادات الإضافية لإنشاء Windows Defender في Intune وتطبيقها على مجموعات من الأجهزة.
 
-للحصول علي مزيد من التفاصيل حول بدء إجراءات Windows Defender ، راجع تكوين عمليات [البحث عن برامج الحماية من الفيروسات وتشغيلها عند الطلب](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/run-scan-windows-defender-antivirus).
+لمزيد من التفاصيل حول تشغيل Windows Defender، راجع تكوين عمليات برنامج الحماية من الفيروسات من Microsoft Defender [عند الطلب وتشغيلها](https://docs.microsoft.com/windows/security/threat-protection/windows-defender-antivirus/run-scan-windows-defender-antivirus).

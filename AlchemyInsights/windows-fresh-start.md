@@ -1,5 +1,5 @@
 ---
-title: بدء تشغيل Windows الحديث
+title: Windows البدء الجديد
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "1280"
 - "6700008"
-ms.openlocfilehash: 220f42d3005cdef272ed3e74a1101a52a9b47a8a
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e72728c1fb5f79a67c13e5f66c8fa3a2094299be3fa721dd043e549fe0dff278
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47698921"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54047279"
 ---
-# <a name="windows-fresh-start"></a>بدء تشغيل Windows الحديث
+# <a name="windows-fresh-start"></a>Windows البدء الجديد
 
-يوفر اجراء الجهاز "بدء تشغيل Windows الحديث" بديلا علي الجهاز والإجراءات التي توفرها الاجهزه مع الخيار الذي يسمح بالاحتفاظ بحاله تسجيل الجهاز مع تطبيقات المجلد الرئيسي للمستخدم وإعداداته.
+Windows يوفر إجراء جهاز "البدء الجديد" بديلا عن إجراءات "مسح الجهاز" و"إيقاف تشغيل الجهاز" بالإضافة إلى خيار الاحتفاظ حالة تسجيل الجهاز مع إعدادات وتطبيقات المجلد المنزلي للمستخدم.
 
-لمزيد من المعلومات ، راجع [استخدام البدء الحديث لأعاده تعيين أجهزه Windows 10 مع Intune](https://docs.microsoft.com/intune/device-fresh-start).
+لمزيد من المعلومات، راجع [استخدام البدء الجديد لإعادة Windows 10 مع Intune](https://docs.microsoft.com/intune/device-fresh-start).
