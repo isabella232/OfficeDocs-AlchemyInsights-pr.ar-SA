@@ -1,3 +1,3 @@
 ## <a name="microsoft-open-source-code-of-conduct"></a>قواعد السلوك الخاصة ب Microsoft Open Source
 اعتمد هذا المشروع مدونة [قواعد السلوك الخاصة ب Microsoft Open Source .](https://opensource.microsoft.com/codeofconduct/)
-لمزيد من المعلومات، راجع [الأسئلة](https://opensource.microsoft.com/codeofconduct/faq/) الشائعة حول قواعد [السلوك](mailto:opencode@microsoft.com) أو الاتصال opencode@microsoft.com مع أي أسئلة أو تعليقات إضافية.
+لمزيد من المعلومات، راجع [الأسئلة](https://opensource.microsoft.com/codeofconduct/faq/) الشائعة حول قواعد [السلوك أو](mailto:opencode@microsoft.com) الاتصال opencode@microsoft.com مع أي أسئلة أو تعليقات إضافية.

@@ -13,20 +13,20 @@ ms.custom:
 - "1369"
 - "3100005"
 ms.assetid: ''
-ms.openlocfilehash: 2af731bc9a1e28e2db7c6662041b930e1b05be4c3bf8340784d9ab87101c44af
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 48634fad8f573e3a7c38cac299bb95ec90814f5c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899871"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331146"
 ---
 # <a name="identify-when-external-email-forwarding-is-configured-on-mailboxes"></a>تحديد وقت تكوين إعادة توجيه البريد الإلكتروني الخارجي على علب البريد
 
-عندما يقوم Microsoft 365 بتكوين إعادة توجيه البريد الإلكتروني الخارجي في علبة بريد، يتم تدقيق النشاط كجزء من الأمر cmdlet الخاص ب **Set-Mailbox.** يمكنك رؤية النشاط باستخدام البحث في سجل التدقيق. إليك كيفية القيام بذلك.
+عندما يقوم Microsoft 365 بتكوين إعادة توجيه البريد الإلكتروني الخارجي على علبة بريد، يتم تدقيق النشاط كجزء من الأمر **cmdlet الخاص** بتعيين علبة البريد. يمكنك رؤية النشاط باستخدام البحث في سجل التدقيق. إليك كيفية القيام بذلك.
 
 1. القيام بوا واحدة من الخطوات التالية:
    - في مركز التوافق في Microsoft 365 <https://compliance.microsoft.com> في ، انتقل إلى تدقيق  \> **الحلول**. أو، انتقل مباشرة إلى صفحة **التدقيق،** استخدم <https://compliance.microsoft.com/auditlogsearch> .
-   - في Microsoft 365 Defender في ، <https://security.microsoft.com> انتقل إلى **تدقيق**. أو، انتقل مباشرة إلى صفحة **التدقيق،** استخدم <https://sip.security.microsoft.com/auditlogsearch> .
+   - في مدخل Microsoft 365 Defender في <https://security.microsoft.com> ، انتقل إلى **تدقيق**. أو، انتقل مباشرة إلى صفحة **التدقيق،** استخدم <https://sip.security.microsoft.com/auditlogsearch> .
 
 2. في صفحة **التدقيق،** تحقق  من تحديد علامة التبويب بحث ثم قم بتكوين الإعدادات التالية:
    - حدد نطاق التاريخ/الوقت في **مربعي البدء** **والنهي.**

@@ -15,12 +15,12 @@ ms.custom:
 - "6700008"
 - "9004638"
 - "8392"
-ms.openlocfilehash: f3614a41c1bc92184d7f8a11bd224310fef6aa0cabc8e1db1288bde01ca1cb5a
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 92673c4a2a0e0faa98d3ade5ca1f6aa687d4c94a
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53922183"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58331028"
 ---
 # <a name="removing-data-and-wiping-devices-from-intune"></a>إزالة البيانات ومسح الأجهزة من Intune
 
@@ -32,8 +32,7 @@ ms.locfileid: "53922183"
 4. حدد **نعم** لتأكيد الأمر. حتى تنتهي عملية المسح، تظهر حالة الإجراء الجهاز ك *إيقاف معلق*.
     بعد اكتمال الإجراء، لن ترى الجهاز المحمول في قائمة الجهاز المدار.
 
-> [!NOTE]
-> لا يمكن إزالة بيانات الشركة من الأجهزة المنضمة إلى Azure AD. 
+**ملاحظة:** لا يمكن إزالة بيانات الشركة من الأجهزة المنضمة إلى Azure AD. 
 
 للحصول على التفاصيل الكاملة حول تأثير إجراءات "التقاعد والمسح"، بما في ذلك الإجراءات التي يتم الاحتفاظ بها والحذف، راجع الوثائق التالية:
 

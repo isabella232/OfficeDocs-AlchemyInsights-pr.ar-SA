@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000208"
 - "3436"
-ms.openlocfilehash: eb5ef701bbf15643a9ae5412e8f19f512f6b5e7cd649a08e6c63001b299dcf48
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: bf811c26aabc89e4ddd68b0a07677ae15cfe0f77
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54088851"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333146"
 ---
 # <a name="getting-started-with-teams-live-events"></a>بدء استخدام أحداث Teams المباشرة
 
@@ -27,7 +27,9 @@ ms.locfileid: "54088851"
 
 - أولا، تأكد من أن Teams Live Events [متوفرة في بلدك وم والمنطقة؛](https://docs.microsoft.com/microsoftteams/teams-live-events/plan-for-teams-live-events#regional-availability) لا يتم دعم الأحداث المباشرة بعد في بعض البلدان.  إذا قمت بتعيين التراخيص وتعيين سياسات، ولكن لا يزال يتعذر عليك إنشاء Teams Live Event، فمن المرجح أنك في بلد أو منطقة لا تتوفر فيها الأحداث المباشرة بعد.
 
-- [ترخيص Office 365 Enterprise E1 أو E3 أو E5 أو Office 365 A3 أوA5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). **ملاحظة**: بسبب الزيادة الحالية في استخدام Teams، قد يستغرق تعيين ترخيص Teams إلى مستخدم حوالي 24 ساعة قبل أن يتم إعداده بشكل كامل. إلا أن يتم ذلك، لن تتمكن من تعيين نُهج Teams إليه وقد لا يتوفر له إمكانية الوصول إلى ميزات مثل إجراء مكالمات أو عقد مؤتمرات صوتية.
+- [ترخيص Office 365 Enterprise E1 أو E3 أو E5 أو Office 365 A3 أوA5](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#step-2-get-and-assign-licenses). 
+
+    **ملاحظة**: بسبب الزيادة الحالية في استخدام Teams، قد يستغرق تعيين ترخيص Teams إلى مستخدم حوالي 24 ساعة قبل أن يتم إعداده بشكل كامل. إلا أن يتم ذلك، لن تتمكن من تعيين نُهج Teams إليه وقد لا يتوفر له إمكانية الوصول إلى ميزات مثل إجراء مكالمات أو عقد مؤتمرات صوتية.
 
 - إذن [لعقد أحداث مباشرة في مركز إدارة Microsoft Teams](https://docs.microsoft.com/microsoftteams/teams-live-events/set-up-for-teams-live-events#create-or-edit-a-live-events-policy).
 

@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 88f06f5d35030a4decaaf3a7b1f8198f42e6913154c27ed426373ad95a291a67
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: b76b3f2f96a1c086c7eb7de830908965d7207c0b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57888357"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58333370"
 ---
 # <a name="set-up-safe-attachment-policies-in-microsoft-defender-for-office-365"></a>إعداد خزينة المرفقات في Microsoft Defender Office 365
 
-1. في مدخل Microsoft 365 Defender، انتقل إلى البريد الإلكتروني & سياسات التعاون & قواعد خزينة <https://security.microsoft.com/>  \>  \>  \> **المرفقات**  في القسم "سياسات".
+1. في مدخل Microsoft 365 Defender، انتقل إلى البريد الإلكتروني & سياسات التعاون & القواعد خزينة المرفقات في القسم <https://security.microsoft.com/>  \>  \>  \>  "سياسات". 
 
-   الانتقال مباشرة إلى صفحة خزينة **المرفقات،** استخدم <https://security.microsoft.com/safeattachmentv2> .
+   الانتقال مباشرة إلى صفحة المرفقات **خزينة،** استخدم <https://security.microsoft.com/safeattachmentv2> .
 
 2. في صفحة **خزينة المرفقات،** يمكنك القيام بأي من الخطوات التالية:
    - لإضافة نهج جديد، حدد **+ إنشاء**. سيتم تشغيل معالج لمساعدتك على تعريف إعدادات النهج.

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004114"
 - "7194"
-ms.openlocfilehash: 5aa6f11d31ed62078fdd05090af5722289544c5ab2244a369182f4e0f9214183
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 48a06fde215e007b6b81b32ab751ca8e4bba522d
+ms.sourcegitcommit: 46e24d65cffd37b6988447c6738b3315303bbe13
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53963774"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58339019"
 ---
 # <a name="how-to-add-and-manage-administrators---recommended-steps"></a>كيفية إضافة المسؤولين وإدارتهم - الخطوات الموصى بها
 
@@ -26,7 +26,7 @@ ms.locfileid: "53963774"
 
 **تحرير مسؤول الاشتراك أو المسؤول المشترك**
 
-- يمكن لمسؤول الحساب تحرير كلا الدورين بينما يمكن لمسؤول الاشتراك تغيير المسؤولين ال معاونين فقط في [مدخل Azure](https://ms.portal.azure.com/#home).
+- يمكن لمسؤول الحساب تحرير كلا الدورين في حين يمكن لمسؤول الاشتراك تغيير المسؤولين ال معاونين فقط في [مدخل Azure](https://ms.portal.azure.com/#home).
 - [إضافة مسؤولي اشتراك Azure أو تغييرهم](https://docs.microsoft.com/azure/cost-management-billing/manage/add-change-subscription-administrator)
 
 **تحديث مسؤول الاشتراك أو Co-Administrator الداخلي (AIRS)**
@@ -37,12 +37,12 @@ ms.locfileid: "53963774"
 2. انقر فوق عنصر السطر مع اشتراكك. يفتح ذلك نظرة عامة على اشتراكك.
 3. على شفرة **الاشتراك،** انقر فوق **خصائص**. 
 4. انقر فوق **الزر مسؤول** الخدمة.
-5. أدخل البريد الإلكتروني للمستخدم الذي تريد تعيينه كمسؤول خدمة وانقر فوق **موافق.**
+5. أدخل البريد الإلكتروني للمستخدم الذي تريد تعيينه كمسؤول خدمة وانقر فوق **موافق**.
 
 **إضافة/تغيير/إزالة المسؤول المشترك**
 
 1. سجل دخولك إلى [مدخل Azure](https://ms.portal.azure.com/#home) كمسؤول خدمة.
-2. افتح [الاشتراكات](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) وحدد اشتراكا. (يمكن تعيين المسؤولين المشتركين فقط في نطاق الاشتراك.)
+2. افتح [الاشتراكات](https://ms.portal.azure.com/#blade/Microsoft_Azure_Billing/SubscriptionsBlade) وحدد اشتراكا. (يمكن تعيين المسؤولون المشتركون فقط في نطاق الاشتراك.)
 3. انتقل إلى التحكم في **Access (IAM)** المسؤولون التقليديون إضافة مسؤول معاون لفتح الجزء إضافة مسؤول معاون (إذا كان الخيار إضافة مسؤول معاون معطلا، فإنه يشير إلى أنك لا تملك  >    >    >   الأذونات). 
 4. حدد المستخدم الذي تريد إضافته وانقر فوق **إضافة**.
 
@@ -75,7 +75,7 @@ ms.locfileid: "53963774"
 - [البرنامج التعليمي: منح حق الوصول لمستخدم يستخدم RBAC ومدخل Azure](https://docs.microsoft.com/azure/role-based-access-control/quickstart-assign-role-user-portal)
 - [استكشاف الأخطاء في RBAC في Azure وإصلاحها](https://docs.microsoft.com/azure/role-based-access-control/troubleshooting)
 - [تنظيم الموارد باستخدام مجموعات إدارة Azure](https://docs.microsoft.com/azure/governance/management-groups/overview)
-- [كيفية طلب نسخة من فاتورة Azure عبر البريد الإلكتروني](https://azure.microsoft.com/en-us/blog/azure-email-invoices/)
+- [كيفية طلب نسخة من فاتورة Azure عبر البريد الإلكتروني](https://azure.microsoft.com/blog/azure-email-invoices/)
 - [كيفية إضافة بطاقة ائتمان أو خصم أو تحديثها أو إزالتها من Azure](https://docs.microsoft.com/azure/cost-management-billing/manage/change-credit-card)
 - [إدارة (إعادة تنشيط/إلغاء/تبديل) الاشتراك](https://docs.microsoft.com/azure/cost-management-billing/manage/subscription-disabled)
 
