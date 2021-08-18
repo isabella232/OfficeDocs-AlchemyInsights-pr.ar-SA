@@ -11,16 +11,16 @@ ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
 ms.custom: 1039
 ms.assetid: ''
-ms.openlocfilehash: 484ec1102500b9cce4a1489e016b73e9f73d609e4af95fff13405857d34f3978
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: ea05d60d1cdb4079d52e0a317331f7e98845b82bd74429dc8fa63377c2527a74
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54038792"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900639"
 ---
 # <a name="troubleshooting-microsoft-defender-for-office-365"></a>استكشاف الأخطاء وإصلاحها ل Microsoft Defender Office 365
 
-- **هل تلاحظ حدوث تأخيرات في تسليم الرسائل؟** استخدم خيار [التسليم الديناميكي](/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) في نهج Microsoft Defender Office 365 خزينة المرفقات. سيساعد ذلك على تجنب تأخيرات الرسائل أثناء حماية المستلمين من الملفات الضارة.
+- **هل تلاحظ حدوث تأخيرات في تسليم الرسائل؟** استخدم خيار [التسليم الديناميكي](https://docs.microsoft.com/microsoft-365/security/office-365-security/dynamic-delivery-and-previewing) في نهج Microsoft Defender Office 365 خزينة المرفقات. سيساعد ذلك في تجنب تأخيرات الرسائل أثناء حماية المستلمين من الملفات الضارة.
 
 - **هل تريد الإبلاغ عن إيجابيات خاطئة أو سلبية خاطئة إلى Microsoft؟** استخدم ["مستكشف الواجبات المرسلة".](https://protection.office.com/reportsubmission)
 

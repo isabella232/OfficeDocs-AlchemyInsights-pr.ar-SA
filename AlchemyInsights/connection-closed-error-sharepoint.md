@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "10802"
 - "9006390"
-ms.openlocfilehash: f0f82eaaa00d71992af445bb89346fb85bad3ade5d120b25ad3a6ea4f9674893
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 1b4f336f389eb6fd81ac2ca40e6047184cc4c1bf
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57883306"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317683"
 ---
 # <a name="the-underlying-connection-was-closed-error-in-sharepoint"></a>الخطأ "تم إغلاق الاتصال الأساسي" في SharePoint
 
@@ -30,4 +30,4 @@ ms.locfileid: "57883306"
 
 - [تحديث لتمكين TLS 1.1 و TLS 1.2 كبروتوكولات آمنة افتراضية في WinHTTP في Windows](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)
 
-إذا كان المستخدمون Windows 7، فتأكد من التحقق من [مجموعات رموز رموز TLS في](https://docs.microsoft.com/windows/win32/secauthn/tls-cipher-suites-in-windows-7)Windows 7 .
+إذا كان المستخدمون Windows 7، فتأكد من التحقق من [مجموعات TLS Cipher في](https://docs.microsoft.com/windows/win32/secauthn/tls-cipher-suites-in-windows-7)Windows 7 .

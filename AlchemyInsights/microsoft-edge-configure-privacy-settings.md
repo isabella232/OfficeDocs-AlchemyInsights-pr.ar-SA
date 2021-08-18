@@ -1,5 +1,5 @@
 ---
-title: Microsoft Edge تكوين إعدادات الخصوصية
+title: Microsoft Edge إعدادات الخصوصية
 ms.author: v-smandalika
 author: v-smandalika
 manager: dansimp
@@ -13,19 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003843"
 - "6892"
-ms.openlocfilehash: dcd1d91dcde1f585caf0e1e3af30946513a0f26c
-ms.sourcegitcommit: 94036315916fbc79dca2a692c2e9bc1139dd28f6
+ms.openlocfilehash: 24721325aefd4a8c0dbeb7864ce6da637c4df932694d4b6fff80cab5bb5b4319
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "49676709"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114159"
 ---
-# <a name="microsoft-edge-configure-privacy-settings"></a>Microsoft Edge تكوين إعدادات الخصوصية
+# <a name="microsoft-edge-configure-privacy-settings"></a>Microsoft Edge إعدادات الخصوصية
 
-بشكل افتراضي ، إذا تم نشر Microsoft Edge علي الانظمه الاساسيه غير التابعة لنظام التشغيل Windows ، فلن يتم إرسال البيانات التشخيصية ومعلومات الموقع إلى Microsoft. ومع ذلك ، إذا تم نشر Microsoft Edge علي Windows 10 ، سيتم إرسال بيانات التشخيص ومعلومات الموقع وفقا [لإعدادات بيانات تشخيص Windows](https://docs.microsoft.com/windows/privacy/configure-windows-diagnostic-data-in-your-organization)الخاصة بالمستخدمين.
+بشكل افتراضي، Microsoft Edge نشر البيانات على الأنظمة الأساسية غير Windows، لن يتم إرسال البيانات التشخيصية ومعلومات الموقع إلى Microsoft. ومع ذلك، Microsoft Edge تم نشر بيانات Windows 10، يتم إرسال البيانات التشخيصية ومعلومات الموقع وفقا لإعدادات البيانات التشخيصية Windows [المستخدمين.](https://docs.microsoft.com/windows/privacy/configure-windows-diagnostic-data-in-your-organization)
 
-لتكوين الطريقة التي يتعامل بها Microsoft Edge مع مجموعه البيانات لمؤسسك ، استخدم نهج المجموعة التالية:
-- [ميتريكسريبورتينجينابليد](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#metricsreportingenabled): يؤدي هذا النهج إلى تمكين اعداد تقارير الاستخدام والبيانات ذات الصلة بالعطل.
-- [سيندسيتينفوتويمبروفيسيرفيسيس](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#sendsiteinfotoimproveservices): يقوم هذا النهج بإرسال معلومات الموقع المستخدمة لتحسين خدمات Microsoft.
+لتكوين كيفية معالجة Microsoft Edge تجميع البيانات لمجموعتك، استخدم سياسات المجموعة التالية:
+- [MetricsReportingEnabled](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#metricsreportingenabled): يتيح هذا النهج إعداد تقارير حول الاستخدام والبيانات ذات الصلة بالتعطل.
+- [SendSiteInfoToImproveServices](https://docs.microsoft.com/DeployEdge/microsoft-edge-policies#sendsiteinfotoimproveservices): يرسل هذا النهج معلومات الموقع المستخدمة لتحسين خدمات Microsoft.
 
-لمعرفه المزيد ، راجع [تكوين إعدادات النهج](https://docs.microsoft.com/deployedge/microsoft-edge-enterprise-privacy-settings#configure-policy-settings).
+لمعرفة المزيد، راجع [تكوين إعدادات النهج](https://docs.microsoft.com/deployedge/microsoft-edge-enterprise-privacy-settings#configure-policy-settings).

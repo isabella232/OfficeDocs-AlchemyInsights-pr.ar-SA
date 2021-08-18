@@ -1,5 +1,5 @@
 ---
-title: 127 الحصول علي خطا تينانتاكسيسبلوكيديكسسيبتيون عند الوصول إلى البريد الكتروني ؟
+title: 127 هل تحصل على خطأ TenantAccessBlockedException عند الوصول إلى البريد الإلكتروني؟
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -14,19 +14,19 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: 1e9799c056077e5f61f3fa39faf2551207e35e76
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 024638f3c9379e6b804331c2cfa4cd8ba5fa48dcf892d4c418db0ff9a0206b3b
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706582"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54089427"
 ---
-# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>هل حصلت علي خطا في تينانتاكسيسبلوكيديكسسيبتيون عند الوصول إلى البريد الكتروني ؟
+# <a name="getting-a-tenantaccessblockedexception-error-when-accessing-email"></a>هل تحصل على خطأ TenantAccessBlockedException عند الوصول إلى البريد الإلكتروني؟
 
-هناك بعض الأسباب المختلفة وراء ظهور هذا الخطا. على سبيل المثال:
+هناك بضعة أسباب مختلفة وراء تلقي هذا الخطأ. على سبيل المثال:
 
-- تاكد من ان اشتراكك صالح علي صفحه **الفوترة** \> **[الخاصة بالمنتجات](https://portal.office.com/adminportal/home#/subscriptions)** في مركز أداره Microsoft 365.
+- تحقق من أن اشتراكك صالح على **صفحة فوترة** منتجاتك \> **[](https://portal.office.com/adminportal/home#/subscriptions)** في مركز مسؤولي Microsoft 365.
 
-- قم بالتحقق من اي إشعارات متجاوزه لاستحقاق **الفاتورة علي صفحه الفوترة** الخاصة \> **[ب&](https://portal.office.com/adminportal/home#/billoverview)** الفواتير في مركز أداره Microsoft 365.
+- تحقق من أي إعلامات  مستحقة في صفحة فواتير & الدفعات \> **[](https://portal.office.com/adminportal/home#/billoverview)** في مركز مسؤولي Microsoft 365.
 
-- إذا تم حديثا تحديث الفوترة والاشتراكات الخاصة بحسابك ، فقد يستغرق نشر التغييرات في الوقت الحالي. حاول مره أخرى خلال دقائق قليله ، وإذا استمرت المشكلة ، فاتصل بنا.
+- إذا تم تحديث الفوترة والاشتراكات لحسابك مؤخرا، فقد يستغرق نشر التغييرات بعض الوقت. حاول مرة أخرى في غضون دقائق قليلة، وإذا استمرت المشكلة، فاتصل بنا.

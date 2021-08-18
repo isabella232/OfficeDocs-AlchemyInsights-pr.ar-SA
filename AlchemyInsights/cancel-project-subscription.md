@@ -14,16 +14,16 @@ ms.custom:
 - commerce_subscriptions
 - "1400001"
 - "4722"
-ms.openlocfilehash: 94a07f68003c8e77149499dbb95e1e96313e14b953e1b8bbf7e0efed24ea145d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9a336cb0c13751044cdca7017803d9ba4dabcb1e5f6e49d3ac4fd7d35d027c95
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54071391"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57900415"
 ---
 # <a name="cancel-project-subscription"></a>إلغاء Project الاشتراك
 
-يمكن للمسؤولين إلغاء الاشتراك Project لمنظمتهم في مركز مسؤولي Microsoft 365.
+يمكن للمسؤولين إلغاء اشتراك Project لمنظمتهم في مركز مسؤولي Microsoft 365.
 
 1. انتقل إلى **صفحة فوترة** \> [منتجاتك.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. على علامة **التبويب** المنتجات، ابحث Project الاشتراك الذي تريد إلغاؤه. حدد النقاط الثلاث (المزيد من الإجراءات)، ثم حدد **إلغاء الاشتراك**.
@@ -32,4 +32,4 @@ ms.locfileid: "54071391"
 
 **المبلغ المسترد:** سيتم إرجاع أي رصيد مفوتر لك خلال دورة الفوترة التالية.
 
-لمعرفة المزيد، راجع [إلغاء اشتراكك](/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+لمعرفة المزيد، راجع [إلغاء اشتراكك](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

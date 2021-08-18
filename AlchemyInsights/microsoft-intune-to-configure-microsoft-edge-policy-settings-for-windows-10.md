@@ -1,5 +1,5 @@
 ---
-title: استخدام Microsoft Intune لتكوين إعدادات نهج Microsoft Edge ل Windows 10
+title: استخدم Microsoft Intune لتكوين Microsoft Edge نهج Windows 10
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,17 +14,17 @@ ms.custom:
 - "9004632"
 - "7096"
 - "8365"
-ms.openlocfilehash: 0107571b4a9313b39751f8c8d06468ccf8cdf807
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 7b044a17c06522bd0cc97eef10841754833f7ae04fb25e9951c1d9df7e93f6f9
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51401750"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54114123"
 ---
-# <a name="use-microsoft-intune-to-configure-microsoft-edge-policy-settings-for-windows-10"></a>استخدام Microsoft Intune لتكوين إعدادات نهج Microsoft Edge ل Windows 10
+# <a name="use-microsoft-intune-to-configure-microsoft-edge-policy-settings-for-windows-10"></a>استخدم Microsoft Intune لتكوين Microsoft Edge نهج Windows 10
 
-يمكنك تكوين إعدادات ونهج Microsoft Edge عن طريق إضافة ملف تعريف تكوين جهاز إلى Microsoft Intune. وهذا يعادل تكوين نهج مجموعة Microsoft Azure Active Directory أو إعدادات كائن نهج المجموعة المحلي (GPO) على أجهزة المستخدمين.
+يمكنك تكوين Microsoft Edge من خلال إضافة ملف تعريف تكوين الجهاز إلى Microsoft Intune. ويعادل ذلك تكوين Microsoft Azure Active Directory المجموعة أو إعدادات كائن نهج المجموعة المحلي (GPO) على أجهزة المستخدمين.
 
-لمعرفة المزيد، راجع [إنشاء ملف تعريف لإدارة الإعدادات في Microsoft Edge for Windows 10](https://go.microsoft.com/fwlink/?linkid=2133700).
+لمعرفة المزيد، راجع [إنشاء ملف تعريف لإدارة](https://go.microsoft.com/fwlink/?linkid=2133700)الإعدادات في Microsoft Edge Windows 10 .
 
-تنطبق هذه المقالة على إصدارات Microsoft Edge 77 والإصدارات الأحدث.
+تنطبق هذه المقالة على Microsoft Edge 77 والإصدارات الأحدث.

@@ -1,5 +1,5 @@
 ---
-title: 123 الحصول علي خطا تعطيل الحساب في OWA ؟
+title: 123 هل حدث خطأ بتعطيل حساب في OWA؟
 ms.author: daeite
 author: daeite
 manager: jackiesm
@@ -14,13 +14,13 @@ ms.custom:
 - "123"
 - "16200023"
 ms.assetid: 3e24aa2e-4c96-46cc-b9f7-8fc2f4643562
-ms.openlocfilehash: 4e2f7a0d370c32dc6e38d65e04d54d473ba4db20
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 73879d883bd942d1b4bd59bf4ebf290d358349fbeb026b3234934319014d21af
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47706546"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54089319"
 ---
-# <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a>هل تم تعطيل الحصول علي خطا في Outlook علي الويب ؟
+# <a name="getting-an-account-disabled-error-in-outlook-on-the-web"></a>هل حدث خطأ بتعطيل حساب في Outlook على ويب؟
 
-إذا ظهرت رسالة الخطا التي تم **تعطيل الحساب** معها  `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` عند محاولة فتح Outlook علي الويب (المعروف سابقا باسم outlook web App) ، فمن المحتمل ان يكون مسؤول المؤسسة قد قام بتعطيل وصولك إلى Outlook علي الويب. يمكن للمسؤول إصلاح هذا الخطا عن طريق اتباع الخطوات الواردة في الموضوع [تمكين Outlook Web App لعلبه البريد أو تعطيله](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx).
+إذا حصلت على الخطأ **الذي** تم تعطيل حسابك به عند محاولة فتح Outlook على ويب (المعروف سابقا باسم Outlook Web App)، فقد يكون مسؤول المؤسسة قد عطل وصولك إلى `X-OWA-Error: Microsoft.Exchange.Data.Storage.AccountDisabledException` Outlook على ويب. يمكن للمسؤول إصلاح هذا الخطأ باتباع الخطوات الواردة في الموضوع تمكين علبة بريد Outlook Web App [أو تعطيلها.](https://technet.microsoft.com/library/bb124124%28v=exchg.150%29.aspx)

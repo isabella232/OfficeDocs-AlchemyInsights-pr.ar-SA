@@ -11,25 +11,25 @@ ms.custom:
 - "982"
 - "4000006"
 ms.assetid: 0530bbd2-255c-434f-a24a-7c6c0877bad7
-ms.openlocfilehash: 7a26f7e1a18239a24b2ebf57fc4a3eccd07058a99638a14c18a9b358a79fb27b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 987c91886aaa4ae04d9dc66567688cd15102a8adc5b0ba0dd4d59dc784d65d01
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54060771"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57901167"
 ---
 # <a name="microsoft-teams-upgrade"></a>Microsoft Teams الترقية
 
-سواء كنت قد بدأت باستخدام Teams، أو تستخدم Teams إلى جانب Skype for Business، أو جاهزا للترقية، فنحن نريد التأكد من أن لديك كل ما تحتاج إليه للتنقل في رحلة ناجحة Teams. لمزيد من المعلومات، يرجى زيارة الارتباطات أدناه.
+سواء كنت قد بدأت باستخدام Teams، أو تستخدم Teams إلى جانب Skype for Business، أو جاهزا للترقية، نريد التأكد من أن لديك كل ما تحتاج إليه للتنقل في رحلة ناجحة Teams. لمزيد من المعلومات، يرجى زيارة الارتباطات أدناه.
 
-[بدء العمل مع Microsoft Teams الترقية](/MicrosoftTeams/upgrade-start-here)
+[بدء العمل مع ترقية Microsoft Teams الخاص بك](https://docs.microsoft.com/MicrosoftTeams/upgrade-start-here)
 
-[التخطيط للترقية](/MicrosoftTeams/upgrade-plan-journey)
+[التخطيط للترقية](https://docs.microsoft.com/MicrosoftTeams/upgrade-plan-journey)
 
-[فهم Microsoft Teams Skype for Business المشترك](/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
+[فهم Microsoft Teams Skype for Business المشترك](https://docs.microsoft.com/MicrosoftTeams/teams-and-skypeforbusiness-coexistence-and-interoperability)
 
-[تنفيذ الترقية من Skype for Business Online إلى Teams](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
+[تنفيذ الترقية من Skype for Business Online إلى Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinessonline)
 
-[تنفيذ الترقية من Skype for Business إلى Teams](/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
+[تنفيذ الترقية من Skype for Business إلى Teams](https://docs.microsoft.com/MicrosoftTeams/upgrade-to-teams-execute-skypeforbusinesshybridonprem)
  
-[التحقق من حالة Skype for Business Online Teams الترقية باستخدام PowerShell](/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)
+[التحقق من حالة Skype for Business Online Teams الترقية باستخدام PowerShell](https://docs.microsoft.com/powershell/module/skype/get-csteamsupgradestatus?view=skype-ps)

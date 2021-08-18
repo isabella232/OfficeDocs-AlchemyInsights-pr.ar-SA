@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9003554"
 - "6819"
-ms.openlocfilehash: b0618a02d2ae74ece246b629d96b92d76e5e5718367f9055d9783c1440a7a70b
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 97b4138517ef84b8e7fb176a4abee44d64a56d2f
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54020071"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58317127"
 ---
 # <a name="understand-billing-amount"></a>استيعاب مبالغ الفوترة
 
@@ -70,7 +70,9 @@ ms.locfileid: "54020071"
 
 **كيف يمكنني التحقق من الخدمات النشطة، ومتى تنتهي صلاحيتها؟**
 
-في مدخل Ibiza > اشتراك > صفحة نظرة عامة > مرر لأسفل حتى الخدمات المجانية لمدة 12 شهراً وانقر فوق أيقونة المعلومات. هذا سيعرض البيانات عند انتهاء صلاحية الخدمات المجانية **ملاحظة**: خدمات V1 جزء من خدمات Azure المجانية المضمنة. للاطلاع على أحدث قائمة من الخدمات المجانية، انظر [أي المنتجات مجانية لمدة 12 شهراً](http://www.microsoftazuresponsorships.com/)
+في مدخل Ibiza > اشتراك > صفحة نظرة عامة > مرر لأسفل حتى الخدمات المجانية لمدة 12 شهراً وانقر فوق أيقونة المعلومات. سيعرض هذا التاريخ الذي تنتهي فيه صلاحية الخدمات المجانية
+
+**ملاحظة:** لا توجد خدمات V1 هي جزء من Azure Free Included Services. للاطلاع على أحدث قائمة من الخدمات المجانية، انظر [أي المنتجات مجانية لمدة 12 شهراً](http://www.microsoftazuresponsorships.com/)
 
 المزيد من الأسئلة المتداولة: [الأسئلة المتداولة حول الحساب المجاني](https://azure.microsoft.com/free/free-account-faq/)
 
