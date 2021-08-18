@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "86"
 - "1400001"
-ms.openlocfilehash: 5c6b305fe61d20c706ff27db51607bcbdbdfdfe5
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 5745ca1bde0722b4a758c239e06a838b2c5e942ac0e8a1f4e953fcccb978b41e
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58311422"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119883"
 ---
 # <a name="canceling-your-microsoft-365-subscription"></a>هل تلغي Microsoft 365 الاشتراك؟
 
@@ -30,4 +30,4 @@ ms.locfileid: "58311422"
   
 **المبلغ المسترد:** سيتم إرجاع أي رصيد مفوتر لك خلال دورة الفوترة التالية.
 
-لمعرفة المزيد، راجع [إلغاء اشتراكك](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+لمعرفة المزيد، راجع [إلغاء اشتراكك](/microsoft-365/commerce/subscriptions/cancel-your-subscription).

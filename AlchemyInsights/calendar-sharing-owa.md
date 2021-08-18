@@ -1,5 +1,5 @@
 ---
-title: مشاركه تقويم 616
+title: مشاركة التقويم 616
 ms.author: pdigia
 author: pebaum
 manager: jackiesm
@@ -13,20 +13,20 @@ ms.custom:
 - "616"
 - "3800014"
 ms.assetid: 411509f0-932c-4636-9233-7eeb677f7b11
-ms.openlocfilehash: def2bf5181dc1a79fe8705091b31cc55bafdd3cd
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 0f21000033715dd1ea1637289ffe3527759b8ad03593e01ecee1a01369421f55
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47684433"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119884"
 ---
-# <a name="troubleshooting-issues-with-calendar-sharing"></a>استكشاف الأخطاء وإصلاحها في مشاركه التقويم
+# <a name="troubleshooting-issues-with-calendar-sharing"></a>استكشاف المشاكل المتعلقة بمشاركة التقويم وإصلاحها
 
-- لتشخيص مشاكل الأذونات ، استخدم [محلل الاتصال عن بعد ل Exchange المتوفر](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy)، الذي يوفر رسائل خطا خاصه جدا.
-- يمكنك أيضا استخدام [مساعد الإصلاح والدعم من microsoft ل microsoft 365](https://diagnostics.office.com/) لتشخيص مجموعه متنوعة من مشاكل التقويم الأخرى. 
-- إذا كان لدي المستخدم برنامج Outlook لسطح المكتب ، فبامكان [أداه التحقق من التقويم ل Outlook حل المشاكل المحتملة](https://www.microsoft.com/download/details.aspx?id=28786) .
+- لتشخيص مشاكل الأذونات، استخدم Exchange [مشغول](https://testconnectivity.microsoft.com/Default.aspx?testId=freeBusy)مشغول في محلل الاتصال عن بعد، مما يوفر رسائل خطأ محددة جدا.
+- يمكنك أيضا استخدام [مساعد الإصلاح والدعم Microsoft Microsoft 365](https://diagnostics.office.com/) لتشخيص مجموعة متنوعة من مشاكل التقويم الأخرى. 
+- إذا كان لدى المستخدم Outlook سطح المكتب، فإن أداة تدقيق التقويم [Outlook](https://www.microsoft.com/download/details.aspx?id=28786) حل المشاكل المحتملة.
 
-موارد الكيفية الاضافيه:
+موارد إضافية للمعاونة:
 
 - [مشاركة تقويم Outlook مع أشخاص آخرين](https://support.office.com/article/353ed2c1-3ec5-449d-8c73-6931a0adab88)
-- [مشاركه التقويم في Outlook علي الويب للاعمال](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)
+- [مشاركة التقويم في Outlook على ويب للأعمال](https://support.office.com/article/7ecef8ae-139c-40d9-bae2-a23977ee58d5)

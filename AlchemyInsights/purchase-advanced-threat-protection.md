@@ -15,16 +15,16 @@ ms.custom:
 - commerce_purchase
 - "9003019"
 - "5758"
-ms.openlocfilehash: 46a734244b2eedc6da69738dc19e51513d165c2cb1afc3ab99e91a856e20f674
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 20d241947c356b3d2b9f050f88de8af1d370d799
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901011"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58323691"
 ---
 # <a name="purchase-microsoft-defender-for-office-365"></a>شراء Microsoft Defender Office 365
 
-يتم تضمين microsoft Defender Office 365 في اشتراكات معينة، مثل Microsoft 365 E5 و Office 365 E5 و Office 365 A5 و Microsoft 365 Business Premium. إذا لم يتضمن اشتراكك Microsoft Defender Office 365، يمكنك شراء [Microsoft Defender](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) Office 365 كعنواة أخرى لاشتراك معين. للشراء في مركز مسؤولي Microsoft 365:
+يتم تضمين microsoft Defender Office 365 في اشتراكات معينة، مثل Microsoft 365 E5 و Office 365 E5 و Office 365 A5 و Microsoft 365 Business Premium. إذا لم يتضمن اشتراكك Microsoft Defender Office 365، يمكنك شراء [Microsoft Defender Office 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/office-365-atp) كعنواة أخرى لاشتراك معين. للشراء في مركز مسؤولي Microsoft 365:
 
 1. في مركز الإدارة، انتقل إلى **صفحة خدمات**  >  [شراء الفوترة.](https://go.microsoft.com/fwlink/p/?linkid=868433)
 2. في أسفل صفحة  خدمات الشراء،  في المقطع الوظائف الإضافية، ابحث عن Microsoft Defender Office 365 الإضافية، وحدد **تفاصيل**.
