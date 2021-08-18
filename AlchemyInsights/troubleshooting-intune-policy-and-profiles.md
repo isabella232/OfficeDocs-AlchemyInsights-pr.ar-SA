@@ -1,5 +1,5 @@
 ---
-title: استكشاف أخطاء النهج وملفات تعريف Intune وإصلاحها
+title: استكشاف مشاكل نهج Intune وملفات تعريفه وإصلاحها
 ms.author: mandia
 author: mandia
 manager: dougeby
@@ -13,27 +13,27 @@ ms.collection: Adm_O365
 ms.custom:
 - "1063"
 - "6700005"
-ms.openlocfilehash: 71cbb52d73261d59732f42789997d0ee55e71906
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: b302dbd6e894fef80756a4e77564845474a48affd2cfe1a944765189395f8f6d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47689833"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54092397"
 ---
-# <a name="troubleshooting-intune-policy-and-profiles"></a>استكشاف أخطاء النهج وملفات تعريف Intune وإصلاحها
+# <a name="troubleshooting-intune-policy-and-profiles"></a>استكشاف مشاكل نهج Intune وملفات تعريفه وإصلاحها
 
-للاطلاع علي النهج الموجودة ، واستكشاف الأخطاء وإصلاحها ، ومراجعه بيانات السجلات ، ورؤية الاسئله والمشاكل الشائعة ، قد تساعدك الدلائل التالية.
+لرؤية السياسات الموجودة، استكشاف التعارضات وإصلاحها، ومراجعة بيانات السجل، ورؤية الأسئلة الشائعة والمشاكل الشائعة، قد تساعدك الدليلين التاليين.
 
-- [استكشاف أخطاء النهج وملفات التعريف وإصلاحها في Intune](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune)
+- [استكشاف الأخطاء وإصلاحها في ملفات التعريف والسياسات في Intune](https://docs.microsoft.com/mem/intune/configuration/troubleshoot-policies-in-microsoft-intune)
 
-- [الاسئله والمشاكل والحلول الشائعة التي تتضمن نهج الاجهزه وملفات التعريف في Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
+- [الأسئلة الشائعة، والقضايا، والقرارات المتعلقة ونهج الأجهزة وملفات التعريف في Intune](https://docs.microsoft.com/intune/device-profile-troubleshoot)
 
-- [مراقبه ملفات تعريف تكوين الجهاز وعرض التعارضات في Intune](https://docs.microsoft.com/intune/device-profile-monitor)
+- [مراقبة ملفات تعريف تكوين الجهاز وعرض التعارضات في Intune](https://docs.microsoft.com/intune/device-profile-monitor)
 
-- [استكشاف أخطاء توافق الاجهزه والوصول المشروط في Intune](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
+- [استكشاف مشاكل توافق الأجهزة والوصول الشرطي وإصلاحها في Intune](https://docs.microsoft.com/intune/troubleshoot-conditional-access)
 
-- [مراقبه نهج التوافق وعرض التعارضات في Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
+- [مراقبة سياسات التوافق وعرض التعارضات في Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-- [إرسال بيانات سجل Intune إلى مساحة تخزين Azure أو محاور الاحداث أو تحليلات السجلات](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
+- [إرسال بيانات سجل Intune إلى تخزين Azure أو محاور الأحداث أو تحليلات السجلات](https://docs.microsoft.com/intune/review-logs-using-azure-monitor)
 
-راجع النظرة العامة [لتكوين الاجهزه](https://docs.microsoft.com/intune/device-profiles) أو [استخدام نهج التوافق](https://docs.microsoft.com/intune/device-compliance-get-started).
+راجع نظرة عامة [لتكوين الأجهزة](https://docs.microsoft.com/intune/device-profiles) أو استخدام [سياسات التوافق](https://docs.microsoft.com/intune/device-compliance-get-started).
