@@ -1,5 +1,5 @@
 ---
-title: تصدير عناصر إلى ملف أرشيف في Outlook for Mac
+title: تصدير العناصر إلى ملف أرشيف في Outlook for Mac
 ms.author: v-smandalika
 author: v-smandalika
 ms.date: 12/01/2020
@@ -11,21 +11,20 @@ localization_priority: Normal
 ms.custom:
 - "1800009"
 - "7350"
-ms.openlocfilehash: 374d03b97240c50ed8a3f20f36dce7bb5db2ede39cbe25711ed615efdbe1ac93
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 76c89da561655e44777dad55541a984e11f190a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54100389"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316627"
 ---
-# <a name="export-items-to-an-archive-file-in-outlook-for-mac"></a>تصدير عناصر إلى ملف أرشيف في Outlook for Mac
+# <a name="export-items-to-an-archive-file-in-outlook-for-mac"></a>تصدير العناصر إلى ملف أرشيف في Outlook for Mac
 
 لتقليل حجم علبة الوارد، أرشفة رسائل البريد الإلكتروني وجهات الاتصال والعناصر الأخرى يدويا إلى ملف بيانات Outlook for Mac (olm.). يمكنك حفظ ملف .olm في أي موقع على جهاز Mac أو على جهاز آخر لحفظه.
 
 1. على علامة **التبويب أدوات،** انقر فوق **تصدير**.
 
-> [!NOTE]
-> ألا ترى الزر **تصدير؟** تأكد من أن لديك أحدث إصدار من Outlook. في القائمة Outlook **تعليمات،** انقر **فوق التحقق من وجود تحديثات**. إذا تم Outlook التحديثات ولا تزال لا ترى الزر  تصدير، فابحث عن تصدير في القائمة Outlook **ملف.** 
+    **ملاحظة:** ألا ترى الزر **تصدير؟** تأكد من أن لديك أحدث إصدار من Outlook. في القائمة Outlook **تعليمات،** انقر فوق **التحقق من وجود تحديثات**. إذا تم Outlook التحديثات ولا تزال لا ترى  الزر تصدير،  فابحث عن تصدير في القائمة Outlook **ملف.**
 
 2. في المربع **تصدير إلى ملف الأرشيف (olm.)،** تحقق من العناصر التي تريد تصديرها، وانقر فوق **متابعة**.
 

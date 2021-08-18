@@ -12,15 +12,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000761"
 - "5831"
-ms.openlocfilehash: 9792f6dbd1ec1c02665a572c23afceb9f37afdae1604455227ebddb1fb8c51a8
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 9450edbed749f6abcb268678acb407599559ad0f0ab8fb405b3f772c2371cdea
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53920958"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899647"
 ---
 # <a name="troubleshooting-out-of-office-automatic-replies"></a>استكشاف الأخطاء في "خارج Office" والردود التلقائية وإصلاحها
 
 قد تكون مجموعة واسعة من الأسباب المحتملة هي سبب المشاكل استنادا إلى الطريقة التي قمت من خلالها بتكوين "خارج Office الردود التلقائية".
 
-لفهم أعمق لأين يمكن أن تكون المشكلة، الرجاء قراءة الردود "خارج المكتب" [(OOF) Office وإصلاحها.](/exchange/troubleshoot/email-delivery/understand-troubleshoot-oof-replies)
+لفهم أعمق لأين يمكن أن تكون المشكلة، الرجاء قراءة الردود "خارج المكتب" [(OOF) Office وإصلاحها.](https://docs.microsoft.com/exchange/troubleshoot/email-delivery/understand-troubleshoot-oof-replies)

@@ -13,21 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "8241"
 - "9004604"
-ms.openlocfilehash: 524e87ab57e29823361053093708c83831f19687
-ms.sourcegitcommit: 03378c78eadac5d950802dcbacc328bca3314032
+ms.openlocfilehash: 62fe3cfd2979f43e836f7073eef9df507fd8115e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 02/10/2021
-ms.locfileid: "50194447"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58316861"
 ---
 # <a name="deploy-microsoft-edge-to-ios-ipados-and-android"></a>نشر Microsoft Edge على iOS وiPadOS وAndroid
 
-سيساعدك السيناريو الإرشادي الملخص أدناه في تعيين Microsoft Edge لمستخدمي أجهزة iOS وiPadOS وAndroid.
+سيساعدك السيناريو الموجه الملخص أدناه في تعيين Microsoft Edge لمستخدمي أجهزة iOS وiPadOS وAndroid.
 
-> [!NOTE]
-> إذا قمت بحظر المستخدمين من تسجيل الأجهزة المحمولة، فلن يعمل هذا السيناريو الإرشادي وسيحتاج المستخدمون إلى تثبيت Microsoft Edge بمفردهم.
+**ملاحظة:** إذا منعت المستخدمين من تسجيل الأجهزة المحمولة، فلن يعمل هذا السيناريو الموجه وسيحتاج المستخدمون إلى تثبيت Microsoft Edge بمفردهم.
 
-يتضمن السيناريو الإرشادي الخطوات التالية:
+يتضمن السيناريو الموجه الخطوات التالية:
 
 1. [المتطلبات الأساسية](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#prerequisites)
 2. [مقدمة](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-1---introduction)
@@ -36,9 +35,9 @@ ms.locfileid: "50194447"
 5. [الواجبات](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-4---assignments)
 6. [المراجعة والخلق](https://docs.microsoft.com/mem/intune/fundamentals/guided-scenarios-edge#step-5---review--create)
 
-بعد إكمال الخطوات في السيناريو الإرشادي، ستمكن سياسات Microsoft Intune الميزات التالية في Microsoft Edge للأعمال:
+بعد إكمال الخطوات في السيناريو الموجه، Microsoft Intune لنهج المستخدمين الميزات التالية Microsoft Edge للأعمال:
 
-- هوية مزدوجة
-- التكامل مع نهج حماية تطبيق Microsoft Intune
+- الهوية المزدوجة
+- التكامل مع Microsoft Intune حماية التطبيق
 - التكامل مع وكيل تطبيق Azure Active Directory
 - المفضلة المدارة واختصارات الصفحة الرئيسية
