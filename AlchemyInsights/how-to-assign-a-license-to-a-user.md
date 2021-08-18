@@ -17,12 +17,12 @@ ms.custom:
 - "651"
 - "1500008"
 ms.assetid: 7fd08e48-6f3c-4259-88da-4d06288f2b7d
-ms.openlocfilehash: 987eb106a7d8858cba04151b9f8953d847aafec92b4f05281c2bbde4edaf91e6
-ms.sourcegitcommit: d71b18e1403859fbfc45ddd9a57c8ab68f4d9f96
+ms.openlocfilehash: 72c730ef9e63e29f452580e4d0b8d0c605f621e540c1f2807f284c47aeaa37f5
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "54503675"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57896962"
 ---
 # <a name="assign-or-unassign-licenses-to-users"></a>تعيين تراخيص للمستخدمين أو عدم تعيينها
 
@@ -33,4 +33,4 @@ ms.locfileid: "54503675"
 3. في الجزء الأيمن، حدد **التراخيص والتطبيقات**.
 4. قم بتوسيع **مقطع التراخيص،** وحدد مربعات التراخيص التي تريد تعيينها أو قم بمسحها، ثم حدد **حفظ التغييرات**.
 
-للحصول على مزيد من المعلومات، راجع [تعيين التراخيص](/microsoft-365/admin/manage/assign-licenses-to-users)للمستخدمين ، وغير تعيين التراخيص [من المستخدمين](/microsoft-365/admin/manage/remove-licenses-from-users).
+للحصول على مزيد من المعلومات، راجع [تعيين التراخيص](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)للمستخدمين ، وغير تعيين التراخيص [من المستخدمين](https://docs.microsoft.com/microsoft-365/admin/manage/remove-licenses-from-users).

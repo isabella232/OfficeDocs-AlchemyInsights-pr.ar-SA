@@ -1,5 +1,5 @@
 ---
-title: ترحيل SharePoint باستخدام SPMT
+title: SharePoint الترحيل باستخدام SPMT
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "5300030"
 - "2594"
-ms.openlocfilehash: 34b7611967a7228bfe8611f9784e5049c9bc307a
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: 04716e85da6432703f25bf37f253d7d4553ecc4c68123a21b46fbb4501bccf2d
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51828283"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54085755"
 ---
-# <a name="sharepoint-migration-with-spmt"></a>ترحيل SharePoint باستخدام SPMT
+# <a name="sharepoint-migration-with-spmt"></a>SharePoint الترحيل باستخدام SPMT
 
-ستسمح لك أداة ترحيل SharePoint بنقل معلوماتك إلى السحابة والاستفادة من أحدث حلول التعاون والمعلومات الاستخبارية والأمان مع Microsoft 365، وقد تم تصميمها لتستخدمها في عمليات الترحيل التي تتراوح من أصغر مجموعة من الملفات إلى عملية ترحيل واسعة النطاق للمؤسسة.
+ستسمح لك أداة ترحيل SharePoint بنقل معلوماتك إلى السحابة والاستفادة من أحدث حلول التعاون والمعلومات الاستخبارية والأمان باستخدام Microsoft 365.
 
 - [تنزيل أداة الترحيل في SharePoint وتثبيتها](https://docs.microsoft.com/sharepointmigration/introducing-the-sharepoint-migration-tool)
 - [استكشاف أخطاء SPMT الشائعة وإصلاحها](https://docs.microsoft.com/sharepointmigration/troubleshooting-common-spmt-issues)

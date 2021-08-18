@@ -1,5 +1,5 @@
 ---
-title: إرسال اعلامات مخصصه باستخدام Intune
+title: إرسال إعلامات مخصصة باستخدام Intune
 ms.author: brenduns
 author: brenduns
 manager: dougeby
@@ -12,25 +12,25 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000679"
 - "2565"
-ms.openlocfilehash: 2e5e2e2f24c46d3db4f08862dcc80934937f6f51
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 58acaa29f9d0b066cc7be6f6ee57b1806d0e8812b194e20166b133b7715226a8
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47720633"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54086151"
 ---
-# <a name="how-to-send-custom-notifications-to-the-users-of-managed-ios-and-android-devices"></a>كيفيه إرسال اعلامات مخصصه إلى مستخدمي نظام التشغيل iOS و Android المدارين
+# <a name="how-to-send-custom-notifications-to-the-users-of-managed-ios-and-android-devices"></a>كيفية إرسال إعلامات مخصصة إلى مستخدمي أجهزة iOS وAndroid المدارة
 
-تتم معالجه الإشعارات المخصصة ل Intune بواسطة تطبيق مدخل الشركة علي جهاز المستخدم. ينشئ التطبيق بعد ذلك اعلام الدفع علي ذلك الجهاز.
+تتم معالجة الإعلامات المخصصة ل Intune بواسطة تطبيق Company Portal على جهاز المستخدم. بعد ذلك، ينشئ التطبيق إعلام الدفع على هذا الجهاز.
 
-فيما يلي المتطلبات الاساسيه للجهاز لدعم إيصال اعلامات مخصصه ، ولكي يقوم التطبيق بإنشاء اعلام الدفع:
+فيما يلي المتطلبات الأساسية للجهاز لدعم تلقي الإعلامات المخصصة، ومن أجل أن ينشئ التطبيق إعلام الدفع:
 
-- يجب ان يكون تطبيق مدخل الشركة مثبتا علي الجهاز.  
+- يجب أن يكون تطبيق Company Portal مثبتا على الجهاز.  
 
-- يجب ان يسمح الجهاز لتطبيق مدخل الشركة بإرسال اعلامات الدفع. عند تثبيت التطبيق أو تحديثه ، سيطالب المستخدم بالسماح بالاعلامات.
+- يجب أن يسمح الجهاز لتطبيق Company Portal بإرسال الإعلامات. عند تثبيت التطبيق أو تحديثه، سيطالب المستخدم بترك الإعلامات.
 
-- يجب ان يتم تثبيت خدمات Google Play علي أجهزه Android.
+- يجب أن تكون Google Play Services مثبتا على أجهزة Android.
 
-- يجب ان يتم تسجيل الجهاز باستخدام Intune.
+- يجب أن يكون الجهاز مسجلا في Intune.
 
-لمزيد من المعلومات ، بما في ذلك كيفيه إرسال رسالة ، راجع [وثائق الميزات](https://docs.microsoft.com/intune/custom-notifications).
+لمزيد من المعلومات بما في ذلك كيفية إرسال رسالة، راجع [وثائق الميزات](https://docs.microsoft.com/intune/custom-notifications).
