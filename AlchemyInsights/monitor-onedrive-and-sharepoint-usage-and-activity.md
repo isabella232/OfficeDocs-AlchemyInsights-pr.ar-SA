@@ -1,5 +1,5 @@
 ---
-title: مراقبه استخدام OneDrive و SharePoint ونشاطه
+title: مراقبة OneDrive SharePoint الاستخدام والنشاط
 ms.author: pebaum
 author: pebaum
 ms.date: 04/21/2020
@@ -12,18 +12,18 @@ ms.custom:
 - "865"
 - "5300020"
 ms.assetid: 2987a5c9-063a-4fa1-af03-951f7f1750a8
-ms.openlocfilehash: 7bf2c8dbb542773fce8830890f869d9dc99a9f66
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: e0a74d150be81d4684e481a76eb4b1d93fcc8b70997d513c9230406f520d1ec2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47666641"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54113331"
 ---
-# <a name="view-reports-on-onedrive-and-sharepoint-activity-and-usage"></a>عرض تقارير حول نشاط OneDrive و SharePoint واستخدامه
+# <a name="view-reports-on-onedrive-and-sharepoint-activity-and-usage"></a>عرض التقارير حول OneDrive SharePoint واستخدامها
 
-انتقل إلى [صفحه تقارير الاستخدام في مركز أداره Microsoft 365](https://admin.microsoft.com/AdminPortal/Home). ضمن **تحديد تقرير**، اختر نشاط OneDrive أو SharePoint أو تقرير الاستخدام.
+انتقل إلى [صفحة تقارير الاستخدام في مركز مسؤولي Microsoft 365](https://admin.microsoft.com/AdminPortal/Home). ضمن **تحديد تقرير،** اختر OneDrive أو SharePoint أو تقرير الاستخدام.
   
-[مزيد من المعلومات حول تقارير OneDrive](https://go.microsoft.com/fwlink/?linkid=875239)
+[مزيد من المعلومات OneDrive التقارير](https://go.microsoft.com/fwlink/?linkid=875239)
   
-[مزيد من المعلومات حول تقارير SharePoint](https://go.microsoft.com/fwlink/?linkid=875240)
+[مزيد من المعلومات SharePoint التقارير](https://go.microsoft.com/fwlink/?linkid=875240)
   
