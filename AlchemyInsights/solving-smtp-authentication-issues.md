@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3000003"
 - "5652"
-ms.openlocfilehash: d16389ca577970deaf743255f75dc86134e79dcab2fff8c33987532fc7ee1105
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 14f1454ad687b4d76cf419583b442685fa19b5a2
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890421"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321740"
 ---
 # <a name="enable-smtp-authentication-and-troubleshooting"></a>تمكين مصادقة SMTP وإصلاحها
 
@@ -40,6 +40,6 @@ ms.locfileid: "57890421"
 
 3. [قم بتعطيل المصادقة متعددة العوامل (MFA)](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/set-up-multi-factor-authentication#turn-off-legacy-per-user-mfa) على علبة البريد المرخصة.
 
-    a. انتقل إلى مركز مسؤولي Microsoft 365، وفي قائمة التنقل اليسرى، حدد   >  **المستخدمون المستخدمون النشطون**.<BR/>
+    a. انتقل إلى مركز مسؤولي Microsoft 365، وفي قائمة التنقل اليسرى حدد   >  **المستخدمون المستخدمون النشطون**.<BR/>
     b. حدد **المصادقة متعددة العوامل**.<BR/>
     c. حدد المستخدم وعطل **وثة متعددة العوامل**.<BR/>

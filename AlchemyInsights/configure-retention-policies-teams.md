@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "12063"
 - "9000273"
-ms.openlocfilehash: 21b06a9b5e836fa83f4d37617857eabb6289c30771d69225de662415d513d720
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 4f7c7ad539a90204256911017bfd68a1f77b0072
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57890133"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321180"
 ---
 # <a name="configure-retention-policies-for-teams-locations"></a>تكوين سياسات الاستبقاء لمواقع Teams
 
@@ -28,7 +28,7 @@ ms.locfileid: "57890133"
 
 1. ضمن **نهج الاستبقاء،** حدد **نهج استبقاء جديد**، وحدد النهج، ثم حدد **التالي**.
 
-1. اختر الخيار (الخيارات) المطلوب: Teams **أو** Teams رسائل القناة **أو** كليهما، ثم حدد **التالي**.
+1. حدد الخيار (الخيارات المطلوبة): Teams **أو** Teams رسائل القناة **أو** كليهما، ثم حدد **التالي**.
 
 1. تكوين إعدادات الاستبقاء. 
 

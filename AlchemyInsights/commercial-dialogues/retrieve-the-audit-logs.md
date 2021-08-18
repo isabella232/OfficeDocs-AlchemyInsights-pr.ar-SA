@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: a653347e951109adaa873554d98c10b497c21caa68403a083543c806c310e079
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 88d28898923c1381c001c15445da90901b7e8761
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893578"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320430"
 ---
 # <a name="retrieve-the-audit-logs"></a>استرداد سجلات التدقيق
 
 عندما تفتح سجل التدقيق للمرة الأولى، سيكون فارغا. يجب أن تقوم بالبحث لمعرفة ما هو هناك. فيما يلي كيفية البحث العام عن كل الأنشطة:
 
 1. اتخاذ أحد الإجراءات التالية:
-   - في مركز التوافق في Microsoft 365 في <https://compliance.microsoft.com> ، انتقل إلى تدقيق  \> **الحلول**. أو، انتقل مباشرة إلى صفحة **التدقيق،** استخدم <https://compliance.microsoft.com/auditlogsearch> .
-   - في Microsoft 365 Defender في ، <https://security.microsoft.com> انتقل إلى **تدقيق**. أو، انتقل مباشرة إلى صفحة **التدقيق،** استخدم <https://security.microsoft.com/auditlogsearch> .
+   - في مركز التوافق في Microsoft 365 <https://compliance.microsoft.com> في ، انتقل إلى تدقيق  \> **الحلول**. أو، انتقل مباشرة إلى صفحة **التدقيق،** استخدم <https://compliance.microsoft.com/auditlogsearch> .
+   - في مدخل Microsoft 365 Defender في <https://security.microsoft.com> ، انتقل إلى **تدقيق**. أو، انتقل مباشرة إلى صفحة **التدقيق،** استخدم <https://security.microsoft.com/auditlogsearch> .
 
 2. على علامة **التبويب** بحث في **صفحة التدقيق،** قم بتكوين الإعدادات التالية:
    - **نطاق التاريخ والوقت**: حدد نطاق التاريخ/الوقت في **مربعي** البدء **والنهي.**

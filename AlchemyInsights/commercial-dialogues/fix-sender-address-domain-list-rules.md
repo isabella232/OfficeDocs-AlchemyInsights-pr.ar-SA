@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: db8b921fc84f42b6cef1138dca9ad433e648e0a2f10e80927bd5b0222bfeae3b
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 7e3c729e9bf630fa798c746f25f046606a1459a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896098"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58320476"
 ---
 # <a name="fix-sender-addressdomain-list-rules"></a>إصلاح قواعد قائمة عنوان/مجال المرسل
 
@@ -28,7 +28,7 @@ ms.locfileid: "57896098"
    انتقل مباشرة إلى صفحة **سياسات** مكافحة البريد العشوائي، استخدم <https://security.microsoft.com/antispam> .
 
 2. في **صفحة نهج** مكافحة البريد العشوائي، حدد النهج بالنقر فوق اسم النهج  **(** النوع هو نهج مخصص لمكافحة البريد العشوائي أو الاسم **هو** نهج البريد الوارد لمكافحة البريد العشوائي **(افتراضي)**).
-3. في منسدل التفاصيل الذي يظهر، حدد تحرير المرسلين والمجالات المسموح بها والمملوكة في المقطع المرسلون والمجالات المسموح بها  والمملوكة. 
+3. في منسدل التفاصيل الذي يظهر، حدد تحرير المرسلين والمجالات المسموح بها والمحظرة في المقطع المرسلون والمجالات المسموح بها  والمملوكة. 
 4. في المقطع **مسموح** به، راجع المرسلين والمجالات بالنقر فوق إدارة **\<nn\> المرسلين** أو **السماح للمجالات.**
 
 لمزيد من المعلومات، راجع تكوين سياسات مكافحة البريد العشوائي [في EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/configure-your-spam-filter-policies).

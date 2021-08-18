@@ -12,12 +12,12 @@ ms.custom:
 - "959"
 - "1800022"
 ms.assetid: 96e2de51-c8b0-4eef-b071-b02784367e1e
-ms.openlocfilehash: c7657935ca752744b6a53fbbff1e69b8642239a074376722cbb0b1fa4036650c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: cbaebcf71380d558d6d34237373d07aa59584623
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53979408"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321338"
 ---
 # <a name="change-your-display-name"></a>تغيير اسم العرض
   
@@ -27,8 +27,7 @@ ms.locfileid: "53979408"
 
 2. حدد حساب البريد الإلكتروني ثم حدد **تغيير**.
 
-    > [!NOTE]
-    > إذا لم تظهر لك خيار تغيير اسم العرض، ربما تستخدم حساب بريد إلكتروني في Microsoft Exchange الإلكتروني. في هذه الحالة، تحتاج إلى الاتصال بالمسؤول لتغيير اسم العرض. راجع [تغيير اسم المستخدم وعنوان البريد الإلكتروني](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address).
+    **ملاحظة:** إذا لم تظهر لك خيار تغيير اسم العرض، ربما تستخدم حساب بريد إلكتروني في Microsoft Exchange الإلكتروني. في هذه الحالة، تحتاج إلى الاتصال بالمسؤول لتغيير اسم العرض. راجع [تغيير اسم المستخدم وعنوان البريد الإلكتروني](https://docs.microsoft.com/microsoft-365/admin/add-users/change-a-user-name-and-email-address).
   
 3. بعد تغيير اسم العرض، انقر فوق **موافق** لحفظ التغييرات. قد يستغرق الأمر بضع ساعات حتى تنعكس التغييرات في مؤسستك.
 
