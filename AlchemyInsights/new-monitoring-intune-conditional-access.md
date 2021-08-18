@@ -13,16 +13,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004636"
 - "8386"
-ms.openlocfilehash: 7f30202ff0a5b9475393cf26c0506bd6bec24f3d378052f24ebf7f327cf84689
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2c3a382671ac95ecbaec1b374bd8c474cf9690a2
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54025489"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327544"
 ---
 # <a name="monitor-intune-conditional-access"></a>مراقبة الوصول الشرطي إلى Intune
 
-سيتلقى المستخدمون المستهدفون الذين لديهم حق وصول شرطي رسالة بريد إلكتروني إعلام إذا لم يلبيوا متطلبات الوصول الخاصة بالم مؤسستك. لحل هذه المشكلة، نوصي بحل واحد أو أكثر من الحلول التالية:
+سيتلقى المستخدمون المستهدفون الذين لديهم حق وصول شرطي رسالة بريد إلكتروني إعلامية إذا لم يلبيوا متطلبات الوصول إلى مؤسستك. لحل هذه المشكلة، نوصي بحل واحد أو أكثر من الحلول التالية:
 
 1. إذا كان من المفترض أن يكون الجهاز مسجلا، فنصح المستخدم الانتقال إلى تطبيق Company Portal وتحقق من ظهوره في Company Portal. وإذا لم يحدث ذلك، فيجب على المستخدم تسجيل الجهاز.
 1. في مدخل Azure، انتقل إلى **توافق جهاز Intune**  >  . 
@@ -39,5 +39,4 @@ ms.locfileid: "54025489"
 - [نهج استكشاف الأخطاء وإصلاحها](https://docs.microsoft.com/intune/troubleshoot-policies-in-microsoft-intune)
 - [مراقبة توافق أجهزة Intune](https://docs.microsoft.com/intune/compliance-policy-monitor)
 
-> [!NOTE]
-> هذه الخطوات مفيدة فقط في استكشاف الأخطاء وإصلاحها في ميزة Azure Active Directory الوصول الشرطي. من الممكن أيضا فحص جهاز يمنع الوصول إلى البريد الإلكتروني باستخدام Exchange المستخدم. يمكنك العثور على Exchange إضافية حول إدارة الأجهزة [**هنا.**](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141))
+**ملاحظة:** هذه الخطوات مفيدة فقط في استكشاف الأخطاء وإصلاحها لمميزة Azure Active Directory الوصول الشرطي. من الممكن أيضا فحص جهاز يمنع الوصول إلى البريد الإلكتروني باستخدام Exchange المستخدم. يمكنك العثور على مزيد Exchange حول إدارة الأجهزة [**هنا.**](https://docs.microsoft.com/previous-versions/office/exchange-server-2010/ff959225(v=exchg.141))

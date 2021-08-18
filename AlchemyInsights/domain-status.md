@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11094"
 - "9006491"
-ms.openlocfilehash: 1476a88c7b974a9e6cfe443f6842df8cdc3d7073a73c0add7e6f183dd0528de1
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 2247da07d60431edef5b5dea8a5c06d51579008c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57874382"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326564"
 ---
 # <a name="domain-status---no-services-selected"></a>حالة المجال - لم يتم تحديد أي خدمات
 
@@ -26,7 +26,7 @@ ms.locfileid: "57874382"
 
 لتحديد خدمات لمجالك:
 
-1. من **الإعدادات** المجالات ، حدد المربع إلى جانب المجال مع  >  [](https://admin.microsoft.com/Adminportal/Home)رسالة الحالة لا توجد **خدمات محددة**.
+1. من **الإعدادات**، حدد المربع إلى جانب المجال مع رسالة الحالة  >  [](https://admin.microsoft.com/Adminportal/Home)لا توجد خدمات **محددة**.
 1. حدد **إدارة DNS** لبدء تشغيل معالج إعداد المجال.
     - إذا اخترت **إضافة سجلات DNS** الخاصة بك، فتأكد من تحديد خدمة عند مطالبتك بذلك. قد تتوفر المزيد من الخدمات ضمن **خيارات متقدمة.**
     - إذا اخترت السماح ل Microsoft بإضافة سجلات **DNS** أو خيارات إضافية يتم اقتراح كل الخدمات المتوفرة وتحديدها تلقائيا.  >  

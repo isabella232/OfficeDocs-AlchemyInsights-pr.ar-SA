@@ -14,16 +14,16 @@ ms.custom:
 - "5594"
 - "3100017"
 - "2578"
-ms.openlocfilehash: 608e2226c055f58ecf4f62e3c913106a6d319190ed6b317508e41514c12ba5d0
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 525af0b29ffa291ddf69f6f2d97f505e93342989
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893390"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326641"
 ---
 # <a name="did-your-users-receive-malicious-email"></a>هل تلقى المستخدمون بريدا إلكترونيا ضارا؟
 
-يمكنك الآن الإبلاغ عن البريد الإلكتروني الضار إلى Microsoft باستخدام "الإرسالات" [Microsoft 365 Defender المدخل.](https://sip.security.microsoft.com/reportsubmission?viewid=admin)
+يمكنك الآن الإبلاغ عن البريد الإلكتروني الضار إلى Microsoft باستخدام "الواجبات [المرسلة" Microsoft 365 Defender المدخل.](https://sip.security.microsoft.com/reportsubmission?viewid=admin)
 
 يتم فحص الرسائل [](https://security.microsoft.com/reportsubmission?viewid=admin) التي يتم إرسالها في إرسالات المسؤول، كما تظهر النتائج التالية في القائمة من خلال التفاصيل:
 
@@ -34,7 +34,7 @@ ms.locfileid: "57893390"
 
 إذا تم العثور على تجاوز، يجب أن تكتمل عملية إعادة التجاوز خلال عدة دقائق. إذا لم تكن هناك مشكلة في مصادقة البريد الإلكتروني أو إذا لم يتأثر التسليم بتجاوز، فإن ملاحظات طلاب الدرجات قد تستغرق ما يصل إلى يوم واحد.
 
-إذا كنت لا توافق على الحكم النهائي على رسالة أو عنوان URL أو ملف (تم حظره في مقابل لم يتم حظره)، ف أرسل الرسالة مرة أخرى بعد يوم لإعادة االرسالة. هناك احتمال كبير بأن يتم تغيير الحكم بعد إرسال الرسالة مرة أخرى.
+إذا كنت لا توافق على الحكم النهائي على رسالة أو عنوان URL أو ملف (تم حظره مقابل عدم حظره)، ف أرسل الرسالة مرة أخرى بعد يوم لإعادة االرسالة. هناك احتمال كبير بأن يتم تغيير الحكم بعد إرسال الرسالة مرة أخرى.
 
 في هذه الأثناء، يمكنك إزالة البريد الإلكتروني الضار من علبة الوارد الخاصة بالمستخدم باتباع الإرشادات الواردة [في هذه المقالة](https://docs.microsoft.com/microsoft-365/compliance/search-for-and-delete-messages-in-your-organization).
 

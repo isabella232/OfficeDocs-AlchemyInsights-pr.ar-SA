@@ -16,19 +16,19 @@ ms.custom:
 - "328"
 - "369"
 - "1500009"
-ms.openlocfilehash: 22b82d6b251a70133dd57bc41161032e3944a735533c82792756434325aefe5a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: edaf127e4779c04ddf68742bd0428336c75b6f11
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895814"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58326330"
 ---
 # <a name="how-to-purchase-an-education-offer"></a>كيفية شراء عرض تعليم
 
 تم اعتمادك لاستخدام Office 365 Education. للشراء:
   
 1. في مركز الإدارة، انتقل إلى **صفحة فوترة** \> [منتجاتك.](https://go.microsoft.com/fwlink/p/?linkid=842054)
-2. على علامة **التبويب المنتجات،** حدد الإصدار التجريبي **للطلاب أو هيئة التدريس.**
+2. على علامة **التبويب المنتجات،** حدد الإصدار التجريبي **للطلاب أو هيئة التدريس**.
 3. في صفحة تفاصيل الاشتراك، في المقطع **ترخيص،** حدد **شراء اشتراك مدفوع الآن**.
 4. اتبع الخطوات المتبقية للتحقق.
 

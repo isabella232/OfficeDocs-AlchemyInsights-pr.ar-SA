@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000650"
 - "2487"
-ms.openlocfilehash: a7cf2d8cc00bc9e45f33b0fa564f3e0533c2ce43ffb029f950ddeb4ed67b1100
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 2037346485227b7357face23f20b5c61cc837c9c
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893182"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327508"
 ---
 # <a name="ransomware-attack-in-sharepoint-or-onedrive"></a>هجوم برامج الفدية الضارة في SharePoint أو OneDrive
 
-1.  إذا كنت تبحث عن تعليمات حول ما يجب فعله عند العثور على ملف ضار على OneDrive أو SharePoint أو Teams، فشاهد ما يجب فعله عند العثور على ملف [ضار](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2).
+1.  إذا كنت تبحث عن تعليمات حول ما يجب فعله عند العثور على ملف ضار على ملف OneDrive أو SharePoint أو Teams، فشاهد ما يجب فعله عند العثور على ملف ضار [.](https://support.office.com/en-ie/article/what-to-do-when-a-malicious-file-is-found-in-sharepoint-online-onedrive-or-microsoft-teams-01e902ad-a903-4e0f-b093-1e1ac0c37ad2)
 2. إذا كنت تبحث عن كيفية حماية بياناتك من برامج الفدية الضارة، فاطلع على:
     - [حماية بياناتك في SharePoint OneDrive](https://docs.microsoft.com/sharepoint/safeguarding-your-data) 
     - [الحماية من تهديدات برامج الفدية الضارة](https://docs.microsoft.com/windows/security/threat-protection/intelligence/ransomware-malware)    
 
 3.  هل تتأثر كل الملفات الموجودة على OneDrive أو SharePoint برامج الفدية الضارة أو البرامج الضارة أو فيروس التشفير؟ 
 
-يمكنك إيقاف/إيقاف تشغيل مزامنة OneDrive (إن وجدت) أو قطع اتصال طريقة عرض المستكشف التي تم تعيينها إلى المكتبة من الكمبيوتر المتأثر (إن وجدت)، ثم يمكنك استعادة مكتبة OneDrive أو SharePoint بالكامل إلى وقت سابق باستخدام ميزة استعادة الملفات. 
+يمكنك إيقاف/إيقاف تشغيل طريقة عرض OneDrive مزامنة (إن وجدت) أو قطع اتصال طريقة عرض المستكشف التي تم تعيينها إلى المكتبة من الكمبيوتر المتأثر (إن وجدت)، ثم يمكنك استعادة مكتبة OneDrive أو SharePoint بالكامل إلى وقت سابق باستخدام ميزة استعادة الملفات. 
 
 لمزيد من المعلومات حول كيفية الاستعادة، راجع:
 

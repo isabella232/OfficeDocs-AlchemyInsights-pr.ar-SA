@@ -14,12 +14,12 @@ ms.assetid: ''
 ms.custom:
 - "9007094"
 - "12473"
-ms.openlocfilehash: f9ceffa17f23b964d55ac19113c029a512aacd86c9f61ea7abd8db1a7c81381f
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 45cc48056975c21ef54df7404bd8bbf6b5ff465e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57896358"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58325998"
 ---
 # <a name="sharepoint-global-navigation"></a>SharePoint التنقل العام
 
@@ -29,5 +29,5 @@ ms.locfileid: "57896358"
 - [تحديد مصدر التنقل العام](https://docs.microsoft.com/SharePoint/sharepoint-app-bar?WT.mc_id=365AdminCSH_SupportCentral#determine-the-global-navigation-source-depending-on-your-home-sites-configuration)
 - [الاطلاع على كل الطرق لإعداد التنقل العام](https://docs.microsoft.com/SharePoint/sharepoint-app-bar?WT.mc_id=365AdminCSH_SupportCentral#see-all-the-different-ways-you-can-set-up-global-navigation)
 
-لمزيد من المعلومات، راجع [مقدمة حول SharePoint التطبيق](https://docs.microsoft.com/sharepoint/sharepoint-app-bar). 
+لمزيد من المعلومات، راجع [مقدمة إلى SharePoint التطبيق](https://docs.microsoft.com/sharepoint/sharepoint-app-bar). 
 
