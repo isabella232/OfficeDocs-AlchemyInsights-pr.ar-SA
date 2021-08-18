@@ -1,5 +1,5 @@
 ---
-title: 711 إنشاء قائمه توزيع أو مجموعه
+title: 711 إنشاء قائمة توزيع أو مجموعة
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -13,15 +13,15 @@ ms.custom:
 - "711"
 - "3"
 ms.assetid: fcb272e6-1a2e-4299-be0d-55934e72bc51
-ms.openlocfilehash: 179b3738f65b08fc81cf224393445717e4d4773f
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: 023a7646430bbbe176f9675721a6154d62269bcb866aa5b7413f7e6973947ae1
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47732306"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090183"
 ---
 # <a name="create-distribution-groups"></a>إنشاء مجموعات توزيع
 
-يمكنك استخدام مجموعات التوزيع (المعروفة أيضا بقوائم التوزيع) لتسليم رسائل البريد الكتروني إلى مجموعات من الأشخاص داخل المؤسسة وخارجها. ان إنشاء هذه الخيارات أمر سهل! للحصول علي الإرشادات ، راجع [إنشاء قوائم توزيع في مركز أداره Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/create-distribution-lists).
+يمكنك استخدام مجموعات التوزيع (المعروفة أيضا باسم قوائم التوزيع) لتسليم رسائل البريد الإلكتروني إلى مجموعات من الأشخاص داخل مؤسستك وخارجها. إن إنشائها أمر سهل! للحصول على الإرشادات، راجع [إنشاء قوائم توزيع في مركز مسؤولي Microsoft 365](https://docs.microsoft.com/microsoft-365/admin/setup/create-distribution-lists).
 
-**ملاحظه**: يحتاج المسؤول إلى أداره عضويه مجموعه توزيع. إذا كنت تريد ان يقوم المستخدمون باداره قوائم عضويه المجموعة الخاصة بهم ، فقد ترغب في مراعاه [مجموعات Microsoft 365](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) بدلا من ذلك.
+**ملاحظة:** يحتاج المسؤول إلى إدارة عضوية مجموعة توزيع. إذا كنت تريد أن يدير المستخدمون قوائم عضوية المجموعة الخاصة بهم، فقد ترغب في Microsoft 365 [المجموعات بدلا](https://support.office.com/article/b565caa1-5c40-40ef-9915-60fdb2d97fa2) من ذلك.

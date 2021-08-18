@@ -13,12 +13,12 @@ ms.custom:
 - "5200004"
 - "5766"
 ms.assetid: f7d730bf-0d6e-424c-970c-6137c71cb50b
-ms.openlocfilehash: 8166c2a19e5849de6caace4eea0fee5866f5adc3bfc2c483f18fc788c1bf2fa9
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 5dd159b8b9e141c2fb448bae5fb624efe1014d7d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57897703"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318111"
 ---
 # <a name="common-issues-when-creating-a-group-connected-site-in-sharepoint"></a>المشاكل الشائعة عند إنشاء موقع متصل بالمجموعة في SharePoint
 
@@ -33,4 +33,4 @@ ms.locfileid: "57897703"
 1. هناك طرق مختلفة لإنشاء المجموعات الحديثة واستخدامها مع SharePoint.
 
    - يمكنك توصيل المواقع الموجودة إلى مجموعة Microsoft 365 أخرى. لمزيد من المعلومات، راجع الاتصال [مجموعة Microsoft 365 باستخدام SharePoint المستخدم.](https://docs.microsoft.com/sharepoint/dev/transform/modernize-connect-to-office365-group#connect-an-office-365-group-using-the-sharepoint-user-interface)
-   - لإنشاء موقع Microsoft 365 متصل بالمجموعة، ستحتاج إلى إنشاء موقع [فريق](https://admin.microsoft.com/sharepoint).
+   - لإنشاء موقع Microsoft 365 متصل بالمجموعة، ستحتاج إلى إنشاء [موقع فريق](https://admin.microsoft.com/sharepoint).

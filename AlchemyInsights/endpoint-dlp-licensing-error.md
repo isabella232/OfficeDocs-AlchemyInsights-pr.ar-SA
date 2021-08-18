@@ -1,5 +1,5 @@
 ---
-title: خطا في ترخيص النقطة النهائية DLP
+title: خطأ ترخيص DLP لنقطة النهاية
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,29 +13,29 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200001"
 - "7176"
-ms.openlocfilehash: d17c51177898d62c7c477460c8c26b4753bae65f
-ms.sourcegitcommit: 0f42d1600b6845083f0273d14c1d9e59344e4371
+ms.openlocfilehash: 1e242abe18717e5ef64d6f067ab3ec6fa8833cb672dd21c85e577ce640240ba0
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "49564354"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54090112"
 ---
-# <a name="endpoint-dlp-licensing-error"></a>خطا في ترخيص النقطة النهائية DLP
+# <a name="endpoint-dlp-licensing-error"></a>خطأ ترخيص DLP لنقطة النهاية
 
-عند محاولة اعداد Endpoint DLP ، إذا ظهرت رسالة الخطا التالية:
+عند محاولة إعداد نقطة نهاية DLP، إذا تلقيت رسالة الخطأ التالية:
 
 `Your organization is missing the licenses required to manage these devices`.
 
-تاكد من انك تملك أحد الاشتراكات أو الوظائف الاضافيه التالية:
+تأكد من أن لديك أحد الاشتراكات أو الوظائف الإضافية التالية:
 
 - Microsoft 365 E5
 - Microsoft 365 A5 (EDU)
-- توافق Microsoft 365 E5
-- توافق Microsoft 365 A5
-- حماية معلومات Microsoft 365 E5 والاداره
-- حماية المعلومات والاداره في Microsoft 365 A5
+- Microsoft 365 E5 التوافق
+- Microsoft 365 A5 التوافق
+- Microsoft 365 E5 حماية المعلومات والحوكمة
+- Microsoft 365 A5 حماية المعلومات والحوكمة
 
 > [!NOTE]
-> لن يعمل ذلك علي مجموعات التراخيص مثل: Win E5 + O365 E5 + EMS E5. يجب ان يكون لديك ترخيص E5 M365 خالص لاعداد هذه الميزة.
+> لن يعمل هذا الأمر مع مجموعات التراخيص مثل: Win E5 + O365 E5 + EMS E5. يجب أن يكون لديك ترخيص M365 E5 فقط لإعداد هذه الميزة.
 
-للحصول علي مزيد من المعلومات حول ترخيص النقطة النهائية DLP ، راجع [ترخيص النقطة النهائية dlp.](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management)
+لمزيد من معلومات ترخيص DLP لنقطة النهاية، راجع [ترخيص نقطة النهاية DLP.](https://docs.microsoft.com/microsoft-365/compliance/endpoint-dlp-getting-started#onboarding-devices-into-device-management)
