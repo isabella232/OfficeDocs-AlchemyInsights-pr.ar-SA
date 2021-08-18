@@ -13,12 +13,12 @@ ms.assetid: a84868ba-7657-4f34-8a57-df9c6f9732dc
 ms.custom:
 - "5300025"
 - "1702"
-ms.openlocfilehash: c647e802042110c1a1f99598bdc3c0bad404554abdce5120317fdbf00f7dca4d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 949c447f2be86a0ee31f1f7d417f744e955cb926
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54085827"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58328359"
 ---
 # <a name="versioning-in-sharepoint-and-onedrive"></a>الإصدار في SharePoint OneDrive 
 
@@ -39,7 +39,6 @@ ms.locfileid: "54085827"
 
 - [حدود الإصدار](https://docs.microsoft.com/office365/servicedescriptions/sharepoint-online-service-description/sharepoint-online-limits)
 
->[!Note] 
->إذا كنت عميلا Microsoft 365، يتم الآن تشغيل تعيين الإصدار بشكل افتراضي عند إنشاء مكتبات OneDrive for Business جديدة، وسيحفظ تلقائيا الإصدارات ال 500 الأخيرة من المستند. سيساعدك هذا على منع فقدان المستندات أو البيانات المهمة. إذا كانت لديك مكتبات موجودة على موقع OneDrive for Business أو على موقع الفريق لم يتم تمكين إصدارها، يمكنك تشغيل تشغيل الإصدار لها في أي وقت.
+**ملاحظة:** إذا كنت عميل Microsoft 365، يتم الآن تشغيل تعيين الإصدار بشكل افتراضي عند إنشاء مكتبات OneDrive for Business جديدة، وسيحفظ تلقائيا الإصدارات ال 500 الأخيرة من المستند. سيساعدك هذا على منع فقدان المستندات أو البيانات المهمة. إذا كانت لديك مكتبات موجودة على موقع OneDrive for Business أو على موقع الفريق لم يتم تمكين إصدارها، يمكنك تشغيل الإصدار لها في أي وقت.
 
 

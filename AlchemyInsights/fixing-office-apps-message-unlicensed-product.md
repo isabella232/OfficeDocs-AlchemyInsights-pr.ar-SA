@@ -12,24 +12,24 @@ ms.collection: Adm_O365
 ms.custom:
 - "2000023"
 - "3509"
-ms.openlocfilehash: eb62dfce9f9507dd8806d91343cd39fe76e65594473683c1393d524f6c2d8a27
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: a057aaa2ddf8885b96c0fe0d5fa87d3a1b191af9
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57893898"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58327833"
 ---
 # <a name="unable-to-activate-office"></a>يتعذر تنشيط Office
 
 **ملاحظة:** إذا كنت تستخدم إصدارا قديما من Windows (على سبيل المثال، Windows 7)، فتأكد من تمكين TLS 1.2 كافتراضي. لمزيد من المعلومات، راجع التحديث لتمكين [TLS 1.1 و TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)كبروتوكولات آمنة افتراضية في WinHTTP في Windows .
 
 - تحقق مما إذا كانت حالة الاشتراك منتهية الصلاحية.
-- تأكد من أن لديك اشتراكا يسمح بتراخيص العميل، مثل Office 365 Business أو Business Premium، وتأكد من تعيين [ترخيص للمستخدم.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
+- تأكد من أن لديك اشتراكا يسمح بتراخيص العميل، مثل Office 365 Business أو Business Premium، وتأكد من تعيين ترخيص [للمستخدم.](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users)
 - تأكد من أن المستخدم يقوم بتسجيل الدخول إلى Office باستخدام الحساب نفسه الذي تم تعيين ترخيص له.
 - تحقق من [صفحه حماية خدمة Office 365](https://docs.microsoft.com/office365/enterprise/view-service-health) لمعرفه ما إذا كانت هناك أي مشكلات معروفة في الخدمة.
 - تحقق من جدار الحماية وبرامج الحماية من الفيروسات وإعدادات الوكيل للتأكد من أنها لا تمنع Microsoft 365 الوصول إلى الإنترنت. الرجاء الاطلاع على [نطاقات عناوين IP وعناوين URL في Office 365](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges "نطاقات عناوين IP وعناوين URL في Office 365").
 
-**تلميح** على Windows الأجهزة، يمكننا تشخيص العديد من المشاكل الشائعة Office تسجيل الدخول وإصلاحها تلقائيا. قم بتنزيل **[Microsoft مساعد الإصلاح والدعم](https://aka.ms/SaRA-OfficeSignInScenario)** لاستخدام الأداة التلقائية.
+**تلميح** على Windows، يمكننا تشخيص العديد من مشاكل تسجيل الدخول الشائعة وإصلاحها تلقائيا Office تسجيل الدخول. قم بتنزيل **[Microsoft مساعد الإصلاح والدعم](https://aka.ms/SaRA-OfficeSignInScenario)** لاستخدام الأداة التلقائية.
 
 استخدم إجراءات استكشاف الأخطاء وإصلاحها التالية:
 

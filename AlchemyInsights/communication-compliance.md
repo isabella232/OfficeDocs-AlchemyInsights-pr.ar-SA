@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000549"
 - "3208"
-ms.openlocfilehash: 267b8985154df802df7359eb22f795612da1275d6c5509b1748828f3c42051b7
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: b20452adaa25c7ecb648cd05b1524ee6a39ca77e
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54090723"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329905"
 ---
 # <a name="communication-compliance-in-microsoft-365"></a>توافق الاتصالات في Microsoft 365
 
@@ -43,5 +43,4 @@ ms.locfileid: "54090723"
 
 إذا لم يكن لديك أي واحد من هذه المعلومات أعلاه وتريد تجربة توافق الاتصالات، ف قم التسجيل للحصول على الإصدار التجريبي من Office 365 Enterprise **[E5.](https://go.microsoft.com/fwlink/p/?LinkID=698279)**
 
-> [!NOTE]
-> قد تستغرق معالجة رسائل البريد الإلكتروني بالكامل في النهج ما يصل إلى 24 ساعة. قد تستغرق الاتصالات Microsoft Teams و Yammer و الأنظمة الأساسية الخاصة ب جهة خارجية ما يصل إلى 48 ساعة حتى يتم معالجة النهج بشكل كامل.
+**ملاحظة:** قد يستغرق الأمر ما يصل إلى 24 ساعة حتى تتم معالجة رسائل البريد الإلكتروني بشكل كامل في نهج. قد تستغرق الاتصالات Microsoft Teams و Yammer و الأنظمة الأساسية الخاصة ب جهة خارجية ما يصل إلى 48 ساعة حتى يتم معالجة النهج بشكل كامل.

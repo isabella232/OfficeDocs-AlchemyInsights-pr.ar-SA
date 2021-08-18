@@ -15,12 +15,12 @@ ms.custom:
 - commerce_licensing
 - "9002419"
 - "5116"
-ms.openlocfilehash: c0066a325ebea3173fc2d4b76e6494c2fb05e2bf2af941e7e48ee78461063021
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: eb67351db52f33f1f023b4c9163167416e8d36f1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57892302"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58330537"
 ---
 # <a name="visio-license-management"></a>إدارة تراخيص Visio
 
@@ -31,6 +31,6 @@ Visio إدارة التراخيص في مركز مسؤولي Microsoft 365 **.**
 - لـ **شراء** Visio، انتقل إلى **الفوترة > [خدمات الشراء](https://go.microsoft.com/fwlink/p/?linkid=868433)**. استخدم مربع "البحث" للبحث عن "Visio"، ثم حدد الخطة وعدد المستخدمين. لمزيد من المعلومات، اطلع على [شراء اشتراك آخر](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
 - لـ **تعيين تراخيص Visio**، انتقل إلى **الفوترة > [التراخيص](https://go.microsoft.com/fwlink/p/?linkid=842264)**. لمزيد من المعلومات، اطلع على [تعيين التراخيص للمستخدمين](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
 - لشراء **تراخيص Visio** أو إزالتها، انتقل إلى الفوترة > **[منتجاتك.](https://go.microsoft.com/fwlink/p/?linkid=842054)** لمزيد من المعلومات، اطلع على [شراء أو إزالة التراخيص](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses#buy-or-remove-licenses-for-your-business-subscription).
-- لإلغاء **اشتراك** Visio، انتقل إلى الفوترة > منتجاتك ، وحدد اشتراك Visio،  وفي المقطع إعدادات الاشتراك والدفع، حدد **إلغاء الاشتراك**. **[](https://go.microsoft.com/fwlink/p/?linkid=842054)** لمزيد من المعلومات، اطلع على [إلغاء اشتراكك](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
+- لإلغاء **اشتراك** Visio، انتقل إلى الفوترة > منتجاتك، وحدد اشتراك Visio، وفي  المقطع إعدادات الاشتراك والدفع، حدد **إلغاء الاشتراك**. **[](https://go.microsoft.com/fwlink/p/?linkid=842054)** لمزيد من المعلومات، اطلع على [إلغاء اشتراكك](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).
 
 لمزيد من المعلومات، اطلع على [شراء أو إزالة التراخيص](https://docs.microsoft.com/microsoft-365/commerce/licenses/buy-licenses).

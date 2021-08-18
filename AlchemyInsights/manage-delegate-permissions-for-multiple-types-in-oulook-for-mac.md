@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "3800004"
 - "7302"
-ms.openlocfilehash: 82701833c05b1fb4d72cb972a767bca23033e898114f19695f42a116239c2221
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d3b5913997f7d94b94cd1625dd699fa1e626acb3
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53962874"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329721"
 ---
 # <a name="manage-delegate-permissions-for-multiple-item-types-in-outlook-for-mac"></a>إدارة أذونات المفوض لأنواع عناصر متعددة في Outlook for Mac
 
@@ -27,5 +27,4 @@ ms.locfileid: "53962874"
 3. ضمن **المفوضون**، الذي يعرض قائمة بالمفوضين الذين يمكنهم التصرف بالنيابة عن، حدد المفوض.
 4. انقر فوق **الزر إجراء،** وانقر فوق **تعيين الأذونات**، ثم قم بإجراء التغييرات التي تريدها.
 
-> [!NOTE]
-> إذا قمت بتعيين مستوى الأذونات إلى **بلا**، يبقى المفوض في القائمة، مما يسمح لك ب استعادة الأذونات لاحقا.
+**ملاحظة:** إذا قمت بتعيين مستوى الأذونات إلى **بلا،** يبقى المفوض في القائمة، مما يسمح لك ب استعادة الأذونات في وقت لاحق.

@@ -13,12 +13,12 @@ ms.custom:
 - "127"
 - "128"
 ms.assetid: de7b6877-f3f9-4402-8072-c73783aaccaa
-ms.openlocfilehash: edcdea2f5c0647b92c230dd1d86549173e72997fc885195cde688b3b17710a2c
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 376b653b18857103586e25edd0ad6801a7bbe0a1
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53910523"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58329435"
 ---
 # <a name="read-only-for-maintenance-message-when-attempting-to-use-sharepoint-or-onedrive"></a>Read-Only رسالة الصيانة عند محاولة استخدام SharePoint أو OneDrive
 
@@ -28,7 +28,7 @@ ms.locfileid: "53910523"
 -   حدث خدمة نشط عالي الأولوية قد يحدث. تحقق من وجود أي استشارات/أحداث من خلال الانتقال إلى ["صحة الخدمة".](https://portal.office.com/adminportal/home#/servicehealth)
 -   سيناريو استرداد تلقائي بسيط قد يحدث بسبب أي أحداث غير متوقعة على الخوادم قد تستمر لأقل من 30 دقيقة أو نحو ذلك. 
     
-    لا توجد منشورات مركز الرسائل أو "صحة الخدمة" لهذه عمليات استرداد بسيطة ولكن يجب أن تعود إلى الوضع العادي قريبا جدا.
+    لا توجد منشورات مركز الرسائل أو "صحة الخدمة" لهذه عمليات استرداد بسيطة ولكن من المفترض أن تعود إلى الوضع العادي في وقت قريب جدا.
 
 في حالات قليلة جدا، لاحظنا أن أحد السيناريوهات الثلاثة المذكورة أعلاه كان السبب، وقد تم استعادة الخدمة، ولكن لم يتم مسح ذاكرة التخزين المؤقت لمستعرض المستخدمين.
 
@@ -38,8 +38,6 @@ ms.locfileid: "53910523"
 2. ضمن **مسح الاستعراض،** **حدد اختيار ما تريد مسحه.**
 3. حدد **ملفات تعريف الارتباط وبيانات موقع الويب المحفوظة**، وحدد **مسح**.
 
->[!Note] 
-> قد تختلف هذه الخطوات عند استخدام مستعرضات أخرى مثل Mozilla Firefox أو Google Chrome.
+**ملاحظة:** قد تختلف هذه الخطوات عند استخدام مستعرضات أخرى مثل Mozilla Firefox أو Google Chrome.
 
->[!Note] 
-> هناك خيار آخر وهو فتح SharePoint أو OneDrive في نافذة InPrivate جديدة.
+**ملاحظة**: هناك خيار آخر وهو فتح SharePoint أو OneDrive في نافذة InPrivate جديدة.
