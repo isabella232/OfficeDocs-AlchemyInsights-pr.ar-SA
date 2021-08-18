@@ -12,20 +12,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "3533"
-ms.openlocfilehash: 2583a1d83047e87a5d655195a3941ee860ff1ced
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: f5e2f29e30db5ee2b042b43dc4737c90198ebd7025b9e1637f922b655a1a3f83
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51814467"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118371"
 ---
 # <a name="ediscovery-in-yammer-networks"></a>eDiscovery في Yammer الشبكة
 
-يمكنك الآن إجراء عمليات بحث eDiscovery Yammer محتوى.  يتطلب إجراء عمليات بحث eDiscovery أو تصديرها على Yammer ما يلي:
+يمكنك الآن إجراء عمليات بحث eDiscovery Yammer المحتوى.  يتطلب إجراء عمليات بحث eDiscovery أو تصديرها على Yammer ما يلي:
 
-1. يجب أولا ترحيل Yammer Enterprise Network إلى الوضع الأصلي لجعل Yammer الرسائل والملفات قابلة لاكتشافها. ملاحظة: إذا كنت عميلا جديدا في 9 يناير **2020،** وإذا كانت شبكة Yammer لديك موجودة بالفعل في "الوضع الأصلي"، يمكن الآن اكتشاف بياناتك باستخدام eDiscovery .
+1. يجب أولا ترحيل Yammer Enterprise Network إلى الوضع الأصلي لجعل Yammer الرسائل والملفات قابلة لاكتشافها. ملاحظة: إذا كنت عميلا جديدا في 9 يناير 2020 وشبكة Yammer موجودة بالفعل في "الوضع الأصلي"، يمكن الآن اكتشاف بياناتك باستخدام **eDiscovery**.
 
-2. للخروج من العملاء، سيتوفر eDiscovery for Yammer بمجرد إصدار أداة محاذاة الوضع الأصلي وإكمال ترحيل "الوضع الأصلي" Yammer المستأجر.
+2. للخروج من العملاء، سيتوفر eDiscovery for Yammer بمجرد إصدار أداة محاذاة الوضع الأصلي وإكمال ترحيل الوضع الأصلي Yammer المستأجر.
 
 لمزيد من المعلومات حول:
 

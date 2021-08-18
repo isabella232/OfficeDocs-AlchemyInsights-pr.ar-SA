@@ -12,12 +12,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004299"
 - "7677"
-ms.openlocfilehash: 2fcd0f386d2da8cad19fcc9872482bb75fe00dd2
-ms.sourcegitcommit: 6312ee31561db36104f32282d019d069ede69174
+ms.openlocfilehash: c104f77f0f0f20fa4b029e5e0b515b6418326e4b7fab304f005fb67a18e2202a
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "50743052"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119271"
 ---
 # <a name="manage-journaling"></a>إدارة دفاتر اليومية
 
@@ -25,5 +25,5 @@ ms.locfileid: "50743052"
 
 * يجب أن يكون لديك [أذونات إدارة المؤسسة](https://go.microsoft.com/fwlink/?linkid=2115259) وإدارة [السجلات](https://go.microsoft.com/fwlink/?linkid=2115469) قبل أن تتمكن من إدارة دفتر اليومية.
 * يجب أن يكون لديك علبة بريد دفتر يومية و(بشكل اختياري) علبة بريد دفتر يومية بديلة مكونة. لمعرفة المزيد، راجع [تكوين دفتر اليومية في Exchange Online](https://go.microsoft.com/fwlink/?linkid=2115260).
-* في Exchange Online، يوجد حد لعدد قواعد دفتر اليومية التي يمكنك إنشاؤها. للحصول على التفاصيل، راجع حدود قواعد دفتر [اليومية والنقل علبة الوارد](https://go.microsoft.com/fwlink/?linkid=2115261).
-* لا يدعم Exchange Online تسليم تقارير دفتر اليومية إلى علبة بريد Exchange Online. يجب تحديد عنوان البريد الإلكتروني لنظام أرشفة موقع أو خدمة أرشفة جهة خارجية كعميل بريد دفتر اليومية.
+* في Exchange Online، هناك حد لعدد قواعد دفتر اليومية التي يمكنك إنشاؤها. للحصول على التفاصيل، راجع حدود قواعد دفتر [اليومية والنقل علبة الوارد](https://go.microsoft.com/fwlink/?linkid=2115261).
+* Exchange Online لا يدعم تسليم تقارير دفتر اليومية إلى Exchange Online بريد. يجب تحديد عنوان البريد الإلكتروني لنظام أرشفة موقع أو خدمة أرشفة جهة خارجية كعميل بريد دفتر اليومية.

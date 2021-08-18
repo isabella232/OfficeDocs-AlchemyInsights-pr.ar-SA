@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "3486"
 - "9001467"
-ms.openlocfilehash: 61de1cd3e1cab28c01aa0a2fddcd41a13a92d361
-ms.sourcegitcommit: 8bc60ec34bc1e40685e3976576e04a2623f63a7c
+ms.openlocfilehash: a216d0e06a3e6865ca0ed157d976e5623ddbd9b02624e387a2f9755315f913bd
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/15/2021
-ms.locfileid: "51818167"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119595"
 ---
 # <a name="change-your-wi-fi-router-password"></a>تغيير كلمة مرور Wi-Fi الموجه
 
 لتغيير كلمة مرور Wi-Fi الموجه، اتبع الخطوات التالية:
 
-1. حدد **بدء**  >  **الإعدادات**  >  **الشبكة & الإنترنت** ومركز  >  **المشاركة**.
+1. حدد **بدء الإعدادات** الشبكة &  >    >  **الإنترنت** ومركز  >  **المشاركة**.
 
 2. ضمن **عرض الشبكات النشطة**، ابحث عن الشبكة التي تتصل بها. حدد الارتباط الأزرق بجانب **الاتصالات**.<br>
 

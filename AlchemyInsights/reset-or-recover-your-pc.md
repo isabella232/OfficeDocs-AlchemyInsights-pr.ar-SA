@@ -12,16 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002949"
 - "5646"
-ms.openlocfilehash: 5ca94b3f812478b2221d0fcc070b7e7273e45dc3633e46c99384a270a624015e
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e1f2d494f965d2d9fb1bcfcd8e4e224d9e68e7c2
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53991486"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58322670"
 ---
 # <a name="reset-or-recover-your-pc"></a>إعادة تعيين أو استرداد جهاز الكمبيوتر الخاص بك
 
-**هام**: إذا قمت بتشفير جهازك، فستحتاج إلى مفتاح BitLocker لإعادة تعيين جهاز الكمبيوتر الخاص بك. إذا لم تكن تعرف مفتاح BitLocker الخاص بك، فراجع [مفتاح استرداد BitLocker الخاص بي](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key).
+**هام:** إذا قمت بتشفير جهازك، ستحتاج إلى مفتاح BitLocker لإعادة تعيين الكمبيوتر الشخصي. إذا لم تكن تعرف مفتاح BitLocker الخاص بك، فراجع [مفتاح استرداد BitLocker الخاص بي](https://support.microsoft.com/help/4026181/windows-10-find-my-bitlocker-recovery-key).
 
 **إعادة تعيين الكمبيوتر الشخصي من "إعدادات"**
 

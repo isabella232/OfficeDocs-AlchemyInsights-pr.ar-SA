@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "7720"
 - "9004329"
-ms.openlocfilehash: 1387d7e0cdf2e730b2812f3970181d2bf889d44b1faab9a351911840909defb5
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: d85069970fe6bc6cc7a8488c49c0e6236426d45b
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54054785"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58321894"
 ---
 # <a name="issues-with-links-and-urls"></a>المشكلات المتعلقة بالارتباطات وعناوين URL
 
@@ -42,15 +42,13 @@ ms.locfileid: "54054785"
     - النظام الأساسي (iOS/Android/UWP)
     - المعلومات المُستخدمة في إنشاء التطبيق، مثل معرّف المجموعة في نظام التشغيل iOS واسم الحزمة وتجزئة التوقيع، تساعدك في تسجيل تطبيق مدخل Azure على نظام التشغيل Android. للاطلاع على التفاصيل، راجع [تكوين النظام الأساسي وعناوين URL لإعادة التوجيه](https://docs.microsoft.com/azure/active-directory/develop/scenario-mobile-app-registration#platform-configuration-and-redirect-uris).
 
-> [!NOTE]
-> واجهات برمجة تطبيقات الويب وبعض الطرق التلقائية للحصول على الرموز المميزة (مصادقة Windows المتكاملة واسم المستخدم/كلمة المرور) إلا تتطلب عنوان URL لإعادة التوجيه.
+**ملاحظة:** لا تتطلب واجهات برمجة تطبيقات الويب وبعض الطرق الصامتة للحصول على الرموز المميزة (IWA واسم المستخدم/كلمة المرور) إعادة توجيه URI.
 
 **لقد نشرت تطبيق الويب الخاص بي، وعند اختبار التطبيق المنشور أجد رسالة تفيد بعدم تطابق عنوان URL للردود**
 
 يمكنك إضافة عناوين URL لإعادة التوجيه لكل المواقع التي تنشر فيها تطبيق الويب الخاص بك. للحصول على مزيد من المعلومات، راجع [تسجيل تطبيق ويب باستخدام مدخل Azure](https://docs.microsoft.com/azure/active-directory/develop/scenario-web-app-sign-user-app-registration).
 
-> [!NOTE]
-> يمكنك إضافة عناوين URL لإعادة التوجيه لأحد المواقع مباشرةً بعد نشر التطبيق في ذلك الموقع.
+**ملاحظة:** أضف URI لإعادة التوجيه لموقع ما مباشرة بعد نشر التطبيق في ذلك الموقع.
 
 **لا يمكنني تسجيل عدد كافٍ من عناوين URL للردود**
 

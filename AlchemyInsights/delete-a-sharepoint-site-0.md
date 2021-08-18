@@ -1,5 +1,5 @@
 ---
-title: حذف موقع SharePoint
+title: حذف موقع SharePoint ويب
 ms.author: pebaum
 author: bentoncity
 manager: scotv
@@ -12,43 +12,43 @@ localization_priority: Normal
 ms.collection: Adm_O365
 ms.custom: ''
 ms.assetid: 4a71f3cd-000a-4a1a-b42a-15b70a8fb6f8
-ms.openlocfilehash: 06406794f24821836cebb1bb5ade56f9ca7e49a2
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: c8dff84e8b4a4a1a78db98736c23f8a0b0d235d9b09f15bd9ff770785badb4f2
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47731190"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118515"
 ---
-# <a name="delete-sites-that-belong-to-a-microsoft-365-group"></a>حذف المواقع التي تنتمي إلى مجموعه Microsoft 365
+# <a name="delete-sites-that-belong-to-a-microsoft-365-group"></a>حذف المواقع التي تنتمي إلى مجموعة Microsoft 365
 
-عندما يقوم المستخدمون بإنشاء موقع فريق جديد من SharePoint Home أو إنشاء موقع فريق جديد من مركز أداره SharePoint الجديد ، يتم تلقائيا إنشاء مجموعه متوافقة من Microsoft 365. يتم أيضا إنشاء مواقع الفرق المتصلة بالمجموعة في microsoft 365 عند إنشاء مجموعه Microsoft 365 أو فريق في فرق Microsoft. لحذف موقع SharePoint الذي ينتمي إلى مجموعه Microsoft 365 ، يجب حذف المجموعة Microsoft 365 نفسها. 
+عندما يقوم المستخدمون بإنشاء موقع فريق جديد من SharePoint Home أو عند إنشاء موقع فريق جديد من مركز إدارة SharePoint الجديد، يتم تلقائيا إنشاء Microsoft 365 مقابلة. Microsoft 365 إنشاء مواقع الفريق المتصلة بالمجموعة أيضا عند إنشاء مجموعة Microsoft 365 أو فريق في Microsoft Teams. لحذف موقع SharePoint ينتمي إلى مجموعة Microsoft 365، ستحتاج إلى حذف Microsoft 365 المجموعة نفسها. 
   
-1. انتقل إلى [صفحه المجموعات في مركز أداره Microsoft 365](https://portal.office.com/adminportal/home#/groups).
+1. انتقل إلى [صفحة المجموعات في مركز مسؤولي Microsoft 365](https://portal.office.com/adminportal/home#/groups).
     
-2. حدد خانه الاختيار الموجودة إلى جانب المجموعة.
+2. حدد خانة الاختيار إلى بجانب المجموعة.
     
 3. حدد **حذف**.
     
-ملاحظه: عندما تحذف مجموعه ، يمكن ان يكون هناك تاخير قبل أزاله الموقع من SharePoint.
+ملاحظة: عند حذف مجموعة، قد يحدث تأخير قبل إزالة الموقع من SharePoint.
   
 **حذف مواقع الاتصالات أو المواقع الكلاسيكية:**
 
 1. انتقل إلى الموقع.
   
-2. انقر فوق الايقونه **إعدادات** في الزاوية العلوية اليسرى. 
+2. انقر فوق **الإعدادات** في الزاوية العلوية اليسرى. 
   
-3. انقر فوق **إعدادات الموقع**. ضمن **معلومات الموقع** أو **إجراءات الموقع**، انقر فوق **حذف هذا الموقع**، ثم انقر فوق **حذف**.
+3. انقر **فوق إعدادات الموقع**. ضمن **معلومات الموقع** أو إجراءات **الموقع،** انقر فوق **حذف هذا الموقع**، ثم انقر فوق **حذف**.
   
-**حذف مجموعه مواقع مشتركه في SharePoint:**
+**حذف مجموعة مواقع SharePoint:**
 
 لحذف موقع:
   
-1. في مركز أداره SharePoint الجديد ، علي صفحه المواقع ، انقر فوق **خانه الاختيار** الموجودة إلى جانب الموقع الذي تريد حذفه. 
+1. في مركز إدارة SharePoint الجديد، في صفحة المواقع،  انقر فوق خانة الاختيار إلى بجانب الموقع الذي تريد حذفه. 
     
-2. علي شريط أدوات الشريط ، انقر فوق **حذف.**
+2. على شريط أدوات الشريط، انقر فوق **حذف.**
     
-**هل حذفت موقعا عن طريق الخطا ؟**
+**هل حذفت أحد المواقع عن طريق الخطأ؟**
 
-راجع [استعاده مجموعه مواقع مشتركه محذوفة](https://go.microsoft.com/fwlink/?linkid=867660).
+راجع [استعادة مجموعة مواقع ويب محذوفة](https://go.microsoft.com/fwlink/?linkid=867660).
   
 

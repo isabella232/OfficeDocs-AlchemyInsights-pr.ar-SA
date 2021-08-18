@@ -1,5 +1,5 @@
 ---
-title: استخدام خيارات سطر الأوامر لتكوين إعدادات الوكيل في Microsoft Edge
+title: استخدم خيارات سطر الأوامر لتكوين إعدادات الوكيل في Microsoft Edge
 ms.author: v-jmathew
 author: v-jmathew
 manager: scotv
@@ -14,16 +14,16 @@ ms.custom:
 - "9004632"
 - "7561"
 - "8363"
-ms.openlocfilehash: e8702c6ef6d4f723e314ad5b82ddcf554988b36f
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 09d29d48f7829e606afce7909d8a986b63dd8dc3484ca0ea6c07af60bc8f1a23
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403406"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54118386"
 ---
-# <a name="use-command-line-options-to-configure-proxy-settings-in-microsoft-edge"></a>استخدام خيارات سطر الأوامر لتكوين إعدادات الوكيل في Microsoft Edge
+# <a name="use-command-line-options-to-configure-proxy-settings-in-microsoft-edge"></a>استخدم خيارات سطر الأوامر لتكوين إعدادات الوكيل في Microsoft Edge
 
-في إصدارات Microsoft Edge 77 والإصدارات الأحدث، تستخدم مكدس الشبكة إعدادات الشبكة للنظام بشكل افتراضي. في السيناريوهات المختلطة التي يطلب فيها المستخدمون بديلا، يدعم Microsoft Edge خيارات سطر الأوامر لتكوين إعدادات الوكيل المخصصة. للحصول على التفاصيل، راجع:
+في Microsoft Edge الإصدارات 77 والإصدارات الأحدث، تستخدم مكدس الشبكة إعدادات الشبكة للنظام بشكل افتراضي. في السيناريوهات المختلطة حيث يطلب المستخدمون بديلا، Microsoft Edge خيارات سطر الأوامر لتكوين إعدادات الوكيل المخصصة. للحصول على التفاصيل، راجع:
 
 1. [إعدادات شبكة النظام](https://go.microsoft.com/fwlink/?linkid=2133962)
 2. [خيارات سطر الأوامر لإعدادات الوكيل](https://go.microsoft.com/fwlink/?linkid=2134292)

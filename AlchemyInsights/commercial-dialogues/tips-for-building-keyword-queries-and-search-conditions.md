@@ -1,5 +1,5 @@
 ---
-title: تلميحات حول إنشاء استعلامات الكلمات الأساسية وشروط البحث
+title: تلميحات إنشاء استعلامات الكلمات الأساسية وشروط البحث
 ms.author: v-aiyengar
 author: AshaIyengar21
 manager: dansimp
@@ -13,20 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200003"
 - "7221"
-ms.openlocfilehash: 8d653e97e1a95ac14e49bfe6e03af0b65da5a4c7
-ms.sourcegitcommit: 251e2e82571fb3bb1fbe3dbf7bfca30e004b3373
+ms.openlocfilehash: 59c7a2d9d6484bbaa1103fb13a3aa4fbd5e2ab745208e9474362029cf6406234
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "50480912"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54119091"
 ---
-# <a name="tips-for-building-keyword-queries-and-search-conditions"></a>تلميحات حول إنشاء استعلامات الكلمات الأساسية وشروط البحث
+# <a name="tips-for-building-keyword-queries-and-search-conditions"></a>تلميحات إنشاء استعلامات الكلمات الأساسية وشروط البحث
 
-إليك بعض التلميحات حول إنشاء استعلام البحث والحصول على نتائج أكثر دقة:
+فيما يلي بعض التلميحات حول إنشاء استعلام البحث والحصول على نتائج أكثر دقة:
 
-1. استخدم [لغة الاستعلام للكلمة الأساسية (KQL)](https://go.microsoft.com/fwlink/?linkid=2101591) بناء جملة الاستعلام.
+1. استخدم [لغة استعلام الكلمة الأساسية (KQL)](https://go.microsoft.com/fwlink/?linkid=2101591) ل بناء جملة الاستعلام.
 1. استخدم [عوامل التشغيل منطقية](https://go.microsoft.com/fwlink/?linkid=2101592) مثل AND و OR و NOT.
-1. استخدم [شروط البحث](https://go.microsoft.com/fwlink/?linkid=2102410) مثل "التاريخ" و"المرسل/الكاتب" و"الموضوع" للمساعدة على تضييق نطاق البحث.
-1. يمكنك البحث عن خصائص رسالة البريد الإلكتروني مثل **bcc** و **cc.** يمكنك أيضا البحث عن خصائص SharePoint و OneDrive for Business
+1. استخدم [شروط البحث مثل](https://go.microsoft.com/fwlink/?linkid=2102410) التاريخ والمرسل/الكاتب والموضوع للمساعدة على تضييق نطاق البحث.
+1. يمكنك البحث عن خصائص رسالة البريد الإلكتروني مثل **نسخة وم نسخة.** يمكنك أيضا البحث عن خصائص SharePoint OneDrive for Business
 
-لمعرفة المزيد، راجع [استعلامات الكلمة الأساسية وشروط البحث للبحث في المحتوى.](https://go.microsoft.com/fwlink/?linkid=2102411)
+لمعرفة المزيد، راجع [استعلامات الكلمات الأساسية وشروط البحث في البحث في المحتوى](https://go.microsoft.com/fwlink/?linkid=2102411).
