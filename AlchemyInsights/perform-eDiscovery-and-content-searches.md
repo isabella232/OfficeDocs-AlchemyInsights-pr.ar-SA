@@ -14,12 +14,12 @@ ms.custom:
 - "1488"
 - "3200003"
 ms.assetid: ''
-ms.openlocfilehash: cf9363ad94608c34e6d97fd589c745c91f762992
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 984de98c4282d6687e7b87b5414fae5af68adeca301f85e433fd126641b7b22a
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58317463"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57902031"
 ---
 # <a name="how-to-perform-content-searches-and-ediscovery-searches"></a>كيفية إجراء عمليات البحث في المحتوى وعمليات البحث في eDiscovery
 
@@ -31,7 +31,8 @@ ms.locfileid: "58317463"
 4. أدخل شروط البحث المطلوبة بما في ذلك الكلمات الأساسية ومواقع المحتوى.
 5. حدد **حفظ & التشغيل** ل تسمية البحث، وبدء تشغيله، ثم معاينة النتائج.
 
-**ملاحظة:** **في Microsoft 365 مركز** التوافق، قم بتوسيع  >   **eDiscovery** وحدد أداة eDiscovery المطلوبة.
+> [!NOTE]
+> في **Microsoft 365 مركز**  >  التوافق، قم بتوسيع **eDiscovery** وحدد أداة eDiscovery المطلوبة.
 
 للحصول على إرشادات مفصلة حول عمليات البحث في المحتوى وتصدير النتائج وإنشاء [](https://docs.microsoft.com/microsoft-365/compliance/content-search) حالات eDiscovery لضم البيانات، راجع البحث في المحتوى و حالات [eDiscovery](https://docs.microsoft.com/microsoft-365/compliance/ediscovery-cases).
 

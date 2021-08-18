@@ -15,12 +15,12 @@ ms.custom:
 - commerce_subscriptions
 - "9002564"
 - "5092"
-ms.openlocfilehash: efd4667d038d53412b3b0e5f9ef4d75d1555be2bfead6ec3316bb2dac4e2e26a
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: cb90655da29ebb6203446b3c579a9d6e6466df13
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57899527"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318937"
 ---
 # <a name="cancel-power-bi"></a>إلغاء Power BI
 
@@ -33,7 +33,6 @@ ms.locfileid: "57899527"
 
 **المبلغ المسترد: سيتم إرجاع أي رصيد مفوتر إليك خلال دورة الفوترة التالية.**
 
-> [!NOTE]
-> إذا لم يتم عرض خيار الإلغاء، فحدد الاشتراك لعرض صفحة التفاصيل. في المقطع **إعدادات الاشتراك والدفع،** حدد **إلغاء الاشتراك**.
+**ملاحظة:** إذا لم يكن خيار الإلغاء ناهيا، فحدد الاشتراك لعرض صفحة التفاصيل. في المقطع **إعدادات الاشتراك والدفع،** حدد **إلغاء الاشتراك**.
 
 لمعرفة المزيد، راجع [إلغاء اشتراكك](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/cancel-your-subscription).

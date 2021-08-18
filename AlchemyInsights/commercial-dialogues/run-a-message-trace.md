@@ -13,15 +13,15 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: c21a12855895c8e7f29c2a5917763940c30489e2aa3461cc0dc99799b86c9a34
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 2828594b2a1ceff3eea7aeb0eb9e160b222bdd96
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54081777"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318743"
 ---
 # <a name="run-a-message-trace"></a>تشغيل تتبع الرسائل
 
-يتم تشغيل تتبعات الرسائل في قسم تدفق البريد في Office 365 الأمان & مركز التوافق.
+يمكنك تشغيل تتبع الرسائل من Exchange **تتبع** الرسائل في Microsoft 365 Defender في <https://security.microsoft.com> .
 
-لمعرفة كيفية تشغيل تتبع الرسائل، راجع تتبع الرسائل في Office 365 [الأمان & التوافق](https://go.microsoft.com/fwlink/?linkid=2103855).
+لمزيد من المعلومات، راجع [تتبع الرسائل في مدخل](https://docs.microsoft.com/microsoft-365/security/office-365-security/message-trace-scc) Microsoft 365 Defender

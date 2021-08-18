@@ -12,19 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9004584"
 - "8187"
-ms.openlocfilehash: 6d0fc347172257be489313e0874f064620d93e8cd24ccc74520954e7427bcd95
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0e67fd327eeb6c802180be2cc5baa422ff69ebd5
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53970102"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58319049"
 ---
 # <a name="application-guard-for-office-for-admins"></a>حماية التطبيقات Office للمسؤولين
 
 يتوفر "حماية التطبيقات" Office المؤسسات التي تملك تراخيص Microsoft 365 E5 أو Microsoft 365 E5 Mobility + Security. يجب على المستخدمين في هذه المؤسسات استخدام Microsoft 365 للمؤسسة على القناة الحالية أو قناة المؤسسة الشهرية.
 
-> [!NOTE]
-> يتطلب Application Guard for Office تمكين حماية التطبيقات من Microsoft Defender (MDAG) على الجهاز أولا. لنشر MDAG على أجهزة متعددة، راجع [التحضير لتثبيت حماية التطبيقات من Microsoft Defender](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-application-guard/install-md-app-guard).
+**ملاحظة:** يتطلب Office التطبيق حماية التطبيقات من Microsoft Defender (MDAG) على الجهاز أولا. لنشر MDAG على أجهزة متعددة، راجع [التحضير لتثبيت حماية التطبيقات من Microsoft Defender](https://docs.microsoft.com/windows/security/threat-protection/microsoft-defender-application-guard/install-md-app-guard).
 
 للحصول على معلومات مفصلة حول المتطلبات الأساسية والإعداد والحدود وإصلاحها ل "حماية التطبيقات" Office، راجع:
 

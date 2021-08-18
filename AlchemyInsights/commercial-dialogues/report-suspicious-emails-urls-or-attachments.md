@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9000760"
 - "7391"
-ms.openlocfilehash: 56d689521d8438cedf797d8f7e524c542fbf3fedeb3a0caaf92b6b2cff1dd9bb
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: dd8b801c1ec894392223f584cc359dea54fd8062
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57895106"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318779"
 ---
 # <a name="report-suspicious-emails-urls-or-attachments"></a>الإبلاغ عن رسائل البريد الإلكتروني أو عناوين URL أو المرفقات المريبة
 
 أفهم أنك تحتاج إلى مساعدة في التحقق من رسالة بريد إلكتروني مريبة أو رسالة بريد إلكتروني تمت تصفيتها بشكل غير صحيح. يمكنني مساعدتك في إرسال المشكلة لتحليلها باستخدام مدخل "الواجبات المرسلة"، مما سيمنحك ملاحظات فورية.  فيما يلي ملخص للخطوات:
 
-1. في مدخل Microsoft 365 Defender <https://security.microsoft.com> في ، انتقل إلى **إرسالات** & \> **البريد الإلكتروني.**
+1. في مدخل <https://security.microsoft.com> Microsoft 365 Defender، انتقل إلى **إرسالات** & \> **الإلكتروني.**
 
    الانتقال مباشرة إلى صفحة **"الواجبات** المرسلة"، استخدم <https://security.microsoft.com/reportsubmission> .
 
@@ -33,5 +33,4 @@ ms.locfileid: "57895106"
 
 لمزيد من المعلومات، راجع [استخدام إرسال المسؤول لإرسال](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission)البريد العشوائي والتصيد الاحتيالي عناوين URL والملفات المشتبه بها إلى Microsoft .
 
-> [!NOTE]
-> أعلم المستخدمين بأنه يجب عليهم الإبلاغ عن أي رسائل مريبة في علبة الوارد الخاصة بهم باستخدام الوظائف الإضافية "الإبلاغ عن رسالة" أو "الإبلاغ عن التصيد [الاحتيالي" الإضافية](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in).
+**ملاحظة**: أعلم المستخدمين بأنه يجب عليهم الإبلاغ عن أي رسائل مريبة في علبة الوارد الخاصة بهم باستخدام الوظائف الإضافية "الإبلاغ عن رسالة" أو "الإبلاغ عن التصيد [الاحتيالي" الإضافية](https://docs.microsoft.com/microsoft-365/security/office-365-security/enable-the-report-message-add-in).

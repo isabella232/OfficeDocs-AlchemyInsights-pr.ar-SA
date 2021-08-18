@@ -13,22 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "3100005"
 - "7327"
-ms.openlocfilehash: 258e92368b8a33e8ea807f0cb9af90132c86ed5b
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: c3b1cac5379f4f3da93152fa20086068f7df562cd98b2980ce1b4280e0aa6d5f
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58303564"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57902247"
 ---
 # <a name="find-the-ip-address-in-audit-log"></a>البحث عن عنوان IP في سجل التدقيق
 
 يظهر عنوان IP الذي يتطابق مع نشاط يقوم به مستخدم أو مسؤول في سجلات التدقيق. يتم أيضا تسجيل معلومات العميل. فيما يلي كيفية تحديد عنوان IP:
 
 1. اتخاذ أحد الإجراءات التالية:
-   - في مركز التوافق في Microsoft 365 <https://compliance.microsoft.com> في ، انتقل إلى تدقيق  \> **الحلول**. أو، انتقل مباشرة إلى صفحة **التدقيق،** استخدم <https://compliance.microsoft.com/auditlogsearch> .
+   - في مركز التوافق في Microsoft 365 في <https://compliance.microsoft.com> ، انتقل إلى تدقيق  \> **الحلول**. أو، انتقل مباشرة إلى صفحة **التدقيق،** استخدم <https://compliance.microsoft.com/auditlogsearch> .
    - في مدخل Microsoft 365 Defender في <https://security.microsoft.com> ، انتقل إلى **تدقيق**. أو، انتقل مباشرة إلى صفحة **التدقيق،** استخدم <https://security.microsoft.com/auditlogsearch> .
 
-    **ملاحظة:** إذا رأيت إشعارا بحاجتك إلى تشغيل التدقيق، فانتقل إلى العمل ثم قم ب تشغيله الآن. إذا لم يتم تمكين هذه الميزة، فلن تتمكن نتائج البحث من سحب البيانات من التواريخ السابقة.
+    > [!NOTE]
+    > إذا رأيت إشعارا بحاجتك إلى تشغيل التدقيق، فانتقل إلى العمل ثم قم ب تشغيله الآن. إذا لم يتم تمكين هذه الميزة، فلن تتمكن نتائج البحث من سحب البيانات من التواريخ السابقة.
 
 2. في صفحة **التدقيق،** تحقق  من تحديد علامة التبويب بحث ثم قم بتكوين الإعدادات التالية:
    - **نطاق التاريخ والوقت**: حدد نطاق التاريخ/الوقت في **مربعي** البدء **والنهي.**

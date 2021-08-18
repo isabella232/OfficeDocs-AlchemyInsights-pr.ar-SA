@@ -13,20 +13,21 @@ ms.collection: Adm_O365
 ms.custom:
 - "3200002"
 - "7670"
-ms.openlocfilehash: a1ea801c002b69193a156b81785e94619b2c05bd
-ms.sourcegitcommit: db908b3da2c7a6508a77bf4f2c80afb294fadbd1
+ms.openlocfilehash: 50b5c5b256b23e10bd3a919514afb9e5b810c02d7054887bb8bb191e21a0c81e
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "51403478"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57902203"
 ---
 # <a name="turn-off-or-delete-alert-policies"></a>إيقاف تشغيل أو حذف سياسات التنبيه
 
 فيما يلي كيفية القيام بذلك:
 
-1. انتقل إلى مركز التوافق [في Office 365 & الأمان.](https://go.microsoft.com/fwlink/p/?linkid=2077143)
-1. حدد **تنبيهاتنهج**  >  [التنبيهات](https://go.microsoft.com/fwlink/?linkid=2103208).
-1. إذا كان نهج مخصص، فحدده من القائمة، ثم حدد **حذف نهج**. يمكنك تمكين عدة سياسات مخصصة أو تعطيلها أو حذفها مرة واحدة عن طريق تحديد أكثر من واحد من القائمة.
+1. اتخاذ أحد الإجراءات التالية:
+   - في مركز التوافق في Microsoft 365 <https://compliance.microsoft.com> ، انتقل إلى **سياسات** \> **تنبيهات السياسات** في المقطع **تنبيه.** أو، انتقل مباشرة إلى صفحة **نهج** التنبيه، استخدم <https://compliance.microsoft.com/alertpolicies> .
+   - في مدخل Microsoft 365 Defender في ، انتقل إلى نهج & <https://security.microsoft.com>  \> **نهج التنبيه**. أو، انتقل مباشرة إلى صفحة **نهج** التنبيه، استخدم <https://security.microsoft.com/alertpolicies> .
+2. إذا كان نهج مخصص، فحدده من القائمة، ثم حدد **حذف نهج**. يمكنك تمكين عدة سياسات مخصصة أو تعطيلها أو حذفها مرة واحدة عن طريق تحديد أكثر من واحد من القائمة.
 
 > [!NOTE]
 > إذا كان نهج النظام، لا يمكنك حذفه، ولكن يمكنك تمكينه أو تعطيله ثم إنشاء نهج جديد لتلبية احتياجاتك.

@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002347"
 - "7563"
-ms.openlocfilehash: 4d70e92a7c1bf8f3cc62d4a310aa140ee2dfdef4c798ae17faa961736d9db500
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4042e042554f78febff2073fde6f14db72a6d4e0
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54055541"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318635"
 ---
 # <a name="how-to-enable-hosted-voicemail"></a>كيفية تمكين البريد الصوتي المستضاف
 
@@ -29,7 +29,6 @@ ms.locfileid: "54055541"
 لمزيد من المعلومات حول الاتصال ب RPS، راجع Microsoft Teams نظرة عامة حول [PowerShell](https://docs.microsoft.com/microsoftteams/teams-powershell-overview) للحصول على مزيد من المعلومات حول الاتصال ب RPS.
 
 1. يجب Teams تسجيل الدخول إلى Remote PowerShell Teams.
-1. من PowerShell، Teams يمكن للمسؤول تشغيل **set-csuser user@contoso.com -HostedVoiceMail $true** حيث يكون sip uri من المستخدم المعني.
+1. من PowerShell، يطالبك مسؤول Teams بتشغيل **set-csuser user@contoso.com -HostedVoiceMail $true** حيث يكون sip uri من المستخدم المعني.
 
-> [!NOTE]
-> قد تستغرق التغييرات التي يتم إدخالها على السياسات ما يصل إلى 24 ساعة للتكرار.
+**ملاحظة:** قد تستغرق التغييرات التي يتم إدخالها على السياسات ما يصل إلى 24 ساعة للتكرار.

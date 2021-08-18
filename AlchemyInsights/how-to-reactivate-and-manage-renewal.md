@@ -16,16 +16,16 @@ ms.custom:
 - "349"
 - "1500012"
 ms.assetid: 6bec74c6-c7a6-4fa7-b5fc-c246c6ec5269
-ms.openlocfilehash: 88b80e69ec898bcf195633f3170d906c67bf8ab072ea2987364d32f750b74462
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 5d5a82afa849b7de7750ec997da007cd89763696
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57887523"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58318463"
 ---
 # <a name="how-to-reactivate-a-subscription-and-manage-recurring-billing"></a>كيفية إعادة تنشيط اشتراك وإدارة الفوترة المتكررة
 
-يبدو أن لديك اشتراكا انتهت صلاحيته. إذا كنت ترغب في إعادة تنشيطه، إليك كيفية القيام بذلك.
+يبدو أن لديك اشتراك انتهت صلاحيته. إذا كنت ترغب في إعادة تنشيطه، إليك كيفية القيام بذلك.
   
 1. في مركز الإدارة، انتقل إلى **صفحة فوترة**  >  [منتجاتك.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. على علامة **التبويب** المنتجات، ابحث عن الاشتراك الذي تريد إعادة تنشيطه. حدد النقاط الثلاث (المزيد من الإجراءات)، ثم حدد **إعادة تنشيط هذا الاشتراك**.
