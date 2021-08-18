@@ -1,5 +1,5 @@
 ---
-title: 898 التعرف علي خيارات مشاركه التقويم الخارجي
+title: 898 تعرف على خيارات مشاركة التقويم الخارجي
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -12,19 +12,19 @@ ms.custom:
 - "898"
 - "3800014"
 ms.assetid: 70bff353-d2e9-47ee-bccc-d59758efe8eb
-ms.openlocfilehash: 1512892d0712c9a00b4a105d95a39ddbff55333b
-ms.sourcegitcommit: c6692ce0fa1358ec3529e59ca0ecdfdea4cdc759
+ms.openlocfilehash: fe9bdc4a341017529460dacd349f00aec8b5626142ef6b164fc61ae2581d5584
+ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "47676945"
+ms.lasthandoff: 08/05/2021
+ms.locfileid: "54087663"
 ---
-# <a name="exchange-online-collaboration-options"></a>خيارات التعاون في Exchange Online
+# <a name="exchange-online-collaboration-options"></a>Exchange Online التعاون
 
-- للحصول علي **نظره عامه حول مشاركه التقويم الخارجي**، راجع [المشاركة في Exchange Online](https://technet.microsoft.com/library/jj916670%28v=exchg.150%29.aspx).
+- للحصول على نظرة **عامة حول مشاركة التقويم الخارجي،** راجع المشاركة في [Exchange Online](https://technet.microsoft.com/library/jj916670%28v=exchg.150%29.aspx).
 
-- **لمشاركه التقويمات مع مؤسسه Office 365 أخرى**، راجع [علاقات المؤسسة في Exchange Online](https://technet.microsoft.com/library/jj916658%28v=exchg.150%29.aspx).
+- لمشاركة **التقويمات مع مؤسسة Office 365 أخرى،** راجع علاقات المؤسسة [في Exchange Online](https://technet.microsoft.com/library/jj916658%28v=exchg.150%29.aspx).
 
-- للتحكم في **كيفيه مشاركه المستخدمين للتقويمات مع أشخاص من خارج مؤسستك**، راجع [نهج المشاركة في Exchange Online](https://technet.microsoft.com/library/jj916673%28v=exchg.150%29.aspx).
+- للتحكم **في كيفية مشاركة المستخدمين لتقويماتهم** مع أشخاص من خارج مؤسستك، راجع مشاركة سياسات في [Exchange Online](https://technet.microsoft.com/library/jj916673%28v=exchg.150%29.aspx).
 
-- للاطلاع علي **التحسينات** التي تجريها في مشاركه التقويم ، راجع [مشاركه التقويم في Microsoft 365](https://support.office.com/article/calendar-sharing-in-microsoft-365-b576ecc3-0945-4d75-85f1-5efafb8a37b4).
+- لرؤية **التحسينات التي يتم** إدخالها على مشاركة التقويم، راجع [مشاركة التقويم في Microsoft 365](https://support.office.com/article/calendar-sharing-in-microsoft-365-b576ecc3-0945-4d75-85f1-5efafb8a37b4).

@@ -12,18 +12,18 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002340"
 - "4553"
-ms.openlocfilehash: 8bc0737711820a1d45c5ab81625cede5285577b16225497a3e86e64b3cf24ed1
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.openlocfilehash: 13d4591fee375ed2ebbbef68220292f910c5eb3d
+ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57883038"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "58315943"
 ---
 # <a name="admin-password-reset"></a>إعادة تعيين كلمة مرور المسؤول
 
 - استخدم [إعادة تعيين كلمة مرور المسؤول](https://passwordreset.microsoftonline.com/) (SSPR) لإعادة تعيين كلمة مرور المسؤول.
 
-- إذا نسيت كلمة المرور الخاصة بك ولكنك سجلت الدخول باستخدام بيانات الاعتماد المخزنة مؤقتا، قم بإضافة معلومات الأمان أو [تغييرها](https://mysignins.microsoft.com/security-info)في حسابي > معلومات الأمان ، ثم أعد تعيين كلمة المرور باستخدام [SSPR](https://passwordreset.microsoftonline.com/). (تتطلب معظم حسابات البريد الكتروني ورقم الهاتف البديل لإكمال إعادة التعيين).
+- إذا نسيت كلمة المرور الخاصة بك ولكنك سجلت الدخول باستخدام بيانات الاعتماد المخزنة مؤقتا، قم بإضافة معلومات الأمان أو تغييرها في حسابي > [معلومات](https://mysignins.microsoft.com/security-info)الأمان ، ثم أعد تعيين كلمة المرور باستخدام [SSPR](https://passwordreset.microsoftonline.com/). (تتطلب معظم حسابات البريد الكتروني ورقم الهاتف البديل لإكمال إعادة التعيين).
 
 - إذا نسيت اسم المستخدم الخاص بك، يمكنك البحث في البريد الإلكتروني البديل/الشخصي بـ ".onmicrosoft.com" للعثور على رسالة بريد الإلكتروني قد يحتوي عليه.  يمكنك أيضاً العثور على اسم المستخدم في تطبيقات Office 365 في الشريط العلوي الأيسر أو الانتقال إلى **الملف > الحساب**.
 

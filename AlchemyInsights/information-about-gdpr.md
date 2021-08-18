@@ -12,18 +12,18 @@ ms.custom:
 - "891"
 - "1600049"
 ms.assetid: 729fdf4e-810a-4a99-9438-60ae8291fe4c
-ms.openlocfilehash: 67983aa1210b8c4694d47d8f5de4c60c97248f9f
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 3f7cf748f309441372e7af7dbcaaa241b7cfcd3b365051a2630ca38fa4c1d11c
+ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58311278"
+ms.lasthandoff: 08/11/2021
+ms.locfileid: "57899423"
 ---
 # <a name="information-about-gdpr"></a>معلومات حول GDPR
 
 - [GDPR مبسط: دليل للشركات الصغيرة](https://docs.microsoft.com/microsoft-365/admin/security-and-compliance/gdpr-compliance)
 
-- بدء الاستخدام باستخدام Service [Trust Portal.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
+- بدء الاستخدام مع Service [Trust Portal.](https://servicetrust.microsoft.com/ViewPage/GDPRGetStarted)
 
 - للحصول على أي شيء يتعلق **باتفاقية معالجة** البيانات (DPA)، راجع:
 
