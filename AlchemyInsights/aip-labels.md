@@ -1,6 +1,6 @@
 ---
-title: تسميات Azure Information Protection (AIP)
-ms.author: pebuam
+title: تسميات حماية البيانات في Azure (AIP)
+ms.author: pebaum
 author: pebaum
 manager: scotv
 ms.date: 04/19/2021
@@ -13,23 +13,23 @@ ms.collection: Adm_O365
 ms.custom:
 - "10974"
 - "9004597"
-ms.openlocfilehash: 2fb63d941935710ebc20f74bed70479c5627130e
-ms.sourcegitcommit: 1597d973e16aebda24421f18b911ea4c7197dfc3
-ms.translationtype: MT
+ms.openlocfilehash: 4b7f4c0fa86d78842edc757459ec008fca17daf7
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 04/20/2021
-ms.locfileid: "52124728"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58451729"
 ---
-# <a name="azure-information-protection-aip-labels"></a>تسميات Azure Information Protection (AIP)
+# <a name="azure-information-protection-aip-labels"></a>تسميات حماية البيانات في Azure (AIP)
 
-تم إهمال إدارة تسميات Azure Information Protection (AIP) في مدخل Azure وعميل AIP منذ 31 مارس 2021. لمزيد من المعلومات، راجع [تسميات Azure Information Protection (AIP)](https://docs.microsoft.com/azure/information-protection/aip-classification-and-protection)وتصنيفها وحمايتها .
+تم إهمال إدارة تسميات حماية البيانات في Azure (AIP) في مدخل Azure وعميل AIP منذ 31 مارس 2021. لمزيد من المعلومات، راجع [تسميات حماية البيانات في Azure (AIP) وتصنيفها وحمايتها](https://docs.microsoft.com/azure/information-protection/aip-classification-and-protection).
 
-لإنشاء التسميات وإدارتها، استخدم قدرات التسمية الموحدة في Microsoft 365 بدلا من ذلك. 
+لإنشاء التسميات وإدارتها، استخدم إمكانات التسمية الموحدة في Microsoft 365 بدلاً من ذلك. 
 
-للحصول على التفاصيل، راجع:
+لمزيد من التفاصيل، اطلع على:
 
 [إدارة تسميات الحساسية في تطبيقات Office](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels-office-apps)
 
-[التعرف على تسميات الحساسية](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
+[التعرّف على تسميات الحساسية](https://docs.microsoft.com/microsoft-365/compliance/sensitivity-labels)
 
-للحصول على قائمة با المشاكل المعروفة في ميزات AIP، راجع [المشاكل المعروفة - حماية معلومات Azure](https://docs.microsoft.com/azure/information-protection/known-issues).
+للحصول على قائمة المشاكل المعروفة في ميزات AIP، راجع [المشاكل المعروفة - حماية البيانات في Azure](https://docs.microsoft.com/azure/information-protection/known-issues).

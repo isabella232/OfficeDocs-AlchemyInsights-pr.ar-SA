@@ -1,26 +1,29 @@
 ---
-title: تعذر شراء عرض EDU
-ms.author: pebaum
-author: pebaum
+title: تعذّر شراء عرض EDU
+ms.author: cmcatee
+author: cmcatee-MSFT
 manager: scotv
-ms.date: 07/8/2020
+ms.reviewer: drjones, jmueller
 ms.audience: Admin
 ms.topic: article
+ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Priority
 ms.collection: Adm_O365
 ms.custom:
+- commerce_purchase
 - "5989"
 - "1500009"
-ms.openlocfilehash: e3a8db9273fb3146bd798c36c0fa7c0b1a6e7187
-ms.sourcegitcommit: 4265a9e79db6c2a396aa80ec0ebd467bbaadf366
-ms.translationtype: MT
+ms.date: 07/8/2020
+ms.openlocfilehash: 7871da6a81d74ea9a7305d7e02bf1a655f60ce15
+ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 07/08/2020
-ms.locfileid: "45088277"
+ms.lasthandoff: 08/21/2021
+ms.locfileid: "58451837"
 ---
-# <a name="unable-to-purchase-edu-offer"></a>تعذر شراء عرض EDU
+# <a name="unable-to-purchase-edu-offer"></a>تعذّر شراء عرض EDU
 
-لتحديد ما إذا كانت مؤسستك مؤهلة للحصول على أسعار أكاديمية، يجب عليك [إكمال عملية التحقق الخاصة بنا وإدخال نطاقك.](https://portal.office.com/Adminportal/Home#/Domains/SOWizard) يتوفر Office 365 A1 لتجربة الكلية و Office 365 A1 الخاص بالطلاب للاستخدام أثناء انتظار مراجعة الأهلية للمؤسسة.
+لتحديد ما إذا كانت مؤسستك مؤهلة للحصول على أسعار أكاديمية، يجب عليك [إكمال عملية التحقق وإدخال المجال الخاص بك](https://admin.microsoft.com/Adminportal#/Domains/SOWizard). متوفر لديك الإصدار التجريبي من Office 365 A1 لهيئة التدريس والإصدار التجريبي من Office 365 A1 للطلاب للاسخدام بينما يتم مراجعة أهلية مؤسستك.
 
-لشراء Microsoft 365 تجاريًا، راجع [العروض المتوفرة](https://go.microsoft.com/fwlink/p/?linkid=868433).
+لشراء Microsoft 365 تجارياً، الرجاء الاطلاع على [العروض المتوفرة](https://go.microsoft.com/fwlink/p/?linkid=868433).
