@@ -1,5 +1,5 @@
 ---
-title: 1245-Import-PST-Services
+title: استيراد الخدمة في مركز Office 365 الأمان &
 ms.author: markjjo
 author: markjjo
 manager: lauraw
@@ -14,28 +14,23 @@ ms.custom:
 - "1245"
 - "1800027"
 ms.assetid: ''
-ms.openlocfilehash: 55cccce6f2c8e628bd76278486f4e95a09e020f5
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.openlocfilehash: 2add8264754cadccc7025d5afa3d2e6fdf15140e
+ms.sourcegitcommit: 071ba3a6b6257dddee5e84af44e5bc45dedd78fb
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58312710"
+ms.lasthandoff: 08/20/2021
+ms.locfileid: "58418136"
 ---
-# <a name="microsoft-365-import-service"></a>Microsoft 365 استيراد الخدمة
+# <a name="import-service-in-the-office-365-security--compliance-center"></a>استيراد الخدمة في مركز Office 365 الأمان &
 
-للوصول إلى خدمة الاستيراد وبدء عملية الاستيراد:
+Office 365 تسمح لك خدمة الاستيراد باستيراد ملفات PST متعددة إلى علب بريد Exchange Online المستخدمين. استخدم خدمة الاستيراد لاستيراد ملفات PST بشكل مجمع إلى مؤسستك باستخدام خيار تحميل الشبكة **أو** **شحن** محرك الأقراص.
 
-1. انتقل إلى [مركز التوافق M365](https://compliance.microsoft.com/)، ثم سجل الدخول باستخدام بيانات الاعتماد لحساب مسؤول في مؤسستك.
+للوصول إلى خدمة الاستيراد وأدوات استيراد ملفات PST متعددة:
 
-1. في الجزء الأيسر من مركز التوافق M365 ضمن **الحلول،** حدد **استيراد إدارة**  >  **المعلومات**.
+1. انتقل إلى [Office 365 الأمان & التوافق](https://protection.office.com)، ثم سجل الدخول باستخدام Office 365 الخاص بك.
+1. حدد **إدارة البيانات**، **وحدد استيراد**، واتبع الخطوات الواردة في المعالج. 
 
-1. في الصفحة **استيراد،** حدد **مهمة استيراد جديدة**. أدخل اسم مهمة، وحدد **التالي**.
+للحصول على معلومات إضافية وإرشادات مفصلة خطوة بخطوة لاستيراد ملفات PST متعددة، راجع نظرة عامة حول استيراد ملفات [PST](https://docs.microsoft.com/office365/securitycompliance/importing-pst-files-to-office-365)في مؤسستك .
 
-1. حدد **Upload البيانات لاستخدام** خيار تحميل الشبكة ل نوع مهمة **الاستيراد**. للحصول على خطوات مفصلة، راجع [استخدام تحميل الشبكة لاستيراد](https://docs.microsoft.com/compliance/use-network-upload-to-import-pst-files)ملفات PST الخاصة مؤسستك Microsoft 365 .
-
-للوصول إلى **صفحة الاستيراد،** تأكد من تعيين الأذونات المناسبة لك. لمزيد من المعلومات، راجع [استخدام تحميل الشبكة لاستيراد ملفات PST](https://docs.microsoft.com/microsoft-365/compliance/importing-pst-files-to-office-365#using-network-upload-to-import-pst-files).
-
-إذا كنت تريد استيراد PST إلى علبة البريد، فشاهد استيراد البريد الإلكتروني وجهات الاتصال والتقويم من [ملف pst. Outlook pst.](https://support.office.com/article/import-email-contacts-and-calendar-from-an-outlook-pst-file-431a8e9a-f99f-4d5f-ae48-ded54b3440ac)
-
-إذا كنت تواجه مشكلة في عملية استيراد، فشاهد المشاكل [التي تؤثر على مهام استيراد PST](https://docs.microsoft.com/office365/troubleshoot/pst-import-service/issues-with-pst-import-job).
+لاستيراد ملف PST واحد، راجع استيراد Outlook الإلكتروني وجهات [الاتصال والتقويم وتصديرها](https://support.office.com/article/92577192-3881-4502-b79d-c3bbada6c8ef#ID0EAACAAA=Mac).
 

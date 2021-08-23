@@ -1,5 +1,5 @@
 ---
-title: 975 هل تريد الإبلاغ عن خطأ خطأ في البريد العشوائي في Microsoft؟
+title: هل ترغب في الإبلاغ عن خطأ خطأ في البريد العشوائي في Microsoft؟
 ms.author: chrisda
 author: chrisda
 manager: dansimp
@@ -8,19 +8,52 @@ ms.topic: article
 ms.service: o365-administration
 ROBOTS: NOINDEX, NOFOLLOW
 localization_priority: Normal
-ms.custom: 975
-ms.assetid: ''
-ms.openlocfilehash: f393c111aebed6d5813528a5c11bf8a6f18b68e5
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.custom:
+- "975"
+- "666"
+- "3100019"
+ms.openlocfilehash: d3897f24ce9a967b08a3fd15a2fdedbb3fe2a22d
+ms.sourcegitcommit: f05d4caa0e657ee74d6b6e9abc88488f17d740fe
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58328517"
+ms.lasthandoff: 08/19/2021
+ms.locfileid: "58396602"
 ---
-# <a name="would-you-like-to-report-a-spam-false-positive-to-microsoft"></a>هل ترغب في الإبلاغ عن خطأ خطأ في البريد العشوائي في Microsoft؟
+# <a name="do-you-have-legitimate-messages-being-marked-as-spam"></a>هل لديك رسائل شرعية يتم وضع علامة عليها كبريد عشوائي ؟
 
-ب أنت مسؤول، أفضل طريقة لتحديد سبب تسليم رسالة تصيد احتيالي أو بريد عشوائي هي إرسال العينة إلى Microsoft في ["مستكشف](https://protection.office.com/reportsubmission)عمليات الإرسال". لتسهيل الأمر، يمكنك السماح للمستخدمين بلتقارير مباشرة إلى Microsoft عبر الوظائف الإضافية ["رسالة التقرير"](https://appsource.microsoft.com/product/office/WA104381180?src=office&tab=Overview).
+الأمر محبط عندما ينتهي الأمر بالبريد الإلكتروني المشروع في مجلد البريد الإلكتروني غير الهام أو في "الفحص". يجب التفكير في الأسباب الأكثر شيوعا لإيجابيات خاطئة:
 
-ننصحك بتوخي الحذر إذا قررت تجاوز Microsoft 365 [البريد العشوائي.](https://docs.microsoft.com/exchange/troubleshoot/antispam/cautions-against-bypassing-spam-filters)
+**تجاوز المستأجر (الأكثر شيوعا)** هذا الأمر ضمن عنصر التحكم الخاص بك بالكامل لإعادة المعالجة.
 
-**هل كنت تعلم؟**: يمكنك الآن [](https://protection.office.com/messagetrace) إرسال عينات مباشرة من تتبع الرسائل و E5/Microsoft Defender Office 365 يمكن لعملاء الخطة 2 إرسال عينات من ["مستكشف التهديدات".](https://docs.microsoft.com/microsoft-365/security/office-365-security/threat-explorer)
+إرسال الرسالة على Microsoft 365 Defender لتحليل السياسات والقواعد ذات التأثير؛ تتوفر تفاصيل إعادة التوفر في غضون دقائق.
+مراجعة أو تعديل السياسات أو القواعد حسب الاقتضاء. 
+
+**تجاوز المستخدم النهائي (شائع)** هذا الأمر ضمن عنصر التحكم الخاص بك بالكامل لإعادة المعالجة. 
+
+إرسال الرسالة على Microsoft 365 Defender لتحليل السياسات والقواعد ذات التأثير؛ تتوفر تفاصيل إعادة التوفر في غضون دقائق. 
+
+إذا تم حظر رسالة لأنها تم إرسالها من عنوان في قائمة "المرسلون المحظورون" الخاصة بالمستخدم، فإن رؤوس الرسائل تتضمن قرار تصفية البريد العشوائي "SFV:BLK".
+
+**مصادقة البريد الإلكتروني للمرسلين** هذا الأمر هو جزء من عنصر التحكم الخاص بك لإعادة المعالجة.
+
+إرسال الرسالة لتحليل حالات الفشل في مصادقة البريد الإلكتروني للمرسل في وقت التسليم؛ تتوفر النتائج في غضون يوم واحد. 
+
+إذا كنت تملك البنية الأساسية المرسلة، فراجع كيفية محاذاتها مع SPF و DKIM و DMARC للتأكد من أن أنظمة البريد الإلكتروني الوجهة تثق بالرسائل المرسلة من مجالك. بدلا من ذلك، اتصل بالمرسلين لمعالجة تكوينات DNS الخاصة بهم.
+
+**الأحكام الخاصة بتصفية Microsoft** هذا الأمر هو جزء من عنصر التحكم الخاص بك لإعادة المعالجة.
+
+إرسال الرسالة و الإبلاغ عن الرسالة كآمنة؛ تتوفر نتائج rescan في غضون يوم واحد. استخدم قائمة السماح/الحظر للمستأجر عندما لا توافق على تصفية الأحكام في حالات معينة. ومع ذلك، يجب عدم تجاوز أحكام تصفية Microsoft بشكل دائم. 
+
+لمزيد من المعلومات، اطلع على:
+
+- تمكين المستخدمين النهائيين من إرسال الرسائل إلى Microsoft. تستخدم Microsoft عمليات الإرسال هذه لتحسين فعالية تقنيات حماية البريد الإلكتروني، وهي تظهر في تقارير الإرسال لكي تستخدمها كمؤشر لتحديث السياسات. 
+
+- لمشاهدة فيديو قصير حول إرسال الرسائل لتحليلها، راجع [إرسال الرسائل لتحليلها](https://go.microsoft.com/fwlink/?linkid=2166435).
+
+- [استخدام إرسال المسؤول لإرسال البريد العشوائي والتصيد الاحتيالي عناوين URL والملفات المشتبه بها إلى Microsoft](https://docs.microsoft.com/microsoft-365/security/office-365-security/admin-submission)
+
+- [إدارة قائمة السماح/الحظر للمستأجر](https://docs.microsoft.com/microsoft-365/security/office-365-security/tenant-allow-block-list)
+
+- [رؤوس رسائل مكافحة البريد العشوائي في Microsoft 365](https://docs.microsoft.com/microsoft-365/security/office-365-security/anti-spam-message-headers)
+
+- [الحماية من البريد العشوائي الصادر في EOP](https://docs.microsoft.com/microsoft-365/security/office-365-security/outbound-spam-controls)
