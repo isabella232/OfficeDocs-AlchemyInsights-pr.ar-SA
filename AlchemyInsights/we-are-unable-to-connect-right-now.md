@@ -12,20 +12,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "3408"
 - "9001423"
-ms.openlocfilehash: 5dad4b43efac2468b57351a4d6c96379ed505071ca144ec0aa518e975633bb18
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 0ab831696736352bf9de84f43c96bb8f7238d8eb
+ms.sourcegitcommit: b6dd6ae628a02ea6b997a993c49de083465bc2ac
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53998130"
+ms.lasthandoff: 08/30/2021
+ms.locfileid: "58744582"
 ---
 # <a name="fixing-the-microsoft-365-apps-we-are-unable-to-connect-right-now-message"></a>تصحيح رسالة Microsoft 365 "تعذر الاتصال الآن"
+
+ملاحظة: إذا كنت تستخدم إصدارا قديما من Windows (على سبيل المثال، Windows 7 SP1، Windows Server 2008 R2)، فاستخدم الإصلاح السهل لتمكين TLS 1.2 كافتراضي. [](https://download.microsoft.com/download/0/6/5/0658B1A7-6D2E-474F-BC2C-D69E5B9E9A68/MicrosoftEasyFix51044.msi) لمزيد من المعلومات، راجع التحديث لتمكين [TLS 1.1 و TLS 1.2](https://support.microsoft.com/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392)كبروتوكولات آمنة افتراضية في WinHTTP في Windows .
 
 إذا تلقيت هذه الرسالة، فجرب ما يلي:
 
 1. تحقق من جدار الحماية وبرامج الحماية من الفيروسات وإعدادات الوكيل للتأكد من أنها لا تمنع الوصول إلى الإنترنت Microsoft 365 التطبيقات. راجع [عناوين URL ونطاقات عناوين IP ل Microsoft](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
-2. انتقل إلى **بدء**  >  **تشغيل**، ثم اكتب **services.msc**. تأكد من تشغيل جميع الخدمات التالية:
+2. انتقل إلى **بدء**  >  **تشغيل**، ثم اكتب **services.msc**. تأكد من تشغيل الخدمات التالية كلها:
     - الإعداد التلقائي للأجهزة المتصلة بالشبكة
     - خدمة قائمة الشبكة
     - الوعي بموقع الشبكة
