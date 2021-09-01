@@ -14,18 +14,19 @@ ms.custom:
 - commerce_subscriptions
 - "4981"
 - "9002568"
-ms.openlocfilehash: 76f09fd64c23912bcaa9db86859d276d7d817815
-ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.date: 07/30/2021
+ms.openlocfilehash: 726306a739d074c1333b02e0e7755dd00624f3d1
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/21/2021
-ms.locfileid: "58452089"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58843581"
 ---
 # <a name="microsoft-365-a1-faq"></a>الأسئلة المتداولة حول Microsoft 365 A1
 
 الأسئلة الشائعة حول إدارة ترخيص واشتراك A1:
 
-- إذا لم تكن مؤسستك قد Microsoft 365 Education بعد، ولكنك تريد إضافة **Microsoft 365 مجانا**، يمكنك البدء من خلال توفير بريدك الإلكتروني. لتوفير بريدك الإلكتروني، راجع بدء [استخدام Office 365 مجانا](https://www.microsoft.com/education/products/office).  
+- إذا لم تقم مؤسستك بعد بإعداد Microsoft 365 Education، ولكنك تريد إضافة **Microsoft 365 مجانًا**، يمكنك بدء الاستخدام من خلال توفير بريدك الإلكتروني. لتوفير بريدك الإلكتروني، راجع [بدء استخدام Office 365 مجانًا](https://www.microsoft.com/education/products/office).  
 - إذا كانت مؤسستك مؤهلة للحصول على Microsoft 365 Education، فاذهب **إلى الفوترة > [خدمات الشراء.](https://go.microsoft.com/fwlink/p/?linkid=868433)** استخدم مربع البحث للبحث عن"A1"، وحدد الخطة وعدد المستخدمين. لمزيد من المعلومات، راجع [تجربة اشتراك تجريبي مجاني](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#try-a-free-trial-subscription) أو [شراء اشتراك مختلف](https://docs.microsoft.com/microsoft-365/commerce/try-or-buy-microsoft-365#buy-a-different-subscription).
 - لـ **تغيير الخطط**، اطلع على [الترقية إلى خطة أخرى](https://docs.microsoft.com/microsoft-365/commerce/subscriptions/upgrade-to-different-plan).
 - لـ **تعيين** تراخيص A1 للمستخدمين، انتقل إلى **الفوترة > [التراخيص](https://go.microsoft.com/fwlink/p/?linkid=842264)**. لمزيد من المعلومات، اطلع على [تعيين التراخيص للمستخدمين](https://docs.microsoft.com/microsoft-365/admin/manage/assign-licenses-to-users).
