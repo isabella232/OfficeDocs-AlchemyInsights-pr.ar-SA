@@ -3,7 +3,6 @@ title: تغيير عنوان الفوترة أو إعلامات البريد ا�
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: tugu, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -16,16 +15,17 @@ ms.custom:
 - commerce_billing
 - "1200012"
 - "4716"
-ms.openlocfilehash: 398f4409429f33c0e1a9e7481766d014db0f092c
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 68b3df057f44c9f8927ac4a3d58cbd427cf97756
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58332468"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58841996"
 ---
 # <a name="change-billing-address-or-billing-email-notifications"></a>تغيير عنوان الفوترة أو إعلامات البريد الإلكتروني الخاصة الفوترة
 
-**تغيير عنوان Bill-To الإلكتروني**
+**تغيير عنوان Bill-To الخاص بك**
 
 1. في مركز الإدارة، انتقل إلى صفحة الفوترة > **[طرق](https://go.microsoft.com/fwlink/p/?linkid=2018806)** الدفع.
 
@@ -37,7 +37,7 @@ ms.locfileid: "58332468"
 
 **تغيير عنوان البريد الإلكتروني البديل الذي يتم إرسال إعلامات الفوترة إلى** 
 
-1. انقر فوق **أيقونة المستخدم،** ثم انقر فوق **حسابي**.
+1. انقر فوق **أيقونة المستخدم**، ثم انقر فوق **حسابي**.
 
 2. انقر **فوق معلومات شخصية**.
 
