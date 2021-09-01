@@ -3,7 +3,6 @@ title: خيارات الدفع
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: ITPro
 ms.topic: article
@@ -14,12 +13,13 @@ ms.custom:
 - commerce_billing
 - "1639"
 - "9000134"
-ms.openlocfilehash: ee601c667a0d2aefb8ced7444fd5e2319924dc13
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 5ba7e3ea21fa85e8674782d43e802a137126fc4a
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58324385"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844697"
 ---
 # <a name="payment-options-for-microsoft-365-for-business-subscriptions"></a>خيارات الدفع لاشتراكات Microsoft 365 للأعمال
   

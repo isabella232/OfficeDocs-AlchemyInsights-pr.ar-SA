@@ -14,18 +14,19 @@ ms.custom:
 - commerce_purchase
 - "9002424"
 - "4708"
-ms.openlocfilehash: 59d6b2b4cb1e83b5101eb1fccecdde01c36f102b
-ms.sourcegitcommit: 1b4ecaba74cfcff155528dc9e1002011afe0f110
+ms.date: 04/14/2021
+ms.openlocfilehash: 213eab5723c0183ef45aac53478c9a8ca2a07f29
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/21/2021
-ms.locfileid: "58450829"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58844877"
 ---
 # <a name="purchase-project-subscription"></a>شراء ترخيص Project
 
 يمكن للمسؤولين شراء Project لمنظمتهم من **مركز مسؤولي Microsoft 365**.
 
-1. انتقل إلى **صفحة خدمات شراء** الفوترة لعرض الاشتراكات المتوفرة للشراء  >  **[](https://admin.microsoft.com/AdminPortal/Home?adminportal=1&msCV=%2BbOQtMNsz0ei8f5z.0.36#/catalog)** لمنظمتك.
+1. انتقل إلى **صفحة خدمات شراء**  >  **[الفوترة](https://admin.microsoft.com/AdminPortal/Home?adminportal=1&msCV=%2BbOQtMNsz0ei8f5z.0.36#/catalog)** لعرض الاشتراكات المتوفرة للشراء لمنظمتك.
 
 2. حدد موقع خطط Project من خلال البحث بالاسم "Project".
 
