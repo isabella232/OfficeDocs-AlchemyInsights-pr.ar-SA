@@ -3,7 +3,6 @@ title: تجديد مسبق الدفع
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -15,12 +14,13 @@ ms.custom:
 - commerce_billing
 - "662"
 - "1500012"
-ms.openlocfilehash: ae4ddd365951190f58c551a4ca2874268ee64186c605be5b33860dcb864235da
-ms.sourcegitcommit: 920051182781bd97ce4d4d6fbd268cb37b84d239
+ms.date: 08/11/2021
+ms.openlocfilehash: dabc83172eb9e58393620d7d24dae418de1a1b19
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/11/2021
-ms.locfileid: "57901951"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58842357"
 ---
 # <a name="prepaid-microsoft-365-renewal"></a>تجديد Microsoft 365 مسبق الدفع
 
@@ -29,8 +29,7 @@ ms.locfileid: "57901951"
 3. في صفحة تفاصيل الاشتراك، في المقطع **إعدادات الاشتراك والدفع،** حدد **تمديد تاريخ الانتهاء**.
 4. في صفحة تجديد تراخيص المستخدمين أو **إضافتها،** حدد **استخدام مفتاح** منتج جديد وغير مستخدم ، ثم حدد **التالي**.
 5. أدخل مفتاح المنتج، ثم حدد **التالي**.
-    > [!NOTE]
-    > إذا كان لديك أكثر من مفتاح منتج واحد، يمكنك تحديد **إضافة مفتاح منتج آخر** لإدخاله.
+    **ملاحظة:** إذا كان لديك أكثر من مفتاح منتج واحد، يمكنك تحديد **إضافة مفتاح منتج آخر** لإدخاله.
 6. راجع تفاصيل طلبك، ثم حدد **استرداد**.
 
 لمعرفة المزيد، راجع إضافة تراخيص إلى اشتراك مدفوع أو تمديده [لاستخدام مفتاح منتج](https://docs.microsoft.com/microsoft-365/commerce/licenses/add-licenses-using-product-key).

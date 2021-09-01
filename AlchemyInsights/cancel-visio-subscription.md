@@ -14,16 +14,17 @@ ms.custom:
 - commerce_subsriptions
 - "1400001"
 - "4721"
-ms.openlocfilehash: 78955e6331048e9861785cac76cebcece4973996
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: 97c4a6331cdd8e457d8ed2f016b2e2ed844b32b4
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58331446"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845561"
 ---
 # <a name="cancel-visio-subscription"></a>إلغاء Visio الاشتراك
 
-يمكن للمسؤولين إلغاء الاشتراك Visio لمنظمتهم في مركز مسؤولي Microsoft 365.
+يمكن للمسؤولين إلغاء اشتراك Visio لمنظمتهم في مركز مسؤولي Microsoft 365.
 
 1. انتقل إلى **صفحة فوترة** \> [منتجاتك.](https://go.microsoft.com/fwlink/p/?linkid=842054)
 2. على علامة **التبويب** المنتجات، ابحث Visio الاشتراك الذي تريد إلغاؤه. حدد النقاط الثلاث (المزيد من الإجراءات)، ثم حدد **إلغاء الاشتراك**.

@@ -3,7 +3,6 @@ title: معلومات الدفع والفاتورة
 ms.author: cmcatee
 author: cmcatee-MSFT
 manager: scotv
-ms.date: ''
 ms.reviewer: jkinma, jmueller
 ms.audience: Admin
 ms.topic: article
@@ -16,12 +15,13 @@ ms.custom:
 - commerce_billing
 - "485"
 - "1500018"
-ms.openlocfilehash: 8790752b10012d891b6b23078986ef589cf4d650
-ms.sourcegitcommit: ab75f66355116e995b3cb5505465b31989339e28
+ms.date: 08/10/2021
+ms.openlocfilehash: b28778c821b4440636a3edea450920306ee9f6a0
+ms.sourcegitcommit: e781da003fb7b878854846cbe12b13b9dca8df92
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "58321950"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "58845309"
 ---
 # <a name="invoice-and-payment-information"></a>معلومات الدفع والفاتورة
 
@@ -31,10 +31,10 @@ ms.locfileid: "58321950"
 
 **الفاتورة/الفاتورة**
 
-يمكنك العثور على الفواتير وتنزيلها على **صفحة** فواتير الفوترة &  >  [الدفع.](https://go.microsoft.com/fwlink/p/?linkid=848039)  
+يمكنك العثور على الفواتير وتنزيلها على **صفحة** الدفع في &  >  [الفوترة.](https://go.microsoft.com/fwlink/p/?linkid=848039)  
 
 **ملاحظة:** إذا لم تكن هناك أي فواتير مرئية، فقد تحتاج إلى ضبط عامل تصفية نطاق التاريخ.  بشكل افتراضي، يتم عرض آخر 3 أشهر من الفواتير.
 
 يتم إنشاء الفواتير شهريا أو سنويا استنادا إلى معدل تكرار الفوترة الذي تم اختياره أثناء الشراء.  إذا كنت تدفع سنويا، فقد تحصل على فاتورة في منتصف المدة عند إضافة تراخيص أو إزالتها من اشتراك.
 
-- لمزيد من المعلومات، راجع [فهم الفاتورة الخاصة Microsoft 365 للأعمال](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
+- لمزيد من المعلومات، راجع [فهم فاتورة Microsoft 365 للأعمال](https://docs.microsoft.com/microsoft-365/commerce/billing-and-payments/understand-your-invoice2).
