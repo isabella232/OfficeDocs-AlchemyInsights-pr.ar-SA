@@ -15,12 +15,12 @@ ms.custom:
 - "6700005"
 - "10064"
 - "9003771"
-ms.openlocfilehash: c13bc161b19a5fef1352beb28bdcc20110111a9a61a47433d82e1e69aff7f88d
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 4c8e03a817751ba7dc1710aed5a3e19c6e79db33
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "53978148"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923541"
 ---
 # <a name="endpoint-manager---security-baselines"></a>إدارة نقاط النهاية - أساسات الأمان
 
@@ -37,6 +37,8 @@ ms.locfileid: "53978148"
 للحصول على إرشادات حول كيفية تغيير إصدار الأساس الذي سيتم نشره بأعلى فاعلية، اطلع على [إدارة ملفات تعريف أساسات الأمان في Microsoft Intune](https://docs.microsoft.com/mem/intune/protect/security-baselines-configure).
 
 بعد نشر أحد أساسات الأمان، ستتمكّن من مراقبة حالة النشر ومراجعة الإعدادات على الأجهزة بشكل مستقل.
+
+نظرا لأن خطوط الأمان الأساسية تحتوي على العديد من الإعدادات، فمن المهم مراجعة تغييرات التكوين وأداء الاختبار للتأكد من أن كل الإعدادات مناسبة للأجهزة واحتياجات الأعمال.
 
 **ملاحظة:** قد يستغرق ظهور بيانات تقارير الأساسات من النشر الأولي إلى أحد الأجهزة ما يصل إلى 24 ساعة وقد يستغرق إجراء تحديثات إضافية ما يصل إلى 6 ساعات. 
 
