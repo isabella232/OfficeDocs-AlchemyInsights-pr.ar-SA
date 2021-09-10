@@ -1,5 +1,5 @@
 ---
-title: تنشيط تطبيقات Office 365 على Windows 365 كمبيوتر
+title: تنشيط تطبيقات Office 365 على أجهزة كمبيوتر Windows 365
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,18 +13,20 @@ ms.collection: Adm_O365
 ms.custom:
 - "13738"
 - "9008599"
-ms.openlocfilehash: ecbd34d10ca079cfd4a7c3cd0511e9101b946511
-ms.sourcegitcommit: faeffebb79a18b9256b3c518840842879e22c00e
-ms.translationtype: MT
+ms.openlocfilehash: 9582264ce6ef8ab6e5a1e1c2a09baba7f1f03f50
+ms.sourcegitcommit: ae556b6b26974392ca68a68426a2b40967ae0071
+ms.translationtype: HT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/26/2021
-ms.locfileid: "58792634"
+ms.lasthandoff: 09/07/2021
+ms.locfileid: "58923505"
 ---
-# <a name="activating-office-365-applications-on-windows-365-pcs"></a>تنشيط تطبيقات Office 365 على Windows 365 كمبيوتر
+# <a name="activating-office-365-applications-on-windows-365-pcs"></a>تنشيط تطبيقات Office 365 على أجهزة كمبيوتر Windows 365
 
-Windows 365 صورة كمبيوتر شخصي نسخا مثبتة من Office 365 يتم تنشيطها عند فتح أي من تطبيقات Office للمرة الأولى.
+**ملاحظة**: لا تنطبق هذه المشكلة على المستخدمين الذين لديهم تراخيص Windows 365 Enterprise.
 
-أثناء عملية التنشيط، قد يواجه مستخدم مرخص Windows 365 Business الخطأ التالي:
+تتضمن صور كمبيوتر Windows 365 نسخا مثبتة من تطبيقات Office 365، التي يتم تنشيطها عند فتح أي من تطبيقات Office للمرة الأولى.
+
+أثناء عملية التنشيط، قد يواجه مستخدم مرخص بـWindows 365 Business الخطأ التالي:
 
 "مشكلة في الحساب
 
@@ -32,7 +34,7 @@ Windows 365 صورة كمبيوتر شخصي نسخا مثبتة من Office 365
 
 لحل هذه المشكلة، اطلب من المستخدم المتأثر إكمال الخطوات التالية: 
 
-1. إلغاء تثبيت تطبيقات Office من الكمبيوتر الشخصي في السحابة.
+1. إلغاء تثبيت التطبيقات Office الموجودة من الكمبيوتر الشخصي في السحابة.
 1. انتقل إلى Office.com وحدد خيار تثبيت Office.
 
-    Office عملية التنشيط بنجاح.
+    يجب أن يكتمل حينها تنشيط Office بنجاح.
