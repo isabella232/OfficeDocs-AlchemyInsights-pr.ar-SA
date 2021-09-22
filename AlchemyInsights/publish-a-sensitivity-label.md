@@ -13,12 +13,12 @@ ms.collection: Adm_O365
 ms.custom:
 - "11015"
 - "9000181"
-ms.openlocfilehash: 1fe426683a8c39d07e59bb4121131ecacf1832075f626b26982ec0ede3c24698
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: 7b9025092c154f2734f74dc547de877e70caac2e
+ms.sourcegitcommit: a097d1f8915a31ed8460b5b68dccc8d87e563cc0
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54062859"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "59475204"
 ---
 # <a name="how-to-publish-a-sensitivity-label"></a>كيفية نشر تسمية الحساسية
 
@@ -39,3 +39,5 @@ ms.locfileid: "54062859"
 1. إذا قمت بإنشاء أكثر من نهج تسمية قد ينتج عنه تعارض لمستخدم أو موقع، فراجع ترتيب النهج، وإذا لزم الأمر، فحركه لأعلى أو لأسفل. لتغيير ترتيب نهج التسمية، حدد النقاط الثلاث (المزيد من الإجراءات)، ثم حدد **تحريك لأعلى** أو **تحريك لأسفل.**
 
 يؤدي إكمال المعالج إلى نشر نهج التسمية تلقائيا.
+
+لمزيد من المعلومات، راجع إنشاء تسميات الحساسية ونهجها [وتكوينها](https://docs.microsoft.com/microsoft-365/compliance/create-sensitivity-labels).
