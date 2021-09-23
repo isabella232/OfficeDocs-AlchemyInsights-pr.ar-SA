@@ -12,17 +12,16 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001509"
 - "6449"
-ms.openlocfilehash: d1196b0a9737da577833c90a7b5202fde264973c8fe9b196ec55d595315d2a20
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: a88d4beab4d3749d622f200f7b4117e7ed4a80f9
+ms.sourcegitcommit: cce7932374d1b8ad5806a28bff2b4bac4702852d
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54097365"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "59482655"
 ---
 # <a name="microsoft-stream"></a>Microsoft Stream
 
-Microsoft Stream هي خدمة فيديو المؤسسة حيث يمكن للأشخاص في مؤسستك تحميل ملفات الفيديو وعرضها ومشاركتها بأمان. يمكنك مشاركة تسجيلات الصفوف أو الاجتماعات أو العروض التقديمية أو الجلسات التدريبية أو مقاطع الفيديو الأخرى التي تساعد في تعاون فريقك.  
+تعمل الرؤية الجديدة ل Microsoft Stream على تمكين المستخدمين من إنشاء الفيديو ومشاركته واكتشافه وإدارته تماما كما في أي ملف آخر. لمزيد من المعلومات، اطلع على:
 
-- [Microsoft Stream الجديد](https://docs.microsoft.com/stream/new-stream)
-- [Microsoft Stream (كلاسيكي)](https://docs.microsoft.com/stream/overview)
-- [الترحيل من Microsoft Stream (كلاسيكي) إلى Microsoft Stream الجديد](https://docs.microsoft.com/stream/classic-migration)
+- [Stream (مضمن SharePoint)، الإصدار الجديد من Microsoft Stream](https://docs.microsoft.com/stream/streamnew/new-stream)
+- [نظرة عامة حول عملية Microsoft Stream (كلاسيكي) إلى Stream (مضمنة في SharePoint)](https://docs.microsoft.com/stream/streamnew/stream-classic-to-new-migration-overview)
