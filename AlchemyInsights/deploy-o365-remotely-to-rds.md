@@ -1,5 +1,5 @@
 ---
-title: نشر Microsoft 365 Apps for enterprise للاستخدام المشترك على RDS أو Terminal Server أو VDI
+title: نشر Microsoft 365 Apps للاستخدام المشترك على RDS أو Terminal Server أو VDI
 ms.author: pebaum
 author: pebaum
 manager: scotv
@@ -13,22 +13,22 @@ ms.collection: Adm_O365
 ms.custom:
 - "9001419"
 - "3411"
-ms.openlocfilehash: 9d928a3bf58dedc3aaf231c8a051f87b0bbdf438
-ms.sourcegitcommit: 391052026a6ce7646926d233d0fd9ba135088f79
+ms.openlocfilehash: 81183cf1823480c1b15eba9ba9f519b4e3746b52
+ms.sourcegitcommit: ef8d6b71fbd962fb3f7081b21724e67a91111a92
 ms.translationtype: MT
 ms.contentlocale: ar-SA
 ms.lasthandoff: 10/01/2021
-ms.locfileid: "60040993"
+ms.locfileid: "60077237"
 ---
-# <a name="deploying-microsoft-365-apps-for-enterprise-for-shared-use-on-rds-terminal-server-or-vdi"></a>نشر Microsoft 365 Apps for enterprise للاستخدام المشترك على RDS أو Terminal Server أو VDI
+# <a name="deploying-microsoft-365-apps-for-shared-use-on-rds-terminal-server-or-vdi"></a>نشر Microsoft 365 Apps للاستخدام المشترك على RDS أو Terminal Server أو VDI
 
-لنشر Microsoft 365 Apps سطح المكتب البعيد (RDS)، التي كانت تعرف سابقا بالخدمات الطرفية، يجب:
+لنشر Microsoft 365 Apps خدمات سطح المكتب البعيد (RDS)، التي كانت تعرف سابقا بالخدمات الطرفية، يجب:
 
-- استخدم الإصلاح السهل لتمكين TLS 1.2 كافتراضي إذا كنت تقوم بتشغيل إصدار أقدم من Windows (على سبيل المثال، Windows 7 SP1، Windows Server 2008 R2). للحصول على تصحيح سهل والمزيد من المعلومات، راجع التحديث لتمكين [TLS 1.1 و TLS 1.2](https://support.microsoft.com/en-us/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392#bkmk_easy)كبروتوكولات آمنة افتراضية في WinHTTP في Windows . 
-- لديك خطة تتضمن Microsoft 365 Apps for enterprise (سابقا Office 365 Plus). على سبيل المثال، Office 365 E3 أو Microsoft 365 E5، أو أي خطة تتضمن إصدار سطح المكتب من Project أو Visio، مثل Project (النظام 3) أو Visio (النظام 2)، أو خطة Microsoft 365 Business Premium، التي تتضمن أيضا Microsoft 365 Apps for business.
-- تمكين تنشيط الكمبيوتر المشترك. لمزيد من المعلومات، راجع [نظرة عامة حول تنشيط الكمبيوتر المشترك Microsoft 365 Apps](https://docs.microsoft.com/deployoffice/overview-shared-computer-activation).
+- استخدم الإصلاح السهل لتمكين TLS 1.2 كافتراضي إذا كنت تقوم بتشغيل إصدار قديم من Windows (على سبيل المثال، Windows 7 SP1، Windows Server 2008 R2). للحصول على تصحيح سهل والمزيد من المعلومات، راجع التحديث لتمكين [TLS 1.1 و TLS 1.2](https://support.microsoft.com/en-us/topic/update-to-enable-tls-1-1-and-tls-1-2-as-default-secure-protocols-in-winhttp-in-windows-c4bd73d2-31d7-761e-0178-11268bb10392#bkmk_easy)كبروتوكولات آمنة افتراضية في WinHTTP في Windows . 
+- لديك خطة تتضمن Microsoft 365 Apps for enterprise (Office 365 Plus سابقا). على سبيل المثال، Office 365 E3 أو Microsoft 365 E5، أو أي خطة تتضمن إصدار سطح المكتب من Project أو Visio، مثل Project (النظام 3) أو Visio (النظام 2)، أو خطة Microsoft 365 Business Premium، التي تتضمن أيضا Microsoft 365 Apps for business.
+- تمكين تنشيط الكمبيوتر المشترك. لمزيد من المعلومات، راجع نظرة عامة حول [تنشيط الكمبيوتر المشترك Microsoft 365 Apps](https://docs.microsoft.com/deployoffice/overview-shared-computer-activation).
 
-**ملاحظة**: لتثبيت Microsoft 365 Apps في وضع تنشيط الكمبيوتر المشترك، قم بتنزيل [Microsoft](https://docs.microsoft.com/alchemyinsights/deploy-o365-remotely-to-rds)مساعد الإصلاح والدعم. للحصول على تفاصيل حول المتطلبات الأساسية وإرشادات الإعداد والإرشادات لتخصيص عمليات التثبيت باستخدام أداة النشر Office، راجع نشر Microsoft 365 Apps باستخدام خدمات سطح المكتب [البعيد.](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-remote-desktop-services)
+**ملاحظة:** لتثبيت Microsoft 365 Apps في وضع تنشيط الكمبيوتر المشترك، قم بتنزيل [Microsoft](https://aka.ms/SaRA_OfficeSCA_M365Portal)مساعد الإصلاح والدعم. للحصول على تفاصيل حول المتطلبات الأساسية وإرشادات الإعداد والإرشادات لتخصيص التثبيتات باستخدام أداة النشر Office، راجع نشر Microsoft 365 Apps باستخدام خدمات سطح المكتب [البعيد.](https://docs.microsoft.com/deployoffice/deploy-microsoft-365-apps-remote-desktop-services)
 
 لإصلاح الأخطاء المتعلقة بتنشيط الكمبيوتر المشترك، راجع:
 

@@ -13,17 +13,19 @@ ms.collection: Adm_O365
 ms.custom:
 - "9002570"
 - "6969"
-ms.openlocfilehash: 782d79d7a67515ff02f9cef61176b9bea9017f1ad490090e748a10005c3c8bf3
-ms.sourcegitcommit: b5f7da89a650d2915dc652449623c78be6247175
+ms.openlocfilehash: e91b159733a2ff01afecdbcfbb5ead854b853e56
+ms.sourcegitcommit: ef8d6b71fbd962fb3f7081b21724e67a91111a92
 ms.translationtype: MT
 ms.contentlocale: ar-SA
-ms.lasthandoff: 08/05/2021
-ms.locfileid: "54092256"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "60077201"
 ---
 # <a name="uk-domain-transfers"></a>عمليات نقل مجال uk.
 
-اتصل بدعم Microsoft واطلب تغيير **علامة IPS** لمطابقة جهة التسجيل التي تريد إدارة مجالك من الآن إلى الأمام. بعد تغيير العلامة، يتم نقل المجال مباشرة إلى جهة التسجيل الجديدة. ستحتاج بعد ذلك إلى العمل مع جهة التسجيل الجديدة لإكمال التحويل، مع فرض رسوم تحويل وإضافة المجال المنقول إلى حسابك مع جهة التسجيل الجديدة.
+تتطلب عمليات نقل المجالات في المملكة المتحدة علامة IPS الخاصة بالمسجل الجديد. يمكن إدخال علامة IPS في معالج نقل المجال في مدخل مسؤول Microsoft:
 
-لمزيد من المعلومات حول عمليات نقل المجالات، راجع نقل مجال [من Microsoft إلى مضيف آخر](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host?view=o365-worldwide).
+- انتقل إلى **الإعدادات**، وانقر نقرا مزدوجا فوق المجال  >  واختر **نقل المجال** لبدء معالج النقل.
 
-كن مستعدا لتوفير علامة IPS الخاصة جهة التسجيل الجديدة، والتي يمكن العثور عليها في https://registrars.nominet.uk/uk-namespace/registrar-agreement/list-of-registrars/ .
+بعد تغيير العلامة، يتم نقل المجال مباشرة إلى جهة التسجيل الجديدة. بعد ذلك، ستحتاج إلى العمل مع جهة التسجيل الجديدة لإكمال التحويل، مع دفع رسوم النقل على المرجح وإضافة المجال المنقول إلى حسابك مع جهة التسجيل الجديدة.
+
+لمزيد من المعلومات حول عمليات نقل المجالات، راجع نقل مجال [من Microsoft إلى مضيف آخر](https://docs.microsoft.com/microsoft-365/admin/get-help-with-domains/transfer-a-domain-from-microsoft-to-another-host).
